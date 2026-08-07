@@ -4,3 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 # 1.3GB FinanceBench clone (PDFs) — deliberately not committed, see CLAUDE.md
 financebench/
+
+# regenerable, ~210MB
+results/batch_requests/
+results/batch_raw/
