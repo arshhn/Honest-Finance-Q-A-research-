@@ -8,3 +8,4 @@ financebench/
 # regenerable, ~210MB
 results/batch_requests/
 results/batch_raw/
+data/prompts/
