@@ -119,10 +119,17 @@ def numeric_grade(gold: str, candidate: str, question: str = ""):
             interps.add(c_abs / qm)
     if "%" in (gold or "") and "%" not in (candidate or ""):
         interps |= {i * 100 for i in list(interps)}  # 0.051 for gold "5.1%"
+    if "%" in (candidate or "") and "%" not in (gold or "") and abs(g) < 1:
+        interps |= {i / 100 for i in list(interps)}  # candidate "1.42%" for gold "0.01"
+    # tolerance: 1% relative OR half a unit of the gold's last printed decimal
+    # (golds like "0.01" are rounded per the question's instruction — v1.4)
+    gm = _NUM_RE.search(gold)
+    gdigits = gm.group(0) if gm else ""
+    half_ulp = 0.5 * 10 ** -(len(gdigits.split(".")[1]) if "." in gdigits else 0)
     if g == 0:
-        return ("correct" if any(abs(i) < 1e-9 for i in interps) else "incorrect"), False
+        return ("correct" if any(abs(i) <= half_ulp for i in interps) else "incorrect"), False
     for i in interps:
-        if abs(i - g) / abs(g) <= 0.01:
+        if abs(i - g) / abs(g) <= 0.01 or abs(i - g) <= half_ulp:
             return "correct", False
     for i in interps:
         if i == 0 or (i > 0) != (g > 0):

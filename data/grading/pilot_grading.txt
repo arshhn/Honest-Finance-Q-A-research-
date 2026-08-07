@@ -1,0 +1,104 @@
+=== ITEM 0 ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: Yes. The quick ratio is 1.57, calculated as (cash and cash equivalents+Short term investments+Accounts receivable, net+receivables from related parties)/ (current liabilities).
+
+Candidate answer: Yes, AMD's liquidity profile is healthy in FY22. Quick ratio = (Cash and cash equivalents $4,835M + Short-term investments $1,020M + Accounts receivable, net $4,126M) / Total current liabilities $6,369M = $9,981M / $6,369M ≈ 1.57. A quick ratio above 1.0 indicates AMD can cover its current liabilities with its most liquid assets alone (excluding inventories), suggesting a solid, healthy short-term liquidity position.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM 1 ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: AES has converted inventory 9.5 times in FY 2022.
+
+Candidate answer: Using Total Cost of Sales as COGS ($10,069M for FY2022) and average inventory ($604M + $1,055M)/2 = $829.5M, inventory turnover ≈ 10,069 / 829.5 ≈ 12.1x for FY2022 (equivalently ~30 days of inventory on hand). However, this ratio is not very meaningful for AES in the conventional retail/manufacturing sense: AES is a power generation and utility holding company, so its "inventory" primarily consists of fuel (coal, gas, oil) and spare parts/materials used to generate electricity, not finished goods held for resale to customers. Electricity itself is not inventoried (it is generated and sold/consumed essentially simultaneously), so a turnover ratio built around goods "sold" doesn't capture the company's actual operating cycle the way it would for a retailer or manufacturer.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM 2 ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does Boeing's effective tax rate in FY2022 compare to FY2021?
+
+Gold answer: Effective tax rate in FY2022 was 0.62%, compared to  -14.76% in FY2021.
+
+Candidate answer: In FY2022, Boeing had income tax expense of $31M on a pretax loss of $5,022M (effective tax rate ≈ 0.6%, expense rather than benefit). In FY2021, Boeing had an income tax benefit of $743M on a pretax loss of $5,033M (effective tax rate ≈ 14.8% benefit). So the effective tax rate moved from roughly a 14.8% benefit in FY2021 to roughly a 0.6% expense in FY2022 — a much smaller (and reversed-direction) tax benefit/expense relative to the pretax loss.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM 4 ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: No. For AMCOR there has been a slight decline in gross margins by 0.8%.
+
+Candidate answer: No. Amcor's gross margin has declined, not improved. Gross margin was approximately 21.2% in FY2021 (2,732/12,861), 19.4% in FY2022 (2,820/14,544), and 18.5% in FY2023 (2,725/14,694). Despite net sales growing from $14,544 million in FY2022 to $14,694 million in FY2023, cost of sales grew faster (from $11,724 million to $11,969 million), so gross profit fell slightly (from $2,820 million to $2,725 million) and gross margin contracted by roughly 0.9 percentage points year-over-year, continuing a three-year downward trend.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM 5 ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+
+Gold answer: As of FY2022, Pepsico primarily operates in the following geographies: North America, Latin America, Europe, Africa, Middle East, South Asia, Asia Pacific, Australia, New Zealand and China.
+
+Candidate answer: As of FY2022, PepsiCo operates globally in more than 200 countries and territories, organized into seven reportable segments covering: (1) the United States and Canada (via FLNA, QFNA, and PBNA segments), (2) Latin America, (3) Europe, (4) Africa, Middle East and South Asia (AMESA), and (5) Asia Pacific, Australia and New Zealand and China Region (APAC).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM 6 ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?
+
+Gold answer: Yes, CVS Health has been involved in multiple ongoing legal battles. Some notable legal dispute areas for CVS are: (1) usual and customary pricing litigation: where it's claimed that CVSâs retail pharmacies overcharged for prescription drugs; (2) PBM litigation and investigations: where it's claimed that that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products; and (3) controlled substances litigation: legal matters around opioids for which CVS has agreed to pay up to $4.3 billion to claimants in remediation and $625 million to attorneys and fees
+
+Candidate answer: Yes. The document describes several materially significant ongoing legal matters spanning 2020-2022: (1) Usual and Customary Pricing Litigation - multiple lawsuits/putative class actions alleging retail pharmacies overcharged for prescription drugs; (2) PBM Litigation and Investigations - lawsuits by state Attorneys General and class actions over drug pricing/rebate arrangements, plus FTC and state AG investigations, and the Behnke qui tam action (unsealed 2018, ongoing); and (3) Controlled Substances (Opioid) Litigation - the largest matter, including the MDL (In re National Prescription Opiate Litigation) with hundreds of federal cases plus state cases; a November 2021 Ohio jury verdict leading to an August 2022 judgment of $651 million (being appealed, unaccrued); a March 2022 $484 million settlement with Florida; 2022 settlements with New Mexico, West Virginia, and the Cherokee Nation; and a December 2022 nationwide settlement framework with state AGs (up to ~$4.3 billion in remediation plus $625 million in fees) and a separate tribal settlement (up to $113 million plus $18 million in fees), both payable over 10 years from 2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM 7 ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?
+
+Gold answer: In 2022, AMD brought in the most cashflow from Operations
+
+Candidate answer: Operating activities, with net cash provided of $3,565 million in FY22, compared to $1,999 million provided by investing activities and $(3,264) million used in financing activities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

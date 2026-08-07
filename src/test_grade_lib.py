@@ -44,6 +44,11 @@ check("grade.scale-err", numeric_grade("$8.70", "8,738", Q_B), ("incorrect", Tru
 check("grade.pct", numeric_grade("5.1%", "5.1%", "capex ratio?"), ("correct", False))
 check("grade.pct-fraction", numeric_grade("5.1%", "0.051", "capex ratio?"), ("correct", False))
 check("grade.absolute-full", numeric_grade("$1577.00", "$1,577,000,000", Q_M), ("correct", False))
+# v1.4: rounded-fraction golds vs percent candidates (pilot audit finding)
+Q_ROA = "What is the FY2017 ROA? Round to two decimal places."
+check("grade.pct-vs-rounded-fraction", numeric_grade("0.01", "1.42%", Q_ROA), ("correct", False))
+check("grade.pct-vs-fraction-wrong", numeric_grade("0.01", "2.42%", Q_ROA), ("incorrect", False))
+check("grade.halfulp-not-too-loose", numeric_grade("5.1%", "5.4%", "ratio?"), ("incorrect", False))
 
 # --- M3
 check("m3.hit", m3_evidence_presence("$1,577 million", "Purchases of PP&E  (1,577)  x"), True)
