@@ -1,0 +1,1601 @@
+You are sitting an exam made of 12 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-00605-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Diluted earnings per share increased 33.5% to $24.01, including a $0.07 benefit due to
+income tax accounting for stock-based compensation, compared to $17.98 including a
+$0.13 benefit due to income tax accounting for stock-based compensation, in fiscal
+2021.
+Balance Sheet
+Cash and cash equivalents at the end of the fourth quarter of fiscal 2022 were $737.9
+million.
+Merchandise inventories, net at the end of the fourth quarter of fiscal 2022 totaled $1.6
+billion compared to $1.5 billion at the end of the fourth quarter of fiscal 2021. The $104.2
+million increase was primarily due to the opening of 47 new stores since January 29, 2022,
+inventory to support new brand launches and brand expansions, and inventory cost
+increases.
+Share Repurchase Program
+During the fourth quarter of fiscal 2022, the Company repurchased 722,457 shares of its
+common stock at a cost of $328.1 million. During fiscal 2022, the Company repurchased 2.2
+million shares of its common stock at a cost of $900.0 million. As of January 28, 2023, $1.1
+billion remained available under the $2.0 billion share repurchase program announced in
+March 2022.
+Store Update
+Real estate activity in the fourth quarter of fiscal 2022 included 12 new stores located in
+Garden Grove, CA; Glendale, AZ; Hartsdale, NY; Hollister, CA; Indianapolis, IN; Liverpool,
+NY; Nanuet, NY; Oklahoma City, OK; Richmond, TX; Rock Springs, WY; Tullahoma, TN;
+and Woburn, MA. In addition, the Company relocated one store and remodeled 12 stores.
+During fiscal 2022, the Company opened 47 new stores, relocated 12 stores, and remodeled
+20 stores.
+At the end of the fourth quarter of fiscal 2022, the Company operated 1,355 stores totaling
+14.2 million square feet.
+Fiscal 2023 Outlook
+For fiscal 2023, the Company plans to:
+ 
+ 
+ 
+ 
+ 
+FY23 Outlook
+Net sales
+ 
+ 
+$10.95 billion to $11.05 billion
+Comparable sales
+ 
+ 
+4% to 5%
+New stores, net
+ 
+ 
+25-30
+Remodel and relocation projects
+ 
+ 
+20-30
+Operating margin
+ 
+ 
+14.7% to 15.0%
+Diluted earnings per share
+ 
+ 
+$24.70 to $25.40
+Share repurchases
+ 
+ 
+approximately $900 million
+Effective tax rate
+ 
+ 
+approximately 24.6%
+Capital expenditures
+ 
+ 
+$400 million to $475 million
+Depreciation and amortization expense
+ 
+ 
+$245 million to $250 million
+
+Question: What percent of Ulta Beauty's total spend on stock repurchases for FY 2023 occurred in Q4 of FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-00603-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Diluted earnings per share increased 33.5% to $24.01, including a $0.07 benefit due to
+income tax accounting for stock-based compensation, compared to $17.98 including a
+$0.13 benefit due to income tax accounting for stock-based compensation, in fiscal
+2021.
+Balance Sheet
+Cash and cash equivalents at the end of the fourth quarter of fiscal 2022 were $737.9
+million.
+Merchandise inventories, net at the end of the fourth quarter of fiscal 2022 totaled $1.6
+billion compared to $1.5 billion at the end of the fourth quarter of fiscal 2021. The $104.2
+million increase was primarily due to the opening of 47 new stores since January 29, 2022,
+inventory to support new brand launches and brand expansions, and inventory cost
+increases.
+Share Repurchase Program
+During the fourth quarter of fiscal 2022, the Company repurchased 722,457 shares of its
+common stock at a cost of $328.1 million. During fiscal 2022, the Company repurchased 2.2
+million shares of its common stock at a cost of $900.0 million. As of January 28, 2023, $1.1
+billion remained available under the $2.0 billion share repurchase program announced in
+March 2022.
+Store Update
+Real estate activity in the fourth quarter of fiscal 2022 included 12 new stores located in
+Garden Grove, CA; Glendale, AZ; Hartsdale, NY; Hollister, CA; Indianapolis, IN; Liverpool,
+NY; Nanuet, NY; Oklahoma City, OK; Richmond, TX; Rock Springs, WY; Tullahoma, TN;
+and Woburn, MA. In addition, the Company relocated one store and remodeled 12 stores.
+During fiscal 2022, the Company opened 47 new stores, relocated 12 stores, and remodeled
+20 stores.
+At the end of the fourth quarter of fiscal 2022, the Company operated 1,355 stores totaling
+14.2 million square feet.
+Fiscal 2023 Outlook
+For fiscal 2023, the Company plans to:
+ 
+ 
+ 
+ 
+ 
+FY23 Outlook
+Net sales
+ 
+ 
+$10.95 billion to $11.05 billion
+Comparable sales
+ 
+ 
+4% to 5%
+New stores, net
+ 
+ 
+25-30
+Remodel and relocation projects
+ 
+ 
+20-30
+Operating margin
+ 
+ 
+14.7% to 15.0%
+Diluted earnings per share
+ 
+ 
+$24.70 to $25.40
+Share repurchases
+ 
+ 
+approximately $900 million
+Effective tax rate
+ 
+ 
+approximately 24.6%
+Capital expenditures
+ 
+ 
+$400 million to $475 million
+Depreciation and amortization expense
+ 
+ 
+$245 million to $250 million
+
+Question: What drove the increase in Ulta Beauty's merchandise inventories balance at end of FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-00799-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Amcor plc and Subsidiaries
+Consolidated Balance Sheets
+($ in millions, except share and per share data)
+As of June 30,
+2023
+2022
+Assets
+Current assets:
+Cash and cash equivalents
+$
+689 
+$
+775 
+Trade receivables, net of allowance for credit losses of $21 and $25, respectively
+1,875 
+1,935 
+Inventories, net
+Raw materials and supplies
+992 
+1,114 
+Work in process and finished goods
+1,221 
+1,325 
+Prepaid expenses and other current assets
+531 
+512 
+Assets held for sale, net
+ 
+192 
+Total current assets
+5,308 
+5,853 
+Non-current assets:
+Property, plant, and equipment, net
+3,762 
+3,646 
+Operating lease assets
+533 
+560 
+Deferred tax assets
+134 
+130 
+Other intangible assets, net
+1,524 
+1,657 
+Goodwill
+5,366 
+5,285 
+Employee benefit assets
+67 
+89 
+Other non-current assets
+309 
+206 
+Total non-current assets
+11,695 
+11,573 
+Total assets
+$
+17,003 
+$
+17,426 
+Liabilities
+Current liabilities:
+Current portion of long-term debt
+$
+13 
+$
+14 
+Short-term debt
+80 
+136 
+Trade payables
+2,690 
+3,073 
+Accrued employee costs
+396 
+471 
+Other current liabilities
+1,297 
+1,344 
+Liabilities held for sale
+ 
+65 
+Total current liabilities
+4,476 
+5,103 
+Non-current liabilities:
+Long-term debt, less current portion
+6,653 
+6,340 
+Operating lease liabilities
+463 
+493 
+Deferred tax liabilities
+616 
+677 
+Employee benefit obligations
+224 
+201 
+Other non-current liabilities
+481 
+471 
+Total non-current liabilities
+8,437 
+8,182 
+Total liabilities
+$
+12,913 
+$
+13,285 
+Commitments and contingencies (See Note 20)
+Shareholders' Equity
+Amcor plc shareholders equity:
+Ordinary shares ($0.01 par value):
+Authorized (9,000 million shares)
+Issued (1,448 and 1,489 million shares, respectively)
+$
+14 
+$
+15 
+Additional paid-in capital
+4,021 
+4,431 
+Retained earnings
+865 
+534 
+Accumulated other comprehensive loss
+(862)
+(880)
+Treasury shares (1 and 2 million shares, respectively)
+(12)
+(18)
+Total Amcor plc shareholders' equity
+4,026 
+4,082 
+Non-controlling interests
+64 
+59 
+Total shareholders' equity
+4,090 
+4,141 
+Total liabilities and shareholders' equity
+$
+17,003 
+$
+17,426 
+See accompanying notes to consolidated financial statements.
+52
+
+Question: Between FY2022 and FY2023, did AMCOR's quick ratio go up or down? If a financial analyst wouldn't typically consider the quick ratio relevant for a company of this type, please note that and give your reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-00302-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Consolidated Balance Sheets
+Pfizer Inc. and Subsidiary Companies
+As of December 31,
+(MILLIONS, EXCEPT PER COMMON SHARE DATA)
+2021
+2020
+Assets
+Cash and cash equivalents
+$
+1,944 
+$
+1,786 
+Short-term investments
+29,125 
+10,437 
+Trade accounts receivable, less allowance for doubtful accounts: 2021$492; 2020$508
+11,479 
+7,913 
+Inventories
+9,059 
+8,020 
+Current tax assets
+4,266 
+3,264 
+Other current assets
+3,820 
+3,646 
+Total current assets
+59,693 
+35,067 
+Equity-method investments
+16,472 
+16,856 
+Long-term investments
+5,054 
+3,406 
+Property, plant and equipment
+14,882 
+13,745 
+Identifiable intangible assets
+25,146 
+28,337 
+Goodwill
+49,208 
+49,556 
+Noncurrent deferred tax assets and other noncurrent tax assets
+3,341 
+2,383 
+Other noncurrent assets
+7,679 
+4,879 
+Total assets
+$
+181,476 
+$
+154,229 
+Liabilities and Equity
+ 
+ 
+Short-term borrowings, including current portion of long-term debt: 2021$1,636; 2020$2,002
+$
+2,241 
+$
+2,703 
+Trade accounts payable
+5,578 
+4,283 
+Dividends payable
+2,249 
+2,162 
+Income taxes payable
+1,266 
+1,049 
+Accrued compensation and related items
+3,332 
+3,049 
+Deferred revenues
+3,067 
+1,113 
+Other current liabilities
+24,939 
+11,561 
+Total current liabilities
+42,671 
+25,920 
+Long-term debt
+36,195 
+37,133 
+Pension benefit obligations
+3,489 
+4,766 
+Postretirement benefit obligations
+235 
+645 
+Noncurrent deferred tax liabilities
+349 
+4,063 
+Other taxes payable
+11,331 
+11,560 
+Other noncurrent liabilities
+9,743 
+6,669 
+Total liabilities
+104,013 
+90,756 
+Commitments and Contingencies
+Preferred stock, no par value, at stated value; 27 shares authorized; no shares issued or outstanding at December 31, 2021 and
+December 31, 2020
+ 
+ 
+Common stock, $0.05 par value; 12,000 shares authorized; issued: 20219,471; 20209,407
+473 
+470 
+Additional paid-in capital
+90,591 
+88,674 
+Treasury stock, shares at cost: 20213,851; 20203,840
+(111,361)
+(110,988)
+Retained earnings
+103,394 
+90,392 
+Accumulated other comprehensive loss
+(5,897)
+(5,310)
+Total Pfizer Inc. shareholders equity
+77,201 
+63,238 
+Equity attributable to noncontrolling interests
+262 
+235 
+Total equity
+77,462 
+63,473 
+Total liabilities and equity
+$
+181,476 
+$
+154,229 
+See Accompanying Notes.
+Pfizer Inc.
+2021 Form 10-K
+53
+
+Question: Between fiscal years 2020 and 2021, did Pfizer's PP&E increase?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-00005-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+ 
+Consolidated Balance Sheets
+Corning Incorporated and Subsidiary Companies
+ 
+ 
+ 
+December 31,
+ 
+(in millions, except share and per share amounts)
+ 
+2022
+ 
+2021
+ 
+ 
+ 
+ 
+ 
+Assets
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Current assets:
+ 
+ 
+ 
+Cash and cash equivalents
+ $
+1,671 $
+2,148 
+Trade accounts receivable, net of doubtful accounts - $40 and $42
+ 
+1,721 
+2,004 
+Inventories (Note 5)
+ 
+2,904 
+2,481 
+Other current assets (Notes 10 and 14)
+ 
+1,157 
+1,026 
+Total current assets
+ 
+7,453 
+7,659 
+ 
+ 
+ 
+ 
+Property, plant and equipment, net of accumulated depreciation - $14,147 and $13,969 (Note 8)
+ 
+15,371 
+15,804 
+Goodwill, net (Note 9)
+ 
+2,394 
+2,421 
+Other intangible assets, net (Note 9)
+ 
+1,029 
+1,148 
+Deferred income taxes (Note 7)
+ 
+1,073 
+1,066 
+Other assets (Notes 10 and 14)
+ 
+2,179 
+2,056 
+ 
+ 
+ 
+ 
+Total Assets
+ $
+29,499 $
+30,154 
+ 
+ 
+ 
+ 
+Liabilities and Equity
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Current liabilities:
+ 
+ 
+ 
+Current portion of long-term debt and short-term borrowings (Note 11)
+ $
+224 $
+55 
+Accounts payable
+ 
+1,804 
+1,612 
+Other accrued liabilities (Notes 10 and 13)
+ 
+3,147 
+3,139 
+Total current liabilities
+ 
+5,175 
+4,806 
+ 
+ 
+ 
+ 
+Long-term debt (Note 11)
+ 
+6,687 
+6,989 
+Postretirement benefits other than pensions (Note 12)
+ 
+407 
+622 
+Other liabilities (Notes 10 and 13)
+ 
+4,955 
+5,192 
+Total liabilities
+ 
+17,224 
+17,609 
+ 
+ 
+ 
+ 
+Commitments and contingencies (Note 13)
+ 
+ 
+ 
+Shareholders equity (Note 16):
+ 
+ 
+ 
+Common stock Par value $0.50 per share; Shares authorized 3.8 billion; Shares issued: 1.8 billion and 1.8
+billion
+ 
+910 
+907 
+Additional paid-in capital common stock
+ 
+16,682 
+16,475 
+Retained earnings
+ 
+16,778 
+16,389 
+Treasury stock, at cost; Shares held: 977 million and 970 million
+ 
+(20,532) 
+(20,263)
+Accumulated other comprehensive loss
+ 
+(1,830) 
+(1,175)
+Total Corning Incorporated shareholders equity
+ 
+12,008 
+12,333 
+Non-controlling interest
+ 
+267 
+212 
+Total equity
+ 
+12,275 
+12,545 
+ 
+ 
+ 
+ 
+Total Liabilities and Equity
+ $
+29,499 $
+30,154 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+60
+
+Question: Based on the FY2022 figures, did Corning maintain positive working capital? Should working capital not be a meaningful or applicable metric for this company, please indicate that and provide your reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-03882-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Amcor plc and Subsidiaries
+Consolidated Balance Sheet
+(in millions)
+As of June 30,
+2020
+2019
+Assets
+Current assets:
+Cash and cash equivalents
+$
+742.6 
+$
+601.6 
+Trade receivables, net
+1,615.9 
+1,864.3 
+Inventories, net
+1,831.9 
+1,953.8 
+Prepaid expenses and other current assets
+344.3 
+374.3 
+Assets held for sale
+ 
+416.1 
+Total current assets
+4,534.7 
+5,210.1 
+Non-current assets:
+Investments in affiliated companies
+77.7 
+98.9 
+Property, plant and equipment, net
+3,614.8 
+3,975.0 
+Operating lease assets
+525.3 
+ 
+Deferred tax assets
+135.4 
+190.9 
+Other intangible assets, net
+1,994.3 
+2,306.8 
+Goodwill
+5,339.3 
+5,156.0 
+Employee benefit assets
+43.4 
+40.2 
+Other non-current assets
+177.2 
+187.1 
+Total non-current assets
+11,907.4 
+11,954.9 
+Total assets
+$
+16,442.1 
+$
+17,165.0 
+Liabilities
+Current liabilities:
+Current portion of long-term debt
+$
+11.1 
+$
+5.4 
+Short-term debt
+195.2 
+788.8 
+Trade payables
+2,170.8 
+2,303.4 
+Accrued employee costs
+476.5 
+378.4 
+Other current liabilities
+1,120.0 
+1,044.9 
+Liabilities held for sale
+ 
+20.9 
+Total current liabilities
+3,973.6 
+4,541.8 
+Non-current liabilities:
+Long-term debt, less current portion
+6,028.4 
+5,309.0 
+Operating lease liabilities
+465.7 
+ 
+Deferred tax liabilities
+672.4 
+1,011.7 
+Employee benefit obligations
+391.7 
+386.8 
+Other non-current liabilities
+223.2 
+241.0 
+Total non-current liabilities
+7,781.4 
+6,948.5 
+Total liabilities
+11,755.0 
+11,490.3 
+Commitments and contingencies (See Note 19)
+Shareholders' Equity
+Amcor plc shareholders equity:
+Ordinary shares ($0.01 par value):
+Authorized (9,000.0 shares)
+Issued (1,568.5 and 1,625.9 shares, respectively)
+15.7 
+16.3 
+Additional paid-in capital
+5,480.0 
+6,007.5 
+Retained earnings
+246.5 
+323.7 
+Accumulated other comprehensive income (loss)
+(1,049.3)
+(722.4)
+Treasury shares (6.7 and 1.4 shares, respectively)
+(67.0)
+(16.1)
+Total Amcor plc shareholders' equity
+4,625.9 
+5,609.0 
+Non-controlling interest
+61.2 
+65.7 
+Total shareholders' equity
+4,687.1 
+5,674.7 
+Total liabilities and shareholders' equity
+$
+16,442.1 
+$
+17,165.0 
+See accompanying notes to consolidated financial statements.
+50
+
+Question: Looking only at the balance sheet, what net accounts receivable figure did Amcor report at the close of fiscal year 2020, expressed in millions of US dollars?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-00302-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Consolidated Balance Sheets
+Pfizer Inc. and Subsidiary Companies
+As of December 31,
+(MILLIONS, EXCEPT PER COMMON SHARE DATA)
+2021
+2020
+Assets
+Cash and cash equivalents
+$
+1,944 
+$
+1,786 
+Short-term investments
+29,125 
+10,437 
+Trade accounts receivable, less allowance for doubtful accounts: 2021$492; 2020$508
+11,479 
+7,913 
+Inventories
+9,059 
+8,020 
+Current tax assets
+4,266 
+3,264 
+Other current assets
+3,820 
+3,646 
+Total current assets
+59,693 
+35,067 
+Equity-method investments
+16,472 
+16,856 
+Long-term investments
+5,054 
+3,406 
+Property, plant and equipment
+14,882 
+13,745 
+Identifiable intangible assets
+25,146 
+28,337 
+Goodwill
+49,208 
+49,556 
+Noncurrent deferred tax assets and other noncurrent tax assets
+3,341 
+2,383 
+Other noncurrent assets
+7,679 
+4,879 
+Total assets
+$
+181,476 
+$
+154,229 
+Liabilities and Equity
+ 
+ 
+Short-term borrowings, including current portion of long-term debt: 2021$1,636; 2020$2,002
+$
+2,241 
+$
+2,703 
+Trade accounts payable
+5,578 
+4,283 
+Dividends payable
+2,249 
+2,162 
+Income taxes payable
+1,266 
+1,049 
+Accrued compensation and related items
+3,332 
+3,049 
+Deferred revenues
+3,067 
+1,113 
+Other current liabilities
+24,939 
+11,561 
+Total current liabilities
+42,671 
+25,920 
+Long-term debt
+36,195 
+37,133 
+Pension benefit obligations
+3,489 
+4,766 
+Postretirement benefit obligations
+235 
+645 
+Noncurrent deferred tax liabilities
+349 
+4,063 
+Other taxes payable
+11,331 
+11,560 
+Other noncurrent liabilities
+9,743 
+6,669 
+Total liabilities
+104,013 
+90,756 
+Commitments and Contingencies
+Preferred stock, no par value, at stated value; 27 shares authorized; no shares issued or outstanding at December 31, 2021 and
+December 31, 2020
+ 
+ 
+Common stock, $0.05 par value; 12,000 shares authorized; issued: 20219,471; 20209,407
+473 
+470 
+Additional paid-in capital
+90,591 
+88,674 
+Treasury stock, shares at cost: 20213,851; 20203,840
+(111,361)
+(110,988)
+Retained earnings
+103,394 
+90,392 
+Accumulated other comprehensive loss
+(5,897)
+(5,310)
+Total Pfizer Inc. shareholders equity
+77,201 
+63,238 
+Equity attributable to noncontrolling interests
+262 
+235 
+Total equity
+77,462 
+63,473 
+Total liabilities and equity
+$
+181,476 
+$
+154,229 
+See Accompanying Notes.
+Pfizer Inc.
+2021 Form 10-K
+53
+
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-04660-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 
+SQUARE,INC.
+CONSOLIDATEDBALANCESHEETS
+(In thousands, except share and per share data)
+
+December31,
+
+2016
+
+2015
+Assets
+
+ 
+Currentassets:
+
+ 
+Cashandcashequivalents
+$
+452,030 $
+461,329
+Short-terminvestments
+59,901 
+
+Restrictedcash
+22,131 
+13,537
+Settlementsreceivable
+321,102 
+142,727
+Customerfundsheld
+43,574 
+9,446
+Loansheldforsale
+42,144 
+604
+Merchantcashadvancereceivable,net
+4,212 
+36,473
+Othercurrentassets
+56,331 
+41,447
+Totalcurrentassets
+1,001,425 
+705,563
+Propertyandequipment,net
+88,328 
+87,222
+Goodwill
+57,173 
+56,699
+Acquiredintangibleassets,net
+19,292 
+26,776
+Long-terminvestments
+27,366 
+
+Restrictedcash
+14,584 
+14,686
+Otherassets
+3,194 
+3,826
+Totalassets
+$
+1,211,362 $
+894,772
+LiabilitiesandStockholdersEquity
+
+ 
+Currentliabilities:
+
+ 
+Accountspayable
+$
+12,602 $
+18,869
+Customerspayable
+388,058 
+215,365
+Customerfundsobligation
+43,574 
+9,446
+Accruedtransactionlosses
+20,064 
+17,176
+Accruedexpenses
+39,543 
+44,401
+Othercurrentliabilities
+73,623 
+28,945
+Totalcurrentliabilities
+577,464 
+334,202
+Debt(Note11)
+ 
+
+Otherliabilities
+57,745 
+52,522
+Totalliabilities
+635,209 
+386,724
+Commitmentsandcontingencies(Note16)
+
+Stockholdersequity:
+ 
+Preferredstock,$0.0000001parvalue:100,000,000sharesauthorizedatDecember31,2016andDecember31,2015.None
+issuedandoutstandingatDecember31,2016andDecember31,2015.
+ 
+
+ClassAcommonstock,$0.0000001parvalue:1,000,000,000sharesauthorizedatDecember31,2016andDecember31,2015;
+198,746,620and31,717,133issuedandoutstandingatDecember31,2016andDecember31,2015,respectively.
+ 
+
+ClassBcommonstock,$0.0000001parvalue:500,000,000sharesauthorizedatDecember31,2016andDecember31,2015;
+165,800,756and303,232,312issuedandoutstandingatDecember31,2016andDecember31,2015,respectively.
+ 
+
+Additionalpaid-incapital
+1,357,381 
+1,116,882
+Accumulatedothercomprehensiveloss
+(1,989) 
+(1,185)
+Accumulateddeficit
+(779,239) 
+(607,649)
+Totalstockholdersequity
+576,153 
+508,048
+Totalliabilitiesandstockholdersequity
+$
+1,211,362 $
+894,772
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+68
+
+Question: Using the balance sheet figures, calculate Block's (previously Square) working capital ratio for fiscal year 2016, where the ratio equals total current assets divided by total current liabilities, and provide the result rounded to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-01476-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PepsiCo Reports First-Quarter 2023 Results; Raises Full-Year 
+Guidance
+Reported (GAAP) First-Quarter 2023 Results
+First-Quarter
+Net revenue growth
+10.2%
+Foreign exchange impact on net revenue
+(2.5)%
+Earnings per share (EPS)
+$1.40
+EPS change
+(54)%
+Foreign exchange impact on EPS
+(2)%
+Organic/Core (non-GAAP)1 First-Quarter 2023 Results
+First-Quarter
+Organic revenue growth
+14.3%
+Core EPS
+$1.50
+Core constant currency EPS change
+18%
+PURCHASE, N.Y. - April 25, 2023 - PepsiCo, Inc. (NASDAQ: PEP) today reported results for 
+the first quarter 2023. 
+We are very pleased with our performance and business momentum as our categories and 
+geographies remained resilient during the first quarter. Given our strong start to the year, we 
+now expect our full-year 2023 organic revenue to increase 8 percent (previously 6 percent) and 
+core constant currency EPS to increase 9 percent (previously 8 percent), said Chairman and 
+CEO Ramon Laguarta.
+Laguarta continued, Our results demonstrate that the investments we have made to become an 
+even Faster, even Stronger, and even Better organization by Winning with pep+ are laying the 
+foundation for durable and sustainable growth. We remain committed to our strategic agenda 
+and will continue to invest in our people, brands, supply chain, go-to-market systems, and 
+digitization initiatives to build competitive advantages and win in the marketplace.
+1 Please refer to the Glossary for the definitions of non-GAAP financial measures, including Organic revenue growth, Core and Constant currency, 
+and to Guidance and Outlook for additional information regarding PepsiCos full-year 2023 financial guidance. PepsiCo provides guidance on a non-
+GAAP basis as we cannot predict certain elements which are included in reported GAAP results, including the impact of foreign exchange and 
+commodity mark-to-market net impacts. Please refer to PepsiCos Quarterly Report on Form 10-Q for the 12 weeks ended March 25, 2023 (Q1 2023 
+Form 10-Q) filed with the Securities and Exchange Commission (SEC) for additional information regarding PepsiCos financial results.
+1
+
+Question: For the first quarter of fiscal year 2023, by how many percentage points did Pepsico increase its full-year outlook for core constant-currency EPS growth?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-01476-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PepsiCo Reports First-Quarter 2023 Results; Raises Full-Year 
+Guidance
+Reported (GAAP) First-Quarter 2023 Results
+First-Quarter
+Net revenue growth
+10.2%
+Foreign exchange impact on net revenue
+(2.5)%
+Earnings per share (EPS)
+$1.40
+EPS change
+(54)%
+Foreign exchange impact on EPS
+(2)%
+Organic/Core (non-GAAP)1 First-Quarter 2023 Results
+First-Quarter
+Organic revenue growth
+14.3%
+Core EPS
+$1.50
+Core constant currency EPS change
+18%
+PURCHASE, N.Y. - April 25, 2023 - PepsiCo, Inc. (NASDAQ: PEP) today reported results for 
+the first quarter 2023. 
+We are very pleased with our performance and business momentum as our categories and 
+geographies remained resilient during the first quarter. Given our strong start to the year, we 
+now expect our full-year 2023 organic revenue to increase 8 percent (previously 6 percent) and 
+core constant currency EPS to increase 9 percent (previously 8 percent), said Chairman and 
+CEO Ramon Laguarta.
+Laguarta continued, Our results demonstrate that the investments we have made to become an 
+even Faster, even Stronger, and even Better organization by Winning with pep+ are laying the 
+foundation for durable and sustainable growth. We remain committed to our strategic agenda 
+and will continue to invest in our people, brands, supply chain, go-to-market systems, and 
+digitization initiatives to build competitive advantages and win in the marketplace.
+1 Please refer to the Glossary for the definitions of non-GAAP financial measures, including Organic revenue growth, Core and Constant currency, 
+and to Guidance and Outlook for additional information regarding PepsiCos full-year 2023 financial guidance. PepsiCo provides guidance on a non-
+GAAP basis as we cannot predict certain elements which are included in reported GAAP results, including the impact of foreign exchange and 
+commodity mark-to-market net impacts. Please refer to PepsiCos Quarterly Report on Form 10-Q for the 12 weeks ended March 25, 2023 (Q1 2023 
+Form 10-Q) filed with the Securities and Exchange Commission (SEC) for additional information regarding PepsiCos financial results.
+1
+
+Question: As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-00552-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PART II
+Item 8
+ 
+BALANCE SHEETS 
+ 
+(In millions)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 30,
+ 
+2023 
+2022 
+ 
+ 
+ 
+Assets
+ 
+ 
+ 
+Current assets:
+ 
+ 
+ 
+Cash and cash equivalents
+ $
+34,704 $
+13,931 
+Short-term investments
+ 
+76,558 
+90,826 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total cash, cash equivalents, and short-term investments
+ 
+111,262 
+104,757 
+Accounts receivable, net of allowance for doubtful accounts of $650 and $633
+ 
+48,688 
+44,261 
+Inventories
+ 
+2,500 
+3,742 
+Other current assets
+ 
+21,807 
+16,924 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total current assets
+ 
+184,257 
+169,684 
+Property and equipment, net of accumulated depreciation of $68,251 and $59,660
+ 
+95,641 
+74,398 
+Operating lease right-of-use assets
+ 
+14,346 
+13,148 
+Equity investments
+ 
+9,879 
+6,891 
+Goodwill
+ 
+67,886 
+67,524 
+Intangible assets, net
+ 
+9,366 
+11,298 
+Other long-term assets
+ 
+30,601 
+21,897 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total assets
+ $
+411,976 $
+364,840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Liabilities and stockholders equity
+ 
+ 
+ 
+Current liabilities:
+ 
+ 
+ 
+Accounts payable
+ $
+18,095 $
+19,000 
+Current portion of long-term debt
+ 
+5,247 
+2,749 
+Accrued compensation
+ 
+11,009 
+10,661 
+Short-term income taxes
+ 
+4,152 
+4,067 
+Short-term unearned revenue
+ 
+50,901 
+45,538 
+Other current liabilities
+ 
+14,745 
+13,067 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total current liabilities
+ 
+104,149 
+95,082 
+Long-term debt
+ 
+41,990 
+47,032 
+Long-term income taxes
+ 
+25,560 
+26,069 
+Long-term unearned revenue
+ 
+2,912 
+2,870 
+Deferred income taxes
+ 
+433 
+230 
+Operating lease liabilities
+ 
+12,728 
+11,489 
+Other long-term liabilities
+ 
+17,981 
+15,526 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total liabilities
+ 
+205,753 
+198,298 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Commitments and contingencies
+ 
+ 
+ 
+Stockholders equity:
+ 
+ 
+ 
+Common stock and paid-in capital shares authorized 24,000; outstanding 7,432 and 7,464
+ 
+93,718 
+86,939 
+Retained earnings
+ 
+118,848 
+84,281 
+Accumulated other comprehensive loss
+ 
+(6,343) 
+(4,678)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total stockholders equity
+ 
+206,223 
+166,542 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total liabilities and stockholders equity
+ $
+411,976 $
+364,840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Refer to accompanying notes. 
+60
+
+Question: Has Microsoft increased its debt on balance sheet between FY2023 and the FY2022 period?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 12 | id=fb-01474-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PepsiCo Reports First-Quarter 2023 Results; Raises Full-Year 
+Guidance
+Reported (GAAP) First-Quarter 2023 Results
+First-Quarter
+Net revenue growth
+10.2%
+Foreign exchange impact on net revenue
+(2.5)%
+Earnings per share (EPS)
+$1.40
+EPS change
+(54)%
+Foreign exchange impact on EPS
+(2)%
+Organic/Core (non-GAAP)1 First-Quarter 2023 Results
+First-Quarter
+Organic revenue growth
+14.3%
+Core EPS
+$1.50
+Core constant currency EPS change
+18%
+PURCHASE, N.Y. - April 25, 2023 - PepsiCo, Inc. (NASDAQ: PEP) today reported results for 
+the first quarter 2023. 
+We are very pleased with our performance and business momentum as our categories and 
+geographies remained resilient during the first quarter. Given our strong start to the year, we 
+now expect our full-year 2023 organic revenue to increase 8 percent (previously 6 percent) and 
+core constant currency EPS to increase 9 percent (previously 8 percent), said Chairman and 
+CEO Ramon Laguarta.
+Laguarta continued, Our results demonstrate that the investments we have made to become an 
+even Faster, even Stronger, and even Better organization by Winning with pep+ are laying the 
+foundation for durable and sustainable growth. We remain committed to our strategic agenda 
+and will continue to invest in our people, brands, supply chain, go-to-market systems, and 
+digitization initiatives to build competitive advantages and win in the marketplace.
+1 Please refer to the Glossary for the definitions of non-GAAP financial measures, including Organic revenue growth, Core and Constant currency, 
+and to Guidance and Outlook for additional information regarding PepsiCos full-year 2023 financial guidance. PepsiCo provides guidance on a non-
+GAAP basis as we cannot predict certain elements which are included in reported GAAP results, including the impact of foreign exchange and 
+commodity mark-to-market net impacts. Please refer to PepsiCos Quarterly Report on Form 10-Q for the 12 weeks ended March 25, 2023 (Q1 2023 
+Form 10-Q) filed with the Securities and Exchange Commission (SEC) for additional information regarding PepsiCos financial results.
+1
+
+Question: For the first quarter of fiscal year 2023, what was the reason Pepsico increased its guidance for the entire FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

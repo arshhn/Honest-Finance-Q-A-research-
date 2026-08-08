@@ -1,0 +1,1175 @@
+You are sitting an exam made of 8 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-02419-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: ITEM 2. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+GENERAL
+The following MD&A is intended to assist the reader in understanding our financial condition and results of operations, including an evaluation of the amounts
+and certainty of cash flows from operations and from outside sources, and is provided as a supplement to and should be read in conjunction with the condensed
+consolidated financial statements and related notes in Item 1. Financial Statements in this Form 10-Q.
+References to operational variances pertain to period-over-period changes that exclude the impact of foreign exchange rates. Although foreign exchange rate
+changes are part of our business, they are not within our control and because they can mask positive or negative trends in the business, we believe presenting
+operational variances excluding these foreign exchange changes provides useful information to evaluate our results.
+OVERVIEW OF OUR PERFORMANCE, OPERATING ENVIRONMENT, STRATEGY AND OUTLOOK
+Our Business and StrategyPfizer Inc. is a research-based, global biopharmaceutical company. We apply science and our global resources to bring therapies
+to people that extend and significantly improve their lives. In 2023, we are making additional investments in both R&D and SI&A to support Pfizers near- and
+longer-term growth plans, including to support anticipated new launches, commercial launch of COVID-19 products, potential pipeline programs and recently
+acquired assets. We manage our commercial operations through a global structure consisting of two operating segments: Biopharma and Business Innovation.
+Biopharma is the only reportable segment. See Note 13A.
+We expect to incur costs of approximately $700 million in connection with separating Upjohn, of which approximately 90% has been incurred since inception
+and through the second quarter of 2023. These charges include costs and expenses related to separation of legal entities and transaction costs.
+In the fourth quarter of 2022, we began taking steps through our Transforming to a More Focused Company restructuring program to optimize our end-to-end
+R&D operations to reduce costs and cycle times as well as to further prioritize our internal R&D portfolio in areas where our capabilities are differentiated
+while increasing external innovation efforts to leverage an expanding and productive biotech sector. See Note 3. For a description of savings related to this
+program, see the Costs and ExpensesRestructuring Charges and Other Costs Associated with Acquisitions and Cost-Reduction/Productivity Initiatives
+section within MD&A.
+In July 2023, we announced that in consideration of planned future investments in oncology, including the proposed acquisition of Seagen, we are reorganizing
+how our R&D operations are conducted. Beginning in July 2023, discovery to early- and late-phase clinical development for oncology will be performed by a
+new end-to-end Oncology Research and Development platform function and discovery to early- and late-phase clinical development for all remaining
+therapeutic areas will be consolidated in the Pfizer Research and Development platform function.
+For additional information about our business, strategy and operating environment, see the Item 1. Business section and Overview of Our Performance,
+Operating Environment, Strategy and Outlook section within MD&A of our 2022 Form 10-K.
+Our Business Development InitiativesWe are committed to strategically capitalizing on growth opportunities, primarily by advancing our own product
+pipeline and maximizing the value of our existing products, but also through various business development activities. Our significant recent business
+development activities include the transactions discussed in Notes 1A and 2, including the proposed acquisition of Seagen, as well as the following:
+Proposed Divestiture of Early-Stage Rare Disease Gene Therapy PortfolioIn July 2023, we entered into an agreement with Alexion, a subsidiary of
+AstraZeneca plc, under which Alexion will purchase and license the assets of our early-stage rare disease gene therapy portfolio. This agreement is consistent
+with our previously announced strategy to pivot from viral capsid-based gene therapy approaches to harnessing new platform technologies that we believe can
+have a transformative impact on patients, such as mRNA or in vivo gene editing. Under the terms of the agreement, Alexion will pay us total consideration of
+up to $1 billion, plus tiered royalties based on annual net sales of the assets. The transaction is expected to close in the third quarter of 2023, subject to
+customary closing conditions.
+Agreement with Flagship Pioneering, Inc. (Flagship)In July 2023, we and Flagship announced that we have partnered to create a new pipeline of innovative
+medicines. Under the terms of the novel agreement, we and Flagship will each invest $50 million upfront to explore opportunities to develop 10 single-asset
+programs by leveraging Flagships ecosystem of more than 40 human health companies and multiple biotechnology platforms. Pfizer will fund and have an
+option to acquire each selected development program. Flagship and its bioplatform companies will be eligible to receive up to $700 million in milestones and
+royalties for each successfully commercialized program.
+38
+
+Question: As of Q2'2023, is Pfizer spinning off any large business segments?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-03856-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+57
+ ADOBE SYSTEMS INCORPORATED
+ CONSOLIDATED BALANCE SHEETS
+(In thousands, except par value)
+ 
+December 1,
+2017
+December 2,
+2016
+ASSETS
+Current assets:
+ 
+ 
+Cash and cash equivalents
+$
+2,306,072
+$
+1,011,315
+Short-term investments
+3,513,702
+3,749,985
+Trade receivables, net of allowances for doubtful accounts of $9,151 and $6,214, respectively
+1,217,968
+833,033
+Prepaid expenses and other current assets
+210,071
+245,441
+Total current assets
+7,247,813
+5,839,774
+Property and equipment, net
+936,976
+816,264
+Goodwill
+5,821,561
+5,406,474
+Purchased and other intangibles, net
+385,658
+414,405
+Investment in lease receivable
+
+80,439
+Other assets
+143,548
+139,890
+Total assets
+$
+14,535,556
+$
+12,697,246
+LIABILITIES AND STOCKHOLDERS EQUITY
+Current liabilities:
+ 
+ 
+Trade payables
+$
+113,538
+$
+88,024
+Accrued expenses
+993,773
+739,630
+Income taxes payable
+14,196
+38,362
+Deferred revenue
+2,405,950
+1,945,619
+Total current liabilities
+3,527,457
+2,811,635
+Long-term liabilities:
+Debt and capital lease obligations
+1,881,421
+1,892,200
+Deferred revenue
+88,592
+69,131
+Income taxes payable
+173,088
+184,381
+Deferred income taxes
+279,941
+217,660
+Other liabilities
+125,188
+97,404
+Total liabilities
+6,075,687
+5,272,411
+Commitments and contingencies
+Stockholders equity:
+ 
+ 
+Preferred stock, $0.0001 par value; 2,000 shares authorized; none issued
+
+
+Common stock, $0.0001 par value; 900,000 shares authorized; 600,834 shares issued; 
+ 491,262 and 494,254 shares outstanding, respectively
+61
+61
+Additional paid-in-capital
+5,082,195
+4,616,331
+Retained earnings
+9,573,870
+8,114,517
+Accumulated other comprehensive income (loss)
+(111,821)
+(173,602)
+Treasury stock, at cost (109,572 and 106,580 shares, respectively), net of reissuances
+(6,084,436)
+(5,132,472)
+Total stockholders equity
+8,459,869
+7,424,835
+Total liabilities and stockholders equity
+$
+14,535,556
+$
+12,697,246
+See accompanying Notes to Consolidated Financial Statements.
+
+
+---
+
+Table of Contents
+61
+ADOBE SYSTEMS INCORPORATED
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+ 
+Years Ended
+ 
+December 1,
+2017
+December 2,
+2016
+November 27,
+2015
+Cash flows from operating activities:
+ 
+ 
+Net income
+$
+1,693,954
+$
+1,168,782
+$
+629,551
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation, amortization and accretion
+325,997
+331,535
+339,473
+Stock-based compensation
+451,451
+349,912
+335,859
+Deferred income taxes
+51,605
+24,222
+(69,657)
+Gain on the sale of property
+
+
+(21,415)
+Unrealized (gains) losses on investments
+(5,494)
+3,145
+(9,210)
+Excess tax benefits from stock-based compensation
+
+(75,105)
+(68,153)
+Other non-cash items
+4,625
+2,022
+1,216
+Changes in operating assets and liabilities, net of acquired assets and
+ assumed liabilities:
+Trade receivables, net
+(187,173)
+(160,416)
+(79,502)
+Prepaid expenses and other current assets
+28,040
+(71,021)
+(7,701)
+Trade payables
+(45,186)
+(6,281)
+22,870
+Accrued expenses
+154,125
+64,978
+(22,564)
+Income taxes payable
+(34,493)
+43,115
+97,934
+Deferred revenue
+475,402
+524,840
+320,801
+Net cash provided by operating activities
+2,912,853
+2,199,728
+1,469,502
+Cash flows from investing activities:
+ 
+ 
+Purchases of short-term investments
+(1,931,011)
+(2,285,222)
+(2,064,833)
+Maturities of short-term investments
+759,737
+769,228
+371,790
+Proceeds from sales of short-term investments
+1,393,929
+860,849
+1,176,476
+Acquisitions, net of cash acquired
+(459,626)
+(48,427)
+(826,004)
+Purchases of property and equipment
+(178,122)
+(203,805)
+(184,936)
+Proceeds from sale of property
+
+
+57,779
+Purchases of long-term investments, intangibles and other assets
+(29,918)
+(58,433)
+(22,779)
+Proceeds from sale of long-term investments
+2,134
+5,777
+4,149
+Net cash used for investing activities
+(442,877)
+(960,033)
+(1,488,358)
+Cash flows from financing activities:
+ 
+ 
+Purchases of treasury stock
+(1,100,000)
+(1,075,000)
+(625,000)
+Proceeds from issuance of treasury stock
+158,351
+145,697
+164,270
+Taxes paid related to net share settlement of equity awards
+(240,126)
+(236,400)
+(186,373)
+Excess tax benefits from stock-based compensation
+
+75,105
+68,153
+Proceeds from debt issuance
+
+
+989,280
+Repayment of debt and capital lease obligations
+(1,960)
+(108)
+(602,189)
+Debt issuance costs
+
+
+(8,828)
+Net cash used for financing activities
+(1,183,735)
+(1,090,706)
+(200,687)
+Effect of foreign currency exchange rates on cash and cash equivalents
+8,516
+(14,234)
+(21,297)
+Net increase (decrease) in cash and cash equivalents
+1,294,757
+134,755
+(240,840)
+Cash and cash equivalents at beginning of year
+1,011,315
+876,560
+1,117,400
+Cash and cash equivalents at end of year
+$
+2,306,072
+$
+1,011,315
+$
+876,560
+Supplemental disclosures:
+ 
+Cash paid for income taxes, net of refunds
+$
+396,668
+$
+249,884
+$
+203,010
+Cash paid for interest
+$
+69,430
+$
+66,193
+$
+56,014
+Non-cash investing activities:
+Investment in lease receivable applied to building purchase
+$
+80,439
+$
+
+$
+
+Issuance of common stock and stock awards assumed in business acquisitions
+$
+10,348
+$
+
+$
+677
+See accompanying Notes to Consolidated Financial Statements.
+
+Question: For Adobe's fiscal year 2017, calculate the operating cash flow ratio, defined as cash from operations divided by total current liabilities, rounding your result to two decimal places. Base your calculation mainly on data from the balance sheet and the cash flow statement.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-01935-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+Item 8.01
+Other Events.
+ 
+On June 30, 2022, Amcor Finance (USA), Inc. (the Former Issuer) and Amcor Flexibles North America, Inc. (the Substitute Issuer),
+each a wholly-owned subsidiary of Amcor plc (the Company), entered into a (i) Second Supplemental Indenture (the Second Supplemental
+Indenture) with the Trustee (as defined below) with respect to the Indenture, dated as of April 28, 2016 (as amended and/or supplemented to
+date, the 2016 Indenture and, together with the Second Supplemental Indenture, the 2016 Indenture), among the Former Issuer, the
+guarantors party thereto and Deutsche Bank Trust Company Americas, as trustee (the Trustee), governing the Former Issuers (a) 3.625%
+Guaranteed Senior Notes due 2026 (the 2026 Notes) and (b) 4.500% Guaranteed Senior Notes due 2028 (the 2028 Notes and, together with
+the 2026 Notes, the Existing Notes) and (ii) First Supplemental Indenture (the First Supplemental Indenture and, together with the Second
+Supplemental Indenture, the Supplemental Indentures) with the Trustee with respect to the Indenture, dated as of June 13, 2019 (as amended
+and/or supplemented to date, the 2019 Indenture and, together with the First Supplemental Indenture, the 2019 Indenture and, together with
+the 2016 Indenture, the Indentures), among the Former Issuer, the guarantors party thereto and the Trustee, governing the Former Issuers
+(a) 3.625% Guaranteed Senior Notes due 2026 (the New 2026 Notes) and (b) 4.500% Guaranteed Senior Notes due 2028 (the New 2028
+Notes and, together with the New 2026 Notes, the New Notes), in each case, relating to the substitution of the Substitute Issuer for the Former
+Issuer and the assumption by the Substitute Issuer of the covenants of the Former Issuer under the Indentures. As disclosed in the Companys
+Current Report on Form 8-K, filed with the Securities and Exchange Commission (the SEC) on June 17, 2019, the New Notes were issued in
+June 2019 following the completion of the Former Issuers exchange offer to certain eligible holders of the Existing Notes.
+ 
+The foregoing description of the Supplemental Indentures does not purport to be complete and is subject to, and qualified in its entirety
+by, the full text of the (i) 2016 Indenture, which was included as Exhibit 4.7 to the Companys Registration Statement on Form S-4 (File No. 333-
+230217), filed with the SEC on March 12, 2019 (the Registration Statement), including the supplemental indenture thereto, which was included
+as Exhibit 10.2 to the Companys Current Report on Form 8-K, filed with the SEC on June 17, 2019, (ii) form of 2026 Notes, which was included
+as Exhibit 4.8 to the Registration Statement, (iii) form of 2028 Notes, which was included as Exhibit 4.9 to the Registration Statement, (iv) 2019
+Indenture, which was included as Exhibit 10.4 to the Companys Current Report on Form 8-K, filed with the SEC on June 17, 2019, (v) Second
+Supplemental Indenture, which is included as Exhibit 4.6 hereto and incorporated herein by reference and (vi) First Supplemental Indenture,
+which is included as Exhibit 4.7 hereto and incorporated herein by reference.
+ 
+Item 9.01
+Financial Statements and Exhibits.
+ 
+Exhibit No. 
+Description
+4.1
+ 
+Indenture, dated as of April 28, 2016, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK Finance PLC and
+Deutsche Bank Trust Company Americas (incorporated by reference to Exhibit 4.7 to Amcor plcs Registration Statement on
+Form S-4 (File No. 333-230217), filed on March 12, 2019).
+4.2
+ 
+Supplemental Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK
+Finance PLC and Deutsche Bank Trust Company Americas (incorporated by reference to Exhibit 10.2 to Amcor plcs Current
+Report on Form 8-K, filed on June 17, 2019).
+4.3
+ 
+Form of 3.625% Guaranteed Senior Notes due 2026 (incorporated by reference to Exhibit 4.8 to Amcor plcs Registration
+Statement on Form S-4 (File No. 333-230217), filed on March 12, 2019).
+4.4
+ 
+Form of 4.500% Guaranteed Senior Notes due 2028 (incorporated by reference to Exhibit 4.9 to Amcor plcs Registration
+Statement on Form S-4 (File No. 333-230217), filed on March 12, 2019).
+4.5
+ 
+Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor plc, Amcor Limited, Amcor Flexibles North
+America, Inc. (formerly known as Bemis Company, Inc.) and Amcor UK Finance PLC and Deutsche Bank Trust Company
+Americas (incorporated by reference to Exhibit 10.4 to Amcor plcs Current Report on Form 8-K, filed on June 17, 2019).
+4.6
+ 
+Second Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North
+America, Inc. and Deutsche Bank Trust Company Americas.
+4.7
+ 
+First Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North
+America, Inc. and Deutsche Bank Trust Company Americas.
+104
+ 
+Cover Page Interactive Data File. The cover page XBRL tags are embedded within the inline XBRL document (contained in
+Exhibit 101).
+ 
+ 
+
+Question: What main topic did AMCOR address in its 8-K filing submitted on July 1, 2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-00917-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+ITEM 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion should be read in conjunction with the consolidated financial statements as of December 31, 2022 and December 25, 2021 and for
+each of the three years in the period ended December 31, 2022 and related notes, which are included in this Annual Report on Form 10-K as well as with the
+other sections of this Annual Report on Form 10-K, Part II, Item 8: Financial Statements and Supplementary Data.
+Introduction
+In this section, we will describe the general financial condition and the results of operations of Advanced Micro Devices, Inc. and its wholly-owned subsidiaries
+(collectively, us, our or AMD), including a discussion of our results of operations for 2022 compared to 2021, an analysis of changes in our financial
+condition and a discussion of our off-balance sheet arrangements. Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 that are
+not included in this Form 10-K can be found in Managements Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of
+our Annual Report on Form 10-K for the fiscal year ended December 25, 2021.
+Overview
+2022 was a transformative year for AMD as we took several major steps that scaled and reshaped our business. In February 2022, we completed our strategic
+acquisition of Xilinx, Inc. (Xilinx) which expanded our technology and product portfolio to include adaptable hardware platforms that enable hardware
+acceleration and rapid innovation across a variety of technologies and established AMD in multiple embedded markets where we have traditionally not had a
+significant presence. We now offer Field Programmable Gate Arrays (FPGAs), Adaptive SoCs, and Adaptive Compute Acceleration Platform (ACAP) products.
+With the acquisition of Xilinx, we have access to a new set of markets and customers, further strengthening and diversifying our business model. In May 2022,
+we expanded our data center solutions capabilities with the acquisition of Pensando Systems, Inc. (Pensando). We now offer high-performance data
+processing units (DPUs) and a software stack that complements our existing products. With the Xilinx and Pensando acquisitions, we are well positioned to
+provide the industrys broadest set of leadership compute engines and accelerators to help enable best performance, security, flexibility and total cost of
+ownership for leading-edge data centers.
+Our 2022 financial results reflect the strength of our diversified business model despite the challenging PC market conditions in the second half of 2022. Net
+revenue for 2022 was $23.6 billion, an increase of 44% compared to 2021 net revenue of $16.4 billion. The increase in net revenue was driven by a 64%
+increase in Data Center segment revenue primarily due to higher sales of our EPYC server processors, a 21% increase in Gaming segment revenue
+primarily due to higher semi-custom product sales, and a significant increase in Embedded segment revenue from the prior year period driven by the inclusion
+of Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue primarily due to lower processor shipments
+driven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022,
+was 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition.
+Operating income for 2022 was $1.3 billion compared to operating income of $3.6 billion for 2021. The decrease in operating income was primarily driven by
+amortization of intangible assets associated with the Xilinx acquisition. Net income for 2022 was $1.3 billion compared to $3.2 billion in the prior year. The
+decrease in net income was primarily driven by lower operating income.
+Cash, cash equivalents and short-term investments as of December 31, 2022 were $5.9 billion, compared to $3.6 billion at the end of 2021. Our aggregate
+principal amount of total debt as of December 31, 2022 was $2.5 billion, compared to $313 million as of December 25, 2021.
+We took several actions in 2022 to strengthen our financial position. In June 2022, we issued $1.0 billion in aggregate principal amount of senior notes,
+consisting of $500 million in aggregate principal amount of 3.924% Senior Notes due 2032 (3.924% Notes) and $500 million in aggregate principal amount of
+4.393% Senior Notes due 2052 (4.393% Notes). The 3.924% Notes will mature on June 1, 2032 and bear interest at a rate of 3.924% per annum, and the
+4.393% Notes will mature on June 1, 2052 and bear interest at a rate of 4.393% per annum. The 3.924% Notes and the 4.393% Notes are senior unsecured
+obligations.
+40
+
+Question: For AMD's fiscal year 2022, what factors contributed to the shift in operating margin? If operating margin isn't a meaningful metric for this type of company, please indicate that and provide your reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-01981-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+BUSINESS ENVIRONMENT
+Our results for the year demonstrate that our growth strategy is working and our business is in an even stronger position today than before the pandemic.
+Spending on our network reached record levels, and credit metrics remain below pre-pandemic levels. Our investments in product innovation, technology,
+people and our brand has led to increased generational relevance with Millennial and Gen Z customers, record new card acquisitions, deeper relationships with
+customers and expanded merchant acceptance.
+For 2022, we reported net income of $7.5 billion, or $9.85 per share, compared with net income of $8.1 billion, or $10.02 per share, a year ago. The reduction
+in net income reflected credit reserve builds and net losses in our Amex Ventures strategic investment portfolio in the current year compared with sizeable
+credit reserve releases and significant net gains in our Amex Ventures strategic investment portfolio in the prior year.
+Worldwide network volumes for the year increased 21 percent compared to the prior year (24 percent on an FX-adjusted basis ). Billed business, which
+represented 86 percent of our total network volumes and is the most significant driver of our financial results, increased 23 percent year-over-year (25 percent
+on an FX-adjusted basis ), demonstrating our continued ability to acquire, engage and retain high-spending, premium Card Members. U.S. Consumer billed
+business grew by 24 percent year-over-year, reflecting continued strength in spending trends from our premium U.S. consumer Card Members. Billed business
+in our Commercial Services segment grew by 21 percent on a year-over-year basis, reflecting continued growth from U.S. small and mid-sized enterprise
+customers, as well as continued steady recovery in spending by our U.S. large and global corporate clients. International billed business grew by 23 percent
+year-over-year (36 percent on an FX-adjusted basis ), driven by a strong recovery in spend across both consumer and commercial customers. T&E spending
+momentum remained strong throughout the year, while year-over-year Goods & Services spending growth slowed towards the end of the year following the
+large pandemic recovery growth rates experienced earlier in the year. Inflation was a modest contributor to our strong billed business growth, while the
+continuing strengthening of the U.S. dollar, relative to the prior year, against most major currencies in which we operate, had a negative impact on our
+international billings.
+Total revenues net of interest expense increased 25 percent year-over-year (27 percent on an FX-adjusted basis ), reflecting strong growth in all our revenue
+lines. Discount revenue, our largest revenue line, increased 25 percent year-over-year, driven primarily by the momentum in our Card Member spending
+volumes throughout 2022. Net card fees increased 17 percent year over-year, as new card acquisitions reached record levels in 2022 and Card Member
+retention remained high, demonstrating the impact of investments we have made in our premium value propositions. Service fees and other revenues increased
+36 percent year-over-year, driven in part by higher travel-related revenues. Net interest income increased 28 percent versus the prior year, primarily driven by
+growth in Card Member loans. While the rising interest rate environment had a fairly neutral impact on our results for the full year, rising rates did have a
+modest negative impact on net interest income towards the end of the year.
+Card Member loans increased 22 percent year-over-year, with the majority of growth coming from existing Card Members and was driven by ongoing strong
+growth in billed business, which began to moderate towards the end of the year as we lapped the steep phase of recovery. Provisions for credit losses increased
+versus the prior year, reflecting a reserve build of $617 million compared with a reserve release of $2.5 billion in the prior year, and are expected to increase in
+2023. While delinquency and net write-off rates continued to increase throughout the year, these metrics remain strong, supported by the premium nature of our
+customer base, our risk management capabilities and risk actions we took throughout the year.
+The foreign currency adjusted information assumes a constant exchange rate between the periods being compared for purposes of currency translation into U.S. dollars (i.e., assumes the foreign
+exchange rates used to determine results for the current period apply to the corresponding prior year period against which such results are being compared). FX-adjusted revenues is a non GAAP
+measure. We believe the presentation of information on a foreign currency adjusted basis is helpful to investors by making it easier to compare our performance in one period to that of another period
+without the variability caused by fluctuations in currency exchange rates.
+1
+1
+1
+1
+1 
+42
+
+Question: In 2022, did American Express succeed in keeping its existing card members from leaving?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-01912-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+Page 3 of 15 
+ 
+ 
+Adjusted EPS 
+The following table reconciles diluted earnings per share (EPS) to Adjusted EPS (approximate EPS 
+impact shown, per share; positive adjustments represent charges to income): 
+Three Months Ended December 31, 
+2022 
+ 
+2021 
+Diluted earnings per share 
+$ 
+0.69 $ 
+0.23 
+Property transactions, net 
+ 
+(2.74) 
+(0.15) 
+Non-operating items: 
+ 
+ 
+Investments and other 
+ 
+(0.10) 
+0.02 
+Foreign currency gain on MGM China senior notes 
+ 
+(0.02) 
+ 
+Change in fair value of unhedged MGP swaps 
+ 
+ 
+(0.01) 
+Income tax impact on net income adjustments (1) 
+ 
+0.64 
+0.03 
+Adjusted EPS 
+$ 
+(1.53) $ 
+0.12 
+ 
+(1) The income tax impact includes current and deferred income tax expense based upon the nature of the adjustment and the 
+jurisdiction in which it occurs. 
+Full Year 2022 Financial Highlights: 
+ 
+Consolidated Results 
+ 
+ 
+Consolidated net revenues of $13.1 billion in the current year compared to $9.7 billion in the 
+prior year, an increase of 36%. The current year includes the operating results of The 
+Cosmopolitan upon its acquisition in May 2022, a full year of Aria and Vdara (collectively 
+"Aria") due to its acquisition in September 2021, and the results of The Mirage until its 
+disposition in December 2022; 
+ 
+Operating income was $1.4 billion compared to $2.3 billion in the prior year, due to a $2.5 
+billion increase in noncash amortization expense of the MGM Grand Paradise gaming 
+subconcession and an increase of $1.1 billion of rent expense related to triple-net operating 
+leases and ground leases due primarily to The Cosmopolitan lease, the Aria lease, and VICI 
+lease, partially offset by the $2.3 billion gain on REIT transactions, net and the $1.1 billion gain 
+on the disposition of The Mirage in the current year, and also due to the prior year results 
+including the $1.6 billion gain on consolidation of CityCenter, net; 
+ 
+Net income attributable to MGM Resorts of $1.5 billion in 2022, which was impacted by the 
+items affecting operating income discussed above, compared to $1.3 billion in the prior year; 
+ 
+Diluted earnings per share of $3.49 in 2022 compared to $2.41 in 2021; 
+ 
+Adjusted EPS loss of $2.74 in 2022, compared to Adjusted EPS loss of $0.67 in 2021; and 
+ 
+Consolidated Adjusted EBITDAR of $3.5 billion in 2022. 
+ 
+Las Vegas Strip Resorts 
+ 
+ 
+Net revenues of $8.4 billion in the current year compared to $4.7 billion in the prior year, an 
+increase of 77%; 
+ 
+Same-store net revenues (adjusted for acquisitions and dispositions) of $5.6 billion in the current 
+year compared to $4.0 billion in the prior year, an increase of 42%; 
+ 
+Adjusted Property EBITDAR of $3.1 billion in the current year compared to $1.7 billion in the 
+prior year, an increase of 81%; 
+
+
+---
+
+ 
+ 
+Page 4 of 15 
+ 
+ 
+ 
+Same-Store Adjusted Property EBITDAR of $2.1 billion in the current year compared to $1.5 
+billion in the prior year, an increase of 42%; and 
+ 
+Adjusted Property EBITDAR margin of 37.4% in the current year compared to 36.7% in the 
+prior year, an increase of 72 basis points. 
+ 
+Regional Operations 
+ 
+ 
+Net revenues of $3.8 billion in the current year compared to $3.4 billion in the prior year, an 
+increase of 12%; 
+ 
+Adjusted Property EBITDAR of $1.3 billion in the current year compared to $1.2 billion in the 
+prior year, an increase of 6%; and 
+ Adjusted Property EBITDAR margin of 33.9% in the current year compared to 35.9% in the 
+prior year, a decrease of 197 basis points due primarily to an increase in contribution from lower-
+margin non-gaming outlets and venues. 
+ 
+MGM China 
+ 
+ 
+Net revenues of $674 million in the current year compared to $1.2 billion in the prior year, a 
+decrease of 44%; and 
+ 
+MGM China Adjusted Property EBITDAR loss of $203 million in the current year compared to 
+Adjusted Property EBITDAR of $25 million in the prior year. 
+ 
+Adjusted EPS 
+ 
+The following table reconciles EPS to Adjusted EPS (approximate EPS impact shown, per share; 
+positive adjustments represent charges to income): 
+ 
+Twelve Months Ended December 31, 
+2022 
+ 
+2021 
+Diluted earnings per share 
+$ 
+3.49 $ 
+2.41 
+Property transactions, net 
+ 
+(2.53) 
+(0.15) 
+Preopening and start-up expenses 
+ 
+ 
+0.01 
+Gain on REIT transactions, net 
+ 
+(5.52) 
+ 
+Gain on consolidation of CityCenter, net 
+ 
+ 
+(3.21) 
+Non-operating items: 
+ 
+ 
+Foreign currency loss on MGM China senior notes 
+ 
+ 
+0.02 
+Investments and other 
+ 
+(0.03) 
+(0.06) 
+Change in fair value of foreign currency contracts 
+ 
+0.09 
+ 
+Change in fair value of unhedged MGP swaps 
+ 
+(0.03) 
+(0.04) 
+Unconsolidated affiliate items: 
+ 
+ 
+Change in fair value of CityCenter swaps 
+ 
+ 
+(0.02) 
+Gain related to sale of Harmon land 
+ 
+ 
+(0.10) 
+Income tax impact on net income adjustments (1) 
+ 
+1.79 
+0.47 
+Adjusted EPS 
+$ 
+(2.74) $ 
+(0.67) 
+ 
+(1) The income tax impact includes current and deferred income tax expense based upon the nature of the adjustment and the 
+jurisdiction in which it occurs. 
+
+Question: For fiscal year 2022, which of MGM's regions posted the weakest revenue results?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-01912-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+Page 3 of 15 
+ 
+ 
+Adjusted EPS 
+The following table reconciles diluted earnings per share (EPS) to Adjusted EPS (approximate EPS 
+impact shown, per share; positive adjustments represent charges to income): 
+Three Months Ended December 31, 
+2022 
+ 
+2021 
+Diluted earnings per share 
+$ 
+0.69 $ 
+0.23 
+Property transactions, net 
+ 
+(2.74) 
+(0.15) 
+Non-operating items: 
+ 
+ 
+Investments and other 
+ 
+(0.10) 
+0.02 
+Foreign currency gain on MGM China senior notes 
+ 
+(0.02) 
+ 
+Change in fair value of unhedged MGP swaps 
+ 
+ 
+(0.01) 
+Income tax impact on net income adjustments (1) 
+ 
+0.64 
+0.03 
+Adjusted EPS 
+$ 
+(1.53) $ 
+0.12 
+ 
+(1) The income tax impact includes current and deferred income tax expense based upon the nature of the adjustment and the 
+jurisdiction in which it occurs. 
+Full Year 2022 Financial Highlights: 
+ 
+Consolidated Results 
+ 
+ 
+Consolidated net revenues of $13.1 billion in the current year compared to $9.7 billion in the 
+prior year, an increase of 36%. The current year includes the operating results of The 
+Cosmopolitan upon its acquisition in May 2022, a full year of Aria and Vdara (collectively 
+"Aria") due to its acquisition in September 2021, and the results of The Mirage until its 
+disposition in December 2022; 
+ 
+Operating income was $1.4 billion compared to $2.3 billion in the prior year, due to a $2.5 
+billion increase in noncash amortization expense of the MGM Grand Paradise gaming 
+subconcession and an increase of $1.1 billion of rent expense related to triple-net operating 
+leases and ground leases due primarily to The Cosmopolitan lease, the Aria lease, and VICI 
+lease, partially offset by the $2.3 billion gain on REIT transactions, net and the $1.1 billion gain 
+on the disposition of The Mirage in the current year, and also due to the prior year results 
+including the $1.6 billion gain on consolidation of CityCenter, net; 
+ 
+Net income attributable to MGM Resorts of $1.5 billion in 2022, which was impacted by the 
+items affecting operating income discussed above, compared to $1.3 billion in the prior year; 
+ 
+Diluted earnings per share of $3.49 in 2022 compared to $2.41 in 2021; 
+ 
+Adjusted EPS loss of $2.74 in 2022, compared to Adjusted EPS loss of $0.67 in 2021; and 
+ 
+Consolidated Adjusted EBITDAR of $3.5 billion in 2022. 
+ 
+Las Vegas Strip Resorts 
+ 
+ 
+Net revenues of $8.4 billion in the current year compared to $4.7 billion in the prior year, an 
+increase of 77%; 
+ 
+Same-store net revenues (adjusted for acquisitions and dispositions) of $5.6 billion in the current 
+year compared to $4.0 billion in the prior year, an increase of 42%; 
+ 
+Adjusted Property EBITDAR of $3.1 billion in the current year compared to $1.7 billion in the 
+prior year, an increase of 81%; 
+
+
+---
+
+ 
+ 
+Page 4 of 15 
+ 
+ 
+ 
+Same-Store Adjusted Property EBITDAR of $2.1 billion in the current year compared to $1.5 
+billion in the prior year, an increase of 42%; and 
+ 
+Adjusted Property EBITDAR margin of 37.4% in the current year compared to 36.7% in the 
+prior year, an increase of 72 basis points. 
+ 
+Regional Operations 
+ 
+ 
+Net revenues of $3.8 billion in the current year compared to $3.4 billion in the prior year, an 
+increase of 12%; 
+ 
+Adjusted Property EBITDAR of $1.3 billion in the current year compared to $1.2 billion in the 
+prior year, an increase of 6%; and 
+ Adjusted Property EBITDAR margin of 33.9% in the current year compared to 35.9% in the 
+prior year, a decrease of 197 basis points due primarily to an increase in contribution from lower-
+margin non-gaming outlets and venues. 
+ 
+MGM China 
+ 
+ 
+Net revenues of $674 million in the current year compared to $1.2 billion in the prior year, a 
+decrease of 44%; and 
+ 
+MGM China Adjusted Property EBITDAR loss of $203 million in the current year compared to 
+Adjusted Property EBITDAR of $25 million in the prior year. 
+ 
+Adjusted EPS 
+ 
+The following table reconciles EPS to Adjusted EPS (approximate EPS impact shown, per share; 
+positive adjustments represent charges to income): 
+ 
+Twelve Months Ended December 31, 
+2022 
+ 
+2021 
+Diluted earnings per share 
+$ 
+3.49 $ 
+2.41 
+Property transactions, net 
+ 
+(2.53) 
+(0.15) 
+Preopening and start-up expenses 
+ 
+ 
+0.01 
+Gain on REIT transactions, net 
+ 
+(5.52) 
+ 
+Gain on consolidation of CityCenter, net 
+ 
+ 
+(3.21) 
+Non-operating items: 
+ 
+ 
+Foreign currency loss on MGM China senior notes 
+ 
+ 
+0.02 
+Investments and other 
+ 
+(0.03) 
+(0.06) 
+Change in fair value of foreign currency contracts 
+ 
+0.09 
+ 
+Change in fair value of unhedged MGP swaps 
+ 
+(0.03) 
+(0.04) 
+Unconsolidated affiliate items: 
+ 
+ 
+Change in fair value of CityCenter swaps 
+ 
+ 
+(0.02) 
+Gain related to sale of Harmon land 
+ 
+ 
+(0.10) 
+Income tax impact on net income adjustments (1) 
+ 
+1.79 
+0.47 
+Adjusted EPS 
+$ 
+(2.74) $ 
+(0.67) 
+ 
+(1) The income tax impact includes current and deferred income tax expense based upon the nature of the adjustment and the 
+jurisdiction in which it occurs. 
+
+Question: Which region had the worst topline performance for MGM during FY2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-00724-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PFIZER INC. AND SUBSIDIARY COMPANIES.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+Segment AssetsWe manage our assets on a total company basis, not by operating segment, as our operating assets are shared or commingled. Therefore, our
+chief operating decision maker does not regularly review any asset information by operating segment and, accordingly, we do not report asset information by
+operating segment. Total assets were $220 billion as of July 2, 2023 and $197 billion as of December 31, 2022.
+Selected Income Statement Information
+The following provides selected income statement information by reportable segment:
+Three Months Ended
+Six Months Ended
+ 
+Revenues
+Earnings
+Revenues
+Earnings
+(MILLIONS)
+July 2,
+2023
+July 3,
+2022
+July 2,
+2023
+July 3,
+2022
+July 2,
+2023
+July 3,
+2022
+July 2,
+2023
+July 3,
+2022
+Reportable Segment:
+Biopharma
+$
+12,418 
+$
+27,425 
+$
+7,003 
+$
+17,166 
+$
+30,389 
+$
+52,748 
+$
+17,939 
+$
+30,557 
+Other business activities
+316 
+317 
+(2,871)
+(3,384)
+626 
+655 
+(5,605)
+(5,812)
+Reconciling Items:
+Amortization of intangible assets
+(1,184)
+(822)
+(2,287)
+(1,657)
+Acquisition-related items
+(387)
+(82)
+(550)
+(269)
+Certain significant items
+(293)
+(1,431)
+(958)
+(2,322)
+$
+12,734 
+$
+27,742 
+$
+2,269 
+$
+11,447 
+$
+31,015 
+$
+53,402 
+$
+8,539 
+$
+20,497 
+Income from continuing operations before provision/(benefit) for taxes on income. Biopharmas earnings include dividend income from our investment in ViiV of $91 million in the second quarter
+of 2023 and $69 million in the second quarter of 2022, and $183 million in the first six months of 2023 and $125 million in the first six months of 2022. In connection with the organizational
+changes effective in the third quarter of 2022, certain functions transferred between Biopharma and corporate enabling functions and certain activities were realigned within the GPD organization.
+We have reclassified $58 million of costs in the second quarter of 2022 and $105 million in the first six months of 2022 from corporate enabling functions, which are included in Other business
+activities, to Biopharma to conform to the current period presentation.
+Other business activities include revenues and costs associated with Business Innovation and costs that we do not allocate to our operating segments, per above, including acquired IPR&D
+expenses in the periods presented. Earnings in the second quarter and first six months of 2023 include approximately $140 million and $260 million, respectively, of write-offs to Cost of sales of
+inventory related to COVID-19 products that exceeded or were expected to exceed their approved shelf-lives prior to being used. Earnings in the second quarter and first six months of 2022
+included a $450 million write-off to Cost of sales of inventory related to COVID-19 products that exceeded or were expected to exceed their approved shelf-lives prior to being used.
+Certain significant items are substantive and/or unusual, and in some cases recurring, items (as noted above). Earnings in the second quarter and first six months of 2022 included, among other
+items, net losses on equity securities of $539 million and $1.2 billion, respectively, recorded in Other (income)/deductionsnet. See Note 4.
+B. Geographic Information
+The following summarizes revenues by geographic area:
+ 
+Three Months Ended
+Six Months Ended
+(MILLIONS)
+July 2,
+2023
+July 3,
+2022
+%
+Change
+July 2,
+2023
+July 3,
+2022
+%
+Change
+United States
+$
+6,185 
+$
+11,222 
+(45)
+$
+14,692 
+$
+20,140 
+(27)
+Developed Europe
+2,415 
+5,480 
+(56)
+5,236 
+11,569 
+(55)
+Developed Rest of World
+1,305 
+5,034 
+(74)
+3,778 
+8,320 
+(55)
+Emerging Markets
+2,828 
+6,006 
+(53)
+7,308 
+13,373 
+(45)
+Revenues
+$
+12,734 
+$
+27,742 
+(54)
+$
+31,015 
+$
+53,402 
+(42)
+In May 2023, we and our collaboration partner, BioNTech, amended our contract with the EC to deliver COVID-19 vaccines to the EU. The amended
+agreement includes rephasing of delivery of doses annually through 2026 and an aggregate volume reduction, providing additional flexibility for EU member
+states. The EC will maintain access to future adapted COVID-19 vaccines and the ability to donate doses, in alignment with the original agreement. See Note
+13C.
+C. Other Revenue Information
+Significant CustomersFor information on our significant wholesale customers, see Note 17C in our 2022 Form 10-K. Additionally, revenues from the U.S.
+government represented 1% and 9% of total revenues for the three and six months ended July 2, 2023, respectively, and 26% and 22% of total revenues for the
+three and six months ended July 3, 2022, respectively. Accounts receivable from the U.S. government represented less than 1% and 4% of total trade accounts
+receivable as of July 2, 2023 and December 31, 2022, respectively. Revenues and accounts receivable from the U.S. government primarily represent sales of
+Paxlovid and Comirnaty.
+(a)
+(a)
+(b)
+(c)
+(a)
+(b)
+(c)
+35
+
+Question: In terms of percentage decline, which of Pfizer's geographic regions experienced the largest year-over-year revenue drop in Q2 2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

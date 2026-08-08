@@ -1,0 +1,1959 @@
+You are sitting an exam made of 12 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-04171-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+MGMRESORTSINTERNATIONALANDSUBSIDIARIES
+CONSOLIDATEDBALANCESHEETS
+(Inthousands,exceptsharedata)
+ 
+ 
+
+December31,
+
+
+
+2018
+
+
+2017
+
+ASSETS
+
+Currentassets
+ 
+ 
+ 
+ 
+Cash and cash equivalents
+ $
+1,526,762 
+ $
+1,499,995 
+Accounts receivable, net
+ 
+657,206 
+ 
+542,273 
+Inventories
+ 
+110,831 
+ 
+102,292 
+Income tax receivable
+ 
+28,431 
+ 
+42,551 
+Prepaid expenses and other
+ 
+203,548 
+ 
+189,244 
+Total current assets
+ 
+2,526,778 
+ 
+2,376,355 
+ 
+ 
+ 
+ 
+ 
+Propertyandequipment,net
+ 
+20,729,888 
+ 
+19,635,459 
+ 
+ 
+ 
+ 
+ 
+Otherassets
+ 
+ 
+ 
+ 
+Investments in and advances to unconsolidated affiliates
+ 
+732,867 
+ 
+1,033,297 
+Goodwill
+ 
+1,821,392 
+ 
+1,806,531 
+Other intangible assets, net
+ 
+3,944,463 
+ 
+3,877,960 
+Other long-term assets, net
+ 
+455,318 
+ 
+430,440 
+Total other assets
+ 
+6,954,040 
+ 
+7,148,228 
+ 
+ $
+30,210,706 
+ $
+29,160,042 
+LIABILITIESANDSTOCKHOLDERS'EQUITY
+
+Currentliabilities
+ 
+ 
+ 
+ 
+Accounts payable
+ $
+302,578 
+ $
+255,028 
+Construction payable
+ 
+311,793 
+ 
+474,807 
+Current portion of long-term debt
+ 
+43,411 
+ 
+158,042 
+Accrued interest on long-term debt
+ 
+140,046 
+ 
+135,785 
+Other accrued liabilities
+ 
+2,151,054 
+ 
+2,114,635 
+Total current liabilities
+ 
+2,948,882 
+ 
+3,138,297 
+ 
+ 
+ 
+ 
+ 
+Deferredincometaxes,net
+ 
+1,342,538 
+ 
+1,295,375 
+Long-termdebt,net
+ 
+15,088,005 
+ 
+12,751,052 
+Otherlong-termobligations
+ 
+259,240 
+ 
+284,416 
+Commitmentsandcontingencies(Note11)
+ 
+ 
+ 
+ 
+Redeemablenoncontrollinginterests
+ 
+102,250 
+ 
+79,778 
+Stockholders'equity
+ 
+ 
+ 
+ 
+Common stock, $.01 par value: authorized 1,000,000,000 shares, issued and
+ outstanding 527,479,528 and 566,275,789 shares
+ 
+5,275 
+ 
+5,663 
+Capital in excess of par value
+ 
+4,092,085 
+ 
+5,357,709 
+Retained earnings
+ 
+2,423,479 
+ 
+2,217,299 
+Accumulated other comprehensive loss
+ 
+(8,556)
+ 
+(3,610)
+Total MGM Resorts International stockholders' equity
+ 
+6,512,283 
+ 
+7,577,061 
+Noncontrolling interests
+ 
+3,957,508 
+ 
+4,034,063 
+Total stockholders' equity
+ 
+10,469,791 
+ 
+11,611,124 
+ 
+ $
+30,210,706 
+ $
+29,160,042
+ 
+ 
+Theaccompanyingnotesareanintegralpartoftheseconsolidatedfinancialstatements.
+ 
+ 
+55
+
+Question: Basing your judgments off of the balance sheet, what is the year end FY2018 amount of accounts payable for MGM Resorts? Answer in USD millions.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-04171-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+MGMRESORTSINTERNATIONALANDSUBSIDIARIES
+CONSOLIDATEDBALANCESHEETS
+(Inthousands,exceptsharedata)
+ 
+ 
+
+December31,
+
+
+
+2018
+
+
+2017
+
+ASSETS
+
+Currentassets
+ 
+ 
+ 
+ 
+Cash and cash equivalents
+ $
+1,526,762 
+ $
+1,499,995 
+Accounts receivable, net
+ 
+657,206 
+ 
+542,273 
+Inventories
+ 
+110,831 
+ 
+102,292 
+Income tax receivable
+ 
+28,431 
+ 
+42,551 
+Prepaid expenses and other
+ 
+203,548 
+ 
+189,244 
+Total current assets
+ 
+2,526,778 
+ 
+2,376,355 
+ 
+ 
+ 
+ 
+ 
+Propertyandequipment,net
+ 
+20,729,888 
+ 
+19,635,459 
+ 
+ 
+ 
+ 
+ 
+Otherassets
+ 
+ 
+ 
+ 
+Investments in and advances to unconsolidated affiliates
+ 
+732,867 
+ 
+1,033,297 
+Goodwill
+ 
+1,821,392 
+ 
+1,806,531 
+Other intangible assets, net
+ 
+3,944,463 
+ 
+3,877,960 
+Other long-term assets, net
+ 
+455,318 
+ 
+430,440 
+Total other assets
+ 
+6,954,040 
+ 
+7,148,228 
+ 
+ $
+30,210,706 
+ $
+29,160,042 
+LIABILITIESANDSTOCKHOLDERS'EQUITY
+
+Currentliabilities
+ 
+ 
+ 
+ 
+Accounts payable
+ $
+302,578 
+ $
+255,028 
+Construction payable
+ 
+311,793 
+ 
+474,807 
+Current portion of long-term debt
+ 
+43,411 
+ 
+158,042 
+Accrued interest on long-term debt
+ 
+140,046 
+ 
+135,785 
+Other accrued liabilities
+ 
+2,151,054 
+ 
+2,114,635 
+Total current liabilities
+ 
+2,948,882 
+ 
+3,138,297 
+ 
+ 
+ 
+ 
+ 
+Deferredincometaxes,net
+ 
+1,342,538 
+ 
+1,295,375 
+Long-termdebt,net
+ 
+15,088,005 
+ 
+12,751,052 
+Otherlong-termobligations
+ 
+259,240 
+ 
+284,416 
+Commitmentsandcontingencies(Note11)
+ 
+ 
+ 
+ 
+Redeemablenoncontrollinginterests
+ 
+102,250 
+ 
+79,778 
+Stockholders'equity
+ 
+ 
+ 
+ 
+Common stock, $.01 par value: authorized 1,000,000,000 shares, issued and
+ outstanding 527,479,528 and 566,275,789 shares
+ 
+5,275 
+ 
+5,663 
+Capital in excess of par value
+ 
+4,092,085 
+ 
+5,357,709 
+Retained earnings
+ 
+2,423,479 
+ 
+2,217,299 
+Accumulated other comprehensive loss
+ 
+(8,556)
+ 
+(3,610)
+Total MGM Resorts International stockholders' equity
+ 
+6,512,283 
+ 
+7,577,061 
+Noncontrolling interests
+ 
+3,957,508 
+ 
+4,034,063 
+Total stockholders' equity
+ 
+10,469,791 
+ 
+11,611,124 
+ 
+ $
+30,210,706 
+ $
+29,160,042
+ 
+ 
+Theaccompanyingnotesareanintegralpartoftheseconsolidatedfinancialstatements.
+ 
+ 
+55
+
+Question: According to the balance sheet, what was MGM Resorts' accounts payable balance at the close of fiscal year 2018, expressed in USD millions?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-00552-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PART II
+Item 8
+ 
+BALANCE SHEETS 
+ 
+(In millions)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+June 30,
+ 
+2023 
+2022 
+ 
+ 
+ 
+Assets
+ 
+ 
+ 
+Current assets:
+ 
+ 
+ 
+Cash and cash equivalents
+ $
+34,704 $
+13,931 
+Short-term investments
+ 
+76,558 
+90,826 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total cash, cash equivalents, and short-term investments
+ 
+111,262 
+104,757 
+Accounts receivable, net of allowance for doubtful accounts of $650 and $633
+ 
+48,688 
+44,261 
+Inventories
+ 
+2,500 
+3,742 
+Other current assets
+ 
+21,807 
+16,924 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total current assets
+ 
+184,257 
+169,684 
+Property and equipment, net of accumulated depreciation of $68,251 and $59,660
+ 
+95,641 
+74,398 
+Operating lease right-of-use assets
+ 
+14,346 
+13,148 
+Equity investments
+ 
+9,879 
+6,891 
+Goodwill
+ 
+67,886 
+67,524 
+Intangible assets, net
+ 
+9,366 
+11,298 
+Other long-term assets
+ 
+30,601 
+21,897 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total assets
+ $
+411,976 $
+364,840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Liabilities and stockholders equity
+ 
+ 
+ 
+Current liabilities:
+ 
+ 
+ 
+Accounts payable
+ $
+18,095 $
+19,000 
+Current portion of long-term debt
+ 
+5,247 
+2,749 
+Accrued compensation
+ 
+11,009 
+10,661 
+Short-term income taxes
+ 
+4,152 
+4,067 
+Short-term unearned revenue
+ 
+50,901 
+45,538 
+Other current liabilities
+ 
+14,745 
+13,067 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total current liabilities
+ 
+104,149 
+95,082 
+Long-term debt
+ 
+41,990 
+47,032 
+Long-term income taxes
+ 
+25,560 
+26,069 
+Long-term unearned revenue
+ 
+2,912 
+2,870 
+Deferred income taxes
+ 
+433 
+230 
+Operating lease liabilities
+ 
+12,728 
+11,489 
+Other long-term liabilities
+ 
+17,981 
+15,526 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total liabilities
+ 
+205,753 
+198,298 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Commitments and contingencies
+ 
+ 
+ 
+Stockholders equity:
+ 
+ 
+ 
+Common stock and paid-in capital shares authorized 24,000; outstanding 7,432 and 7,464
+ 
+93,718 
+86,939 
+Retained earnings
+ 
+118,848 
+84,281 
+Accumulated other comprehensive loss
+ 
+(6,343) 
+(4,678)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total stockholders equity
+ 
+206,223 
+166,542 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total liabilities and stockholders equity
+ $
+411,976 $
+364,840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Refer to accompanying notes. 
+60
+
+Question: Did Microsoft's balance sheet debt rise from FY2022 to FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-04980-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Consolidated Statement of Cash Flows
+PepsiCo, Inc. and Subsidiaries
+Fiscal years ended December 25, 2021, December 26, 2020 and December 28, 2019
+(in millions)
+2021
+2020
+2019
+Operating Activities
+Net income
+$
+7,679 $
+7,175 $
+7,353 
+Depreciation and amortization
+2,710 
+2,548 
+2,432 
+Operating lease right-of-use asset amortization
+505 
+478 
+412 
+Share-based compensation expense
+301 
+264 
+237 
+Restructuring and impairment charges
+247 
+289 
+370 
+Cash payments for restructuring charges
+(256)
+(255)
+(350)
+Acquisition and divestiture-related charges
+(4)
+255 
+55 
+Cash payments for acquisition and divestiture-related charges
+(176)
+(131)
+(10)
+Pension and retiree medical plan expenses
+123 
+408 
+519 
+Pension and retiree medical plan contributions
+(785)
+(562)
+(716)
+Deferred income taxes and other tax charges and credits
+298 
+361 
+453 
+Tax expense/(benefit) related to the TCJ Act
+190 
+ 
+(8)
+Tax payments related to the TCJ Act
+(309)
+(78)
+(423)
+Change in assets and liabilities:
+Accounts and notes receivable
+(651)
+(420)
+(650)
+Inventories
+(582)
+(516)
+(190)
+Prepaid expenses and other current assets
+159 
+26 
+(87)
+Accounts payable and other current liabilities
+1,762 
+766 
+735 
+Income taxes payable
+30 
+(159)
+(287)
+Other, net
+375 
+164 
+(196)
+Net Cash Provided by Operating Activities
+11,616 
+10,613 
+9,649 
+Investing Activities
+Capital spending
+(4,625)
+(4,240)
+(4,232)
+Sales of property, plant and equipment
+166 
+55 
+170 
+Acquisitions, net of cash acquired, and investments in noncontrolled affiliates
+(61)
+(6,372)
+(2,717)
+Divestitures and sales of investments in noncontrolled affiliates
+169 
+6 
+253 
+Short-term investments, by original maturity:
+More than three months - purchases
+ 
+(1,135)
+ 
+More than three months - maturities
+1,135 
+ 
+16 
+More than three months - sales
+ 
+ 
+62 
+Three months or less, net
+(58)
+27 
+19 
+Other investing, net
+5 
+40 
+(8)
+Net Cash Used for Investing Activities
+(3,269)
+(11,619)
+(6,437)
+(Continued on following page)
+61
+
+Question: What is the FY2021 capital expenditure amount (in USD billions) for PepsiCo? Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-04980-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Consolidated Statement of Cash Flows
+PepsiCo, Inc. and Subsidiaries
+Fiscal years ended December 25, 2021, December 26, 2020 and December 28, 2019
+(in millions)
+2021
+2020
+2019
+Operating Activities
+Net income
+$
+7,679 $
+7,175 $
+7,353 
+Depreciation and amortization
+2,710 
+2,548 
+2,432 
+Operating lease right-of-use asset amortization
+505 
+478 
+412 
+Share-based compensation expense
+301 
+264 
+237 
+Restructuring and impairment charges
+247 
+289 
+370 
+Cash payments for restructuring charges
+(256)
+(255)
+(350)
+Acquisition and divestiture-related charges
+(4)
+255 
+55 
+Cash payments for acquisition and divestiture-related charges
+(176)
+(131)
+(10)
+Pension and retiree medical plan expenses
+123 
+408 
+519 
+Pension and retiree medical plan contributions
+(785)
+(562)
+(716)
+Deferred income taxes and other tax charges and credits
+298 
+361 
+453 
+Tax expense/(benefit) related to the TCJ Act
+190 
+ 
+(8)
+Tax payments related to the TCJ Act
+(309)
+(78)
+(423)
+Change in assets and liabilities:
+Accounts and notes receivable
+(651)
+(420)
+(650)
+Inventories
+(582)
+(516)
+(190)
+Prepaid expenses and other current assets
+159 
+26 
+(87)
+Accounts payable and other current liabilities
+1,762 
+766 
+735 
+Income taxes payable
+30 
+(159)
+(287)
+Other, net
+375 
+164 
+(196)
+Net Cash Provided by Operating Activities
+11,616 
+10,613 
+9,649 
+Investing Activities
+Capital spending
+(4,625)
+(4,240)
+(4,232)
+Sales of property, plant and equipment
+166 
+55 
+170 
+Acquisitions, net of cash acquired, and investments in noncontrolled affiliates
+(61)
+(6,372)
+(2,717)
+Divestitures and sales of investments in noncontrolled affiliates
+169 
+6 
+253 
+Short-term investments, by original maturity:
+More than three months - purchases
+ 
+(1,135)
+ 
+More than three months - maturities
+1,135 
+ 
+16 
+More than three months - sales
+ 
+ 
+62 
+Three months or less, net
+(58)
+27 
+19 
+Other investing, net
+5 
+40 
+(8)
+Net Cash Used for Investing Activities
+(3,269)
+(11,619)
+(6,437)
+(Continued on following page)
+61
+
+Question: Using only the information presented in the statement of cash flows, and adopting the viewpoint of an investment analyst, what was PepsiCo's capital expenditure for fiscal year 2021, expressed in billions of USD?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-01474-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PepsiCo Reports First-Quarter 2023 Results; Raises Full-Year 
+Guidance
+Reported (GAAP) First-Quarter 2023 Results
+First-Quarter
+Net revenue growth
+10.2%
+Foreign exchange impact on net revenue
+(2.5)%
+Earnings per share (EPS)
+$1.40
+EPS change
+(54)%
+Foreign exchange impact on EPS
+(2)%
+Organic/Core (non-GAAP)1 First-Quarter 2023 Results
+First-Quarter
+Organic revenue growth
+14.3%
+Core EPS
+$1.50
+Core constant currency EPS change
+18%
+PURCHASE, N.Y. - April 25, 2023 - PepsiCo, Inc. (NASDAQ: PEP) today reported results for 
+the first quarter 2023. 
+We are very pleased with our performance and business momentum as our categories and 
+geographies remained resilient during the first quarter. Given our strong start to the year, we 
+now expect our full-year 2023 organic revenue to increase 8 percent (previously 6 percent) and 
+core constant currency EPS to increase 9 percent (previously 8 percent), said Chairman and 
+CEO Ramon Laguarta.
+Laguarta continued, Our results demonstrate that the investments we have made to become an 
+even Faster, even Stronger, and even Better organization by Winning with pep+ are laying the 
+foundation for durable and sustainable growth. We remain committed to our strategic agenda 
+and will continue to invest in our people, brands, supply chain, go-to-market systems, and 
+digitization initiatives to build competitive advantages and win in the marketplace.
+1 Please refer to the Glossary for the definitions of non-GAAP financial measures, including Organic revenue growth, Core and Constant currency, 
+and to Guidance and Outlook for additional information regarding PepsiCos full-year 2023 financial guidance. PepsiCo provides guidance on a non-
+GAAP basis as we cannot predict certain elements which are included in reported GAAP results, including the impact of foreign exchange and 
+commodity mark-to-market net impacts. Please refer to PepsiCos Quarterly Report on Form 10-Q for the 12 weeks ended March 25, 2023 (Q1 2023 
+Form 10-Q) filed with the Securities and Exchange Commission (SEC) for additional information regarding PepsiCos financial results.
+1
+
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-01484-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+Q4 
+ 
+Full Year 
+Non-GAAP* ($ in Millions, except EPS) 
+2022 
+2021 
+% Change 
+ 
+2022 
+2021 
+% Change 
+Operational Sales1,2 
+ 
+ 
+0.9% 
+ 
+ 
+ 
+6.1% 
+Adjusted Operational Sales1,3 
+ 
+ 
+0.8% 
+ 
+ 
+ 
+6.2% 
+Adjusted Net Earnings1,4 
+$6,218 
+$5,678 
+9.5% 
+ 
+$27,038 
+$26,195 
+3.2% 
+Adjusted EPS (diluted)1,4 
+$2.35 
+$2.13 
+10.3% 
+ 
+$10.15 
+$9.80 
+3.6% 
+ 
+ 1 Non-GAAP financial measure; refer to reconciliations of non-GAAP financial measures included in accompanying schedules 
+ 2 Excludes the impact of translational currency 
+ 3 Excludes the net impact of acquisitions and divestitures and translational currency 
+ 4 Excludes intangible amortization expense and special items 
+ Note: values may have been rounded 
+ 
+REGIONAL SALES RESULTS 
+ 
+Q4 
+ 
+% Change 
+($ in Millions) 
+2022 
+2021 
+Reported 
+Operational1,2 
+Currency 
+Adjusted 
+Operational1,3 
+U.S. 
+$12,516 
+$12,163 
+2.9% 
+2.9 
+- 
+2.7 
+International 
+11,190 
+12,641 
+(11.5) 
+(1.1) 
+(10.4) 
+(1.0) 
+Worldwide 
+$23,706 
+$24,804 
+(4.4)% 
+0.9 
+(5.3) 
+0.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Full Year 
+ 
+% Change 
+($ in Millions) 
+2022 
+2021 
+Reported 
+Operational1,2 
+Currency 
+Adjusted 
+Operational1,3 
+U.S. 
+$48,580 
+$47,156 
+3.0% 
+3.0 
+- 
+3.0 
+International 
+46,363 
+46,619 
+(0.6)% 
+9.1 
+(9.7) 
+9.3 
+Worldwide 
+$94,943 
+$93,775 
+1.3% 
+6.1 
+(4.8) 
+6.2 
+ 
+ 1 Non-GAAP financial measure; refer to reconciliations of non-GAAP financial measures included in accompanying schedules 
+ 2 Excludes the impact of translational currency 
+ 3 Excludes the net impact of acquisitions and divestitures and translational currency 
+ Note: Values may have been rounded 
+ 
+SEGMENT SALES RESULTS 
+ 
+Q4 
+ 
+% Change 
+($ in Millions) 
+2022 
+2021 
+Reported 
+Operational1,2 
+Currency 
+Adjusted 
+Operational1,3 
+ 
+Consumer Health4 
+$3,767 
+$3,728 
+1.0% 
+6.4 
+(5.4) 
+6.4 
+ 
+Pharmaceutical4 
+13,163 
+14,217 
+(7.4) 
+(2.5) 
+(4.9) 
+(2.3) 
+ 
+MedTech 
+6,776 
+6,859 
+(1.2) 
+4.9 
+(6.1) 
+4.4 
+ 
+Worldwide 
+$23,706 
+$24,804 
+(4.4)% 
+0.9 
+(5.3) 
+0.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question: In FY2022, how did Johnson & Johnson's domestic (US) sales growth stack up against its international sales growth?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-00702-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Consolidated Statements of Income
+Pfizer Inc. and Subsidiary Companies
+ 
+Year Ended December 31,
+(MILLIONS, EXCEPT PER COMMON SHARE DATA)
+2021
+2020
+2019
+Revenues
+$
+81,288 
+$
+41,651 
+$
+40,905 
+Costs and expenses:
+ 
+ 
+Cost of sales
+30,821 
+8,484 
+8,054 
+Selling, informational and administrative expenses
+12,703 
+11,597 
+12,726 
+Research and development expenses
+13,829 
+9,393 
+8,385 
+Amortization of intangible assets
+3,700 
+3,348 
+4,429 
+Restructuring charges and certain acquisition-related costs
+802 
+579 
+601 
+(Gain) on completion of Consumer Healthcare JV transaction
+ 
+(6)
+(8,107)
+Other (income)/deductionsnet
+(4,878)
+1,219 
+3,497 
+Income from continuing operations before provision/(benefit) for taxes on income
+24,311 
+7,036 
+11,321 
+Provision/(benefit) for taxes on income
+1,852 
+370 
+583 
+Income from continuing operations
+22,459 
+6,666 
+10,738 
+Discontinued operationsnet of tax
+(434)
+2,529 
+5,318 
+Net income before allocation to noncontrolling interests
+22,025 
+9,195 
+16,056 
+Less: Net income attributable to noncontrolling interests
+45 
+36 
+29 
+Net income attributable to Pfizer Inc. common shareholders
+$
+21,979 
+$
+9,159 
+$
+16,026 
+Earnings per common sharebasic:
+ 
+ 
+ 
+Income from continuing operations attributable to Pfizer Inc. common shareholders
+$
+4.00 
+$
+1.19 
+$
+1.92 
+Discontinued operationsnet of tax
+(0.08)
+0.46 
+0.95 
+Net income attributable to Pfizer Inc. common shareholders
+$
+3.92 
+$
+1.65 
+$
+2.88 
+Earnings per common sharediluted:
+ 
+ 
+Income from continuing operations attributable to Pfizer Inc. common shareholders
+$
+3.93 
+$
+1.18 
+$
+1.89 
+Discontinued operationsnet of tax
+(0.08)
+0.45 
+0.94 
+Net income attributable to Pfizer Inc. common shareholders
+$
+3.85 
+$
+1.63 
+$
+2.82 
+Weighted-average sharesbasic
+5,601 
+5,555 
+5,569 
+Weighted-average sharesdiluted
+5,708 
+5,632 
+5,675 
+Exclusive of amortization of intangible assets, except as disclosed in Note 1M.
+See Accompanying Notes.
+(a)
+(a)
+(a)
+(a)
+Pfizer Inc.
+2021 Form 10-K
+51
+
+Question: Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-00702-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Consolidated Statements of Income
+Pfizer Inc. and Subsidiary Companies
+ 
+Year Ended December 31,
+(MILLIONS, EXCEPT PER COMMON SHARE DATA)
+2021
+2020
+2019
+Revenues
+$
+81,288 
+$
+41,651 
+$
+40,905 
+Costs and expenses:
+ 
+ 
+Cost of sales
+30,821 
+8,484 
+8,054 
+Selling, informational and administrative expenses
+12,703 
+11,597 
+12,726 
+Research and development expenses
+13,829 
+9,393 
+8,385 
+Amortization of intangible assets
+3,700 
+3,348 
+4,429 
+Restructuring charges and certain acquisition-related costs
+802 
+579 
+601 
+(Gain) on completion of Consumer Healthcare JV transaction
+ 
+(6)
+(8,107)
+Other (income)/deductionsnet
+(4,878)
+1,219 
+3,497 
+Income from continuing operations before provision/(benefit) for taxes on income
+24,311 
+7,036 
+11,321 
+Provision/(benefit) for taxes on income
+1,852 
+370 
+583 
+Income from continuing operations
+22,459 
+6,666 
+10,738 
+Discontinued operationsnet of tax
+(434)
+2,529 
+5,318 
+Net income before allocation to noncontrolling interests
+22,025 
+9,195 
+16,056 
+Less: Net income attributable to noncontrolling interests
+45 
+36 
+29 
+Net income attributable to Pfizer Inc. common shareholders
+$
+21,979 
+$
+9,159 
+$
+16,026 
+Earnings per common sharebasic:
+ 
+ 
+ 
+Income from continuing operations attributable to Pfizer Inc. common shareholders
+$
+4.00 
+$
+1.19 
+$
+1.92 
+Discontinued operationsnet of tax
+(0.08)
+0.46 
+0.95 
+Net income attributable to Pfizer Inc. common shareholders
+$
+3.92 
+$
+1.65 
+$
+2.88 
+Earnings per common sharediluted:
+ 
+ 
+Income from continuing operations attributable to Pfizer Inc. common shareholders
+$
+3.93 
+$
+1.18 
+$
+1.89 
+Discontinued operationsnet of tax
+(0.08)
+0.45 
+0.94 
+Net income attributable to Pfizer Inc. common shareholders
+$
+3.85 
+$
+1.63 
+$
+2.82 
+Weighted-average sharesbasic
+5,601 
+5,555 
+5,569 
+Weighted-average sharesdiluted
+5,708 
+5,632 
+5,675 
+Exclusive of amortization of intangible assets, except as disclosed in Note 1M.
+See Accompanying Notes.
+(a)
+(a)
+(a)
+(a)
+Pfizer Inc.
+2021 Form 10-K
+51
+
+Question: In 2019, did Pfizer experience any non-recurring, outside-the-ordinary-course occurrences that meaningfully boosted its net income?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-00651-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+ 
+ 
+FOR IMMEDIATE RELEASE 
+ 
+ 2022 Fourth-Quarter reported sales decline of 4.4% to $23.7 Billion primarily driven by unfavorable 
+foreign exchange and reduced COVID-19 Vaccine sales vs. prior year. Operational growth excluding 
+COVID-19 Vaccine of 4.6%* 
+ 2022 Fourth-Quarter earnings per share (EPS) of $1.33 decreasing 24.9% and adjusted EPS of $2.35 
+increasing by 10.3%* 
+__________________________________________________________________________________________ 
+ 2022 Full-Year reported sales growth of 1.3% to $94.9 Billion primarily driven by strong commercial 
+execution partially offset by unfavorable foreign exchange. Operational growth of 6.1%* 
+ 2022 Full-Year earnings per share (EPS) of $6.73 decreasing 13.8% and adjusted EPS of $10.15 
+increasing by 3.6%* 
+__________________________________________________________________________________________ 
+ Company guides 2023 adjusted operational sales growth excluding COVID-19 Vaccine of 4.0%* and 
+adjusted operational EPS of $10.50, reflecting growth of 3.5%* 
+New Brunswick, N.J. (January 24, 2023) Johnson & Johnson (NYSE: JNJ) today announced results for fourth-
+quarter and full year 2022. Our full year 2022 results reflect the continued strength and stability of our three 
+business segments, despite macroeconomic challenges, said Joaquin Duato, Chairman of the Board and Chief 
+Executive Officer. I am inspired by our employees who make a difference in the health and lives of people around 
+the world every day. As we look ahead to 2023, Johnson & Johnson is well-positioned to drive near-term growth, 
+while also investing strategically to deliver long-term value. 
+ 
+OVERALL FINANCIAL RESULTS 
+ 
+ 
+Q4 
+ 
+Full Year 
+($ in Millions, except EPS) 
+2022 
+2021 
+% Change 
+ 
+2022 
+2021 
+% Change 
+Reported Sales 
+$23,706 
+$24,804 
+(4.4)% 
+ 
+$94,943 
+$93,775 
+1.3% 
+Net Earnings 
+$3,520 
+$4,736 
+(25.7)% 
+ 
+$17,941 
+$20,878 
+(14.1)% 
+EPS (diluted) 
+$1.33 
+$1.77 
+(24.9)% 
+ 
+$6.73 
+$7.81 
+(13.8)% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question: For fiscal year 2023, is JnJ's adjusted EPS growth projected to speed up?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-00080-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+PayPal Holdings, Inc.
+CONSOLIDATED BALANCE SHEETS
+ 
+As of December 31,
+2022
+2021
+ 
+(In millions, except par value)
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+7,776 
+$
+5,197 
+Short-term investments
+3,092 
+4,303 
+Accounts receivable, net
+963 
+800 
+Loans and interest receivable, net of allowances of $598 and $491 as of December 31, 2022 and 2021,
+respectively
+7,431 
+4,846 
+Funds receivable and customer accounts
+36,357 
+36,141 
+Prepaid expenses and other current assets
+1,898 
+1,287 
+Total current assets
+57,517 
+52,574 
+Long-term investments
+5,018 
+6,797 
+Property and equipment, net
+1,730 
+1,909 
+Goodwill
+11,209 
+11,454 
+Intangible assets, net
+788 
+1,332 
+Other assets
+2,455 
+1,737 
+Total assets
+$
+78,717 
+$
+75,803 
+LIABILITIES AND EQUITY
+Current liabilities:
+Accounts payable
+$
+126 
+$
+197 
+Funds payable and amounts due to customers
+40,107 
+38,841 
+Accrued expenses and other current liabilities
+4,055 
+3,755 
+Income taxes payable
+813 
+236 
+Total current liabilities
+45,101 
+43,029 
+Deferred tax liability and other long-term liabilities
+2,925 
+2,998 
+Long-term debt
+10,417 
+8,049 
+Total liabilities
+58,443 
+54,076 
+Commitments and contingencies (Note 13)
+Equity:
+Common stock, $0.0001 par value; 4,000 shares authorized; 1,136 and 1,168 shares outstanding as of
+December 31, 2022 and 2021, respectively
+ 
+ 
+Preferred stock, $0.0001 par value; 100 shares authorized, unissued
+ 
+ 
+Treasury stock at cost, 173 and 132 shares as of December 31, 2022 and 2021, respectively
+(16,079)
+(11,880)
+Additional paid-in-capital
+18,327 
+17,208 
+Retained earnings
+18,954 
+16,535 
+Accumulated other comprehensive income (loss)
+(928)
+(136)
+Total equity
+20,274 
+21,727 
+Total liabilities and equity
+$
+78,717 
+$
+75,803 
+The accompanying notes are an integral part of these consolidated financial statements.
+61
+
+Question: Based on PayPal's fiscal year 2022 figures, is its working capital positive? If working capital isn't a meaningful metric for this particular company, please indicate that and provide your reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 12 | id=fb-00222-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Advanced Micro Devices, Inc.
+Consolidated Balance Sheets
+ 
+December 31,
+2022
+December 25,
+2021
+ 
+(In millions, except par value amounts)
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+4,835 
+$
+2,535 
+Short-term investments
+1,020 
+1,073 
+Accounts receivable, net
+4,126 
+2,706 
+Inventories
+3,771 
+1,955 
+Receivables from related parties
+2 
+2 
+Prepaid expenses and other current assets
+1,265 
+312 
+Total current assets
+15,019 
+8,583 
+Property and equipment, net
+1,513 
+702 
+Operating lease right-of-use assets
+460 
+367 
+Goodwill
+24,177 
+289 
+Acquisition-related intangibles
+24,118 
+ 
+Investment: equity method
+83 
+69 
+Deferred tax assets
+58 
+931 
+Other non-current assets
+2,152 
+1,478 
+Total assets
+$
+67,580 
+$
+12,419 
+LIABILITIES AND STOCKHOLDERS EQUITY
+Current liabilities:
+Accounts payable
+$
+2,493 
+$
+1,321 
+Payables to related parties
+463 
+85 
+Accrued liabilities
+3,077 
+2,424 
+Current portion of long-term debt, net
+ 
+312 
+Other current liabilities
+336 
+98 
+Total current liabilities
+6,369 
+4,240 
+Long-term debt, net of current portion
+2,467 
+1 
+Long-term operating lease liabilities
+396 
+348 
+Deferred tax liabilities
+1,934 
+12 
+Other long-term liabilities
+1,664 
+321 
+Commitments and Contingencies (see Notes 16 and 17)
+Stockholders equity:
+Capital stock:
+Common stock, par value $0.01; shares authorized: 2,250; shares issued: 1,645 and 1,232; shares
+outstanding: 1,612 and 1,207
+16 
+12 
+Additional paid-in capital
+58,005 
+11,069 
+Treasury stock, at cost (shares held: 33 and 25)
+(3,099)
+(2,130)
+Accumulated deficit
+(131)
+(1,451)
+Accumulated other comprehensive loss
+(41)
+(3)
+Total stockholders equity
+54,750 
+7,497 
+Total liabilities and stockholders equity
+$
+67,580 
+$
+12,419 
+See accompanying notes to consolidated financial statements.
+53
+
+Question: For fiscal year 2022, does AMD maintain a sufficiently strong liquidity position when evaluated through its quick ratio? Should the quick ratio not be a suitable liquidity measure in this case, please indicate that and provide the reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

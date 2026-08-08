@@ -1,0 +1,2548 @@
+You are sitting an exam made of 11 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-03620-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Consolidated Statement of Income
+PepsiCo, Inc. and Subsidiaries
+Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020
+(in millions except per share amounts)
+2022
+2021
+2020
+Net Revenue
+$
+86,392 $
+79,474 $
+70,372 
+Cost of sales
+40,576 
+37,075 
+31,797 
+Gross profit
+45,816 
+42,399 
+38,575 
+Selling, general and administrative expenses
+34,459 
+31,237 
+28,453 
+Gain associated with the Juice Transaction (see Note 13)
+(3,321)
+ 
+ 
+Impairment of intangible assets (see Notes 1 and 4)
+3,166 
+ 
+42 
+Operating Profit
+11,512 
+11,162 
+10,080 
+Other pension and retiree medical benefits income
+132 
+522 
+117 
+Net interest expense and other
+(939)
+(1,863)
+(1,128)
+Income before income taxes
+10,705 
+9,821 
+9,069 
+Provision for income taxes
+1,727 
+2,142 
+1,894 
+Net income
+8,978 
+7,679 
+7,175 
+Less: Net income attributable to noncontrolling interests
+68 
+61 
+55 
+Net Income Attributable to PepsiCo
+$
+8,910 $
+7,618 $
+7,120 
+Net Income Attributable to PepsiCo per Common Share
+Basic
+$
+6.45 $
+5.51 $
+5.14 
+Diluted
+$
+6.42 $
+5.49 $
+5.12 
+Weighted-average common shares outstanding
+Basic
+1,380 
+1,382 
+1,385 
+Diluted
+1,387 
+1,389 
+1,392 
+See accompanying notes to the consolidated financial statements.
+60
+
+
+---
+
+Table of Contents
+Consolidated Statement of Cash Flows
+PepsiCo, Inc. and Subsidiaries
+Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020
+(in millions)
+2022
+2021
+2020
+Operating Activities
+Net income
+$
+8,978 $
+7,679 $
+7,175 
+Depreciation and amortization
+2,763 
+2,710 
+2,548 
+Gain associated with the Juice Transaction
+(3,321)
+ 
+ 
+Impairment and other charges
+3,618 
+ 
+ 
+Operating lease right-of-use asset amortization
+517 
+505 
+478 
+Share-based compensation expense
+343 
+301 
+264 
+Restructuring and impairment charges
+411 
+247 
+289 
+Cash payments for restructuring charges
+(224)
+(256)
+(255)
+Acquisition and divestiture-related charges
+80 
+(4)
+255 
+Cash payments for acquisition and divestiture-related charges
+(46)
+(176)
+(131)
+Pension and retiree medical plan expenses
+419 
+123 
+408 
+Pension and retiree medical plan contributions
+(384)
+(785)
+(562)
+Deferred income taxes and other tax charges and credits
+(873)
+298 
+361 
+Tax expense related to the TCJ Act
+86 
+190 
+ 
+Tax payments related to the TCJ Act
+(309)
+(309)
+(78)
+Change in assets and liabilities:
+Accounts and notes receivable
+(1,763)
+(651)
+(420)
+Inventories
+(1,142)
+(582)
+(516)
+Prepaid expenses and other current assets
+118 
+159 
+26 
+Accounts payable and other current liabilities
+1,842 
+1,762 
+766 
+Income taxes payable
+57 
+30 
+(159)
+Other, net
+(359)
+375 
+164 
+Net Cash Provided by Operating Activities
+10,811 
+11,616 
+10,613 
+Investing Activities
+Capital spending
+(5,207)
+(4,625)
+(4,240)
+Sales of property, plant and equipment
+251 
+166 
+55 
+Acquisitions, net of cash acquired, investments in noncontrolled affiliates and purchases of
+intangible and other assets
+(873)
+(61)
+(6,372)
+Proceeds associated with the Juice Transaction
+3,456 
+ 
+ 
+Other divestitures, sales of investments in noncontrolled affiliates and other assets
+49 
+169 
+6 
+Short-term investments, by original maturity:
+More than three months - purchases
+(291)
+ 
+(1,135)
+More than three months - maturities
+150 
+1,135 
+ 
+Three months or less, net
+24 
+(58)
+27 
+Other investing, net
+11 
+5 
+40 
+Net Cash Used for Investing Activities
+(2,430)
+(3,269)
+(11,619)
+(Continued on following page)
+62
+
+Question: From the perspective of an investment analyst limited strictly to the income statement and statement of cash flows, calculate PepsiCo's FY2022 non-adjusted EBITDA minus capital expenditures, where non-adjusted EBITDA equals non-adjusted operating income plus depreciation and amortization taken from the cash flow statement. Provide the result in millions of USD.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-00757-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+We also work with our customers to create differentiated products that leverage our CPU, GPU and APU technology. Certain customers pay us non-recurring
+engineering fees for design and development services and a purchase price for the resulting products.
+One customer accounted for 16% of our consolidated net revenue for the year ended December 31, 2022. Sales to this customer consisted of sales of products
+from our Gaming segment. A loss of this customer would have a material adverse effect on our business.
+Original Equipment Manufacturers
+We focus on three types of OEM partners: multi-nationals, selected regional accounts and selected global and local system integrators, who target commercial
+and consumer end customers of all sizes. Large multi-nationals and regional accounts are the core of our OEM partners business; however, we are
+increasingly focused on the VAR channel which resells OEM systems to the mid-market and the small and medium business (SMB) segments. Additionally, we
+have increased our focus on global system integrators, which resell OEM systems, coupled with their software and services solutions into Enterprise, high
+performance computing (HPC) and Cloud Service Provider Customers. Our OEM customers include numerous foreign and domestic manufacturers of servers
+and workstations, desktops, notebooks, PC motherboards and game consoles.
+Third-Party Distributors
+Our authorized channel distributors resell to sub-distributors and OEMs, ODMs, and other customers. Typically, distributors handle a wide variety of products,
+and may include products from other manufacturers that compete with our products. Distributors typically maintain an inventory of our products. In most
+instances, our agreements with distributors protect their inventory of our products against price reductions and provide certain return rights with respect to any
+product that we have removed from our price book or otherwise subject to discontinuation. In addition, some agreements with our distributors may contain
+standard stock rotation provisions permitting limited product returns.
+Add-in-Board (AIB) Manufacturers and System Integrators
+We offer component-level graphics and chipset products to AIB manufacturers who in turn build and sell board-level products using our technology to system
+integrators (SIs), retail buyers and sub distributors. Our agreements with AIBs protect their inventory of our products against price reductions. We also sell
+directly to our SI customers. SIs typically sell from positions of regional or product-based strength in the market. They usually operate on short design cycles
+and can respond quickly with new technologies. SIs often use discrete graphics solutions as a means to differentiate their products and add value to their
+customers.
+Competition in Data Center Segment
+In Data Center, we compete against Intel Corporation (Intel) with our FPGA, Adaptive SoC, CPU and DPU server products and NVIDIA Corporation (NVIDIA)
+with our CPU, GPU and DPU server products. A variety of companies provide or have developed ARM-based microprocessors and platforms. ARM-based
+designs are being used in the server market, which could lead to further growth and development of the ARM ecosystem.
+Competition in Client Segment
+The markets in which we participate are highly competitive. Our primary competitor in the supply of CPUs is Intel. A variety of companies provide or have
+developed ARM-based microprocessors and platforms. ARM-based designs are being used in the PC market, which could lead to further growth and
+development of the ARM ecosystem.
+9
+
+Question: In its fiscal year 2022 disclosures, did AMD report having concentration among its customers?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-00460-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+Table of Contents
+ 
+Segment Performance Summary
+ 
+Domestic Segment
+ 
+Selected financial data for the Domestic segment was as follows ($ in millions):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Three Months Ended
+ 
+Six Months Ended
+ 
+July 29, 2023
+ 
+July 30, 2022
+ 
+July 29, 2023
+ 
+July 30, 2022
+Revenue
+$
+ 8,890 
+ $
+ 9,569 
+ $
+ 17,691 
+ $
+ 19,463 
+Revenue % change
+ 
+ (7.1)% 
+ (13.1)% 
+ (9.1)% 
+ (10.9)%
+Comparable sales % change(1)
+ 
+ (6.3)% 
+ (12.7)% 
+ (8.4)% 
+ (10.6)%
+Gross profit
+$
+ 2,052 
+ $
+ 2,109 
+ $
+ 4,044 
+ $
+ 4,279 
+Gross profit as a % of revenue
+ 
+ 23.1 % 
+ 22.0 % 
+ 22.9 % 
+ 22.0 %
+SG&A
+$
+ 1,730 
+ $
+ 1,732 
+ $
+ 3,440 
+ $
+ 3,473 
+SG&A as a % of revenue
+ 
+ 19.5 % 
+ 18.1 % 
+ 19.4 % 
+ 17.8 %
+Restructuring charges
+$
+ (7) 
+ $
+ 34 
+ $
+ (15) 
+ $
+ 34 
+Operating income
+$
+ 329 
+ $
+ 343 
+ $
+ 619 
+ $
+ 772 
+Operating income as a % of revenue
+ 
+ 3.7 % 
+ 3.6 % 
+ 3.5 % 
+ 4.0 %
+Selected Online Revenue Data
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total online revenue
+$
+ 2,763 
+ $
+ 2,975 
+ $
+ 5,451 
+ $
+ 6,034 
+Online revenue as a % of total segment revenue
+ 
+ 31.1 % 
+ 31.0 % 
+ 30.8 % 
+ 31.0 %
+Comparable online sales % change(1)
+ 
+ (7.1)% 
+ (14.7)% 
+ (9.7)% 
+ (14.8)%
+(1)
+Comparable online sales are included in the comparable sales calculation.
+ 
+The decrease in revenue in the second quarter and first six months of fiscal 2024 was primarily driven by comparable sales declines in appliances, home theater, 
+computing and mobile phones, partially offset by comparable sales growth in gaming. Online revenue of $2.8 billion and $5.5 billion in the second quarter and 
+first six months of fiscal 2024 decreased 7.1% and 9.7% on a comparable basis, respectively. These decreases in revenue were primarily due to the reasons 
+described above and within the Consolidated Results section, above.
+ 
+Domestic segment stores open at the beginning and end of the second quarters of fiscal 2024 and fiscal 2023 were as follows:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal 2024
+ 
+Fiscal 2023
+ 
+Total Stores at 
+Beginning of 
+Second Quarter 
+Stores 
+Opened
+ 
+Stores 
+Closed
+ 
+Total Stores at 
+End of Second 
+Quarter
+ 
+Total Stores at 
+Beginning of 
+Second Quarter 
+Stores 
+Opened
+ 
+Stores 
+Closed
+ 
+Total Stores at 
+End of Second 
+Quarter
+Best Buy
+ 
+ 908 
+ - 
+ (1) 
+ 907 
+ 931 
+ 1 
+ (2) 
+ 930 
+Outlet Centers
+ 
+ 20 
+ 1 
+ (1) 
+ 20 
+ 16 
+ 2 
+ - 
+ 18 
+Pacific Sales
+ 
+ 20 
+ - 
+ - 
+ 20 
+ 21 
+ - 
+ - 
+ 21 
+Yardbird
+ 
+ 18 
+ 4 
+ - 
+ 22 
+ 9 
+ 4 
+ - 
+ 13 
+Total
+ 
+ 966 
+ 5 
+ (2) 
+ 969 
+ 977 
+ 7 
+ (2) 
+ 982 
+ 
+We continuously monitor store performance as part of a market-driven, omnichannel strategy. As we approach the expiration of leases, we evaluate various 
+options for each location, including whether a store should remain open. We currently expect to close a total of 20 to 30 Best Buy stores and open approximately 
+5 Outlet Centers in fiscal 2024.
+ 
+Domestic segment revenue mix percentages and comparable sales percentage changes by revenue category were as follows:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Revenue Mix
+ 
+ 
+ 
+Comparable Sales
+ 
+ 
+ 
+Three Months Ended
+ 
+ 
+ 
+Three Months Ended
+ 
+ 
+July 29, 2023
+ 
+July 30, 2022
+ 
+July 29, 2023
+ 
+July 30, 2022
+Computing and Mobile Phones
+ 
+ 41 % 
+ 
+ 42 % 
+ 
+ (6.4)% 
+ 
+ (16.6)%
+Consumer Electronics
+ 
+ 30 % 
+ 
+ 30 % 
+ 
+ (5.7)% 
+ 
+ (14.7)%
+Appliances
+ 
+ 16 % 
+ 
+ 17 % 
+ 
+ (16.1)% 
+ 
+ (1.2)%
+Entertainment
+ 
+ 6 % 
+ 
+ 5 % 
+ 
+ 9.0 % 
+ 
+ (9.2)%
+Services
+ 
+ 6 % 
+ 
+ 5 % 
+ 
+ 7.6 % 
+ 
+ (8.5)%
+Other
+ 
+ 1 % 
+ 
+ 1 % 
+ 
+ 2.4 % 
+ 
+ 15.6 
+Total
+ 
+ 100 % 
+ 
+ 100 % 
+ 
+ (6.3)% 
+ 
+ (12.7)%
+ 
+17
+
+Question: Did the total number of Best Buy stores change from Q2 FY2023 to Q2 FY2024?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-00746-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+FORM 10-K
+ Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the fiscal year ended January 28, 2023
+or
+ Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from _____________ to _____________
+Commission File Number: 001-33764
+ULTA BEAUTY, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+(State or other jurisdiction of
+incorporation or organization)
+38-4022268
+(I.R.S. Employer
+Identification No.)
+1000 Remington Blvd., Suite 120
+Bolingbrook, Illinois
+(Address of principal executive offices)
+60440
+(Zip code)
+Registrants telephone number, including area code: (630) 410-4800
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading symbol
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+ULTA
+The NASDAQ Global Select Market
+Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of
+Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such
+files). Yes No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or
+emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth
+company in Rule 12b-2 of the Exchange Act.:
+Large accelerated filer 
+Accelerated filer 
+Non-accelerated filer 
+Smaller reporting company 
+Emerging growth company 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new
+or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+Indicate by check mark whether the registrant has filed a report on and attestation to its managements assessment of the effectiveness of its internal control
+over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. 
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the 
+filing reflect the correction of an error to previously issued financial statements. 
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received
+by any of the registrants executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Question: As of fiscal year 2023, which of Ulta Beauty's debt securities are listed for trading on a national securities exchange?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-00746-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+FORM 10-K
+ Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the fiscal year ended January 28, 2023
+or
+ Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from _____________ to _____________
+Commission File Number: 001-33764
+ULTA BEAUTY, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+(State or other jurisdiction of
+incorporation or organization)
+38-4022268
+(I.R.S. Employer
+Identification No.)
+1000 Remington Blvd., Suite 120
+Bolingbrook, Illinois
+(Address of principal executive offices)
+60440
+(Zip code)
+Registrants telephone number, including area code: (630) 410-4800
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading symbol
+Name of each exchange on which registered
+Common stock, par value $0.01 per share
+ULTA
+The NASDAQ Global Select Market
+Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of
+Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such
+files). Yes No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or
+emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth
+company in Rule 12b-2 of the Exchange Act.:
+Large accelerated filer 
+Accelerated filer 
+Non-accelerated filer 
+Smaller reporting company 
+Emerging growth company 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new
+or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+Indicate by check mark whether the registrant has filed a report on and attestation to its managements assessment of the effectiveness of its internal control
+over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. 
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the 
+filing reflect the correction of an error to previously issued financial statements. 
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received
+by any of the registrants executive officers during the relevant recovery period pursuant to 240.10D-1(b). 
+
+Question: Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-04481-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Consolidated Statement of Income
+PepsiCo, Inc. and Subsidiaries
+Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020
+(in millions except per share amounts)
+2022
+2021
+2020
+Net Revenue
+$
+86,392 $
+79,474 $
+70,372 
+Cost of sales
+40,576 
+37,075 
+31,797 
+Gross profit
+45,816 
+42,399 
+38,575 
+Selling, general and administrative expenses
+34,459 
+31,237 
+28,453 
+Gain associated with the Juice Transaction (see Note 13)
+(3,321)
+ 
+ 
+Impairment of intangible assets (see Notes 1 and 4)
+3,166 
+ 
+42 
+Operating Profit
+11,512 
+11,162 
+10,080 
+Other pension and retiree medical benefits income
+132 
+522 
+117 
+Net interest expense and other
+(939)
+(1,863)
+(1,128)
+Income before income taxes
+10,705 
+9,821 
+9,069 
+Provision for income taxes
+1,727 
+2,142 
+1,894 
+Net income
+8,978 
+7,679 
+7,175 
+Less: Net income attributable to noncontrolling interests
+68 
+61 
+55 
+Net Income Attributable to PepsiCo
+$
+8,910 $
+7,618 $
+7,120 
+Net Income Attributable to PepsiCo per Common Share
+Basic
+$
+6.45 $
+5.51 $
+5.14 
+Diluted
+$
+6.42 $
+5.49 $
+5.12 
+Weighted-average common shares outstanding
+Basic
+1,380 
+1,382 
+1,385 
+Diluted
+1,387 
+1,389 
+1,392 
+See accompanying notes to the consolidated financial statements.
+60
+
+
+---
+
+Table of Contents
+Consolidated Statement of Cash Flows
+PepsiCo, Inc. and Subsidiaries
+Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020
+(in millions)
+2022
+2021
+2020
+Operating Activities
+Net income
+$
+8,978 $
+7,679 $
+7,175 
+Depreciation and amortization
+2,763 
+2,710 
+2,548 
+Gain associated with the Juice Transaction
+(3,321)
+ 
+ 
+Impairment and other charges
+3,618 
+ 
+ 
+Operating lease right-of-use asset amortization
+517 
+505 
+478 
+Share-based compensation expense
+343 
+301 
+264 
+Restructuring and impairment charges
+411 
+247 
+289 
+Cash payments for restructuring charges
+(224)
+(256)
+(255)
+Acquisition and divestiture-related charges
+80 
+(4)
+255 
+Cash payments for acquisition and divestiture-related charges
+(46)
+(176)
+(131)
+Pension and retiree medical plan expenses
+419 
+123 
+408 
+Pension and retiree medical plan contributions
+(384)
+(785)
+(562)
+Deferred income taxes and other tax charges and credits
+(873)
+298 
+361 
+Tax expense related to the TCJ Act
+86 
+190 
+ 
+Tax payments related to the TCJ Act
+(309)
+(309)
+(78)
+Change in assets and liabilities:
+Accounts and notes receivable
+(1,763)
+(651)
+(420)
+Inventories
+(1,142)
+(582)
+(516)
+Prepaid expenses and other current assets
+118 
+159 
+26 
+Accounts payable and other current liabilities
+1,842 
+1,762 
+766 
+Income taxes payable
+57 
+30 
+(159)
+Other, net
+(359)
+375 
+164 
+Net Cash Provided by Operating Activities
+10,811 
+11,616 
+10,613 
+Investing Activities
+Capital spending
+(5,207)
+(4,625)
+(4,240)
+Sales of property, plant and equipment
+251 
+166 
+55 
+Acquisitions, net of cash acquired, investments in noncontrolled affiliates and purchases of
+intangible and other assets
+(873)
+(61)
+(6,372)
+Proceeds associated with the Juice Transaction
+3,456 
+ 
+ 
+Other divestitures, sales of investments in noncontrolled affiliates and other assets
+49 
+169 
+6 
+Short-term investments, by original maturity:
+More than three months - purchases
+(291)
+ 
+(1,135)
+More than three months - maturities
+150 
+1,135 
+ 
+Three months or less, net
+24 
+(58)
+27 
+Other investing, net
+11 
+5 
+40 
+Net Cash Used for Investing Activities
+(2,430)
+(3,269)
+(11,619)
+(Continued on following page)
+62
+
+Question: What is the FY2022 unadjusted EBITDA % margin for PepsiCo? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement). Give a response to the question by relying on the details shown in the statement of cash flows and the P&L statement.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-04481-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Consolidated Statement of Income
+PepsiCo, Inc. and Subsidiaries
+Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020
+(in millions except per share amounts)
+2022
+2021
+2020
+Net Revenue
+$
+86,392 $
+79,474 $
+70,372 
+Cost of sales
+40,576 
+37,075 
+31,797 
+Gross profit
+45,816 
+42,399 
+38,575 
+Selling, general and administrative expenses
+34,459 
+31,237 
+28,453 
+Gain associated with the Juice Transaction (see Note 13)
+(3,321)
+ 
+ 
+Impairment of intangible assets (see Notes 1 and 4)
+3,166 
+ 
+42 
+Operating Profit
+11,512 
+11,162 
+10,080 
+Other pension and retiree medical benefits income
+132 
+522 
+117 
+Net interest expense and other
+(939)
+(1,863)
+(1,128)
+Income before income taxes
+10,705 
+9,821 
+9,069 
+Provision for income taxes
+1,727 
+2,142 
+1,894 
+Net income
+8,978 
+7,679 
+7,175 
+Less: Net income attributable to noncontrolling interests
+68 
+61 
+55 
+Net Income Attributable to PepsiCo
+$
+8,910 $
+7,618 $
+7,120 
+Net Income Attributable to PepsiCo per Common Share
+Basic
+$
+6.45 $
+5.51 $
+5.14 
+Diluted
+$
+6.42 $
+5.49 $
+5.12 
+Weighted-average common shares outstanding
+Basic
+1,380 
+1,382 
+1,385 
+Diluted
+1,387 
+1,389 
+1,392 
+See accompanying notes to the consolidated financial statements.
+60
+
+
+---
+
+Table of Contents
+Consolidated Statement of Cash Flows
+PepsiCo, Inc. and Subsidiaries
+Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020
+(in millions)
+2022
+2021
+2020
+Operating Activities
+Net income
+$
+8,978 $
+7,679 $
+7,175 
+Depreciation and amortization
+2,763 
+2,710 
+2,548 
+Gain associated with the Juice Transaction
+(3,321)
+ 
+ 
+Impairment and other charges
+3,618 
+ 
+ 
+Operating lease right-of-use asset amortization
+517 
+505 
+478 
+Share-based compensation expense
+343 
+301 
+264 
+Restructuring and impairment charges
+411 
+247 
+289 
+Cash payments for restructuring charges
+(224)
+(256)
+(255)
+Acquisition and divestiture-related charges
+80 
+(4)
+255 
+Cash payments for acquisition and divestiture-related charges
+(46)
+(176)
+(131)
+Pension and retiree medical plan expenses
+419 
+123 
+408 
+Pension and retiree medical plan contributions
+(384)
+(785)
+(562)
+Deferred income taxes and other tax charges and credits
+(873)
+298 
+361 
+Tax expense related to the TCJ Act
+86 
+190 
+ 
+Tax payments related to the TCJ Act
+(309)
+(309)
+(78)
+Change in assets and liabilities:
+Accounts and notes receivable
+(1,763)
+(651)
+(420)
+Inventories
+(1,142)
+(582)
+(516)
+Prepaid expenses and other current assets
+118 
+159 
+26 
+Accounts payable and other current liabilities
+1,842 
+1,762 
+766 
+Income taxes payable
+57 
+30 
+(159)
+Other, net
+(359)
+375 
+164 
+Net Cash Provided by Operating Activities
+10,811 
+11,616 
+10,613 
+Investing Activities
+Capital spending
+(5,207)
+(4,625)
+(4,240)
+Sales of property, plant and equipment
+251 
+166 
+55 
+Acquisitions, net of cash acquired, investments in noncontrolled affiliates and purchases of
+intangible and other assets
+(873)
+(61)
+(6,372)
+Proceeds associated with the Juice Transaction
+3,456 
+ 
+ 
+Other divestitures, sales of investments in noncontrolled affiliates and other assets
+49 
+169 
+6 
+Short-term investments, by original maturity:
+More than three months - purchases
+(291)
+ 
+(1,135)
+More than three months - maturities
+150 
+1,135 
+ 
+Three months or less, net
+24 
+(58)
+27 
+Other investing, net
+11 
+5 
+40 
+Net Cash Used for Investing Activities
+(2,430)
+(3,269)
+(11,619)
+(Continued on following page)
+62
+
+Question: Using PepsiCo's cash flow statement and income statement, and computing unadjusted EBITDA from unadjusted operating income plus depreciation and amortization (per the cash flow statement), what was the resulting unadjusted EBITDA margin as a percentage for fiscal year 2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-06247-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Walmart Inc.
+Consolidated Statements of Income
+ 
+ 
+Fiscal Years Ended January 31,
+(Amounts in millions, except per share data)
+ 
+2018
+ 
+2017
+ 
+2016
+Revenues:
+ 
+ 
+ 
+Net sales
+ $
+495,761
+ $
+481,317 $
+478,614
+Membership and other income
+ 
+4,582
+ 
+4,556 
+3,516
+Total revenues
+ 
+500,343
+ 
+485,873 
+482,130
+Costs and expenses:
+ 
+ 
+ 
+Cost of sales
+ 
+373,396
+ 
+361,256 
+360,984
+Operating, selling, general and administrative expenses
+ 
+106,510
+ 
+101,853 
+97,041
+Operating income
+ 
+20,437
+ 
+22,764 
+24,105
+Interest:
+ 
+ 
+ 
+Debt
+ 
+1,978
+ 
+2,044 
+2,027
+Capital lease and financing obligations
+ 
+352
+ 
+323 
+521
+Interest income
+ 
+(152) 
+(100) 
+(81)
+Interest, net
+ 
+2,178
+ 
+2,267 
+2,467
+Loss on extinguishment of debt
+ 
+3,136
+ 
+ 
+
+Income before income taxes
+ 
+15,123
+ 
+20,497 
+21,638
+Provision for income taxes
+ 
+4,600
+ 
+6,204 
+6,558
+Consolidated net income
+ 
+10,523
+ 
+14,293 
+15,080
+Consolidated net income attributable to noncontrolling interest
+ 
+(661) 
+(650) 
+(386)
+Consolidated net income attributable to Walmart
+ $
+9,862
+ $
+13,643 $
+14,694
+ 
+ 
+ 
+ 
+Net income per common share:
+ 
+ 
+ 
+Basic net income per common share attributable to Walmart
+ $
+3.29
+ $
+4.40 $
+4.58
+Diluted net income per common share attributable to Walmart
+ 
+3.28
+ 
+4.38 
+4.57
+ 
+ 
+ 
+ 
+Weighted-average common shares outstanding:
+ 
+ 
+ 
+Basic
+ 
+2,995
+ 
+3,101 
+3,207
+Diluted
+ 
+3,010
+ 
+3,112 
+3,217
+ 
+ 
+ 
+ 
+Dividends declared per common share
+ $
+2.04
+ $
+2.00 $
+1.96
+See accompanying notes.
+55
+
+
+---
+
+Walmart Inc.
+Consolidated Balance Sheets
+ 
+ 
+As of January 31,
+(Amounts in millions)
+ 
+2018
+ 
+2017
+ASSETS
+ 
+ 
+Current assets:
+ 
+ 
+Cash and cash equivalents
+ $
+6,756
+ $
+6,867
+Receivables, net
+ 
+5,614
+ 
+5,835
+Inventories
+ 
+43,783
+ 
+43,046
+Prepaid expenses and other
+ 
+3,511
+ 
+1,941
+Total current assets
+ 
+59,664
+ 
+57,689
+Property and equipment:
+ 
+ 
+Property and equipment
+ 
+185,154
+ 
+179,492
+Less accumulated depreciation
+ 
+(77,479) 
+(71,782)
+Property and equipment, net
+ 
+107,675
+ 
+107,710
+Property under capital lease and financing obligations:
+ 
+ 
+Property under capital lease and financing obligations
+ 
+12,703
+ 
+11,637
+Less accumulated amortization
+ 
+(5,560) 
+(5,169)
+Property under capital lease and financing obligations, net
+ 
+7,143
+ 
+6,468
+ 
+ 
+ 
+Goodwill
+ 
+18,242
+ 
+17,037
+Other assets and deferred charges
+ 
+11,798
+ 
+9,921
+Total assets
+ $
+204,522
+ $
+198,825
+ 
+ 
+ 
+LIABILITIES AND EQUITY
+ 
+ 
+Current liabilities:
+ 
+ 
+Short-term borrowings
+ $
+5,257
+ $
+1,099
+Accounts payable
+ 
+46,092
+ 
+41,433
+Accrued liabilities
+ 
+22,122
+ 
+20,654
+Accrued income taxes
+ 
+645
+ 
+921
+Long-term debt due within one year
+ 
+3,738
+ 
+2,256
+Capital lease and financing obligations due within one year
+ 
+667
+ 
+565
+Total current liabilities
+ 
+78,521
+ 
+66,928
+ 
+ 
+ 
+Long-term debt
+ 
+30,045
+ 
+36,015
+Long-term capital lease and financing obligations
+ 
+6,780
+ 
+6,003
+Deferred income taxes and other
+ 
+8,354
+ 
+9,344
+ 
+ 
+ 
+Commitments and contingencies
+ 
+ 
+ 
+ 
+ 
+Equity:
+ 
+ 
+Common stock
+ 
+295
+ 
+305
+Capital in excess of par value
+ 
+2,648
+ 
+2,371
+Retained earnings
+ 
+85,107
+ 
+89,354
+Accumulated other comprehensive loss
+ 
+(10,181) 
+(14,232)
+Total Walmart shareholders' equity
+ 
+77,869
+ 
+77,798
+Noncontrolling interest
+ 
+2,953
+ 
+2,737
+Total equity
+ 
+80,822
+ 
+80,535
+Total liabilities and equity
+ $
+204,522
+ $
+198,825
+See accompanying notes.
+57
+
+Question: What is FY2018 days payable outstanding (DPO) for Walmart? DPO is defined as: 365 * (average accounts payable between FY2017 and FY2018) / (FY2018 COGS + change in inventory between FY2017 and FY2018). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the statement of financial position and the P&L statement.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-06247-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Walmart Inc.
+Consolidated Statements of Income
+ 
+ 
+Fiscal Years Ended January 31,
+(Amounts in millions, except per share data)
+ 
+2018
+ 
+2017
+ 
+2016
+Revenues:
+ 
+ 
+ 
+Net sales
+ $
+495,761
+ $
+481,317 $
+478,614
+Membership and other income
+ 
+4,582
+ 
+4,556 
+3,516
+Total revenues
+ 
+500,343
+ 
+485,873 
+482,130
+Costs and expenses:
+ 
+ 
+ 
+Cost of sales
+ 
+373,396
+ 
+361,256 
+360,984
+Operating, selling, general and administrative expenses
+ 
+106,510
+ 
+101,853 
+97,041
+Operating income
+ 
+20,437
+ 
+22,764 
+24,105
+Interest:
+ 
+ 
+ 
+Debt
+ 
+1,978
+ 
+2,044 
+2,027
+Capital lease and financing obligations
+ 
+352
+ 
+323 
+521
+Interest income
+ 
+(152) 
+(100) 
+(81)
+Interest, net
+ 
+2,178
+ 
+2,267 
+2,467
+Loss on extinguishment of debt
+ 
+3,136
+ 
+ 
+
+Income before income taxes
+ 
+15,123
+ 
+20,497 
+21,638
+Provision for income taxes
+ 
+4,600
+ 
+6,204 
+6,558
+Consolidated net income
+ 
+10,523
+ 
+14,293 
+15,080
+Consolidated net income attributable to noncontrolling interest
+ 
+(661) 
+(650) 
+(386)
+Consolidated net income attributable to Walmart
+ $
+9,862
+ $
+13,643 $
+14,694
+ 
+ 
+ 
+ 
+Net income per common share:
+ 
+ 
+ 
+Basic net income per common share attributable to Walmart
+ $
+3.29
+ $
+4.40 $
+4.58
+Diluted net income per common share attributable to Walmart
+ 
+3.28
+ 
+4.38 
+4.57
+ 
+ 
+ 
+ 
+Weighted-average common shares outstanding:
+ 
+ 
+ 
+Basic
+ 
+2,995
+ 
+3,101 
+3,207
+Diluted
+ 
+3,010
+ 
+3,112 
+3,217
+ 
+ 
+ 
+ 
+Dividends declared per common share
+ $
+2.04
+ $
+2.00 $
+1.96
+See accompanying notes.
+55
+
+
+---
+
+Walmart Inc.
+Consolidated Balance Sheets
+ 
+ 
+As of January 31,
+(Amounts in millions)
+ 
+2018
+ 
+2017
+ASSETS
+ 
+ 
+Current assets:
+ 
+ 
+Cash and cash equivalents
+ $
+6,756
+ $
+6,867
+Receivables, net
+ 
+5,614
+ 
+5,835
+Inventories
+ 
+43,783
+ 
+43,046
+Prepaid expenses and other
+ 
+3,511
+ 
+1,941
+Total current assets
+ 
+59,664
+ 
+57,689
+Property and equipment:
+ 
+ 
+Property and equipment
+ 
+185,154
+ 
+179,492
+Less accumulated depreciation
+ 
+(77,479) 
+(71,782)
+Property and equipment, net
+ 
+107,675
+ 
+107,710
+Property under capital lease and financing obligations:
+ 
+ 
+Property under capital lease and financing obligations
+ 
+12,703
+ 
+11,637
+Less accumulated amortization
+ 
+(5,560) 
+(5,169)
+Property under capital lease and financing obligations, net
+ 
+7,143
+ 
+6,468
+ 
+ 
+ 
+Goodwill
+ 
+18,242
+ 
+17,037
+Other assets and deferred charges
+ 
+11,798
+ 
+9,921
+Total assets
+ $
+204,522
+ $
+198,825
+ 
+ 
+ 
+LIABILITIES AND EQUITY
+ 
+ 
+Current liabilities:
+ 
+ 
+Short-term borrowings
+ $
+5,257
+ $
+1,099
+Accounts payable
+ 
+46,092
+ 
+41,433
+Accrued liabilities
+ 
+22,122
+ 
+20,654
+Accrued income taxes
+ 
+645
+ 
+921
+Long-term debt due within one year
+ 
+3,738
+ 
+2,256
+Capital lease and financing obligations due within one year
+ 
+667
+ 
+565
+Total current liabilities
+ 
+78,521
+ 
+66,928
+ 
+ 
+ 
+Long-term debt
+ 
+30,045
+ 
+36,015
+Long-term capital lease and financing obligations
+ 
+6,780
+ 
+6,003
+Deferred income taxes and other
+ 
+8,354
+ 
+9,344
+ 
+ 
+ 
+Commitments and contingencies
+ 
+ 
+ 
+ 
+ 
+Equity:
+ 
+ 
+Common stock
+ 
+295
+ 
+305
+Capital in excess of par value
+ 
+2,648
+ 
+2,371
+Retained earnings
+ 
+85,107
+ 
+89,354
+Accumulated other comprehensive loss
+ 
+(10,181) 
+(14,232)
+Total Walmart shareholders' equity
+ 
+77,869
+ 
+77,798
+Noncontrolling interest
+ 
+2,953
+ 
+2,737
+Total equity
+ 
+80,822
+ 
+80,535
+Total liabilities and equity
+ $
+204,522
+ $
+198,825
+See accompanying notes.
+57
+
+Question: Calculate Walmart's days payable outstanding (DPO) for FY2018, using the formula: 365 * (average accounts payable across FY2017 and FY2018) / (FY2018 COGS plus the change in inventory from FY2017 to FY2018). Give your answer rounded to two decimal places, drawing mainly on data from the balance sheet and the income statement.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-00407-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: The following tables present information regarding the Companys debt investments:
+Fair value level
+June 30, 2023
+December 31, 2022
+(In thousands)
+Cash and cash equivalents:
+Money market funds
+Level 1
+$
+2,195 
+$
+12,009 
+Commercial paper and certificates of deposit
+Level 2
+ 
+5,992 
+Cash and cash equivalents
+2,195 
+18,001 
+Short-term investments:
+U.S. government securities
+Level 1
+57,696 
+56,835 
+U.S. agency securities
+Level 2
+29,049 
+9,530 
+Commercial paper and certificates of deposit
+Level 2
+4,561 
+4,466 
+Corporate bonds
+Level 2
+416,420 
+213,875 
+Short-term investments
+507,726 
+284,706 
+Total debt investments
+$
+509,921 
+$
+302,707 
+Restricted cash. MGM Chinas pledged cash of $87 million and $124 million as of June 30, 2023 and December 31, 2022, respectively, securing the
+bank guarantees discussed in Note 9 is restricted in use and classified within Other long-term assets, net. Such amounts plus Cash and cash equivalents on
+the consolidated balance sheets equal Cash, cash equivalents, and restricted cash on the consolidated statements of cash flows as of June 30, 2023 and
+December 31, 2022.
+Accounts receivable. As of June 30, 2023 and December 31, 2022, the loss reserve on accounts receivable was $129 million and $113 million,
+respectively.
+Note receivable. In February 2023, the secured note receivable related to the sale of Circus Circus Las Vegas and the adjacent land was repaid, prior to
+maturity, for $170 million, which approximated its carrying value on the date of repayment. As of December 31, 2022, the carrying value of the note receivable
+was $167 million and was recorded within Other long-term assets, net on the consolidated balance sheets.
+Accounts payable. As of June 30, 2023 and December 31, 2022, the Company had accrued $60 million and $80 million, respectively, for purchases of
+property and equipment within Accounts and construction payable on the consolidated balance sheets.
+Revenue recognition. Contract and Contract-Related Liabilities. There may be a difference between the timing of cash receipts from the customer and
+the recognition of revenue, resulting in a contract or contract-related liability. The Company generally has three types of liabilities related to contracts with
+customers: (1) outstanding chip liability, which represents the amounts owed in exchange for gaming chips held by a customer, (2) loyalty program obligations,
+which represents the deferred allocation of revenue relating to loyalty program incentives earned, and (3) customer advances and other, which is primarily
+funds deposited by customers before gaming play occurs (casino front money) and advance payments on goods and services yet to be provided, such as
+advance ticket sales and deposits on rooms and convention space or for unpaid wagers. These liabilities are generally expected to be recognized as revenue
+within one year of being purchased, earned, or deposited and are recorded within Other accrued liabilities on the consolidated balance sheets.
+The following table summarizes the activity related to contract and contract-related liabilities:
+ 
+Outstanding Chip Liability
+Loyalty Program
+Customer Advances and Other
+ 
+2023
+ 
+2022
+2023
+ 
+2022
+2023
+ 
+2022
+ 
+(In thousands)
+Balance at January 1
+$
+185,669 
+$
+176,219 
+$
+183,602 
+$
+144,465 
+$
+816,376 
+$
+640,001 
+Balance at June 30
+196,446 
+165,564 
+194,570 
+160,752 
+806,072 
+704,404 
+Increase / (decrease)
+$
+10,777 
+$
+(10,655)
+$
+10,968 
+$
+16,287 
+$
+(10,304)
+$
+64,403 
+9
+
+Question: For MGM's short-term investments in H1 FY2023, which debt category attracted the highest amount of investment?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-03069-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Advanced Micro Devices, Inc.
+Consolidated Statements of Operations
+ 
+ 
+Year Ended
+ 
+December 26,
+ 
+2015
+ 
+December 27,
+ 
+2014
+ 
+December 28,
+ 
+2013
+ 
+(In millions, except per share amounts)
+Net revenue
+$
+3,991 $
+5,506 $
+5,299 
+Cost of sales
+2,911 
+3,667 
+3,321 
+Gross margin
+1,080 
+1,839 
+1,978 
+Research and development
+947 
+1,072 
+1,201 
+Marketing, general and administrative
+482 
+604 
+674 
+Amortization of acquired intangible assets
+3 
+14 
+18 
+Restructuring and other special charges, net
+129 
+71 
+30 
+Goodwill impairment charge
+ 
+233 
+ 
+Legal settlements, net
+ 
+ 
+(48)
+Operating income (loss)
+(481) 
+(155) 
+103 
+Interest expense
+(160) 
+(177) 
+(177)
+Other expense, net
+(5) 
+(66) 
+ 
+Loss before income taxes
+(646) 
+(398) 
+(74)
+Provision for income taxes
+14 
+5 
+9 
+Net loss
+$
+(660) $
+(403) $
+(83)
+Net loss per share
+ 
+ 
+ 
+Basic
+$
+(0.84) $
+(0.53) $
+(0.11)
+Diluted
+$
+(0.84) $
+(0.53) $
+(0.11)
+Shares used in per share calculation
+ 
+ 
+ 
+Basic
+783 
+768 
+754 
+Diluted
+783 
+768 
+754 
+See accompanying notes to consolidated financial statements.
+ 
+54
+
+
+---
+
+ 
+ 
+Advanced Micro Devices, Inc.
+Consolidated Statements of Cash Flows 
+ 
+Year Ended
+ 
+December 26,
+ 
+2015
+ 
+December 27,
+ 
+2014
+ 
+December 28,
+ 
+2013
+ 
+(In millions)
+Cash flows from operating activities:
+ 
+ 
+ 
+Net loss
+$
+(660) $
+(403) $
+(83)
+Adjustments to reconcile net loss to net cash used in operating activities:
+ 
+ 
+ 
+Depreciation and amortization
+167 
+203 
+236 
+Net loss on disposal of property, plant and equipment
+ 
+ 
+31 
+Stock-based compensation expense
+63 
+81 
+91 
+Non-cash interest expense
+11 
+17 
+25 
+Goodwill impairment charge
+ 
+233 
+ 
+Restructuring and other special charges, net
+83 
+14 
+ 
+Net loss on debt redemptions
+ 
+61 
+1 
+Other
+(3) 
+(13) 
+(1)
+Changes in operating assets and liabilities:
+ 
+ 
+ 
+Accounts receivable
+280 
+7 
+(200)
+Inventories
+(11) 
+199 
+(322)
+Prepayments and other - GLOBALFOUNDRIES
+84 
+(113) 
+ 
+Prepaid expenses and other assets
+(111) 
+(7) 
+(103)
+Accounts payables, accrued liabilities and other
+(156) 
+(231) 
+266 
+Payable to GLOBALFOUNDRIES
+27 
+(146) 
+(89)
+Net cash used in operating activities
+(226) 
+(98) 
+(148)
+Cash flows from investing activities:
+ 
+ 
+ 
+Purchases of available-for-sale securities
+(227) 
+(790) 
+(1,043)
+Purchases of property, plant and equipment
+(96) 
+(95) 
+(84)
+Proceeds from sales and maturities of available-for-sale securities
+462 
+873 
+1,344 
+Proceeds from sale of property, plant and equipment
+8 
+ 
+238 
+Net cash provided by (used in) investing activities
+147 
+(12) 
+455 
+Cash flows from financing activities:
+ 
+ 
+ 
+Proceeds from borrowings, net
+100 
+1,155 
+55 
+Proceeds from issuance of common stock
+5 
+4 
+3 
+Repayments of long-term debt and capital lease obligations
+(44) 
+(1,115) 
+(55)
+Other
+(2) 
+2 
+10 
+Net cash provided by financing activities
+59 
+46 
+13 
+Net increase (decrease) in cash and cash equivalents
+(20) 
+(64) 
+320 
+Cash and cash equivalents at beginning of year
+805 
+869 
+549 
+Cash and cash equivalents at end of year
+$
+785 $
+805 $
+869 
+Supplemental disclosures of cash flow information:
+ 
+ 
+ 
+Cash paid during the year for:
+ 
+ 
+ 
+Interest
+$
+149 $
+138 $
+152 
+Income taxes
+$
+3 $
+7 $
+9 
+See accompanying notes to consolidated financial statements.
+ 
+ 
+58
+
+Question: Imagine you're an equity research analyst working offline with no access to financial data providers. Based solely on the figures presented in the income statement and cash flow statement, calculate AMD's depreciation and amortization expense (as reported in the cash flow statement) as a percentage of revenue for fiscal year 2015.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

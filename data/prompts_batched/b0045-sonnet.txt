@@ -1,0 +1,324 @@
+You are sitting an exam made of 12 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-00669-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Analysis of Consolidated Earnings Before Provision for Taxes on Income
+Consolidated earnings before provision for taxes on income was $21.7 billion and $22.8 billion for the years 2022 and 2021, respectively. As a percent to
+sales, consolidated earnings before provision for taxes on income was 22.9% and 24.3%, in 2022 and 2021, respectively.
+(Dollars in billions. Percentages in chart are as a percent to total sales)
+Cost of Products Sold and Selling, Marketing and Administrative Expenses:
+(Dollars in billions. Percentages in chart are as a percent to total sales)
+Cost of products sold increased as a percent to sales driven by:
+
+One-time COVID-19 vaccine manufacturing exit related costs
+
+Currency impacts in the Pharmaceutical segment
+
+Commodity inflation in the MedTech and Consumer Health segments
+partially offset by
+
+Supply chain benefits in the Consumer Health segment
+The intangible asset amortization expense included in cost of products sold was $4.3 billion and $4.7 billion for the fiscal years 2022 and 2021,
+respectively.
+28
+
+Question: For fiscal year 2022, what factors caused the change in JnJ's gross margin? If gross margin isn't a meaningful metric for this type of company, please indicate that and explain the reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-04302-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+NIKE, Inc. Consolidated Statements of Income
+ 
+ 
+ 
+Year Ended May 31,
+(In millions, except per share data)
+ 
+2018
+ 
+2017
+ 
+2016
+Revenues
+ $
+36,397
+ $
+34,350 $
+32,376
+Cost of sales
+ 
+20,441
+ 
+19,038 
+17,405
+Gross profit
+ 
+15,956
+ 
+15,312 
+14,971
+Demand creation expense
+ 
+3,577
+ 
+3,341 
+3,278
+Operating overhead expense
+ 
+7,934
+ 
+7,222 
+7,191
+Total selling and administrative expense
+ 
+11,511
+ 
+10,563 
+10,469
+Interest expense (income), net
+ 
+54
+ 
+59 
+19
+Other expense (income), net
+ 
+66
+ 
+(196) 
+(140)
+Income before income taxes
+ 
+4,325
+ 
+4,886 
+4,623
+Income tax expense
+ 
+2,392
+ 
+646 
+863
+NET INCOME
+ $
+1,933
+ $
+4,240 $
+3,760
+ 
+ 
+ 
+ 
+Earnings per common share:
+ 
+ 
+ 
+Basic
+ $
+1.19
+ $
+2.56 $
+2.21
+Diluted
+ $
+1.17
+ $
+2.51 $
+2.16
+ 
+ 
+ 
+ 
+Dividends declared per common share
+ $
+0.78
+ $
+0.70 $
+0.62
+The accompanying Notes to the Consolidated Financial Statements are an integral part of this statement.
+44
+
+Question: Using only the figures shown on the income statement, estimate—precisely if you can, or as a close approximation otherwise—Nike's average cost of goods sold expressed as a percentage of revenue across fiscal years 2016 through 2018. Give the result as a percentage rounded to one decimal place.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-01930-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Components of Fiscal 2023 Net Sales growth 
+Three Months Ended June 30
+Twelve Months Ended June 30
+($ million)
+Flexibles
+Rigid 
+Packaging
+Total
+Flexibles
+Rigid 
+Packaging
+Total
+Net sales fiscal year 2023
+ 
+2,777 
+897 
+3,673 
+ 
+11,154 
+3,540 
+14,694 
+Net sales fiscal year 2022
+ 
+2,967 
+942 
+3,909 
+ 
+11,151 
+3,393 
+14,544 
+Reported Growth %
+ (6) 
+ (5) 
+ (6) 
+ 
+ 4 
+ 1 
+FX %
+ 1 
+ (1) 
+ 
+ (4) 
+ (1) 
+ (3) 
+Constant Currency Growth %
+ (7) 
+ (4) 
+ (6) 
+ 4 
+ 5 
+ 4 
+Raw Material Pass Through %
+ 1 
+ 
+ 1 
+ 5 
+ 8 
+ 5 
+Items affecting comparability %
+ (3) 
+ 
+ (2) 
+ (2) 
+ 
+ (1) 
+Comparable Constant Currency 
+Growth %
+ (5) 
+ (4) 
+ (5) 
+ 1 
+ (3) 
+ 
+Volume %
+ (7) 
+ (6) 
+ (7) 
+ (3) 
+ (4) 
+ (3) 
+Price/Mix %
+ 2 
+ 2 
+ 2 
+ 4 
+ 1 
+ 3 
+10
+
+Question: For AMCOR, what was the underlying change in Sales between FY 2022 and FY 2023 after stripping out the effects of currency movements, passthrough costs, and one-off items?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-04412-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the balance sheet and the P&L statement, what is Lockheed Martin's FY2020 asset turnover ratio? Asset turnover ratio is defined as: FY2020 revenue / (average total assets between FY2019 and FY2020). Round your answer to two decimal places.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-06741-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What is the FY2018 - FY2020 3 year average unadjusted EBITDA % margin for Walmart? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization from the cash flow statement. Answer in units of percents and round to one decimal place. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the cash flow statement.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-03620-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What is the FY2022 unadjusted EBITDA less capex for PepsiCo? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization [from cash flow statement]. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows and the income statement.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-06247-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What is FY2018 days payable outstanding (DPO) for Walmart? DPO is defined as: 365 * (average accounts payable between FY2017 and FY2018) / (FY2018 COGS + change in inventory between FY2017 and FY2018). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the statement of financial position and the P&L statement.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-04302-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: We need to calculate a reasonable approximation (or exact number if possible) of a financial metric. Basing your judgment by information plainly provided in the statement of income, what is Nike's three year average of cost of goods sold as a % of revenue from FY2016 to FY2018? Answer in units of percents and round to one decimal place.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-04458-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: We want to calculate a financial metric. Please help us compute it by basing your answers off of the statement of income and the statement of cash flows. Here's the question: what is the FY2015 unadjusted EBITDA % margin for Netflix? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement).
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-10499-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What is Kraft Heinz's FY2019 inventory turnover ratio? Inventory turnover ratio is defined as: (FY2019 COGS) / (average inventory between FY2018 and FY2019). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the balance sheet and the P&L statement.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-03031-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What is Lockheed Martin's FY2021 net working capital? Define net working capital as total current assets less total current liabilities. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the balance sheet.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 12 | id=fb-04080-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: When primarily referencing the income statement and the statement of financial position, what is the FY2021 inventory turnover ratio for Nike? Inventory turnover ratio is defined as: (FY2021 COGS) / (average inventory between FY2020 and FY2021). Round your answer to two decimal places.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

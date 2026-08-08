@@ -1,0 +1,2169 @@
+You are sitting an exam made of 11 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-00407-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: The following tables present information regarding the Companys debt investments:
+Fair value level
+June 30, 2023
+December 31, 2022
+(In thousands)
+Cash and cash equivalents:
+Money market funds
+Level 1
+$
+2,195 
+$
+12,009 
+Commercial paper and certificates of deposit
+Level 2
+ 
+5,992 
+Cash and cash equivalents
+2,195 
+18,001 
+Short-term investments:
+U.S. government securities
+Level 1
+57,696 
+56,835 
+U.S. agency securities
+Level 2
+29,049 
+9,530 
+Commercial paper and certificates of deposit
+Level 2
+4,561 
+4,466 
+Corporate bonds
+Level 2
+416,420 
+213,875 
+Short-term investments
+507,726 
+284,706 
+Total debt investments
+$
+509,921 
+$
+302,707 
+Restricted cash. MGM Chinas pledged cash of $87 million and $124 million as of June 30, 2023 and December 31, 2022, respectively, securing the
+bank guarantees discussed in Note 9 is restricted in use and classified within Other long-term assets, net. Such amounts plus Cash and cash equivalents on
+the consolidated balance sheets equal Cash, cash equivalents, and restricted cash on the consolidated statements of cash flows as of June 30, 2023 and
+December 31, 2022.
+Accounts receivable. As of June 30, 2023 and December 31, 2022, the loss reserve on accounts receivable was $129 million and $113 million,
+respectively.
+Note receivable. In February 2023, the secured note receivable related to the sale of Circus Circus Las Vegas and the adjacent land was repaid, prior to
+maturity, for $170 million, which approximated its carrying value on the date of repayment. As of December 31, 2022, the carrying value of the note receivable
+was $167 million and was recorded within Other long-term assets, net on the consolidated balance sheets.
+Accounts payable. As of June 30, 2023 and December 31, 2022, the Company had accrued $60 million and $80 million, respectively, for purchases of
+property and equipment within Accounts and construction payable on the consolidated balance sheets.
+Revenue recognition. Contract and Contract-Related Liabilities. There may be a difference between the timing of cash receipts from the customer and
+the recognition of revenue, resulting in a contract or contract-related liability. The Company generally has three types of liabilities related to contracts with
+customers: (1) outstanding chip liability, which represents the amounts owed in exchange for gaming chips held by a customer, (2) loyalty program obligations,
+which represents the deferred allocation of revenue relating to loyalty program incentives earned, and (3) customer advances and other, which is primarily
+funds deposited by customers before gaming play occurs (casino front money) and advance payments on goods and services yet to be provided, such as
+advance ticket sales and deposits on rooms and convention space or for unpaid wagers. These liabilities are generally expected to be recognized as revenue
+within one year of being purchased, earned, or deposited and are recorded within Other accrued liabilities on the consolidated balance sheets.
+The following table summarizes the activity related to contract and contract-related liabilities:
+ 
+Outstanding Chip Liability
+Loyalty Program
+Customer Advances and Other
+ 
+2023
+ 
+2022
+2023
+ 
+2022
+2023
+ 
+2022
+ 
+(In thousands)
+Balance at January 1
+$
+185,669 
+$
+176,219 
+$
+183,602 
+$
+144,465 
+$
+816,376 
+$
+640,001 
+Balance at June 30
+196,446 
+165,564 
+194,570 
+160,752 
+806,072 
+704,404 
+Increase / (decrease)
+$
+10,777 
+$
+(10,655)
+$
+10,968 
+$
+16,287 
+$
+(10,304)
+$
+64,403 
+9
+
+Question: Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-02987-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(Amounts in millions, except share data)
+ 
+At December 31, 2019
+ 
+At December 31, 2018
+Assets
+ 
+ 
+Current assets:
+ 
+ 
+Cash and cash equivalents
+$
+5,794
+ $
+4,225
+Accounts receivable, net of allowances of $132 and $190, at December 31, 2019 and December 31, 2018, respectively
+848
+ 
+1,035
+Inventories, net
+32
+ 
+43
+Software development
+322
+ 
+264
+Other current assets
+296
+ 
+539
+Total current assets
+7,292
+ 
+6,106
+Software development
+54
+ 
+65
+Property and equipment, net
+253
+ 
+282
+Deferred income taxes, net
+1,293
+ 
+458
+Other assets
+658
+ 
+482
+Intangible assets, net
+531
+ 
+735
+Goodwill
+9,764
+ 
+9,762
+Total assets
+$
+19,845
+ $
+17,890
+ 
+ 
+ 
+Liabilities and Shareholders Equity
+ 
+ 
+Current liabilities:
+ 
+ 
+Accounts payable
+$
+292
+ $
+253
+Deferred revenues
+1,375
+ 
+1,493
+Accrued expenses and other liabilities
+1,248
+ 
+896
+Total current liabilities
+2,915
+ 
+2,642
+Long-term debt, net
+2,675
+ 
+2,671
+Deferred income taxes, net
+505
+ 
+18
+Other liabilities
+945
+ 
+1,167
+Total liabilities
+7,040
+ 
+6,498
+Commitments and contingencies (Note 23)
+ 
+Shareholders equity:
+ 
+ 
+ 
+Common stock, $0.000001 par value, 2,400,000,000 shares authorized, 1,197,436,644 and 1,192,093,991 shares issued at
+December 31, 2019 and December 31, 2018, respectively
+
+ 
+
+Additional paid-in capital
+11,174
+ 
+10,963
+Less: Treasury stock, at cost, 428,676,471 shares at December 31, 2019 and December 31, 2018
+(5,563) 
+(5,563)
+Retained earnings
+7,813
+ 
+6,593
+Accumulated other comprehensive loss
+(619) 
+(601)
+Total shareholders equity
+12,805
+ 
+11,392
+Total liabilities and shareholders equity
+$
+19,845
+ $
+17,890
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-4
+
+
+---
+
+Table of Contents
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Amounts in millions, except per share data)
+ 
+For the Years Ended December 31,
+ 
+2019
+ 
+2018
+ 
+2017
+Net revenues
+ 
+ 
+ 
+ 
+Product sales
+$
+1,975
+ $
+2,255 $
+2,110
+Subscription, licensing, and other revenues
+4,514
+ 
+5,245 
+4,907
+Total net revenues
+6,489
+ 
+7,500 
+7,017
+ 
+ 
+ 
+ 
+Costs and expenses
+ 
+ 
+ 
+ 
+Cost of revenuesproduct sales:
+ 
+ 
+ 
+Product costs
+656
+ 
+719 
+733
+Software royalties, amortization, and intellectual property licenses
+240
+ 
+371 
+300
+Cost of revenuessubscription, licensing, and other revenues:
+ 
+ 
+ 
+Game operations and distribution costs
+965
+ 
+1,028 
+984
+Software royalties, amortization, and intellectual property licenses
+233
+ 
+399 
+484
+Product development
+998
+ 
+1,101 
+1,069
+Sales and marketing
+926
+ 
+1,062 
+1,378
+General and administrative
+732
+ 
+822 
+745
+Restructuring and related costs
+132
+ 
+10 
+15
+Total costs and expenses
+4,882
+ 
+5,512 
+5,708
+ 
+ 
+ 
+ 
+Operating income
+1,607
+ 
+1,988 
+1,309
+Interest and other expense (income), net (Note 18)
+(26) 
+71 
+146
+Loss on extinguishment of debt
+
+ 
+40 
+12
+Income before income tax expense
+1,633
+ 
+1,877 
+1,151
+Income tax expense
+130
+ 
+29 
+878
+Net income
+$
+1,503
+ $
+1,848 $
+273
+ 
+ 
+ 
+ 
+Earnings per common share
+ 
+ 
+ 
+ 
+Basic
+$
+1.96
+ $
+2.43 $
+0.36
+Diluted
+$
+1.95
+ $
+2.40 $
+0.36
+ 
+ 
+ 
+ 
+Weighted-average number of shares outstanding
+ 
+ 
+ 
+ 
+Basic
+767
+ 
+762 
+754
+Diluted
+771
+ 
+771 
+766
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-5
+
+Question: For fiscal year 2019, calculate Activision Blizzard's fixed asset turnover ratio, defined as FY2019 revenue divided by the average PP&E for FY2018 and FY2019. Provide the result rounded to two decimal places, relying mainly on the income statement and balance sheet.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-10130-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Index
+
+
+
+
+
+
+Consolidated Statements of Income
+Corning Incorporated and Subsidiary Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YearendedDecember31,
+(Inmillions,exceptpershareamounts)
+2020
+
+2019
+
+2018
+Netsales
+$
+ 11,303 
+$
+11,503 $
+11,290
+Costofsales
+
+ 7,772 
+
+7,468 
+6,829
+
+
+
+
+
+
+ 
+Grossmargin
+
+ 3,531 
+
+4,035 
+4,461
+
+
+
+
+
+
+ 
+Operatingexpenses:
+
+
+
+
+
+ 
+Selling,generalandadministrativeexpenses
+
+ 1,747 
+
+1,585 
+1,799
+Research,developmentandengineeringexpenses
+
+ 1,154 
+
+1,031 
+993
+Amortizationofpurchasedintangibles
+
+ 121 
+
+113 
+94
+
+
+
+
+
+
+ 
+Operatingincome
+
+ 509 
+
+1,306 
+1,575
+
+
+
+
+
+
+ 
+Equityin(losses)earningsofaffiliatedcompanies(Note3)
+
+ (25)
+
+17 
+390
+Interestincome
+
+ 15 
+
+21 
+38
+Interestexpense
+
+ (276)
+
+(221) 
+(191)
+Translatedearningscontract(loss)gain,net(Note15)
+
+ (38)
+
+248 
+(93)
+Transaction-relatedgain,net(Note4)
+
+ 498 
+
+
+ 
+Otherexpense,net
+
+ (60)
+
+(155) 
+(216)
+
+
+
+
+
+
+ 
+Incomebeforeincometaxes
+
+ 623 
+
+1,216 
+1,503
+Provisionforincometaxes(Note8)
+
+ (111)
+
+(256) 
+(437)
+
+
+
+
+
+
+ 
+NetincomeattributabletoCorningIncorporated
+$
+ 512 
+$
+960 $
+1,066
+
+
+
+
+
+
+ 
+Earningspercommonshareattributableto
+CorningIncorporated:
+
+
+
+
+
+ 
+Basic(Note18)
+$
+ 0.54 
+$
+1.11 $
+1.19
+Diluted(Note18)
+$
+ 0.54 
+$
+1.07 $
+1.13
+
+Theaccompanyingnotesareanintegralpartoftheseconsolidatedfinancialstatements.
+
+70
+
+
+---
+
+Index
+
+
+
+
+Consolidated Balance Sheets
+Corning Incorporated and Subsidiary Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+December31,
+(Inmillions,exceptshareandpershareamounts)
+2020
+
+2019
+
+
+
+
+
+
+Assets
+
+
+ 
+
+
+
+ 
+Currentassets:
+
+
+ 
+Cashandcashequivalents
+$
+ 2,672 $
+2,434
+Tradeaccountsreceivable,netofdoubtfulaccounts-$46and$41
+
+ 2,133 
+1,836
+Inventories,net(Note6)
+
+ 2,438 
+2,320
+Othercurrentassets(Note11and15)
+
+ 761 
+873
+Totalcurrentassets
+
+ 8,004 
+7,463
+
+
+
+ 
+Property,plantandequipment,netofaccumulateddepreciation-
+$13,663and$12,995(Note9)
+
+ 15,742 
+15,337
+Goodwill,net(Note10)
+
+ 2,460 
+1,935
+Otherintangibleassets,net(Note10)
+
+ 1,308 
+1,185
+Deferredincometaxes(Note8)
+
+ 1,121 
+1,157
+Otherassets(Note11and15)
+
+ 2,140 
+1,821
+
+
+
+ 
+Total Assets 
+$
+ 30,775 $
+28,898
+
+
+
+ 
+Liabilities and Equity
+
+
+ 
+
+
+
+ 
+Currentliabilities:
+
+
+ 
+Currentportionoflong-termdebtandshort-termborrowings(Note12)
+$
+ 156 $
+11
+Accountspayable
+
+ 1,174 
+1,587
+Otheraccruedliabilities(Note11and14)
+
+ 2,437 
+1,923
+Totalcurrentliabilities
+
+ 3,767 
+3,521
+
+
+
+ 
+Long-termdebt(Note12)
+
+ 7,816 
+7,729
+Postretirementbenefitsotherthanpensions(Note13)
+
+ 727 
+671
+Otherliabilities(Note11and14)
+
+ 5,017 
+3,980
+Totalliabilities
+
+ 17,327 
+15,901
+
+
+
+ 
+Commitments,contingenciesandguarantees(Note14)
+ 
+ 
+Shareholdersequity(Note17):
+
+
+ 
+Convertiblepreferredstock,SeriesAParvalue$100pershare;
+Sharesauthorized3,100;Sharesissued:2,300
+
+ 2,300 
+2,300
+CommonstockParvalue$0.50pershare;Sharesauthorized:3.8billion;
+Sharesissued:1,726millionand1,718million
+
+ 863 
+859
+Additionalpaid-incapitalcommonstock
+
+ 14,642 
+14,323
+Retainedearnings
+
+ 16,120 
+16,408
+Treasurystock,atcost;sharesheld:961millionand956million
+
+ (19,928) 
+(19,812)
+Accumulatedothercomprehensiveloss
+
+ (740) 
+(1,171)
+TotalCorningIncorporatedshareholdersequity
+
+ 13,257 
+12,907
+Noncontrollinginterests
+
+ 191 
+90
+Totalequity
+
+ 13,448 
+12,997
+
+
+
+ 
+Total Liabilities and Equity
+$
+ 30,775 $
+28,898
+
+Theaccompanyingnotesareanintegralpartoftheseconsolidatedfinancialstatements.
+72
+
+Question: Using data mainly from the balance sheet and income statement, calculate Corning's days payable outstanding (DPO) for FY2020, where DPO = 365 * (average accounts payable across FY2019 and FY2020) / (FY2020 COGS plus the change in inventory from FY2019 to FY2020). Give the result rounded to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-00606-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Comparable sales (sales for stores open at least 14 months and e-commerce sales)
+increased 15.6% compared to an increase of 21.4% in the fourth quarter of fiscal 2021,
+driven by a 13.6% increase in transactions and a 1.8% increase in average ticket.
+Gross profit increased 18.0% to $1.2 billion compared to $1.0 billion in the fourth
+quarter of fiscal 2021. As a percentage of net sales, gross profit of 37.6% was flat
+compared to the fourth quarter of fiscal 2021, primarily due to leverage of fixed costs,
+favorable channel mix shifts, and strong growth in other revenue, offset by higher
+inventory shrink.
+Selling, general and administrative (SG&A) expenses increased 17.3% to $762.7
+million compared to $650.0 million in the fourth quarter of fiscal 2021. As a percentage
+of net sales, SG&A expenses decreased to 23.6% compared to 23.8% in the fourth
+quarter of fiscal 2021, primarily due to leverage of marketing expenses and incentive
+compensation due to higher sales, partially offset by deleverage of store payroll and
+benefits due to wage investments and deleverage in corporate overhead due to
+strategic investments.
+Operating income increased 19.2% to $447.6 million, or 13.9% of net sales, compared
+to $375.6 million, or 13.8% of net sales, in the fourth quarter of fiscal 2021.
+The tax rate increased to 24.6% compared to 22.9% in the fourth quarter of fiscal
+2021.
+Net income increased 17.8% to $340.8 million compared to $289.4 million in the fourth
+quarter of fiscal 2021.
+Diluted earnings per share increased 23.5% to $6.68, including a $0.02 benefit due to
+income tax accounting for stock-based compensation, compared to $5.41 including a
+$0.05 benefit due to income tax accounting for stock-based compensation, in the fourth
+quarter of fiscal 2021.
+For the Full Year of Fiscal 2022
+Net sales increased 18.3% to $10.2 billion compared to $8.6 billion in fiscal 2021,
+primarily due to the favorable impact from the continued resilience of the beauty
+category, retail price increases, the impact of new brands and product innovation,
+increased social occasions, and fewer COVID-19 limitations compared to fiscal 2021.
+Comparable sales increased 15.6% compared to an increase of 37.9% in fiscal 2021,
+driven by a 10.8% increase in transactions and a 4.3% increase in average ticket.
+Gross profit increased 20.1% to $4.0 billion compared to $3.4 billion in fiscal 2021. As
+a percentage of net sales, gross profit increased to 39.6% compared to 39.0% in fiscal
+2021, primarily due to leverage of fixed costs, strong growth in other revenue, and
+favorable channel mix shifts, partially offset by higher inventory shrink and lower
+merchandise margin.
+SG&A expenses increased 16.2% to $2.4 billion compared to $2.1 billion in fiscal
+2021. As a percentage of net sales, SG&A expenses decreased to 23.5% compared to
+23.9% in fiscal 2021, primarily due to lower marketing expenses and leverage of
+incentive compensation due to higher sales, partially offset by deleverage of corporate
+overhead due to strategic investments and deleverage of store payroll and benefits
+due to wage investments.
+Operating income increased 26.3% to $1.6 billion, or 16.1% of net sales, compared to
+$1.3 billion, or 15.0% of net sales, in fiscal 2021.
+The tax rate increased to 24.4% compared to 23.9% in fiscal 2021.
+Net income increased 26.0% to $1.2 billion compared to $985.8 million in fiscal 2021.
+
+Question: In FY2023, did Ulta Beauty's wages expense, measured as a percentage of net sales, go up or down?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-00711-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: JOHNSON & JOHNSON AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+At January 1, 2023 and January 2, 2022
+(Dollars in Millions Except Share and Per Share Amounts) (Note 1)
+2022
+2021
+Assets
+Current assets
+ 
+ 
+Cash and cash equivalents (Notes 1 and 2)
+$
+14,127 
+14,487 
+Marketable securities (Notes 1 and 2)
+9,392 
+17,121 
+Accounts receivable trade, less allowances for doubtful accounts $203 (2021, $230)
+16,160 
+15,283 
+Inventories (Notes 1 and 3)
+12,483 
+10,387 
+Prepaid expenses and other receivables
+3,132 
+3,701 
+Total current assets
+55,294 
+60,979 
+Property, plant and equipment, net (Notes 1 and 4)
+19,803 
+18,962 
+Intangible assets, net (Notes 1 and 5)
+48,325 
+46,392 
+Goodwill (Notes 1 and 5)
+45,231 
+35,246 
+Deferred taxes on income (Note 8)
+9,123 
+10,223 
+Other assets
+9,602 
+10,216 
+Total assets
+$
+187,378 
+182,018 
+Liabilities and Shareholders Equity
+ 
+ 
+Current liabilities
+ 
+ 
+Loans and notes payable (Note 7)
+$
+12,771 
+3,766 
+Accounts payable
+11,703 
+11,055 
+Accrued liabilities
+11,456 
+13,612 
+Accrued rebates, returns and promotions
+14,417 
+12,095 
+Accrued compensation and employee related obligations
+3,328 
+3,586 
+Accrued taxes on income (Note 8)
+2,127 
+1,112 
+Total current liabilities
+55,802 
+45,226 
+Long-term debt (Note 7)
+26,888 
+29,985 
+Deferred taxes on income (Note 8)
+6,374 
+7,487 
+Employee related obligations (Notes 9 and 10)
+6,767 
+8,898 
+Long-term taxes payable (Note 1)
+4,306 
+5,713 
+Other liabilities
+10,437 
+10,686 
+Total liabilities
+110,574 
+107,995 
+Commitments and Contingencies (Note 19)
+Shareholders equity
+ 
+ 
+Preferred stock without par value (authorized and unissued 2,000,000 shares)
+ 
+ 
+Common stock par value $1.00 per share (Note 12) (authorized 4,320,000,000 shares; issued
+3,119,843,000 shares)
+3,120 
+3,120 
+Accumulated other comprehensive income (loss) (Note 13)
+(12,967)
+(13,058)
+Retained earnings
+128,345 
+123,060 
+ 
+118,498 
+113,122 
+Less: common stock held in treasury, at cost (Note 12) (506,246,000 shares and 490,878,000 shares)
+41,694 
+39,099 
+Total shareholders equity
+76,804 
+74,023 
+Total liabilities and shareholders equity
+$
+187,378 
+182,018 
+See Notes to Consolidated Financial Statements
+40
+
+
+---
+
+JOHNSON & JOHNSON AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF EARNINGS
+(Dollars and Shares in Millions Except Per Share Amounts) (Note 1)
+2022
+2021
+2020
+Sales to customers
+$
+94,943 
+93,775 
+82,584 
+Cost of products sold
+31,089 
+29,855 
+28,427 
+Gross profit
+63,854 
+63,920 
+54,157 
+Selling, marketing and administrative expenses
+24,765 
+24,659 
+22,084 
+Research and development expense
+14,603 
+14,714 
+12,159 
+In-process research and development (Note 5)
+783 
+900 
+181 
+Interest income
+(490)
+(53)
+(111)
+Interest expense, net of portion capitalized (Note 4)
+276 
+183 
+201 
+Other (income) expense, net
+1,871 
+489 
+2,899 
+Restructuring (Note 20)
+321 
+252 
+247 
+Earnings before provision for taxes on income
+21,725 
+22,776 
+16,497 
+Provision for taxes on income (Note 8)
+3,784 
+1,898 
+1,783 
+Net earnings
+$
+17,941 
+20,878 
+14,714 
+Net earnings per share (Notes 1 and 15)
+ Basic
+$
+6.83 
+7.93 
+5.59 
+ Diluted
+$
+6.73 
+7.81 
+5.51 
+Average shares outstanding (Notes 1 and 15)
+ Basic
+2,625.2 
+2,632.1 
+2,632.8 
+ Diluted
+2,663.9 
+2,674.0 
+2,670.7 
+See Notes to Consolidated Financial Statements
+41
+
+Question: Approximately how many times did JnJ turn over its inventory during FY2022? Compute the FY2022 inventory turnover ratio; if standard inventory management doesn't meaningfully apply to this company, note that and explain the reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-00606-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Comparable sales (sales for stores open at least 14 months and e-commerce sales)
+increased 15.6% compared to an increase of 21.4% in the fourth quarter of fiscal 2021,
+driven by a 13.6% increase in transactions and a 1.8% increase in average ticket.
+Gross profit increased 18.0% to $1.2 billion compared to $1.0 billion in the fourth
+quarter of fiscal 2021. As a percentage of net sales, gross profit of 37.6% was flat
+compared to the fourth quarter of fiscal 2021, primarily due to leverage of fixed costs,
+favorable channel mix shifts, and strong growth in other revenue, offset by higher
+inventory shrink.
+Selling, general and administrative (SG&A) expenses increased 17.3% to $762.7
+million compared to $650.0 million in the fourth quarter of fiscal 2021. As a percentage
+of net sales, SG&A expenses decreased to 23.6% compared to 23.8% in the fourth
+quarter of fiscal 2021, primarily due to leverage of marketing expenses and incentive
+compensation due to higher sales, partially offset by deleverage of store payroll and
+benefits due to wage investments and deleverage in corporate overhead due to
+strategic investments.
+Operating income increased 19.2% to $447.6 million, or 13.9% of net sales, compared
+to $375.6 million, or 13.8% of net sales, in the fourth quarter of fiscal 2021.
+The tax rate increased to 24.6% compared to 22.9% in the fourth quarter of fiscal
+2021.
+Net income increased 17.8% to $340.8 million compared to $289.4 million in the fourth
+quarter of fiscal 2021.
+Diluted earnings per share increased 23.5% to $6.68, including a $0.02 benefit due to
+income tax accounting for stock-based compensation, compared to $5.41 including a
+$0.05 benefit due to income tax accounting for stock-based compensation, in the fourth
+quarter of fiscal 2021.
+For the Full Year of Fiscal 2022
+Net sales increased 18.3% to $10.2 billion compared to $8.6 billion in fiscal 2021,
+primarily due to the favorable impact from the continued resilience of the beauty
+category, retail price increases, the impact of new brands and product innovation,
+increased social occasions, and fewer COVID-19 limitations compared to fiscal 2021.
+Comparable sales increased 15.6% compared to an increase of 37.9% in fiscal 2021,
+driven by a 10.8% increase in transactions and a 4.3% increase in average ticket.
+Gross profit increased 20.1% to $4.0 billion compared to $3.4 billion in fiscal 2021. As
+a percentage of net sales, gross profit increased to 39.6% compared to 39.0% in fiscal
+2021, primarily due to leverage of fixed costs, strong growth in other revenue, and
+favorable channel mix shifts, partially offset by higher inventory shrink and lower
+merchandise margin.
+SG&A expenses increased 16.2% to $2.4 billion compared to $2.1 billion in fiscal
+2021. As a percentage of net sales, SG&A expenses decreased to 23.5% compared to
+23.9% in fiscal 2021, primarily due to lower marketing expenses and leverage of
+incentive compensation due to higher sales, partially offset by deleverage of corporate
+overhead due to strategic investments and deleverage of store payroll and benefits
+due to wage investments.
+Operating income increased 26.3% to $1.6 billion, or 16.1% of net sales, compared to
+$1.3 billion, or 15.0% of net sales, in fiscal 2021.
+The tax rate increased to 24.4% compared to 23.9% in fiscal 2021.
+Net income increased 26.0% to $1.2 billion compared to $985.8 million in fiscal 2021.
+
+Question: Did Ulta Beauty's wages expense as a percent of net sales increase or decrease in FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-00601-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Comparable sales (sales for stores open at least 14 months and e-commerce sales)
+increased 15.6% compared to an increase of 21.4% in the fourth quarter of fiscal 2021,
+driven by a 13.6% increase in transactions and a 1.8% increase in average ticket.
+Gross profit increased 18.0% to $1.2 billion compared to $1.0 billion in the fourth
+quarter of fiscal 2021. As a percentage of net sales, gross profit of 37.6% was flat
+compared to the fourth quarter of fiscal 2021, primarily due to leverage of fixed costs,
+favorable channel mix shifts, and strong growth in other revenue, offset by higher
+inventory shrink.
+Selling, general and administrative (SG&A) expenses increased 17.3% to $762.7
+million compared to $650.0 million in the fourth quarter of fiscal 2021. As a percentage
+of net sales, SG&A expenses decreased to 23.6% compared to 23.8% in the fourth
+quarter of fiscal 2021, primarily due to leverage of marketing expenses and incentive
+compensation due to higher sales, partially offset by deleverage of store payroll and
+benefits due to wage investments and deleverage in corporate overhead due to
+strategic investments.
+Operating income increased 19.2% to $447.6 million, or 13.9% of net sales, compared
+to $375.6 million, or 13.8% of net sales, in the fourth quarter of fiscal 2021.
+The tax rate increased to 24.6% compared to 22.9% in the fourth quarter of fiscal
+2021.
+Net income increased 17.8% to $340.8 million compared to $289.4 million in the fourth
+quarter of fiscal 2021.
+Diluted earnings per share increased 23.5% to $6.68, including a $0.02 benefit due to
+income tax accounting for stock-based compensation, compared to $5.41 including a
+$0.05 benefit due to income tax accounting for stock-based compensation, in the fourth
+quarter of fiscal 2021.
+For the Full Year of Fiscal 2022
+Net sales increased 18.3% to $10.2 billion compared to $8.6 billion in fiscal 2021,
+primarily due to the favorable impact from the continued resilience of the beauty
+category, retail price increases, the impact of new brands and product innovation,
+increased social occasions, and fewer COVID-19 limitations compared to fiscal 2021.
+Comparable sales increased 15.6% compared to an increase of 37.9% in fiscal 2021,
+driven by a 10.8% increase in transactions and a 4.3% increase in average ticket.
+Gross profit increased 20.1% to $4.0 billion compared to $3.4 billion in fiscal 2021. As
+a percentage of net sales, gross profit increased to 39.6% compared to 39.0% in fiscal
+2021, primarily due to leverage of fixed costs, strong growth in other revenue, and
+favorable channel mix shifts, partially offset by higher inventory shrink and lower
+merchandise margin.
+SG&A expenses increased 16.2% to $2.4 billion compared to $2.1 billion in fiscal
+2021. As a percentage of net sales, SG&A expenses decreased to 23.5% compared to
+23.9% in fiscal 2021, primarily due to lower marketing expenses and leverage of
+incentive compensation due to higher sales, partially offset by deleverage of corporate
+overhead due to strategic investments and deleverage of store payroll and benefits
+due to wage investments.
+Operating income increased 26.3% to $1.6 billion, or 16.1% of net sales, compared to
+$1.3 billion, or 15.0% of net sales, in fiscal 2021.
+The tax rate increased to 24.4% compared to 23.9% in fiscal 2021.
+Net income increased 26.0% to $1.2 billion compared to $985.8 million in fiscal 2021.
+
+Question: What caused SG&A expense as a percentage of net sales to decrease in fiscal year 2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-00601-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Comparable sales (sales for stores open at least 14 months and e-commerce sales)
+increased 15.6% compared to an increase of 21.4% in the fourth quarter of fiscal 2021,
+driven by a 13.6% increase in transactions and a 1.8% increase in average ticket.
+Gross profit increased 18.0% to $1.2 billion compared to $1.0 billion in the fourth
+quarter of fiscal 2021. As a percentage of net sales, gross profit of 37.6% was flat
+compared to the fourth quarter of fiscal 2021, primarily due to leverage of fixed costs,
+favorable channel mix shifts, and strong growth in other revenue, offset by higher
+inventory shrink.
+Selling, general and administrative (SG&A) expenses increased 17.3% to $762.7
+million compared to $650.0 million in the fourth quarter of fiscal 2021. As a percentage
+of net sales, SG&A expenses decreased to 23.6% compared to 23.8% in the fourth
+quarter of fiscal 2021, primarily due to leverage of marketing expenses and incentive
+compensation due to higher sales, partially offset by deleverage of store payroll and
+benefits due to wage investments and deleverage in corporate overhead due to
+strategic investments.
+Operating income increased 19.2% to $447.6 million, or 13.9% of net sales, compared
+to $375.6 million, or 13.8% of net sales, in the fourth quarter of fiscal 2021.
+The tax rate increased to 24.6% compared to 22.9% in the fourth quarter of fiscal
+2021.
+Net income increased 17.8% to $340.8 million compared to $289.4 million in the fourth
+quarter of fiscal 2021.
+Diluted earnings per share increased 23.5% to $6.68, including a $0.02 benefit due to
+income tax accounting for stock-based compensation, compared to $5.41 including a
+$0.05 benefit due to income tax accounting for stock-based compensation, in the fourth
+quarter of fiscal 2021.
+For the Full Year of Fiscal 2022
+Net sales increased 18.3% to $10.2 billion compared to $8.6 billion in fiscal 2021,
+primarily due to the favorable impact from the continued resilience of the beauty
+category, retail price increases, the impact of new brands and product innovation,
+increased social occasions, and fewer COVID-19 limitations compared to fiscal 2021.
+Comparable sales increased 15.6% compared to an increase of 37.9% in fiscal 2021,
+driven by a 10.8% increase in transactions and a 4.3% increase in average ticket.
+Gross profit increased 20.1% to $4.0 billion compared to $3.4 billion in fiscal 2021. As
+a percentage of net sales, gross profit increased to 39.6% compared to 39.0% in fiscal
+2021, primarily due to leverage of fixed costs, strong growth in other revenue, and
+favorable channel mix shifts, partially offset by higher inventory shrink and lower
+merchandise margin.
+SG&A expenses increased 16.2% to $2.4 billion compared to $2.1 billion in fiscal
+2021. As a percentage of net sales, SG&A expenses decreased to 23.5% compared to
+23.9% in fiscal 2021, primarily due to lower marketing expenses and leverage of
+incentive compensation due to higher sales, partially offset by deleverage of corporate
+overhead due to strategic investments and deleverage of store payroll and benefits
+due to wage investments.
+Operating income increased 26.3% to $1.6 billion, or 16.1% of net sales, compared to
+$1.3 billion, or 15.0% of net sales, in fiscal 2021.
+The tax rate increased to 24.4% compared to 23.9% in fiscal 2021.
+Net income increased 26.0% to $1.2 billion compared to $985.8 million in fiscal 2021.
+
+Question: What drove the reduction in SG&A expense as a percent of net sales in FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-10499-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: The Kraft Heinz Company
+Consolidated Statements of Income
+(in millions, except per share data)
+ 
+December 28, 2019 December 29, 2018 December 30, 2017
+Net sales
+$
+24,977
+ $
+26,268 $
+26,076
+Cost of products sold
+16,830
+ 
+17,347 
+17,043
+Gross profit
+8,147
+ 
+8,921 
+9,033
+Selling, general and administrative expenses, excluding impairment losses
+3,178
+ 
+3,190 
+2,927
+Goodwill impairment losses
+1,197
+ 
+7,008 
+
+Intangible asset impairment losses
+702
+ 
+8,928 
+49
+Selling, general and administrative expenses
+5,077
+ 
+19,126 
+2,976
+Operating income/(loss)
+3,070
+ 
+(10,205) 
+6,057
+Interest expense
+1,361
+ 
+1,284 
+1,234
+Other expense/(income)
+(952) 
+(168) 
+(627)
+Income/(loss) before income taxes
+2,661
+ 
+(11,321) 
+5,450
+Provision for/(benefit from) income taxes
+728
+ 
+(1,067) 
+(5,482)
+Net income/(loss)
+1,933
+ 
+(10,254) 
+10,932
+Net income/(loss) attributable to noncontrolling interest
+(2) 
+(62) 
+(9)
+Net income/(loss) attributable to common shareholders
+$
+1,935
+ $
+(10,192) $
+10,941
+Per share data applicable to common shareholders:
+ 
+ 
+ 
+Basic earnings/(loss)
+$
+1.59
+ $
+(8.36) $
+8.98
+Diluted earnings/(loss)
+1.58
+ 
+(8.36) 
+8.91
+See accompanying notes to the consolidated financial statements.
+45
+
+
+---
+
+The Kraft Heinz Company
+Consolidated Balance Sheets
+(in millions, except per share data)
+ 
+December 28, 2019 December 29, 2018
+ASSETS
+ 
+ 
+Cash and cash equivalents
+$
+2,279 $
+1,130
+Trade receivables (net of allowances of $33 at December 28, 2019 and $24 at December 29, 2018)
+1,973 
+2,129
+Income taxes receivable
+173 
+152
+Inventories
+2,721 
+2,667
+Prepaid expenses
+384 
+400
+Other current assets
+445 
+1,221
+Assets held for sale
+122 
+1,376
+Total current assets
+8,097 
+9,075
+Property, plant and equipment, net
+7,055 
+7,078
+Goodwill
+35,546 
+36,503
+Intangible assets, net
+48,652 
+49,468
+Other non-current assets
+2,100 
+1,337
+TOTAL ASSETS
+$
+101,450 $
+103,461
+LIABILITIES AND EQUITY
+ 
+ 
+Commercial paper and other short-term debt
+$
+6 $
+21
+Current portion of long-term debt
+1,022 
+377
+Trade payables
+4,003 
+4,153
+Accrued marketing
+647 
+722
+Interest payable
+384 
+408
+Other current liabilities
+1,804 
+1,767
+Liabilities held for sale
+9 
+55
+Total current liabilities
+7,875 
+7,503
+Long-term debt
+28,216 
+30,770
+Deferred income taxes
+11,878 
+12,202
+Accrued postemployment costs
+273 
+306
+Other non-current liabilities
+1,459 
+902
+TOTAL LIABILITIES
+49,701 
+51,683
+Commitments and Contingencies (Note 17)
+ 
+Redeemable noncontrolling interest
+ 
+3
+Equity:
+ 
+ 
+Common stock, $0.01 par value (5,000 shares authorized; 1,224 shares issued and 1,221 shares outstanding at December 28, 2019;
+1,224 shares issued and 1,220 shares outstanding at December 29, 2018)
+12 
+12
+Additional paid-in capital
+56,828 
+58,723
+Retained earnings/(deficit)
+(3,060) 
+(4,853)
+Accumulated other comprehensive income/(losses)
+(1,886) 
+(1,943)
+Treasury stock, at cost (3 shares at December 28, 2019 and 4 shares at December 29, 2018)
+(271) 
+(282)
+Total shareholders' equity
+51,623 
+51,657
+Noncontrolling interest
+126 
+118
+TOTAL EQUITY
+51,749 
+51,775
+TOTAL LIABILITIES AND EQUITY
+$
+101,450 $
+103,461
+See accompanying notes to the consolidated financial statements.
+47
+
+Question: What is Kraft Heinz's FY2019 inventory turnover ratio? Inventory turnover ratio is defined as: (FY2019 COGS) / (average inventory between FY2018 and FY2019). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the balance sheet and the P&L statement.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-00394-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Segment results managed basis
+The following tables summarize the Firms results by segment for the periods indicated.
+Three months ended June 30,
+Consumer & Community Banking
+Corporate & Investment Bank
+Commercial Banking
+(in millions, except ratios)
+2022
+2021
+Change
+2022
+2021
+Change
+2022
+2021
+Change
+Total net revenue
+$ 
+12,614 $ 
+12,760 
+ (1) %
+$ 11,947 
+$ 
+13,214 
+ (10) %
+$ 
+2,683 
+$ 
+2,483 
+ 8 %
+Total noninterest expense
+ 
+7,723 
+7,062 
+ 9 
+ 
+6,745 
+ 
+6,523 
+ 3 
+ 
+1,156 
+ 
+981 
+ 18 
+Pre-provision profit/(loss)
+ 
+4,891 
+5,698 
+ (14) 
+ 
+5,202 
+ 
+6,691 
+ (22) 
+ 
+1,527 
+ 
+1,502 
+ 2 
+Provision for credit losses
+ 
+761 
+(1,868) 
+NM
+ 
+59 
+ 
+(79) 
+NM
+ 
+209 
+ 
+(377) 
+NM
+Net income/(loss)
+ 
+3,100 
+5,645 
+(a)
+ (45) 
+ 
+3,725 
+ 
+5,020 
+(a)
+ (26) 
+ 
+994 
+ 
+1,422 
+(a)
+ (30) 
+Return on equity (ROE)
+ 24 %
+ 44 %
+ 14 %
+ 23 %
+ 15 %
+ 23 %
+Three months ended June 30,
+Asset & Wealth Management
+Corporate
+Total
+(in millions, except ratios)
+2022
+2021
+Change
+2022
+2021
+Change
+2022
+2021
+Change
+Total net revenue
+$ 
+4,306 
+$ 
+4,107 
+ 5 %
+$ 
+80 $ (1,169) 
+NM
+$ 31,630 
+$ 
+31,395 
+ 1 %
+Total noninterest expense
+ 
+2,919 
+ 
+2,586 
+ 13 
+ 
+206 
+515 
+ (60) 
+ 
+18,749 
+ 
+17,667 
+ 6 
+Pre-provision profit/(loss)
+ 
+1,387 
+ 
+1,521 
+ (9) 
+ 
+(126) 
+(1,684) 
+ 93 
+ 
+12,881 
+ 
+13,728 
+ (6) 
+Provision for credit losses
+ 
+44 
+ 
+(10) 
+NM
+ 
+28 
+49 
+ (43) 
+ 
+1,101 
+ 
+(2,285) 
+NM
+Net income/(loss)
+ 
+1,004 
+ 
+1,156 
+(a)
+ (13) 
+ 
+(174) 
+(1,295) 
+(a)
+ 87 
+ 
+8,649 
+ 
+11,948 
+ (28) 
+ROE
+ 
+23 % 
+32 %
+NM
+NM
+ 13 %
+ 18 %
+Six months ended June 30,
+Consumer & Community Banking
+Corporate & Investment Bank
+Commercial Banking
+(in millions, except ratios)
+2022
+2021
+Change
+2022
+2021
+Change
+2022
+2021
+Change
+Total net revenue
+$ 
+24,843 $ 
+25,277 
+ (2) %
+$ 25,476 
+$ 
+27,819 
+ (8) %
+$ 
+5,081 
+$ 
+4,876 
+ 4 %
+Total noninterest expense
+ 
+15,443 
+14,264 
+ 8 
+ 
+14,043 
+ 
+13,627 
+ 3 
+ 
+2,285 
+ 
+1,950 
+ 17 
+Pre-provision profit/(loss)
+ 
+9,400 
+11,013 
+ (15) 
+ 
+11,433 
+ 
+14,192 
+ (19) 
+ 
+2,796 
+ 
+2,926 
+ (4) 
+Provision for credit losses
+ 
+1,439 
+(5,470) 
+NM
+ 
+504 
+ 
+(410) 
+NM
+ 
+366 
+ 
+(495) 
+NM
+Net income/(loss)
+ 
+5,995 
+12,432 
+(a)
+ (52) 
+ 
+8,110 
+ 
+10,944 
+(a)
+ (26) 
+ 
+1,844 
+ 
+2,603 
+(a)
+ (29) 
+ROE
+ 23 %
+ 49 %
+ 15 %
+ 26 %
+(a)
+ 14 %
+ 21 %
+Six months ended June 30,
+Asset & Wealth Management
+Corporate
+Total
+(in millions, except ratios)
+2022
+2021
+Change
+2022
+2021
+Change
+2022
+2021
+Change
+Total net revenue
+$ 
+8,621 
+$ 
+8,184 
+ 5 %
+$ 
+(801) $ (1,642) 
+ 51 %
+$ 63,220 
+$ 
+64,514 
+ (2) %
+Total noninterest expense
+ 
+5,779 
+ 
+5,160 
+ 12 
+ 
+390 
+1,391 
+ (72) 
+ 
+37,940 
+ 
+36,392 
+ 4 
+Pre-provision profit/(loss)
+ 
+2,842 
+ 
+3,024 
+ (6) 
+ 
+(1,191) 
+(3,033) 
+ 61 
+ 
+25,280 
+ 
+28,122 
+ (10) 
+Provision for credit losses
+ 
+198 
+ 
+(131) 
+NM
+ 
+57 
+65 
+ (12) 
+ 
+2,564 
+ 
+(6,441) 
+NM
+Net income/(loss)
+ 
+2,012 
+ 
+2,416 
+(a)
+ (17) 
+ 
+(1,030) 
+(2,147) 
+(a)
+ 52 
+ 
+16,931 
+ 
+26,248 
+ (35) 
+ROE
+ 
+23 % 
+34 %
+NM
+NM
+ 13 %
+ 21 %
+(a) In the first quarter of 2022, the Firm changed its methodology for allocating income taxes to the LOBs, with no impact to Firmwide net income. Prior-
+period amounts have been revised to conform with the current presentation.
+The following sections provide a comparative discussion of the Firms results by segment as of or for the three and six months 
+ended June 30, 2022 versus the corresponding period in the prior year, unless otherwise specified.
+21
+
+Question: For the second quarter of 2022, which business segment of JPM reported the greatest net income?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-00822-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+ 
+ 
+Item 5.07.
+ Submission of Matters to a Vote of Security Holders.
+ 
+At Foot Locker, Inc.s (the Company) annual meeting of shareholders held on May 18, 2022 (the Annual Meeting), shareholders voted on the
+four proposals set forth below. For more information on the proposals, please see the 2022 Proxy Statement, the relevant portions of which are incorporated
+herein by reference.
+ 
+As of March 21, 2022, the Companys record date for the Annual Meeting, there were a total of 96,089,997 shares of common stock, $0.01 par
+value per share (Common Stock), outstanding and entitled to vote at the Annual Meeting. At the Annual Meeting, 77,551,206 shares of Common Stock
+were represented in person or by proxy and, therefore, a quorum was present.
+ 
+Proposal 1. With respect to the proposal to elect ten nominees to the Board of Directors (the Board), each for a one-year term expiring at the
+annual meeting of shareholders to be held in 2023, the votes were cast for the proposal as set forth below:
+ 
+Name
+ 
+Votes For
+Votes Against
+Abstentions
+Broker Non-Votes
+Virginia C. Drosos
+ 
+59,657,810
+294,935
+ 
+10,714,238
+ 
+6,884,223
+Alan D. Feldman
+ 
+54,760,830
+5,184,437
+ 
+10,721,716
+ 
+6,884,223
+Richard A. Johnson
+ 
+54,484,293
+16,105,005
+ 
+77,685
+ 
+6,884,223
+Guillermo G. Marmol
+ 
+54,193,921
+5,753,395
+ 
+10,719,667
+ 
+6,884,223
+Darlene Nicosia
+ 
+55,123,930
+4,827,808
+ 
+10,715,245
+ 
+6,884,223
+Steven Oakland
+ 
+55,421,657
+4,524,393
+ 
+10,720,933
+ 
+6,884,223
+Ulice Payne, Jr.
+ 
+54,993,396
+4,950,917
+ 
+10,722,670
+ 
+6,884,223
+Kimberly Underhill
+ 
+55,046,260
+4,906,500
+ 
+10,714,223
+ 
+6,884,223
+Tristan Walker
+ 
+55,528,794
+4,419,340
+ 
+10,718,849
+ 
+6,884,223
+Dona D. Young
+ 
+53,876,257
+6,074,467
+ 
+10,716,259
+ 
+6,884,223
+Based on the votes set forth above, each of the ten nominees to the Board was duly elected.
+ 
+Proposal 2. With respect to the proposal to approve, on an advisory basis, the Companys named executive officers (NEOs) compensation, the
+votes were cast for the proposal as set forth below:
+ 
+Votes For
+ 
+Votes Against
+ 
+Abstentions
+ 
+Broker Non-Votes
+57,172,731
+ 
+13,324,080
+ 
+170,172
+ 
+6,884,223
+ 
+Based on the votes set forth above, the NEOs compensation was approved.
+ 
+Proposal 3. With respect to the proposal, on an advisory basis, whether the shareholder vote to approve the NEOs compensation should occur
+every 1, 2, or 3 years, the votes were cast for the proposal as set forth below:
+ 
+Votes For
+1 Year
+ 
+Votes For
+2 Years
+ 
+Votes For
+3 Years
+ 
+Abstentions
+ 
+Broker Non-Votes
+66,076,265
+ 
+43,060
+ 
+4,352,683
+ 
+194,975
+ 
+6,884,223
+ 
+Based on the votes set forth above, the Company will include an annual advisory shareholder vote to approve the NEOs compensation in its
+proxy materials until the next required frequency vote, which is expected to be held at the annual meeting of shareholders to be held in 2028.
+ 
+Proposal 4. With respect to the proposal to ratify the appointment of KPMG LLP as the Companys independent registered public accounting firm
+for the 2022 fiscal year, the votes were cast for the proposal as set forth below:
+ 
+Votes For
+ 
+Votes Against
+ 
+Abstentions
+ 
+75,612,318
+ 
+1,854,695
+ 
+84,193
+ 
+ 
+ 
+Based on the votes set forth above, the appointment of KPMG LLP as the Companys independent registered public accounting firm for the 2022
+fiscal year was duly ratified.
+ 
+ 
+ 
+
+Question: Did any of the board nominees receive a noticeably higher number of "against" votes compared to the rest?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

@@ -1,0 +1,103 @@
+You are sitting an exam made of 12 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-03531-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: According to the details clearly outlined within the balance sheet, how much total current assets did Nike have at the end of FY2019? Answer in USD millions.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-04700-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What is the FY2016 COGS for Microsoft? Please state answer in USD millions. Provide a response to the question by primarily using the statement of income.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-04171-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Basing your judgments off of the balance sheet, what is the year end FY2018 amount of accounts payable for MGM Resorts? Answer in USD millions.
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-00702-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-01476-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-01163-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-01911-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What was MGM's interest coverage ratio using FY2022 Adjusted EBIT as the numerator and annual Interest Expense as the denominator?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-00746-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-00724-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: For Pfizer, which geographic region had the biggest drop in Q22023 year over year revenues (on a percentage basis)?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-00882-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-00407-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 12 | id=fb-00605-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What percent of Ulta Beauty's total spend on stock repurchases for FY 2023 occurred in Q4 of FY2023?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

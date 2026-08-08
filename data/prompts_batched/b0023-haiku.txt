@@ -1,0 +1,103 @@
+You are sitting an exam made of 12 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-00735-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-00603-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What drove the increase in Ulta Beauty's merchandise inventories balance at end of FY2023?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-00606-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Did Ulta Beauty's wages expense as a percent of net sales increase or decrease in FY2023?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-00566-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-00552-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Has Microsoft increased its debt on balance sheet between FY2023 and the FY2022 period?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-00283-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: How much does Pfizer expect to pay to spin off Upjohn in the future in USD million?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-02416-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What are three main companies acquired by Pfizer mentioned in this 10K report?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-00601-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What drove the reduction in SG&A expense as a percent of net sales in FY2023?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-00521-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-02024-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: As of FY 2021, how much did Verizon expect to pay for its retirees in 2024?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-01009-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 12 | id=fb-00382-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

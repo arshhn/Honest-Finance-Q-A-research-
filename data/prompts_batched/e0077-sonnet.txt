@@ -1,0 +1,2003 @@
+You are sitting an exam made of 8 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-01490-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Exhibit 99.1
+Johnson & Johnson Announces Updated Financials and 2023 Guidance Following Completion of the Kenvue
+Separation
+
+Company expects increased 2023 Reported Sales Growth of 7.0% - 8.0%, Operational Sales Growth of 7.5% - 8.5%, and
+Adjusted Operational Sales Growth of 6.2% - 7.2%; Figures exclude the COVID-19 Vaccine
+
+Company expects 2023 Adjusted Reported Earnings Per Share (EPS) of $10.00 - $10.10, reflecting increased growth of
+12.5% at the mid-point and Adjusted Operational EPS of $9.90 - $10.00, reflecting increased growth of 11.5% at the mid-
+point
+
+Company reduced outstanding share count by approximately 191 million; 2023 guidance reflects only a partial-year benefit
+of approximately 73.5 million shares or $0.28 benefit to EPS
+
+Company secured $13.2 billion in cash proceeds from the Kenvue debt offering and initial public offering and maintains 9.5%
+of equity stake in Kenvue
+
+Company maintains its quarterly dividend of $1.19 per share
+New Brunswick, N.J. (August 30, 2023) Johnson & Johnson (NYSE: JNJ) (the Company) today announced updates to its financials and
+2023 guidance which reflect its operations as a company focused on transformational innovation in Pharmaceutical and MedTech. The
+Company has published a recorded webinar for investors to provide additional context behind the updated financials and 2023 guidance
+found in this release, which may be accessed by visiting the Investors section of the Company's website at webcasts & presentations.
+The completion of this transaction uniquely positions Johnson & Johnson as a Pharmaceutical and MedTech company focused on delivering
+transformative healthcare solutions to patients, said Joaquin Duato, Chairman of the Board and Chief Executive Officer. We are incredibly
+proud of the focus and dedication of our employees worldwide to achieve this milestone, which we are confident will unlock near- and long-
+term value for all of our stakeholders.
+As previously announced, the Company recently completed an exchange offer to finalize the separation of Kenvue Inc., formerly Johnson &
+Johnsons Consumer Health business. As a result of the completion of the exchange offer, Johnson & Johnson will now present its
+Consumer Health business financial results as discontinued operations, including a gain of approximately $20 billion in the third quarter of
+2023.
+
+Question: What is the amount of the gain accruing to JnJ as a result of the separation of its Consumer Health business segment, as of August 30, 2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-02608-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Consolidated Statements of Earnings
+$ and shares in millions, except per share amounts
+Fiscal Years Ended
+
+January 28, 2017 
+January 30, 2016 
+January 31, 2015
+Revenue
+ $
+39,403
+ $
+39,528
+ $
+40,339
+Costofgoodssold
+
+29,963
+
+30,334
+
+31,292
+Restructuringchargescostofgoodssold
+
+
+
+3
+
+
+Grossprofit
+
+9,440
+
+9,191
+
+9,047
+Selling,generalandadministrativeexpenses
+
+7,547
+
+7,618
+
+7,592
+Restructuringcharges
+
+39
+
+198
+
+5
+Operatingincome
+
+1,854
+
+1,375
+
+1,450
+Otherincome(expense)
+ 
+ 
+ 
+Gainonsaleofinvestments
+
+3
+
+2
+
+13
+Investmentincomeandother
+
+31
+
+13
+
+14
+Interestexpense
+
+(72) 
+(80) 
+(90)
+Earningsfromcontinuingoperationsbeforeincometaxexpense
+
+1,816
+
+1,310
+
+1,387
+Incometaxexpense
+
+609
+
+503
+
+141
+Netearningsfromcontinuingoperations
+
+1,207
+
+807
+
+1,246
+Gain(loss)fromdiscontinuedoperations(Note2),netoftaxexpenseof$7,$1and$0
+
+21
+
+90
+
+(11)
+Netearningsincludingnoncontrollinginterests
+
+1,228
+
+897
+
+1,235
+Netearningsfromdiscontinuedoperationsattributabletononcontrollinginterests
+
+
+
+
+
+(2)
+NetearningsattributabletoBestBuyCo.,Inc.shareholders
+ $
+1,228
+ $
+897
+ $
+1,233
+
+ 
+ 
+ 
+Basicearnings(loss)pershareattributabletoBestBuyCo.,Inc.shareholders
+ 
+ 
+ 
+Continuingoperations
+ $
+3.79
+ $
+2.33
+ $
+3.57
+Discontinuedoperations
+
+0.07
+
+0.26
+
+(0.04)
+Basicearningspershare
+ $
+3.86
+ $
+2.59
+ $
+3.53
+
+ 
+ 
+ 
+Dilutedearnings(loss)pershareattributabletoBestBuyCo.,Inc.shareholders
+ 
+ 
+ 
+Continuingoperations
+ $
+3.74
+ $
+2.30
+ $
+3.53
+Discontinuedoperations
+
+0.07
+
+0.26
+
+(0.04)
+Dilutedearningspershare
+ $
+3.81
+ $
+2.56
+ $
+3.49
+
+ 
+ 
+ 
+Weighted-averagecommonsharesoutstanding
+ 
+ 
+ 
+Basic
+
+318.5
+
+346.5
+
+349.5
+Diluted
+
+322.6
+
+350.7
+
+353.6
+SeeNotestoConsolidatedFinancialStatements.
+54
+
+Question: In agreement with the information outlined in the income statement, what is the FY2015 - FY2017 3 year average net profit margin (as a %) for Best Buy? Answer in units of percents and round to one decimal place.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-05718-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+American Water Works Company, Inc. and Subsidiary Companies
+Consolidated Statements of Cash Flows
+(In millions)
+ 
+For the Years Ended December 31,
+ 
+2020
+2019
+2018
+CASH FLOWS FROM OPERATING ACTIVITIES
+ 
+ 
+ 
+Net income
+$
+709 
+$
+621 
+$
+565 
+Adjustments to reconcile to net cash flows provided by operating activities:
+ 
+ 
+ 
+Depreciation and amortization
+604 
+582 
+545 
+Deferred income taxes and amortization of investment tax credits
+207 
+208 
+195 
+Provision for losses on accounts receivable
+34 
+28 
+33 
+Loss (gain) on asset dispositions and purchases
+ 
+34 
+(20)
+Impairment charge
+ 
+ 
+57 
+Pension and non-pension postretirement benefits
+(14)
+17 
+23 
+Other non-cash, net
+(20)
+(41)
+20 
+Changes in assets and liabilities:
+ 
+ 
+ 
+Receivables and unbilled revenues
+(97)
+(25)
+(17)
+Pension and non-pension postretirement benefit contributions
+(39)
+(31)
+(22)
+Accounts payable and accrued liabilities
+(2)
+66 
+25 
+Other assets and liabilities, net
+44 
+(72)
+22 
+Impact of Freedom Industries settlement activities
+ 
+(4)
+(40)
+Net cash provided by operating activities
+1,426 
+1,383 
+1,386 
+CASH FLOWS FROM INVESTING ACTIVITIES
+ 
+ 
+ 
+Capital expenditures
+(1,822)
+(1,654)
+(1,586)
+Acquisitions, net of cash acquired
+(135)
+(235)
+(398)
+Proceeds from sale of assets
+2 
+48 
+35 
+Removal costs from property, plant and equipment retirements, net
+(106)
+(104)
+(87)
+Net cash used in investing activities
+(2,061)
+(1,945)
+(2,036)
+CASH FLOWS FROM FINANCING ACTIVITIES
+ 
+ 
+ 
+Proceeds from long-term debt
+1,334 
+1,530 
+1,358 
+Repayments of long-term debt
+(342)
+(495)
+(526)
+Proceeds from term loan
+500 
+ 
+ 
+Net short-term borrowings with maturities less than three months
+(5)
+(178)
+60 
+Issuance of common stock
+ 
+ 
+183 
+Proceeds from issuances of employee stock plans and direct stock purchase plan, net of taxes paid of $17, $11
+and $8 in 2020, 2019 and 2018, respectively
+9 
+15 
+16 
+Advances and contributions in aid of construction, net of refunds of $24, $30 and $22 in 2020, 2019
+and 2018, respectively
+28 
+26 
+21 
+Debt issuance costs and make-whole premium on early debt redemption
+(15)
+(15)
+(22)
+Dividends paid
+(389)
+(353)
+(319)
+Anti-dilutive share repurchases
+ 
+(36)
+(45)
+Net cash provided by financing activities
+1,120 
+494 
+726 
+Net increase (decrease) in cash, cash equivalents and restricted funds
+485 
+(68)
+76 
+Cash, cash equivalents and restricted funds at beginning of period
+91 
+159 
+83 
+Cash, cash equivalents and restricted funds at end of period
+$
+576 
+$
+91 
+$
+159 
+Cash paid during the year for:
+ 
+ 
+ 
+Interest, net of capitalized amount
+$
+382 
+$
+383 
+$
+332 
+Income taxes, net of refunds of $2, $4 and $0 in 2020, 2019 and 2018, respectively
+$
+7 
+$
+12 
+$
+38 
+Non-cash investing activity:
+ 
+ 
+ 
+Capital expenditures acquired on account but unpaid as of year end
+$
+221 
+$
+235 
+$
+181 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+84
+
+Question: How much (in USD billions) did American Water Works pay out in cash dividends for FY2020? Compute or extract the answer by primarily using the details outlined in the statement of cash flows.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-04660-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 
+SQUARE,INC.
+CONSOLIDATEDBALANCESHEETS
+(In thousands, except share and per share data)
+
+December31,
+
+2016
+
+2015
+Assets
+
+ 
+Currentassets:
+
+ 
+Cashandcashequivalents
+$
+452,030 $
+461,329
+Short-terminvestments
+59,901 
+
+Restrictedcash
+22,131 
+13,537
+Settlementsreceivable
+321,102 
+142,727
+Customerfundsheld
+43,574 
+9,446
+Loansheldforsale
+42,144 
+604
+Merchantcashadvancereceivable,net
+4,212 
+36,473
+Othercurrentassets
+56,331 
+41,447
+Totalcurrentassets
+1,001,425 
+705,563
+Propertyandequipment,net
+88,328 
+87,222
+Goodwill
+57,173 
+56,699
+Acquiredintangibleassets,net
+19,292 
+26,776
+Long-terminvestments
+27,366 
+
+Restrictedcash
+14,584 
+14,686
+Otherassets
+3,194 
+3,826
+Totalassets
+$
+1,211,362 $
+894,772
+LiabilitiesandStockholdersEquity
+
+ 
+Currentliabilities:
+
+ 
+Accountspayable
+$
+12,602 $
+18,869
+Customerspayable
+388,058 
+215,365
+Customerfundsobligation
+43,574 
+9,446
+Accruedtransactionlosses
+20,064 
+17,176
+Accruedexpenses
+39,543 
+44,401
+Othercurrentliabilities
+73,623 
+28,945
+Totalcurrentliabilities
+577,464 
+334,202
+Debt(Note11)
+ 
+
+Otherliabilities
+57,745 
+52,522
+Totalliabilities
+635,209 
+386,724
+Commitmentsandcontingencies(Note16)
+
+Stockholdersequity:
+ 
+Preferredstock,$0.0000001parvalue:100,000,000sharesauthorizedatDecember31,2016andDecember31,2015.None
+issuedandoutstandingatDecember31,2016andDecember31,2015.
+ 
+
+ClassAcommonstock,$0.0000001parvalue:1,000,000,000sharesauthorizedatDecember31,2016andDecember31,2015;
+198,746,620and31,717,133issuedandoutstandingatDecember31,2016andDecember31,2015,respectively.
+ 
+
+ClassBcommonstock,$0.0000001parvalue:500,000,000sharesauthorizedatDecember31,2016andDecember31,2015;
+165,800,756and303,232,312issuedandoutstandingatDecember31,2016andDecember31,2015,respectively.
+ 
+
+Additionalpaid-incapital
+1,357,381 
+1,116,882
+Accumulatedothercomprehensiveloss
+(1,989) 
+(1,185)
+Accumulateddeficit
+(779,239) 
+(607,649)
+Totalstockholdersequity
+576,153 
+508,048
+Totalliabilitiesandstockholdersequity
+$
+1,211,362 $
+894,772
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+68
+
+Question: Considering the data in the balance sheet, what is Block's (formerly known as Square) FY2016 working capital ratio? Define working capital ratio as total current assets divided by total current liabilities. Round your answer to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-03473-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+Year Ended December 31,
+2017
+ 
+2016
+ 
+2015
+(In millions except per share data)
+ 
+ 
+NET OPERATING REVENUES
+$
+35,410
+ $
+41,863
+ $
+44,294
+Cost of goods sold
+13,256
+ 
+16,465
+ 
+17,482
+GROSS PROFIT
+22,154
+ 
+25,398
+ 
+26,812
+Selling, general and administrative expenses
+12,496
+ 
+15,262
+ 
+16,427
+Other operating charges
+2,157
+ 
+1,510
+ 
+1,657
+OPERATING INCOME
+7,501
+ 
+8,626
+ 
+8,728
+Interest income
+677
+ 
+642
+ 
+613
+Interest expense
+841
+ 
+733
+ 
+856
+Equity income (loss) net
+1,071
+ 
+835
+ 
+489
+Other income (loss) net
+(1,666) 
+(1,234) 
+631
+INCOME FROM CONTINUING OPERATIONS BEFORE INCOME TAXES
+6,742
+ 
+8,136
+ 
+9,605
+Income taxes from continuing operations
+5,560
+ 
+1,586
+ 
+2,239
+NET INCOME FROM CONTINUING OPERATIONS
+1,182
+ 
+6,550
+ 
+7,366
+Income from discontinued operations (net of income taxes of $47, $0 and $0, respectively)
+101
+ 
+
+ 
+
+CONSOLIDATED NET INCOME
+1,283
+ 
+6,550
+ 
+7,366
+Less: Net income attributable to noncontrolling interests
+35
+ 
+23
+ 
+15
+NET INCOME ATTRIBUTABLE TO SHAREOWNERS OF
+ THE COCA-COLA COMPANY
+$
+1,248
+ $
+6,527
+ $
+7,351
+ 
+ 
+ 
+ 
+Basic net income per share from continuing operations1
+$
+0.28
+ $
+1.51
+ $
+1.69
+Basic net income per share from discontinued operations2
+0.02
+ 
+
+ 
+
+BASIC NET INCOME PER SHARE
+$
+0.29
+3 $
+1.51
+ $
+1.69
+Diluted net income per share from continuing operations1
+$
+0.27
+ $
+1.49
+ $
+1.67
+Diluted net income per share from discontinued operations2
+0.02
+ 
+
+ 
+
+DILUTED NET INCOME PER SHARE
+$
+0.29
+ $
+1.49
+ $
+1.67
+AVERAGE SHARES OUTSTANDING BASIC
+4,272
+ 
+4,317
+ 
+4,352
+Effect of dilutive securities
+52
+ 
+50
+ 
+53
+AVERAGE SHARES OUTSTANDING DILUTED
+4,324
+ 
+4,367
+ 
+4,405
+1 Calculated based on net income from continuing operations less net income from continuing operations attributable to noncontrolling
+interests.
+2 Calculated based on net income from discontinued operations less net income from discontinued operations attributable to noncontrolling
+interests.
+3 Per share amounts do not add due to
+rounding.
+Refer to Notes to Consolidated Financial Statements.
+72
+
+
+---
+
+ 
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+December 31,
+2017
+ 
+2016
+(In millions except par value)
+ 
+ 
+ASSETS
+ 
+ 
+CURRENT ASSETS
+ 
+ 
+Cash and cash equivalents
+$
+6,006
+ $
+8,555
+Short-term investments
+9,352
+ 
+9,595
+TOTAL CASH, CASH EQUIVALENTS AND SHORT-TERM INVESTMENTS
+15,358
+ 
+18,150
+Marketable securities
+5,317
+ 
+4,051
+Trade accounts receivable, less allowances of $477 and $466, respectively
+3,667
+ 
+3,856
+Inventories
+2,655
+ 
+2,675
+Prepaid expenses and other assets
+2,000
+ 
+2,481
+Assets held for sale
+219
+ 
+2,797
+Assets held for sale discontinued operations
+7,329
+ 
+
+TOTAL CURRENT ASSETS
+36,545
+ 
+34,010
+EQUITY METHOD INVESTMENTS
+20,856
+ 
+16,260
+OTHER INVESTMENTS
+1,096
+ 
+989
+OTHER ASSETS
+4,560
+ 
+4,248
+PROPERTY, PLANT AND EQUIPMENT net
+8,203
+ 
+10,635
+TRADEMARKS WITH INDEFINITE LIVES
+6,729
+ 
+6,097
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES
+138
+ 
+3,676
+GOODWILL
+9,401
+ 
+10,629
+OTHER INTANGIBLE ASSETS
+368
+ 
+726
+TOTAL ASSETS
+$
+87,896
+ $
+87,270
+LIABILITIES AND EQUITY
+ 
+ 
+CURRENT LIABILITIES
+ 
+ 
+Accounts payable and accrued expenses
+$
+8,748
+ $
+9,490
+Loans and notes payable
+13,205
+ 
+12,498
+Current maturities of long-term debt
+3,298
+ 
+3,527
+Accrued income taxes
+410
+ 
+307
+Liabilities held for sale
+37
+ 
+710
+ Liabilities held for sale discontinued operations
+1,496
+ 
+
+TOTAL CURRENT LIABILITIES
+27,194
+ 
+26,532
+LONG-TERM DEBT
+31,182
+ 
+29,684
+OTHER LIABILITIES
+8,021
+ 
+4,081
+DEFERRED INCOME TAXES
+2,522
+ 
+3,753
+THE COCA-COLA COMPANY SHAREOWNERS' EQUITY
+ 
+ 
+ Common stock, $0.25 par value; Authorized 11,200 shares;
+ Issued 7,040 and 7,040 shares, respectively
+1,760
+ 
+1,760
+Capital surplus
+15,864
+ 
+14,993
+Reinvested earnings
+60,430
+ 
+65,502
+Accumulated other comprehensive income (loss)
+(10,305) 
+(11,205)
+Treasury stock, at cost 2,781 and 2,752 shares, respectively
+(50,677) 
+(47,988)
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY
+17,072
+ 
+23,062
+EQUITY ATTRIBUTABLE TO NONCONTROLLING INTERESTS
+1,905
+ 
+158
+TOTAL EQUITY
+18,977
+ 
+23,220
+TOTAL LIABILITIES AND EQUITY
+$
+87,896
+ $
+87,270
+Refer to Notes to Consolidated Financial Statements.
+74
+
+Question: What is the FY2017 return on assets (ROA) for Coca Cola? ROA is defined as: FY2017 net income / (average total assets between FY2016 and FY2017). Round your answer to two decimal places. Give a response to the question by relying on the details shown in the balance sheet and the P&L statement.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-03069-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+Advanced Micro Devices, Inc.
+Consolidated Statements of Operations
+ 
+ 
+Year Ended
+ 
+December 26,
+ 
+2015
+ 
+December 27,
+ 
+2014
+ 
+December 28,
+ 
+2013
+ 
+(In millions, except per share amounts)
+Net revenue
+$
+3,991 $
+5,506 $
+5,299 
+Cost of sales
+2,911 
+3,667 
+3,321 
+Gross margin
+1,080 
+1,839 
+1,978 
+Research and development
+947 
+1,072 
+1,201 
+Marketing, general and administrative
+482 
+604 
+674 
+Amortization of acquired intangible assets
+3 
+14 
+18 
+Restructuring and other special charges, net
+129 
+71 
+30 
+Goodwill impairment charge
+ 
+233 
+ 
+Legal settlements, net
+ 
+ 
+(48)
+Operating income (loss)
+(481) 
+(155) 
+103 
+Interest expense
+(160) 
+(177) 
+(177)
+Other expense, net
+(5) 
+(66) 
+ 
+Loss before income taxes
+(646) 
+(398) 
+(74)
+Provision for income taxes
+14 
+5 
+9 
+Net loss
+$
+(660) $
+(403) $
+(83)
+Net loss per share
+ 
+ 
+ 
+Basic
+$
+(0.84) $
+(0.53) $
+(0.11)
+Diluted
+$
+(0.84) $
+(0.53) $
+(0.11)
+Shares used in per share calculation
+ 
+ 
+ 
+Basic
+783 
+768 
+754 
+Diluted
+783 
+768 
+754 
+See accompanying notes to consolidated financial statements.
+ 
+54
+
+
+---
+
+ 
+ 
+Advanced Micro Devices, Inc.
+Consolidated Statements of Cash Flows 
+ 
+Year Ended
+ 
+December 26,
+ 
+2015
+ 
+December 27,
+ 
+2014
+ 
+December 28,
+ 
+2013
+ 
+(In millions)
+Cash flows from operating activities:
+ 
+ 
+ 
+Net loss
+$
+(660) $
+(403) $
+(83)
+Adjustments to reconcile net loss to net cash used in operating activities:
+ 
+ 
+ 
+Depreciation and amortization
+167 
+203 
+236 
+Net loss on disposal of property, plant and equipment
+ 
+ 
+31 
+Stock-based compensation expense
+63 
+81 
+91 
+Non-cash interest expense
+11 
+17 
+25 
+Goodwill impairment charge
+ 
+233 
+ 
+Restructuring and other special charges, net
+83 
+14 
+ 
+Net loss on debt redemptions
+ 
+61 
+1 
+Other
+(3) 
+(13) 
+(1)
+Changes in operating assets and liabilities:
+ 
+ 
+ 
+Accounts receivable
+280 
+7 
+(200)
+Inventories
+(11) 
+199 
+(322)
+Prepayments and other - GLOBALFOUNDRIES
+84 
+(113) 
+ 
+Prepaid expenses and other assets
+(111) 
+(7) 
+(103)
+Accounts payables, accrued liabilities and other
+(156) 
+(231) 
+266 
+Payable to GLOBALFOUNDRIES
+27 
+(146) 
+(89)
+Net cash used in operating activities
+(226) 
+(98) 
+(148)
+Cash flows from investing activities:
+ 
+ 
+ 
+Purchases of available-for-sale securities
+(227) 
+(790) 
+(1,043)
+Purchases of property, plant and equipment
+(96) 
+(95) 
+(84)
+Proceeds from sales and maturities of available-for-sale securities
+462 
+873 
+1,344 
+Proceeds from sale of property, plant and equipment
+8 
+ 
+238 
+Net cash provided by (used in) investing activities
+147 
+(12) 
+455 
+Cash flows from financing activities:
+ 
+ 
+ 
+Proceeds from borrowings, net
+100 
+1,155 
+55 
+Proceeds from issuance of common stock
+5 
+4 
+3 
+Repayments of long-term debt and capital lease obligations
+(44) 
+(1,115) 
+(55)
+Other
+(2) 
+2 
+10 
+Net cash provided by financing activities
+59 
+46 
+13 
+Net increase (decrease) in cash and cash equivalents
+(20) 
+(64) 
+320 
+Cash and cash equivalents at beginning of year
+805 
+869 
+549 
+Cash and cash equivalents at end of year
+$
+785 $
+805 $
+869 
+Supplemental disclosures of cash flow information:
+ 
+ 
+ 
+Cash paid during the year for:
+ 
+ 
+ 
+Interest
+$
+149 $
+138 $
+152 
+Income taxes
+$
+3 $
+7 $
+9 
+See accompanying notes to consolidated financial statements.
+ 
+ 
+58
+
+Question: Answer the following question as if you are an equity research analyst and have lost internet connection so you do not have access to financial metric providers. According to the details clearly outlined within the P&L statement and the statement of cash flows, what is the FY2015 depreciation and amortization (D&A from cash flow statement) % margin for AMD?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-02987-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(Amounts in millions, except share data)
+ 
+At December 31, 2019
+ 
+At December 31, 2018
+Assets
+ 
+ 
+Current assets:
+ 
+ 
+Cash and cash equivalents
+$
+5,794
+ $
+4,225
+Accounts receivable, net of allowances of $132 and $190, at December 31, 2019 and December 31, 2018, respectively
+848
+ 
+1,035
+Inventories, net
+32
+ 
+43
+Software development
+322
+ 
+264
+Other current assets
+296
+ 
+539
+Total current assets
+7,292
+ 
+6,106
+Software development
+54
+ 
+65
+Property and equipment, net
+253
+ 
+282
+Deferred income taxes, net
+1,293
+ 
+458
+Other assets
+658
+ 
+482
+Intangible assets, net
+531
+ 
+735
+Goodwill
+9,764
+ 
+9,762
+Total assets
+$
+19,845
+ $
+17,890
+ 
+ 
+ 
+Liabilities and Shareholders Equity
+ 
+ 
+Current liabilities:
+ 
+ 
+Accounts payable
+$
+292
+ $
+253
+Deferred revenues
+1,375
+ 
+1,493
+Accrued expenses and other liabilities
+1,248
+ 
+896
+Total current liabilities
+2,915
+ 
+2,642
+Long-term debt, net
+2,675
+ 
+2,671
+Deferred income taxes, net
+505
+ 
+18
+Other liabilities
+945
+ 
+1,167
+Total liabilities
+7,040
+ 
+6,498
+Commitments and contingencies (Note 23)
+ 
+Shareholders equity:
+ 
+ 
+ 
+Common stock, $0.000001 par value, 2,400,000,000 shares authorized, 1,197,436,644 and 1,192,093,991 shares issued at
+December 31, 2019 and December 31, 2018, respectively
+
+ 
+
+Additional paid-in capital
+11,174
+ 
+10,963
+Less: Treasury stock, at cost, 428,676,471 shares at December 31, 2019 and December 31, 2018
+(5,563) 
+(5,563)
+Retained earnings
+7,813
+ 
+6,593
+Accumulated other comprehensive loss
+(619) 
+(601)
+Total shareholders equity
+12,805
+ 
+11,392
+Total liabilities and shareholders equity
+$
+19,845
+ $
+17,890
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-4
+
+
+---
+
+Table of Contents
+ACTIVISION BLIZZARD, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(Amounts in millions, except per share data)
+ 
+For the Years Ended December 31,
+ 
+2019
+ 
+2018
+ 
+2017
+Net revenues
+ 
+ 
+ 
+ 
+Product sales
+$
+1,975
+ $
+2,255 $
+2,110
+Subscription, licensing, and other revenues
+4,514
+ 
+5,245 
+4,907
+Total net revenues
+6,489
+ 
+7,500 
+7,017
+ 
+ 
+ 
+ 
+Costs and expenses
+ 
+ 
+ 
+ 
+Cost of revenuesproduct sales:
+ 
+ 
+ 
+Product costs
+656
+ 
+719 
+733
+Software royalties, amortization, and intellectual property licenses
+240
+ 
+371 
+300
+Cost of revenuessubscription, licensing, and other revenues:
+ 
+ 
+ 
+Game operations and distribution costs
+965
+ 
+1,028 
+984
+Software royalties, amortization, and intellectual property licenses
+233
+ 
+399 
+484
+Product development
+998
+ 
+1,101 
+1,069
+Sales and marketing
+926
+ 
+1,062 
+1,378
+General and administrative
+732
+ 
+822 
+745
+Restructuring and related costs
+132
+ 
+10 
+15
+Total costs and expenses
+4,882
+ 
+5,512 
+5,708
+ 
+ 
+ 
+ 
+Operating income
+1,607
+ 
+1,988 
+1,309
+Interest and other expense (income), net (Note 18)
+(26) 
+71 
+146
+Loss on extinguishment of debt
+
+ 
+40 
+12
+Income before income tax expense
+1,633
+ 
+1,877 
+1,151
+Income tax expense
+130
+ 
+29 
+878
+Net income
+$
+1,503
+ $
+1,848 $
+273
+ 
+ 
+ 
+ 
+Earnings per common share
+ 
+ 
+ 
+ 
+Basic
+$
+1.96
+ $
+2.43 $
+0.36
+Diluted
+$
+1.95
+ $
+2.40 $
+0.36
+ 
+ 
+ 
+ 
+Weighted-average number of shares outstanding
+ 
+ 
+ 
+ 
+Basic
+767
+ 
+762 
+754
+Diluted
+771
+ 
+771 
+766
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+F-5
+
+Question: What is the FY2019 fixed asset turnover ratio for Activision Blizzard? Fixed asset turnover ratio is defined as: FY2019 revenue / (average PP&E between FY2018 and FY2019). Round your answer to two decimal places. Base your judgments on the information provided primarily in the statement of income and the statement of financial position.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-03029-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents 
+3M Company and Subsidiaries
+Consolidated Statement of Cash Flow s
+Years ended December 31
+ 
+(Millions)
+ 
+2018
+ 
+2017
+ 
+2016
+ 
+Cash Flows from Operating Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net income including noncontrolling interest
+ 
+$
+5,363 
+$
+4,869 
+$
+5,058 
+Adjustments to reconcile net income including noncontrolling interest to net cash
+provided by operating activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Depreciation and amortization
+ 
+ 
+1,488 
+ 
+1,544 
+ 
+1,474 
+Company pension and postretirement contributions
+ 
+ 
+(370) 
+ 
+(967) 
+ 
+(383) 
+Company pension and postretirement expense
+ 
+ 
+410 
+ 
+334 
+ 
+250 
+Stock-based compensation expense
+ 
+ 
+302 
+ 
+324 
+ 
+298 
+Gain on sale of businesses
+ 
+ 
+(545) 
+ 
+(586) 
+ 
+(111) 
+Deferred income taxes
+ 
+ 
+(57) 
+ 
+107 
+ 
+ 7 
+Changes in assets and liabilities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accounts receivable
+ 
+ 
+(305) 
+ 
+(245) 
+ 
+(313) 
+Inventories
+ 
+ 
+(509) 
+ 
+(387) 
+ 
+57 
+Accounts payable
+ 
+ 
+408 
+ 
+24 
+ 
+148 
+Accrued income taxes (current and long-term)
+ 
+ 
+134 
+ 
+967 
+ 
+101 
+Other net
+ 
+ 
+120 
+ 
+256 
+ 
+76 
+Net cash provided by (used in) operating activities
+ 
+ 
+6,439 
+ 
+6,240 
+ 
+6,662 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash Flows from Investing Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Purchases of property, plant and equipment (PP&E)
+ 
+ 
+(1,577) 
+ 
+(1,373) 
+ 
+(1,420) 
+Proceeds from sale of PP&E and other assets
+ 
+ 
+262 
+ 
+49 
+ 
+58 
+Acquisitions, net of cash acquired
+ 
+ 
+13 
+ 
+(2,023) 
+ 
+(16) 
+Purchases of marketable securities and investments
+ 
+ 
+(1,828) 
+ 
+(2,152) 
+ 
+(1,410) 
+Proceeds from maturities and sale of marketable securities and investments
+ 
+ 
+2,497 
+ 
+1,354 
+ 
+1,247 
+Proceeds from sale of businesses, net of cash sold
+ 
+ 
+846 
+ 
+1,065 
+ 
+142 
+Other net
+ 
+ 
+ 9 
+ 
+(6) 
+ 
+(4) 
+Net cash provided by (used in) investing activities
+ 
+ 
+222 
+ 
+(3,086) 
+ 
+(1,403) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash Flows from Financing Activities
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Change in short-term debt net
+ 
+ 
+(284) 
+ 
+578 
+ 
+(797) 
+Repayment of debt (maturities greater than 90 days)
+ 
+ 
+(1,034) 
+ 
+(962) 
+ 
+(992) 
+Proceeds from debt (maturities greater than 90 days)
+ 
+ 
+2,251 
+ 
+1,987 
+ 
+2,832 
+Purchases of treasury stock
+ 
+ 
+(4,870) 
+ 
+(2,068) 
+ 
+(3,753) 
+Proceeds from issuance of treasury stock pursuant to stock option and benefit plans
+ 
+ 
+485 
+ 
+734 
+ 
+804 
+Dividends paid to shareholders
+ 
+ 
+(3,193) 
+ 
+(2,803) 
+ 
+(2,678) 
+Other net
+ 
+ 
+(56) 
+ 
+(121) 
+ 
+(42) 
+Net cash provided by (used in) financing activities
+ 
+ 
+(6,701) 
+ 
+(2,655) 
+ 
+(4,626) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Effect of exchange rate changes on cash and cash equivalents
+ 
+ 
+(160) 
+ 
+156 
+ 
+(33) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net increase (decrease) in cash and cash equivalents
+ 
+ 
+(200) 
+ 
+655 
+ 
+600 
+Cash and cash equivalents at beginning of year
+ 
+ 
+3,053 
+ 
+2,398 
+ 
+1,798 
+Cash and cash equivalents at end of period
+ 
+$
+2,853 
+$
+3,053 
+$
+2,398 
+ 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+ 
+60
+ 
+
+Question: What is the FY2018 capital expenditure amount (in USD millions) for 3M? Give a response to the question by relying on the details shown in the cash flow statement.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

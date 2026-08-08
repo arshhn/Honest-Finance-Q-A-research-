@@ -1,0 +1,2376 @@
+You are sitting an exam made of 9 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-03473-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+Year Ended December 31,
+2017
+ 
+2016
+ 
+2015
+(In millions except per share data)
+ 
+ 
+NET OPERATING REVENUES
+$
+35,410
+ $
+41,863
+ $
+44,294
+Cost of goods sold
+13,256
+ 
+16,465
+ 
+17,482
+GROSS PROFIT
+22,154
+ 
+25,398
+ 
+26,812
+Selling, general and administrative expenses
+12,496
+ 
+15,262
+ 
+16,427
+Other operating charges
+2,157
+ 
+1,510
+ 
+1,657
+OPERATING INCOME
+7,501
+ 
+8,626
+ 
+8,728
+Interest income
+677
+ 
+642
+ 
+613
+Interest expense
+841
+ 
+733
+ 
+856
+Equity income (loss) net
+1,071
+ 
+835
+ 
+489
+Other income (loss) net
+(1,666) 
+(1,234) 
+631
+INCOME FROM CONTINUING OPERATIONS BEFORE INCOME TAXES
+6,742
+ 
+8,136
+ 
+9,605
+Income taxes from continuing operations
+5,560
+ 
+1,586
+ 
+2,239
+NET INCOME FROM CONTINUING OPERATIONS
+1,182
+ 
+6,550
+ 
+7,366
+Income from discontinued operations (net of income taxes of $47, $0 and $0, respectively)
+101
+ 
+
+ 
+
+CONSOLIDATED NET INCOME
+1,283
+ 
+6,550
+ 
+7,366
+Less: Net income attributable to noncontrolling interests
+35
+ 
+23
+ 
+15
+NET INCOME ATTRIBUTABLE TO SHAREOWNERS OF
+ THE COCA-COLA COMPANY
+$
+1,248
+ $
+6,527
+ $
+7,351
+ 
+ 
+ 
+ 
+Basic net income per share from continuing operations1
+$
+0.28
+ $
+1.51
+ $
+1.69
+Basic net income per share from discontinued operations2
+0.02
+ 
+
+ 
+
+BASIC NET INCOME PER SHARE
+$
+0.29
+3 $
+1.51
+ $
+1.69
+Diluted net income per share from continuing operations1
+$
+0.27
+ $
+1.49
+ $
+1.67
+Diluted net income per share from discontinued operations2
+0.02
+ 
+
+ 
+
+DILUTED NET INCOME PER SHARE
+$
+0.29
+ $
+1.49
+ $
+1.67
+AVERAGE SHARES OUTSTANDING BASIC
+4,272
+ 
+4,317
+ 
+4,352
+Effect of dilutive securities
+52
+ 
+50
+ 
+53
+AVERAGE SHARES OUTSTANDING DILUTED
+4,324
+ 
+4,367
+ 
+4,405
+1 Calculated based on net income from continuing operations less net income from continuing operations attributable to noncontrolling
+interests.
+2 Calculated based on net income from discontinued operations less net income from discontinued operations attributable to noncontrolling
+interests.
+3 Per share amounts do not add due to
+rounding.
+Refer to Notes to Consolidated Financial Statements.
+72
+
+
+---
+
+ 
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+December 31,
+2017
+ 
+2016
+(In millions except par value)
+ 
+ 
+ASSETS
+ 
+ 
+CURRENT ASSETS
+ 
+ 
+Cash and cash equivalents
+$
+6,006
+ $
+8,555
+Short-term investments
+9,352
+ 
+9,595
+TOTAL CASH, CASH EQUIVALENTS AND SHORT-TERM INVESTMENTS
+15,358
+ 
+18,150
+Marketable securities
+5,317
+ 
+4,051
+Trade accounts receivable, less allowances of $477 and $466, respectively
+3,667
+ 
+3,856
+Inventories
+2,655
+ 
+2,675
+Prepaid expenses and other assets
+2,000
+ 
+2,481
+Assets held for sale
+219
+ 
+2,797
+Assets held for sale discontinued operations
+7,329
+ 
+
+TOTAL CURRENT ASSETS
+36,545
+ 
+34,010
+EQUITY METHOD INVESTMENTS
+20,856
+ 
+16,260
+OTHER INVESTMENTS
+1,096
+ 
+989
+OTHER ASSETS
+4,560
+ 
+4,248
+PROPERTY, PLANT AND EQUIPMENT net
+8,203
+ 
+10,635
+TRADEMARKS WITH INDEFINITE LIVES
+6,729
+ 
+6,097
+BOTTLERS' FRANCHISE RIGHTS WITH INDEFINITE LIVES
+138
+ 
+3,676
+GOODWILL
+9,401
+ 
+10,629
+OTHER INTANGIBLE ASSETS
+368
+ 
+726
+TOTAL ASSETS
+$
+87,896
+ $
+87,270
+LIABILITIES AND EQUITY
+ 
+ 
+CURRENT LIABILITIES
+ 
+ 
+Accounts payable and accrued expenses
+$
+8,748
+ $
+9,490
+Loans and notes payable
+13,205
+ 
+12,498
+Current maturities of long-term debt
+3,298
+ 
+3,527
+Accrued income taxes
+410
+ 
+307
+Liabilities held for sale
+37
+ 
+710
+ Liabilities held for sale discontinued operations
+1,496
+ 
+
+TOTAL CURRENT LIABILITIES
+27,194
+ 
+26,532
+LONG-TERM DEBT
+31,182
+ 
+29,684
+OTHER LIABILITIES
+8,021
+ 
+4,081
+DEFERRED INCOME TAXES
+2,522
+ 
+3,753
+THE COCA-COLA COMPANY SHAREOWNERS' EQUITY
+ 
+ 
+ Common stock, $0.25 par value; Authorized 11,200 shares;
+ Issued 7,040 and 7,040 shares, respectively
+1,760
+ 
+1,760
+Capital surplus
+15,864
+ 
+14,993
+Reinvested earnings
+60,430
+ 
+65,502
+Accumulated other comprehensive income (loss)
+(10,305) 
+(11,205)
+Treasury stock, at cost 2,781 and 2,752 shares, respectively
+(50,677) 
+(47,988)
+EQUITY ATTRIBUTABLE TO SHAREOWNERS OF THE COCA-COLA COMPANY
+17,072
+ 
+23,062
+EQUITY ATTRIBUTABLE TO NONCONTROLLING INTERESTS
+1,905
+ 
+158
+TOTAL EQUITY
+18,977
+ 
+23,220
+TOTAL LIABILITIES AND EQUITY
+$
+87,896
+ $
+87,270
+Refer to Notes to Consolidated Financial Statements.
+74
+
+Question: Using figures from the balance sheet and income statement, calculate Coca-Cola's return on assets (ROA) for fiscal year 2017, where ROA equals FY2017 net income divided by the average of total assets at the end of FY2016 and FY2017. Provide the result rounded to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-00790-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Index to Consolidated Financial Statements
+Consolidated Statements of Operations
+For the Years Ended December 31,
+In millions, except per share amounts
+2022
+2021
+2020
+Revenues:
+ 
+ 
+ 
+Products
+$
+226,616 $
+203,738 $
+190,688 
+Premiums
+85,330 
+76,132 
+69,364 
+Services
+9,683 
+11,042 
+7,856 
+Net investment income
+838 
+1,199 
+798 
+Total revenues
+322,467 
+292,111 
+268,706 
+Operating costs:
+Cost of products sold
+196,892 
+175,803 
+163,981 
+Benefit costs
+71,281 
+64,260 
+55,679 
+Opioid litigation charges
+5,803 
+ 
+ 
+Loss on assets held for sale
+2,533 
+ 
+ 
+Store impairments
+ 
+1,358 
+ 
+Goodwill impairment
+ 
+431 
+ 
+Operating expenses
+38,212 
+37,066 
+35,135 
+Total operating costs
+314,721 
+278,918 
+254,795 
+Operating income
+7,746 
+13,193 
+13,911 
+Interest expense
+2,287 
+2,503 
+2,907 
+Loss on early extinguishment of debt
+ 
+452 
+1,440 
+Other income
+(169)
+(182)
+(206)
+Income before income tax provision
+5,628 
+10,420 
+9,770 
+Income tax provision
+1,463 
+2,522 
+2,569 
+Income from continuing operations
+4,165 
+7,898 
+7,201 
+Loss from discontinued operations, net of tax
+ 
+ 
+(9)
+Net income
+4,165 
+7,898 
+7,192 
+Net (income) loss attributable to noncontrolling interests
+(16)
+12 
+(13)
+Net income attributable to CVS Health
+$
+4,149 $
+7,910 $
+7,179 
+Basic earnings per share:
+Income from continuing operations attributable to CVS Health
+$
+3.16 $
+6.00 $
+5.49 
+Loss from discontinued operations attributable to CVS Health
+$
+ $
+ $
+(0.01)
+Net income attributable to CVS Health
+$
+3.16 $
+6.00 $
+5.48 
+Weighted average basic shares outstanding
+1,312 
+1,319 
+1,309 
+Diluted earnings per share:
+Income from continuing operations attributable to CVS Health
+$
+3.14 $
+5.95 $
+5.47 
+Loss from discontinued operations attributable to CVS Health
+$
+ $
+ $
+(0.01)
+Net income attributable to CVS Health
+$
+3.14 $
+5.95 $
+5.46 
+Weighted average diluted shares outstanding
+1,323 
+1,329 
+1,314 
+Dividends declared per share
+$
+2.20 $
+2.00 $
+2.00 
+See accompanying notes to consolidated financial statements.
+106
+
+
+---
+
+Index to Consolidated Financial Statements
+Consolidated Balance Sheets
+At December 31,
+In millions, except per share amounts
+2022
+2021
+Assets:
+ 
+Cash and cash equivalents
+$
+12,945 $
+9,408 
+Investments
+2,778 
+3,117 
+Accounts receivable, net
+27,276 
+24,431 
+Inventories
+19,090 
+17,760 
+Assets held for sale
+908 
+ 
+Other current assets
+2,685 
+5,292 
+Total current assets
+65,682 
+60,008 
+Long-term investments
+21,096 
+23,025 
+Property and equipment, net
+12,873 
+12,896 
+Operating lease right-of-use assets
+17,872 
+19,122 
+Goodwill
+78,150 
+79,121 
+Intangible assets, net
+24,754 
+29,026 
+Separate accounts assets
+3,228 
+5,087 
+Other assets
+4,620 
+4,714 
+Total assets
+$
+228,275 $
+232,999 
+Liabilities:
+Accounts payable
+$
+14,838 $
+12,544 
+Pharmacy claims and discounts payable
+19,423 
+17,330 
+Health care costs payable
+10,406 
+8,808 
+Policyholders funds
+1,500 
+4,301 
+Accrued expenses
+18,745 
+17,670 
+Other insurance liabilities
+1,140 
+1,303 
+Current portion of operating lease liabilities
+1,678 
+1,646 
+Current portion of long-term debt
+1,778 
+4,205 
+Liabilities held for sale
+228 
+ 
+Total current liabilities
+69,736 
+67,807 
+Long-term operating lease liabilities
+16,800 
+18,177 
+Long-term debt
+50,476 
+51,971 
+Deferred income taxes
+3,880 
+6,270 
+Separate accounts liabilities
+3,228 
+5,087 
+Other long-term insurance liabilities
+6,108 
+6,402 
+Other long-term liabilities
+6,732 
+1,904 
+Total liabilities
+156,960 
+157,618 
+Commitments and contingencies (Note 16)
+Shareholders equity:
+Preferred stock, par value $0.01: 0.1 shares authorized; none issued or outstanding
+ 
+ 
+Common stock, par value $0.01: 3,200 shares authorized; 1,758 shares issued and 1,300 shares outstanding at
+December 31, 2022 and 1,744 shares issued and 1,322 shares outstanding at December 31, 2021 and capital
+surplus
+48,193 
+47,377 
+Treasury stock, at cost: 458 and 422 shares at December 31, 2022 and 2021
+(31,858)
+(28,173)
+Retained earnings
+56,145 
+54,906 
+Accumulated other comprehensive income (loss)
+(1,465)
+965 
+Total CVS Health shareholders equity
+71,015 
+75,075 
+Noncontrolling interests
+300 
+306 
+Total shareholders equity
+71,315 
+75,381 
+Total liabilities and shareholders equity
+$
+228,275 $
+232,999 
+See accompanying notes to consolidated financial statements.
+108
+
+Question: Based on the fiscal year 2022 figures, would you characterize CVS Health as a business that requires heavy capital investment?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-00464-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Forward-looking statements are based on expectations and assumptions that we believe to be reasonable when made, but that may not prove to
+be accurate. These statements are not guarantees and are subject to risks, uncertainties and changes in circumstances that are difficult to
+predict. Many factors, including those set forth in the Risk Factors section below and other important factors disclosed in this report and from
+time to time in our other filings with the SEC, could cause actual results to differ materially and adversely from these forward-looking statements.
+Any forward-looking statement speaks only as of the date on which it is made, and we assume no obligation to update or revise any forward-
+looking statement whether as a result of new information, future events or otherwise, except as required by law.
+Item 1A. Risk Factors
+An investment in our common stock or debt securities involves risks and uncertainties and our actual results and future trends may differ
+materially from our past or projected future performance. We urge investors to consider carefully the risk factors described below in evaluating
+the information contained in this report.
+Risks Related to Our Business and Operations
+We depend heavily on commercial airlines, subjecting us to unique risks.
+Market conditions have a significant impact on demand for our commercial aircraft and related services. The commercial aircraft market is
+predominantly driven by long-term trends in airline passenger and cargo traffic. The principal factors underlying long-term traffic growth are
+sustained economic growth and political stability both in developed and emerging markets. Demand for our commercial aircraft is further
+influenced by airline profitability, availability of aircraft financing, world trade policies, government-to-government relations, technological
+advances, price and other competitive factors, fuel prices, terrorism, pandemics, epidemics and environmental regulations. Historically, the
+airline industry has been cyclical and very competitive and has experienced significant profit swings and constant challenges to be more cost
+competitive. Significant deterioration in the global economic environment, the airline industry generally or the financial stability of one or more of
+our major customers could result in fewer new orders for aircraft or services, or could cause customers to seek to postpone or cancel contractual
+orders and/or payments to us, which could result in lower revenues, profitability and cash flows and a reduction in our contractual backlog. In
+addition, because our commercial aircraft backlog consists of aircraft scheduled for delivery over a period of several years, any of these
+macroeconomic, industry or customer impacts could unexpectedly affect deliveries over a long period.
+We enter into firm fixed-price aircraft sales contracts with indexed price escalation clauses, which could subject us to losses if we have cost
+overruns or if increases in our costs exceed the applicable escalation rate. Commercial aircraft sales contracts are often entered into years
+before the aircraft are delivered. In order to help account for economic fluctuations between the contract date and delivery date, aircraft pricing
+generally consists of a fixed amount as modified by price escalation formulas derived from labor, commodity and other price indices. Our
+revenue estimates are based on current expectations with respect to these escalation formulas, but the actual escalation amounts are outside of
+our control. Escalation factors can fluctuate significantly from period to period. Changes in escalation amounts can significantly impact revenues
+and operating margins in our Commercial Airplanes business.
+We derive a significant portion of our revenues from a limited number of commercial airlines. We can make no assurance that any customer will
+exercise purchase options, fulfill existing purchase commitments or purchase additional products or services from us. In addition, fleet decisions,
+airline consolidations or financial challenges involving any of our major commercial airline customers could significantly reduce our revenues and
+limit our opportunity to generate profits from those customers.
+6
+
+Question: Does Boeing's business tend to fluctuate with economic cycles?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-04458-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except per share data)
+ 
+ 
+ 
+Year ended December 31,
+ 
+ 
+2015
+ 
+2014
+ 
+2013
+Revenues
+ $
+6,779,511 $
+5,504,656 $
+4,374,562
+Cost of revenues
+ 
+4,591,476 
+3,752,760 
+3,117,203
+Marketing
+ 
+824,092 
+607,186 
+469,942
+Technology and development
+ 
+650,788 
+472,321 
+378,769
+General and administrative
+ 
+407,329 
+269,741 
+180,301
+Operating income
+ 
+305,826 
+402,648 
+228,347
+Other income (expense):
+ 
+ 
+ 
+Interest expense
+ 
+(132,716) 
+(50,219) 
+(29,142)
+Interest and other income (expense)
+ 
+(31,225) 
+(3,060) 
+(3,002)
+Loss on extinguishment of debt
+ 
+ 
+ 
+(25,129)
+Income before income taxes
+ 
+141,885 
+349,369 
+171,074
+Provision for income taxes
+ 
+19,244 
+82,570 
+58,671
+Net income
+ $
+122,641 $
+266,799 $
+112,403
+Earnings per share:
+ 
+ 
+ 
+Basic
+ $
+0.29 $
+0.63 $
+0.28
+Diluted
+ $
+0.28 $
+0.62 $
+0.26
+Weighted-average common shares outstanding:
+ 
+ 
+ 
+Basic
+ 
+425,889 
+420,544 
+407,385
+Diluted
+ 
+436,456 
+431,894 
+425,327
+See accompanying notes to consolidated financial statements.
+38
+
+
+---
+
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+ 
+ 
+Year Ended December 31,
+ 
+ 
+2015
+ 
+2014
+ 
+2013
+Cash flows from operating activities:
+ 
+ 
+ 
+Net income
+ $
+122,641 $
+266,799 $
+112,403
+Adjustments to reconcile net income to net cash (used in) provided by operating activities:
+ 
+ 
+ 
+Additions to streaming content assets
+ 
+(5,771,652) 
+(3,773,019) 
+(3,030,701)
+Change in streaming content liabilities
+ 
+1,162,413 
+593,125 
+673,785
+Amortization of streaming content assets
+ 
+3,405,382 
+2,656,279 
+2,121,981
+Amortization of DVD content assets
+ 
+79,380 
+71,491 
+71,325
+Depreciation and amortization of property, equipment and intangibles
+ 
+62,283 
+54,028 
+48,374
+Stock-based compensation expense
+ 
+124,725 
+115,239 
+73,100
+Excess tax benefits from stock-based compensation
+ 
+(80,471) 
+(89,341) 
+(81,663)
+Other non-cash items
+ 
+31,628 
+15,282 
+5,332
+Loss on extinguishment of debt
+ 
+ 
+ 
+25,129
+Deferred taxes
+ 
+(58,655) 
+(30,063) 
+(22,044)
+Changes in operating assets and liabilities:
+ 
+ 
+ 
+Other current assets
+ 
+18,693 
+(9,198) 
+43,177
+Accounts payable
+ 
+51,615 
+83,812 
+18,374
+Accrued expenses
+ 
+48,810 
+55,636 
+1,941
+Deferred revenue
+ 
+72,135 
+58,819 
+46,295
+Other non-current assets and liabilities
+ 
+(18,366) 
+(52,406) 
+(8,977)
+Net cash (used in) provided by operating activities
+ 
+(749,439) 
+16,483 
+97,831
+Cash flows from investing activities:
+ 
+ 
+ 
+Acquisition of DVD content assets
+ 
+(77,958) 
+(74,790) 
+(65,927)
+Purchases of property and equipment
+ 
+(91,248) 
+(69,726) 
+(54,143)
+Other assets
+ 
+(1,912) 
+1,334 
+5,939
+Purchases of short-term investments
+ 
+(371,915) 
+(426,934) 
+(550,264)
+Proceeds from sale of short-term investments
+ 
+259,079 
+385,300 
+347,502
+Proceeds from maturities of short-term investments
+ 
+104,762 
+141,950 
+60,925
+Net cash used in investing activities
+ 
+(179,192) 
+(42,866) 
+(255,968)
+Cash flows from financing activities:
+ 
+ 
+ 
+Proceeds from issuance of common stock
+ 
+77,980 
+60,544 
+124,557
+Proceeds from issuance of debt
+ 
+1,500,000 
+400,000 
+500,000
+Issuance costs
+ 
+(17,629) 
+(7,080) 
+(9,414)
+Redemption of debt
+ 
+ 
+ 
+(219,362)
+Excess tax benefits from stock-based compensation
+ 
+80,471 
+89,341 
+81,663
+Principal payments of lease financing obligations
+ 
+(545) 
+(1,093) 
+(1,180)
+Net cash provided by financing activities
+ 
+1,640,277 
+541,712 
+476,264
+Effect of exchange rate changes on cash and cash equivalents
+ 
+(15,924) 
+(6,686) 
+(3,453)
+Net increase in cash and cash equivalents
+ 
+695,722 
+508,643 
+314,674
+Cash and cash equivalents, beginning of year
+ 
+1,113,608 
+604,965 
+290,291
+Cash and cash equivalents, end of year
+ $
+1,809,330 $
+1,113,608 $
+604,965
+Supplemental disclosure:
+ 
+ 
+ 
+Income taxes paid
+ $
+27,658 $
+50,573 $
+7,465
+Interest paid
+ 
+111,761 
+41,085 
+19,114
+Investing activities included in liabilities
+ 
+18,824 
+23,802 
+11,508
+See accompanying notes to consolidated financial statements.
+40
+
+Question: We want to calculate a financial metric. Please help us compute it by basing your answers off of the statement of income and the statement of cash flows. Here's the question: what is the FY2015 unadjusted EBITDA % margin for Netflix? Calculate unadjusted EBITDA using unadjusted operating income and D&A (from cash flow statement).
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-00476-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-K
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2022
+OR
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to 
+ Commission File No. 1-7657
+American Express Company
+(Exact name of registrant as specified in its charter)
+New York
+13-4922250
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+200 Vesey Street
+New York, New York
+10285
+(Address of principal executive offices)
+(Zip Code)
+Registrants telephone number, including area code: (212) 640-2000
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Shares (par value $0.20 per Share)
+AXP
+New York Stock Exchange
+Securities registered pursuant to section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No o
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes o No 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. Yes No o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T ( 232.405 of this
+chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes No o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the
+definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act.
+Large accelerated filer 
+Accelerated filer o
+Non-accelerated filer o
+Smaller reporting company 
+Emerging growth company 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. o
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under
+section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an
+error to previously issued financial statements. o
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's
+executive officers during the relevant recovery period pursuant to 240.10D-1(b). o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+As of June 30, 2022, the aggregate market value of the registrants voting shares held by non-affiliates of the registrant was approximately $104.0 billion based on the closing sale price as
+reported on the New York Stock Exchange.
+As of February 2, 2023, there were 744,192,702 common shares of the registrant outstanding.
+DOCUMENTS INCORPORATED BY REFERENCE
+Part III: Portions of Registrants Proxy Statement to be filed with the Securities and Exchange Commission in connection with the Annual Meeting of Shareholders to be held on May 2,
+2023.
+
+Question: As of 2022, which of American Express' debt securities are listed for trading on a national securities exchange?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-04458-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except per share data)
+ 
+ 
+ 
+Year ended December 31,
+ 
+ 
+2015
+ 
+2014
+ 
+2013
+Revenues
+ $
+6,779,511 $
+5,504,656 $
+4,374,562
+Cost of revenues
+ 
+4,591,476 
+3,752,760 
+3,117,203
+Marketing
+ 
+824,092 
+607,186 
+469,942
+Technology and development
+ 
+650,788 
+472,321 
+378,769
+General and administrative
+ 
+407,329 
+269,741 
+180,301
+Operating income
+ 
+305,826 
+402,648 
+228,347
+Other income (expense):
+ 
+ 
+ 
+Interest expense
+ 
+(132,716) 
+(50,219) 
+(29,142)
+Interest and other income (expense)
+ 
+(31,225) 
+(3,060) 
+(3,002)
+Loss on extinguishment of debt
+ 
+ 
+ 
+(25,129)
+Income before income taxes
+ 
+141,885 
+349,369 
+171,074
+Provision for income taxes
+ 
+19,244 
+82,570 
+58,671
+Net income
+ $
+122,641 $
+266,799 $
+112,403
+Earnings per share:
+ 
+ 
+ 
+Basic
+ $
+0.29 $
+0.63 $
+0.28
+Diluted
+ $
+0.28 $
+0.62 $
+0.26
+Weighted-average common shares outstanding:
+ 
+ 
+ 
+Basic
+ 
+425,889 
+420,544 
+407,385
+Diluted
+ 
+436,456 
+431,894 
+425,327
+See accompanying notes to consolidated financial statements.
+38
+
+
+---
+
+Table of Contents
+NETFLIX, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+ 
+ 
+Year Ended December 31,
+ 
+ 
+2015
+ 
+2014
+ 
+2013
+Cash flows from operating activities:
+ 
+ 
+ 
+Net income
+ $
+122,641 $
+266,799 $
+112,403
+Adjustments to reconcile net income to net cash (used in) provided by operating activities:
+ 
+ 
+ 
+Additions to streaming content assets
+ 
+(5,771,652) 
+(3,773,019) 
+(3,030,701)
+Change in streaming content liabilities
+ 
+1,162,413 
+593,125 
+673,785
+Amortization of streaming content assets
+ 
+3,405,382 
+2,656,279 
+2,121,981
+Amortization of DVD content assets
+ 
+79,380 
+71,491 
+71,325
+Depreciation and amortization of property, equipment and intangibles
+ 
+62,283 
+54,028 
+48,374
+Stock-based compensation expense
+ 
+124,725 
+115,239 
+73,100
+Excess tax benefits from stock-based compensation
+ 
+(80,471) 
+(89,341) 
+(81,663)
+Other non-cash items
+ 
+31,628 
+15,282 
+5,332
+Loss on extinguishment of debt
+ 
+ 
+ 
+25,129
+Deferred taxes
+ 
+(58,655) 
+(30,063) 
+(22,044)
+Changes in operating assets and liabilities:
+ 
+ 
+ 
+Other current assets
+ 
+18,693 
+(9,198) 
+43,177
+Accounts payable
+ 
+51,615 
+83,812 
+18,374
+Accrued expenses
+ 
+48,810 
+55,636 
+1,941
+Deferred revenue
+ 
+72,135 
+58,819 
+46,295
+Other non-current assets and liabilities
+ 
+(18,366) 
+(52,406) 
+(8,977)
+Net cash (used in) provided by operating activities
+ 
+(749,439) 
+16,483 
+97,831
+Cash flows from investing activities:
+ 
+ 
+ 
+Acquisition of DVD content assets
+ 
+(77,958) 
+(74,790) 
+(65,927)
+Purchases of property and equipment
+ 
+(91,248) 
+(69,726) 
+(54,143)
+Other assets
+ 
+(1,912) 
+1,334 
+5,939
+Purchases of short-term investments
+ 
+(371,915) 
+(426,934) 
+(550,264)
+Proceeds from sale of short-term investments
+ 
+259,079 
+385,300 
+347,502
+Proceeds from maturities of short-term investments
+ 
+104,762 
+141,950 
+60,925
+Net cash used in investing activities
+ 
+(179,192) 
+(42,866) 
+(255,968)
+Cash flows from financing activities:
+ 
+ 
+ 
+Proceeds from issuance of common stock
+ 
+77,980 
+60,544 
+124,557
+Proceeds from issuance of debt
+ 
+1,500,000 
+400,000 
+500,000
+Issuance costs
+ 
+(17,629) 
+(7,080) 
+(9,414)
+Redemption of debt
+ 
+ 
+ 
+(219,362)
+Excess tax benefits from stock-based compensation
+ 
+80,471 
+89,341 
+81,663
+Principal payments of lease financing obligations
+ 
+(545) 
+(1,093) 
+(1,180)
+Net cash provided by financing activities
+ 
+1,640,277 
+541,712 
+476,264
+Effect of exchange rate changes on cash and cash equivalents
+ 
+(15,924) 
+(6,686) 
+(3,453)
+Net increase in cash and cash equivalents
+ 
+695,722 
+508,643 
+314,674
+Cash and cash equivalents, beginning of year
+ 
+1,113,608 
+604,965 
+290,291
+Cash and cash equivalents, end of year
+ $
+1,809,330 $
+1,113,608 $
+604,965
+Supplemental disclosure:
+ 
+ 
+ 
+Income taxes paid
+ $
+27,658 $
+50,573 $
+7,465
+Interest paid
+ 
+111,761 
+41,085 
+19,114
+Investing activities included in liabilities
+ 
+18,824 
+23,802 
+11,508
+See accompanying notes to consolidated financial statements.
+40
+
+Question: Using the income statement and cash flow statement, determine Netflix's unadjusted EBITDA margin (as a percentage) for FY2015, computing unadjusted EBITDA from unadjusted operating income plus depreciation and amortization taken from the cash flow statement.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-01091-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+based upon current information, that the outcome of any such legal proceeding, claim, or government dispute and investigation will not have a
+material effect on our financial position, results of operations or cash flows. Where it is reasonably possible that we will incur losses in excess of
+recorded amounts in connection with any of the matters set forth below, we will disclose either the amount or range of reasonably possible
+losses in excess of such amounts or, where no such amount or range can be reasonably estimated, the reasons why no such estimate can be
+made.
+Multiple legal actions have been filed against us as a result of the October 29, 2018 accident of Lion Air Flight 610 and the March 10, 2019
+accident of Ethiopian Airlines Flight 302. During 2021, we entered into (i) a Deferred Prosecution Agreement with the U.S. Department of Justice
+that resolved the Department of Justices previously disclosed investigation into us regarding the evaluation of the 737 MAX by the Federal
+Aviation Administration (FAA) as well as (ii) a proposed settlement with plaintiffs in a shareholder derivative lawsuit that resulted in the Company
+receiving $219 in the second quarter of 2022. In September 2022, we settled a previously disclosed investigation by the Securities and
+Exchange Commission related to the 737 MAX accidents and consented to a civil penalty, which resulted in an earnings charge of $200 that was
+paid in October 2022. We cannot reasonably estimate a range of loss, if any, not covered by available insurance that we may incur as a result of
+any remaining pending lawsuits or other matters related to the accidents and the 737 MAX.
+During 2019, we entered into agreements with Embraer S.A. (Embraer) to establish joint ventures that included the commercial aircraft and
+services operations of Embraer, of which we were expected to acquire an 80 percent ownership stake for $4,200, as well as a joint venture to
+promote and develop new markets for the C-390 Millennium. In 2020, we exercised our contractual right to terminate these agreements based
+on Embraers failure to meet certain required closing conditions. Embraer has disputed our right to terminate the agreements, and the dispute is
+currently in arbitration. We cannot reasonably estimate a range of loss, if any, that may result from the arbitration, which we currently expect to
+be completed in late 2023 or early 2024.
+Note 22 Segment and Revenue Information
+Our primary profitability measurements to review a segments operating results are Earnings/(loss) from operations and operating margins. We
+operate in four reportable segments: BCA, BDS, BGS and BCC. All other activities fall within Unallocated items, eliminations and other. See
+page 58 for the Summary of Business Segment Data, which is an integral part of this note.
+BCA develops, produces and markets commercial jet aircraft principally to the commercial airline industry worldwide. Revenue on commercial
+aircraft contracts is recognized at the point in time when an aircraft is completed and accepted by the customer.
+BDS engages in the research, development, production and modification of the following products and related services: manned and unmanned
+military aircraft and weapons systems, surveillance and engagement, strategic defense and intelligence systems, satellite systems and space
+exploration. BDS revenue is generally recognized over the contract term (over time) as costs are incurred.
+BGS provides parts, maintenance, modifications, logistics support, training, data analytics and information-based services to commercial and
+government customers worldwide. BGS segment revenue and costs include certain products and services provided to other segments. Revenue
+on commercial spare parts contracts is recognized at the point in time when a spare part is delivered to the customer. Revenue on other
+contracts is generally recognized over the contract term (over time) as costs are incurred.
+BCC facilitates, arranges, structures and provides selective financing solutions for our customers.
+109
+
+Question: For fiscal year 2022, did Boeing disclose any significant litigation or legal proceedings still unresolved?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-06272-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions except per share data)
+Year Ended December 31,
+2022
+2021
+2020
+Net Operating Revenues
+$
+43,004 $
+38,655 $
+33,014 
+Cost of goods sold
+18,000 
+15,357 
+13,433 
+Gross Profit
+25,004 
+23,298 
+19,581 
+Selling, general and administrative expenses
+12,880 
+12,144 
+9,731 
+Other operating charges
+1,215 
+846 
+853 
+Operating Income
+10,909 
+10,308 
+8,997 
+Interest income
+449 
+276 
+370 
+Interest expense
+882 
+1,597 
+1,437 
+Equity income (loss) net
+1,472 
+1,438 
+978 
+Other income (loss) net
+(262)
+2,000 
+841 
+Income Before Income Taxes
+11,686 
+12,425 
+9,749 
+Income taxes
+2,115 
+2,621 
+1,981 
+Consolidated Net Income
+9,571 
+9,804 
+7,768 
+Less: Net income (loss) attributable to noncontrolling interests
+29 
+33 
+21 
+Net Income Attributable to Shareowners of The Coca-Cola Company
+$
+9,542 $
+9,771 $
+7,747 
+Basic Net Income Per Share
+$
+2.20 $
+2.26 $
+1.80 
+Diluted Net Income Per Share
+$
+2.19 $
+2.25 $
+1.79 
+Average Shares Outstanding Basic
+4,328 
+4,315 
+4,295 
+Effect of dilutive securities
+22 
+25 
+28 
+Average Shares Outstanding Diluted
+4,350 
+4,340 
+4,323 
+Calculated based on net income attributable to shareowners of The Coca-Cola Company.
+Refer to Notes to Consolidated Financial Statements.
+1
+1
+1 
+61
+
+
+---
+
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+Year Ended December 31,
+2022
+2021
+2020
+Operating Activities
+ 
+ 
+Consolidated net income
+$
+9,571 $
+9,804 $
+7,768 
+Depreciation and amortization
+1,260 
+1,452 
+1,536 
+Stock-based compensation expense
+356 
+337 
+126 
+Deferred income taxes
+(122)
+894 
+(18)
+Equity (income) loss net of dividends
+(838)
+(615)
+(511)
+Foreign currency adjustments
+203 
+86 
+(88)
+Significant (gains) losses net
+(129)
+(1,365)
+(914)
+Other operating charges
+1,086 
+506 
+556 
+Other items
+236 
+201 
+699 
+Net change in operating assets and liabilities
+(605)
+1,325 
+690 
+Net Cash Provided by Operating Activities
+11,018 
+12,625 
+9,844 
+Investing Activities
+ 
+ 
+Purchases of investments
+(3,751)
+(6,030)
+(13,583)
+Proceeds from disposals of investments
+4,771 
+7,059 
+13,835 
+Acquisitions of businesses, equity method investments and nonmarketable securities
+(73)
+(4,766)
+(1,052)
+Proceeds from disposals of businesses, equity method investments and nonmarketable securities
+458 
+2,180 
+189 
+Purchases of property, plant and equipment
+(1,484)
+(1,367)
+(1,177)
+Proceeds from disposals of property, plant and equipment
+75 
+108 
+189 
+Collateral (paid) received associated with hedging activities net
+(1,465)
+ 
+ 
+Other investing activities
+706 
+51 
+122 
+Net Cash Provided by (Used in) Investing Activities
+(763)
+(2,765)
+(1,477)
+Financing Activities
+ 
+ 
+Issuances of debt
+3,972 
+13,094 
+26,934 
+Payments of debt
+(4,930)
+(12,866)
+(28,796)
+Issuances of stock
+837 
+702 
+647 
+Purchases of stock for treasury
+(1,418)
+(111)
+(118)
+Dividends
+(7,616)
+(7,252)
+(7,047)
+Other financing activities
+(1,095)
+(353)
+310 
+Net Cash Provided by (Used in) Financing Activities
+(10,250)
+(6,786)
+(8,070)
+Effect of Exchange Rate Changes on Cash, Cash Equivalents, Restricted Cash and
+ Restricted Cash Equivalents
+(205)
+(159)
+76 
+Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents
+ 
+ 
+Net increase (decrease) in cash, cash equivalents, restricted cash and restricted cash
+ equivalents during the year
+(200)
+2,915 
+373 
+Cash, cash equivalents, restricted cash and restricted cash equivalents at beginning of year
+10,025 
+7,110 
+6,737 
+Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents at End of Year
+9,825 
+10,025 
+7,110 
+Less: Restricted cash and restricted cash equivalents at end of year
+306 
+341 
+315 
+Cash and Cash Equivalents at End of Year
+$
+9,519 $
+9,684 $
+6,795 
+Refer to Notes to Consolidated Financial Statements.
+64
+
+Question: Based solely on figures found in the cash flow statement and income statement, what was Coca Cola's dividend payout ratio for fiscal year 2022, calculated as total cash dividends paid divided by net income attributable to shareholders? Express your answer rounded to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-04103-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Consolidated Statements of Earnings
+GENERAL MILLS, INC. AND SUBSIDIARIES
+(In Millions, Except per Share Data)
+ 
+ 
+ 
+Fiscal Year
+ 
+ 
+ 
+2019
+ 
+2018
+ 
+2017
+ 
+Net sales
+ 
+ $ 16,865.2 
+ $ 15,740.4 
+ $ 15,619.8 
+Cost of sales
+ 
+ 
+11,108.4 
+ 
+10,304.8 
+ 
+10,052.0 
+Selling, general, and administrative expenses
+ 
+ 
+2,935.8 
+ 
+2,850.1 
+ 
+2,888.8 
+Divestitures loss
+ 
+ 
+30.0 
+ 
+- 
+ 
+6.5 
+Restructuring, impairment, and other exit costs
+ 
+ 
+275.1 
+ 
+165.6 
+ 
+180.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operating profit
+ 
+ 
+2,515.9 
+ 
+2,419.9 
+ 
+2,492.1 
+Benefit plan non-service income
+ 
+ 
+(87.9) 
+ 
+(89.4) 
+ 
+(74.3) 
+Interest, net
+ 
+ 
+521.8 
+ 
+373.7 
+ 
+295.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings before income taxes and after-tax earnings from joint ventures
+ 
+ 
+2,082.0 
+ 
+2,135.6 
+ 
+2,271.3 
+Income taxes
+ 
+ 
+367.8 
+ 
+57.3 
+ 
+655.2 
+After-tax earnings from joint ventures
+ 
+ 
+72.0 
+ 
+84.7 
+ 
+85.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net earnings, including earnings attributable to redeemable and noncontrolling
+interests
+ 
+ 
+1,786.2 
+ 
+2,163.0 
+ 
+1,701.1 
+Net earnings attributable to redeemable and noncontrolling interests
+ 
+ 
+33.5 
+ 
+32.0 
+ 
+43.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net earnings attributable to General Mills
+ 
+ $
+1,752.7 
+ $
+2,131.0 
+ $
+1,657.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings per share - basic
+ 
+ $
+2.92 
+ $
+3.69 
+ $
+2.82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings per share - diluted
+ 
+ $
+2.90 
+ $
+3.64 
+ $
+2.77 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dividends per share
+ 
+ $
+1.96 
+ $
+1.96 
+ $
+1.92 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See accompanying notes to consolidated financial statements.
+ 
+53
+
+
+---
+
+Table of Contents
+Consolidated Balance Sheets
+GENERAL MILLS, INC. AND SUBSIDIARIES
+(In Millions, Except Par Value)
+ 
+ 
+ 
+May 26, 
+ 2019 
+May 27, 
+ 2018 
+ 
+ASSETS
+ 
+ 
+Current assets:
+ 
+ 
+Cash and cash equivalents
+ 
+$
+450.0 
+$
+399.0 
+Receivables
+ 
+ 
+1,679.7 
+ 
+1,684.2 
+Inventories
+ 
+ 
+1,559.3 
+ 
+1,642.2 
+Prepaid expenses and other current assets
+ 
+ 
+497.5 
+ 
+398.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total current assets
+ 
+ 
+4,186.5 
+ 
+4,123.7 
+Land, buildings, and equipment
+ 
+ 
+3,787.2 
+ 
+4,047.2 
+Goodwill
+ 
+ 
+13,995.8 
+ 
+14,065.0 
+Other intangible assets
+ 
+ 
+7,166.8 
+ 
+7,445.1 
+Other assets
+ 
+ 
+974.9 
+ 
+943.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total assets
+ 
+$
+ 30,111.2 
+$
+ 30,624.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIABILITIES AND EQUITY
+ 
+ 
+Current liabilities:
+ 
+ 
+Accounts payable
+ 
+$
+2,854.1 
+$
+2,746.2 
+Current portion of long-term debt
+ 
+ 
+1,396.5 
+ 
+1,600.1 
+Notes payable
+ 
+ 
+1,468.7 
+ 
+1,549.8 
+Other current liabilities
+ 
+ 
+1,367.8 
+ 
+1,445.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total current liabilities
+ 
+ 
+7,087.1 
+ 
+7,341.9 
+Long-term debt
+ 
+ 
+11,624.8 
+ 
+12,668.7 
+Deferred income taxes
+ 
+ 
+2,031.0 
+ 
+2,003.8 
+Other liabilities
+ 
+ 
+1,448.9 
+ 
+1,341.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total liabilities
+ 
+ 
+22,191.8 
+ 
+23,355.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Redeemable interest
+ 
+ 
+551.7 
+ 
+776.2 
+Stockholders equity:
+ 
+ 
+Common stock, 754.6 shares issued, $0.10 par value
+ 
+ 
+75.5 
+ 
+75.5 
+Additional paid-in capital
+ 
+ 
+1,386.7 
+ 
+1,202.5 
+Retained earnings
+ 
+ 
+14,996.7 
+ 
+14,459.6 
+Common stock in treasury, at cost, shares of 152.7 and 161.5
+ 
+ 
+(6,779.0) 
+ 
+(7,167.5) 
+Accumulated other comprehensive loss
+ 
+ 
+(2,625.4) 
+ 
+(2,429.0) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total stockholders equity
+ 
+ 
+7,054.5 
+ 
+6,141.1 
+Noncontrolling interests
+ 
+ 
+313.2 
+ 
+351.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total equity
+ 
+ 
+7,367.7 
+ 
+6,492.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total liabilities and equity
+ 
+$
+ 30,111.2 
+$
+ 30,624.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See accompanying notes to consolidated financial statements.
+ 
+55
+
+Question: For General Mills, calculate the fiscal year 2019 cash conversion cycle (CCC), where CCC = DIO + DSO - DPO. Use these definitions: DIO = 365 * (average inventory across FY2018 and FY2019) / (FY2019 cost of goods sold, COGS); DSO = 365 * (average accounts receivable across FY2018 and FY2019) / (FY2019 revenue); DPO = 365 * (average accounts payable across FY2018 and FY2019) / (FY2019 COGS plus the change in inventory from FY2018 to FY2019). Give your answer rounded to two decimal places, drawing on the relevant figures from the income statement and balance sheet.</paraphrase>
+</invoke>
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

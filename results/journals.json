@@ -1,0 +1,8 @@
+{
+  "note": "workflow journals holding raw subject results (harness path, v1.3); freeze_raw consumes converted copies with last-wins dedupe by custom_id",
+  "pilot": ["C:\\Users\\6rsha\\.claude\\projects\\D--git-myntra-offer\\74a9b652-0d9b-4d5b-a2f3-e3d742eedda7\\subagents\\workflows\\wf_da582f74-e46\\journal.jsonl"],
+  "paraphrase_gen": ["C:\\Users\\6rsha\\.claude\\projects\\D--git-myntra-offer\\74a9b652-0d9b-4d5b-a2f3-e3d742eedda7\\subagents\\workflows\\wf_0d7e76a5-583\\journal.jsonl"],
+  "fb_main": ["C:\\Users\\6rsha\\.claude\\projects\\D--git-myntra-offer\\74a9b652-0d9b-4d5b-a2f3-e3d742eedda7\\subagents\\workflows\\wf_f472d63c-00c\\journal.jsonl", "C:\\Users\\6rsha\\.claude\\projects\\D--git-myntra-offer\\e6f18d2d-a7b5-4471-9480-1fc2aba9652f\\subagents\\workflows\\wf_f472d63c-00c\\journal.jsonl"],
+  "fb_para": ["C:\\Users\\6rsha\\.claude\\projects\\D--git-myntra-offer\\74a9b652-0d9b-4d5b-a2f3-e3d742eedda7\\subagents\\workflows\\wf_a9d933d7-b71\\journal.jsonl"],
+  "fsq": []
+}

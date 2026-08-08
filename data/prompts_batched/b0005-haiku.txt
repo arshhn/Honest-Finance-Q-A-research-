@@ -1,0 +1,889 @@
+You are sitting an exam made of 8 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-00724-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PFIZER INC. AND SUBSIDIARY COMPANIES.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+Segment AssetsWe manage our assets on a total company basis, not by operating segment, as our operating assets are shared or commingled. Therefore, our
+chief operating decision maker does not regularly review any asset information by operating segment and, accordingly, we do not report asset information by
+operating segment. Total assets were $220 billion as of July 2, 2023 and $197 billion as of December 31, 2022.
+Selected Income Statement Information
+The following provides selected income statement information by reportable segment:
+Three Months Ended
+Six Months Ended
+ 
+Revenues
+Earnings
+Revenues
+Earnings
+(MILLIONS)
+July 2,
+2023
+July 3,
+2022
+July 2,
+2023
+July 3,
+2022
+July 2,
+2023
+July 3,
+2022
+July 2,
+2023
+July 3,
+2022
+Reportable Segment:
+Biopharma
+$
+12,418 
+$
+27,425 
+$
+7,003 
+$
+17,166 
+$
+30,389 
+$
+52,748 
+$
+17,939 
+$
+30,557 
+Other business activities
+316 
+317 
+(2,871)
+(3,384)
+626 
+655 
+(5,605)
+(5,812)
+Reconciling Items:
+Amortization of intangible assets
+(1,184)
+(822)
+(2,287)
+(1,657)
+Acquisition-related items
+(387)
+(82)
+(550)
+(269)
+Certain significant items
+(293)
+(1,431)
+(958)
+(2,322)
+$
+12,734 
+$
+27,742 
+$
+2,269 
+$
+11,447 
+$
+31,015 
+$
+53,402 
+$
+8,539 
+$
+20,497 
+Income from continuing operations before provision/(benefit) for taxes on income. Biopharmas earnings include dividend income from our investment in ViiV of $91 million in the second quarter
+of 2023 and $69 million in the second quarter of 2022, and $183 million in the first six months of 2023 and $125 million in the first six months of 2022. In connection with the organizational
+changes effective in the third quarter of 2022, certain functions transferred between Biopharma and corporate enabling functions and certain activities were realigned within the GPD organization.
+We have reclassified $58 million of costs in the second quarter of 2022 and $105 million in the first six months of 2022 from corporate enabling functions, which are included in Other business
+activities, to Biopharma to conform to the current period presentation.
+Other business activities include revenues and costs associated with Business Innovation and costs that we do not allocate to our operating segments, per above, including acquired IPR&D
+expenses in the periods presented. Earnings in the second quarter and first six months of 2023 include approximately $140 million and $260 million, respectively, of write-offs to Cost of sales of
+inventory related to COVID-19 products that exceeded or were expected to exceed their approved shelf-lives prior to being used. Earnings in the second quarter and first six months of 2022
+included a $450 million write-off to Cost of sales of inventory related to COVID-19 products that exceeded or were expected to exceed their approved shelf-lives prior to being used.
+Certain significant items are substantive and/or unusual, and in some cases recurring, items (as noted above). Earnings in the second quarter and first six months of 2022 included, among other
+items, net losses on equity securities of $539 million and $1.2 billion, respectively, recorded in Other (income)/deductionsnet. See Note 4.
+B. Geographic Information
+The following summarizes revenues by geographic area:
+ 
+Three Months Ended
+Six Months Ended
+(MILLIONS)
+July 2,
+2023
+July 3,
+2022
+%
+Change
+July 2,
+2023
+July 3,
+2022
+%
+Change
+United States
+$
+6,185 
+$
+11,222 
+(45)
+$
+14,692 
+$
+20,140 
+(27)
+Developed Europe
+2,415 
+5,480 
+(56)
+5,236 
+11,569 
+(55)
+Developed Rest of World
+1,305 
+5,034 
+(74)
+3,778 
+8,320 
+(55)
+Emerging Markets
+2,828 
+6,006 
+(53)
+7,308 
+13,373 
+(45)
+Revenues
+$
+12,734 
+$
+27,742 
+(54)
+$
+31,015 
+$
+53,402 
+(42)
+In May 2023, we and our collaboration partner, BioNTech, amended our contract with the EC to deliver COVID-19 vaccines to the EU. The amended
+agreement includes rephasing of delivery of doses annually through 2026 and an aggregate volume reduction, providing additional flexibility for EU member
+states. The EC will maintain access to future adapted COVID-19 vaccines and the ability to donate doses, in alignment with the original agreement. See Note
+13C.
+C. Other Revenue Information
+Significant CustomersFor information on our significant wholesale customers, see Note 17C in our 2022 Form 10-K. Additionally, revenues from the U.S.
+government represented 1% and 9% of total revenues for the three and six months ended July 2, 2023, respectively, and 26% and 22% of total revenues for the
+three and six months ended July 3, 2022, respectively. Accounts receivable from the U.S. government represented less than 1% and 4% of total trade accounts
+receivable as of July 2, 2023 and December 31, 2022, respectively. Revenues and accounts receivable from the U.S. government primarily represent sales of
+Paxlovid and Comirnaty.
+(a)
+(a)
+(b)
+(c)
+(a)
+(b)
+(c)
+35
+
+Question: For Pfizer, which geographic region had the biggest drop in Q22023 year over year revenues (on a percentage basis)?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-01198-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+ITEM 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion should be read in conjunction with the consolidated financial statements as of December 31, 2022 and December 25, 2021 and for
+each of the three years in the period ended December 31, 2022 and related notes, which are included in this Annual Report on Form 10-K as well as with the
+other sections of this Annual Report on Form 10-K, Part II, Item 8: Financial Statements and Supplementary Data.
+Introduction
+In this section, we will describe the general financial condition and the results of operations of Advanced Micro Devices, Inc. and its wholly-owned subsidiaries
+(collectively, us, our or AMD), including a discussion of our results of operations for 2022 compared to 2021, an analysis of changes in our financial
+condition and a discussion of our off-balance sheet arrangements. Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 that are
+not included in this Form 10-K can be found in Managements Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of
+our Annual Report on Form 10-K for the fiscal year ended December 25, 2021.
+Overview
+2022 was a transformative year for AMD as we took several major steps that scaled and reshaped our business. In February 2022, we completed our strategic
+acquisition of Xilinx, Inc. (Xilinx) which expanded our technology and product portfolio to include adaptable hardware platforms that enable hardware
+acceleration and rapid innovation across a variety of technologies and established AMD in multiple embedded markets where we have traditionally not had a
+significant presence. We now offer Field Programmable Gate Arrays (FPGAs), Adaptive SoCs, and Adaptive Compute Acceleration Platform (ACAP) products.
+With the acquisition of Xilinx, we have access to a new set of markets and customers, further strengthening and diversifying our business model. In May 2022,
+we expanded our data center solutions capabilities with the acquisition of Pensando Systems, Inc. (Pensando). We now offer high-performance data
+processing units (DPUs) and a software stack that complements our existing products. With the Xilinx and Pensando acquisitions, we are well positioned to
+provide the industrys broadest set of leadership compute engines and accelerators to help enable best performance, security, flexibility and total cost of
+ownership for leading-edge data centers.
+Our 2022 financial results reflect the strength of our diversified business model despite the challenging PC market conditions in the second half of 2022. Net
+revenue for 2022 was $23.6 billion, an increase of 44% compared to 2021 net revenue of $16.4 billion. The increase in net revenue was driven by a 64%
+increase in Data Center segment revenue primarily due to higher sales of our EPYC server processors, a 21% increase in Gaming segment revenue
+primarily due to higher semi-custom product sales, and a significant increase in Embedded segment revenue from the prior year period driven by the inclusion
+of Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue primarily due to lower processor shipments
+driven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022,
+was 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition.
+Operating income for 2022 was $1.3 billion compared to operating income of $3.6 billion for 2021. The decrease in operating income was primarily driven by
+amortization of intangible assets associated with the Xilinx acquisition. Net income for 2022 was $1.3 billion compared to $3.2 billion in the prior year. The
+decrease in net income was primarily driven by lower operating income.
+Cash, cash equivalents and short-term investments as of December 31, 2022 were $5.9 billion, compared to $3.6 billion at the end of 2021. Our aggregate
+principal amount of total debt as of December 31, 2022 was $2.5 billion, compared to $313 million as of December 25, 2021.
+We took several actions in 2022 to strengthen our financial position. In June 2022, we issued $1.0 billion in aggregate principal amount of senior notes,
+consisting of $500 million in aggregate principal amount of 3.924% Senior Notes due 2032 (3.924% Notes) and $500 million in aggregate principal amount of
+4.393% Senior Notes due 2052 (4.393% Notes). The 3.924% Notes will mature on June 1, 2032 and bear interest at a rate of 3.924% per annum, and the
+4.393% Notes will mature on June 1, 2052 and bear interest at a rate of 4.393% per annum. The 3.924% Notes and the 4.393% Notes are senior unsecured
+obligations.
+40
+
+Question: For AMD's fiscal year 2022, what were the main factors behind the change in revenue?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-00882-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 
+
+Item 8.01.
+Other Events.
+
+Effective May 26, 2023, PepsiCo, Inc. (PepsiCo) terminated the $3,800,000,000 364 day unsecured revolving credit agreement, dated as of
+May 27, 2022, among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent (the 2022 364 Day Credit
+Agreement). There were no outstanding borrowings under the 2022 364 Day Credit Agreement at the time of its termination.
+
+On May 26, 2023, PepsiCo entered into a new $4,200,000,000 364 day unsecured revolving credit agreement (the 2023 364 Day Credit
+Agreement) among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent. The 2023 364 Day Credit Agreement
+enables PepsiCo and its borrowing subsidiaries to borrow up to $4,200,000,000 in U.S. Dollars and/or Euros, subject to customary terms and conditions,
+and expires on May 24, 2024. PepsiCo may also, upon the agreement of either the then existing lenders or of additional banks not currently party to the
+2023 364 Day Credit Agreement, increase the commitments under the 2023 364 Day Credit Agreement to up to $4,950,000,000 in U.S. Dollars and/or
+Euros. PepsiCo may request renewal of the 2023 364 Day Credit Agreement for an additional 364 day period or convert any amounts outstanding into a
+term loan for a period of up to one year, which term loan would mature no later than the anniversary of the then effective termination date. Subject to
+certain conditions stated in the 2023 364 Day Credit Agreement, PepsiCo and its borrowing subsidiaries may borrow, prepay and reborrow amounts under
+the 2023 364 Day Credit Agreement at any time during the term of the 2023 364 Day Credit Agreement. Funds borrowed under the 2023 364 Day Credit
+Agreement may be used for general corporate purposes of PepsiCo and its subsidiaries. The 2023 364 Day Credit Agreement contains customary
+representations and warranties and events of default. In the ordinary course of their respective businesses, the lenders under the 2023 364 Day Credit
+Agreement and their affiliates have engaged, and may in the future engage, in commercial banking and/or investment banking transactions with PepsiCo
+and its affiliates.
+
+Effective May 26, 2023, PepsiCo terminated the $3,800,000,000 five year unsecured revolving credit agreement, dated as of May 27, 2022, among
+PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent (the 2022 Five Year Credit Agreement). There were no
+outstanding borrowings under the 2022 Five Year Credit Agreement at the time of its termination.
+
+On May 26, 2023, PepsiCo entered into a new $4,200,000,000 five year unsecured revolving credit agreement (the 2023 Five Year Credit
+Agreement) among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent. The 2023 Five Year Credit Agreement
+enables PepsiCo and its borrowing subsidiaries to borrow up to $4,200,000,000 in U.S. Dollars and/or Euros, including a $750,000,000 swing line
+subfacility for Euro-denominated borrowings permitted to be borrowed on a same day basis, subject to customary terms and conditions, and expires on
+May 26, 2028. PepsiCo may also, upon the agreement of either the then existing lenders or of additional banks not currently party to the 2023 Five Year
+Credit Agreement, increase the commitments under the 2023 Five Year Credit Agreement to up to $4,950,000,000 in U.S. Dollars and/or Euros. PepsiCo
+may, once a year, request renewal of the 2023 Five Year Credit Agreement for an additional one year period. Subject to certain conditions stated in the 2023
+Five Year Credit Agreement, PepsiCo and its borrowing subsidiaries may borrow, prepay and reborrow amounts under the 2023 Five Year Credit
+Agreement at any time during the term of the 2023 Five Year Credit Agreement. Funds borrowed under the 2023 Five Year Credit Agreement may be used
+for general corporate purposes of PepsiCo and its subsidiaries. The 2023 Five Year Credit Agreement contains customary representations and warranties
+and events of default. In the ordinary course of their respective businesses, the lenders under the 2023 Five Year Credit Agreement and their affiliates have
+engaged, and may in the future engage, in commercial banking and/or investment banking transactions with PepsiCo and its affiliates.
+
+The foregoing descriptions of the 2023 364 Day Credit Agreement and 2023 Five Year Credit Agreement do not purport to be complete and are
+qualified in their entirety by reference to the full text of the 2023 364 Day Credit Agreement and the 2023 Five Year Credit Agreement, as applicable,
+which are filed as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and incorporated by reference herein.
+
+1
+
+Question: As of May 26, 2023, what is the maximum aggregate amount Pepsico is permitted to draw under its unsecured revolving credit agreements?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-00288-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+Table of Contents
+ 
+Consolidated Non-GAAP Financial Measures
+ 
+Reconciliations of operating income, effective tax rate and diluted EPS (GAAP financial measures) to non-GAAP operating income, non-GAAP effective tax rate 
+and non-GAAP diluted EPS (non-GAAP financial measures) were as follows ($ in millions, except per share amounts):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Three Months Ended
+ 
+Six Months Ended
+ 
+July 29, 2023
+ 
+July 30, 2022
+ 
+July 29, 2023
+ 
+July 30, 2022
+Operating income
+$
+ 348 
+ $
+ 371 
+ $
+ 659 
+ $
+ 833 
+% of revenue
+ 
+ 3.6 % 
+ 3.6 % 
+ 3.5 % 
+ 4.0 %
+Intangible asset amortization(1)
+ 
+ 21 
+ 
+ 22 
+ 
+ 41 
+ 
+ 44 
+Restructuring charges(2)
+ 
+ (7) 
+ 
+ 34 
+ 
+ (16) 
+ 
+ 35 
+Non-GAAP operating income
+$
+ 362 
+ $
+ 427 
+ $
+ 684 
+ $
+ 912 
+% of revenue
+ 
+ 3.8 % 
+ 4.1 % 
+ 3.6 % 
+ 4.3 %
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Effective tax rate
+ 
+ 26.1 % 
+ 15.6 % 
+ 24.8 % 
+ 20.5 %
+Intangible asset amortization(1)
+ 
+ (0.4)% 
+ 0.4 % 
+ 0.4 % 
+ 0.2 %
+Restructuring charges(2)
+ 
+ 0.4 % 
+ 0.7 % 
+ (0.1)% 
+ 0.1 %
+Loss on investments
+ 
+ 0.5 % 
+ -% 
+ -% 
+ -%
+Non-GAAP effective tax rate
+ 
+ 26.6 % 
+ 16.7 % 
+ 25.1 % 
+ 20.8 %
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diluted EPS
+$
+ 1.25 
+ $
+ 1.35 
+ $
+ 2.36 
+ $
+ 2.85 
+Intangible asset amortization(1)
+ 
+ 0.10 
+ 
+ 0.10 
+ 
+ 0.18 
+ 
+ 0.19 
+Restructuring charges(2)
+ 
+ (0.03) 
+ 
+ 0.15 
+ 
+ (0.07) 
+ 
+ 0.15 
+Loss on investments
+ 
+ - 
+ 
+ - 
+ 
+ 0.02 
+ 
+ - 
+Gain on sale of subsidiary, net(3)
+ 
+ (0.10) 
+ 
+ - 
+ 
+ (0.10) 
+ 
+ - 
+Income tax impact of non-GAAP adjustments(4)
+ 
+ - 
+ 
+ (0.06) 
+ 
+ (0.02) 
+ 
+ (0.08) 
+Non-GAAP diluted EPS
+$
+ 1.22 
+ $
+ 1.54 
+ $
+ 2.37 
+ $
+ 3.11 
+For additional information regarding the nature of charges discussed below, refer to Note 1, Basis of Presentation, Note 2, Restructuring, and Note 3, Goodwill and Intangible Assets, of the Notes to 
+Condensed Consolidated Financial Statements, included in this Quarterly Report on Form 10-Q.
+(1)
+Represents the non-cash amortization of definite-lived intangible assets associated with acquisitions, including customer relationships, tradenames and developed technology assets.
+(2)
+Represents charges related to employee termination benefits and subsequent adjustments from higher-than-expected employee retention related to previously planned organizational changes.
+(3)
+Represents the gain on sale of a Mexico subsidiary subsequent to our exit from operations in Mexico.
+(4)
+The non-GAAP adjustments primarily relate to the U.S. and Mexico. As such, the forecasted annual income tax charge on the U.S. non-GAAP adjustments is calculated using the statutory tax rate of 
+24.5%. There is no forecasted annual income tax benefit for Mexico non-GAAP items, as there is no forecasted annual tax expense on the income in the calculation of GAAP income tax expense.
+ 
+Our non-GAAP operating income rates decreased in the second quarter and first six months of fiscal 2024, primarily due to unfavorable SG&A rates, partially 
+offset by favorable gross profit rates.
+ 
+Our non-GAAP effective tax rate increased in the second quarter of fiscal 2024, primarily due to the prior year resolution of certain discrete tax matters. Our non-
+GAAP effective tax rate increased in the first six months of fiscal 2024, primarily due to the prior year resolution of certain discrete tax matters and decreased tax 
+benefits from stock-based compensation, partially offset by the impact of lower pre-tax earnings.
+ 
+Our non-GAAP diluted EPS decreased in the second quarter and first six months of fiscal 2024, primarily due to the decreases in non-GAAP operating income.
+ 
+Liquidity and Capital Resources
+ 
+We closely manage our liquidity and capital resources. Our liquidity requirements depend on key variables, including the level of investment required to support 
+our business strategies, the performance of our business, capital expenditures, dividends, credit facilities, short-term borrowing arrangements and working capital 
+management. We modify our approach to managing these variables as changes in our operating environment arise. For example, capital expenditures and share 
+repurchases are a component of our cash flow and capital management strategy, which, to a large extent, we can adjust in response to economic and other 
+changes in our business environment. We have a disciplined approach to capital allocation, which focuses on investing in key priorities that support our strategy.
+ 
+Cash and cash equivalents were as follows ($ in millions):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+July 29, 2023
+ 
+January 28, 2023
+ 
+July 30, 2022
+Cash and cash equivalents
+ 
+ $
+ 1,093 $
+ 1,874 $
+ 840 
+ 
+The decrease in cash and cash equivalents from January 28, 2023, was primarily due to the timing and volume of inventory purchases and payments, dividend 
+payments and capital expenditures, partially offset by earnings. 
+ 
+20
+
+Question: Did Cash & Cash equivalents decrease from FY 2023 to Q2 of FY2024?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-00705-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 
+
+Item 8.01.
+Other Events.
+
+Effective May 26, 2023, PepsiCo, Inc. (PepsiCo) terminated the $3,800,000,000 364 day unsecured revolving credit agreement, dated as of
+May 27, 2022, among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent (the 2022 364 Day Credit
+Agreement). There were no outstanding borrowings under the 2022 364 Day Credit Agreement at the time of its termination.
+
+On May 26, 2023, PepsiCo entered into a new $4,200,000,000 364 day unsecured revolving credit agreement (the 2023 364 Day Credit
+Agreement) among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent. The 2023 364 Day Credit Agreement
+enables PepsiCo and its borrowing subsidiaries to borrow up to $4,200,000,000 in U.S. Dollars and/or Euros, subject to customary terms and conditions,
+and expires on May 24, 2024. PepsiCo may also, upon the agreement of either the then existing lenders or of additional banks not currently party to the
+2023 364 Day Credit Agreement, increase the commitments under the 2023 364 Day Credit Agreement to up to $4,950,000,000 in U.S. Dollars and/or
+Euros. PepsiCo may request renewal of the 2023 364 Day Credit Agreement for an additional 364 day period or convert any amounts outstanding into a
+term loan for a period of up to one year, which term loan would mature no later than the anniversary of the then effective termination date. Subject to
+certain conditions stated in the 2023 364 Day Credit Agreement, PepsiCo and its borrowing subsidiaries may borrow, prepay and reborrow amounts under
+the 2023 364 Day Credit Agreement at any time during the term of the 2023 364 Day Credit Agreement. Funds borrowed under the 2023 364 Day Credit
+Agreement may be used for general corporate purposes of PepsiCo and its subsidiaries. The 2023 364 Day Credit Agreement contains customary
+representations and warranties and events of default. In the ordinary course of their respective businesses, the lenders under the 2023 364 Day Credit
+Agreement and their affiliates have engaged, and may in the future engage, in commercial banking and/or investment banking transactions with PepsiCo
+and its affiliates.
+
+Effective May 26, 2023, PepsiCo terminated the $3,800,000,000 five year unsecured revolving credit agreement, dated as of May 27, 2022, among
+PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent (the 2022 Five Year Credit Agreement). There were no
+outstanding borrowings under the 2022 Five Year Credit Agreement at the time of its termination.
+
+On May 26, 2023, PepsiCo entered into a new $4,200,000,000 five year unsecured revolving credit agreement (the 2023 Five Year Credit
+Agreement) among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent. The 2023 Five Year Credit Agreement
+enables PepsiCo and its borrowing subsidiaries to borrow up to $4,200,000,000 in U.S. Dollars and/or Euros, including a $750,000,000 swing line
+subfacility for Euro-denominated borrowings permitted to be borrowed on a same day basis, subject to customary terms and conditions, and expires on
+May 26, 2028. PepsiCo may also, upon the agreement of either the then existing lenders or of additional banks not currently party to the 2023 Five Year
+Credit Agreement, increase the commitments under the 2023 Five Year Credit Agreement to up to $4,950,000,000 in U.S. Dollars and/or Euros. PepsiCo
+may, once a year, request renewal of the 2023 Five Year Credit Agreement for an additional one year period. Subject to certain conditions stated in the 2023
+Five Year Credit Agreement, PepsiCo and its borrowing subsidiaries may borrow, prepay and reborrow amounts under the 2023 Five Year Credit
+Agreement at any time during the term of the 2023 Five Year Credit Agreement. Funds borrowed under the 2023 Five Year Credit Agreement may be used
+for general corporate purposes of PepsiCo and its subsidiaries. The 2023 Five Year Credit Agreement contains customary representations and warranties
+and events of default. In the ordinary course of their respective businesses, the lenders under the 2023 Five Year Credit Agreement and their affiliates have
+engaged, and may in the future engage, in commercial banking and/or investment banking transactions with PepsiCo and its affiliates.
+
+The foregoing descriptions of the 2023 364 Day Credit Agreement and 2023 Five Year Credit Agreement do not purport to be complete and are
+qualified in their entirety by reference to the full text of the 2023 364 Day Credit Agreement and the 2023 Five Year Credit Agreement, as applicable,
+which are filed as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and incorporated by reference herein.
+
+1
+
+Question: What was the size of the increase Pepsico made to its unsecured five-year revolving credit agreement on May 26, 2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-00882-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 
+
+Item 8.01.
+Other Events.
+
+Effective May 26, 2023, PepsiCo, Inc. (PepsiCo) terminated the $3,800,000,000 364 day unsecured revolving credit agreement, dated as of
+May 27, 2022, among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent (the 2022 364 Day Credit
+Agreement). There were no outstanding borrowings under the 2022 364 Day Credit Agreement at the time of its termination.
+
+On May 26, 2023, PepsiCo entered into a new $4,200,000,000 364 day unsecured revolving credit agreement (the 2023 364 Day Credit
+Agreement) among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent. The 2023 364 Day Credit Agreement
+enables PepsiCo and its borrowing subsidiaries to borrow up to $4,200,000,000 in U.S. Dollars and/or Euros, subject to customary terms and conditions,
+and expires on May 24, 2024. PepsiCo may also, upon the agreement of either the then existing lenders or of additional banks not currently party to the
+2023 364 Day Credit Agreement, increase the commitments under the 2023 364 Day Credit Agreement to up to $4,950,000,000 in U.S. Dollars and/or
+Euros. PepsiCo may request renewal of the 2023 364 Day Credit Agreement for an additional 364 day period or convert any amounts outstanding into a
+term loan for a period of up to one year, which term loan would mature no later than the anniversary of the then effective termination date. Subject to
+certain conditions stated in the 2023 364 Day Credit Agreement, PepsiCo and its borrowing subsidiaries may borrow, prepay and reborrow amounts under
+the 2023 364 Day Credit Agreement at any time during the term of the 2023 364 Day Credit Agreement. Funds borrowed under the 2023 364 Day Credit
+Agreement may be used for general corporate purposes of PepsiCo and its subsidiaries. The 2023 364 Day Credit Agreement contains customary
+representations and warranties and events of default. In the ordinary course of their respective businesses, the lenders under the 2023 364 Day Credit
+Agreement and their affiliates have engaged, and may in the future engage, in commercial banking and/or investment banking transactions with PepsiCo
+and its affiliates.
+
+Effective May 26, 2023, PepsiCo terminated the $3,800,000,000 five year unsecured revolving credit agreement, dated as of May 27, 2022, among
+PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent (the 2022 Five Year Credit Agreement). There were no
+outstanding borrowings under the 2022 Five Year Credit Agreement at the time of its termination.
+
+On May 26, 2023, PepsiCo entered into a new $4,200,000,000 five year unsecured revolving credit agreement (the 2023 Five Year Credit
+Agreement) among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent. The 2023 Five Year Credit Agreement
+enables PepsiCo and its borrowing subsidiaries to borrow up to $4,200,000,000 in U.S. Dollars and/or Euros, including a $750,000,000 swing line
+subfacility for Euro-denominated borrowings permitted to be borrowed on a same day basis, subject to customary terms and conditions, and expires on
+May 26, 2028. PepsiCo may also, upon the agreement of either the then existing lenders or of additional banks not currently party to the 2023 Five Year
+Credit Agreement, increase the commitments under the 2023 Five Year Credit Agreement to up to $4,950,000,000 in U.S. Dollars and/or Euros. PepsiCo
+may, once a year, request renewal of the 2023 Five Year Credit Agreement for an additional one year period. Subject to certain conditions stated in the 2023
+Five Year Credit Agreement, PepsiCo and its borrowing subsidiaries may borrow, prepay and reborrow amounts under the 2023 Five Year Credit
+Agreement at any time during the term of the 2023 Five Year Credit Agreement. Funds borrowed under the 2023 Five Year Credit Agreement may be used
+for general corporate purposes of PepsiCo and its subsidiaries. The 2023 Five Year Credit Agreement contains customary representations and warranties
+and events of default. In the ordinary course of their respective businesses, the lenders under the 2023 Five Year Credit Agreement and their affiliates have
+engaged, and may in the future engage, in commercial banking and/or investment banking transactions with PepsiCo and its affiliates.
+
+The foregoing descriptions of the 2023 364 Day Credit Agreement and 2023 Five Year Credit Agreement do not purport to be complete and are
+qualified in their entirety by reference to the full text of the 2023 364 Day Credit Agreement and the 2023 Five Year Credit Agreement, as applicable,
+which are filed as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and incorporated by reference herein.
+
+1
+
+Question: As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-00705-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 
+
+Item 8.01.
+Other Events.
+
+Effective May 26, 2023, PepsiCo, Inc. (PepsiCo) terminated the $3,800,000,000 364 day unsecured revolving credit agreement, dated as of
+May 27, 2022, among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent (the 2022 364 Day Credit
+Agreement). There were no outstanding borrowings under the 2022 364 Day Credit Agreement at the time of its termination.
+
+On May 26, 2023, PepsiCo entered into a new $4,200,000,000 364 day unsecured revolving credit agreement (the 2023 364 Day Credit
+Agreement) among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent. The 2023 364 Day Credit Agreement
+enables PepsiCo and its borrowing subsidiaries to borrow up to $4,200,000,000 in U.S. Dollars and/or Euros, subject to customary terms and conditions,
+and expires on May 24, 2024. PepsiCo may also, upon the agreement of either the then existing lenders or of additional banks not currently party to the
+2023 364 Day Credit Agreement, increase the commitments under the 2023 364 Day Credit Agreement to up to $4,950,000,000 in U.S. Dollars and/or
+Euros. PepsiCo may request renewal of the 2023 364 Day Credit Agreement for an additional 364 day period or convert any amounts outstanding into a
+term loan for a period of up to one year, which term loan would mature no later than the anniversary of the then effective termination date. Subject to
+certain conditions stated in the 2023 364 Day Credit Agreement, PepsiCo and its borrowing subsidiaries may borrow, prepay and reborrow amounts under
+the 2023 364 Day Credit Agreement at any time during the term of the 2023 364 Day Credit Agreement. Funds borrowed under the 2023 364 Day Credit
+Agreement may be used for general corporate purposes of PepsiCo and its subsidiaries. The 2023 364 Day Credit Agreement contains customary
+representations and warranties and events of default. In the ordinary course of their respective businesses, the lenders under the 2023 364 Day Credit
+Agreement and their affiliates have engaged, and may in the future engage, in commercial banking and/or investment banking transactions with PepsiCo
+and its affiliates.
+
+Effective May 26, 2023, PepsiCo terminated the $3,800,000,000 five year unsecured revolving credit agreement, dated as of May 27, 2022, among
+PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent (the 2022 Five Year Credit Agreement). There were no
+outstanding borrowings under the 2022 Five Year Credit Agreement at the time of its termination.
+
+On May 26, 2023, PepsiCo entered into a new $4,200,000,000 five year unsecured revolving credit agreement (the 2023 Five Year Credit
+Agreement) among PepsiCo, as borrower, the lenders party thereto, and Citibank, N.A., as administrative agent. The 2023 Five Year Credit Agreement
+enables PepsiCo and its borrowing subsidiaries to borrow up to $4,200,000,000 in U.S. Dollars and/or Euros, including a $750,000,000 swing line
+subfacility for Euro-denominated borrowings permitted to be borrowed on a same day basis, subject to customary terms and conditions, and expires on
+May 26, 2028. PepsiCo may also, upon the agreement of either the then existing lenders or of additional banks not currently party to the 2023 Five Year
+Credit Agreement, increase the commitments under the 2023 Five Year Credit Agreement to up to $4,950,000,000 in U.S. Dollars and/or Euros. PepsiCo
+may, once a year, request renewal of the 2023 Five Year Credit Agreement for an additional one year period. Subject to certain conditions stated in the 2023
+Five Year Credit Agreement, PepsiCo and its borrowing subsidiaries may borrow, prepay and reborrow amounts under the 2023 Five Year Credit
+Agreement at any time during the term of the 2023 Five Year Credit Agreement. Funds borrowed under the 2023 Five Year Credit Agreement may be used
+for general corporate purposes of PepsiCo and its subsidiaries. The 2023 Five Year Credit Agreement contains customary representations and warranties
+and events of default. In the ordinary course of their respective businesses, the lenders under the 2023 Five Year Credit Agreement and their affiliates have
+engaged, and may in the future engage, in commercial banking and/or investment banking transactions with PepsiCo and its affiliates.
+
+The foregoing descriptions of the 2023 364 Day Credit Agreement and 2023 Five Year Credit Agreement do not purport to be complete and are
+qualified in their entirety by reference to the full text of the 2023 364 Day Credit Agreement and the 2023 Five Year Credit Agreement, as applicable,
+which are filed as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and incorporated by reference herein.
+
+1
+
+Question: By how much did Pepsico increase its unsecured five year revolving credit agreement on May 26, 2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-01077-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Vendor Allowances
+ 
+We receive funds from our merchandise vendors through a variety of programs and arrangements, primarily in the form of purchases-based or sales-based 
+volumes and for product advertising and placement. We recognize allowances based on purchases and sales as a reduction of cost of sales when the associated 
+inventory is sold. Allowances for advertising and placement are recognized as a reduction of cost of sales ratably over the corresponding performance period. 
+Funds that are determined to be a reimbursement of specific, incremental and identifiable costs incurred to sell a vendors products are recorded as an offset to 
+the related expense within SG&A when incurred.
+ 
+Advertising Costs
+ 
+Advertising costs, which are included in SG&A, are expensed the first time the advertisement runs. Advertising costs consist primarily of digital advertisements. 
+Advertising expenses were $864 million, $915 million and $819 million in fiscal 2023, fiscal 2022 and fiscal 2021, respectively.
+ 
+Stock-Based Compensation
+ 
+We recognize stock-based compensation expense for the fair value of our stock-based compensation awards, which is determined based on the closing market 
+price of our stock at the date of grant for time-based and performance-based share awards, and Monte-Carlo simulation for market-based share awards. 
+Compensation expense is recognized on a straight-line basis over the period in which services are required, except for performance-based share awards that 
+vest on a graded basis, in which case the expense is front-loaded or recognized on a graded-attribution basis. Forfeitures are expensed as incurred or upon 
+termination.
+ 
+Comprehensive Income (Loss)
+ 
+Comprehensive income (loss) is computed as net earnings plus certain other items that are recorded directly to shareholders equity.
+ 
+2. Acquisitions
+ 
+Current Health Ltd.
+ 
+In fiscal 2022, we acquired all of the outstanding shares of Current Health Ltd. (Current Health), a care-at-home technology platform, on November 2, 2021, for 
+net cash consideration of $389 million. The acquired assets included $351 million of goodwill that was assigned to our Best Buy Health reporting unit and was 
+deductible for income tax purposes. The acquisition is aligned with our focus in virtual care to enable people in their homes to connect seamlessly with their 
+health care providers and is included in our Domestic reportable segment and Services revenue category. The acquisition was accounted for using the 
+acquisition method of accounting for business combinations and was not material to the results of operations.
+ 
+Two Peaks, LLC d/b/a Yardbird Furniture
+ 
+In fiscal 2022, we acquired all of the outstanding shares of Two Peaks, LLC d/b/a Yardbird Furniture (Yardbird), a direct-to-consumer outdoor furniture company, 
+on November 4, 2021, for net cash consideration of $79 million. The acquired assets included $47 million of goodwill that was assigned to our Best Buy Domestic 
+reporting unit and was deductible for income tax purposes. The acquisition expands our assortment in categories like outdoor living, as more and more 
+consumers look to make over or upgrade their outdoor living spaces. The acquisition was accounted for using the acquisition method of accounting for business 
+combinations and was not material to the results of our operations.
+ 
+3. Restructuring
+ 
+ 
+Restructuring charges were as follows ($ in millions):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023
+ 
+2022
+ 
+2021
+Fiscal 2023 Resource Optimization Initiative
+ 
+ 
+$
+ 145 
+ 
+$
+ - 
+ 
+$
+ - 
+Mexico Exit and Strategic Realignment(1)
+ 
+ 
+ 
+ 2 
+ 
+ 
+ (41) 
+ 
+ 
+ 277 
+Fiscal 2020 U.S. Retail Operating Model Changes
+ 
+ -
+ 
+ 
+ 1 
+ 
+ 
+ -
+ 
+Total
+ 
+ 
+ 
+ 
+ 
+$
+ 147 
+ 
+$
+ (40) 
+ 
+$
+ 277 
+ 
+(1)
+Includes ($6) million and $23 million related to inventory markdowns recorded in Cost of sales on our Consolidated Statements of Earnings in fiscal 2022 and fiscal 2021, respectively.
+ 
+Fiscal 2023 Resource Optimization Initiative
+ 
+In light of ongoing changes in business trends, during the second quarter of fiscal 2023, we commenced an enterprise-wide initiative to better align our spending 
+with critical strategies and operations, as well as to optimize our cost structure. Charges incurred relate to employee termination benefits within our Domestic and 
+International segments of $140 million and $5 million, respectively. We currently do not expect the remaining charges in fiscal 2024 related to this initiative to be 
+material to the results of our operations.
+ 
+All charges incurred related to this initiative were from continuing operations and were presented within Restructuring charges on our Consolidated Statements of 
+Earnings. 
+ 
+51
+
+Question: Which significant acquisitions did Best Buy complete during fiscal years 2021, 2022, and 2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

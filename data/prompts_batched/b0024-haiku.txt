@@ -1,0 +1,55 @@
+You are sitting an exam made of 6 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-01912-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Which region had the worst topline performance for MGM during FY2022?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-01474-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-02419-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: As of Q2'2023, is Pfizer spinning off any large business segments?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-01254-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Has MGM Resorts paid dividends to common shareholders in FY2022?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-00215-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-00302-closedbook ===
+You are answering a question about a company's SEC filing. No document is provided; answer from your own knowledge.
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+Rules: If you are not confident you know the answer, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

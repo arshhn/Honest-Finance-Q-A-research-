@@ -1,0 +1,2244 @@
+You are sitting an exam made of 11 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-00464-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Forward-looking statements are based on expectations and assumptions that we believe to be reasonable when made, but that may not prove to
+be accurate. These statements are not guarantees and are subject to risks, uncertainties and changes in circumstances that are difficult to
+predict. Many factors, including those set forth in the Risk Factors section below and other important factors disclosed in this report and from
+time to time in our other filings with the SEC, could cause actual results to differ materially and adversely from these forward-looking statements.
+Any forward-looking statement speaks only as of the date on which it is made, and we assume no obligation to update or revise any forward-
+looking statement whether as a result of new information, future events or otherwise, except as required by law.
+Item 1A. Risk Factors
+An investment in our common stock or debt securities involves risks and uncertainties and our actual results and future trends may differ
+materially from our past or projected future performance. We urge investors to consider carefully the risk factors described below in evaluating
+the information contained in this report.
+Risks Related to Our Business and Operations
+We depend heavily on commercial airlines, subjecting us to unique risks.
+Market conditions have a significant impact on demand for our commercial aircraft and related services. The commercial aircraft market is
+predominantly driven by long-term trends in airline passenger and cargo traffic. The principal factors underlying long-term traffic growth are
+sustained economic growth and political stability both in developed and emerging markets. Demand for our commercial aircraft is further
+influenced by airline profitability, availability of aircraft financing, world trade policies, government-to-government relations, technological
+advances, price and other competitive factors, fuel prices, terrorism, pandemics, epidemics and environmental regulations. Historically, the
+airline industry has been cyclical and very competitive and has experienced significant profit swings and constant challenges to be more cost
+competitive. Significant deterioration in the global economic environment, the airline industry generally or the financial stability of one or more of
+our major customers could result in fewer new orders for aircraft or services, or could cause customers to seek to postpone or cancel contractual
+orders and/or payments to us, which could result in lower revenues, profitability and cash flows and a reduction in our contractual backlog. In
+addition, because our commercial aircraft backlog consists of aircraft scheduled for delivery over a period of several years, any of these
+macroeconomic, industry or customer impacts could unexpectedly affect deliveries over a long period.
+We enter into firm fixed-price aircraft sales contracts with indexed price escalation clauses, which could subject us to losses if we have cost
+overruns or if increases in our costs exceed the applicable escalation rate. Commercial aircraft sales contracts are often entered into years
+before the aircraft are delivered. In order to help account for economic fluctuations between the contract date and delivery date, aircraft pricing
+generally consists of a fixed amount as modified by price escalation formulas derived from labor, commodity and other price indices. Our
+revenue estimates are based on current expectations with respect to these escalation formulas, but the actual escalation amounts are outside of
+our control. Escalation factors can fluctuate significantly from period to period. Changes in escalation amounts can significantly impact revenues
+and operating margins in our Commercial Airplanes business.
+We derive a significant portion of our revenues from a limited number of commercial airlines. We can make no assurance that any customer will
+exercise purchase options, fulfill existing purchase commitments or purchase additional products or services from us. In addition, fleet decisions,
+airline consolidations or financial challenges involving any of our major commercial airline customers could significantly reduce our revenues and
+limit our opportunity to generate profits from those customers.
+6
+
+Question: Is Boeing's business subject to cyclicality?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-00476-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form 10-K
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2022
+OR
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to 
+ Commission File No. 1-7657
+American Express Company
+(Exact name of registrant as specified in its charter)
+New York
+13-4922250
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+200 Vesey Street
+New York, New York
+10285
+(Address of principal executive offices)
+(Zip Code)
+Registrants telephone number, including area code: (212) 640-2000
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Shares (par value $0.20 per Share)
+AXP
+New York Stock Exchange
+Securities registered pursuant to section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No o
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes o No 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. Yes No o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T ( 232.405 of this
+chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes No o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the
+definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act.
+Large accelerated filer 
+Accelerated filer o
+Non-accelerated filer o
+Smaller reporting company 
+Emerging growth company 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. o
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under
+section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an
+error to previously issued financial statements. o
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant's
+executive officers during the relevant recovery period pursuant to 240.10D-1(b). o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+As of June 30, 2022, the aggregate market value of the registrants voting shares held by non-affiliates of the registrant was approximately $104.0 billion based on the closing sale price as
+reported on the New York Stock Exchange.
+As of February 2, 2023, there were 744,192,702 common shares of the registrant outstanding.
+DOCUMENTS INCORPORATED BY REFERENCE
+Part III: Portions of Registrants Proxy Statement to be filed with the Securities and Exchange Commission in connection with the Annual Meeting of Shareholders to be held on May 2,
+2023.
+
+Question: Which debt securities are registered to trade on a national securities exchange under American Express' name as of 2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-04103-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Consolidated Statements of Earnings
+GENERAL MILLS, INC. AND SUBSIDIARIES
+(In Millions, Except per Share Data)
+ 
+ 
+ 
+Fiscal Year
+ 
+ 
+ 
+2019
+ 
+2018
+ 
+2017
+ 
+Net sales
+ 
+ $ 16,865.2 
+ $ 15,740.4 
+ $ 15,619.8 
+Cost of sales
+ 
+ 
+11,108.4 
+ 
+10,304.8 
+ 
+10,052.0 
+Selling, general, and administrative expenses
+ 
+ 
+2,935.8 
+ 
+2,850.1 
+ 
+2,888.8 
+Divestitures loss
+ 
+ 
+30.0 
+ 
+- 
+ 
+6.5 
+Restructuring, impairment, and other exit costs
+ 
+ 
+275.1 
+ 
+165.6 
+ 
+180.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operating profit
+ 
+ 
+2,515.9 
+ 
+2,419.9 
+ 
+2,492.1 
+Benefit plan non-service income
+ 
+ 
+(87.9) 
+ 
+(89.4) 
+ 
+(74.3) 
+Interest, net
+ 
+ 
+521.8 
+ 
+373.7 
+ 
+295.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings before income taxes and after-tax earnings from joint ventures
+ 
+ 
+2,082.0 
+ 
+2,135.6 
+ 
+2,271.3 
+Income taxes
+ 
+ 
+367.8 
+ 
+57.3 
+ 
+655.2 
+After-tax earnings from joint ventures
+ 
+ 
+72.0 
+ 
+84.7 
+ 
+85.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net earnings, including earnings attributable to redeemable and noncontrolling
+interests
+ 
+ 
+1,786.2 
+ 
+2,163.0 
+ 
+1,701.1 
+Net earnings attributable to redeemable and noncontrolling interests
+ 
+ 
+33.5 
+ 
+32.0 
+ 
+43.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net earnings attributable to General Mills
+ 
+ $
+1,752.7 
+ $
+2,131.0 
+ $
+1,657.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings per share - basic
+ 
+ $
+2.92 
+ $
+3.69 
+ $
+2.82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnings per share - diluted
+ 
+ $
+2.90 
+ $
+3.64 
+ $
+2.77 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dividends per share
+ 
+ $
+1.96 
+ $
+1.96 
+ $
+1.92 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See accompanying notes to consolidated financial statements.
+ 
+53
+
+
+---
+
+Table of Contents
+Consolidated Balance Sheets
+GENERAL MILLS, INC. AND SUBSIDIARIES
+(In Millions, Except Par Value)
+ 
+ 
+ 
+May 26, 
+ 2019 
+May 27, 
+ 2018 
+ 
+ASSETS
+ 
+ 
+Current assets:
+ 
+ 
+Cash and cash equivalents
+ 
+$
+450.0 
+$
+399.0 
+Receivables
+ 
+ 
+1,679.7 
+ 
+1,684.2 
+Inventories
+ 
+ 
+1,559.3 
+ 
+1,642.2 
+Prepaid expenses and other current assets
+ 
+ 
+497.5 
+ 
+398.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total current assets
+ 
+ 
+4,186.5 
+ 
+4,123.7 
+Land, buildings, and equipment
+ 
+ 
+3,787.2 
+ 
+4,047.2 
+Goodwill
+ 
+ 
+13,995.8 
+ 
+14,065.0 
+Other intangible assets
+ 
+ 
+7,166.8 
+ 
+7,445.1 
+Other assets
+ 
+ 
+974.9 
+ 
+943.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total assets
+ 
+$
+ 30,111.2 
+$
+ 30,624.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LIABILITIES AND EQUITY
+ 
+ 
+Current liabilities:
+ 
+ 
+Accounts payable
+ 
+$
+2,854.1 
+$
+2,746.2 
+Current portion of long-term debt
+ 
+ 
+1,396.5 
+ 
+1,600.1 
+Notes payable
+ 
+ 
+1,468.7 
+ 
+1,549.8 
+Other current liabilities
+ 
+ 
+1,367.8 
+ 
+1,445.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total current liabilities
+ 
+ 
+7,087.1 
+ 
+7,341.9 
+Long-term debt
+ 
+ 
+11,624.8 
+ 
+12,668.7 
+Deferred income taxes
+ 
+ 
+2,031.0 
+ 
+2,003.8 
+Other liabilities
+ 
+ 
+1,448.9 
+ 
+1,341.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total liabilities
+ 
+ 
+22,191.8 
+ 
+23,355.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Redeemable interest
+ 
+ 
+551.7 
+ 
+776.2 
+Stockholders equity:
+ 
+ 
+Common stock, 754.6 shares issued, $0.10 par value
+ 
+ 
+75.5 
+ 
+75.5 
+Additional paid-in capital
+ 
+ 
+1,386.7 
+ 
+1,202.5 
+Retained earnings
+ 
+ 
+14,996.7 
+ 
+14,459.6 
+Common stock in treasury, at cost, shares of 152.7 and 161.5
+ 
+ 
+(6,779.0) 
+ 
+(7,167.5) 
+Accumulated other comprehensive loss
+ 
+ 
+(2,625.4) 
+ 
+(2,429.0) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total stockholders equity
+ 
+ 
+7,054.5 
+ 
+6,141.1 
+Noncontrolling interests
+ 
+ 
+313.2 
+ 
+351.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total equity
+ 
+ 
+7,367.7 
+ 
+6,492.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total liabilities and equity
+ 
+$
+ 30,111.2 
+$
+ 30,624.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+See accompanying notes to consolidated financial statements.
+ 
+55
+
+Question: What is the FY2019 cash conversion cycle (CCC) for General Mills? CCC is defined as: DIO + DSO - DPO. DIO is defined as: 365 * (average inventory between FY2018 and FY2019) / (FY2019 COGS). DSO is defined as: 365 * (average accounts receivable between FY2018 and FY2019) / (FY2019 Revenue). DPO is defined as: 365 * (average accounts payable between FY2018 and FY2019) / (FY2019 COGS + change in inventory between FY2018 and FY2019). Round your answer to two decimal places. Address the question by using the line items and information shown within the income statement and the balance sheet.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-10130-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Index
+
+
+
+
+
+
+Consolidated Statements of Income
+Corning Incorporated and Subsidiary Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YearendedDecember31,
+(Inmillions,exceptpershareamounts)
+2020
+
+2019
+
+2018
+Netsales
+$
+ 11,303 
+$
+11,503 $
+11,290
+Costofsales
+
+ 7,772 
+
+7,468 
+6,829
+
+
+
+
+
+
+ 
+Grossmargin
+
+ 3,531 
+
+4,035 
+4,461
+
+
+
+
+
+
+ 
+Operatingexpenses:
+
+
+
+
+
+ 
+Selling,generalandadministrativeexpenses
+
+ 1,747 
+
+1,585 
+1,799
+Research,developmentandengineeringexpenses
+
+ 1,154 
+
+1,031 
+993
+Amortizationofpurchasedintangibles
+
+ 121 
+
+113 
+94
+
+
+
+
+
+
+ 
+Operatingincome
+
+ 509 
+
+1,306 
+1,575
+
+
+
+
+
+
+ 
+Equityin(losses)earningsofaffiliatedcompanies(Note3)
+
+ (25)
+
+17 
+390
+Interestincome
+
+ 15 
+
+21 
+38
+Interestexpense
+
+ (276)
+
+(221) 
+(191)
+Translatedearningscontract(loss)gain,net(Note15)
+
+ (38)
+
+248 
+(93)
+Transaction-relatedgain,net(Note4)
+
+ 498 
+
+
+ 
+Otherexpense,net
+
+ (60)
+
+(155) 
+(216)
+
+
+
+
+
+
+ 
+Incomebeforeincometaxes
+
+ 623 
+
+1,216 
+1,503
+Provisionforincometaxes(Note8)
+
+ (111)
+
+(256) 
+(437)
+
+
+
+
+
+
+ 
+NetincomeattributabletoCorningIncorporated
+$
+ 512 
+$
+960 $
+1,066
+
+
+
+
+
+
+ 
+Earningspercommonshareattributableto
+CorningIncorporated:
+
+
+
+
+
+ 
+Basic(Note18)
+$
+ 0.54 
+$
+1.11 $
+1.19
+Diluted(Note18)
+$
+ 0.54 
+$
+1.07 $
+1.13
+
+Theaccompanyingnotesareanintegralpartoftheseconsolidatedfinancialstatements.
+
+70
+
+
+---
+
+Index
+
+
+
+
+Consolidated Balance Sheets
+Corning Incorporated and Subsidiary Companies
+
+
+
+
+
+
+
+
+
+
+
+
+
+December31,
+(Inmillions,exceptshareandpershareamounts)
+2020
+
+2019
+
+
+
+
+
+
+Assets
+
+
+ 
+
+
+
+ 
+Currentassets:
+
+
+ 
+Cashandcashequivalents
+$
+ 2,672 $
+2,434
+Tradeaccountsreceivable,netofdoubtfulaccounts-$46and$41
+
+ 2,133 
+1,836
+Inventories,net(Note6)
+
+ 2,438 
+2,320
+Othercurrentassets(Note11and15)
+
+ 761 
+873
+Totalcurrentassets
+
+ 8,004 
+7,463
+
+
+
+ 
+Property,plantandequipment,netofaccumulateddepreciation-
+$13,663and$12,995(Note9)
+
+ 15,742 
+15,337
+Goodwill,net(Note10)
+
+ 2,460 
+1,935
+Otherintangibleassets,net(Note10)
+
+ 1,308 
+1,185
+Deferredincometaxes(Note8)
+
+ 1,121 
+1,157
+Otherassets(Note11and15)
+
+ 2,140 
+1,821
+
+
+
+ 
+Total Assets 
+$
+ 30,775 $
+28,898
+
+
+
+ 
+Liabilities and Equity
+
+
+ 
+
+
+
+ 
+Currentliabilities:
+
+
+ 
+Currentportionoflong-termdebtandshort-termborrowings(Note12)
+$
+ 156 $
+11
+Accountspayable
+
+ 1,174 
+1,587
+Otheraccruedliabilities(Note11and14)
+
+ 2,437 
+1,923
+Totalcurrentliabilities
+
+ 3,767 
+3,521
+
+
+
+ 
+Long-termdebt(Note12)
+
+ 7,816 
+7,729
+Postretirementbenefitsotherthanpensions(Note13)
+
+ 727 
+671
+Otherliabilities(Note11and14)
+
+ 5,017 
+3,980
+Totalliabilities
+
+ 17,327 
+15,901
+
+
+
+ 
+Commitments,contingenciesandguarantees(Note14)
+ 
+ 
+Shareholdersequity(Note17):
+
+
+ 
+Convertiblepreferredstock,SeriesAParvalue$100pershare;
+Sharesauthorized3,100;Sharesissued:2,300
+
+ 2,300 
+2,300
+CommonstockParvalue$0.50pershare;Sharesauthorized:3.8billion;
+Sharesissued:1,726millionand1,718million
+
+ 863 
+859
+Additionalpaid-incapitalcommonstock
+
+ 14,642 
+14,323
+Retainedearnings
+
+ 16,120 
+16,408
+Treasurystock,atcost;sharesheld:961millionand956million
+
+ (19,928) 
+(19,812)
+Accumulatedothercomprehensiveloss
+
+ (740) 
+(1,171)
+TotalCorningIncorporatedshareholdersequity
+
+ 13,257 
+12,907
+Noncontrollinginterests
+
+ 191 
+90
+Totalequity
+
+ 13,448 
+12,997
+
+
+
+ 
+Total Liabilities and Equity
+$
+ 30,775 $
+28,898
+
+Theaccompanyingnotesareanintegralpartoftheseconsolidatedfinancialstatements.
+72
+
+Question: Based on the information provided primarily in the balance sheet and the statement of income, what is FY2020 days payable outstanding (DPO) for Corning? DPO is defined as: 365 * (average accounts payable between FY2019 and FY2020) / (FY2020 COGS + change in inventory between FY2019 and FY2020). Round your answer to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-02981-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: TableofContents
+
+
+Consolidated Statements of Income 
+Corning Incorporated and Subsidiary Companies
+
+
+
+
+YearendedDecember31,
+
+(Inmillions,exceptpershareamounts)
+
+2021
+ 
+2020
+ 
+2019
+
+Netsales
+ $
+14,082 $
+11,303 $
+11,503
+Costofsales
+ 
+9,019 
+7,772 
+7,468
+
+ 
+ 
+ 
+
+Grossmargin
+ 
+5,063 
+3,531 
+4,035
+
+ 
+ 
+ 
+
+Operatingexpenses:
+ 
+ 
+ 
+
+Selling,generalandadministrativeexpenses
+ 
+1,827 
+1,747 
+1,585
+Research,developmentandengineeringexpenses
+ 
+995 
+1,154 
+1,031
+Amortizationofpurchasedintangibles
+ 
+129 
+121 
+113
+
+ 
+ 
+ 
+
+Operatingincome
+ 
+2,112 
+509 
+1,306
+
+ 
+ 
+ 
+
+Equityinearnings(losses)ofaffiliatedcompanies(Note3)
+ 
+35 
+(25) 
+17
+Interestincome
+ 
+11 
+15 
+21
+Interestexpense
+ 
+(300) 
+(276) 
+(221)
+Translatedearningscontractgain(loss),net(Note15)
+ 
+354 
+(38) 
+248
+Transaction-relatedgain,net(Note4)
+ 
+ 
+498 
+
+Otherincome(expense),net
+ 
+185 
+(60) 
+(155)
+
+ 
+ 
+ 
+
+Incomebeforeincometaxes
+ 
+2,397 
+623 
+1,216
+Provisionforincometaxes(Note8)
+ 
+(491) 
+(111) 
+(256)
+
+ 
+ 
+ 
+
+NetincomeattributabletoCorningIncorporated
+ $
+1,906 $
+512 $
+960
+
+ 
+ 
+ 
+
+EarningspercommonshareattributabletoCorningIncorporated:
+ 
+ 
+ 
+
+Basic(Note18)
+ $
+1.30 $
+0.54 $
+1.11
+Diluted(Note18)
+ $
+1.28 $
+0.54 $
+1.07
+
+ 
+ 
+ 
+
+ReconciliationofnetincomeattributabletoCorningIncorporatedversusnetincomeavailabletocommon
+shareholders:
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+NetincomeattributabletoCorningIncorporated
+ $
+1,906 $
+512 $
+960
+
+ 
+ 
+ 
+
+SeriesAconvertiblepreferredstockdividend
+ 
+(24) 
+(98) 
+(98)
+Excessconsiderationpaidforredemptionofpreferredstock(1)
+ 
+(803) 
+ 
+ 
+
+ 
+ 
+ 
+
+Netincomeavailabletocommonshareholders
+ $
+1,079 $
+414 $
+862
+
+
+(1)
+RefertoNote17(Shareholders'Equity)andNote18(EarningsperCommonShare)totheconsolidatedfinancialstatementsforadditionalinformation.
+
+Theaccompanyingnotesareanintegralpartoftheseconsolidatedfinancialstatements.
+
+65
+
+Question: Taking into account the information outlined in the income statement, what is the FY2019 - FY2021 3 year average unadjusted operating income % margin for Corning? Answer in units of percents and round to one decimal place.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-00807-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+3M Company and Subsidiaries
+Consolidated Balance Sheet
+(Unaudited)
+(Dollars in millions, except per share amount)
+June 30, 2023
+December 31, 2022
+Assets
+Current assets
+Cash and cash equivalents
+$
+4,258 
+$
+3,655 
+Marketable securities current
+56 
+238 
+Accounts receivable net of allowances of $160 and $174
+4,947 
+4,532 
+Inventories
+Finished goods
+2,526 
+2,497 
+Work in process
+1,527 
+1,606 
+Raw materials and supplies
+1,227 
+1,269 
+Total inventories
+5,280 
+5,372 
+Prepaids
+674 
+435 
+Other current assets
+539 
+456 
+Total current assets
+15,754 
+14,688 
+Property, plant and equipment
+26,459 
+25,998 
+Less: Accumulated depreciation
+(17,248)
+(16,820)
+Property, plant and equipment net
+9,211 
+9,178 
+Operating lease right of use assets
+812 
+829 
+Goodwill
+12,869 
+12,790 
+Intangible assets net
+4,470 
+4,699 
+Other assets
+5,764 
+4,271 
+Total assets
+$
+48,880 
+$
+46,455 
+Liabilities
+Current liabilities
+Short-term borrowings and current portion of long-term debt
+$
+3,033 
+$
+1,938 
+Accounts payable
+3,231 
+3,183 
+Accrued payroll
+785 
+692 
+Accrued income taxes
+172 
+259 
+Operating lease liabilities current
+244 
+261 
+Other current liabilities
+3,471 
+3,190 
+Total current liabilities
+10,936 
+9,523 
+Long-term debt
+12,954 
+14,001 
+Pension and postretirement benefits
+1,912 
+1,966 
+Operating lease liabilities
+570 
+580 
+Other liabilities
+14,651 
+5,615 
+Total liabilities
+41,023 
+31,685 
+Commitments and contingencies (Note 14)
+Equity
+3M Company shareholders equity:
+Common stock par value, $.01 par value; 944,033,056 shares issued
+9 
+9 
+Shares outstanding - June 30, 2023: 551,992,430
+Shares outstanding - December 31, 2022: 549,245,105
+Additional paid-in capital
+6,858 
+6,691 
+Retained earnings
+40,290 
+47,950 
+Treasury stock, at cost:
+(32,926)
+(33,255)
+Shares at June 30, 2023: 392,040,626
+Shares at December 31, 2022: 394,787,951
+Accumulated other comprehensive income (loss)
+(6,433)
+(6,673)
+Total 3M Company shareholders equity
+7,798 
+14,722 
+Noncontrolling interest
+59 
+48 
+Total equity
+7,857 
+14,770 
+Total liabilities and equity
+$
+48,880 
+$
+46,455 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+5
+
+Question: Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-04854-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+52 
+ 
+Consolidated Statements of Cash Flows 
+GENERAL MILLS, INC. AND SUBSIDIARIES 
+(In Millions) 
+ 
+Fiscal Year 
+ 
+2020 
+2019 
+2018 
+Cash Flows - Operating Activities 
+ 
+ 
+ 
+ 
+Net earnings, including earnings attributable to redeemable and noncontrolling interests $ 
+2,210.8 $ 
+1,786.2 $ 
+2,163.0 
+Adjustments to reconcile net earnings to net cash provided by operating activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+Depreciation and amortization 
+ 
+594.7 
+620.1 
+618.8 
+After-tax earnings from joint ventures 
+ 
+(91.1) 
+(72.0) 
+(84.7)
+Distributions of earnings from joint ventures 
+ 
+76.5 
+86.7 
+113.2 
+Stock-based compensation 
+ 
+94.9 
+84.9 
+77.0 
+Deferred income taxes 
+ 
+(29.6) 
+93.5 
+(504.3)
+Pension and other postretirement benefit plan contributions 
+ 
+(31.1) 
+(28.8) 
+(31.8)
+Pension and other postretirement benefit plan costs 
+ 
+(32.3) 
+6.1 
+4.6 
+Divestitures loss 
+ 
+- 
+30.0 
+- 
+Restructuring, impairment, and other exit costs 
+ 
+43.6 
+235.7 
+126.0 
+Changes in current assets and liabilities, excluding the effects of acquisitions 
+ and divestitures 
+ 
+793.9 
+(7.5) 
+542.1 
+Other, net 
+ 
+45.9 
+(27.9) 
+(182.9)
+Net cash provided by operating activities 
+ 
+3,676.2 
+2,807.0 
+2,841.0 
+Cash Flows - Investing Activities 
+ 
+ 
+ 
+ 
+ 
+ 
+Purchases of land, buildings, and equipment 
+ 
+(460.8) 
+(537.6) 
+(622.7)
+Acquisition, net of cash acquired 
+ 
+- 
+- 
+(8,035.8)
+Investments in affiliates, net 
+ 
+(48.0) 
+0.1 
+(17.3)
+Proceeds from disposal of land, buildings, and equipment 
+ 
+1.7 
+14.3 
+1.4 
+Proceeds from divestitures 
+ 
+- 
+26.4 
+- 
+Other, net 
+ 
+20.9 
+(59.7) 
+(11.0)
+Net cash used by investing activities 
+ 
+(486.2) 
+(556.5) 
+(8,685.4)
+Cash Flows - Financing Activities 
+ 
+ 
+ 
+ 
+ 
+ 
+Change in notes payable 
+ 
+(1,158.6) 
+(66.3) 
+327.5 
+Issuance of long-term debt 
+ 
+1,638.1 
+339.1 
+6,550.0 
+Payment of long-term debt 
+ 
+(1,396.7) 
+(1,493.8) 
+(600.1)
+Proceeds from common stock issued on exercised options 
+ 
+263.4 
+241.4 
+99.3 
+Proceeds from common stock issued 
+ 
+- 
+- 
+969.9 
+Purchases of common stock for treasury 
+ 
+(3.4) 
+(1.1) 
+(601.6)
+Dividends paid 
+ 
+(1,195.8) 
+(1,181.7) 
+(1,139.7)
+Investments in redeemable interest 
+ 
+- 
+55.7 
+- 
+Distributions to noncontrolling and redeemable interest holders 
+ 
+(72.5) 
+(38.5) 
+(51.8)
+Other, net 
+ 
+(16.0) 
+(31.2) 
+(108.0)
+Net cash (used) provided by financing activities 
+ 
+(1,941.5) 
+(2,176.4) 
+5,445.5 
+Effect of exchange rate changes on cash and cash equivalents 
+ 
+(20.7) 
+(23.1) 
+31.8 
+Increase (decrease) in cash and cash equivalents 
+ 
+1,227.8 
+ 
+51.0 
+ 
+(367.1)
+Cash and cash equivalents - beginning of year 
+ 
+450.0 
+399.0 
+766.1 
+Cash and cash equivalents - end of year 
+$ 
+1,677.8 $ 
+450.0 $ 
+399.0 
+Cash flow from changes in current assets and liabilities, excluding the effects of 
+ acquisitions and divestitures: 
+ 
+ 
+ 
+ 
+ 
+ 
+Receivables 
+$ 
+37.9 $ 
+(42.7) $ 
+(122.7)
+Inventories 
+ 
+103.1 
+53.7 
+15.6 
+Prepaid expenses and other current assets 
+ 
+94.2 
+(114.3) 
+(10.7)
+Accounts payable 
+ 
+392.5 
+162.4 
+575.3 
+Other current liabilities 
+ 
+166.2 
+(66.6) 
+84.6 
+Changes in current assets and liabilities 
+$ 
+793.9 $ 
+(7.5) $ 
+542.1 
+See accompanying notes to consolidated financial statements. 
+ 
+ 
+ 
+ 
+
+Question: According to the information provided in the statement of cash flows, what is the FY2020 free cash flow (FCF) for General Mills? FCF here is defined as: (cash from operations - capex). Answer in USD millions.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-05915-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: ConsolidatedStatementsofOperations
+
+FortheYearsEndedDecember31,
+In millions, except per share amounts
+2018
+
+2017
+
+2016
+Revenues:
+
+ 
+ 
+Products
+$
+183,910 $
+180,063 $
+173,377
+Premiums
+8,184 
+3,558 
+3,069
+Services
+1,825 
+1,144 
+1,080
+Netinvestmentincome
+660 
+21 
+20
+Totalrevenues
+194,579 
+184,786 
+177,546
+Operatingcosts:
+
+ 
+ 
+Costofproductssold
+156,447 
+153,448 
+146,533
+Benefitcosts
+6,594 
+2,810 
+2,179
+Goodwillimpairments
+6,149 
+181 
+
+Operatingexpenses
+21,368 
+18,809 
+18,448
+Totaloperatingcosts
+190,558 
+175,248 
+167,160
+Operatingincome
+4,021 
+9,538 
+10,386
+Interestexpense
+2,619 
+1,062 
+1,078
+Lossonearlyextinguishmentofdebt
+ 
+ 
+643
+Otherexpense(income)
+(4) 
+208 
+28
+Incomebeforeincometaxprovision
+1,406 
+8,268 
+8,637
+Incometaxprovision
+2,002 
+1,637 
+3,317
+Income(loss)fromcontinuingoperations
+(596) 
+6,631 
+5,320
+Lossfromdiscontinuedoperations,netoftax
+ 
+(8) 
+(1)
+Netincome(loss)
+(596) 
+6,623 
+5,319
+Net(income)lossattributabletononcontrollinginterests
+2 
+(1) 
+(2)
+Netincome(loss)attributabletoCVSHealth
+$
+(594) $
+6,622 $
+5,317
+
+
+ 
+ 
+Basicearnings(loss)pershare:
+
+ 
+ 
+Income(loss)fromcontinuingoperationsattributabletoCVSHealth
+$
+(0.57) $
+6.48 $
+4.93
+LossfromdiscontinuedoperationsattributabletoCVSHealth
+$
+ $
+(0.01) $
+
+Netincome(loss)attributabletoCVSHealth
+$
+(0.57) $
+6.47 $
+4.93
+Weightedaveragebasicsharesoutstanding
+1,044 
+1,020 
+1,073
+Dilutedearnings(loss)pershare:
+
+ 
+ 
+Income(loss)fromcontinuingoperationsattributabletoCVSHealth
+$
+(0.57) $
+6.45 $
+4.91
+LossfromdiscontinuedoperationsattributabletoCVSHealth
+$
+ $
+(0.01) $
+
+Netincome(loss)attributabletoCVSHealth
+$
+(0.57) $
+6.44 $
+4.90
+Weightedaveragedilutedsharesoutstanding
+1,044 
+1,024 
+1,079
+Dividendsdeclaredpershare
+$
+2.00 $
+2.00 $
+1.70
+
+
+ 
+ 
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+Page38
+
+
+---
+
+ConsolidatedBalanceSheets
+
+AtDecember31,
+In millions, except per share amounts
+2018
+
+2017
+Assets:
+
+ 
+Cashandcashequivalents
+$
+4,059 $
+1,696
+Investments
+2,522 
+111
+Accountsreceivable,net
+17,631 
+13,181
+Inventories
+16,450 
+15,296
+Othercurrentassets
+4,581 
+945
+Totalcurrentassets
+45,243 
+31,229
+Long-terminvestments
+15,732 
+112
+Propertyandequipment,net
+11,349 
+10,292
+Goodwill
+78,678 
+38,451
+Intangibleassets,net
+36,524 
+13,630
+Separateaccountsassets
+3,884 
+
+Otherassets
+5,046 
+1,417
+Totalassets
+$
+196,456 $
+95,131
+
+
+ 
+Liabilities:
+
+ 
+Accountspayable
+$
+8,925 $
+8,863
+Pharmacyclaimsanddiscountspayable
+12,302 
+10,355
+Healthcarecostspayable
+5,210 
+5
+Policyholdersfunds
+2,939 
+
+Accruedexpenses
+10,711 
+6,581
+Otherinsuranceliabilities
+1,937 
+23
+Short-termdebt
+720 
+1,276
+Currentportionoflong-termdebt
+1,265 
+3,545
+Totalcurrentliabilities
+44,009 
+30,648
+Long-termdebt
+71,444 
+22,181
+Deferredincometaxes
+7,677 
+2,996
+Separateaccountsliabilities
+3,884 
+
+Otherlong-terminsuranceliabilities
+8,119 
+334
+Otherlong-termliabilities
+2,780 
+1,277
+Totalliabilities
+137,913 
+57,436
+Commitmentsandcontingencies(Note16)
+
+
+
+ 
+Shareholdersequity:
+
+
+
+CVSHealthshareholdersequity:
+
+ 
+Preferredstock,parvalue$0.01:0.1sharesauthorized;noneissuedoroutstanding
+ 
+
+Commonstock,parvalue$0.01:3,200sharesauthorized;1,720sharesissuedand1,295sharesoutstandingat
+December31,2018and1,712sharesissuedand1,014sharesoutstandingatDecember31,2017andcapital
+surplus
+45,440 
+32,096
+Treasurystock,atcost:425sharesatDecember31,2018and698sharesatDecember31,2017
+(28,228) 
+(37,796)
+Retainedearnings
+40,911 
+43,556
+Accumulatedothercomprehensiveincome(loss)
+102 
+(165)
+TotalCVSHealthshareholdersequity
+58,225 
+37,691
+Noncontrollinginterests
+318 
+4
+Totalshareholdersequity
+58,543 
+37,695
+Totalliabilitiesandshareholdersequity
+$
+196,456 $
+95,131
+
+
+ 
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+Page40
+
+Question: What is the FY2018 fixed asset turnover ratio for CVS Health? Fixed asset turnover ratio is defined as: FY2018 revenue / (average PP&E between FY2017 and FY2018). Round your answer to two decimal places. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the balance sheet.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-00651-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+ 
+ 
+FOR IMMEDIATE RELEASE 
+ 
+ 2022 Fourth-Quarter reported sales decline of 4.4% to $23.7 Billion primarily driven by unfavorable 
+foreign exchange and reduced COVID-19 Vaccine sales vs. prior year. Operational growth excluding 
+COVID-19 Vaccine of 4.6%* 
+ 2022 Fourth-Quarter earnings per share (EPS) of $1.33 decreasing 24.9% and adjusted EPS of $2.35 
+increasing by 10.3%* 
+__________________________________________________________________________________________ 
+ 2022 Full-Year reported sales growth of 1.3% to $94.9 Billion primarily driven by strong commercial 
+execution partially offset by unfavorable foreign exchange. Operational growth of 6.1%* 
+ 2022 Full-Year earnings per share (EPS) of $6.73 decreasing 13.8% and adjusted EPS of $10.15 
+increasing by 3.6%* 
+__________________________________________________________________________________________ 
+ Company guides 2023 adjusted operational sales growth excluding COVID-19 Vaccine of 4.0%* and 
+adjusted operational EPS of $10.50, reflecting growth of 3.5%* 
+New Brunswick, N.J. (January 24, 2023) Johnson & Johnson (NYSE: JNJ) today announced results for fourth-
+quarter and full year 2022. Our full year 2022 results reflect the continued strength and stability of our three 
+business segments, despite macroeconomic challenges, said Joaquin Duato, Chairman of the Board and Chief 
+Executive Officer. I am inspired by our employees who make a difference in the health and lives of people around 
+the world every day. As we look ahead to 2023, Johnson & Johnson is well-positioned to drive near-term growth, 
+while also investing strategically to deliver long-term value. 
+ 
+OVERALL FINANCIAL RESULTS 
+ 
+ 
+Q4 
+ 
+Full Year 
+($ in Millions, except EPS) 
+2022 
+2021 
+% Change 
+ 
+2022 
+2021 
+% Change 
+Reported Sales 
+$23,706 
+$24,804 
+(4.4)% 
+ 
+$94,943 
+$93,775 
+1.3% 
+Net Earnings 
+$3,520 
+$4,736 
+(25.7)% 
+ 
+$17,941 
+$20,878 
+(14.1)% 
+EPS (diluted) 
+$1.33 
+$1.77 
+(24.9)% 
+ 
+$6.73 
+$7.81 
+(13.8)% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Question: Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-00494-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Airlines also are experiencing increased fuel and other costs, and the global economy is experiencing high inflation.
+Our Commercial Airplanes business depends on our ability to maintain a healthy production system, ensure every airplane in our
+production system conforms to our exacting specifications, achieve planned production rate targets, successfully develop and certify
+new aircraft or new derivative aircraft, and meet or exceed stringent performance and reliability standards.
+The commercial aircraft business is extremely complex, involving extensive coordination and integration with U.S and non-U.S. suppliers, highly-
+skilled labor performed by thousands of employees of ours and other partners, and stringent and evolving regulatory requirements and
+performance and reliability standards. The FAA has been working to implement safety reforms such as the 2018 FAA Reauthorization Act and
+the 2020 Aircraft Certification, Safety and Accountability Act (ACSAA). One of these, section 116 of the ACSAA prohibited the FAA from issuing a
+type certificate to aircraft after December 27, 2022 unless the aircrafts flight crew alerting system met certain specifications. The Consolidated
+Appropriations Act, 2023 amended Section 116 of the ACSAA, such that applications for original or amended type certifications that were
+submitted to the FAA prior to December 27, 2020, including those of the 737-7 and 737-10, are no longer subject to the crew alerting
+specifications of Section 116. Additionally, beginning one year after the FAA issues the type certificate for the 737-10, any new 737 MAX aircraft
+must include certain safety enhancements to be issued an original airworthiness certification by the FAA. These enhancements are included in
+Boeings application for the certification for the 737-10, and the sufficiency of these enhancements will be determined by the FAA. Beginning
+three years after the issuance of a type certificate for the 737-10, all previously delivered 737 MAX aircraft must be retrofitted with these safety
+enhancements. As the holder of the type certificate, Boeing is required to bear any costs of these safety enhancement retrofits. We have
+provisioned for the estimated costs associated with the safety enhancements and do not expect those costs to be material. If we experience
+delays in achieving certification and/or incorporating safety enhancements, future revenues, cash flows and results of operations could be
+adversely impacted. Comparable agencies in other countries may adopt similar changes. To the extent the FAA or similar regulatory agencies
+outside the U.S. implement more stringent regulations, we may incur additional compliance costs. In addition, the introduction of new aircraft
+programs and/or derivatives, such as the 777X, 737-7 and 737-10, involves increased risks associated with meeting development, testing,
+certification and production schedules.
+In addition, we have experienced production quality issues, including in our supply chain, which have contributed to lower 787 deliveries,
+including a suspension of 787 deliveries from May 2021 to August 2022. We continue to conduct inspections and rework on built and stored 787
+aircraft. A number of our customers have contractual remedies, including compensation for late deliveries or rights to reject individual airplane
+deliveries based on delivery delays. Delays on the 737, 777X and 787 programs have resulted in, and may continue to result in, customers
+having the right to terminate orders, be compensated for late deliveries and/or substitute orders for other Boeing aircraft.
+We must minimize disruption caused by production changes, achieve operational stability and implement productivity improvements in order to
+meet customer demand and maintain our profitability. We have previously announced plans to adjust production rates on several of our
+commercial aircraft programs. The 787 program is currently producing at low rates and we expect to gradually increase to 5 per month in 2023.
+Production of the 777X is currently paused and is expected to resume in 2023. The 737 program has experienced operational and supply chain
+challenges stabilizing production at 31 per month. We plan to gradually increase 737 production rates based on market demand and supply
+chain capacity. In addition, we continue to seek opportunities to reduce the costs of building our aircraft, including working with our suppliers to
+reduce supplier costs, identifying and implementing productivity improvements and optimizing how we manage inventory. If production rate
+changes at any of our
+7
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-01981-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+BUSINESS ENVIRONMENT
+Our results for the year demonstrate that our growth strategy is working and our business is in an even stronger position today than before the pandemic.
+Spending on our network reached record levels, and credit metrics remain below pre-pandemic levels. Our investments in product innovation, technology,
+people and our brand has led to increased generational relevance with Millennial and Gen Z customers, record new card acquisitions, deeper relationships with
+customers and expanded merchant acceptance.
+For 2022, we reported net income of $7.5 billion, or $9.85 per share, compared with net income of $8.1 billion, or $10.02 per share, a year ago. The reduction
+in net income reflected credit reserve builds and net losses in our Amex Ventures strategic investment portfolio in the current year compared with sizeable
+credit reserve releases and significant net gains in our Amex Ventures strategic investment portfolio in the prior year.
+Worldwide network volumes for the year increased 21 percent compared to the prior year (24 percent on an FX-adjusted basis ). Billed business, which
+represented 86 percent of our total network volumes and is the most significant driver of our financial results, increased 23 percent year-over-year (25 percent
+on an FX-adjusted basis ), demonstrating our continued ability to acquire, engage and retain high-spending, premium Card Members. U.S. Consumer billed
+business grew by 24 percent year-over-year, reflecting continued strength in spending trends from our premium U.S. consumer Card Members. Billed business
+in our Commercial Services segment grew by 21 percent on a year-over-year basis, reflecting continued growth from U.S. small and mid-sized enterprise
+customers, as well as continued steady recovery in spending by our U.S. large and global corporate clients. International billed business grew by 23 percent
+year-over-year (36 percent on an FX-adjusted basis ), driven by a strong recovery in spend across both consumer and commercial customers. T&E spending
+momentum remained strong throughout the year, while year-over-year Goods & Services spending growth slowed towards the end of the year following the
+large pandemic recovery growth rates experienced earlier in the year. Inflation was a modest contributor to our strong billed business growth, while the
+continuing strengthening of the U.S. dollar, relative to the prior year, against most major currencies in which we operate, had a negative impact on our
+international billings.
+Total revenues net of interest expense increased 25 percent year-over-year (27 percent on an FX-adjusted basis ), reflecting strong growth in all our revenue
+lines. Discount revenue, our largest revenue line, increased 25 percent year-over-year, driven primarily by the momentum in our Card Member spending
+volumes throughout 2022. Net card fees increased 17 percent year over-year, as new card acquisitions reached record levels in 2022 and Card Member
+retention remained high, demonstrating the impact of investments we have made in our premium value propositions. Service fees and other revenues increased
+36 percent year-over-year, driven in part by higher travel-related revenues. Net interest income increased 28 percent versus the prior year, primarily driven by
+growth in Card Member loans. While the rising interest rate environment had a fairly neutral impact on our results for the full year, rising rates did have a
+modest negative impact on net interest income towards the end of the year.
+Card Member loans increased 22 percent year-over-year, with the majority of growth coming from existing Card Members and was driven by ongoing strong
+growth in billed business, which began to moderate towards the end of the year as we lapped the steep phase of recovery. Provisions for credit losses increased
+versus the prior year, reflecting a reserve build of $617 million compared with a reserve release of $2.5 billion in the prior year, and are expected to increase in
+2023. While delinquency and net write-off rates continued to increase throughout the year, these metrics remain strong, supported by the premium nature of our
+customer base, our risk management capabilities and risk actions we took throughout the year.
+The foreign currency adjusted information assumes a constant exchange rate between the periods being compared for purposes of currency translation into U.S. dollars (i.e., assumes the foreign
+exchange rates used to determine results for the current period apply to the corresponding prior year period against which such results are being compared). FX-adjusted revenues is a non GAAP
+measure. We believe the presentation of information on a foreign currency adjusted basis is helpful to investors by making it easier to compare our performance in one period to that of another period
+without the variability caused by fluctuations in currency exchange rates.
+1
+1
+1
+1
+1 
+42
+
+Question: Was American Express able to retain card members during 2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

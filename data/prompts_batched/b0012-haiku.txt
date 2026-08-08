@@ -1,0 +1,1644 @@
+You are sitting an exam made of 12 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-00070-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+American Water Works Company, Inc. and Subsidiary Companies
+Consolidated Balance Sheets
+(In millions, except share and per share data)
+December 31, 2022
+December 31, 2021
+ASSETS
+Property, plant and equipment
+$
+29,736 
+$
+27,413 
+Accumulated depreciation
+(6,513)
+(6,329)
+Property, plant and equipment, net
+23,223 
+21,084 
+Current assets:
+ 
+ 
+Cash and cash equivalents
+85 
+116 
+Restricted funds
+32 
+20 
+Accounts receivable, net of allowance for uncollectible accounts of $60 and $75, respectively
+334 
+271 
+Income tax receivable
+114 
+4 
+Unbilled revenues
+275 
+248 
+Materials and supplies
+98 
+57 
+Assets held for sale
+ 
+683 
+Other
+312 
+155 
+Total current assets
+1,250 
+1,554 
+Regulatory and other long-term assets:
+ 
+ 
+Regulatory assets
+990 
+1,051 
+Seller promissory note from the sale of the Homeowner Services Group
+720 
+720 
+Operating lease right-of-use assets
+82 
+92 
+Goodwill
+1,143 
+1,139 
+Postretirement benefit assets
+ 
+193 
+Other
+379 
+242 
+Total regulatory and other long-term assets
+3,314 
+3,437 
+Total assets
+$
+27,787 
+$
+26,075 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+79
+
+
+---
+
+Table of Contents
+American Water Works Company, Inc. and Subsidiary Companies
+Consolidated Balance Sheets
+(In millions, except share and per share data)
+December 31, 2022
+December 31, 2021
+CAPITALIZATION AND LIABILITIES
+Capitalization:
+ 
+ 
+Common stock ($0.01 par value; 500,000,000 shares authorized; 187,200,539 and 186,880,413 shares
+issued, respectively)
+$
+2 
+$
+2 
+Paid-in-capital
+6,824 
+6,781 
+Retained earnings
+1,267 
+925 
+Accumulated other comprehensive loss
+(23)
+(45)
+Treasury stock, at cost (5,342,477 and 5,269,324 shares, respectively)
+(377)
+(365)
+Total common shareholders' equity
+7,693 
+7,298 
+Long-term debt
+10,926 
+10,341 
+Redeemable preferred stock at redemption value
+3 
+3 
+Total long-term debt
+10,929 
+10,344 
+Total capitalization
+18,622 
+17,642 
+Current liabilities:
+ 
+ 
+Short-term debt
+1,175 
+584 
+Current portion of long-term debt
+281 
+57 
+Accounts payable
+254 
+235 
+Accrued liabilities
+706 
+701 
+Accrued taxes
+49 
+176 
+Accrued interest
+91 
+88 
+Liabilities related to assets held for sale
+ 
+83 
+Other
+255 
+217 
+Total current liabilities
+2,811 
+2,141 
+Regulatory and other long-term liabilities:
+ 
+ 
+Advances for construction
+316 
+284 
+Deferred income taxes and investment tax credits
+2,437 
+2,421 
+Regulatory liabilities
+1,590 
+1,600 
+Operating lease liabilities
+70 
+80 
+Accrued pension expense
+235 
+285 
+Other
+202 
+180 
+Total regulatory and other long-term liabilities
+4,850 
+4,850 
+Contributions in aid of construction
+1,504 
+1,442 
+Commitments and contingencies (See Note 16)
+Total capitalization and liabilities
+$
+27,787 
+$
+26,075 
+The accompanying notes are an integral part of these Consolidated Financial Statements. 
+80
+
+Question: Based on American Water Works' FY2022 figures, does the company have a positive amount of working capital? In case working capital isn't a meaningful or applicable metric for this business, please indicate that and provide the reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-06655-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share data)
+ 
+ 
+Year Ended December 31,
+ 
+2015
+ 
+2016
+ 
+2017
+Net product sales
+$
+79,268 $
+94,665 $
+118,573
+Net service sales
+27,738 
+41,322 
+59,293
+Total net sales
+107,006 
+135,987 
+177,866
+Operating expenses:
+ 
+ 
+ 
+Cost of sales
+71,651 
+88,265 
+111,934
+Fulfillment
+13,410 
+17,619 
+25,249
+Marketing
+5,254 
+7,233 
+10,069
+Technology and content
+12,540 
+16,085 
+22,620
+General and administrative
+1,747 
+2,432 
+3,674
+Other operating expense, net
+171 
+167 
+214
+Total operating expenses
+104,773 
+131,801 
+173,760
+Operating income
+2,233 
+4,186 
+4,106
+Interest income
+50 
+100 
+202
+Interest expense
+(459) 
+(484) 
+(848)
+Other income (expense), net
+(256) 
+90 
+346
+Total non-operating income (expense)
+(665) 
+(294) 
+(300)
+Income before income taxes
+1,568 
+3,892 
+3,806
+Provision for income taxes
+(950) 
+(1,425) 
+(769)
+Equity-method investment activity, net of tax
+(22) 
+(96) 
+(4)
+Net income
+$
+596 $
+2,371 $
+3,033
+Basic earnings per share
+$
+1.28 $
+5.01 $
+6.32
+Diluted earnings per share
+$
+1.25 $
+4.90 $
+6.15
+Weighted-average shares used in computation of earnings per share:
+ 
+ 
+ 
+Basic
+467 
+474 
+480
+Diluted
+477 
+484 
+493
+See accompanying notes to consolidated financial statements.
+38
+
+
+---
+
+Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED BALANCE SHEETS
+(in millions, except per share data)
+ 
+ 
+December 31,
+ 
+2016
+ 
+2017
+ASSETS
+ 
+ 
+Current assets:
+ 
+ 
+Cash and cash equivalents
+$
+19,334 $
+20,522
+Marketable securities
+6,647 
+10,464
+Inventories
+11,461 
+16,047
+Accounts receivable, net and other
+8,339 
+13,164
+Total current assets
+45,781 
+60,197
+Property and equipment, net
+29,114 
+48,866
+Goodwill
+3,784 
+13,350
+Other assets
+4,723 
+8,897
+Total assets
+$
+83,402 $
+131,310
+LIABILITIES AND STOCKHOLDERS EQUITY
+ 
+ 
+Current liabilities:
+ 
+ 
+Accounts payable
+$
+25,309 $
+34,616
+Accrued expenses and other
+13,739 
+18,170
+Unearned revenue
+4,768 
+5,097
+Total current liabilities
+43,816 
+57,883
+Long-term debt
+7,694 
+24,743
+Other long-term liabilities
+12,607 
+20,975
+Commitments and contingencies (Note 7)
+ 
+Stockholders equity:
+ 
+ 
+Preferred stock, $0.01 par value:
+ 
+ 
+Authorized shares 500
+ 
+ 
+Issued and outstanding shares none
+ 
+
+Common stock, $0.01 par value:
+ 
+ 
+Authorized shares 5,000
+ 
+ 
+Issued shares 500 and 507
+ 
+ 
+Outstanding shares 477 and 484
+5 
+5
+Treasury stock, at cost
+(1,837) 
+(1,837)
+Additional paid-in capital
+17,186 
+21,389
+Accumulated other comprehensive loss
+(985) 
+(484)
+Retained earnings
+4,916 
+8,636
+Total stockholders equity
+19,285 
+27,709
+Total liabilities and stockholders equity
+$
+83,402 $
+131,310
+See accompanying notes to consolidated financial statements.
+40
+
+Question: Using the balance sheet and income statement figures, calculate Amazon's days payable outstanding (DPO) for fiscal year 2017, where DPO equals 365 multiplied by the average accounts payable across FY2016 and FY2017, divided by the sum of FY2017 COGS and the change in inventory from FY2016 to FY2017. Give the result rounded to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-01328-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Recently Issued Accounting Pronouncements - Not Yet Adopted
+In September 2022, the Financial Accounting Standards Board (FASB) issued guidance to enhance the transparency of supplier
+finance programs to allow financial statement users to understand the effect on working capital, liquidity and cash flows. The
+new guidance requires disclosure of key terms of the program, including a description of the payment terms, payment timing and
+assets pledged as security or other forms of guarantees provided to the finance provider or intermediary. Other requirements
+include the disclosure of the amount that remains unpaid as of the end of the reporting period, a description of where these
+obligations are presented in the balance sheet and a rollforward of the obligation during the annual period. The guidance is
+effective in the first quarter of 2023, except for the rollforward, which is effective in 2024. Early adoption is permitted. We will
+adopt the guidance when effective.
+Note 3 Restructuring and Impairment Charges
+2019 Multi-Year Productivity Plan
+We publicly announced a multi-year productivity plan on February 15, 2019 (2019 Productivity Plan) that will leverage new
+technology and business models to further simplify, harmonize and automate processes; re-engineer our go-to-market and
+information systems, including deploying the right automation for each market; and simplify our organization and optimize our
+manufacturing and supply chain footprint. To build on the successful implementation of the 2019 Productivity Plan, in the fourth
+quarter of 2022, we expanded and extended the plan through the end of 2028 to take advantage of additional opportunities within
+the initiatives described above. As a result, we expect to incur pre-tax charges of approximately $3.65 billion, including cash
+expenditures of approximately $2.9 billion. These pre-tax charges are expected to consist of approximately 55% of severance and
+other employee-related costs, 10% for asset impairments (all non-cash) resulting from plant closures and related actions and 35%
+for other costs associated with the implementation of our initiatives.
+The total plan pre-tax charges are expected to be incurred by division approximately as follows:
+FLNA
+QFNA
+PBNA
+LatAm
+Europe
+AMESA
+APAC
+Corporate
+Expected pre-tax charges
+15 %
+1 %
+25 %
+10 %
+25 %
+5 %
+4 %
+15 %
+A summary of our 2019 Productivity Plan charges is as follows:
+2022
+2021
+2020
+Cost of sales
+$
+33 
+$
+29 $
+30 
+Selling, general and administrative expenses
+347 
+208 
+239 
+Other pension and retiree medical benefits expense
+31 
+10 
+20 
+Total restructuring and impairment charges
+$
+411 
+$
+247 $
+289 
+After-tax amount
+$
+334 
+$
+206 $
+231 
+Impact on net income attributable to PepsiCo per common share
+$
+(0.24)
+$
+(0.15) $
+(0.17)
+76
+
+Question: For fiscal year 2022, how much did Pepsico report as restructuring expenses specifically within its income statement? Report 0 if no restructuring costs are explicitly stated.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-01328-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Recently Issued Accounting Pronouncements - Not Yet Adopted
+In September 2022, the Financial Accounting Standards Board (FASB) issued guidance to enhance the transparency of supplier
+finance programs to allow financial statement users to understand the effect on working capital, liquidity and cash flows. The
+new guidance requires disclosure of key terms of the program, including a description of the payment terms, payment timing and
+assets pledged as security or other forms of guarantees provided to the finance provider or intermediary. Other requirements
+include the disclosure of the amount that remains unpaid as of the end of the reporting period, a description of where these
+obligations are presented in the balance sheet and a rollforward of the obligation during the annual period. The guidance is
+effective in the first quarter of 2023, except for the rollforward, which is effective in 2024. Early adoption is permitted. We will
+adopt the guidance when effective.
+Note 3 Restructuring and Impairment Charges
+2019 Multi-Year Productivity Plan
+We publicly announced a multi-year productivity plan on February 15, 2019 (2019 Productivity Plan) that will leverage new
+technology and business models to further simplify, harmonize and automate processes; re-engineer our go-to-market and
+information systems, including deploying the right automation for each market; and simplify our organization and optimize our
+manufacturing and supply chain footprint. To build on the successful implementation of the 2019 Productivity Plan, in the fourth
+quarter of 2022, we expanded and extended the plan through the end of 2028 to take advantage of additional opportunities within
+the initiatives described above. As a result, we expect to incur pre-tax charges of approximately $3.65 billion, including cash
+expenditures of approximately $2.9 billion. These pre-tax charges are expected to consist of approximately 55% of severance and
+other employee-related costs, 10% for asset impairments (all non-cash) resulting from plant closures and related actions and 35%
+for other costs associated with the implementation of our initiatives.
+The total plan pre-tax charges are expected to be incurred by division approximately as follows:
+FLNA
+QFNA
+PBNA
+LatAm
+Europe
+AMESA
+APAC
+Corporate
+Expected pre-tax charges
+15 %
+1 %
+25 %
+10 %
+25 %
+5 %
+4 %
+15 %
+A summary of our 2019 Productivity Plan charges is as follows:
+2022
+2021
+2020
+Cost of sales
+$
+33 
+$
+29 $
+30 
+Selling, general and administrative expenses
+347 
+208 
+239 
+Other pension and retiree medical benefits expense
+31 
+10 
+20 
+Total restructuring and impairment charges
+$
+411 
+$
+247 $
+289 
+After-tax amount
+$
+334 
+$
+206 $
+231 
+Impact on net income attributable to PepsiCo per common share
+$
+(0.24)
+$
+(0.15) $
+(0.17)
+76
+
+Question: What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-01254-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PART II
+ITEM 5. MARKET FOR REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF
+EQUITY SECURITIES
+Common Stock Information
+Our common stock is traded on the New York Stock Exchange (NYSE) under the symbol MGM.
+There were approximately 3,143 record holders of our common stock as of February 22, 2023.
+Dividend Policy
+We implemented a dividend program in February 2017 pursuant to which it has paid regular quarterly dividends. In the second quarter of 2020, we
+reduced our annual dividend to $0.01 per share in light of the impact of the COVID-19 pandemic on our operations at that time. We maintained an annual
+dividend of $0.01 per share throughout 2022. On February 8, 2023, we announced that the Board of Directors has determined to suspend the ongoing dividends
+in light of our current preferred method of returning value to shareholders through our share repurchase plan. To the extent we determine to reinstate the
+dividend in the future, the amount, declaration and payment of any future dividends will be subject to the discretion of our Board of Directors who will
+evaluate our dividend policy from time to time based on factors it deems relevant, and the contractual limitations described below.
+Purchases of Equity Securities by the Issuer
+The following table provides information about share repurchases of our common stock during the quarter ended December 31, 2022:
+Period
+Total Number of
+Shares Purchased
+Average Price Paid
+per Share
+Total Number of
+Shares Purchased as
+Part of a Publicly
+Announced Program
+Dollar Value of
+Shares that May Yet
+be Purchased Under
+the Program
+(In thousands)
+October 1, 2022 October 31, 2022
+5,727,219 
+$
+31.74 
+5,727,219 
+$
+645,485 
+November 1, 2022 November 30, 2022
+1,259,233 
+$
+33.65 
+1,259,233 
+$
+603,108 
+December 1, 2022 December 31, 2022
+3,700,000 
+$
+34.61 
+3,700,000 
+$
+475,049 
+In March 2022, we announced that the Board of Directors authorized a $2.0 billion stock repurchase plan and in February 2023, we announced that the
+Board of Directors had authorized a $2.0 billion stock repurchase plan. Under the stock repurchase plans, we may repurchase shares from time to time in the
+open market or in privately negotiated agreements. Repurchases of common stock may also be made under a Rule 10b5-1 plan, which would permit common
+stock to be purchased when we might otherwise be precluded from doing so under insider trading laws. The timing, volume and nature of stock repurchases
+will be at the sole discretion of management, dependent on market conditions, applicable securities laws, and other factors, and may be suspended or
+discontinued at any time. All shares we repurchased during the quarter ended December 31, 2022 were purchased pursuant to our publicly announced stock
+repurchase plans and have been retired.
+30
+
+Question: During fiscal year 2022, did MGM Resorts distribute any dividends to holders of its common stock?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-00735-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Item 2. Properties.
+Our principal executive office located in Purchase, New York and our facilities located in Plano, Texas, all of which we own, are
+our most significant corporate properties.
+In connection with making, marketing, distributing and selling our products, each division utilizes manufacturing, processing,
+bottling and production plants, warehouses, distribution centers, storage facilities, offices, including division headquarters,
+research and development facilities and other facilities, all of which are either owned or leased.
+Significant properties by division are as follows:
+Property Type
+Location
+Owned/ Leased
+FLNA
+Research and development facility
+Plano, Texas
+Owned
+QFNA
+Convenient food plant
+Cedar Rapids, Iowa
+Owned
+PBNA
+Research and development facility
+Valhalla, New York
+Owned
+PBNA
+Concentrate plant
+Arlington, Texas
+Owned
+LatAm
+Convenient food plant
+Celaya, Mexico
+Owned
+LatAm
+Two convenient food plants
+Vallejo, Mexico
+Owned
+Europe
+Convenient food plant
+Leicester, United Kingdom
+Leased
+Europe
+Convenient food plant
+Kashira, Russia
+Owned
+Europe
+Manufacturing plant
+Lehavim, Israel
+Owned
+Europe
+Dairy plant
+Moscow, Russia
+Owned 
+AMESA
+Convenient food plant
+Riyadh, Saudi Arabia
+Owned 
+APAC
+Convenient food plant
+Wuhan, China
+Owned 
+FLNA, QFNA, PBNA
+Shared service center
+Winston Salem, North Carolina
+Leased
+PBNA, LatAm
+Concentrate plant
+Colonia, Uruguay
+Owned 
+PBNA, Europe, AMESA
+Two concentrate plants
+Cork, Ireland
+Owned
+PBNA, AMESA, APAC
+Concentrate plant
+Singapore
+Owned 
+All divisions
+Shared service center
+Hyderabad, India
+Leased
+(a)
+The land on which these properties are located is leased.
+Most of our plants are owned or leased on a long-term basis. In addition to company-owned or leased properties described above,
+we also utilize a highly distributed network of plants, warehouses and distribution centers that are owned or leased by our
+contract manufacturers, co-packers, strategic alliances or joint ventures in which we have an equity interest. We believe that our
+properties generally are in good operating condition and, taken as a whole, are suitable, adequate and of sufficient capacity for
+our current operations.
+Item 3. Legal Proceedings.
+We and our subsidiaries are party to a variety of litigation, claims, legal or regulatory proceedings, inquiries and investigations.
+While the results of such litigation, claims, legal or regulatory proceedings, inquiries and investigations cannot be predicted with
+certainty, management believes that the final outcome of the foregoing will not have a material adverse effect on our financial
+condition, results of operations or cash flows. See also Item 1. Business Regulatory Matters and Item 1A. Risk Factors.
+Item 4. Mine Safety Disclosures.
+Not applicable. 
+(a)
+(a)
+(a)
+(a)
+(a)
+24
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-00735-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Item 2. Properties.
+Our principal executive office located in Purchase, New York and our facilities located in Plano, Texas, all of which we own, are
+our most significant corporate properties.
+In connection with making, marketing, distributing and selling our products, each division utilizes manufacturing, processing,
+bottling and production plants, warehouses, distribution centers, storage facilities, offices, including division headquarters,
+research and development facilities and other facilities, all of which are either owned or leased.
+Significant properties by division are as follows:
+Property Type
+Location
+Owned/ Leased
+FLNA
+Research and development facility
+Plano, Texas
+Owned
+QFNA
+Convenient food plant
+Cedar Rapids, Iowa
+Owned
+PBNA
+Research and development facility
+Valhalla, New York
+Owned
+PBNA
+Concentrate plant
+Arlington, Texas
+Owned
+LatAm
+Convenient food plant
+Celaya, Mexico
+Owned
+LatAm
+Two convenient food plants
+Vallejo, Mexico
+Owned
+Europe
+Convenient food plant
+Leicester, United Kingdom
+Leased
+Europe
+Convenient food plant
+Kashira, Russia
+Owned
+Europe
+Manufacturing plant
+Lehavim, Israel
+Owned
+Europe
+Dairy plant
+Moscow, Russia
+Owned 
+AMESA
+Convenient food plant
+Riyadh, Saudi Arabia
+Owned 
+APAC
+Convenient food plant
+Wuhan, China
+Owned 
+FLNA, QFNA, PBNA
+Shared service center
+Winston Salem, North Carolina
+Leased
+PBNA, LatAm
+Concentrate plant
+Colonia, Uruguay
+Owned 
+PBNA, Europe, AMESA
+Two concentrate plants
+Cork, Ireland
+Owned
+PBNA, AMESA, APAC
+Concentrate plant
+Singapore
+Owned 
+All divisions
+Shared service center
+Hyderabad, India
+Leased
+(a)
+The land on which these properties are located is leased.
+Most of our plants are owned or leased on a long-term basis. In addition to company-owned or leased properties described above,
+we also utilize a highly distributed network of plants, warehouses and distribution centers that are owned or leased by our
+contract manufacturers, co-packers, strategic alliances or joint ventures in which we have an equity interest. We believe that our
+properties generally are in good operating condition and, taken as a whole, are suitable, adequate and of sufficient capacity for
+our current operations.
+Item 3. Legal Proceedings.
+We and our subsidiaries are party to a variety of litigation, claims, legal or regulatory proceedings, inquiries and investigations.
+While the results of such litigation, claims, legal or regulatory proceedings, inquiries and investigations cannot be predicted with
+certainty, management believes that the final outcome of the foregoing will not have a material adverse effect on our financial
+condition, results of operations or cash flows. See also Item 1. Business Regulatory Matters and Item 1A. Risk Factors.
+Item 4. Mine Safety Disclosures.
+Not applicable. 
+(a)
+(a)
+(a)
+(a)
+(a)
+24
+
+Question: Did Pepsico disclose any significant ongoing litigation during FY2022 and FY2021?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-01254-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PART II
+ITEM 5. MARKET FOR REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF
+EQUITY SECURITIES
+Common Stock Information
+Our common stock is traded on the New York Stock Exchange (NYSE) under the symbol MGM.
+There were approximately 3,143 record holders of our common stock as of February 22, 2023.
+Dividend Policy
+We implemented a dividend program in February 2017 pursuant to which it has paid regular quarterly dividends. In the second quarter of 2020, we
+reduced our annual dividend to $0.01 per share in light of the impact of the COVID-19 pandemic on our operations at that time. We maintained an annual
+dividend of $0.01 per share throughout 2022. On February 8, 2023, we announced that the Board of Directors has determined to suspend the ongoing dividends
+in light of our current preferred method of returning value to shareholders through our share repurchase plan. To the extent we determine to reinstate the
+dividend in the future, the amount, declaration and payment of any future dividends will be subject to the discretion of our Board of Directors who will
+evaluate our dividend policy from time to time based on factors it deems relevant, and the contractual limitations described below.
+Purchases of Equity Securities by the Issuer
+The following table provides information about share repurchases of our common stock during the quarter ended December 31, 2022:
+Period
+Total Number of
+Shares Purchased
+Average Price Paid
+per Share
+Total Number of
+Shares Purchased as
+Part of a Publicly
+Announced Program
+Dollar Value of
+Shares that May Yet
+be Purchased Under
+the Program
+(In thousands)
+October 1, 2022 October 31, 2022
+5,727,219 
+$
+31.74 
+5,727,219 
+$
+645,485 
+November 1, 2022 November 30, 2022
+1,259,233 
+$
+33.65 
+1,259,233 
+$
+603,108 
+December 1, 2022 December 31, 2022
+3,700,000 
+$
+34.61 
+3,700,000 
+$
+475,049 
+In March 2022, we announced that the Board of Directors authorized a $2.0 billion stock repurchase plan and in February 2023, we announced that the
+Board of Directors had authorized a $2.0 billion stock repurchase plan. Under the stock repurchase plans, we may repurchase shares from time to time in the
+open market or in privately negotiated agreements. Repurchases of common stock may also be made under a Rule 10b5-1 plan, which would permit common
+stock to be purchased when we might otherwise be precluded from doing so under insider trading laws. The timing, volume and nature of stock repurchases
+will be at the sole discretion of management, dependent on market conditions, applicable securities laws, and other factors, and may be suspended or
+discontinued at any time. All shares we repurchased during the quarter ended December 31, 2022 were purchased pursuant to our publicly announced stock
+repurchase plans and have been retired.
+30
+
+Question: Has MGM Resorts paid dividends to common shareholders in FY2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-04080-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+NIKE, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+YEAR ENDED MAY 31,
+(In millions, except per share data)
+2021
+2020
+2019
+Revenues
+$
+44,538 $
+37,403 $
+39,117 
+Cost of sales
+24,576 
+21,162 
+21,643 
+Gross profit
+19,962 
+16,241 
+17,474 
+Demand creation expense
+3,114 
+3,592 
+3,753 
+Operating overhead expense
+9,911 
+9,534 
+8,949 
+Total selling and administrative expense
+13,025 
+13,126 
+12,702 
+Interest expense (income), net
+262 
+89 
+49 
+Other (income) expense, net
+14 
+139 
+(78)
+Income before income taxes
+6,661 
+2,887 
+4,801 
+Income tax expense
+934 
+348 
+772 
+NET INCOME
+$
+5,727 $
+2,539 $
+4,029 
+Earnings per common share:
+Basic
+$
+3.64 $
+1.63 $
+2.55 
+Diluted
+$
+3.56 $
+1.60 $
+2.49 
+Weighted average common shares outstanding:
+Basic
+1,573.0 
+1,558.8 
+1,579.7 
+Diluted
+1,609.4 
+1,591.6 
+1,618.4 
+The accompanying Notes to the Consolidated Financial Statements are an integral part of this statement.
+2021 FORM 10-K 57
+
+
+---
+
+Table of Contents
+NIKE, INC.
+CONSOLIDATED BALANCE SHEETS
+MAY 31,
+(In millions)
+2021
+2020
+ASSETS
+Current assets:
+Cash and equivalents
+$
+9,889 $
+8,348 
+Short-term investments
+3,587 
+439 
+Accounts receivable, net
+4,463 
+2,749 
+Inventories
+6,854 
+7,367 
+Prepaid expenses and other current assets
+1,498 
+1,653 
+Total current assets
+26,291 
+20,556 
+Property, plant and equipment, net
+4,904 
+4,866 
+Operating lease right-of-use assets, net
+3,113 
+3,097 
+Identifiable intangible assets, net
+269 
+274 
+Goodwill
+242 
+223 
+Deferred income taxes and other assets
+2,921 
+2,326 
+TOTAL ASSETS
+$
+37,740 $
+31,342 
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Current portion of long-term debt
+$
+ $
+3 
+Notes payable
+2 
+248 
+Accounts payable
+2,836 
+2,248 
+Current portion of operating lease liabilities
+467 
+445 
+Accrued liabilities
+6,063 
+5,184 
+Income taxes payable
+306 
+156 
+Total current liabilities
+9,674 
+8,284 
+Long-term debt
+9,413 
+9,406 
+Operating lease liabilities
+2,931 
+2,913 
+Deferred income taxes and other liabilities
+2,955 
+2,684 
+Commitments and contingencies (Note 18)
+Redeemable preferred stock
+ 
+ 
+Shareholders' equity:
+Common stock at stated value:
+Class A convertible 305 and 315 shares outstanding
+ 
+ 
+Class B 1,273 and 1,243 shares outstanding
+3 
+3 
+Capital in excess of stated value
+9,965 
+8,299 
+Accumulated other comprehensive income (loss)
+(380)
+(56)
+Retained earnings (deficit)
+3,179 
+(191)
+Total shareholders' equity
+12,767 
+8,055 
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY
+$
+37,740 $
+31,342 
+The accompanying Notes to the Consolidated Financial Statements are an integral part of this statement.
+2021 FORM 10-K 59
+
+Question: When primarily referencing the income statement and the statement of financial position, what is the FY2021 inventory turnover ratio for Nike? Inventory turnover ratio is defined as: (FY2021 COGS) / (average inventory between FY2020 and FY2021). Round your answer to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-00563-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Results of Operations
+During the second quarter of fiscal year 2022, we changed our reporting segments to align our financial reporting with how we manage our business in strategic
+end markets. This is consistent with how our Chief Operating Decision Maker (CODM) assesses our financial performance and allocates resources. As a result,
+we report our financial performance based on the following four reportable segments: Data Center, Client, Gaming, and Embedded.
+Additional information on our reportable segments is contained in Note 4 Segment Reporting of the Notes to Financial Statements (Part II, Item 8 of this Form
+10-K).
+Our operating results tend to vary seasonally. Historically, our net revenue has been generally higher in the second half of the year than in the first half of the
+year, although market conditions and product transitions could impact these trends.
+The following table provides a summary of net revenue and operating income (loss) by segment for 2022 and 2021:
+Year Ended
+December 31,
+2022
+December 25,
+2021
+(In millions)
+Net revenue:
+Data Center
+$
+6,043 
+$
+3,694 
+Client
+6,201 
+6,887 
+Gaming
+6,805 
+5,607 
+Embedded
+4,552 
+246 
+Total net revenue
+$
+23,601 
+$
+16,434 
+Operating income (loss):
+Data Center
+$
+1,848 
+$
+991 
+Client
+1,190 
+2,088 
+Gaming
+953 
+934 
+Embedded
+2,252 
+44 
+All Other
+(4,979)
+(409)
+Total operating income (loss)
+$
+1,264 
+$
+3,648 
+Data Center
+Data Center net revenue of $6 billion in 2022 increased by 64%, compared to net revenue of $3.7 billion in 2021. The increase was primarily driven by higher
+sales of our EPYC server processors.
+Data Center operating income was $1.8 billion in 2022, compared to operating income of $991 million in 2021. The increase in operating income was primarily
+driven by higher revenue, partially offset by higher operating expenses. Operating expenses increased for the reasons outlined under Expenses below.
+Client
+Client net revenue of $6.2 billion in 2022 decreased by 10%, compared to net revenue of $6.9 billion in 2021, primarily driven by a 24% decrease in unit
+shipment, partially offset by a 19% increase in average selling price. The decrease in unit shipments was due to challenging PC market conditions and
+significant inventory correction across the PC supply chain experienced during the second half of 2022. The increase in average selling price was primarily
+driven by a richer mix of Ryzen mobile processor sales.
+Client operating income was $1.2 billion in 2022, compared to operating income of $2.1 billion in 2021. The decrease in operating income was primarily driven
+by lower revenue and higher operating expenses. Operating expenses increased for the reasons outlined under Expenses below.
+45
+
+Question: Looking at AMD's segments other than Embedded, which one saw the largest percentage growth in sales between FY21 and FY22?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-04080-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+NIKE, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+YEAR ENDED MAY 31,
+(In millions, except per share data)
+2021
+2020
+2019
+Revenues
+$
+44,538 $
+37,403 $
+39,117 
+Cost of sales
+24,576 
+21,162 
+21,643 
+Gross profit
+19,962 
+16,241 
+17,474 
+Demand creation expense
+3,114 
+3,592 
+3,753 
+Operating overhead expense
+9,911 
+9,534 
+8,949 
+Total selling and administrative expense
+13,025 
+13,126 
+12,702 
+Interest expense (income), net
+262 
+89 
+49 
+Other (income) expense, net
+14 
+139 
+(78)
+Income before income taxes
+6,661 
+2,887 
+4,801 
+Income tax expense
+934 
+348 
+772 
+NET INCOME
+$
+5,727 $
+2,539 $
+4,029 
+Earnings per common share:
+Basic
+$
+3.64 $
+1.63 $
+2.55 
+Diluted
+$
+3.56 $
+1.60 $
+2.49 
+Weighted average common shares outstanding:
+Basic
+1,573.0 
+1,558.8 
+1,579.7 
+Diluted
+1,609.4 
+1,591.6 
+1,618.4 
+The accompanying Notes to the Consolidated Financial Statements are an integral part of this statement.
+2021 FORM 10-K 57
+
+
+---
+
+Table of Contents
+NIKE, INC.
+CONSOLIDATED BALANCE SHEETS
+MAY 31,
+(In millions)
+2021
+2020
+ASSETS
+Current assets:
+Cash and equivalents
+$
+9,889 $
+8,348 
+Short-term investments
+3,587 
+439 
+Accounts receivable, net
+4,463 
+2,749 
+Inventories
+6,854 
+7,367 
+Prepaid expenses and other current assets
+1,498 
+1,653 
+Total current assets
+26,291 
+20,556 
+Property, plant and equipment, net
+4,904 
+4,866 
+Operating lease right-of-use assets, net
+3,113 
+3,097 
+Identifiable intangible assets, net
+269 
+274 
+Goodwill
+242 
+223 
+Deferred income taxes and other assets
+2,921 
+2,326 
+TOTAL ASSETS
+$
+37,740 $
+31,342 
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Current portion of long-term debt
+$
+ $
+3 
+Notes payable
+2 
+248 
+Accounts payable
+2,836 
+2,248 
+Current portion of operating lease liabilities
+467 
+445 
+Accrued liabilities
+6,063 
+5,184 
+Income taxes payable
+306 
+156 
+Total current liabilities
+9,674 
+8,284 
+Long-term debt
+9,413 
+9,406 
+Operating lease liabilities
+2,931 
+2,913 
+Deferred income taxes and other liabilities
+2,955 
+2,684 
+Commitments and contingencies (Note 18)
+Redeemable preferred stock
+ 
+ 
+Shareholders' equity:
+Common stock at stated value:
+Class A convertible 305 and 315 shares outstanding
+ 
+ 
+Class B 1,273 and 1,243 shares outstanding
+3 
+3 
+Capital in excess of stated value
+9,965 
+8,299 
+Accumulated other comprehensive income (loss)
+(380)
+(56)
+Retained earnings (deficit)
+3,179 
+(191)
+Total shareholders' equity
+12,767 
+8,055 
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY
+$
+37,740 $
+31,342 
+The accompanying Notes to the Consolidated Financial Statements are an integral part of this statement.
+2021 FORM 10-K 59
+
+Question: Using mainly the income statement and balance sheet, calculate Nike's inventory turnover ratio for FY2021, where the ratio equals FY2021 COGS divided by the average inventory across FY2020 and FY2021. Provide the result rounded to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 12 | id=fb-01163-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: NIKE, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+YEAR ENDED MAY 31,
+(Dollars in millions)
+2023
+2022
+2021
+Cash provided (used) by operations:
+Net income
+$ 
+5,070 $ 
+6,046 $ 
+5,727 
+Adjustments to reconcile net income to net cash provided (used) by operations:
+Depreciation
+ 
+703 
+717 
+744 
+Deferred income taxes
+ 
+(117) 
+(650) 
+(385) 
+Stock-based compensation
+ 
+755 
+638 
+611 
+Amortization, impairment and other
+ 
+156 
+123 
+53 
+Net foreign currency adjustments
+ 
+(213) 
+(26) 
+(138) 
+Changes in certain working capital components and other assets and liabilities:
+(Increase) decrease in accounts receivable
+ 
+489 
+(504) 
+(1,606) 
+(Increase) decrease in inventories
+ 
+(133) 
+(1,676) 
+507 
+(Increase) decrease in prepaid expenses, operating lease right-of-use assets and 
+other current and non-current assets
+ 
+(644) 
+(845) 
+(182) 
+Increase (decrease) in accounts payable, accrued liabilities, operating lease liabilities 
+and other current and non-current liabilities
+ 
+(225) 
+1,365 
+1,326 
+Cash provided (used) by operations
+ 
+5,841 
+5,188 
+6,657 
+Cash provided (used) by investing activities:
+Purchases of short-term investments
+ 
+(6,059) 
+(12,913) 
+(9,961) 
+Maturities of short-term investments
+ 
+3,356 
+8,199 
+4,236 
+Sales of short-term investments
+ 
+4,184 
+3,967 
+2,449 
+Additions to property, plant and equipment
+ 
+(969) 
+(758) 
+(695) 
+Other investing activities
+ 
+52 
+(19) 
+171 
+Cash provided (used) by investing activities
+ 
+564 
+(1,524) 
+(3,800) 
+Cash provided (used) by financing activities:
+Increase (decrease) in notes payable, net
+ 
+(4) 
+15 
+(52) 
+Repayment of borrowings
+ 
+(500) 
+ 
+(197) 
+Proceeds from exercise of stock options and other stock issuances
+ 
+651 
+1,151 
+1,172 
+Repurchase of common stock
+ 
+(5,480) 
+(4,014) 
+(608) 
+Dividends common and preferred
+ 
+(2,012) 
+(1,837) 
+(1,638) 
+Other financing activities
+ 
+(102) 
+(151) 
+(136) 
+Cash provided (used) by financing activities
+ 
+(7,447) 
+(4,836) 
+(1,459) 
+Effect of exchange rate changes on cash and equivalents
+ 
+(91) 
+(143) 
+143 
+Net increase (decrease) in cash and equivalents
+ 
+(1,133) 
+(1,315) 
+1,541 
+Cash and equivalents, beginning of year
+ 
+8,574 
+9,889 
+8,348 
+CASH AND EQUIVALENTS, END OF YEAR
+$ 
+7,441 $ 
+8,574 $ 
+9,889 
+Supplemental disclosure of cash flow information:
+Cash paid during the year for:
+Interest, net of capitalized interest
+$ 
+347 $ 
+290 $ 
+293 
+Income taxes
+ 
+1,517 
+1,231 
+1,177 
+Non-cash additions to property, plant and equipment
+ 
+211 
+160 
+179 
+Dividends declared and not paid
+ 
+524 
+480 
+438 
+The accompanying Notes to the Consolidated Financial Statements are an integral part of this statement.
+NIKE, INC. 
+58
+
+Question: For Nike in FY2023, which of the three activity categories—operating, investing, or financing—generated the largest positive cash flow, or, if all were negative, showed the smallest cash outflow?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

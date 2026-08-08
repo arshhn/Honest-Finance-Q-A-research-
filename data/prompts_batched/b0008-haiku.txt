@@ -1,0 +1,1564 @@
+You are sitting an exam made of 10 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-00859-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Certain of our equity investments do not have readily determinable fair values and are excluded from the tables above. Such investments are 
+measured at cost, less any impairment, plus or minus changes resulting from observable price changes in orderly transactions for an identical 
+or similar investment of the same issuer and are included in Investments in unconsolidated businesses in our consolidated balance sheets. As 
+of December 31, 2021 and December 31, 2020, the carrying amount of our investments without readily determinable fair values were 
+$808 million and $402 million, respectively. During 2021, there were approximately $66 million of adjustments due to observable price 
+changes and insignificant impairment charges. Cumulative adjustments due to observable price changes and impairment charges were 
+approximately $143 million and $63 million, respectively. 
+Verizon has a liability for contingent consideration related to its acquisition of Tracfone, completed in November 2021. The fair value is 
+calculated using a probability-weighted discounted cash flow model and represents a Level 3 measurement. Level 3 instruments include 
+valuation based on unobservable inputs reflecting our own assumptions, consistent with reasonably available assumptions made by other 
+market participants. Subsequent to the acquisition date, at each reporting date, the contingent consideration liability is remeasured to fair 
+value with changes recorded within Selling, general and administrative expense in our consolidated statements of income. 
+Fixed income securities consist primarily of investments in municipal bonds. The valuation of the fixed income securities are based on the 
+quoted prices for similar assets in active markets or identical assets in inactive markets or models that apply inputs from observable market 
+data. The valuation determines that these securities are classified as Level 2. 
+Derivative contracts are valued using models based on readily observable market parameters for all substantial terms of our derivative 
+contracts and thus are classified within Level 2. We use mid-market pricing for fair value measurements of our derivative instruments. Our 
+derivative instruments are recorded on a gross basis. 
+We recognize transfers between levels of the fair value hierarchy as of the end of the reporting period. 
+Fair Value of Short-term and Long-term Debt 
+The fair value of our debt is determined using various methods, including quoted prices for identical debt instruments, which is a Level 1 
+measurement, as well as quoted prices for similar debt instruments with comparable terms and maturities, which is a Level 2 measurement. 
+The fair value of our short-term and long-term debt, excluding finance leases, was as follows: 
+Fair Value 
+(dollars in millions) 
+Carrying 
+Amount
+Level 1
+Level 2
+Level 3
+Total 
+At December 31, 2020
+$ 
+127,778 
+$ 
+103,967 
+$ 
+52,785 
+$ 
+ $ 
+156,752 
+At December 31, 2021
+149,543 
+106,599 
+62,606 
+ 
+169,205 
+Derivative Instruments 
+We enter into derivative transactions primarily to manage our exposure to fluctuations in foreign currency exchange rates and interest rates. 
+We employ risk management strategies, which may include the use of a variety of derivatives including interest rate swaps, cross currency 
+swaps, forward starting interest rate swaps, treasury rate locks, interest rate caps, swaptions and foreign exchange forwards. We do not hold 
+derivatives for trading purposes. 
+The following table sets forth the notional amounts of our outstanding derivative instruments: 
+(dollars in millions) 
+At December 31,
+2021
+2020 
+Interest rate swaps
+$ 
+19,779 
+$ 
+17,768 
+Cross currency swaps
+32,502 
+26,288 
+Forward starting interest rate swaps
+1,000 
+2,000 
+Foreign exchange forwards
+932 
+1,405 
+85
+Verizon 2021 Annual Report on Form 10-K
+
+Question: Looking at all the derivative instruments Verizon employed to hedge against foreign currency exchange rate or interest rate fluctuations, which single instrument carried the largest notional value in fiscal year 2021?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-00859-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Certain of our equity investments do not have readily determinable fair values and are excluded from the tables above. Such investments are 
+measured at cost, less any impairment, plus or minus changes resulting from observable price changes in orderly transactions for an identical 
+or similar investment of the same issuer and are included in Investments in unconsolidated businesses in our consolidated balance sheets. As 
+of December 31, 2021 and December 31, 2020, the carrying amount of our investments without readily determinable fair values were 
+$808 million and $402 million, respectively. During 2021, there were approximately $66 million of adjustments due to observable price 
+changes and insignificant impairment charges. Cumulative adjustments due to observable price changes and impairment charges were 
+approximately $143 million and $63 million, respectively. 
+Verizon has a liability for contingent consideration related to its acquisition of Tracfone, completed in November 2021. The fair value is 
+calculated using a probability-weighted discounted cash flow model and represents a Level 3 measurement. Level 3 instruments include 
+valuation based on unobservable inputs reflecting our own assumptions, consistent with reasonably available assumptions made by other 
+market participants. Subsequent to the acquisition date, at each reporting date, the contingent consideration liability is remeasured to fair 
+value with changes recorded within Selling, general and administrative expense in our consolidated statements of income. 
+Fixed income securities consist primarily of investments in municipal bonds. The valuation of the fixed income securities are based on the 
+quoted prices for similar assets in active markets or identical assets in inactive markets or models that apply inputs from observable market 
+data. The valuation determines that these securities are classified as Level 2. 
+Derivative contracts are valued using models based on readily observable market parameters for all substantial terms of our derivative 
+contracts and thus are classified within Level 2. We use mid-market pricing for fair value measurements of our derivative instruments. Our 
+derivative instruments are recorded on a gross basis. 
+We recognize transfers between levels of the fair value hierarchy as of the end of the reporting period. 
+Fair Value of Short-term and Long-term Debt 
+The fair value of our debt is determined using various methods, including quoted prices for identical debt instruments, which is a Level 1 
+measurement, as well as quoted prices for similar debt instruments with comparable terms and maturities, which is a Level 2 measurement. 
+The fair value of our short-term and long-term debt, excluding finance leases, was as follows: 
+Fair Value 
+(dollars in millions) 
+Carrying 
+Amount
+Level 1
+Level 2
+Level 3
+Total 
+At December 31, 2020
+$ 
+127,778 
+$ 
+103,967 
+$ 
+52,785 
+$ 
+ $ 
+156,752 
+At December 31, 2021
+149,543 
+106,599 
+62,606 
+ 
+169,205 
+Derivative Instruments 
+We enter into derivative transactions primarily to manage our exposure to fluctuations in foreign currency exchange rates and interest rates. 
+We employ risk management strategies, which may include the use of a variety of derivatives including interest rate swaps, cross currency 
+swaps, forward starting interest rate swaps, treasury rate locks, interest rate caps, swaptions and foreign exchange forwards. We do not hold 
+derivatives for trading purposes. 
+The following table sets forth the notional amounts of our outstanding derivative instruments: 
+(dollars in millions) 
+At December 31,
+2021
+2020 
+Interest rate swaps
+$ 
+19,779 
+$ 
+17,768 
+Cross currency swaps
+32,502 
+26,288 
+Forward starting interest rate swaps
+1,000 
+2,000 
+Foreign exchange forwards
+932 
+1,405 
+85
+Verizon 2021 Annual Report on Form 10-K
+
+Question: Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-00995-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+PART I
+ITEM 1. BUSINESS
+Cautionary Statement Regarding Forward-Looking Statements
+The statements in this report include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-
+looking statements are based on current expectations and beliefs and involve numerous risks and uncertainties that could cause actual results to differ
+materially from expectations. These forward-looking statements speak only as of the date hereof or as of the dates indicated in the statements and should not
+be relied upon as predictions of future events, as we cannot assure you that the events or circumstances reflected in these statements will be achieved or will
+occur. You can identify forward-looking statements by the use of forward-looking terminology including believes, expects, may, will, should, seeks,
+intends, plans, pro forma, estimates, anticipates, or the negative of these words and phrases, other variations of these words and phrases or
+comparable terminology. The forward-looking statements relate to, among other things: possible impact of future accounting rules on AMDs consolidated
+financial statements; demand for AMDs products; the growth, change and competitive landscape of the markets in which AMD participates; international sales
+will continue to be a significant portion of total sales in the foreseeable future; that AMDs cash, cash equivalents and short-term investment balances together
+with the availability under that certain revolving credit facility (the Revolving Credit Agreement) made available to AMD and certain of its subsidiaries, our
+commercial paper program, and our cash flows from operations will be sufficient to fund AMDs operations including capital expenditures and purchase
+commitments over the next 12 months and beyond; AMDs ability to obtain sufficient external financing on favorable terms, or at all; AMDs expectation that
+based on managements current knowledge, the potential liability related to AMDs current litigation will not have a material adverse effect on its financial
+position, results of operation or cash flows; anticipated ongoing and increased costs related to enhancing and implementing information security controls; all
+unbilled accounts receivables are expected to be billed and collected within 12 months; revenue allocated to remaining performance obligations that are
+unsatisfied which will be recognized in the next 12 months; and a small number of customers will continue to account for a substantial part of AMDs revenue in
+the future. For a discussion of the factors that could cause actual results to differ materially from the forward-looking statements, see Part I, Item 1A-Risk
+Factors and the Financial Condition section set forth in Part II, Item 7-Managements Discussion and Analysis of Financial Condition and Results of
+Operations, or MD&A, and such other risks and uncertainties as set forth below in this report or detailed in our other Securities and Exchange Commission
+(SEC) reports and filings. We assume no obligation to update forward-looking statements.
+References in this Annual Report on Form 10-K to AMD, we, us, management, our or the Company mean Advanced Micro Devices, Inc. and our
+consolidated subsidiaries.
+Overview
+We are a global semiconductor company primarily offering:
+
+server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and
+Adaptive System-on-Chip (SoC) products for data centers;
+
+CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers;
+
+discrete GPUs, and semi-custom SoC products and development services; and
+
+embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+From time to time, we may also sell or license portions of our intellectual property (IP) portfolio.
+1
+
+Question: As of fiscal year 2022, what key products and services does AMD offer?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-02049-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: The table below shows the results of the Firms Risk Management VaR measure using a 95% confidence level. VaR can vary 
+significantly as positions change, market volatility fluctuates, and diversification benefits change.
+Total VaR
+Three months ended
+June 30, 2023
+March 31, 2023
+June 30, 2022
+(in millions)
+ Avg.
+Min
+Max
+ Avg.
+Min
+Max
+ Avg.
+Min
+Max
+CIB trading VaR by risk type
+Fixed income
+$ 57 
+$ 50 
+$ 66 
+$ 56 
+$ 45 
+$ 71 
+$ 60 
+$ 48 
+$ 79 
+Foreign exchange
+ 
+12 
+ 
+7 
+ 24 
+ 
+10 
+ 
+6 
+ 
+17 
+ 
+8 
+ 
+4 
+ 13 
+Equities
+ 
+8 
+ 
+5 
+ 11 
+ 
+7 
+ 
+5 
+ 
+10 
+ 11 
+ 
+7 
+ 15 
+Commodities and other
+ 
+12 
+ 
+8 
+ 17 
+ 
+15 
+ 
+11 
+ 
+19 
+ 14 
+ 
+12 
+ 17 
+Diversification benefit to CIB trading VaR(a)
+ (48) 
+ NM
+ NM
+ (44) 
+NM
+NM
+ (43) 
+NM
+NM
+CIB trading VaR
+ 
+41 
+ 
+31 
+ 50 
+ 
+44 
+ 
+34 
+ 
+55 
+ 50 
+ 
+38 
+ 66 
+Credit Portfolio VaR(b)
+ 
+14 
+ 
+11 
+ 18 
+ 
+11 
+ 
+8 
+ 
+17 
+ 17 
+ 
+6 
+ 31 
+(e)
+Diversification benefit to CIB VaR(a)
+ (11) 
+ NM
+ NM
+ (10) 
+NM
+NM
+ (15) 
+NM
+NM
+CIB VaR
+ 
+44 
+ 
+34 
+ 55 
+ 
+45 
+ 
+35 
+ 
+58 
+ 52 
+ 
+38 
+ 70 
+CCB VaR
+ 
+9 
+(d) 
+6 
+ 14 
+ 
+11 
+ 
+6 
+ 
+15 
+ 
+5 
+(d) 
+4 
+ 
+6 
+Corporate and other LOB VaR(c)
+ 
+13 
+ 
+11 
+ 15 
+ 
+15 
+ 
+13 
+ 
+17 
+ 10 
+ 
+9 
+ 11 
+Diversification benefit to other VaR(a)
+ 
+(7) 
+ NM
+ NM
+ 
+(8) 
+NM
+NM
+ 
+(3) 
+NM
+NM
+Other VaR
+ 
+15 
+ 
+13 
+ 19 
+ 
+18 
+ 
+14 
+ 
+22 
+ 12 
+ 
+10 
+ 14 
+Diversification benefit to CIB and other VaR(a)
+ (12) 
+ NM
+ NM
+ (16) 
+NM
+NM
+ (10) 
+NM
+NM
+Total VaR
+$ 47 
+$ 36 
+$ 56 
+$ 47 
+$ 37 
+$ 57 
+$ 54 
+$ 41 
+$ 71 
+(a) Diversification benefit represents the difference between the portfolio VaR and the sum of its individual components. This reflects the non-additive nature 
+of VaR due to imperfect correlation across LOBs, Corporate, and risk types. For maximum and minimum VaR, diversification benefit is not meaningful as 
+the maximum and minimum VaR for each portfolio may have occurred on different trading days than the components.
+(b) Credit portfolio VaR includes the derivative CVA, hedges of the CVA and hedges of the retained loan portfolio, which are reported in principal transactions 
+revenue. This VaR does not include the retained loan portfolio, which is not reported at fair value. In the first quarter of 2022, in line with the Firm's 
+internal model governance, the credit risk component of CVA related to certain counterparties was removed from Credit Portfolio VaR due to the widening 
+of the credit spreads for those counterparties to elevated levels. The related hedges were also removed to maintain consistency. This exposure is now 
+reflected in other sensitivity-based measures.
+(c) Corporate and other LOB VaR includes a legacy private equity position in Corporate which is publicly traded.
+(d) The increase in CCB VaR is driven by interest rate volatility impacting Home Lending warehouse loans, MSR, and related hedges.
+(e) For the period ended June 30, 2022, maximum Credit Portfolio VaR remained elevated due to the effects of nickel price increases and the associated 
+volatility in the nickel market which occurred during the first quarter of 2022.
+Quarter over quarter results
+Average total VaR was flat for the three months ended 
+June 30, 2023, when compared with March 31, 2023, 
+reflecting increases in fixed income offset by market volatility 
+relating to commodities rolling out of the one-year historical 
+look-back period. 
+Year over year results
+Average total VaR decreased by $7 million for the three 
+months ended June 30, 2023, compared with the same 
+period in the prior year predominantly driven by risk 
+reductions impacting Credit Portfolio VaR as well as fixed 
+income.
+The following graph presents daily Risk Management VaR for the five trailing quarters.
+Daily Risk Management VaR
+$ millions
+0
+50
+100
+Second Quarter
+2022
+Third Quarter
+2022
+Fourth Quarter
+2022
+First Quarter
+2023
+Second Quarter
+2023
+85
+
+Question: In terms of Value at Risk, was JPM's exposure to risk lower in Q2 of fiscal year 2023 relative to the corresponding quarter a year earlier?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-05915-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: ConsolidatedStatementsofOperations
+
+FortheYearsEndedDecember31,
+In millions, except per share amounts
+2018
+
+2017
+
+2016
+Revenues:
+
+ 
+ 
+Products
+$
+183,910 $
+180,063 $
+173,377
+Premiums
+8,184 
+3,558 
+3,069
+Services
+1,825 
+1,144 
+1,080
+Netinvestmentincome
+660 
+21 
+20
+Totalrevenues
+194,579 
+184,786 
+177,546
+Operatingcosts:
+
+ 
+ 
+Costofproductssold
+156,447 
+153,448 
+146,533
+Benefitcosts
+6,594 
+2,810 
+2,179
+Goodwillimpairments
+6,149 
+181 
+
+Operatingexpenses
+21,368 
+18,809 
+18,448
+Totaloperatingcosts
+190,558 
+175,248 
+167,160
+Operatingincome
+4,021 
+9,538 
+10,386
+Interestexpense
+2,619 
+1,062 
+1,078
+Lossonearlyextinguishmentofdebt
+ 
+ 
+643
+Otherexpense(income)
+(4) 
+208 
+28
+Incomebeforeincometaxprovision
+1,406 
+8,268 
+8,637
+Incometaxprovision
+2,002 
+1,637 
+3,317
+Income(loss)fromcontinuingoperations
+(596) 
+6,631 
+5,320
+Lossfromdiscontinuedoperations,netoftax
+ 
+(8) 
+(1)
+Netincome(loss)
+(596) 
+6,623 
+5,319
+Net(income)lossattributabletononcontrollinginterests
+2 
+(1) 
+(2)
+Netincome(loss)attributabletoCVSHealth
+$
+(594) $
+6,622 $
+5,317
+
+
+ 
+ 
+Basicearnings(loss)pershare:
+
+ 
+ 
+Income(loss)fromcontinuingoperationsattributabletoCVSHealth
+$
+(0.57) $
+6.48 $
+4.93
+LossfromdiscontinuedoperationsattributabletoCVSHealth
+$
+ $
+(0.01) $
+
+Netincome(loss)attributabletoCVSHealth
+$
+(0.57) $
+6.47 $
+4.93
+Weightedaveragebasicsharesoutstanding
+1,044 
+1,020 
+1,073
+Dilutedearnings(loss)pershare:
+
+ 
+ 
+Income(loss)fromcontinuingoperationsattributabletoCVSHealth
+$
+(0.57) $
+6.45 $
+4.91
+LossfromdiscontinuedoperationsattributabletoCVSHealth
+$
+ $
+(0.01) $
+
+Netincome(loss)attributabletoCVSHealth
+$
+(0.57) $
+6.44 $
+4.90
+Weightedaveragedilutedsharesoutstanding
+1,044 
+1,024 
+1,079
+Dividendsdeclaredpershare
+$
+2.00 $
+2.00 $
+1.70
+
+
+ 
+ 
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+Page38
+
+
+---
+
+ConsolidatedBalanceSheets
+
+AtDecember31,
+In millions, except per share amounts
+2018
+
+2017
+Assets:
+
+ 
+Cashandcashequivalents
+$
+4,059 $
+1,696
+Investments
+2,522 
+111
+Accountsreceivable,net
+17,631 
+13,181
+Inventories
+16,450 
+15,296
+Othercurrentassets
+4,581 
+945
+Totalcurrentassets
+45,243 
+31,229
+Long-terminvestments
+15,732 
+112
+Propertyandequipment,net
+11,349 
+10,292
+Goodwill
+78,678 
+38,451
+Intangibleassets,net
+36,524 
+13,630
+Separateaccountsassets
+3,884 
+
+Otherassets
+5,046 
+1,417
+Totalassets
+$
+196,456 $
+95,131
+
+
+ 
+Liabilities:
+
+ 
+Accountspayable
+$
+8,925 $
+8,863
+Pharmacyclaimsanddiscountspayable
+12,302 
+10,355
+Healthcarecostspayable
+5,210 
+5
+Policyholdersfunds
+2,939 
+
+Accruedexpenses
+10,711 
+6,581
+Otherinsuranceliabilities
+1,937 
+23
+Short-termdebt
+720 
+1,276
+Currentportionoflong-termdebt
+1,265 
+3,545
+Totalcurrentliabilities
+44,009 
+30,648
+Long-termdebt
+71,444 
+22,181
+Deferredincometaxes
+7,677 
+2,996
+Separateaccountsliabilities
+3,884 
+
+Otherlong-terminsuranceliabilities
+8,119 
+334
+Otherlong-termliabilities
+2,780 
+1,277
+Totalliabilities
+137,913 
+57,436
+Commitmentsandcontingencies(Note16)
+
+
+
+ 
+Shareholdersequity:
+
+
+
+CVSHealthshareholdersequity:
+
+ 
+Preferredstock,parvalue$0.01:0.1sharesauthorized;noneissuedoroutstanding
+ 
+
+Commonstock,parvalue$0.01:3,200sharesauthorized;1,720sharesissuedand1,295sharesoutstandingat
+December31,2018and1,712sharesissuedand1,014sharesoutstandingatDecember31,2017andcapital
+surplus
+45,440 
+32,096
+Treasurystock,atcost:425sharesatDecember31,2018and698sharesatDecember31,2017
+(28,228) 
+(37,796)
+Retainedearnings
+40,911 
+43,556
+Accumulatedothercomprehensiveincome(loss)
+102 
+(165)
+TotalCVSHealthshareholdersequity
+58,225 
+37,691
+Noncontrollinginterests
+318 
+4
+Totalshareholdersequity
+58,543 
+37,695
+Totalliabilitiesandshareholdersequity
+$
+196,456 $
+95,131
+
+
+ 
+Seeaccompanyingnotestoconsolidatedfinancialstatements.
+Page40
+
+Question: Using the P&L and balance sheet line items, calculate CVS Health's fixed asset turnover ratio for FY2018, where fixed asset turnover ratio is defined as FY2018 revenue divided by average PP&E across FY2017 and FY2018, and express the result rounded to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-01244-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+PART II
+Item 5. Market for Registrants Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+Market Information
+CVS Health Corporations common stock is listed on the New York Stock Exchange under the symbol CVS.
+Dividends
+During 2022, 2021 and 2020, the quarterly cash dividend was $0.55, $0.50 and $0.50 per share, respectively. In December 2022, the Board authorized a 10%
+increase in the quarterly cash dividend to $0.605 per share effective in 2023. CVS Health Corporation has paid cash dividends every quarter since becoming a
+public company. Future dividends will depend on the Companys earnings, capital requirements, financial condition and other factors considered relevant by
+the Board.
+See Note 12 Shareholders Equity included in Item 8 of this 10-K for information regarding CVS Health Corporations dividends.
+Holders of Common Stock
+As of February 1, 2023, there were 24,142 registered holders of the registrants common stock according to the records maintained by the registrants transfer
+agent.
+Issuer Purchases of Equity Securities
+The following share repurchase programs have been authorized by the Board:
+In billions
+Authorization Date
+Authorized
+Remaining as of
+December 31, 2022
+November 17, 2022 (2022 Repurchase Program)
+$
+10.0 
+$
+10.0 
+December 9, 2021 (2021 Repurchase Program)
+10.0 
+6.5 
+Each of the share Repurchase Programs was effective immediately and permit the Company to effect repurchases from time to time through a combination of
+open market repurchases, privately negotiated transactions, accelerated share repurchase (ASR) transactions, and/or other derivative transactions. Both the
+2022 and 2021 Repurchase Programs can be modified or terminated by the Board at any time.
+During the year ended December 31, 2022, the Company repurchased an aggregate of 34.1 million shares of common stock for approximately $3.5 billion
+pursuant to the 2021 Repurchase Program, including share repurchases under the $1.5 billion fixed dollar ASR transaction described below. During the years
+ended December 31, 2021 and 2020, the Company did not repurchase any shares of common stock.
+Pursuant to the authorization under the 2021 Repurchase Program, the Company entered into a $2.0 billion fixed dollar ASR with Citibank, N.A. (Citibank).
+Upon payment of the $2.0 billion purchase price on January 4, 2023, the Company received a number of shares of CVS Health Corporations common stock
+equal to 80% of the $2.0 billion notional amount of the ASR or approximately 17.4 million shares at a price of $92.19 per share, which were placed into
+treasury stock in January 2023. At the conclusion of the ASR, the Company may receive additional shares representing the remaining 20% of the $2.0 billion
+notional amount. The ultimate number of shares the Company may receive will depend on the daily volume-weighted average price of the Companys stock
+over an averaging period, less a discount. It is also possible, depending on such weighted average price, that the Company will have an obligation to Citibank
+which, at the Companys option, could be settled in additional cash or by issuing shares. Under the terms of the ASR, the maximum number of shares that
+could be delivered to the Company is 43.4 million.
+Pursuant to the authorization under the 2021 Repurchase Program, the Company entered into a $1.5 billion fixed dollar ASR with Barclays Bank PLC. Upon
+payment of the $1.5 billion purchase price on January 4, 2022, the Company received a number of shares of CVS Health Corporations common stock equal to
+80% of the $1.5 billion notional amount of the ASR or approximately 11.6 million shares at a price of $103.34 per share, which were placed into treasury stock
+in January 2022. The
+66
+
+Question: For Q2 of fiscal year 2022, did CVS Health distribute dividends to its common shareholders?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-01148-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: PART I
+Item 1. - Business
+The Company
+ Amcor plc (ARBN 630 385 278) is a public limited company incorporated under the Laws of the Bailiwick of Jersey. Our history dates back
+more than 150 years, with origins in both Australia and the USA. Today, we are a global leader in developing and producing responsible
+packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products. Our innovation excellence and global
+packaging expertise enables us to solve packaging challenges around the world every day, producing packaging that is more functional,
+appealing, and cost effective for our customers and their consumers and importantly, more sustainable for the environment.
+Sustainability
+ Sustainability is central to our business and one of our most exciting opportunities for growth. Working daily to embed sustainability deeper
+into everything we do, Amcor has been a leader in the industry in promoting sustainability. We aspire to improve the quality of lives, protect
+ecosystems, and preserve natural resources for future generations by offering a unique range of responsible packaging solutions, leveraging our
+global scale, reach, and expertise to meet our customers growing sustainability expectations. In January 2018, we became the worlds first
+packaging company to pledge that all our packaging would be designed to be recycled, compostable, or reusable by 2025 and also committed to
+increasing the amount of recycled content we use. We are delivering against these commitments and continue to lead in the development of a
+responsible packaging value chain through our innovations and partnerships. We have identified a clear path to meeting our sustainability
+ambitions and those of our customers by focusing on the three elements of responsible packaging product innovation, consumer participation,
+and infrastructure development.
+Differentiated Solutions
+ Our product portfolio is diverse and dynamic due to our constant innovation and close partnerships with our customers. Behind every one of
+our products stands a unique combination of technical know-how, business experience, and expertise. We work closely with our customers to
+identify feasible, high-performance, responsible packaging solutions based on their unique needs. Where solutions do not currently exist, we
+work to innovate new ones. We invest approximately $100 million every year in our industry-leading research and development capabilities,
+bringing together the best in packaging design, science, manufacturing, and people.
+Expertise across Packaging Materials
+ We believe that we are uniquely positioned to offer a variety of packaging solutions with a wide, differentiated portfolio of products. Our
+packaging expertise covers all main packaging materials including paper, metal, plastic, recycled, and bio-based materials and the sustainable use
+of recyclable plastics. Our expertise and track record translate across many innovative solutions that customers can explore with ease and
+convenience to meet their growing packaging needs, while improving environmental impact.
+Business Strategy
+Strategy
+ Our business strategy consists of three components: a focused portfolio, differentiated capabilities, and our aspiration to be THE leading global
+packaging company. To fulfill our aspiration, we are determined to win for our customers, employees, shareholders, and the environment.
+Focused portfolio
+ Our portfolio of businesses share certain important characteristics:
+
+A focus on primary packaging for fast-moving consumer goods,
+
+good industry structure,
+
+attractive relative growth, and
+
+multiple paths for us to win through our leadership position, scale, and ability to differentiate our product offering through innovation.
+5
+
+Question: In which industry does AMCOR mainly conduct its business?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-00566-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Note 7. Debt 
+Outstanding long-term debt obligations as of December 31, 2022 and 2021 are as follows: 
+(dollars in millions) 
+At December 31,
+Maturities 
+Interest 
+Rates %
+2022
+2021 
+Verizon Communications
+< 5 Years
+0.75 - 5.82
+$ 
+23,929 
+$ 
+18,406 
+5-10 Years
+1.50 - 7.88
+42,637 
+43,225 
+> 10 Years
+1.13 - 8.95
+60,134 
+73,520 
+< 5 Years
+Floating
+(1) 
+2,992 
+4,086 
+5-10 Years
+Floating
+(1) 
+3,029 
+824 
+Alltel Corporation
+5-10 Years
+6.80 - 7.88
+94 
+38 
+> 10 Years
+N/A
+N/A 
+58 
+Operating telephone company subsidiariesdebentures
+< 5 Years
+N/A
+N/A 
+141 
+5-10 Years
+6.00 - 8.75
+475 
+375 
+> 10 Years
+5.13 - 7.38
+139 
+250 
+Other subsidiariesasset-backed debt
+< 5 Years
+0.41 - 5.72
+9,767 
+9,620 
+< 5 Years
+Floating
+(2) 
+10,271 
+4,610 
+Finance lease obligations (average rate of 2.5% and 2.2% in 
+2022 and 2021, respectively)
+1,732 
+1,325 
+Unamortized discount, net of premium
+(4,039) 
+(4,922) 
+Unamortized debt issuance costs
+(671) 
+(688) 
+Total long-term debt, including current maturities
+150,489 
+150,868 
+Less long-term debt maturing within one year
+9,813 
+7,443 
+Total long-term debt
+$ 
+140,676 
+$ 
+143,425 
+Long-term debt maturing within one year
+$ 
+9,813 
+$ 
+7,443 
+Add commercial paper
+150 
+ 
+Debt maturing within one year
+9,963 
+7,443 
+Add long-term debt
+140,676 
+143,425 
+Total debt
+$ 
+150,639 
+$ 
+150,868 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) The debt obligations bore interest at a floating rate based on the Compounded Secured Overnight Financing Rate (SOFR) for 
+the interest period or the London Interbank Offered Rate (LIBOR) plus an applicable interest margin per annum, as applicable. 
+Compounded SOFR is calculated using the SOFR Index published by the Federal Reserve Bank of New York in accordance 
+with the formula set forth in the terms of the notes. The Compounded SOFR for the interest period ending in December 2022 
+was 3.450%. The one-month and three-month LIBOR at December 31, 2022 was 4.392% and 4.767%, respectively. 
+(2) The debt obligations bore interest at floating rates, including floating rates associated with SOFR for the interest period, or 
+LIBOR plus an applicable interest margin per annum, as applicable. Floating rates associated with SOFR for the interest 
+period ending in December 2022 ranged from 3.807% to 4.372%. 
+ 
+Maturities of long-term debt (secured and unsecured) outstanding, including current maturities, excluding unamortized debt 
+issuance costs, at December 31, 2022 are as follows: 
+Years
+(dollars in millions) 
+2023
+$ 
+9,279 
+2024
+16,252 
+2025
+8,706 
+2026
+8,304 
+2027
+6,962 
+Thereafter
+99,925 
+ 
+ 
+ 
+ 
+ 
+During 2022, we received $17.8 billion of proceeds from long-term borrowings, which included $10.7 billion of proceeds from 
+asset-backed debt transactions. The net proceeds were primarily used for general corporate purposes including the repayment 
+of debt and the funding of certain renewable energy projects. We used $13.6 billion of cash to repay, redeem and repurchase 
+long-term borrowings and finance lease obligations, including $4.9 billion to prepay and repay asset-backed, long-term 
+borrowings. The net proceeds of approximately $1.0 billion from the green bond issued in 2022 are expected to be used to fund 
+certain renewable energy projects. 
+During 2021, we received $41.4 billion of proceeds from long-term borrowings, which included $8.4 billion of proceeds from 
+asset-backed debt transactions. The net proceeds were primarily used to finance the purchase of wireless licenses won in 
+connection with the FCC's auction for C-Band wireless spectrum, Auction 107, and fund certain renewable energy projects. We 
+ 77 
+ 
+ Verizon 2022 Annual Report on Form 10-K
+
+Question: Did Verizon's total debt reported on the balance sheet rise from fiscal year 2021 to fiscal year 2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-00566-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Note 7. Debt 
+Outstanding long-term debt obligations as of December 31, 2022 and 2021 are as follows: 
+(dollars in millions) 
+At December 31,
+Maturities 
+Interest 
+Rates %
+2022
+2021 
+Verizon Communications
+< 5 Years
+0.75 - 5.82
+$ 
+23,929 
+$ 
+18,406 
+5-10 Years
+1.50 - 7.88
+42,637 
+43,225 
+> 10 Years
+1.13 - 8.95
+60,134 
+73,520 
+< 5 Years
+Floating
+(1) 
+2,992 
+4,086 
+5-10 Years
+Floating
+(1) 
+3,029 
+824 
+Alltel Corporation
+5-10 Years
+6.80 - 7.88
+94 
+38 
+> 10 Years
+N/A
+N/A 
+58 
+Operating telephone company subsidiariesdebentures
+< 5 Years
+N/A
+N/A 
+141 
+5-10 Years
+6.00 - 8.75
+475 
+375 
+> 10 Years
+5.13 - 7.38
+139 
+250 
+Other subsidiariesasset-backed debt
+< 5 Years
+0.41 - 5.72
+9,767 
+9,620 
+< 5 Years
+Floating
+(2) 
+10,271 
+4,610 
+Finance lease obligations (average rate of 2.5% and 2.2% in 
+2022 and 2021, respectively)
+1,732 
+1,325 
+Unamortized discount, net of premium
+(4,039) 
+(4,922) 
+Unamortized debt issuance costs
+(671) 
+(688) 
+Total long-term debt, including current maturities
+150,489 
+150,868 
+Less long-term debt maturing within one year
+9,813 
+7,443 
+Total long-term debt
+$ 
+140,676 
+$ 
+143,425 
+Long-term debt maturing within one year
+$ 
+9,813 
+$ 
+7,443 
+Add commercial paper
+150 
+ 
+Debt maturing within one year
+9,963 
+7,443 
+Add long-term debt
+140,676 
+143,425 
+Total debt
+$ 
+150,639 
+$ 
+150,868 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) The debt obligations bore interest at a floating rate based on the Compounded Secured Overnight Financing Rate (SOFR) for 
+the interest period or the London Interbank Offered Rate (LIBOR) plus an applicable interest margin per annum, as applicable. 
+Compounded SOFR is calculated using the SOFR Index published by the Federal Reserve Bank of New York in accordance 
+with the formula set forth in the terms of the notes. The Compounded SOFR for the interest period ending in December 2022 
+was 3.450%. The one-month and three-month LIBOR at December 31, 2022 was 4.392% and 4.767%, respectively. 
+(2) The debt obligations bore interest at floating rates, including floating rates associated with SOFR for the interest period, or 
+LIBOR plus an applicable interest margin per annum, as applicable. Floating rates associated with SOFR for the interest 
+period ending in December 2022 ranged from 3.807% to 4.372%. 
+ 
+Maturities of long-term debt (secured and unsecured) outstanding, including current maturities, excluding unamortized debt 
+issuance costs, at December 31, 2022 are as follows: 
+Years
+(dollars in millions) 
+2023
+$ 
+9,279 
+2024
+16,252 
+2025
+8,706 
+2026
+8,304 
+2027
+6,962 
+Thereafter
+99,925 
+ 
+ 
+ 
+ 
+ 
+During 2022, we received $17.8 billion of proceeds from long-term borrowings, which included $10.7 billion of proceeds from 
+asset-backed debt transactions. The net proceeds were primarily used for general corporate purposes including the repayment 
+of debt and the funding of certain renewable energy projects. We used $13.6 billion of cash to repay, redeem and repurchase 
+long-term borrowings and finance lease obligations, including $4.9 billion to prepay and repay asset-backed, long-term 
+borrowings. The net proceeds of approximately $1.0 billion from the green bond issued in 2022 are expected to be used to fund 
+certain renewable energy projects. 
+During 2021, we received $41.4 billion of proceeds from long-term borrowings, which included $8.4 billion of proceeds from 
+asset-backed debt transactions. The net proceeds were primarily used to finance the purchase of wireless licenses won in 
+connection with the FCC's auction for C-Band wireless spectrum, Auction 107, and fund certain renewable energy projects. We 
+ 77 
+ 
+ Verizon 2022 Annual Report on Form 10-K
+
+Question: Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-03620-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Consolidated Statement of Income
+PepsiCo, Inc. and Subsidiaries
+Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020
+(in millions except per share amounts)
+2022
+2021
+2020
+Net Revenue
+$
+86,392 $
+79,474 $
+70,372 
+Cost of sales
+40,576 
+37,075 
+31,797 
+Gross profit
+45,816 
+42,399 
+38,575 
+Selling, general and administrative expenses
+34,459 
+31,237 
+28,453 
+Gain associated with the Juice Transaction (see Note 13)
+(3,321)
+ 
+ 
+Impairment of intangible assets (see Notes 1 and 4)
+3,166 
+ 
+42 
+Operating Profit
+11,512 
+11,162 
+10,080 
+Other pension and retiree medical benefits income
+132 
+522 
+117 
+Net interest expense and other
+(939)
+(1,863)
+(1,128)
+Income before income taxes
+10,705 
+9,821 
+9,069 
+Provision for income taxes
+1,727 
+2,142 
+1,894 
+Net income
+8,978 
+7,679 
+7,175 
+Less: Net income attributable to noncontrolling interests
+68 
+61 
+55 
+Net Income Attributable to PepsiCo
+$
+8,910 $
+7,618 $
+7,120 
+Net Income Attributable to PepsiCo per Common Share
+Basic
+$
+6.45 $
+5.51 $
+5.14 
+Diluted
+$
+6.42 $
+5.49 $
+5.12 
+Weighted-average common shares outstanding
+Basic
+1,380 
+1,382 
+1,385 
+Diluted
+1,387 
+1,389 
+1,392 
+See accompanying notes to the consolidated financial statements.
+60
+
+
+---
+
+Table of Contents
+Consolidated Statement of Cash Flows
+PepsiCo, Inc. and Subsidiaries
+Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020
+(in millions)
+2022
+2021
+2020
+Operating Activities
+Net income
+$
+8,978 $
+7,679 $
+7,175 
+Depreciation and amortization
+2,763 
+2,710 
+2,548 
+Gain associated with the Juice Transaction
+(3,321)
+ 
+ 
+Impairment and other charges
+3,618 
+ 
+ 
+Operating lease right-of-use asset amortization
+517 
+505 
+478 
+Share-based compensation expense
+343 
+301 
+264 
+Restructuring and impairment charges
+411 
+247 
+289 
+Cash payments for restructuring charges
+(224)
+(256)
+(255)
+Acquisition and divestiture-related charges
+80 
+(4)
+255 
+Cash payments for acquisition and divestiture-related charges
+(46)
+(176)
+(131)
+Pension and retiree medical plan expenses
+419 
+123 
+408 
+Pension and retiree medical plan contributions
+(384)
+(785)
+(562)
+Deferred income taxes and other tax charges and credits
+(873)
+298 
+361 
+Tax expense related to the TCJ Act
+86 
+190 
+ 
+Tax payments related to the TCJ Act
+(309)
+(309)
+(78)
+Change in assets and liabilities:
+Accounts and notes receivable
+(1,763)
+(651)
+(420)
+Inventories
+(1,142)
+(582)
+(516)
+Prepaid expenses and other current assets
+118 
+159 
+26 
+Accounts payable and other current liabilities
+1,842 
+1,762 
+766 
+Income taxes payable
+57 
+30 
+(159)
+Other, net
+(359)
+375 
+164 
+Net Cash Provided by Operating Activities
+10,811 
+11,616 
+10,613 
+Investing Activities
+Capital spending
+(5,207)
+(4,625)
+(4,240)
+Sales of property, plant and equipment
+251 
+166 
+55 
+Acquisitions, net of cash acquired, investments in noncontrolled affiliates and purchases of
+intangible and other assets
+(873)
+(61)
+(6,372)
+Proceeds associated with the Juice Transaction
+3,456 
+ 
+ 
+Other divestitures, sales of investments in noncontrolled affiliates and other assets
+49 
+169 
+6 
+Short-term investments, by original maturity:
+More than three months - purchases
+(291)
+ 
+(1,135)
+More than three months - maturities
+150 
+1,135 
+ 
+Three months or less, net
+24 
+(58)
+27 
+Other investing, net
+11 
+5 
+40 
+Net Cash Used for Investing Activities
+(2,430)
+(3,269)
+(11,619)
+(Continued on following page)
+62
+
+Question: What is the FY2022 unadjusted EBITDA less capex for PepsiCo? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization [from cash flow statement]. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the statement of cash flows and the income statement.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

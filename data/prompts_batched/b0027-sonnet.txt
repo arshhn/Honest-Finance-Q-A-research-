@@ -1,0 +1,2411 @@
+You are sitting an exam made of 6 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-01009-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Forward-Looking Statements
+This Annual Report on Form 10-K contains statements reflecting our views about our future performance that constitute
+forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 (Reform Act).
+Statements that constitute forward-looking statements within the meaning of the Reform Act are generally identified through the
+inclusion of words such as aim, anticipate, believe, drive, estimate, expect, expressed confidence, forecast,
+future, goal, guidance, intend, may, objective, outlook, plan, position, potential, project, seek,
+should, strategy, target, will or similar statements or variations of such words and other similar expressions. All
+statements addressing our future operating performance, and statements addressing events and developments that we expect or
+anticipate will occur in the future, are forward-looking statements within the meaning of the Reform Act. These forward-looking
+statements are based on currently available information, operating plans and projections about future events and trends. They
+inherently involve risks and uncertainties that could cause actual results to differ materially from those predicted in any such
+forward-looking statement. These risks and uncertainties include, but are not limited to, those described in Item 1A. Risk
+Factors and Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations Our Business
+ Our Business Risks. Investors are cautioned not to place undue reliance on any such forward-looking statements, which speak
+only as of the date they are made. We undertake no obligation to update any forward-looking statement, whether as a result of
+new information, future events or otherwise. The discussion of risks in this report is by no means all-inclusive but is designed to
+highlight what we believe are important factors to consider when evaluating our future performance.
+PART I
+Item 1. Business.
+When used in this report, the terms we, us, our, PepsiCo and the Company mean PepsiCo, Inc. and its consolidated
+subsidiaries, collectively. Certain terms used in this Annual Report on Form 10-K are defined in the Glossary included in Item 7.
+of this report.
+Company Overview
+We were incorporated in Delaware in 1919 and reincorporated in North Carolina in 1986. We are a leading global beverage and
+convenient food company with a complementary portfolio of brands, including Lays, Doritos, Cheetos, Gatorade, Pepsi-Cola,
+Mountain Dew, Quaker and SodaStream. Through our operations, authorized bottlers, contract manufacturers and other third
+parties, we make, market, distribute and sell a wide variety of beverages and convenient foods, serving customers and consumers
+in more than 200 countries and territories.
+Our Operations
+We are organized into seven reportable segments (also referred to as divisions), as follows:
+1) Frito-Lay North America (FLNA), which includes our branded convenient food businesses in the United States and
+Canada;
+2) Quaker Foods North America (QFNA), which includes our branded convenient food businesses, such as cereal, rice, pasta
+and other branded food, in the United States and Canada;
+3) PepsiCo Beverages North America (PBNA), which includes our beverage businesses in the United States and Canada;
+4) Latin America (LatAm), which includes all of our beverage and convenient food businesses in Latin America;
+5) Europe, which includes all of our beverage and convenient food businesses in Europe;
+2
+
+
+---
+
+Table of Contents
+6) Africa, Middle East and South Asia (AMESA), which includes all of our beverage and convenient food businesses in
+Africa, the Middle East and South Asia; and
+7) Asia Pacific, Australia and New Zealand and China Region (APAC), which includes all of our beverage and convenient
+food businesses in Asia Pacific, Australia and New Zealand, and China region.
+Frito-Lay North America
+Either independently or in conjunction with third parties, FLNA makes, markets, distributes and sells branded convenient
+foods. These foods include branded dips, Cheetos cheese-flavored snacks, Doritos tortilla chips, Fritos corn chips, Lays potato
+chips, Ruffles potato chips and Tostitos tortilla chips. FLNAs branded products are sold to independent distributors and retailers.
+In addition, FLNAs joint venture with Strauss Group makes, markets, distributes and sells Sabra refrigerated dips and spreads.
+Quaker Foods North America
+Either independently or in conjunction with third parties, QFNA makes, markets, distributes and sells branded convenient foods,
+which include cereals, rice, pasta and other branded products. QFNAs products include Capn Crunch cereal, Life cereal, Pearl
+Milling Company syrups and mixes, Quaker Chewy granola bars, Quaker grits, Quaker oatmeal, Quaker rice cakes, Quaker
+Simply Granola and Rice-A-Roni side dishes. QFNAs branded products are sold to independent distributors and retailers.
+PepsiCo Beverages North America
+Either independently or in conjunction with third parties, PBNA makes, markets and sells beverage concentrates, fountain syrups
+and finished goods under various beverage brands including Aquafina, Diet Mountain Dew, Diet Pepsi, Gatorade, Gatorade Zero,
+Mountain Dew, Pepsi and Propel. PBNA operates its own bottling plants and distribution facilities and sells branded finished
+goods directly to independent distributors and retailers. PBNA also sells concentrate and finished goods for our brands to
+authorized and independent bottlers, who in turn sell our branded finished goods to independent distributors and retailers in
+certain markets. PBNA also, either independently or in conjunction with third parties, makes, markets, distributes and sells ready-
+to-drink tea and coffee products through joint ventures with Unilever (under the Lipton brand name) and Starbucks, respectively.
+Further, PBNA manufactures and distributes certain brands licensed from Keurig Dr Pepper Inc., including Crush, Dr Pepper and
+Schweppes, and certain juice brands licensed from Dole Food Company, Inc. and Ocean Spray Cranberries, Inc. In 2022, PBNA
+began to distribute Hard MTN Dew, an alcoholic beverage manufactured and owned by the Boston Beer Company. In the first
+quarter of 2022, we sold our Tropicana, Naked and other select juice brands to PAI Partners, while retaining a 39%
+noncontrolling interest in a newly formed joint venture, Tropicana Brands Group (TBG), operating across North America and
+Europe (Juice Transaction). In the United States, PepsiCo acts as the exclusive distributor for TBGs portfolio of brands for
+small-format and foodservice customers with chilled direct-store-delivery (DSD). See Note 13 to our consolidated financial
+statements for further information.
+Latin America
+Either independently or in conjunction with third parties, LatAm makes, markets, distributes and sells a number of convenient
+food brands including Cheetos, Doritos, Emperador, Lays, Marias Gamesa, Ruffles, Sabritas, Saladitas and Tostitos, as well as
+many Quaker-branded convenient foods. LatAm also, either independently or in conjunction with third parties, makes, markets,
+distributes and sells beverage concentrates, fountain syrups and finished goods under various beverage brands including 7UP,
+Diet 7UP, Gatorade, H2oh!, Manzanita Sol, Mirinda, Pepsi, Pepsi Black, San Carlos and Toddy. These branded products are sold
+to authorized and independent bottlers, independent distributors and retailers. LatAm
+3
+
+Question: As of fiscal year 2022, in which geographic regions does Pepsico mainly conduct its business?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-00215-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Consolidated Balance Sheets 
+Verizon Communications Inc. and Subsidiaries 
+(dollars in millions, except per share amounts) 
+At December 31,
+2022
+2021 
+Assets 
+Current assets 
+Cash and cash equivalents
+$ 
+2,605 
+$ 
+2,921 
+Accounts receivable
+ 
+25,332 
+ 
+24,742 
+Less Allowance for credit losses
+ 
+826 
+ 
+896 
+Accounts receivable, net 
+ 
+24,506 
+ 
+23,846 
+Inventories
+ 
+2,388 
+ 
+3,055 
+Prepaid expenses and other
+ 
+8,358 
+ 
+6,906 
+Total current assets
+ 
+37,857 
+ 
+36,728 
+Property, plant and equipment
+ 
+307,689 
+ 
+289,897 
+Less Accumulated depreciation
+ 
+200,255 
+ 
+190,201 
+Property, plant and equipment, net
+ 
+107,434 
+ 
+99,696 
+Investments in unconsolidated businesses
+ 
+1,071 
+ 
+1,061 
+Wireless licenses
+ 
+149,796 
+ 
+147,619 
+Goodwill
+ 
+28,671 
+ 
+28,603 
+Other intangible assets, net
+ 
+11,461 
+ 
+11,677 
+Operating lease right-of-use assets
+ 
+26,130 
+ 
+27,883 
+Other assets
+ 
+17,260 
+ 
+13,329 
+Total assets
+$ 
+379,680 
+$ 
+366,596 
+Liabilities and Equity 
+Current liabilities 
+Debt maturing within one year
+$ 
+9,963 
+$ 
+7,443 
+Accounts payable and accrued liabilities
+ 
+23,977 
+ 
+24,833 
+Current operating lease liabilities
+ 
+4,134 
+ 
+3,859 
+Other current liabilities
+ 
+12,097 
+ 
+11,025 
+Total current liabilities
+ 
+ 
+ 
+ 
+ 
+ 
+50,171 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+47,160 
+Long-term debt
+140,676 
+143,425 
+Employee benefit obligations
+12,974 
+15,410 
+Deferred income taxes
+43,441 
+40,685 
+Non-current operating lease liabilities
+21,558 
+23,203 
+Other liabilities
+18,397 
+13,513 
+Total long-term liabilities
+ 
+237,046 
+236,236 
+Commitments and Contingencies (Note 16) 
+Equity 
+Series preferred stock ($0.10 par value; 250,000,000 shares authorized; none issued)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common stock ($0.10 par value; 6,250,000,000 shares authorized in each period; 
+4,291,433,646 shares issued in each period)
+429 
+429 
+Additional paid in capital
+13,420 
+13,861 
+Retained earnings
+82,380 
+71,993 
+Accumulated other comprehensive loss
+(1,865) 
+(927) 
+Common stock in treasury, at cost (91,572,258 and 93,634,725 shares outstanding)
+(4,013) 
+(4,104) 
+Deferred compensation employee stock ownership plans (ESOPs) and other
+793 
+538 
+Noncontrolling interests
+1,319 
+1,410 
+Total equity
+92,463 
+83,200 
+Total liabilities and equity
+$ 
+379,680 
+$ 
+366,596 
+See Notes to Consolidated Financial Statements
+Verizon 2022 Annual Report on Form 10-K 56 
+
+
+---
+
+benefit related costs and interest and financing expenses. Corporate and other also includes the historical results of divested 
+businesses, including Verizon Media Group (Verizon Media) divested in September 2021, and other adjustments and gains and 
+losses that are not allocated in assessing segment performance due to their nature. Although such transactions are excluded 
+from the business segment results, they are included in reported consolidated earnings. Gains and losses from these 
+transactions that are not individually significant are included in segment results as these items are included in the chief operating 
+decision makers assessment of segment performance. See "Consolidated Results of Operations" for additional information 
+regarding Corporate and other results. 
+Capital Expenditures and Investments 
+We continue to invest in our wireless networks, high-speed fiber and other advanced technologies to position ourselves at the 
+center of growth trends for the future. During the year ended December 31, 2022, these investments included $23.1 billion for 
+capital expenditures, inclusive of approximately $6.2 billion in C-Band related capital expenditures. See "Cash Flows Used in 
+Investing Activities" and "Liquidity and Capital Resources" for additional information. We believe that our investments aimed at 
+expanding our portfolio of products and services will provide our customers with an efficient, reliable infrastructure for competing 
+in the information economy. 
+Global Network and Technology 
+We are focusing our capital spending on adding capacity and density to our 4G Long-Term Evolution (LTE) network, while also 
+building our next generation 5G network. We are densifying our networks by utilizing small cell technology, in-building solutions 
+and distributed antenna systems. Network densification enables us to add capacity to address increasing mobile video 
+consumption and the growing demand for IoT products and services on our 4G LTE and 5G networks. Over the past several 
+years, we have been leading the development of 5G wireless technology industry standards and the ecosystems for fixed and 
+mobile 5G wireless services. 5G technology enables higher throughput and lower latency than the 4G LTE technology and allows 
+our networks to handle more traffic as the number of internet-connected devices grows. In January 2022, we began deploying C-
+Band spectrum, which has been built out to cover approximately 189 million POPs in the U.S. as of December 31, 2022. We 
+expect to continue deploying C-Band spectrum across the continental U.S. as more and more of the spectrum becomes 
+available for our use. We use low and mid-band spectrum and dynamic spectrum sharing (DSS) technology, to allow 5G service 
+to run simultaneously with 4G LTE on multiple spectrum bands. With DSS, whenever customers move outside Verizons 
+millimeter wave and C-Band coverage areas, their 5G-enabled devices will remain on 5G technology using the lower spectrum 
+bands where this network is available. This allows us to more fully and effectively utilize our current spectrum resources to serve 
+both 4G and 5G customers. 
+To compensate for the shrinking market for traditional copper-based products, we continue to build fiber-based networks 
+supporting data, video and advanced business services - areas where demand for reliable high-speed connections is growing. 
+We are transforming the architecture of our networks into our Intelligent Edge Network, providing improved efficiency and 
+virtualization, increased automation and opportunities for edge computing services that will support our fiber-based and radio 
+access network technologies. We expect that this new architecture will simplify operations by eliminating legacy network 
+elements, speed the deployment of 5G wireless technology and create new opportunities in the business market in a cost-
+efficient manner. 
+Consolidated Results of Operations 
+In this section, we discuss our overall results of operations and highlight special items that are not included in our segment 
+results. In "Segment Results of Operations," we review the performance of our two reportable segments in more detail. A detailed 
+discussion of 2020 items and year-over-year comparisons between 2021 and 2020 that are not included in this Form 10-K can 
+be found in the "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report 
+on Form 10-K for the year ended December 31, 2021. 
+Consolidated Operating Revenues 
+(dollars in millions) 
+Increase/(Decrease) 
+Years Ended December 31,
+2022
+2021 
+2022 vs. 2021 
+Consumer
+$ 103,506 
+$ 95,300 $ 
+8,206 
+ 8.6 % 
+Business
+31,072 
+31,042 
+30 
+ 0.1 
+Corporate and other
+2,510 
+7,722 
+(5,212) 
+ (67.5) 
+Eliminations
+(253)
+(451)
+198 
+ 43.9 
+Consolidated Operating Revenues
+$ 136,835 
+$ 133,613 $ 
+3,222 
+ 2.4 
+Consolidated operating revenues increased during 2022 compared to 2021, due to increases in our Consumer and Business 
+segments, partially offset by a decrease in Corporate and other. 
+ 23 
+ Verizon 2022 Annual Report on Form 10-K
+
+Question: Based on Verizon's fiscal year 2022 financial figures, would you classify its operations as capital intensive?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-01009-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Forward-Looking Statements
+This Annual Report on Form 10-K contains statements reflecting our views about our future performance that constitute
+forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 (Reform Act).
+Statements that constitute forward-looking statements within the meaning of the Reform Act are generally identified through the
+inclusion of words such as aim, anticipate, believe, drive, estimate, expect, expressed confidence, forecast,
+future, goal, guidance, intend, may, objective, outlook, plan, position, potential, project, seek,
+should, strategy, target, will or similar statements or variations of such words and other similar expressions. All
+statements addressing our future operating performance, and statements addressing events and developments that we expect or
+anticipate will occur in the future, are forward-looking statements within the meaning of the Reform Act. These forward-looking
+statements are based on currently available information, operating plans and projections about future events and trends. They
+inherently involve risks and uncertainties that could cause actual results to differ materially from those predicted in any such
+forward-looking statement. These risks and uncertainties include, but are not limited to, those described in Item 1A. Risk
+Factors and Item 7. Managements Discussion and Analysis of Financial Condition and Results of Operations Our Business
+ Our Business Risks. Investors are cautioned not to place undue reliance on any such forward-looking statements, which speak
+only as of the date they are made. We undertake no obligation to update any forward-looking statement, whether as a result of
+new information, future events or otherwise. The discussion of risks in this report is by no means all-inclusive but is designed to
+highlight what we believe are important factors to consider when evaluating our future performance.
+PART I
+Item 1. Business.
+When used in this report, the terms we, us, our, PepsiCo and the Company mean PepsiCo, Inc. and its consolidated
+subsidiaries, collectively. Certain terms used in this Annual Report on Form 10-K are defined in the Glossary included in Item 7.
+of this report.
+Company Overview
+We were incorporated in Delaware in 1919 and reincorporated in North Carolina in 1986. We are a leading global beverage and
+convenient food company with a complementary portfolio of brands, including Lays, Doritos, Cheetos, Gatorade, Pepsi-Cola,
+Mountain Dew, Quaker and SodaStream. Through our operations, authorized bottlers, contract manufacturers and other third
+parties, we make, market, distribute and sell a wide variety of beverages and convenient foods, serving customers and consumers
+in more than 200 countries and territories.
+Our Operations
+We are organized into seven reportable segments (also referred to as divisions), as follows:
+1) Frito-Lay North America (FLNA), which includes our branded convenient food businesses in the United States and
+Canada;
+2) Quaker Foods North America (QFNA), which includes our branded convenient food businesses, such as cereal, rice, pasta
+and other branded food, in the United States and Canada;
+3) PepsiCo Beverages North America (PBNA), which includes our beverage businesses in the United States and Canada;
+4) Latin America (LatAm), which includes all of our beverage and convenient food businesses in Latin America;
+5) Europe, which includes all of our beverage and convenient food businesses in Europe;
+2
+
+
+---
+
+Table of Contents
+6) Africa, Middle East and South Asia (AMESA), which includes all of our beverage and convenient food businesses in
+Africa, the Middle East and South Asia; and
+7) Asia Pacific, Australia and New Zealand and China Region (APAC), which includes all of our beverage and convenient
+food businesses in Asia Pacific, Australia and New Zealand, and China region.
+Frito-Lay North America
+Either independently or in conjunction with third parties, FLNA makes, markets, distributes and sells branded convenient
+foods. These foods include branded dips, Cheetos cheese-flavored snacks, Doritos tortilla chips, Fritos corn chips, Lays potato
+chips, Ruffles potato chips and Tostitos tortilla chips. FLNAs branded products are sold to independent distributors and retailers.
+In addition, FLNAs joint venture with Strauss Group makes, markets, distributes and sells Sabra refrigerated dips and spreads.
+Quaker Foods North America
+Either independently or in conjunction with third parties, QFNA makes, markets, distributes and sells branded convenient foods,
+which include cereals, rice, pasta and other branded products. QFNAs products include Capn Crunch cereal, Life cereal, Pearl
+Milling Company syrups and mixes, Quaker Chewy granola bars, Quaker grits, Quaker oatmeal, Quaker rice cakes, Quaker
+Simply Granola and Rice-A-Roni side dishes. QFNAs branded products are sold to independent distributors and retailers.
+PepsiCo Beverages North America
+Either independently or in conjunction with third parties, PBNA makes, markets and sells beverage concentrates, fountain syrups
+and finished goods under various beverage brands including Aquafina, Diet Mountain Dew, Diet Pepsi, Gatorade, Gatorade Zero,
+Mountain Dew, Pepsi and Propel. PBNA operates its own bottling plants and distribution facilities and sells branded finished
+goods directly to independent distributors and retailers. PBNA also sells concentrate and finished goods for our brands to
+authorized and independent bottlers, who in turn sell our branded finished goods to independent distributors and retailers in
+certain markets. PBNA also, either independently or in conjunction with third parties, makes, markets, distributes and sells ready-
+to-drink tea and coffee products through joint ventures with Unilever (under the Lipton brand name) and Starbucks, respectively.
+Further, PBNA manufactures and distributes certain brands licensed from Keurig Dr Pepper Inc., including Crush, Dr Pepper and
+Schweppes, and certain juice brands licensed from Dole Food Company, Inc. and Ocean Spray Cranberries, Inc. In 2022, PBNA
+began to distribute Hard MTN Dew, an alcoholic beverage manufactured and owned by the Boston Beer Company. In the first
+quarter of 2022, we sold our Tropicana, Naked and other select juice brands to PAI Partners, while retaining a 39%
+noncontrolling interest in a newly formed joint venture, Tropicana Brands Group (TBG), operating across North America and
+Europe (Juice Transaction). In the United States, PepsiCo acts as the exclusive distributor for TBGs portfolio of brands for
+small-format and foodservice customers with chilled direct-store-delivery (DSD). See Note 13 to our consolidated financial
+statements for further information.
+Latin America
+Either independently or in conjunction with third parties, LatAm makes, markets, distributes and sells a number of convenient
+food brands including Cheetos, Doritos, Emperador, Lays, Marias Gamesa, Ruffles, Sabritas, Saladitas and Tostitos, as well as
+many Quaker-branded convenient foods. LatAm also, either independently or in conjunction with third parties, makes, markets,
+distributes and sells beverage concentrates, fountain syrups and finished goods under various beverage brands including 7UP,
+Diet 7UP, Gatorade, H2oh!, Manzanita Sol, Mirinda, Pepsi, Pepsi Black, San Carlos and Toddy. These branded products are sold
+to authorized and independent bottlers, independent distributors and retailers. LatAm
+3
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-00215-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Consolidated Balance Sheets 
+Verizon Communications Inc. and Subsidiaries 
+(dollars in millions, except per share amounts) 
+At December 31,
+2022
+2021 
+Assets 
+Current assets 
+Cash and cash equivalents
+$ 
+2,605 
+$ 
+2,921 
+Accounts receivable
+ 
+25,332 
+ 
+24,742 
+Less Allowance for credit losses
+ 
+826 
+ 
+896 
+Accounts receivable, net 
+ 
+24,506 
+ 
+23,846 
+Inventories
+ 
+2,388 
+ 
+3,055 
+Prepaid expenses and other
+ 
+8,358 
+ 
+6,906 
+Total current assets
+ 
+37,857 
+ 
+36,728 
+Property, plant and equipment
+ 
+307,689 
+ 
+289,897 
+Less Accumulated depreciation
+ 
+200,255 
+ 
+190,201 
+Property, plant and equipment, net
+ 
+107,434 
+ 
+99,696 
+Investments in unconsolidated businesses
+ 
+1,071 
+ 
+1,061 
+Wireless licenses
+ 
+149,796 
+ 
+147,619 
+Goodwill
+ 
+28,671 
+ 
+28,603 
+Other intangible assets, net
+ 
+11,461 
+ 
+11,677 
+Operating lease right-of-use assets
+ 
+26,130 
+ 
+27,883 
+Other assets
+ 
+17,260 
+ 
+13,329 
+Total assets
+$ 
+379,680 
+$ 
+366,596 
+Liabilities and Equity 
+Current liabilities 
+Debt maturing within one year
+$ 
+9,963 
+$ 
+7,443 
+Accounts payable and accrued liabilities
+ 
+23,977 
+ 
+24,833 
+Current operating lease liabilities
+ 
+4,134 
+ 
+3,859 
+Other current liabilities
+ 
+12,097 
+ 
+11,025 
+Total current liabilities
+ 
+ 
+ 
+ 
+ 
+ 
+50,171 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+47,160 
+Long-term debt
+140,676 
+143,425 
+Employee benefit obligations
+12,974 
+15,410 
+Deferred income taxes
+43,441 
+40,685 
+Non-current operating lease liabilities
+21,558 
+23,203 
+Other liabilities
+18,397 
+13,513 
+Total long-term liabilities
+ 
+237,046 
+236,236 
+Commitments and Contingencies (Note 16) 
+Equity 
+Series preferred stock ($0.10 par value; 250,000,000 shares authorized; none issued)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Common stock ($0.10 par value; 6,250,000,000 shares authorized in each period; 
+4,291,433,646 shares issued in each period)
+429 
+429 
+Additional paid in capital
+13,420 
+13,861 
+Retained earnings
+82,380 
+71,993 
+Accumulated other comprehensive loss
+(1,865) 
+(927) 
+Common stock in treasury, at cost (91,572,258 and 93,634,725 shares outstanding)
+(4,013) 
+(4,104) 
+Deferred compensation employee stock ownership plans (ESOPs) and other
+793 
+538 
+Noncontrolling interests
+1,319 
+1,410 
+Total equity
+92,463 
+83,200 
+Total liabilities and equity
+$ 
+379,680 
+$ 
+366,596 
+See Notes to Consolidated Financial Statements
+Verizon 2022 Annual Report on Form 10-K 56 
+
+
+---
+
+benefit related costs and interest and financing expenses. Corporate and other also includes the historical results of divested 
+businesses, including Verizon Media Group (Verizon Media) divested in September 2021, and other adjustments and gains and 
+losses that are not allocated in assessing segment performance due to their nature. Although such transactions are excluded 
+from the business segment results, they are included in reported consolidated earnings. Gains and losses from these 
+transactions that are not individually significant are included in segment results as these items are included in the chief operating 
+decision makers assessment of segment performance. See "Consolidated Results of Operations" for additional information 
+regarding Corporate and other results. 
+Capital Expenditures and Investments 
+We continue to invest in our wireless networks, high-speed fiber and other advanced technologies to position ourselves at the 
+center of growth trends for the future. During the year ended December 31, 2022, these investments included $23.1 billion for 
+capital expenditures, inclusive of approximately $6.2 billion in C-Band related capital expenditures. See "Cash Flows Used in 
+Investing Activities" and "Liquidity and Capital Resources" for additional information. We believe that our investments aimed at 
+expanding our portfolio of products and services will provide our customers with an efficient, reliable infrastructure for competing 
+in the information economy. 
+Global Network and Technology 
+We are focusing our capital spending on adding capacity and density to our 4G Long-Term Evolution (LTE) network, while also 
+building our next generation 5G network. We are densifying our networks by utilizing small cell technology, in-building solutions 
+and distributed antenna systems. Network densification enables us to add capacity to address increasing mobile video 
+consumption and the growing demand for IoT products and services on our 4G LTE and 5G networks. Over the past several 
+years, we have been leading the development of 5G wireless technology industry standards and the ecosystems for fixed and 
+mobile 5G wireless services. 5G technology enables higher throughput and lower latency than the 4G LTE technology and allows 
+our networks to handle more traffic as the number of internet-connected devices grows. In January 2022, we began deploying C-
+Band spectrum, which has been built out to cover approximately 189 million POPs in the U.S. as of December 31, 2022. We 
+expect to continue deploying C-Band spectrum across the continental U.S. as more and more of the spectrum becomes 
+available for our use. We use low and mid-band spectrum and dynamic spectrum sharing (DSS) technology, to allow 5G service 
+to run simultaneously with 4G LTE on multiple spectrum bands. With DSS, whenever customers move outside Verizons 
+millimeter wave and C-Band coverage areas, their 5G-enabled devices will remain on 5G technology using the lower spectrum 
+bands where this network is available. This allows us to more fully and effectively utilize our current spectrum resources to serve 
+both 4G and 5G customers. 
+To compensate for the shrinking market for traditional copper-based products, we continue to build fiber-based networks 
+supporting data, video and advanced business services - areas where demand for reliable high-speed connections is growing. 
+We are transforming the architecture of our networks into our Intelligent Edge Network, providing improved efficiency and 
+virtualization, increased automation and opportunities for edge computing services that will support our fiber-based and radio 
+access network technologies. We expect that this new architecture will simplify operations by eliminating legacy network 
+elements, speed the deployment of 5G wireless technology and create new opportunities in the business market in a cost-
+efficient manner. 
+Consolidated Results of Operations 
+In this section, we discuss our overall results of operations and highlight special items that are not included in our segment 
+results. In "Segment Results of Operations," we review the performance of our two reportable segments in more detail. A detailed 
+discussion of 2020 items and year-over-year comparisons between 2021 and 2020 that are not included in this Form 10-K can 
+be found in the "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our Annual Report 
+on Form 10-K for the year ended December 31, 2021. 
+Consolidated Operating Revenues 
+(dollars in millions) 
+Increase/(Decrease) 
+Years Ended December 31,
+2022
+2021 
+2022 vs. 2021 
+Consumer
+$ 103,506 
+$ 95,300 $ 
+8,206 
+ 8.6 % 
+Business
+31,072 
+31,042 
+30 
+ 0.1 
+Corporate and other
+2,510 
+7,722 
+(5,212) 
+ (67.5) 
+Eliminations
+(253)
+(451)
+198 
+ 43.9 
+Consolidated Operating Revenues
+$ 136,835 
+$ 133,613 $ 
+3,222 
+ 2.4 
+Consolidated operating revenues increased during 2022 compared to 2021, due to increases in our Consumer and Business 
+segments, partially offset by a decrease in Corporate and other. 
+ 23 
+ Verizon 2022 Annual Report on Form 10-K
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-03849-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 
+MGM RESORTS INTERNATIONAL AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share data)
+
+
+ 
+Year Ended December 31,
+ 
+ 
+ 
+2020
+ 
+ 
+2019
+ 
+ 
+2018
+ 
+Revenues
+
+
+
+
+
+
+Casino
+$
+2,871,720
+$
+6,517,759
+$
+5,753,150
+Rooms
+
+830,382
+
+2,322,579
+
+2,212,573
+Foodandbeverage
+
+696,040
+
+2,145,247
+
+1,959,021
+Entertainment,retailandother
+
+518,991
+
+1,477,200
+
+1,412,860
+Reimbursedcosts
+
+244,949
+
+436,887
+
+425,492
+
+
+5,162,082
+
+12,899,672
+
+11,763,096
+Expenses
+
+
+
+
+
+
+Casino
+
+1,701,783
+
+3,623,899
+
+3,199,775
+Rooms
+
+419,156
+
+829,677
+
+791,761
+Foodandbeverage
+
+674,118
+
+1,661,626
+
+1,501,868
+Entertainment,retailandother
+
+412,705
+
+1,051,400
+
+999,979
+Reimbursedcosts
+
+244,949
+
+436,887
+
+425,492
+Generalandadministrative
+
+2,122,333
+
+2,101,217
+
+1,764,638
+Corporateexpense
+
+460,148
+
+464,642
+
+419,204
+Preopeningandstart-upexpenses
+
+84
+
+7,175
+
+151,392
+Propertytransactions,net
+
+93,567
+
+275,802
+
+9,147
+GainonREITtransactions,net
+
+(1,491,945)
+
+(2,677,996)
+
+
+Depreciationandamortization
+
+1,210,556
+
+1,304,649
+
+1,178,044
+
+
+5,847,454
+
+9,078,978
+
+10,441,300
+Income from unconsolidated affiliates
+
+42,938
+
+119,521
+
+147,690
+Operating income (loss)
+
+(642,434)
+
+3,940,215
+
+1,469,486
+Non-operating income (expense)
+
+
+
+
+
+
+Interestexpense,netofamountscapitalized
+
+(676,380)
+
+(847,932)
+
+(769,513)
+Non-operatingitemsfromunconsolidatedaffiliates
+
+(103,304)
+
+(62,296)
+
+(47,827)
+Other,net
+
+(89,361)
+
+(183,262)
+
+(18,140)
+
+
+(869,045)
+
+(1,093,490)
+
+(835,480)
+Income (loss) before income taxes
+
+(1,511,479)
+
+2,846,725
+
+634,006
+Benefit(provision)forincometaxes
+
+191,572
+
+(632,345)
+
+(50,112)
+Net income (loss)
+
+(1,319,907)
+
+2,214,380
+
+583,894
+Less:Net(income)lossattributabletononcontrollinginterests
+
+287,183
+
+(165,234)
+
+(117,122)
+Net income (loss) attributable to MGM Resorts International
+$
+(1,032,724)
+$
+2,049,146
+$
+466,772
+ 
+
+
+
+
+
+
+Earnings (loss) per share
+
+
+
+
+
+
+Basic
+$
+(2.02)
+$
+3.90
+$
+0.82
+Diluted
+$
+(2.02)
+$
+3.88
+$
+0.81
+Weighted average common shares outstanding
+
+
+
+
+
+
+Basic
+
+494,152
+
+524,173
+
+544,253
+Diluted
+
+494,152
+
+527,645
+
+549,536
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+63
+
+
+---
+
+
+MGM RESORTS INTERNATIONAL AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+
+
+ 
+Year Ended December 31,
+ 
+ 
+ 
+2020
+ 
+ 
+2019
+ 
+ 
+2018
+ 
+Cash flows from operating activities
+ 
+
+ 
+
+ 
+
+
+Netincome(loss)
+
+$
+(1,319,907)
+$
+2,214,380
+$
+583,894
+Adjustmentstoreconcilenetincome(loss)tonetcashprovidedby(usedin)
+operatingactivities:
+
+
+
+
+
+
+
+Depreciationandamortization
+
+
+1,210,556
+
+1,304,649
+
+1,178,044
+Amortizationofdebtdiscounts,premiumsandissuancecosts
+
+
+34,363
+
+38,972
+
+41,102
+Lossonearlyretirementofdebt
+
+
+126,462
+
+198,151
+
+3,619
+Provisionforcreditlosses
+
+
+71,422
+
+39,270
+
+39,762
+Stock-basedcompensation
+
+
+106,956
+
+88,838
+
+70,177
+Propertytransactions,net
+
+
+93,567
+
+275,802
+
+9,147
+GainonREITtransactions,net
+
+
+(1,491,945)
+
+(2,677,996)
+
+
+Noncashleaseexpense
+
+
+183,399
+
+71,784
+
+
+Loss(income)fromunconsolidatedaffiliates
+
+
+60,366
+
+(57,225)
+
+(96,542)
+Distributionsfromunconsolidatedaffiliates
+
+
+86,584
+
+299
+
+11,563
+Deferredincometaxes
+
+
+18,347
+
+595,046
+
+46,720
+Changeinoperatingassetsandliabilities:
+
+
+
+
+
+
+
+Accountsreceivable
+
+
+960,099
+
+(726,610)
+
+(149,554)
+Inventories
+
+
+14,705
+
+6,522
+
+(7,860)
+Incometaxesreceivableandpayable,net
+
+
+(216,250)
+
+1,259
+
+14,120
+Prepaidexpensesandother
+
+
+(37)
+
+7,567
+
+(8,656)
+Accountspayableandaccruedliabilities
+
+
+(1,382,980)
+
+465,602
+
+21,508
+Other
+
+
+(48,750)
+
+(35,909)
+
+(34,505)
+Netcashprovidedby(usedin)operatingactivities
+
+
+(1,493,043)
+
+1,810,401
+
+1,722,539
+Cash flows from investing activities
+ 
+
+
+
+
+
+
+Capitalexpenditures,netofconstructionpayable
+
+
+(270,579)
+
+(739,006)
+
+(1,486,843)
+Dispositionsofpropertyandequipment
+
+
+6,136
+
+2,578
+
+25,612
+ProceedsfromMandalayBayandMGMGrandLasVegastransaction
+
+
+2,455,839
+
+
+
+
+ProceedsfromBellagiotransaction
+
+
+
+
+4,151,499
+
+
+ProceedsfromsaleofCircusCircusLasVegasandadjacentland
+
+
+
+
+652,333
+
+
+Proceedsfromsaleofbusinessunitsandinvestmentinunconsolidatedaffiliate
+
+
+
+
+
+
+163,616
+AcquisitionofNorthfield,netofcashacquired
+
+
+
+
+
+
+(1,034,534)
+AcquisitionofEmpireCityCasino,netofcashacquired
+
+
+
+
+(535,681)
+
+
+Investmentsinunconsolidatedaffiliates
+
+
+(96,925)
+
+(81,877)
+
+(56,295)
+Distributionsfromunconsolidatedaffiliates
+
+
+63,960
+
+100,700
+
+322,631
+Other
+
+
+873
+
+(31,112)
+
+(17,208)
+Netcashprovidedby(usedin)investingactivities
+
+
+2,159,304
+
+3,519,434
+
+(2,083,021)
+Cash flows from financing activities
+ 
+
+
+
+
+
+
+Netborrowings(repayments)underbankcreditfacilitiesmaturitiesof
+90daysorless
+
+
+(1,595,089)
+
+(3,634,049)
+
+1,242,259
+Issuanceoflong-termdebt
+
+
+3,550,000
+
+3,250,000
+
+1,000,000
+Retirementofseniornotes
+
+
+(846,815)
+
+(3,764,167)
+
+(2,265)
+Debtissuancecosts
+
+
+(62,348)
+
+(63,391)
+
+(76,519)
+Proceedsfromissuanceofbridgeloanfacility
+
+
+1,304,625
+
+
+
+
+IssuanceofMGMGrowthPropertiesClassAshares,net
+
+
+524,704
+
+1,250,006
+
+
+Dividendspaidtocommonshareholders
+
+
+(77,606)
+
+(271,288)
+
+(260,592)
+Distributionstononcontrollinginterestowners
+
+
+(286,385)
+
+(223,303)
+
+(184,932)
+Purchasesofcommonstock
+
+
+(353,720)
+
+(1,031,534)
+
+(1,283,333)
+Other
+
+
+(53,939)
+
+(41,868)
+
+(45,384)
+Netcashprovidedby(usedin)financingactivities
+
+
+2,103,427
+
+(4,529,594)
+
+389,234
+Effect of exchange rate on cash
+
+
+2,345
+
+2,601
+
+(1,985)
+Cash and cash equivalents
+ 
+
+
+
+
+
+
+Netincreasefortheperiod
+
+
+2,772,033
+
+802,842
+
+26,767
+Balance,beginningofperiod
+
+
+2,329,604
+
+1,526,762
+
+1,499,995
+Balance,endofperiod
+
+$
+5,101,637
+$
+2,329,604
+$
+1,526,762
+Supplemental cash flow disclosures
+ 
+
+
+
+
+
+
+Interestpaid,netofamountscapitalized
+
+$
+639,718
+$
+826,970
+$
+723,609
+Federal,stateandforeignincometaxespaid(refundsreceived),net
+
+
+8,543
+
+28,493
+
+(10,100)
+Non-cash investing and financing activities
+ 
+
+
+
+
+
+
+NotereceivablerelatedtosaleofCircusCircusLasVegasandadjacentland
+
+$
+
+$
+133,689
+$
+
+InvestmentinBellagioBREITVenture
+
+
+
+
+62,133
+
+
+InvestmentinMGPBREITVenture
+
+
+802,000
+
+
+
+
+MGPBREITVentureassumptionofbridgeloanfacility
+
+
+1,304,625
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+65
+
+Question: For MGM Resorts, what was the average capital expenditure as a percentage of revenue over the three fiscal years FY2018 through FY2020? Provide the answer as a percentage rounded to one decimal place, drawing mainly from the cash flow statement and income statement.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-03849-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 
+MGM RESORTS INTERNATIONAL AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share data)
+
+
+ 
+Year Ended December 31,
+ 
+ 
+ 
+2020
+ 
+ 
+2019
+ 
+ 
+2018
+ 
+Revenues
+
+
+
+
+
+
+Casino
+$
+2,871,720
+$
+6,517,759
+$
+5,753,150
+Rooms
+
+830,382
+
+2,322,579
+
+2,212,573
+Foodandbeverage
+
+696,040
+
+2,145,247
+
+1,959,021
+Entertainment,retailandother
+
+518,991
+
+1,477,200
+
+1,412,860
+Reimbursedcosts
+
+244,949
+
+436,887
+
+425,492
+
+
+5,162,082
+
+12,899,672
+
+11,763,096
+Expenses
+
+
+
+
+
+
+Casino
+
+1,701,783
+
+3,623,899
+
+3,199,775
+Rooms
+
+419,156
+
+829,677
+
+791,761
+Foodandbeverage
+
+674,118
+
+1,661,626
+
+1,501,868
+Entertainment,retailandother
+
+412,705
+
+1,051,400
+
+999,979
+Reimbursedcosts
+
+244,949
+
+436,887
+
+425,492
+Generalandadministrative
+
+2,122,333
+
+2,101,217
+
+1,764,638
+Corporateexpense
+
+460,148
+
+464,642
+
+419,204
+Preopeningandstart-upexpenses
+
+84
+
+7,175
+
+151,392
+Propertytransactions,net
+
+93,567
+
+275,802
+
+9,147
+GainonREITtransactions,net
+
+(1,491,945)
+
+(2,677,996)
+
+
+Depreciationandamortization
+
+1,210,556
+
+1,304,649
+
+1,178,044
+
+
+5,847,454
+
+9,078,978
+
+10,441,300
+Income from unconsolidated affiliates
+
+42,938
+
+119,521
+
+147,690
+Operating income (loss)
+
+(642,434)
+
+3,940,215
+
+1,469,486
+Non-operating income (expense)
+
+
+
+
+
+
+Interestexpense,netofamountscapitalized
+
+(676,380)
+
+(847,932)
+
+(769,513)
+Non-operatingitemsfromunconsolidatedaffiliates
+
+(103,304)
+
+(62,296)
+
+(47,827)
+Other,net
+
+(89,361)
+
+(183,262)
+
+(18,140)
+
+
+(869,045)
+
+(1,093,490)
+
+(835,480)
+Income (loss) before income taxes
+
+(1,511,479)
+
+2,846,725
+
+634,006
+Benefit(provision)forincometaxes
+
+191,572
+
+(632,345)
+
+(50,112)
+Net income (loss)
+
+(1,319,907)
+
+2,214,380
+
+583,894
+Less:Net(income)lossattributabletononcontrollinginterests
+
+287,183
+
+(165,234)
+
+(117,122)
+Net income (loss) attributable to MGM Resorts International
+$
+(1,032,724)
+$
+2,049,146
+$
+466,772
+ 
+
+
+
+
+
+
+Earnings (loss) per share
+
+
+
+
+
+
+Basic
+$
+(2.02)
+$
+3.90
+$
+0.82
+Diluted
+$
+(2.02)
+$
+3.88
+$
+0.81
+Weighted average common shares outstanding
+
+
+
+
+
+
+Basic
+
+494,152
+
+524,173
+
+544,253
+Diluted
+
+494,152
+
+527,645
+
+549,536
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+63
+
+
+---
+
+
+MGM RESORTS INTERNATIONAL AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+
+
+ 
+Year Ended December 31,
+ 
+ 
+ 
+2020
+ 
+ 
+2019
+ 
+ 
+2018
+ 
+Cash flows from operating activities
+ 
+
+ 
+
+ 
+
+
+Netincome(loss)
+
+$
+(1,319,907)
+$
+2,214,380
+$
+583,894
+Adjustmentstoreconcilenetincome(loss)tonetcashprovidedby(usedin)
+operatingactivities:
+
+
+
+
+
+
+
+Depreciationandamortization
+
+
+1,210,556
+
+1,304,649
+
+1,178,044
+Amortizationofdebtdiscounts,premiumsandissuancecosts
+
+
+34,363
+
+38,972
+
+41,102
+Lossonearlyretirementofdebt
+
+
+126,462
+
+198,151
+
+3,619
+Provisionforcreditlosses
+
+
+71,422
+
+39,270
+
+39,762
+Stock-basedcompensation
+
+
+106,956
+
+88,838
+
+70,177
+Propertytransactions,net
+
+
+93,567
+
+275,802
+
+9,147
+GainonREITtransactions,net
+
+
+(1,491,945)
+
+(2,677,996)
+
+
+Noncashleaseexpense
+
+
+183,399
+
+71,784
+
+
+Loss(income)fromunconsolidatedaffiliates
+
+
+60,366
+
+(57,225)
+
+(96,542)
+Distributionsfromunconsolidatedaffiliates
+
+
+86,584
+
+299
+
+11,563
+Deferredincometaxes
+
+
+18,347
+
+595,046
+
+46,720
+Changeinoperatingassetsandliabilities:
+
+
+
+
+
+
+
+Accountsreceivable
+
+
+960,099
+
+(726,610)
+
+(149,554)
+Inventories
+
+
+14,705
+
+6,522
+
+(7,860)
+Incometaxesreceivableandpayable,net
+
+
+(216,250)
+
+1,259
+
+14,120
+Prepaidexpensesandother
+
+
+(37)
+
+7,567
+
+(8,656)
+Accountspayableandaccruedliabilities
+
+
+(1,382,980)
+
+465,602
+
+21,508
+Other
+
+
+(48,750)
+
+(35,909)
+
+(34,505)
+Netcashprovidedby(usedin)operatingactivities
+
+
+(1,493,043)
+
+1,810,401
+
+1,722,539
+Cash flows from investing activities
+ 
+
+
+
+
+
+
+Capitalexpenditures,netofconstructionpayable
+
+
+(270,579)
+
+(739,006)
+
+(1,486,843)
+Dispositionsofpropertyandequipment
+
+
+6,136
+
+2,578
+
+25,612
+ProceedsfromMandalayBayandMGMGrandLasVegastransaction
+
+
+2,455,839
+
+
+
+
+ProceedsfromBellagiotransaction
+
+
+
+
+4,151,499
+
+
+ProceedsfromsaleofCircusCircusLasVegasandadjacentland
+
+
+
+
+652,333
+
+
+Proceedsfromsaleofbusinessunitsandinvestmentinunconsolidatedaffiliate
+
+
+
+
+
+
+163,616
+AcquisitionofNorthfield,netofcashacquired
+
+
+
+
+
+
+(1,034,534)
+AcquisitionofEmpireCityCasino,netofcashacquired
+
+
+
+
+(535,681)
+
+
+Investmentsinunconsolidatedaffiliates
+
+
+(96,925)
+
+(81,877)
+
+(56,295)
+Distributionsfromunconsolidatedaffiliates
+
+
+63,960
+
+100,700
+
+322,631
+Other
+
+
+873
+
+(31,112)
+
+(17,208)
+Netcashprovidedby(usedin)investingactivities
+
+
+2,159,304
+
+3,519,434
+
+(2,083,021)
+Cash flows from financing activities
+ 
+
+
+
+
+
+
+Netborrowings(repayments)underbankcreditfacilitiesmaturitiesof
+90daysorless
+
+
+(1,595,089)
+
+(3,634,049)
+
+1,242,259
+Issuanceoflong-termdebt
+
+
+3,550,000
+
+3,250,000
+
+1,000,000
+Retirementofseniornotes
+
+
+(846,815)
+
+(3,764,167)
+
+(2,265)
+Debtissuancecosts
+
+
+(62,348)
+
+(63,391)
+
+(76,519)
+Proceedsfromissuanceofbridgeloanfacility
+
+
+1,304,625
+
+
+
+
+IssuanceofMGMGrowthPropertiesClassAshares,net
+
+
+524,704
+
+1,250,006
+
+
+Dividendspaidtocommonshareholders
+
+
+(77,606)
+
+(271,288)
+
+(260,592)
+Distributionstononcontrollinginterestowners
+
+
+(286,385)
+
+(223,303)
+
+(184,932)
+Purchasesofcommonstock
+
+
+(353,720)
+
+(1,031,534)
+
+(1,283,333)
+Other
+
+
+(53,939)
+
+(41,868)
+
+(45,384)
+Netcashprovidedby(usedin)financingactivities
+
+
+2,103,427
+
+(4,529,594)
+
+389,234
+Effect of exchange rate on cash
+
+
+2,345
+
+2,601
+
+(1,985)
+Cash and cash equivalents
+ 
+
+
+
+
+
+
+Netincreasefortheperiod
+
+
+2,772,033
+
+802,842
+
+26,767
+Balance,beginningofperiod
+
+
+2,329,604
+
+1,526,762
+
+1,499,995
+Balance,endofperiod
+
+$
+5,101,637
+$
+2,329,604
+$
+1,526,762
+Supplemental cash flow disclosures
+ 
+
+
+
+
+
+
+Interestpaid,netofamountscapitalized
+
+$
+639,718
+$
+826,970
+$
+723,609
+Federal,stateandforeignincometaxespaid(refundsreceived),net
+
+
+8,543
+
+28,493
+
+(10,100)
+Non-cash investing and financing activities
+ 
+
+
+
+
+
+
+NotereceivablerelatedtosaleofCircusCircusLasVegasandadjacentland
+
+$
+
+$
+133,689
+$
+
+InvestmentinBellagioBREITVenture
+
+
+
+
+62,133
+
+
+InvestmentinMGPBREITVenture
+
+
+802,000
+
+
+
+
+MGPBREITVentureassumptionofbridgeloanfacility
+
+
+1,304,625
+
+
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+65
+
+Question: What is the FY2018 - FY2020 3 year average of capex as a % of revenue for MGM Resorts? Answer in units of percents and round to one decimal place. Please utilize information provided primarily within the statement of cash flows and the statement of income.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

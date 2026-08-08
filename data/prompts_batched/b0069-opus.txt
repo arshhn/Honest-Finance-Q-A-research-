@@ -1,0 +1,1640 @@
+You are sitting an exam made of 12 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-04700-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+ 
+PART II
+Item 8
+ 
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INCOME STATEMENTS
+ 
+(In millions, except per share amounts)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Year Ended June 30,
+ 
+2016 
+2015 
+2014 
+Revenue:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+$ 61,502 
+$ 75,956 
+$ 72,948 
+Service and other
+ 
+ 
+23,818 
+ 
+17,624 
+ 
+13,885 
+ 
+ 
+Total revenue
+ 
+ 
+85,320 
+ 
+93,580 
+ 
+86,833 
+ 
+ 
+Cost of revenue:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+17,880 
+ 
+21,410 
+ 
+16,681 
+Service and other
+ 
+ 
+14,900 
+ 
+11,628 
+ 
+10,397 
+ 
+ 
+Total cost of revenue
+ 
+ 
+32,780 
+ 
+33,038 
+ 
+27,078 
+ 
+ 
+Gross margin
+ 
+ 
+52,540 
+ 
+60,542 
+ 
+59,755 
+Research and development
+ 
+ 
+11,988 
+ 
+12,046 
+ 
+11,381 
+Sales and marketing
+ 
+ 
+14,697 
+ 
+15,713 
+ 
+15,811 
+General and administrative
+ 
+ 
+4,563 
+ 
+4,611 
+ 
+4,677 
+Impairment, integration, and restructuring
+ 
+ 
+1,110 
+ 
+10,011 
+ 
+127 
+ 
+ 
+Operating income
+ 
+ 
+20,182 
+ 
+18,161 
+ 
+27,759 
+Other income (expense), net
+ 
+ 
+(431) 
+ 
+346 
+ 
+61 
+ 
+ 
+Income before income taxes
+ 
+ 
+19,751 
+ 
+18,507 
+ 
+27,820 
+Provision for income taxes
+ 
+ 
+2,953 
+ 
+6,314 
+ 
+5,746 
+ 
+ 
+Net income
+ 
+$ 16,798 
+$ 12,193 
+$ 22,074 
+ 
+ 
+ 
+ 
+Earnings per share:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic
+ 
+$
+2.12 
+$
+1.49 
+$
+2.66 
+Diluted
+ 
+$
+2.10 
+$
+1.48 
+$
+2.63 
+Weighted average shares outstanding:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic
+ 
+ 
+7,925 
+ 
+8,177 
+ 
+8,299 
+Diluted
+ 
+ 
+8,013 
+ 
+8,254 
+ 
+8,399 
+Cash dividends declared per common share
+ 
+$
+1.44 
+$
+1.24 
+$
+1.12 
+See accompanying notes.
+ 
+52
+
+Question: What is the FY2016 COGS for Microsoft? Please state answer in USD millions. Provide a response to the question by primarily using the statement of income.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-04700-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+ 
+PART II
+Item 8
+ 
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INCOME STATEMENTS
+ 
+(In millions, except per share amounts)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Year Ended June 30,
+ 
+2016 
+2015 
+2014 
+Revenue:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+$ 61,502 
+$ 75,956 
+$ 72,948 
+Service and other
+ 
+ 
+23,818 
+ 
+17,624 
+ 
+13,885 
+ 
+ 
+Total revenue
+ 
+ 
+85,320 
+ 
+93,580 
+ 
+86,833 
+ 
+ 
+Cost of revenue:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Product
+ 
+ 
+17,880 
+ 
+21,410 
+ 
+16,681 
+Service and other
+ 
+ 
+14,900 
+ 
+11,628 
+ 
+10,397 
+ 
+ 
+Total cost of revenue
+ 
+ 
+32,780 
+ 
+33,038 
+ 
+27,078 
+ 
+ 
+Gross margin
+ 
+ 
+52,540 
+ 
+60,542 
+ 
+59,755 
+Research and development
+ 
+ 
+11,988 
+ 
+12,046 
+ 
+11,381 
+Sales and marketing
+ 
+ 
+14,697 
+ 
+15,713 
+ 
+15,811 
+General and administrative
+ 
+ 
+4,563 
+ 
+4,611 
+ 
+4,677 
+Impairment, integration, and restructuring
+ 
+ 
+1,110 
+ 
+10,011 
+ 
+127 
+ 
+ 
+Operating income
+ 
+ 
+20,182 
+ 
+18,161 
+ 
+27,759 
+Other income (expense), net
+ 
+ 
+(431) 
+ 
+346 
+ 
+61 
+ 
+ 
+Income before income taxes
+ 
+ 
+19,751 
+ 
+18,507 
+ 
+27,820 
+Provision for income taxes
+ 
+ 
+2,953 
+ 
+6,314 
+ 
+5,746 
+ 
+ 
+Net income
+ 
+$ 16,798 
+$ 12,193 
+$ 22,074 
+ 
+ 
+ 
+ 
+Earnings per share:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic
+ 
+$
+2.12 
+$
+1.49 
+$
+2.66 
+Diluted
+ 
+$
+2.10 
+$
+1.48 
+$
+2.63 
+Weighted average shares outstanding:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic
+ 
+ 
+7,925 
+ 
+8,177 
+ 
+8,299 
+Diluted
+ 
+ 
+8,013 
+ 
+8,254 
+ 
+8,399 
+Cash dividends declared per common share
+ 
+$
+1.44 
+$
+1.24 
+$
+1.12 
+See accompanying notes.
+ 
+52
+
+Question: Using Microsoft's statement of income, what was the company's cost of goods sold for fiscal year 2016, expressed in millions of USD?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-00517-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+The Boeing Company and Subsidiaries
+Notes to the Consolidated Financial Statements
+Summary of Business Segment Data
+(Dollars in millions)
+ 
+Years ended December 31,
+2022
+2021
+2020
+Revenues:
+Commercial Airplanes
+$25,867 
+$19,493 
+$16,162 
+Defense, Space & Security
+23,162 
+26,540 
+26,257 
+Global Services
+17,611 
+16,328 
+15,543 
+Boeing Capital
+199 
+272 
+261 
+Unallocated items, eliminations and other
+(231)
+(347)
+(65)
+Total revenues
+$66,608 
+$62,286 
+$58,158 
+(Loss)/earnings from operations:
+Commercial Airplanes
+($2,370)
+($6,475)
+($13,847)
+Defense, Space & Security
+(3,544)
+1,544 
+1,539 
+Global Services
+2,727 
+2,017 
+450 
+Boeing Capital
+29 
+106 
+63 
+Segment operating loss
+(3,158)
+(2,808)
+(11,795)
+Unallocated items, eliminations and other
+(1,532)
+(1,267)
+(2,355)
+FAS/CAS service cost adjustment
+1,143 
+1,173 
+1,383 
+Loss from operations
+(3,547)
+(2,902)
+(12,767)
+Other income, net
+1,058 
+551 
+447 
+Interest and debt expense
+(2,533)
+(2,682)
+(2,156)
+Loss before income taxes
+(5,022)
+(5,033)
+(14,476)
+Income tax (expense)/benefit
+(31)
+743 
+2,535 
+Net loss
+(5,053)
+(4,290)
+(11,941)
+Less: net loss attributable to noncontrolling interest
+(118)
+(88)
+(68)
+Net loss attributable to Boeing Shareholders
+($4,935)
+($4,202)
+($11,873)
+This information is an integral part of the Notes to the Consolidated Financial Statements. See Note 22 for further segment results.
+58
+
+Question: For fiscal year 2022, did Boeing have any product or service categories that accounted for over 20% of its total revenue?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-00685-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+Consolidated Statements of Earnings
+$ and shares in millions, except per share amounts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fiscal Years Ended
+January 28, 2023
+ 
+January 29, 2022
+ 
+January 30, 2021
+Revenue
+$
+ 46,298 
+ 
+$
+ 51,761 
+ 
+$
+ 47,262 
+Cost of sales
+ 
+ 36,386 
+ 
+ 
+ 40,121 
+ 
+ 
+ 36,689 
+Gross profit
+ 
+ 9,912 
+ 
+ 
+ 11,640 
+ 
+ 
+ 10,573 
+Selling, general and administrative expenses
+ 
+ 7,970 
+ 
+ 
+ 8,635 
+ 
+ 
+ 7,928 
+Restructuring charges
+ 
+ 147 
+ 
+ 
+ (34) 
+ 
+ 
+ 254 
+Operating income
+ 
+ 1,795 
+ 
+ 
+ 3,039 
+ 
+ 
+ 2,391 
+Other income (expense):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Investment income and other
+ 
+ 28 
+ 
+ 
+ 10 
+ 
+ 
+ 38 
+Interest expense
+ 
+ (35) 
+ 
+ 
+ (25) 
+ 
+ 
+ (52) 
+Earnings before income tax expense and equity in income of affiliates
+ 
+ 1,788 
+ 
+ 
+ 3,024 
+ 
+ 
+ 2,377 
+Income tax expense
+ 
+ 370 
+ 
+ 
+ 574 
+ 
+ 
+ 579 
+Equity in income of affiliates
+ 
+ 1 
+ 
+ 
+ 4 
+ 
+ 
+ - 
+Net earnings
+$
+ 1,419 
+ 
+$
+ 2,454 
+ 
+$
+ 1,798 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic earnings per share
+$
+ 6.31 
+ 
+$
+ 9.94 
+ 
+$
+ 6.93 
+Diluted earnings per share
+$
+ 6.29 
+ 
+$
+ 9.84 
+ 
+$
+ 6.84 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Weighted-average common shares outstanding:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Basic
+ 
+ 224.8 
+ 
+ 
+ 246.8 
+ 
+ 
+ 259.6 
+Diluted
+ 
+ 225.7 
+ 
+ 
+ 249.3 
+ 
+ 
+ 263.0 
+ 
+See Notes to Consolidated Financial Statements.
+ 
+ 
+40
+
+Question: Has Best Buy maintained relatively stable gross margins over time, staying within about a 2% annual swing? If gross margin isn't a meaningful metric for this type of company, please note that and explain the reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-08286-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share data)
+ 
+ 
+Year Ended December 31,
+ 
+2017
+ 
+2018
+ 
+2019
+Net product sales
+$
+118,573 $
+141,915 $
+160,408
+Net service sales
+59,293 
+90,972 
+120,114
+Total net sales
+177,866 
+232,887 
+280,522
+Operating expenses:
+ 
+ 
+ 
+Cost of sales
+111,934 
+139,156 
+165,536
+Fulfillment
+25,249 
+34,027 
+40,232
+Technology and content
+22,620 
+28,837 
+35,931
+Marketing
+10,069 
+13,814 
+18,878
+General and administrative
+3,674 
+4,336 
+5,203
+Other operating expense (income), net
+214 
+296 
+201
+Total operating expenses
+173,760 
+220,466 
+265,981
+Operating income
+4,106 
+12,421 
+14,541
+Interest income
+202 
+440 
+832
+Interest expense
+(848) 
+(1,417) 
+(1,600)
+Other income (expense), net
+346 
+(183) 
+203
+Total non-operating income (expense)
+(300) 
+(1,160) 
+(565)
+Income before income taxes
+3,806 
+11,261 
+13,976
+Provision for income taxes
+(769) 
+(1,197) 
+(2,374)
+Equity-method investment activity, net of tax
+(4) 
+9 
+(14)
+Net income
+$
+3,033 $
+10,073 $
+11,588
+Basic earnings per share
+$
+6.32 $
+20.68 $
+23.46
+Diluted earnings per share
+$
+6.15 $
+20.14 $
+23.01
+Weighted-average shares used in computation of earnings per share:
+ 
+ 
+ 
+Basic
+480 
+487 
+494
+Diluted
+493 
+500 
+504
+See accompanying notes to consolidated financial statements.
+38
+
+Question: Based solely on the details provided in the income statement, what net income figure, attributable to shareholders, did Amazon report for fiscal year 2019, expressed in USD millions?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-08135-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share data)
+ 
+ 
+Year Ended December 31,
+ 
+2015
+ 
+2016
+ 
+2017
+Net product sales
+$
+79,268 $
+94,665 $
+118,573
+Net service sales
+27,738 
+41,322 
+59,293
+Total net sales
+107,006 
+135,987 
+177,866
+Operating expenses:
+ 
+ 
+ 
+Cost of sales
+71,651 
+88,265 
+111,934
+Fulfillment
+13,410 
+17,619 
+25,249
+Marketing
+5,254 
+7,233 
+10,069
+Technology and content
+12,540 
+16,085 
+22,620
+General and administrative
+1,747 
+2,432 
+3,674
+Other operating expense, net
+171 
+167 
+214
+Total operating expenses
+104,773 
+131,801 
+173,760
+Operating income
+2,233 
+4,186 
+4,106
+Interest income
+50 
+100 
+202
+Interest expense
+(459) 
+(484) 
+(848)
+Other income (expense), net
+(256) 
+90 
+346
+Total non-operating income (expense)
+(665) 
+(294) 
+(300)
+Income before income taxes
+1,568 
+3,892 
+3,806
+Provision for income taxes
+(950) 
+(1,425) 
+(769)
+Equity-method investment activity, net of tax
+(22) 
+(96) 
+(4)
+Net income
+$
+596 $
+2,371 $
+3,033
+Basic earnings per share
+$
+1.28 $
+5.01 $
+6.32
+Diluted earnings per share
+$
+1.25 $
+4.90 $
+6.15
+Weighted-average shares used in computation of earnings per share:
+ 
+ 
+ 
+Basic
+467 
+474 
+480
+Diluted
+477 
+484 
+493
+See accompanying notes to consolidated financial statements.
+38
+
+Question: Using the figures reported on the income statement, calculate the percentage change in Amazon's revenue from fiscal year 2016 to fiscal year 2017, expressing the result as a percentage rounded to one decimal place.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-00678-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Operations
+(Dollars in millions, except per share data)
+ 
+ 
+ 
+Years ended December 31,
+2022
+2021
+2020
+Sales of products
+$55,893 
+$51,386 
+$47,142 
+Sales of services
+10,715 
+10,900 
+11,016 
+Total revenues
+66,608 
+62,286 
+58,158 
+Cost of products
+(53,969)
+(49,954)
+(54,568)
+Cost of services
+(9,109)
+(9,283)
+(9,232)
+Boeing Capital interest expense
+(28)
+(32)
+(43)
+Total costs and expenses
+(63,106)
+(59,269)
+(63,843)
+3,502 
+3,017 
+(5,685)
+(Loss)/income from operating investments, net
+(16)
+210 
+9 
+General and administrative expense
+(4,187)
+(4,157)
+(4,817)
+Research and development expense, net
+(2,852)
+(2,249)
+(2,476)
+Gain on dispositions, net
+6 
+277 
+202 
+Loss from operations
+(3,547)
+(2,902)
+(12,767)
+Other income, net
+1,058 
+551 
+447 
+Interest and debt expense
+(2,533)
+(2,682)
+(2,156)
+Loss before income taxes
+(5,022)
+(5,033)
+(14,476)
+Income tax (expense)/benefit
+(31)
+743 
+2,535 
+Net loss
+(5,053)
+(4,290)
+(11,941)
+Less: net loss attributable to noncontrolling interest
+(118)
+(88)
+(68)
+Net loss attributable to Boeing Shareholders
+($4,935)
+($4,202)
+($11,873)
+Basic loss per share
+($8.30)
+($7.15)
+($20.88)
+Diluted loss per share
+($8.30)
+($7.15)
+($20.88)
+See Notes to the Consolidated Financial Statements on pages 59 - 114.
+53
+
+Question: For fiscal year 2022, has Boeing's gross margin been trending upward? If gross margin isn't a meaningful metric for this type of company, note that and explain the reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-09724-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: THE COCA-COLA COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions except per share data)
+Year Ended December 31,
+2021
+2020
+2019
+Net Operating Revenues
+$
+38,655 $
+33,014 $
+37,266 
+Cost of goods sold
+15,357 
+13,433 
+14,619 
+Gross Profit
+23,298 
+19,581 
+22,647 
+Selling, general and administrative expenses
+12,144 
+9,731 
+12,103 
+Other operating charges
+846 
+853 
+458 
+Operating Income
+10,308 
+8,997 
+10,086 
+Interest income
+276 
+370 
+563 
+Interest expense
+1,597 
+1,437 
+946 
+Equity income (loss) net
+1,438 
+978 
+1,049 
+Other income (loss) net
+2,000 
+841 
+34 
+Income Before Income Taxes
+12,425 
+9,749 
+10,786 
+Income taxes
+2,621 
+1,981 
+1,801 
+Consolidated Net Income
+9,804 
+7,768 
+8,985 
+Less: Net income (loss) attributable to noncontrolling interests
+33 
+21 
+65 
+Net Income Attributable to Shareowners of The Coca-Cola Company
+$
+9,771 $
+7,747 $
+8,920 
+Basic Net Income Per Share
+$
+2.26 $
+1.80 $
+2.09 
+Diluted Net Income Per Share
+$
+2.25 $
+1.79 $
+2.07 
+Average Shares Outstanding Basic
+4,315 
+4,295 
+4,276 
+Effect of dilutive securities
+25 
+28 
+38 
+Average Shares Outstanding Diluted
+4,340 
+4,323 
+4,314 
+Calculated based on net income attributable to shareowners of The Coca-Cola Company.
+Refer to Notes to Consolidated Financial Statements.
+1
+1
+1 
+60
+
+Question: Using the figures presented directly in the income statement, determine Coca Cola's cost of goods sold as a percentage of revenue for fiscal year 2021.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-01482-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: (4) The shareholders approved, on an advisory basis, the holding of an advisory vote on the compensation of PepsiCos named executive officers every
+year:
+One Year
+994,856,204
+Two Years
+4,331,004
+Three Years
+17,603,165
+Abstain
+3,357,516
+Broker Non-Votes
+172,969,325
+In light of the voting results on this advisory vote, and consistent with its recommendation to shareholders, PepsiCos Board of Directors has decided that
+PepsiCo will hold an advisory vote on the compensation of PepsiCos named executive officers every year.
+(5) The shareholder proposal regarding independent Board Chair was defeated:
+For
+250,838,697
+Against
+746,982,272
+Abstain
+22,326,920
+Broker Non-Votes
+172,969,325
+(6) The shareholder proposal regarding a global transparency report was defeated:
+For
+185,034,699
+Against
+814,416,953
+Abstain
+20,696,237
+Broker Non-Votes
+172,969,325
+(7) The shareholder proposal regarding a report on impacts of reproductive healthcare legislation was defeated:
+For
+158,917,578
+Against
+830,627,354
+Abstain
+30,602,957
+Broker Non-Votes
+172,969,325
+(8) The shareholder proposal regarding a congruency report on net-zero emissions policies was defeated:
+For
+19,718,780
+Against
+977,228,788
+Abstain
+23,200,321
+Broker Non-Votes
+172,969,325
+
+Question: In the May 3, 2023 Pepsico Annual General Meeting, how did shareholders vote on the proposal requesting that Pepsico issue a congruency report regarding its net-zero emissions policies?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-01482-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: (4) The shareholders approved, on an advisory basis, the holding of an advisory vote on the compensation of PepsiCos named executive officers every
+year:
+One Year
+994,856,204
+Two Years
+4,331,004
+Three Years
+17,603,165
+Abstain
+3,357,516
+Broker Non-Votes
+172,969,325
+In light of the voting results on this advisory vote, and consistent with its recommendation to shareholders, PepsiCos Board of Directors has decided that
+PepsiCo will hold an advisory vote on the compensation of PepsiCos named executive officers every year.
+(5) The shareholder proposal regarding independent Board Chair was defeated:
+For
+250,838,697
+Against
+746,982,272
+Abstain
+22,326,920
+Broker Non-Votes
+172,969,325
+(6) The shareholder proposal regarding a global transparency report was defeated:
+For
+185,034,699
+Against
+814,416,953
+Abstain
+20,696,237
+Broker Non-Votes
+172,969,325
+(7) The shareholder proposal regarding a report on impacts of reproductive healthcare legislation was defeated:
+For
+158,917,578
+Against
+830,627,354
+Abstain
+30,602,957
+Broker Non-Votes
+172,969,325
+(8) The shareholder proposal regarding a congruency report on net-zero emissions policies was defeated:
+For
+19,718,780
+Against
+977,228,788
+Abstain
+23,200,321
+Broker Non-Votes
+172,969,325
+
+Question: At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-00585-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+The Boeing Company and Subsidiaries
+Consolidated Statements of Operations
+(Dollars in millions, except per share data)
+ 
+ 
+ 
+Years ended December 31,
+2022
+2021
+2020
+Sales of products
+$55,893 
+$51,386 
+$47,142 
+Sales of services
+10,715 
+10,900 
+11,016 
+Total revenues
+66,608 
+62,286 
+58,158 
+Cost of products
+(53,969)
+(49,954)
+(54,568)
+Cost of services
+(9,109)
+(9,283)
+(9,232)
+Boeing Capital interest expense
+(28)
+(32)
+(43)
+Total costs and expenses
+(63,106)
+(59,269)
+(63,843)
+3,502 
+3,017 
+(5,685)
+(Loss)/income from operating investments, net
+(16)
+210 
+9 
+General and administrative expense
+(4,187)
+(4,157)
+(4,817)
+Research and development expense, net
+(2,852)
+(2,249)
+(2,476)
+Gain on dispositions, net
+6 
+277 
+202 
+Loss from operations
+(3,547)
+(2,902)
+(12,767)
+Other income, net
+1,058 
+551 
+447 
+Interest and debt expense
+(2,533)
+(2,682)
+(2,156)
+Loss before income taxes
+(5,022)
+(5,033)
+(14,476)
+Income tax (expense)/benefit
+(31)
+743 
+2,535 
+Net loss
+(5,053)
+(4,290)
+(11,941)
+Less: net loss attributable to noncontrolling interest
+(118)
+(88)
+(68)
+Net loss attributable to Boeing Shareholders
+($4,935)
+($4,202)
+($11,873)
+Basic loss per share
+($8.30)
+($7.15)
+($20.88)
+Diluted loss per share
+($8.30)
+($7.15)
+($20.88)
+See Notes to the Consolidated Financial Statements on pages 59 - 114.
+53
+
+Question: Comparing FY2021 to FY2022, how did Boeing's effective tax rate change?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 12 | id=fb-00684-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Amcor plc and Subsidiaries
+Consolidated Statements of Income
+($ in millions, except per share data)
+For the years ended June 30,
+2023
+2022
+2021
+Net sales
+$
+14,694 
+$
+14,544 
+$
+12,861 
+Cost of sales
+(11,969)
+(11,724)
+(10,129)
+Gross profit
+2,725 
+2,820 
+2,732 
+Selling, general, and administrative expenses
+(1,246)
+(1,284)
+(1,292)
+Research and development expenses
+(101)
+(96)
+(100)
+Restructuring, impairment, and other related activities, net
+104 
+(234)
+(94)
+Other income, net
+26 
+33 
+75 
+Operating income
+1,508 
+1,239 
+1,321 
+Interest income
+31 
+24 
+14 
+Interest expense
+(290)
+(159)
+(153)
+Other non-operating income, net
+2 
+11 
+11 
+Income before income taxes and equity in income of affiliated companies
+1,251 
+1,115 
+1,193 
+Income tax expense
+(193)
+(300)
+(261)
+Equity in income of affiliated companies, net of tax
+ 
+ 
+19 
+Net income
+$
+1,058 
+$
+815 
+$
+951 
+Net income attributable to non-controlling interests
+(10)
+(10)
+(12)
+Net income attributable to Amcor plc
+$
+1,048 
+$
+805 
+$
+939 
+Basic earnings per share:
+Basic earnings per share
+$
+0.709 
+$
+0.532 
+$
+0.604 
+Diluted earnings per share
+$
+0.705 
+$
+0.529 
+$
+0.602 
+ See accompanying notes to consolidated financial statements.
+50
+
+Question: As of fiscal year 2023, has AMCOR's gross margin been trending upward? If gross margin isn't a meaningful metric for this type of company, note that and give the reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

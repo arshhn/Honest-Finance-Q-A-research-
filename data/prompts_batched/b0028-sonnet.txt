@@ -1,0 +1,1054 @@
+You are sitting an exam made of 7 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-10420-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 128 
+Consolidated Balance Sheets
+December 31, 2022 and 2021
+2022
+2021
+(in millions, except share and per share data)
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents
+$
+1,374 
+$
+943 
+Restricted cash
+536 
+304 
+Short-term investments
+730 
+232 
+Accounts receivable, net of allowance for doubtful accounts of $5 and $5, respectively
+1,799 
+1,418 
+Inventory
+1,055 
+604 
+Prepaid expenses
+98 
+142 
+Other current assets, net of CECL allowance of $2 and $0, respectively
+1,533 
+897 
+Current held-for-sale assets
+518 
+816 
+Total current assets
+7,643 
+5,356 
+NONCURRENT ASSETS
+Property, Plant and Equipment:
+Land
+470 
+426 
+Electric generation, distribution assets and other
+26,599 
+25,552 
+Accumulated depreciation
+(8,651)
+(8,486)
+Construction in progress
+4,621 
+2,414 
+Property, plant and equipment, net
+23,039 
+19,906 
+Other Assets:
+Investments in and advances to affiliates
+952 
+1,080 
+Debt service reserves and other deposits
+177 
+237 
+Goodwill
+362 
+1,177 
+Other intangible assets, net of accumulated amortization of $434 and $385, respectively
+1,841 
+1,450 
+Deferred income taxes
+319 
+409 
+Loan receivable, net of allowance of $26
+1,051 
+ 
+Other noncurrent assets, net of allowance of $51 and $23, respectively
+2,979 
+2,188 
+Noncurrent held-for-sale assets
+ 
+1,160 
+Total other assets
+7,681 
+7,701 
+TOTAL ASSETS
+$
+38,363 
+$
+32,963 
+LIABILITIES AND EQUITY
+CURRENT LIABILITIES
+Accounts payable
+$
+1,730 
+$
+1,153 
+Accrued interest
+249 
+182 
+Accrued non-income taxes
+249 
+266 
+Accrued and other liabilities
+2,151 
+1,205 
+Non-recourse debt, including $416 and $302, respectively, related to variable interest entities
+1,758 
+1,367 
+Current held-for-sale liabilities
+354 
+559 
+Total current liabilities
+6,491 
+4,732 
+NONCURRENT LIABILITIES
+Recourse debt
+3,894 
+3,729 
+Non-recourse debt, including $2,295 and $2,223, respectively, related to variable interest entities
+17,846 
+13,603 
+Deferred income taxes
+1,139 
+977 
+Other noncurrent liabilities
+3,168 
+3,358 
+Noncurrent held-for-sale liabilities
+ 
+740 
+Total noncurrent liabilities
+26,047 
+22,407 
+Commitments and Contingencies (see Notes 12 and 13)
+Redeemable stock of subsidiaries
+1,321 
+1,257 
+EQUITY
+THE AES CORPORATION STOCKHOLDERS EQUITY
+Preferred stock (without par value, 50,000,000 shares authorized; 1,043,050 issued and outstanding at December 31, 2022 and
+December 31, 2021)
+838 
+838 
+Common stock ($0.01 par value, 1,200,000,000 shares authorized; 818,790,001 issued and 668,743,464 outstanding at December
+31, 2022 and 818,717,043 issued and 666,793,625 outstanding at December 31, 2021)
+8 
+8 
+Additional paid-in capital
+6,688 
+7,106 
+Accumulated deficit
+(1,635)
+(1,089)
+Accumulated other comprehensive loss
+(1,640)
+(2,220)
+Treasury stock, at cost (150,046,537 and 151,923,418 shares at December 31, 2022 and December 31, 2021, respectively)
+(1,822)
+(1,845)
+Total AES Corporation stockholders equity
+2,437 
+2,798 
+NONCONTROLLING INTERESTS
+2,067 
+1,769 
+Total equity
+4,504 
+4,567 
+TOTAL LIABILITIES AND EQUITY
+$
+38,363 
+$
+32,963 
+See Accompanying Notes to Consolidated Financial Statements.
+
+
+---
+
+129 
+Consolidated Statements of Operations
+Years ended December 31, 2022, 2021, and 2020
+2022
+2021
+2020
+(in millions, except per share amounts)
+Revenue:
+Regulated
+$
+3,538 
+$
+2,868 
+$
+2,661 
+Non-Regulated
+9,079 
+8,273 
+6,999 
+Total revenue
+12,617 
+11,141 
+9,660 
+Cost of Sales:
+Regulated
+(3,162)
+(2,448)
+(2,235)
+Non-Regulated
+(6,907)
+(5,982)
+(4,732)
+Total cost of sales
+(10,069)
+(8,430)
+(6,967)
+Operating margin
+2,548 
+2,711 
+2,693 
+General and administrative expenses
+(207)
+(166)
+(165)
+Interest expense
+(1,117)
+(911)
+(1,038)
+Interest income
+389 
+298 
+268 
+Loss on extinguishment of debt
+(15)
+(78)
+(186)
+Other expense
+(68)
+(60)
+(53)
+Other income
+102 
+410 
+75 
+Loss on disposal and sale of business interests
+(9)
+(1,683)
+(95)
+Goodwill impairment expense
+(777)
+ 
+ 
+Asset impairment expense
+(763)
+(1,575)
+(864)
+Foreign currency transaction gains (losses)
+(77)
+(10)
+55 
+Other non-operating expense
+(175)
+ 
+(202)
+INCOME (LOSS) FROM CONTINUING OPERATIONS BEFORE TAXES AND EQUITY IN EARNINGS OF AFFILIATES
+(169)
+(1,064)
+488 
+Income tax benefit (expense)
+(265)
+133 
+(216)
+Net equity in losses of affiliates
+(71)
+(24)
+(123)
+INCOME (LOSS) FROM CONTINUING OPERATIONS
+(505)
+(955)
+149 
+Gain from disposal of discontinued businesses, net of income tax expense of $0, $1, and $0, respectively
+ 
+4 
+3 
+NET INCOME (LOSS)
+(505)
+(951)
+152 
+Less: Net loss (income) attributable to noncontrolling interests and redeemable stock of subsidiaries
+(41)
+542 
+(106)
+NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION
+$
+(546)
+$
+(409)
+$
+46 
+AMOUNTS ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS:
+Income (loss) from continuing operations, net of tax
+$
+(546)
+$
+(413)
+$
+43 
+Income from discontinued operations, net of tax
+ 
+4 
+3 
+NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION
+$
+(546)
+$
+(409)
+$
+46 
+BASIC EARNINGS PER SHARE:
+Income (loss) from continuing operations attributable to The AES Corporation common stockholders, net of tax
+$
+(0.82)
+$
+(0.62)
+$
+0.06 
+Income from discontinued operations attributable to The AES Corporation common stockholders, net of tax
+ 
+0.01 
+0.01 
+NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS
+$
+(0.82)
+$
+(0.61)
+$
+0.07 
+DILUTED EARNINGS PER SHARE:
+Income (loss) from continuing operations attributable to The AES Corporation common stockholders, net of tax
+$
+(0.82)
+$
+(0.62)
+$
+0.06 
+Income from discontinued operations attributable to The AES Corporation common stockholders, net of tax
+ 
+0.01 
+0.01 
+NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS
+$
+(0.82)
+$
+(0.61)
+$
+0.07 
+See Accompanying Notes to Consolidated Financial Statements.
+
+Question: Using data drawn mainly from the balance sheet and the income statement, calculate AES's return on assets (ROA) for fiscal year 2022, where ROA equals FY2022 net income divided by the average total assets across FY2021 and FY2022. Give your answer rounded to two decimal places.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-00540-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 128 
+Consolidated Balance Sheets
+December 31, 2022 and 2021
+2022
+2021
+(in millions, except share and per share data)
+ASSETS
+CURRENT ASSETS
+Cash and cash equivalents
+$
+1,374 
+$
+943 
+Restricted cash
+536 
+304 
+Short-term investments
+730 
+232 
+Accounts receivable, net of allowance for doubtful accounts of $5 and $5, respectively
+1,799 
+1,418 
+Inventory
+1,055 
+604 
+Prepaid expenses
+98 
+142 
+Other current assets, net of CECL allowance of $2 and $0, respectively
+1,533 
+897 
+Current held-for-sale assets
+518 
+816 
+Total current assets
+7,643 
+5,356 
+NONCURRENT ASSETS
+Property, Plant and Equipment:
+Land
+470 
+426 
+Electric generation, distribution assets and other
+26,599 
+25,552 
+Accumulated depreciation
+(8,651)
+(8,486)
+Construction in progress
+4,621 
+2,414 
+Property, plant and equipment, net
+23,039 
+19,906 
+Other Assets:
+Investments in and advances to affiliates
+952 
+1,080 
+Debt service reserves and other deposits
+177 
+237 
+Goodwill
+362 
+1,177 
+Other intangible assets, net of accumulated amortization of $434 and $385, respectively
+1,841 
+1,450 
+Deferred income taxes
+319 
+409 
+Loan receivable, net of allowance of $26
+1,051 
+ 
+Other noncurrent assets, net of allowance of $51 and $23, respectively
+2,979 
+2,188 
+Noncurrent held-for-sale assets
+ 
+1,160 
+Total other assets
+7,681 
+7,701 
+TOTAL ASSETS
+$
+38,363 
+$
+32,963 
+LIABILITIES AND EQUITY
+CURRENT LIABILITIES
+Accounts payable
+$
+1,730 
+$
+1,153 
+Accrued interest
+249 
+182 
+Accrued non-income taxes
+249 
+266 
+Accrued and other liabilities
+2,151 
+1,205 
+Non-recourse debt, including $416 and $302, respectively, related to variable interest entities
+1,758 
+1,367 
+Current held-for-sale liabilities
+354 
+559 
+Total current liabilities
+6,491 
+4,732 
+NONCURRENT LIABILITIES
+Recourse debt
+3,894 
+3,729 
+Non-recourse debt, including $2,295 and $2,223, respectively, related to variable interest entities
+17,846 
+13,603 
+Deferred income taxes
+1,139 
+977 
+Other noncurrent liabilities
+3,168 
+3,358 
+Noncurrent held-for-sale liabilities
+ 
+740 
+Total noncurrent liabilities
+26,047 
+22,407 
+Commitments and Contingencies (see Notes 12 and 13)
+Redeemable stock of subsidiaries
+1,321 
+1,257 
+EQUITY
+THE AES CORPORATION STOCKHOLDERS EQUITY
+Preferred stock (without par value, 50,000,000 shares authorized; 1,043,050 issued and outstanding at December 31, 2022 and
+December 31, 2021)
+838 
+838 
+Common stock ($0.01 par value, 1,200,000,000 shares authorized; 818,790,001 issued and 668,743,464 outstanding at December
+31, 2022 and 818,717,043 issued and 666,793,625 outstanding at December 31, 2021)
+8 
+8 
+Additional paid-in capital
+6,688 
+7,106 
+Accumulated deficit
+(1,635)
+(1,089)
+Accumulated other comprehensive loss
+(1,640)
+(2,220)
+Treasury stock, at cost (150,046,537 and 151,923,418 shares at December 31, 2022 and December 31, 2021, respectively)
+(1,822)
+(1,845)
+Total AES Corporation stockholders equity
+2,437 
+2,798 
+NONCONTROLLING INTERESTS
+2,067 
+1,769 
+Total equity
+4,504 
+4,567 
+TOTAL LIABILITIES AND EQUITY
+$
+38,363 
+$
+32,963 
+See Accompanying Notes to Consolidated Financial Statements.
+
+
+---
+
+129 
+Consolidated Statements of Operations
+Years ended December 31, 2022, 2021, and 2020
+2022
+2021
+2020
+(in millions, except per share amounts)
+Revenue:
+Regulated
+$
+3,538 
+$
+2,868 
+$
+2,661 
+Non-Regulated
+9,079 
+8,273 
+6,999 
+Total revenue
+12,617 
+11,141 
+9,660 
+Cost of Sales:
+Regulated
+(3,162)
+(2,448)
+(2,235)
+Non-Regulated
+(6,907)
+(5,982)
+(4,732)
+Total cost of sales
+(10,069)
+(8,430)
+(6,967)
+Operating margin
+2,548 
+2,711 
+2,693 
+General and administrative expenses
+(207)
+(166)
+(165)
+Interest expense
+(1,117)
+(911)
+(1,038)
+Interest income
+389 
+298 
+268 
+Loss on extinguishment of debt
+(15)
+(78)
+(186)
+Other expense
+(68)
+(60)
+(53)
+Other income
+102 
+410 
+75 
+Loss on disposal and sale of business interests
+(9)
+(1,683)
+(95)
+Goodwill impairment expense
+(777)
+ 
+ 
+Asset impairment expense
+(763)
+(1,575)
+(864)
+Foreign currency transaction gains (losses)
+(77)
+(10)
+55 
+Other non-operating expense
+(175)
+ 
+(202)
+INCOME (LOSS) FROM CONTINUING OPERATIONS BEFORE TAXES AND EQUITY IN EARNINGS OF AFFILIATES
+(169)
+(1,064)
+488 
+Income tax benefit (expense)
+(265)
+133 
+(216)
+Net equity in losses of affiliates
+(71)
+(24)
+(123)
+INCOME (LOSS) FROM CONTINUING OPERATIONS
+(505)
+(955)
+149 
+Gain from disposal of discontinued businesses, net of income tax expense of $0, $1, and $0, respectively
+ 
+4 
+3 
+NET INCOME (LOSS)
+(505)
+(951)
+152 
+Less: Net loss (income) attributable to noncontrolling interests and redeemable stock of subsidiaries
+(41)
+542 
+(106)
+NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION
+$
+(546)
+$
+(409)
+$
+46 
+AMOUNTS ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS:
+Income (loss) from continuing operations, net of tax
+$
+(546)
+$
+(413)
+$
+43 
+Income from discontinued operations, net of tax
+ 
+4 
+3 
+NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION
+$
+(546)
+$
+(409)
+$
+46 
+BASIC EARNINGS PER SHARE:
+Income (loss) from continuing operations attributable to The AES Corporation common stockholders, net of tax
+$
+(0.82)
+$
+(0.62)
+$
+0.06 
+Income from discontinued operations attributable to The AES Corporation common stockholders, net of tax
+ 
+0.01 
+0.01 
+NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS
+$
+(0.82)
+$
+(0.61)
+$
+0.07 
+DILUTED EARNINGS PER SHARE:
+Income (loss) from continuing operations attributable to The AES Corporation common stockholders, net of tax
+$
+(0.82)
+$
+(0.62)
+$
+0.06 
+Income from discontinued operations attributable to The AES Corporation common stockholders, net of tax
+ 
+0.01 
+0.01 
+NET INCOME (LOSS) ATTRIBUTABLE TO THE AES CORPORATION COMMON STOCKHOLDERS
+$
+(0.82)
+$
+(0.61)
+$
+0.07 
+See Accompanying Notes to Consolidated Financial Statements.
+
+Question: Approximately how many times did AES Corporation turn over its inventory during FY2022? Compute the FY2022 inventory turnover ratio; if standard inventory management doesn't meaningfully apply to this company, note that and explain the reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-00839-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ Item 5.02.
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory
+Arrangements of Certain Officers.
+ 
+On August 19, 2022, Foot Locker, Inc. (the Company), issued a press release announcing that, as part of a planned succession process, Richard
+A. Johnson will step down as President and Chief Executive Officer of the Company, effective September 1, 2022. Mary N. Dillon, 61, former Executive
+Chair and Chief Executive Officer of Ulta Beauty, Inc., has been appointed President and Chief Executive Officer and a member of the Companys Board
+of Directors (the Board) and the Executive Committee of the Board, each effective September 1, 2022. A copy of the press release is furnished as Exhibit
+99.1, which is incorporated herein by reference.
+ 
+Ms. Dillon served as Executive Chair of the Board of Directors of Ulta Beauty, Inc. from June 2021 through June 2022. She previously served as
+Chief Executive Officer and a member of the Board of Directors of Ulta from July 2013 through June 2021. Prior to Ulta, she served as President and Chief
+Executive Officer and a member of the Board of Directors of United States Cellular Corporation from 2010 through 2013; and Global Chief Marketing
+Officer and Executive Vice President of McDonalds Corporation from 2005 through 2010. Previously, Ms. Dillon held several positions of increasing
+responsibility at PepsiCo Corporation, including as President of the Quaker Foods division from 2004 through 2005 and as Vice President of Marketing for
+Gatorade and Quaker Foods from 2002 through 2004. Ms. Dillon also currently serves on the Board of Directors of each of Starbucks Corporation and
+KKR & Co. Inc. and previously served on the Board of Directors of Target Corporation. Ms. Dillon has no family relationship with any of the Companys
+directors or executive officers. Ms. Dillon has no direct or indirect material interest in any related party transaction required to be disclosed pursuant to
+Item 404(a) of Regulation S-K.
+ 
+On August 17, 2022, the Company entered into a letter agreement (the letter agreement) with Mr. Johnson regarding the transition of his
+services until his retirement from the Company on a date to be mutually agreed between the Companys Non-Executive Chair and Mr. Johnson, which will
+be no earlier than April 1, 2023 and no later than April 15, 2023 (the retirement date). The letter agreement provides that he will serve as Executive
+Chairman of the Board from September 1, 2022 until January 31, 2023 and will serve as Senior Advisor to the Company thereafter through the retirement
+date. Pursuant to the letter agreement, Mr. Johnson will remain eligible for a bonus under the Companys annual bonus plan for the 2022 fiscal year. During
+his term as Senior Advisor, Mr. Johnsons annual base salary will be reduced to fifty percent (50%) of his base salary in effect as of August 19, 2022. In
+addition, Mr. Johnson will no longer be eligible receive annual equity awards or to participate in the annual bonus plan for the 2023 fiscal year. Except as
+modified by the letter agreement, the provisions of Mr. Johnsons previously-disclosed employment agreement remain materially unchanged. The
+foregoing description of the letter agreement is a summary of certain terms only and is qualified in its entirety by the full text of the letter agreement filed
+as Exhibit 10.1 hereto, which is incorporated herein by reference.
+ 
+In connection with the Ms. Dillons appointment by the Board, the Company entered into an employment agreement with Ms. Dillon, dated
+August 16, 2022 (the Employment Agreement), which provides for an employment term commencing August 19, 2022 through January 31, 2026 (or the
+last day of the Companys 2025 fiscal year if such date does not fall on January 31, 2026), and her appointment as President and Chief Executive Officer of
+the Company, effective September 1, 2022. The employment term will automatically be extended for additional one-year terms unless either party provides
+180 days notice of non-renewal. Ms. Dillon will receive a base salary of not less than $1,300,000 annually and will be entitled to participate in all bonus,
+incentive, and equity plans maintained by the Company for senior executives. Ms. Dillons annual bonus opportunity at target under the Companys annual
+bonus plan will be 200% of her then-current base salary, prorated with regard to the 2022 fiscal year. Within 30 days of her commencement of employment
+with the Company, Ms. Dillon will also be provided with a cash sign-on bonus equal to $250,000.
+ 
+The Employment Agreement provides that Ms. Dillon will be granted certain employment inducement awards, effective August 24, 2022, as
+follows: (i) a restricted stock unit award (RSUs) with a grant date fair value equal to $2,000,000 (which will vest on the third anniversary of her
+commencement date), (ii) a transformation grant of performance share units (PSUs) with a grant date fair value equal to $5,000,000 (which will vest based
+on three years of continued employment and the achievement of performance metrics as determined by the Human Capital and Compensation Committee),
+and (iii) an annual $8,000,000 grant, pro-rated in respect of the Companys current fiscal year, consisting of PSUs (60%), RSUs (20%), and non-qualified
+stock options (20%) generally consistent with the terms applicable to other senior executives of the Company. These awards will be granted outside of the
+Companys
+ 
+ 
+
+Question: Has Foot Locker's newly appointed CEO previously served as CEO at a company comparable to Foot Locker?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-02419-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: ITEM 2. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+GENERAL
+The following MD&A is intended to assist the reader in understanding our financial condition and results of operations, including an evaluation of the amounts
+and certainty of cash flows from operations and from outside sources, and is provided as a supplement to and should be read in conjunction with the condensed
+consolidated financial statements and related notes in Item 1. Financial Statements in this Form 10-Q.
+References to operational variances pertain to period-over-period changes that exclude the impact of foreign exchange rates. Although foreign exchange rate
+changes are part of our business, they are not within our control and because they can mask positive or negative trends in the business, we believe presenting
+operational variances excluding these foreign exchange changes provides useful information to evaluate our results.
+OVERVIEW OF OUR PERFORMANCE, OPERATING ENVIRONMENT, STRATEGY AND OUTLOOK
+Our Business and StrategyPfizer Inc. is a research-based, global biopharmaceutical company. We apply science and our global resources to bring therapies
+to people that extend and significantly improve their lives. In 2023, we are making additional investments in both R&D and SI&A to support Pfizers near- and
+longer-term growth plans, including to support anticipated new launches, commercial launch of COVID-19 products, potential pipeline programs and recently
+acquired assets. We manage our commercial operations through a global structure consisting of two operating segments: Biopharma and Business Innovation.
+Biopharma is the only reportable segment. See Note 13A.
+We expect to incur costs of approximately $700 million in connection with separating Upjohn, of which approximately 90% has been incurred since inception
+and through the second quarter of 2023. These charges include costs and expenses related to separation of legal entities and transaction costs.
+In the fourth quarter of 2022, we began taking steps through our Transforming to a More Focused Company restructuring program to optimize our end-to-end
+R&D operations to reduce costs and cycle times as well as to further prioritize our internal R&D portfolio in areas where our capabilities are differentiated
+while increasing external innovation efforts to leverage an expanding and productive biotech sector. See Note 3. For a description of savings related to this
+program, see the Costs and ExpensesRestructuring Charges and Other Costs Associated with Acquisitions and Cost-Reduction/Productivity Initiatives
+section within MD&A.
+In July 2023, we announced that in consideration of planned future investments in oncology, including the proposed acquisition of Seagen, we are reorganizing
+how our R&D operations are conducted. Beginning in July 2023, discovery to early- and late-phase clinical development for oncology will be performed by a
+new end-to-end Oncology Research and Development platform function and discovery to early- and late-phase clinical development for all remaining
+therapeutic areas will be consolidated in the Pfizer Research and Development platform function.
+For additional information about our business, strategy and operating environment, see the Item 1. Business section and Overview of Our Performance,
+Operating Environment, Strategy and Outlook section within MD&A of our 2022 Form 10-K.
+Our Business Development InitiativesWe are committed to strategically capitalizing on growth opportunities, primarily by advancing our own product
+pipeline and maximizing the value of our existing products, but also through various business development activities. Our significant recent business
+development activities include the transactions discussed in Notes 1A and 2, including the proposed acquisition of Seagen, as well as the following:
+Proposed Divestiture of Early-Stage Rare Disease Gene Therapy PortfolioIn July 2023, we entered into an agreement with Alexion, a subsidiary of
+AstraZeneca plc, under which Alexion will purchase and license the assets of our early-stage rare disease gene therapy portfolio. This agreement is consistent
+with our previously announced strategy to pivot from viral capsid-based gene therapy approaches to harnessing new platform technologies that we believe can
+have a transformative impact on patients, such as mRNA or in vivo gene editing. Under the terms of the agreement, Alexion will pay us total consideration of
+up to $1 billion, plus tiered royalties based on annual net sales of the assets. The transaction is expected to close in the third quarter of 2023, subject to
+customary closing conditions.
+Agreement with Flagship Pioneering, Inc. (Flagship)In July 2023, we and Flagship announced that we have partnered to create a new pipeline of innovative
+medicines. Under the terms of the novel agreement, we and Flagship will each invest $50 million upfront to explore opportunities to develop 10 single-asset
+programs by leveraging Flagships ecosystem of more than 40 human health companies and multiple biotechnology platforms. Pfizer will fund and have an
+option to acquire each selected development program. Flagship and its bioplatform companies will be eligible to receive up to $700 million in milestones and
+royalties for each successfully commercialized program.
+38
+
+Question: For the second quarter of fiscal year 2023, has Pfizer announced plans to divest or spin off any of its major business segments?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-00206-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Item 1. Business.
+Overview
+JPMorgan Chase & Co. (JPMorgan Chase or the Firm, 
+NYSE: JPM), a financial holding company incorporated under 
+Delaware law in 1968, is a leading financial services firm 
+based in the United States of America (U.S.), with 
+operations worldwide. JPMorgan Chase had $3.7 trillion in 
+assets and $292.3 billion in stockholders equity as of 
+December 31, 2022. The Firm is a leader in investment 
+banking, financial services for consumers and small 
+businesses, commercial banking, financial transaction 
+processing and asset management. Under the J.P. Morgan 
+and Chase brands, the Firm serves millions of customers, 
+predominantly in the U.S., and many of the worlds most 
+prominent corporate, institutional and government clients 
+globally.
+JPMorgan Chases principal bank subsidiary is JPMorgan 
+Chase Bank, National Association (JPMorgan Chase Bank, 
+N.A.), a national banking association with U.S. branches in 
+48 states and Washington, D.C. JPMorgan Chases principal 
+non-bank subsidiary is J.P. Morgan Securities LLC (J.P. 
+Morgan Securities), a U.S. broker-dealer. The bank and non-
+bank subsidiaries of JPMorgan Chase operate nationally as 
+well as through overseas branches and subsidiaries, 
+representative offices and subsidiary foreign banks. The 
+Firms principal operating subsidiaries outside the U.S. are 
+J.P. Morgan Securities plc and J.P. Morgan SE (JPMSE), 
+which are subsidiaries of JPMorgan Chase Bank, N.A. and are 
+based in the United Kingdom (U.K.) and Germany, 
+respectively.
+The Firms website is www.jpmorganchase.com. JPMorgan 
+Chase makes available on its website, free of charge, annual 
+reports on Form 10-K, quarterly reports on Form 10-Q and 
+current reports on Form 8-K pursuant to Section 13(a) or 
+Section 15(d) of the Securities Exchange Act of 1934, as 
+soon as reasonably practicable after it electronically files or 
+furnishes such material to the U.S. Securities and Exchange 
+Commission (the SEC) at www.sec.gov. JPMorgan Chase 
+makes new and important information about the Firm 
+available on its website at https://www.jpmorganchase.com, 
+including on the Investor Relations section of its website at 
+https://www.jpmorganchase.com/ir. Information on the 
+Firm's website is not incorporated by reference into this 
+Annual Report on Form 10-K for the year ended 
+December 31, 2022 (2022 Form 10-K or Form 10-K) or 
+the Firms other filings with the SEC. The Firm has adopted, 
+and posted on its website, a Code of Conduct for all 
+employees of the Firm and a Code of Ethics for its Chairman 
+and Chief Executive Officer, Chief Financial Officer, Principal 
+Accounting Officer and all other professionals of the Firm 
+worldwide serving in a finance, accounting, treasury, tax or 
+investor relations role. The Code of Ethics is also available in 
+print upon request to the Firms Investor Relations team. 
+Within the time period required by the SEC, JPMorgan Chase 
+will post on its website any amendment to the Code of Ethics 
+and any waiver applicable to a director or executive officer.
+Business segments
+For management reporting purposes, JPMorgan Chases 
+activities are organized into four major reportable business 
+segments, as well as a Corporate segment. The Firms 
+consumer business is the Consumer & Community Banking 
+(CCB) segment. The Firms wholesale business segments 
+are the Corporate & Investment Bank (CIB), Commercial 
+Banking (CB), and Asset & Wealth Management (AWM).
+A description of the Firms business segments and the 
+products and services they provide to their respective client 
+bases is provided in the Business segment results section 
+of Managements discussion and analysis of financial 
+condition and results of operations (Managements 
+discussion and analysis or MD&A), beginning on page 46 
+and in Note 32.
+Competition
+JPMorgan Chase and its subsidiaries and affiliates operate in 
+highly competitive environments. Competitors include other 
+banks, brokerage firms, investment banking companies, 
+merchant banks, hedge funds, commodity trading 
+companies, private equity firms, insurance companies, 
+mutual fund companies, investment managers, credit card 
+companies, mortgage banking companies, trust companies, 
+securities processing companies, automobile financing 
+companies, leasing companies, e-commerce and other 
+internet-based companies, financial technology companies, 
+and other companies engaged in providing similar as well as 
+new products and services. The Firms businesses generally 
+compete on the basis of the quality and variety of the Firms 
+products and services, transaction execution, innovation, 
+reputation and price. Competition also varies based on the 
+types of clients, customers, industries and geographies 
+served. With respect to some of its geographies and 
+products, JPMorgan Chase competes globally; with respect to 
+others, the Firm competes on a national or regional basis. 
+New competitors in the financial services industry continue 
+to emerge, including firms that offer products and services 
+solely through the internet and non-financial companies that 
+offer products and services that disintermediate traditional 
+banking products and services offered by financial services 
+firms such as JPMorgan Chase.
+Part I
+1
+
+Question: Has JPM maintained relatively stable gross margins over time, staying within about a 2% variance year to year? If gross margin isn't a meaningful metric for this type of company, please say so and explain the reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-00283-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: ITEM 2. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+GENERAL
+The following MD&A is intended to assist the reader in understanding our financial condition and results of operations, including an evaluation of the amounts
+and certainty of cash flows from operations and from outside sources, and is provided as a supplement to and should be read in conjunction with the condensed
+consolidated financial statements and related notes in Item 1. Financial Statements in this Form 10-Q.
+References to operational variances pertain to period-over-period changes that exclude the impact of foreign exchange rates. Although foreign exchange rate
+changes are part of our business, they are not within our control and because they can mask positive or negative trends in the business, we believe presenting
+operational variances excluding these foreign exchange changes provides useful information to evaluate our results.
+OVERVIEW OF OUR PERFORMANCE, OPERATING ENVIRONMENT, STRATEGY AND OUTLOOK
+Our Business and StrategyPfizer Inc. is a research-based, global biopharmaceutical company. We apply science and our global resources to bring therapies
+to people that extend and significantly improve their lives. In 2023, we are making additional investments in both R&D and SI&A to support Pfizers near- and
+longer-term growth plans, including to support anticipated new launches, commercial launch of COVID-19 products, potential pipeline programs and recently
+acquired assets. We manage our commercial operations through a global structure consisting of two operating segments: Biopharma and Business Innovation.
+Biopharma is the only reportable segment. See Note 13A.
+We expect to incur costs of approximately $700 million in connection with separating Upjohn, of which approximately 90% has been incurred since inception
+and through the second quarter of 2023. These charges include costs and expenses related to separation of legal entities and transaction costs.
+In the fourth quarter of 2022, we began taking steps through our Transforming to a More Focused Company restructuring program to optimize our end-to-end
+R&D operations to reduce costs and cycle times as well as to further prioritize our internal R&D portfolio in areas where our capabilities are differentiated
+while increasing external innovation efforts to leverage an expanding and productive biotech sector. See Note 3. For a description of savings related to this
+program, see the Costs and ExpensesRestructuring Charges and Other Costs Associated with Acquisitions and Cost-Reduction/Productivity Initiatives
+section within MD&A.
+In July 2023, we announced that in consideration of planned future investments in oncology, including the proposed acquisition of Seagen, we are reorganizing
+how our R&D operations are conducted. Beginning in July 2023, discovery to early- and late-phase clinical development for oncology will be performed by a
+new end-to-end Oncology Research and Development platform function and discovery to early- and late-phase clinical development for all remaining
+therapeutic areas will be consolidated in the Pfizer Research and Development platform function.
+For additional information about our business, strategy and operating environment, see the Item 1. Business section and Overview of Our Performance,
+Operating Environment, Strategy and Outlook section within MD&A of our 2022 Form 10-K.
+Our Business Development InitiativesWe are committed to strategically capitalizing on growth opportunities, primarily by advancing our own product
+pipeline and maximizing the value of our existing products, but also through various business development activities. Our significant recent business
+development activities include the transactions discussed in Notes 1A and 2, including the proposed acquisition of Seagen, as well as the following:
+Proposed Divestiture of Early-Stage Rare Disease Gene Therapy PortfolioIn July 2023, we entered into an agreement with Alexion, a subsidiary of
+AstraZeneca plc, under which Alexion will purchase and license the assets of our early-stage rare disease gene therapy portfolio. This agreement is consistent
+with our previously announced strategy to pivot from viral capsid-based gene therapy approaches to harnessing new platform technologies that we believe can
+have a transformative impact on patients, such as mRNA or in vivo gene editing. Under the terms of the agreement, Alexion will pay us total consideration of
+up to $1 billion, plus tiered royalties based on annual net sales of the assets. The transaction is expected to close in the third quarter of 2023, subject to
+customary closing conditions.
+Agreement with Flagship Pioneering, Inc. (Flagship)In July 2023, we and Flagship announced that we have partnered to create a new pipeline of innovative
+medicines. Under the terms of the novel agreement, we and Flagship will each invest $50 million upfront to explore opportunities to develop 10 single-asset
+programs by leveraging Flagships ecosystem of more than 40 human health companies and multiple biotechnology platforms. Pfizer will fund and have an
+option to acquire each selected development program. Flagship and its bioplatform companies will be eligible to receive up to $700 million in milestones and
+royalties for each successfully commercialized program.
+38
+
+Question: What is the projected future payment amount, in USD million, that Pfizer anticipates for the Upjohn spin-off?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-00283-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: ITEM 2. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+GENERAL
+The following MD&A is intended to assist the reader in understanding our financial condition and results of operations, including an evaluation of the amounts
+and certainty of cash flows from operations and from outside sources, and is provided as a supplement to and should be read in conjunction with the condensed
+consolidated financial statements and related notes in Item 1. Financial Statements in this Form 10-Q.
+References to operational variances pertain to period-over-period changes that exclude the impact of foreign exchange rates. Although foreign exchange rate
+changes are part of our business, they are not within our control and because they can mask positive or negative trends in the business, we believe presenting
+operational variances excluding these foreign exchange changes provides useful information to evaluate our results.
+OVERVIEW OF OUR PERFORMANCE, OPERATING ENVIRONMENT, STRATEGY AND OUTLOOK
+Our Business and StrategyPfizer Inc. is a research-based, global biopharmaceutical company. We apply science and our global resources to bring therapies
+to people that extend and significantly improve their lives. In 2023, we are making additional investments in both R&D and SI&A to support Pfizers near- and
+longer-term growth plans, including to support anticipated new launches, commercial launch of COVID-19 products, potential pipeline programs and recently
+acquired assets. We manage our commercial operations through a global structure consisting of two operating segments: Biopharma and Business Innovation.
+Biopharma is the only reportable segment. See Note 13A.
+We expect to incur costs of approximately $700 million in connection with separating Upjohn, of which approximately 90% has been incurred since inception
+and through the second quarter of 2023. These charges include costs and expenses related to separation of legal entities and transaction costs.
+In the fourth quarter of 2022, we began taking steps through our Transforming to a More Focused Company restructuring program to optimize our end-to-end
+R&D operations to reduce costs and cycle times as well as to further prioritize our internal R&D portfolio in areas where our capabilities are differentiated
+while increasing external innovation efforts to leverage an expanding and productive biotech sector. See Note 3. For a description of savings related to this
+program, see the Costs and ExpensesRestructuring Charges and Other Costs Associated with Acquisitions and Cost-Reduction/Productivity Initiatives
+section within MD&A.
+In July 2023, we announced that in consideration of planned future investments in oncology, including the proposed acquisition of Seagen, we are reorganizing
+how our R&D operations are conducted. Beginning in July 2023, discovery to early- and late-phase clinical development for oncology will be performed by a
+new end-to-end Oncology Research and Development platform function and discovery to early- and late-phase clinical development for all remaining
+therapeutic areas will be consolidated in the Pfizer Research and Development platform function.
+For additional information about our business, strategy and operating environment, see the Item 1. Business section and Overview of Our Performance,
+Operating Environment, Strategy and Outlook section within MD&A of our 2022 Form 10-K.
+Our Business Development InitiativesWe are committed to strategically capitalizing on growth opportunities, primarily by advancing our own product
+pipeline and maximizing the value of our existing products, but also through various business development activities. Our significant recent business
+development activities include the transactions discussed in Notes 1A and 2, including the proposed acquisition of Seagen, as well as the following:
+Proposed Divestiture of Early-Stage Rare Disease Gene Therapy PortfolioIn July 2023, we entered into an agreement with Alexion, a subsidiary of
+AstraZeneca plc, under which Alexion will purchase and license the assets of our early-stage rare disease gene therapy portfolio. This agreement is consistent
+with our previously announced strategy to pivot from viral capsid-based gene therapy approaches to harnessing new platform technologies that we believe can
+have a transformative impact on patients, such as mRNA or in vivo gene editing. Under the terms of the agreement, Alexion will pay us total consideration of
+up to $1 billion, plus tiered royalties based on annual net sales of the assets. The transaction is expected to close in the third quarter of 2023, subject to
+customary closing conditions.
+Agreement with Flagship Pioneering, Inc. (Flagship)In July 2023, we and Flagship announced that we have partnered to create a new pipeline of innovative
+medicines. Under the terms of the novel agreement, we and Flagship will each invest $50 million upfront to explore opportunities to develop 10 single-asset
+programs by leveraging Flagships ecosystem of more than 40 human health companies and multiple biotechnology platforms. Pfizer will fund and have an
+option to acquire each selected development program. Flagship and its bioplatform companies will be eligible to receive up to $700 million in milestones and
+royalties for each successfully commercialized program.
+38
+
+Question: How much does Pfizer expect to pay to spin off Upjohn in the future in USD million?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

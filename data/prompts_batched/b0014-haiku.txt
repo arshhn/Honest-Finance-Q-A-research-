@@ -1,0 +1,1511 @@
+You are sitting an exam made of 12 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another, even if they concern the same company.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fb-01488-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Exhibit 99.1
+Johnson & Johnson Announces Updated Financials and 2023 Guidance Following Completion of the Kenvue
+Separation
+
+Company expects increased 2023 Reported Sales Growth of 7.0% - 8.0%, Operational Sales Growth of 7.5% - 8.5%, and
+Adjusted Operational Sales Growth of 6.2% - 7.2%; Figures exclude the COVID-19 Vaccine
+
+Company expects 2023 Adjusted Reported Earnings Per Share (EPS) of $10.00 - $10.10, reflecting increased growth of
+12.5% at the mid-point and Adjusted Operational EPS of $9.90 - $10.00, reflecting increased growth of 11.5% at the mid-
+point
+
+Company reduced outstanding share count by approximately 191 million; 2023 guidance reflects only a partial-year benefit
+of approximately 73.5 million shares or $0.28 benefit to EPS
+
+Company secured $13.2 billion in cash proceeds from the Kenvue debt offering and initial public offering and maintains 9.5%
+of equity stake in Kenvue
+
+Company maintains its quarterly dividend of $1.19 per share
+New Brunswick, N.J. (August 30, 2023) Johnson & Johnson (NYSE: JNJ) (the Company) today announced updates to its financials and
+2023 guidance which reflect its operations as a company focused on transformational innovation in Pharmaceutical and MedTech. The
+Company has published a recorded webinar for investors to provide additional context behind the updated financials and 2023 guidance
+found in this release, which may be accessed by visiting the Investors section of the Company's website at webcasts & presentations.
+The completion of this transaction uniquely positions Johnson & Johnson as a Pharmaceutical and MedTech company focused on delivering
+transformative healthcare solutions to patients, said Joaquin Duato, Chairman of the Board and Chief Executive Officer. We are incredibly
+proud of the focus and dedication of our employees worldwide to achieve this milestone, which we are confident will unlock near- and long-
+term value for all of our stakeholders.
+As previously announced, the Company recently completed an exchange offer to finalize the separation of Kenvue Inc., formerly Johnson &
+Johnsons Consumer Health business. As a result of the completion of the exchange offer, Johnson & Johnson will now present its
+Consumer Health business financial results as discontinued operations, including a gain of approximately $20 billion in the third quarter of
+2023.
+
+Question: Starting on August 30, 2023, which of JnJ's business segments will be classified as a discontinued operation?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fb-00723-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+CONSOLIDATED STATEMENTS OF INCOME
+Year Ended December 31 (Millions, except per share amounts)
+2022
+2021
+2020
+Revenues
+Non-interest revenues
+Discount revenue
+$
+30,739 
+$
+24,563 
+$
+19,435 
+Net card fees
+6,070 
+5,195 
+4,664 
+Service fees and other revenue
+4,521 
+3,316 
+2,702 
+Processed revenue
+1,637 
+1,556 
+1,301 
+Total non-interest revenues
+42,967 
+34,630 
+28,102 
+Interest income
+Interest on loans
+11,967 
+8,850 
+9,779 
+Interest and dividends on investment securities
+96 
+83 
+127 
+Deposits with banks and other
+595 
+100 
+177 
+Total interest income
+12,658 
+9,033 
+10,083 
+Interest expense
+Deposits
+1,527 
+458 
+943 
+Long-term debt and other
+1,236 
+825 
+1,155 
+Total interest expense
+2,763 
+1,283 
+2,098 
+Net interest income
+9,895 
+7,750 
+7,985 
+Total revenues net of interest expense
+52,862 
+42,380 
+36,087 
+Provisions for credit losses
+Card Member receivables
+627 
+(73)
+1,015 
+Card Member loans
+1,514 
+(1,155)
+3,453 
+Other
+41 
+(191)
+262 
+Total provisions for credit losses
+2,182 
+(1,419)
+4,730 
+Total revenues net of interest expense after provisions for credit losses
+50,680 
+43,799 
+31,357 
+Expenses
+Card Member rewards
+14,002 
+11,007 
+8,041 
+Business development
+4,943 
+3,762 
+3,051 
+Card Member services
+2,959 
+1,993 
+1,230 
+Marketing
+5,458 
+5,291 
+3,696 
+Salaries and employee benefits
+7,252 
+6,240 
+5,718 
+Other, net
+6,481 
+4,817 
+5,325 
+Total expenses
+41,095 
+33,110 
+27,061 
+Pretax income
+9,585 
+10,689 
+4,296 
+Income tax provision
+2,071 
+2,629 
+1,161 
+Net income
+$
+7,514 
+$
+8,060 
+$
+3,135 
+Earnings per Common Share (Note 21)
+Basic
+$
+9.86 
+$
+10.04 
+$
+3.77 
+Diluted
+$
+9.85 
+$
+10.02 
+$
+3.77 
+Average common shares outstanding for earnings per common share:
+Basic
+751 
+789 
+805 
+Diluted
+752 
+790 
+806 
+(a)
+Represents net income less (i) earnings allocated to participating share awards of $57 million, $56 million and $20 million for the years ended December 31, 2022, 2021 and 2020, respectively,
+(ii) dividends on preferred shares of $57 million, $71 million and $79 million for the years ended December 31, 2022, 2021 and 2020, respectively, and (iii) equity-related adjustments of
+$16 million related to the redemption of preferred shares for the year ended December 31, 2021.
+See Notes to Consolidated Financial Statements.
+(a)
+93
+
+Question: For fiscal year 2022, has American Express shown a trend of improving operating margins? If operating margin isn't a meaningful metric for this type of company, say so and explain the reason.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fb-01279-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+Advanced Micro Devices, Inc.
+Consolidated Statements of Cash Flows
+Year Ended
+December 31,
+2022
+December 25,
+2021
+December 26,
+2020
+(In millions)
+Cash flows from operating activities:
+Net income
+$
+1,320 
+$
+3,162 
+$
+2,490 
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+4,174 
+407 
+312 
+Stock-based compensation
+1,081 
+379 
+274 
+Amortization of debt discount and issuance costs
+ 
+5 
+14 
+Amortization of operating lease right-of-use assets
+88 
+56 
+42 
+Amortization of inventory fair value adjustment
+189 
+ 
+ 
+Loss on debt redemption, repurchase and conversion
+ 
+7 
+54 
+Loss on sale or disposal of property and equipment
+16 
+34 
+33 
+Deferred income taxes
+(1,505)
+308 
+(1,223)
+(Gains) losses on equity investments, net
+62 
+(56)
+(2)
+Other
+(14)
+(7)
+8 
+Changes in operating assets and liabilities:
+Accounts receivable, net
+(1,091)
+(640)
+(219)
+Inventories
+(1,401)
+(556)
+(417)
+Receivables from related parties
+(13)
+8 
+10 
+Prepaid expenses and other assets
+(1,197)
+(920)
+(231)
+Payables to related parties
+379 
+7 
+(135)
+Accounts payable
+931 
+801 
+(513)
+Accrued liabilities and other
+546 
+526 
+574 
+Net cash provided by operating activities
+3,565 
+3,521 
+1,071 
+Cash flows from investing activities:
+Purchases of property and equipment
+(450)
+(301)
+(294)
+Purchases of short-term investments
+(2,667)
+(2,056)
+(850)
+Proceeds from maturity of short-term investments
+4,310 
+1,678 
+192 
+Cash received from acquisition of Xilinx
+2,366 
+ 
+ 
+Acquisition of Pensando, net of cash acquired
+(1,544)
+ 
+ 
+Other
+(16)
+(7)
+ 
+Net cash provided by (used in) investing activities
+1,999 
+(686)
+(952)
+Cash flows from financing activities:
+Proceeds from debt, net of issuance costs
+991 
+ 
+200 
+Repayment of debt
+(312)
+ 
+(200)
+Proceeds from sales of common stock through employee equity plans
+167 
+104 
+85 
+Repurchases of common stock
+(3,702)
+(1,762)
+ 
+Common stock repurchases for tax withholding on employee equity plans
+(406)
+(237)
+(78)
+Other
+(2)
+ 
+(1)
+Net cash (used in) provided by financing activities
+(3,264)
+(1,895)
+6 
+Net increase in cash and cash equivalents
+2,300 
+940 
+125 
+Cash and cash equivalents at beginning of year
+2,535 
+1,595 
+1,470 
+Cash and cash equivalents at end of year
+$
+4,835 
+$
+2,535 
+$
+1,595 
+55
+
+Question: For AMD in FY22, which category among operating, investing, and financing activities generated the largest positive cash flow, or if all were negative, the smallest cash outflow?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fb-00956-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Results of Operations
+Analysis of Consolidated Sales
+For discussion on results of operations and financial condition pertaining to the fiscal years 2021 and 2020 see the Companys Annual Report on Form 10-
+K for the fiscal year ended January 2, 2022, Item 7. Management's Discussion and Analysis of Results of Operations and Financial Condition.
+In 2022, worldwide sales increased 1.3% to $94.9 billion as compared to an increase of 13.6% in 2021. These sales changes consisted of the following:
+Sales increase/(decrease) due to:
+2022
+2021
+Volume
+6.9 %
+12.9 %
+Price
+(0.8)
+(0.7)
+Currency
+(4.8)
+1.4 
+Total
+1.3 %
+13.6 %
+The net impact of acquisitions and divestitures on the worldwide sales growth was a negative impact of 0.1% in 2022 and a negative impact of 0.6% in
+2021.
+Sales by U.S. companies were $48.6 billion in 2022 and $47.2 billion in 2021. This represents increases of 3.0% in 2022 and 9.3% in 2021. Sales by
+international companies were $46.4 billion in 2022 and $46.6 billion in 2021. This represents a decrease of 0.6% in 2022 and an increase of 18.2% in 2021.
+The five-year compound annual growth rates for worldwide, U.S. and international sales were 4.4%, 4.0% and 4.9%, respectively. The ten-year
+compound annual growth rates for worldwide, U.S. and international sales were 3.5%, 5.0% and 2.2%, respectively.
+In 2022, sales by companies in Europe experienced a decline of 0.6% as compared to the prior year, which included operational growth of 11.0% and a
+negative currency impact of 11.6%. Sales by companies in the Western Hemisphere, excluding the U.S., achieved growth of 6.5% as compared to the prior
+year, which included operational growth of 10.2%, and a negative currency impact of 3.7%. Sales by companies in the Asia-Pacific, Africa region
+experienced a decline of 2.8% as compared to the prior year, including operational growth of 6.2% and a negative currency impact of 9.0%.
+In 2022, the Company utilized three wholesalers distributing products for all three segments that represented approximately 16.5%, 13.0% and 12.0%
+of the total consolidated revenues. In 2021, the Company had three wholesalers distributing products for all three segments that represented approximately
+14.0%, 11.0% and 11.0% of the total consolidated revenues.
+Note: values may have been rounded
+22
+
+Question: Do Johnson & Johnson's fiscal year 2022 financial results reflect a company experiencing rapid growth?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 5 | id=fb-00521-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+54
+Ulta Beauty, Inc.
+Consolidated Statements of Cash Flows
+Fiscal year ended
+January 28,
+January 29,
+January 30,
+(In thousands)
+2023
+ 
+2022
+ 
+2021
+Operating activities
+Net income
+$
+1,242,408
+$
+985,837
+$
+175,835
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+241,372
+268,460
+297,772
+Non-cash lease expense
+301,912
+276,229
+268,071
+Long-lived asset impairment charge
+
+
+72,533
+Deferred income taxes
+15,653
+(25,666)
+(24,008)
+Stock-based compensation expense
+43,044
+47,259
+27,583
+Loss on disposal of property and equipment
+6,688
+5,358
+6,827
+Change in operating assets and liabilities:
+Receivables
+34,260
+(40,573)
+(53,772)
+Merchandise inventories
+(104,233)
+(331,003)
+125,486
+Prepaid expenses and other current assets
+(19,432)
+(3,412)
+(4,363)
+Income taxes
+(45,182)
+(35,652)
+58,916
+Accounts payable
+8,309
+66,156
+62,324
+Accrued liabilities
+48,249
+58,598
+58,599
+Deferred revenue
+41,098
+79,196
+36,848
+Operating lease liabilities
+(324,500)
+(303,914)
+(297,513)
+Other assets and liabilities
+(7,731)
+12,392
+(783)
+Net cash provided by operating activities
+1,481,915
+1,059,265
+810,355
+Investing activities
+Proceeds from short-term investments
+
+
+110,000
+Capital expenditures
+(312,126)
+(172,187)
+(151,866)
+Acquisitions, net of cash acquired
+
+
+(1,220)
+Other investments
+(2,458)
+(4,297)
+(5,665)
+Net cash used in investing activities
+(314,584)
+(176,484)
+(48,751)
+Financing activities
+Proceeds from long-term debt
+
+
+800,000
+Payments on long-term debt
+
+
+(800,000)
+Repurchase of common shares
+(900,033)
+(1,521,925)
+(114,895)
+Stock options exercised
+46,011
+40,386
+12,229
+Purchase of treasury shares
+(6,992)
+(15,677)
+(3,353)
+Debt issuance costs
+
+
+(1,915)
+Net cash used in financing activities
+(861,014)
+(1,497,216)
+(107,934)
+Effect of exchange rate changes on cash and cash equivalents
+
+(56)
+56
+Net increase (decrease) in cash and cash equivalents
+306,317
+(614,491)
+653,726
+Cash and cash equivalents at beginning of year
+431,560
+1,046,051
+392,325
+Cash and cash equivalents at end of year
+$
+737,877
+$
+431,560
+$
+1,046,051
+Supplemental information
+Cash paid for interest
+$
+2,138
+$
+2,132
+$
+6,987
+Income taxes paid, net of refunds
+429,846
+370,646
+19,454
+Non-cash capital expenditures
+69,591
+39,874
+20,487
+See accompanying notes to consolidated financial statements.
+
+Question: Which significant acquisitions did Ulta Beauty complete during fiscal years 2023 and 2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 6 | id=fb-00382-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+ 
+Page 13 of 15 
+ 
+ 
+MGM RESORTS INTERNATIONAL AND SUBSIDIARIES 
+SUPPLEMENTAL DATA NET REVENUES 
+(In thousands) 
+(Unaudited) 
+ 
+Three months ended 
+ 
+Twelve months ended 
+ 
+December 31, 
+2022 
+ 
+December 31, 
+2021 
+ 
+December 31, 
+2022 
+ 
+December 31, 
+2021 
+Las Vegas Strip Resorts 
+$ 
+2,297,282 $ 
+1,806,686 $ 
+8,398,372 $ 
+4,737,185 
+Regional Operations 
+ 
+991,452 
+899,607 
+3,815,885 
+3,392,363 
+MGM China 
+ 
+174,720 
+314,717 
+673,593 
+1,210,761 
+Management and other operations 
+ 
+128,762 
+35,882 
+239,635 
+339,831 
+ 
+$ 
+3,592,216 $ 
+3,056,892 $ 
+13,127,485 $ 
+9,680,140 
+ 
+ 
+ 
+ 
+ 
+MGM RESORTS INTERNATIONAL AND SUBSIDIARIES 
+SUPPLEMENTAL DATA ADJUSTED PROPERTY EBITDAR AND ADJUSTED EBITDAR 
+(In thousands) 
+(Unaudited) 
+ 
+Three months ended 
+ 
+Twelve months ended 
+ 
+December 31, 
+2022 
+ 
+December 31, 
+2021 
+ 
+December 31, 
+2022 
+ 
+December 31, 
+2021 
+Las Vegas Strip Resorts 
+$ 
+877,052 $ 
+698,739 $ 
+3,142,308 $ 
+1,738,211 
+Regional Operations 
+ 
+319,517 
+309,250 
+1,294,630 
+1,217,814 
+MGM China 
+ 
+(54,979) 
+5,015 
+(203,136) 
+25,367 
+Unconsolidated affiliates(1) 
+ 
+(43,029) 
+(49,698) 
+(222,079) 
+(131,590) 
+Management and other operations 
+ 
+(3,037) 
+2,087 
+ 
+(11,934) 
+15,766 
+Stock compensation 
+ 
+(25,159) 
+(26,494) 
+(71,297) 
+(63,984) 
+Corporate(2) 
+ 
+(113,058) 
+(117,491) 
+(431,238) 
+(380,501) 
+ 
+$ 
+957,307 
+ $ 
+3,497,254 
+ 
+(1) Represents the Company's share of operating income (loss) excluding investments in real estate ventures, adjusted for the effect of certain basis 
+differences. Includes the Company's share of operating results of CityCenter through September 26, 2021 during the twelve months ended December 31, 
+2021. 
+(2) Three months ended December 31, 2022 includes amounts related to MGM China of $5 million, global development of $6 million, and transaction costs of 
+$2 million. Twelve months ended December 31, 2022 includes amounts related to MGM China of $18 million, global development of $20 million, and 
+transaction costs of $42 million. Three months ended December 31, 2021 includes amounts related to MGM China of $4 million, global development of $10 
+million, and transaction costs of $8 million. Twelve months ended December 31, 2021 includes amounts related to MGM China of $16 million, global 
+development of $23 million, and transaction costs of $34 million. 
+ 
+ 
+
+Question: For MGM, which region contributed the most to EBITDAR in fiscal year 2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 7 | id=fb-00382-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document:  
+ 
+ 
+Page 13 of 15 
+ 
+ 
+MGM RESORTS INTERNATIONAL AND SUBSIDIARIES 
+SUPPLEMENTAL DATA NET REVENUES 
+(In thousands) 
+(Unaudited) 
+ 
+Three months ended 
+ 
+Twelve months ended 
+ 
+December 31, 
+2022 
+ 
+December 31, 
+2021 
+ 
+December 31, 
+2022 
+ 
+December 31, 
+2021 
+Las Vegas Strip Resorts 
+$ 
+2,297,282 $ 
+1,806,686 $ 
+8,398,372 $ 
+4,737,185 
+Regional Operations 
+ 
+991,452 
+899,607 
+3,815,885 
+3,392,363 
+MGM China 
+ 
+174,720 
+314,717 
+673,593 
+1,210,761 
+Management and other operations 
+ 
+128,762 
+35,882 
+239,635 
+339,831 
+ 
+$ 
+3,592,216 $ 
+3,056,892 $ 
+13,127,485 $ 
+9,680,140 
+ 
+ 
+ 
+ 
+ 
+MGM RESORTS INTERNATIONAL AND SUBSIDIARIES 
+SUPPLEMENTAL DATA ADJUSTED PROPERTY EBITDAR AND ADJUSTED EBITDAR 
+(In thousands) 
+(Unaudited) 
+ 
+Three months ended 
+ 
+Twelve months ended 
+ 
+December 31, 
+2022 
+ 
+December 31, 
+2021 
+ 
+December 31, 
+2022 
+ 
+December 31, 
+2021 
+Las Vegas Strip Resorts 
+$ 
+877,052 $ 
+698,739 $ 
+3,142,308 $ 
+1,738,211 
+Regional Operations 
+ 
+319,517 
+309,250 
+1,294,630 
+1,217,814 
+MGM China 
+ 
+(54,979) 
+5,015 
+(203,136) 
+25,367 
+Unconsolidated affiliates(1) 
+ 
+(43,029) 
+(49,698) 
+(222,079) 
+(131,590) 
+Management and other operations 
+ 
+(3,037) 
+2,087 
+ 
+(11,934) 
+15,766 
+Stock compensation 
+ 
+(25,159) 
+(26,494) 
+(71,297) 
+(63,984) 
+Corporate(2) 
+ 
+(113,058) 
+(117,491) 
+(431,238) 
+(380,501) 
+ 
+$ 
+957,307 
+ $ 
+3,497,254 
+ 
+(1) Represents the Company's share of operating income (loss) excluding investments in real estate ventures, adjusted for the effect of certain basis 
+differences. Includes the Company's share of operating results of CityCenter through September 26, 2021 during the twelve months ended December 31, 
+2021. 
+(2) Three months ended December 31, 2022 includes amounts related to MGM China of $5 million, global development of $6 million, and transaction costs of 
+$2 million. Twelve months ended December 31, 2022 includes amounts related to MGM China of $18 million, global development of $20 million, and 
+transaction costs of $42 million. Three months ended December 31, 2021 includes amounts related to MGM China of $4 million, global development of $10 
+million, and transaction costs of $8 million. Twelve months ended December 31, 2021 includes amounts related to MGM China of $16 million, global 
+development of $23 million, and transaction costs of $34 million. 
+ 
+ 
+
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 8 | id=fb-00521-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+54
+Ulta Beauty, Inc.
+Consolidated Statements of Cash Flows
+Fiscal year ended
+January 28,
+January 29,
+January 30,
+(In thousands)
+2023
+ 
+2022
+ 
+2021
+Operating activities
+Net income
+$
+1,242,408
+$
+985,837
+$
+175,835
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+241,372
+268,460
+297,772
+Non-cash lease expense
+301,912
+276,229
+268,071
+Long-lived asset impairment charge
+
+
+72,533
+Deferred income taxes
+15,653
+(25,666)
+(24,008)
+Stock-based compensation expense
+43,044
+47,259
+27,583
+Loss on disposal of property and equipment
+6,688
+5,358
+6,827
+Change in operating assets and liabilities:
+Receivables
+34,260
+(40,573)
+(53,772)
+Merchandise inventories
+(104,233)
+(331,003)
+125,486
+Prepaid expenses and other current assets
+(19,432)
+(3,412)
+(4,363)
+Income taxes
+(45,182)
+(35,652)
+58,916
+Accounts payable
+8,309
+66,156
+62,324
+Accrued liabilities
+48,249
+58,598
+58,599
+Deferred revenue
+41,098
+79,196
+36,848
+Operating lease liabilities
+(324,500)
+(303,914)
+(297,513)
+Other assets and liabilities
+(7,731)
+12,392
+(783)
+Net cash provided by operating activities
+1,481,915
+1,059,265
+810,355
+Investing activities
+Proceeds from short-term investments
+
+
+110,000
+Capital expenditures
+(312,126)
+(172,187)
+(151,866)
+Acquisitions, net of cash acquired
+
+
+(1,220)
+Other investments
+(2,458)
+(4,297)
+(5,665)
+Net cash used in investing activities
+(314,584)
+(176,484)
+(48,751)
+Financing activities
+Proceeds from long-term debt
+
+
+800,000
+Payments on long-term debt
+
+
+(800,000)
+Repurchase of common shares
+(900,033)
+(1,521,925)
+(114,895)
+Stock options exercised
+46,011
+40,386
+12,229
+Purchase of treasury shares
+(6,992)
+(15,677)
+(3,353)
+Debt issuance costs
+
+
+(1,915)
+Net cash used in financing activities
+(861,014)
+(1,497,216)
+(107,934)
+Effect of exchange rate changes on cash and cash equivalents
+
+(56)
+56
+Net increase (decrease) in cash and cash equivalents
+306,317
+(614,491)
+653,726
+Cash and cash equivalents at beginning of year
+431,560
+1,046,051
+392,325
+Cash and cash equivalents at end of year
+$
+737,877
+$
+431,560
+$
+1,046,051
+Supplemental information
+Cash paid for interest
+$
+2,138
+$
+2,132
+$
+6,987
+Income taxes paid, net of refunds
+429,846
+370,646
+19,454
+Non-cash capital expenditures
+69,591
+39,874
+20,487
+See accompanying notes to consolidated financial statements.
+
+Question: What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 9 | id=fb-00807-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Table of Contents
+3M Company and Subsidiaries
+Consolidated Balance Sheet
+(Unaudited)
+(Dollars in millions, except per share amount)
+June 30, 2023
+December 31, 2022
+Assets
+Current assets
+Cash and cash equivalents
+$
+4,258 
+$
+3,655 
+Marketable securities current
+56 
+238 
+Accounts receivable net of allowances of $160 and $174
+4,947 
+4,532 
+Inventories
+Finished goods
+2,526 
+2,497 
+Work in process
+1,527 
+1,606 
+Raw materials and supplies
+1,227 
+1,269 
+Total inventories
+5,280 
+5,372 
+Prepaids
+674 
+435 
+Other current assets
+539 
+456 
+Total current assets
+15,754 
+14,688 
+Property, plant and equipment
+26,459 
+25,998 
+Less: Accumulated depreciation
+(17,248)
+(16,820)
+Property, plant and equipment net
+9,211 
+9,178 
+Operating lease right of use assets
+812 
+829 
+Goodwill
+12,869 
+12,790 
+Intangible assets net
+4,470 
+4,699 
+Other assets
+5,764 
+4,271 
+Total assets
+$
+48,880 
+$
+46,455 
+Liabilities
+Current liabilities
+Short-term borrowings and current portion of long-term debt
+$
+3,033 
+$
+1,938 
+Accounts payable
+3,231 
+3,183 
+Accrued payroll
+785 
+692 
+Accrued income taxes
+172 
+259 
+Operating lease liabilities current
+244 
+261 
+Other current liabilities
+3,471 
+3,190 
+Total current liabilities
+10,936 
+9,523 
+Long-term debt
+12,954 
+14,001 
+Pension and postretirement benefits
+1,912 
+1,966 
+Operating lease liabilities
+570 
+580 
+Other liabilities
+14,651 
+5,615 
+Total liabilities
+41,023 
+31,685 
+Commitments and contingencies (Note 14)
+Equity
+3M Company shareholders equity:
+Common stock par value, $.01 par value; 944,033,056 shares issued
+9 
+9 
+Shares outstanding - June 30, 2023: 551,992,430
+Shares outstanding - December 31, 2022: 549,245,105
+Additional paid-in capital
+6,858 
+6,691 
+Retained earnings
+40,290 
+47,950 
+Treasury stock, at cost:
+(32,926)
+(33,255)
+Shares at June 30, 2023: 392,040,626
+Shares at December 31, 2022: 394,787,951
+Accumulated other comprehensive income (loss)
+(6,433)
+(6,673)
+Total 3M Company shareholders equity
+7,798 
+14,722 
+Noncontrolling interest
+59 
+48 
+Total equity
+7,857 
+14,770 
+Total liabilities and equity
+$
+48,880 
+$
+46,455 
+The accompanying Notes to Consolidated Financial Statements are an integral part of this statement.
+5
+
+Question: For 3M's fiscal Q2 2023, does the company's quick ratio indicate a sufficiently sound liquidity position? Should the quick ratio not be an appropriate liquidity measure, note that and provide the reasoning.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 10 | id=fb-00605-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Diluted earnings per share increased 33.5% to $24.01, including a $0.07 benefit due to
+income tax accounting for stock-based compensation, compared to $17.98 including a
+$0.13 benefit due to income tax accounting for stock-based compensation, in fiscal
+2021.
+Balance Sheet
+Cash and cash equivalents at the end of the fourth quarter of fiscal 2022 were $737.9
+million.
+Merchandise inventories, net at the end of the fourth quarter of fiscal 2022 totaled $1.6
+billion compared to $1.5 billion at the end of the fourth quarter of fiscal 2021. The $104.2
+million increase was primarily due to the opening of 47 new stores since January 29, 2022,
+inventory to support new brand launches and brand expansions, and inventory cost
+increases.
+Share Repurchase Program
+During the fourth quarter of fiscal 2022, the Company repurchased 722,457 shares of its
+common stock at a cost of $328.1 million. During fiscal 2022, the Company repurchased 2.2
+million shares of its common stock at a cost of $900.0 million. As of January 28, 2023, $1.1
+billion remained available under the $2.0 billion share repurchase program announced in
+March 2022.
+Store Update
+Real estate activity in the fourth quarter of fiscal 2022 included 12 new stores located in
+Garden Grove, CA; Glendale, AZ; Hartsdale, NY; Hollister, CA; Indianapolis, IN; Liverpool,
+NY; Nanuet, NY; Oklahoma City, OK; Richmond, TX; Rock Springs, WY; Tullahoma, TN;
+and Woburn, MA. In addition, the Company relocated one store and remodeled 12 stores.
+During fiscal 2022, the Company opened 47 new stores, relocated 12 stores, and remodeled
+20 stores.
+At the end of the fourth quarter of fiscal 2022, the Company operated 1,355 stores totaling
+14.2 million square feet.
+Fiscal 2023 Outlook
+For fiscal 2023, the Company plans to:
+ 
+ 
+ 
+ 
+ 
+FY23 Outlook
+Net sales
+ 
+ 
+$10.95 billion to $11.05 billion
+Comparable sales
+ 
+ 
+4% to 5%
+New stores, net
+ 
+ 
+25-30
+Remodel and relocation projects
+ 
+ 
+20-30
+Operating margin
+ 
+ 
+14.7% to 15.0%
+Diluted earnings per share
+ 
+ 
+$24.70 to $25.40
+Share repurchases
+ 
+ 
+approximately $900 million
+Effective tax rate
+ 
+ 
+approximately 24.6%
+Capital expenditures
+ 
+ 
+$400 million to $475 million
+Depreciation and amortization expense
+ 
+ 
+$245 million to $250 million
+
+Question: For fiscal year 2023, what share of Ulta Beauty's total stock buyback expenditure was attributable to the fourth quarter?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 11 | id=fb-00603-para ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Diluted earnings per share increased 33.5% to $24.01, including a $0.07 benefit due to
+income tax accounting for stock-based compensation, compared to $17.98 including a
+$0.13 benefit due to income tax accounting for stock-based compensation, in fiscal
+2021.
+Balance Sheet
+Cash and cash equivalents at the end of the fourth quarter of fiscal 2022 were $737.9
+million.
+Merchandise inventories, net at the end of the fourth quarter of fiscal 2022 totaled $1.6
+billion compared to $1.5 billion at the end of the fourth quarter of fiscal 2021. The $104.2
+million increase was primarily due to the opening of 47 new stores since January 29, 2022,
+inventory to support new brand launches and brand expansions, and inventory cost
+increases.
+Share Repurchase Program
+During the fourth quarter of fiscal 2022, the Company repurchased 722,457 shares of its
+common stock at a cost of $328.1 million. During fiscal 2022, the Company repurchased 2.2
+million shares of its common stock at a cost of $900.0 million. As of January 28, 2023, $1.1
+billion remained available under the $2.0 billion share repurchase program announced in
+March 2022.
+Store Update
+Real estate activity in the fourth quarter of fiscal 2022 included 12 new stores located in
+Garden Grove, CA; Glendale, AZ; Hartsdale, NY; Hollister, CA; Indianapolis, IN; Liverpool,
+NY; Nanuet, NY; Oklahoma City, OK; Richmond, TX; Rock Springs, WY; Tullahoma, TN;
+and Woburn, MA. In addition, the Company relocated one store and remodeled 12 stores.
+During fiscal 2022, the Company opened 47 new stores, relocated 12 stores, and remodeled
+20 stores.
+At the end of the fourth quarter of fiscal 2022, the Company operated 1,355 stores totaling
+14.2 million square feet.
+Fiscal 2023 Outlook
+For fiscal 2023, the Company plans to:
+ 
+ 
+ 
+ 
+ 
+FY23 Outlook
+Net sales
+ 
+ 
+$10.95 billion to $11.05 billion
+Comparable sales
+ 
+ 
+4% to 5%
+New stores, net
+ 
+ 
+25-30
+Remodel and relocation projects
+ 
+ 
+20-30
+Operating margin
+ 
+ 
+14.7% to 15.0%
+Diluted earnings per share
+ 
+ 
+$24.70 to $25.40
+Share repurchases
+ 
+ 
+approximately $900 million
+Effective tax rate
+ 
+ 
+approximately 24.6%
+Capital expenditures
+ 
+ 
+$400 million to $475 million
+Depreciation and amortization expense
+ 
+ 
+$245 million to $250 million
+
+Question: What factors contributed to the rise in Ulta Beauty's merchandise inventories balance by the end of FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 12 | id=fb-00605-oracle ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: Diluted earnings per share increased 33.5% to $24.01, including a $0.07 benefit due to
+income tax accounting for stock-based compensation, compared to $17.98 including a
+$0.13 benefit due to income tax accounting for stock-based compensation, in fiscal
+2021.
+Balance Sheet
+Cash and cash equivalents at the end of the fourth quarter of fiscal 2022 were $737.9
+million.
+Merchandise inventories, net at the end of the fourth quarter of fiscal 2022 totaled $1.6
+billion compared to $1.5 billion at the end of the fourth quarter of fiscal 2021. The $104.2
+million increase was primarily due to the opening of 47 new stores since January 29, 2022,
+inventory to support new brand launches and brand expansions, and inventory cost
+increases.
+Share Repurchase Program
+During the fourth quarter of fiscal 2022, the Company repurchased 722,457 shares of its
+common stock at a cost of $328.1 million. During fiscal 2022, the Company repurchased 2.2
+million shares of its common stock at a cost of $900.0 million. As of January 28, 2023, $1.1
+billion remained available under the $2.0 billion share repurchase program announced in
+March 2022.
+Store Update
+Real estate activity in the fourth quarter of fiscal 2022 included 12 new stores located in
+Garden Grove, CA; Glendale, AZ; Hartsdale, NY; Hollister, CA; Indianapolis, IN; Liverpool,
+NY; Nanuet, NY; Oklahoma City, OK; Richmond, TX; Rock Springs, WY; Tullahoma, TN;
+and Woburn, MA. In addition, the Company relocated one store and remodeled 12 stores.
+During fiscal 2022, the Company opened 47 new stores, relocated 12 stores, and remodeled
+20 stores.
+At the end of the fourth quarter of fiscal 2022, the Company operated 1,355 stores totaling
+14.2 million square feet.
+Fiscal 2023 Outlook
+For fiscal 2023, the Company plans to:
+ 
+ 
+ 
+ 
+ 
+FY23 Outlook
+Net sales
+ 
+ 
+$10.95 billion to $11.05 billion
+Comparable sales
+ 
+ 
+4% to 5%
+New stores, net
+ 
+ 
+25-30
+Remodel and relocation projects
+ 
+ 
+20-30
+Operating margin
+ 
+ 
+14.7% to 15.0%
+Diluted earnings per share
+ 
+ 
+$24.70 to $25.40
+Share repurchases
+ 
+ 
+approximately $900 million
+Effective tax rate
+ 
+ 
+approximately 24.6%
+Capital expenditures
+ 
+ 
+$400 million to $475 million
+Depreciation and amortization expense
+ 
+ 
+$245 million to $250 million
+
+Question: What percent of Ulta Beauty's total spend on stock repurchases for FY 2023 occurred in Q4 of FY2023?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
