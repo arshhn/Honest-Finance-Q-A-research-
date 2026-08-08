@@ -1,0 +1,3806 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-202-base ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+FORM 10-K
+
+  1
+
+================================================================================
+
+            SECURITIES AND EXCHANGE COMMISSION
+
+               WASHINGTON, D.C. 20549
+
+                  FORM 10-K
+
+      [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+
+             SECURITIES EXCHANGE ACT OF 1934
+
+          FOR THE FISCAL YEAR ENDED DECEMBER 31, 1997
+
+                    or
+
+      [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF
+
+            THE SECURITIES EXCHANGE ACT OF 1934
+
+             COMMISSION FILE NUMBER 0-21937
+
+                CERUS CORPORATION
+
+       (Exact name of registrant as specified in its charter)
+
+      DELAWARE                    68-0262011
+
+(State or other jurisdiction of           (IRS Employer Identification
+
+ incorporation or organization)                Number)
+
+ 2525 STANWELL DR., SUITE 300                 94520
+
+   CONCORD, CALIFORNIA                  (Zip Code)
+
+(Address of principal executive
+
+      offices)
+
+                 (510) 603-9071
+
+       (Registrant's telephone number, including area code)
+
+      Securities registered pursuant to Section 12(b) of the Act:
+
+                   NONE
+
+      Securities registered pursuant to Section 12(g) of the Act:
+
+           COMMON STOCK, PAR VALUE $.001 PER SHARE
+
+                (Title of Class)
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+
+1934 during the preceding 12 months (or for such shorter period that the
+
+registrant was required to file such reports), and (2) has been subject to such
+
+filing requirements for the past 90 days. Yes X No
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to
+
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+
+to the best of registrant's knowledge, in definitive proxy or information
+
+statements incorporated by reference in Part III of this Form 10-K or any
+
+amendment to this Form 10 - K. [ ]
+
+    The approximate aggregate market value of the Common Stock held by
+
+non-affiliates of the registrant, based upon the closing price of the Common
+
+Stock reported on the Nasdaq National Market on February 27, 1998, was
+
+$84,215,505.
+
+    As of February 28, 1998, there were 9,228,497 shares of the registrant's
+
+common stock outstanding.
+
+            DOCUMENTS INCORPORATED BY REFERENCE
+
+Certain portions of the registrant's definitive proxy statement, to be filed not
+
+later than 120 days after December 31, 1997 in connection with the registrant's
+
+1998 Annual Meeting of Stockholders, is incorporated by reference into Part III
+
+of this Form 10-K.
+
+================================================================================
+
+  2
+
+                TABLE OF CONTENTS
+
+                    i
+
+  3
+
+                   PART I
+
+    This report contains forward-looking statements within the meaning
+
+Section 21E of the Securities Exchange Act of 1934 which are subject to the
+
+"safe harbor" created by those sections. These forward-looking statements
+
+include, but are not limited to, statements concerning the Company's plans to
+
+continue development of its current product candidates; conduct clinical trials
+
+with respect to its product candidates; seek regulatory approvals; address
+
+certain markets; engage third-party manufacturers to supply its clinical trial
+
+and commercial requirements; continue to rely on a third party for a marketing,
+
+sales and distribution capability; and evaluate additional product candidates
+
+for subsequent clinical and commercial development. These forward-looking
+
+statements may be found under the captions "Business" and "Management's
+
+Discussion and Analysis of Financial Condition and Results of Operations."
+
+Forward-looking statements not specifically described above also may be found in
+
+these and other sections of this report. Actual results could differ materially
+
+from those discussed in the forward-looking statements as a result of certain
+
+factors, including those discussed herein.
+
+ITEM 1. BUSINESS
+
+OVERVIEW
+
+    Cerus Corporation ("Cerus" or the "Company") is developing systems
+
+designed to improve the safety of blood transfusions by inactivating infectious
+
+pathogens in blood components (platelets, plasma and red blood cells) used for
+
+transfusion and inhibiting the leukocyte activity that is responsible for
+
+certain adverse immune and other transfusion-related reactions. Preclinical
+
+studies conducted by the Company have indicated the ability of its systems to
+
+inactivate a broad array of viral and bacterial pathogens that may be
+
+transmitted in blood component transfusions and to inhibit leukocyte activity.
+
+The Company believes that, as a result of the mechanism of action of its
+
+proprietary technology, its systems also have the potential to inactivate many
+
+new pathogens before they are identified and before tests have been developed to
+
+detect their presence in the blood supply. Because the Company's systems are
+
+being designed to inactivate rather than merely test for pathogens, these
+
+systems also have the potential to reduce the risk of transmission of pathogens
+
+that would remain undetected by testing.
+
+    The Company has completed four Phase 1 and Phase 2 clinical trials of
+
+its platelet pathogen inactivation system in healthy subjects, and a Phase 2c
+
+pilot patient study currently is underway. The Company has completed a Phase 1
+
+clinical trial of its plasma pathogen inactivation system in healthy subjects,
+
+with a Phase 2 study in healthy subjects currently underway. The Company's red
+
+blood cell pathogen inactivation system is in preclinical development.
+
+    The Company's product development and commercialization programs are
+
+being conducted pursuant to two agreements (the "Agreements") with Baxter
+
+Healthcare Corporation ("Baxter") providing for development, manufacture and
+
+marketing of pathogen inactivation systems for platelets, plasma and red blood
+
+cells. The Agreements provide for Baxter and the Company to share development
+
+expenses, for Baxter's exclusive right and responsibility to market the systems
+
+worldwide and for the Company to receive a share of the gross profits from the
+
+sale of the systems.
+
+BACKGROUND
+
+    Blood transfusions are required to treat a variety of medical
+
+conditions, including anemia, low blood volume, surgical bleeding, trauma,
+
+acquired and congenital bleeding disorders and chemotherapy-induced blood
+
+deficiencies. Worldwide, over 90 million whole blood donations occur each year.
+
+Approximately 39 million of those donations occur in North America, Western
+
+Europe and Japan, the major geographical markets for the Company's products. The
+
+Company estimates the combined production in these regions of platelets, FFP and
+
+red blood cells in 1995 to have been approximately 4 million, 9 million and 31
+
+million, respectively.
+
+    Whole blood is composed of plasma, the liquid portion of blood
+
+containing essential clotting proteins, and three cellular blood components:
+
+platelets, red blood cells and white blood cells (leukocytes). Platelets are
+
+essential to coagulation, while red blood cells carry oxygen to tissues and
+
+carbon dioxide to the lungs. Leukocytes play a 
+
+                    1
+
+  4
+
+critical role in immune and other defense systems, but can cause harmful immune
+
+transfusion-related reactions in, or transmit disease to, transfusion
+
+recipients.
+
+    Patients requiring transfusions typically are treated with the specific
+
+blood component required for their particular deficiency, except in cases of
+
+rapid, massive blood loss, in which whole blood may be transfused. Platelets
+
+often are used to treat cancer patients following chemotherapy or organ
+
+transplantation. Red blood cells frequently are administered to patients with
+
+trauma or surgical bleeding, acquired chronic anemia or genetic disorders, such
+
+as sickle cell anemia. Plasma used for transfusions is stored in frozen form and
+
+is referred to as fresh frozen plasma, or FFP. FFP generally is used to control
+
+bleeding. Plasma also can be separated, or "fractionated," into different parts
+
+that are used to expand blood volume, fight infections or treat diseases such as
+
+hemophilia.
+
+    Despite recent improvements in donor screening and in the testing and
+
+processing of blood, patients receiving transfusions of blood components face a
+
+number of significant risks from blood contaminants, as well as adverse immune
+
+and other transfusion-related reactions induced by leukocytes. Viruses such as
+
+hepatitis B (HBV), hepatitis C (HCV), human immunodeficiency virus (HIV),
+
+cytomegalovirus (CMV) and human T-cell lymphotropic virus (HTLV) can present
+
+life-threatening risks. In addition, bacteria, the most common agents of
+
+transfusion-transmitted disease, can cause complications such as sepsis, which
+
+can result in serious illness or death. Although donor screening and diagnostic
+
+testing of donated blood have been successful in reducing the incidence of
+
+transmission of many pathogens, diagnostic testing has a number of limitations,
+
+such as the inability of most tests to detect pathogens prior to the generation
+
+of antibodies, ineffectiveness in detecting genetic variants of viruses, and the
+
+risk of human error. In addition, emerging or unidentified pathogens for which
+
+no tests exist represent a threat to the blood supply. Because of the continuing
+
+risk of transmission of serious diseases through transfusion of contaminated
+
+blood components from both known and unknown pathogens, together with the
+
+limitations of current approaches to providing a safe blood supply, there
+
+remains a need for an approach to blood-borne pathogen inactivation that is
+
+safe, easy to implement and cost-effective.
+
+TECHNOLOGY AND PRODUCTS
+
+    The Company is developing pathogen inactivation systems employing its
+
+proprietary small molecule compounds, which act by preventing the replication of
+
+nucleic acid (DNA or RNA). Platelets, FFP and red blood cells do not contain
+
+nuclear DNA or RNA. When the inactivation compounds are introduced into the
+
+blood components for treatment, they cross bacterial cell walls or viral
+
+membranes, then move into the interior of the nucleic acid structure. When
+
+subsequently activated by an energy source, such as light, the compounds bind to
+
+the nucleic acid of the viral or bacterial pathogen, preventing replication of
+
+the nucleic acid. A virus, bacteria or other pathogenic cell must replicate in
+
+order to cause infection. The Cerus compounds react in a similar manner with the
+
+nucleic acid in leukocytes. This interaction inhibits the leukocyte activity
+
+that is responsible for certain adverse immune and other transfusion-related
+
+reactions. These compounds are designed to react with nucleic acid only during
+
+the pathogen inactivation process and not after the treated blood component is
+
+transfused. The systems are also designed to reduce the amount of unbound, or
+
+residual, inactivation compound and breakdown products of the inactivation
+
+process prior to transfusion.
+
+    CLINICAL DEVELOPMENT
+
+    The Company believes that, in deciding whether a pathogen inactivation
+
+system is safe and effective, the United States Food and Drug Administration
+
+(the "FDA") and foreign regulatory authorities are likely to take into account
+
+whether it adversely affects the therapeutic efficacy of blood components as
+
+compared to the therapeutic efficacy of blood components not treated with the
+
+system, and that the FDA will weigh the system's safety, including potential
+
+toxicities of the inactivation compounds, and other risks against the benefits
+
+of using the system in a blood supply that has become safer in recent years. No
+
+assurance can be given that any of the Company's development programs will be
+
+successfully completed, that any further investigational new drug application
+
+("IND") or investigational device exemption application ("IDE") will become
+
+effective or that additional clinical trials will be allowed by the FDA or other
+
+regulatory authorities, that clinical trials will commence or be completed as
+
+anticipated, that required United States or foreign regulatory approvals will be
+
+obtained on a timely basis, if at all, or that any products for which approval
+
+is obtained will be commercially successful.
+
+                    2
+
+  5
+
+    Based on discussions with the FDA, the Company believes that it will be
+
+required to provide data from human clinical trials to demonstrate the safety of
+
+treated blood components and their therapeutic comparability to untreated
+
+components, but that only data from in vitro and animal studies, not data from
+
+human clinical disease transmission studies, will be required to demonstrate the
+
+system's efficacy in inactivating pathogens. In light of these criteria, the
+
+Company's clinical trial programs are different from typical Phase 1, Phase 2
+
+and Phase 3 clinical studies. There can be no assurance, however, that the
+
+Company's program for demonstrating safety and efficacy will ultimately be
+
+acceptable to the FDA or that the FDA will continue to believe that this
+
+clinical plan is appropriate. See "Additional Business Risks - Uncertainty
+
+Associated with Clinical and Preclinical Testing" and " - Government
+
+Regulation."
+
+    PRODUCTS IN DEVELOPMENT
+
+    The Company is developing treatment systems to inactivate infectious
+
+pathogens in platelets, FFP and red blood cells and to inactivate leukocytes to
+
+reduce the risk of certain adverse transfusion-related reactions. The following
+
+table identifies the Company's product development programs:
+
+    PLATELET PROGRAM
+
+    Platelets are cellular components of blood that are an essential part of
+
+the clotting mechanism. Platelets facilitate blood clotting and wound healing by
+
+adhering to damaged blood vessels and to other platelets. Platelet transfusions
+
+are used to prevent or control bleeding in platelet-deficient (thrombocytopenic)
+
+patients, such as those undergoing cancer chemotherapy or organ transplant.
+
+Transfusion units of platelets are obtained either by combining the platelets
+
+from four to six whole blood donations (pooled random donor platelets), or in an
+
+automated procedure in which a therapeutic dose of platelets is obtained from a
+
+single donor (apheresis or single donor platelets).
+
+    The Company's platelet pathogen inactivation system applies a technology
+
+that combines light and the Company's proprietary inactivation compound, S-59,
+
+which is a synthetic small molecule from a class of compounds known as
+
+psoralens. S-59 was selected from over 100 psoralen derivatives synthesized by
+
+the Company, following preclinical studies conducted by the Company to assess
+
+safety and ability to inactivate pathogens and leukocytes while preserving
+
+platelet function.
+
+                    3
+
+  6
+
+    When illuminated, S-59 undergoes a specific and irreversible chemical
+
+reaction with nucleic acid. This chemical reaction renders the genetic material
+
+of a broad array of pathogens and cells incapable of replication. A virus,
+
+bacteria or other pathogenic cell must replicate in order to cause infection. A
+
+similar reaction with leukocyte nucleic acid inhibits the leukocyte activity
+
+that is responsible for certain adverse immune and other transfusion-related
+
+reactions. Most of the S-59 is converted to breakdown products during and after
+
+the inactivation reaction. Studies conducted by the Company with preclinical
+
+models have indicated that, following transfusion, the unbound S-59 and its
+
+unbound breakdown products are rapidly metabolized and excreted. As a further
+
+safety measure, the system under development employs a removal process designed
+
+to reduce the amount of residual S-59 and unbound breakdown products prior to
+
+transfusion (the S-59 reduction device or "SRD").
+
+    The Company's platelet pathogen inactivation system, developed with
+
+Baxter, has been designed for use in the blood center setting. The system
+
+consists of a disposable processing set, containing the S-59 compound and the
+
+SRD, and an illumination device to deliver light to initiate the inactivation
+
+reaction. The Company believes that, in order to manufacture the SRD for its
+
+platelet pathogen inactivation system on a commercial scale, it will need to
+
+modify the SRD configuration and the related manufacturing process. The Company
+
+currently is pursuing such modification. There can be no assurance that use of a
+
+reconfigured SRD will not cause the Company to have to conduct additional
+
+clinical studies or otherwise to experience delays in the approval process.
+
+    Human clinical trials of the platelet pathogen inactivation system are
+
+currently being pursued by the Company. Baxter is the sponsor of such trials. To
+
+date, the Company has completed studies in healthy subjects that have
+
+demonstrated the safety and tolerability and the recovery and lifespan of
+
+platelets treated with the platelet pathogen inactivation system.
+
+    Based on the results of its Phase 2a clinical trial, the Company
+
+submitted a protocol to the FDA for a Phase 3 randomized clinical study of
+
+treated apheresis platelets in approximately 100 patients requiring platelet
+
+transfusion. The Company reviewed this protocol with the FDA and agreed to
+
+perform a pilot study in 15 patients prior to initiating the larger Phase 3
+
+trial. This Phase 2c trial, currently underway, is a double blind, controlled
+
+cross-over study in which double dose platelet transfusions are given to
+
+thrombocytopenic patients and bleeding time correction and post-transfusion
+
+platelet count increment are measured. The results of this pilot Phase 2c
+
+clinical trial, given its small size, cannot satisfactorily be evaluated
+
+statistically. Thus, non-statistically significant variations in bleeding times,
+
+or other measures of the trial, may result in the FDA requiring additional
+
+patients to be enrolled in the Phase 2c trial. Due to the nature of the trial,
+
+its implementation and its assessment of bleeding times, enrollment of a
+
+significant number of additional patients would be impracticable to accomplish
+
+on a timely basis and could significantly delay completion of this trial and, as
+
+a result, commencement of a Phase 3 clinical trial in the United States. This
+
+Phase 2c trial currently is not expected to be completed until at least the
+
+third quarter of 1998. In addition, there can be no assurance that, upon
+
+completion of the pilot study, the FDA will permit initiation of a Phase 3 trial
+
+in the United States. The Company has submitted a protocol to the ethical
+
+committees in five European countries for a Phase 3 clinical trial of treated
+
+apheresis and pooled random donor platelets in approximately 120 patients
+
+requiring platelet transfusion. Approval to proceed has been obtained for four
+
+of the five study sites, but patient enrollment has not yet commenced. The
+
+primary endpoint in these Phase 3 studies will be the increase in
+
+post-transfusion platelet count adjusted for platelet dose and patient size (the
+
+"corrected count increment"). The Phase 3 European clinical trial is a
+
+randomized study designed to assess the therapeutic efficacy of platelets
+
+treated with the pathogen inactivation system for apheresis platelets and pooled
+
+random donor platelets. The Phase 3 United States clinical trial is being
+
+designed to assess the therapeutic efficacy of platelets treated with the
+
+pathogen inactivation system for apheresis platelets, not pooled random donor
+
+platelets. If the Company decides to seek FDA approval of the platelet pathogen
+
+inactivation system for use in treating pooled random donor platelets, the
+
+Company may be required by the FDA to conduct additional clinical studies.
+
+    FFP PROGRAM
+
+    Plasma is a noncellular component of blood that contains coagulation
+
+factors and is essential for maintenance of intravascular volume. Plasma is
+
+either separated from collected units of whole blood or collected directly by
+
+apheresis. The collected plasma is then packaged and frozen to preserve the
+
+coagulation factors. Some of the frozen plasma is made available for
+
+fractionation, while some is designated for use as FFP. FFP is a source of all
+
+blood clotting factors except platelets and is used to control bleeding in
+
+patients who require clotting factors, such as 
+
+                    4
+
+  7
+
+patients undergoing transplants or other extensive surgical procedures, patients
+
+with chronic liver disease or certain genetic clotting factor deficiencies.
+
+    The Company's pathogen inactivation system for FFP will use the same
+
+S-59 psoralen compound and an SRD and illumination device similar to those being
+
+used by the Company in its clinical trials for its platelet pathogen
+
+inactivation system. The FFP pathogen inactivation system under development has
+
+been designed for use in the blood center setting and is compatible with plasma
+
+collected either manually or by apheresis.
+
+    In vitro studies conducted by the Company to date have indicated the
+
+efficacy of the FFP pathogen inactivation system for the inactivation in FFP of
+
+a broad array of viral pathogens. Because of the mechanism of action of its FFP
+
+pathogen inactivation system, the Company believes that its system may also
+
+inactivate protozoans and inhibit leukocyte activity. Although bacterial
+
+contamination in FFP is typically not as significant a problem as in platelets,
+
+the Company believes that the FFP pathogen inactivation system will inactivate
+
+bacteria at the levels typically found in FFP. To date, the Company has
+
+conducted no studies on protozoans or to detect inhibition of leukocyte activity
+
+in FFP and only limited studies on bacteria in FFP, and there can be no
+
+assurance that the Company's FFP pathogen inactivation system would effectively
+
+inactivate protozoans, leukocytes or bacteria. The Company has assessed the
+
+impact of S-59 photochemical treatment on the function of plasma proteins.
+
+Plasma derived from whole blood or apheresis must be frozen within six to eight
+
+hours of collection to meet the standard as "fresh frozen plasma." After
+
+freezing, plasma may be stored for up to one year, thawed once, and must be
+
+transfused within four hours of thawing. The Company has measured the in vitro
+
+coagulation function activity of various clotting factors in FFP after
+
+photochemical treatment, SRD treatment, freezing and thawing. These in vitro
+
+results are not necessarily indicative of coagulation function that may be
+
+obtained in vivo, and there can be no assurance that the FDA or foreign
+
+regulatory authorities would view such levels of coagulation function as
+
+adequate.
+
+    The Company has completed a clinical study in healthy subjects that has
+
+demonstrated the safety and tolerability of FFP treated with the pathogen
+
+inactivation system as well as the comparability of post-transfusion coagulation
+
+factors between subjects transfused with treated and untreated FFP. A Phase 2
+
+clinical trial commenced in January 1998 and is presently underway at three
+
+trial sites. In this study, 30 healthy subjects will donate plasma, with
+
+one-half being prepared and frozen as standard FFP and one-half being treated
+
+with the Company's pathogen inactivation system and frozen as S-59 FFP. After
+
+plasma collection, subjects will be treated with an oral anticoagulant to reduce
+
+the levels of clotting factors II, VII, IX, and X. Following anticoagulant
+
+therapy, subjects will be transfused with a therapeutic dose of either standard
+
+FFP or S-59 FFP in random order. Following transfusion, the levels of clotting
+
+factors II, VII, IX, and X will be measured and compared between S-59 and
+
+standard FFP transfusions. The Phase 2 trial is designed to serve as a
+
+transitional therapeutic efficacy study into a Phase 3 trial to evaluate the
+
+therapeutic efficacy of S-59 FFP for several major therapeutic indications,
+
+including chronic liver disease with minor surgery, liver transplant surgery,
+
+and thrombotic thrombocytopenic purpura with multiple whole blood volume plasma
+
+exchange. While the Company has presented this clinical trial plan to the FDA,
+
+there can be no assurance that the FDA will concur with this trial plan.
+
+    RED BLOOD CELL PROGRAM
+
+    Red blood cells are essential components of blood that carry oxygen to
+
+tissues and carbon dioxide to the lungs. Red blood cells may be transfused as a
+
+single treatment in surgical and trauma patients with active bleeding or on a
+
+repeated basis in patients with acquired anemia or genetic disorders, such as
+
+sickle cell anemia, or in connection with chemotherapy.
+
+    The Company has developed a system for pathogen inactivation in red
+
+blood cells using a compound that binds to nucleic acid in a manner similar to
+
+that of S-59-based systems, but does not require light. The Company's method for
+
+inactivating pathogens in red blood cells is based on a proprietary ALE
+
+compound, S-303, a small molecule synthesized by the Company. The selection of
+
+S-303 was based on preclinical studies of over 100 ALE compounds synthesized by
+
+the Company to assess safety, stability and ability to inactivate pathogens,
+
+while preserving red blood cell survival and function.
+
+                    5
+
+  8
+
+    In vitro studies by the Company have indicated the efficacy of the ALE
+
+process for the inactivation of a broad array of viral and bacterial pathogens
+
+with preservation of red blood cell function. Because of the mechanism of action
+
+of its red blood cell ALE treatment system, the Company believes that its system
+
+may also inactivate protozoans and inhibit leukocyte function. However, the
+
+Company has conducted no studies on protozoans or to detect inhibition of
+
+leukocyte activity in red blood cells, and there can be no assurance that the
+
+Company's red blood cell system would be effective to inactivate protozoans or
+
+leukocytes. The Company is currently conducting good laboratory practice (GLP)
+
+toxicology and pathogen inactivation validation studies on its red blood cell
+
+pathogen inactivation system.
+
+    The Company has not filed to commence a Phase 1 clinical trial in red
+
+blood cells. There can be no assurance as to whether Phase 1 trials, if
+
+commenced, will be successful or as to the timing of these studies or the
+
+acceptance of the design of these or any later studies by the FDA.
+
+    FUTURE PRODUCT DEVELOPMENT
+
+    The Company believes that the technology it has developed for treatment
+
+of platelets, FFP and red blood cells may have application in treating other
+
+blood products, including plasma fractions, such as Factor VIII and Factor IX
+
+clotting factors, and recombinant equivalents of plasma derivatives. The Company
+
+also believes that the compounds and processes it has developed for inactivation
+
+of pathogens and leukocytes may have other medical applications in which
+
+reactions with nucleic acid may serve to prevent or control the activities of
+
+cells or microorganisms.
+
+ALLIANCE WITH BAXTER
+
+    The Agreements with Baxter provide for the development, manufacture and
+
+marketing of pathogen inactivation systems for platelets, FFP and red blood
+
+cells. The Agreements generally provide for Baxter and the Company to share
+
+development expenses equally, subject to mutually agreed budgets established
+
+from time to time, and for Baxter's exclusive right and responsibility to market
+
+the systems worldwide. Under the Agreements, the Company is to receive between
+
+26.8% and 30.7% of revenues from sales of inactivation system disposables for
+
+platelets after deducting from such revenues the amount by which Baxter's and
+
+the Company's cost of goods for the inactivation system disposables exceeds
+
+certain dollar amounts specified in the agreement (the "Premium"). The
+
+percentage of Premium to be received by the Company will be determined on the
+
+basis of the market price of the disposables; in no event, however, will the
+
+amount to be received per inactivation system disposable be less than $8.50,
+
+plus 2.2% of the Premium, nor more than $20.00, plus 2.2% of the Premium. For
+
+red blood cells and FFP, the Company and Baxter are to share equally in gross
+
+profits from sales of inactivation system disposables, after deducting from such
+
+gross profits a specified percentage allocation to be retained by the marketing
+
+party for marketing and administrative expenses. However, the revenue sharing
+
+under this agreement is subject to adjustment upon the occurrence of certain
+
+events, including any adjustments in the relative sharing by the parties of
+
+development expenses. For red blood cells and FFP, the Company and Baxter are
+
+also to receive their respective costs of goods for compounds and components
+
+supplied for inactivation system disposables and the depreciation of certain
+
+instruments used in the systems. For platelets, red blood cells and FFP, Baxter
+
+will retain revenues from the sales of any related instruments, such as the
+
+illumination devices used to activate S-59. The Company is obligated to supply
+
+the inactivation compound for the systems, with Baxter supplying the remaining
+
+components. Through December 31, 1997, Baxter paid the Company up-front license
+
+fees and milestone and development payments totaling $14.8 million and invested
+
+$17.5 million in the capital stock of the Company. Baxter currently owns
+
+1,457,830 shares of the Company's common stock, or approximately 15.9% of the
+
+Company's common stock currently outstanding. Baxter is obligated to make
+
+additional equity investments, at 120% of the market price at the time of each
+
+investment, subject to the achievement of certain milestones as follows: (i)
+
+either $5 million, upon the achievement of both (a) the mutual determination by
+
+the Company and Baxter that there is sufficient data to conclude that Phase 3
+
+platelet trials are likely to satisfy specified criteria (the "Interim Platelet
+
+Determination") and (b) the filing of a regulatory application with the FDA to
+
+begin a Phase 1 study under the red blood cell program or comparable filing in
+
+Europe under such program, or separate equity investments of $2 million upon the
+
+Interim Platelet Determination, and $3 million upon the approval of a regulatory
+
+application by the FDA under the red blood cell program or comparable approval
+
+in Europe under such program; and (ii) $5 million, upon the achievement of both
+
+(a) the approval by the FDA to commence a Phase 3 study in the United States or
+
+comparable approval in 
+
+                    6
+
+  9
+
+Europe under the red blood cell program and (b) the approval by the FDA of an
+
+application to market products developed under the platelet program or
+
+comparable approval in Europe under such program.
+
+    Baxter has agreed that it will not at any time, nor will it permit any
+
+of its affiliates to, own capital stock of the Company having 20.1% or more of
+
+the outstanding voting power of the Company. Such restrictions on stock
+
+purchases will not apply in the event a third party makes a tender offer for a
+
+majority of the outstanding voting securities of the Company or if the Board of
+
+Directors of the Company determines to liquidate or sell to a third party
+
+substantially all of the assets or a majority of the voting securities of the
+
+Company or to approve a merger or consolidation in which the Company's
+
+stockholders will not own a majority of the voting securities of the surviving
+
+entity.
+
+    In March 1998, the Company and Baxter entered into an amendment to one
+
+of the Agreements providing that, to the extent the approved spending for 1998
+
+for the red blood cell project exceeds $7.3 million, Cerus will fund all
+
+expenses for the red blood cell project in 1998 in excess of such amount, up to
+
+the amount of the approved budget. To compensate Cerus for such excess
+
+expenditures, Baxter will fully fund the first expenditures under the approved
+
+budget for the red blood cell project for 1999 in an amount equal to such excess
+
+expenditures, after which the parties shall equally share the expenses of the
+
+red blood cell project. If there is for any reason not an approved budget for
+
+the red blood cell project for 1999, Baxter will fully fund the first
+
+expenditures for 1999 under the approved budget for such other Cerus-Baxter
+
+program or programs as Cerus shall designate in an amount equal to the Cerus
+
+1998 excess expenditures. If by July 1, 1999, however, there is not an approved
+
+budget for such other Cerus-Baxter program or programs that is at least equal to
+
+such excess expenditures, Baxter will promptly pay to Cerus one-half of the
+
+amount by which the excess expenditures exceed the amount of expenditures to be
+
+funded by Baxter. Cerus anticipates that the expenditures for 1998 for the FFP
+
+program will exceed the previously approved budget. Cerus and Baxter are
+
+discussing each company's level of funding in 1998 for the FFP program. There
+
+can be no assurance that the parties will agree on a budget that would permit
+
+the FFP program to proceed in accordance with the Company's plans.
+
+    Baxter has certain discretion in decisions concerning the development
+
+and marketing of pathogen inactivation systems. There can be no assurance that
+
+Baxter will not elect to pursue alternative technologies or product strategies
+
+or that its corporate interests and plans will remain consistent with those of
+
+the Company. The Company is aware that Baxter is developing an alternative
+
+pathogen inactivation system for FFP, based on a compound known as methylene
+
+blue.
+
+    The Agreements contain restrictions on the Company's ability to develop
+
+and market pathogen inactivation systems for blood components outside the
+
+Agreements. The Company is entitled, however, to enter into development and
+
+licensing agreements with third parties for pathogen inactivation technology for
+
+plasma derivatives and recombinant equivalents of plasma derivatives. Such
+
+development and licensing agreements are free of any rights of Baxter, except
+
+that the Company must offer Baxter the right to license such technology on terms
+
+no less favorable than the terms offered to other plasma derivative
+
+manufacturers.
+
+    The development programs under the Agreements may be terminated by
+
+Baxter or the Company on 90 days' notice. If either party so terminates as to a
+
+program, the other party will gain exclusive development and marketing rights to
+
+the program, and the terminating party's sharing in program revenues will be
+
+reduced significantly. See "Additional Business Risks - Reliance on Baxter."
+
+MANUFACTURING AND SUPPLY
+
+    The Company has in the past utilized, and intends to continue to
+
+utilize, third parties to manufacture and supply the psoralen and ALE
+
+inactivation compounds for its systems and to rely on Baxter to supply system
+
+components for use in clinical trials and for the potential commercialization of
+
+its products in development. The Company has no experience in manufacturing
+
+products for commercial purposes and does not have any manufacturing facilities.
+
+Consequently, the Company is dependent on contract manufacturers for the
+
+production of compounds and on Baxter for other system components for
+
+development and commercial purposes.
+
+    Under the Agreements, the Company is responsible for developing and
+
+delivering its proprietary compounds for effecting pathogen inactivation to
+
+Baxter for incorporation into the final system configuration. Baxter is
+
+responsible for manufacturing or supplying the disposable units, such as blood
+
+storage containers and 
+
+                    7
+
+  10
+
+related tubing, as well as any device associated with the inactivation process.
+
+This arrangement applies both to the current supply for clinical trials and, if
+
+applicable regulatory approvals are obtained, the future commercial supply. In
+
+order to provide the inactivation compounds for its platelet and FFP pathogen
+
+inactivation systems, the Company has contracted with two manufacturing
+
+facilities for large-scale synthesis of S-59, although only one currently is
+
+performing such synthesis and currently has a stock of compound sufficient to
+
+support the anticipated remaining clinical trials planned for the platelet and
+
+FFP pathogen inactivation systems. The Company has not contracted with a
+
+manufacturer to produce large-scale quantities of S-303. There can be no
+
+assurance that the Company will be able to contract for the manufacturing of
+
+products and compounds for its pathogen inactivation systems in the future on
+
+reasonable terms, if at all.
+
+    The Company purchases certain key components of its compounds from a
+
+limited number of suppliers. While the Company believes that there are
+
+alternative sources of supply for such components, establishing additional or
+
+replacement suppliers for any of the components in the Company's compounds, if
+
+required, may not be accomplished on a timely basis and could involve
+
+significant additional costs. See "Additional Business Risks - Reliance on Third
+
+Party Manufacturing; Dependence on Key Suppliers."
+
+MARKETING, SALES AND DISTRIBUTION
+
+    If appropriate regulatory approvals are received, Baxter will be
+
+responsible for the marketing, sales and distribution of the Company's pathogen
+
+inactivation systems for blood components worldwide. The Company does not
+
+currently maintain, nor does it intend to develop, its own marketing and sales
+
+organization but instead expects to rely on Baxter to market and sell its
+
+pathogen inactivation systems. There can be no assurance that the Company will
+
+be able to maintain its relationship with Baxter or that such marketing
+
+arrangements will result in payments to the Company. Revenues to be received by
+
+the Company through any marketing and sales arrangement with Baxter will be
+
+dependent on Baxter's efforts, and there can be no assurance that the Company
+
+will benefit from Baxter's present or future market presence or that such
+
+efforts will otherwise be successful. If the Agreements were terminated or if
+
+Baxter's marketing efforts were unsuccessful, the Company's business, financial
+
+condition and results of operations would be materially adversely affected.
+
+COMPETITION
+
+    The Company expects to encounter competition in the sale of products it
+
+may develop. If regulatory approvals are received, the Company's products may
+
+compete with other approaches to blood safety currently in use, as well as with
+
+future products developed by biotechnology and pharmaceutical companies,
+
+hospital supply companies, national and regional blood centers, and certain
+
+governmental organizations and agencies. Many companies and organizations that
+
+may be competitors or potential competitors have substantially greater financial
+
+and other resources than the Company and may have greater experience in
+
+preclinical testing, human clinical trials and other regulatory approval
+
+procedures. The Company's ability to compete successfully will depend, in part,
+
+on its ability to develop proprietary products, develop and maintain products
+
+that reach the market first, are technologically superior to and/or are of lower
+
+cost than other products on the market, attract and retain scientific personnel,
+
+obtain patent or other proprietary protection for its products and technologies,
+
+obtain required regulatory approvals, and manufacture, market and sell any
+
+product that it develops. In addition, other technologies or products may be
+
+developed that have an entirely different approach or means of accomplishing the
+
+intended purposes of the Company's products, or that might render the Company's
+
+technology and products uncompetitive or obsolete. Furthermore, there can be no
+
+assurance that the Company's competitors will not obtain patent protection or
+
+other intellectual property rights that would limit the Company's ability to use
+
+the Company's technology or commercialize products that may be developed.
+
+    Several companies are developing technologies which are, or in the
+
+future may be, the basis for products that will directly compete with or reduce
+
+the market for the Company's pathogen inactivation systems. A number of
+
+companies are specifically focusing on alternative strategies for pathogen
+
+inactivation or removal in various blood components. Although no commercial
+
+processes are currently available to eliminate or inactivate pathogens in
+
+platelets and red blood cells, a number of pathogen inactivation methods are
+
+used commercially in Europe for FFP, including treatment with solvent-detergent
+
+or methylene blue. Because the solvent-detergent process combines hundreds of
+
+units of plasma into large pools, there is increased risk of transmission of
+
+pathogens not inactivated by the process, such as parvovirus B19. In December
+
+1996, the Blood Products Advisory Committee, an advisory panel 
+
+                    8
+
+  11
+
+to the FDA, unanimously recommended that solvent-detergent be approved for use
+
+in treating FFP. Although recommendations of advisory committees are not
+
+binding, unanimous recommendations generally are followed by the FDA. If
+
+approved by the FDA, the treatment of FFP by solvent-detergent may become a
+
+widespread practice prior to any commercialization of the Company's FFP pathogen
+
+inactivation system, making such commercialization more difficult. Other groups
+
+are developing synthetic blood product substitutes or products to stimulate the
+
+growth of platelets. If any of these technologies is successfully developed, it
+
+could have a material adverse effect on the Company's business, financial
+
+condition and results of operations.
+
+    The Company believes that the primary competitive factors in the market
+
+for pathogen inactivation systems will include the breadth and effectiveness of
+
+pathogen inactivation processes, ease of use, the scope and enforceability of
+
+patent or other proprietary rights, product price, product supply and marketing
+
+and sales capability. In addition, the length of time required for products to
+
+be developed and to receive regulatory and, in some cases, reimbursement
+
+approval are important competitive factors. The Company believes it competes
+
+favorably with respect to these factors, although there can be no assurance that
+
+it will be able to continue to do so. The biopharmaceutical field is
+
+characterized by rapid and significant technological changes. Accordingly, the
+
+Company's success will depend in part on its ability to respond quickly to
+
+medical and technological changes through the development and introduction of
+
+new products. Product development involves a high degree of risk, and there can
+
+be no assurance that the Company's product development efforts will result in
+
+any commercially successful products.
+
+    Under the Agreements, Baxter has reserved the right to market competing
+
+products not within the field of psoralen or ALE inactivation. Baxter is
+
+conducting several independent product development efforts in blood collection
+
+and processing that may improve blood component quality and safety. The Company
+
+is aware that Baxter is developing an alternative pathogen inactivation system
+
+for FFP, based on methylene blue. The development and commercialization of the
+
+Company's pathogen inactivation systems could be materially adversely affected
+
+by competition with Baxter or by Baxter's election to pursue alternative
+
+strategies or technologies in lieu of those of the Company. See "Additional
+
+Business Risks - Rapid Technological Change; Significant Competition."
+
+PATENTS, LICENSES AND PROPRIETARY RIGHTS
+
+    The Company's success depends in part on its ability to obtain patents,
+
+to protect trade secrets, to operate without infringing upon the proprietary
+
+rights of others and to prevent others from infringing on the proprietary rights
+
+of the Company. The Company's policy is to seek to protect its proprietary
+
+position by, among other methods, filing United States and foreign patent
+
+applications related to its proprietary technology, inventions and improvements
+
+that are important to the development of its business. As of December 31, 1997,
+
+the Company owned 33 issued or allowed United States patents and 14 issued or
+
+allowed foreign patents. The Company's patents expire at various dates between
+
+2003 and 2015. In addition, the Company has 29 pending United States patent
+
+applications and has filed 26 corresponding patent applications under the Patent
+
+Cooperation Treaty, three of which are currently pending in Europe, Japan,
+
+Australia and Canada. Proprietary rights relating to the Company's planned and
+
+potential products will be protected from unauthorized use by third parties only
+
+to the extent that they are covered by valid and enforceable patents or are
+
+effectively maintained as trade secrets. There can be no assurance that any
+
+patents owned by, or licensed to, the Company will afford protection against
+
+competitors or that any pending patent applications now or hereafter filed by,
+
+or licensed, to the Company will result in patents being issued. In addition,
+
+the laws of certain foreign countries do not protect the Company's intellectual
+
+property rights to the same extent as do the laws of the United States.
+
+    The patent positions of biopharmaceutical companies involve complex
+
+legal and factual questions and, therefore, their enforceability cannot be
+
+predicted with certainty. There can be no assurance that any of the Company's
+
+patents or patent applications, if issued, will not be challenged, invalidated
+
+or circumvented, or that the rights granted thereunder will provide proprietary
+
+protection or competitive advantages to the Company against competitors with
+
+similar technology. Furthermore, there can be no assurance that others will not
+
+independently develop similar technologies or duplicate any technology developed
+
+by the Company. Because of the extensive time required for development, testing
+
+and regulatory review of a potential product, it is possible that, before any of
+
+the Company's products can be commercialized, any related patent may expire or
+
+remain in existence for only a short period following commercialization, thus
+
+reducing any advantage of the patent, which could adversely affect the 
+
+                    9
+
+  12
+
+Company's ability to protect future product development and, consequently, its
+
+operating results and financial position.
+
+    Because patent applications in the United States are maintained in
+
+secrecy until patents issue and since publication of discoveries in the
+
+scientific or patent literature often lag behind actual discoveries, the Company
+
+cannot be certain that it was the first to make the inventions covered by each
+
+of its issued or pending patent applications or that it was the first to file
+
+for protection of inventions set forth in such patent applications. There can be
+
+no assurance that the Company's planned or potential products will not be
+
+covered by third-party patents or other intellectual property rights, in which
+
+case continued development and marketing of such products would require a
+
+license under such patents or other intellectual property rights. There can be
+
+no assurance that such required licenses will be available to the Company on
+
+acceptable terms, if at all. If the Company does not obtain such licenses, it
+
+could encounter delays in product introductions while it attempts to design
+
+around such patents, or could find that the development, manufacture or sale of
+
+products requiring such licenses is foreclosed. Litigation may be necessary to
+
+defend against or assert such claims of infringement, to enforce patents issued
+
+to the Company, to protect trade secrets or know-how owned by the Company or to
+
+determine the scope and validity of the proprietary rights of others. In
+
+addition, interference proceedings declared by the United States Patent and
+
+Trademark Office may be necessary to determine the priority of inventions with
+
+respect to patent applications of the Company. Litigation or interference
+
+proceedings could result in substantial costs to and diversion of effort by the
+
+Company, and could have a material adverse effect on the Company's business,
+
+financial condition and results of operations. There can be no assurance that
+
+these efforts by the Company would be successful.
+
+    The Company is a licensee under a worldwide exclusive license agreement
+
+with Miles, Inc. and Diamond Scientific Corporation with respect to two United
+
+States patents covering inventions pertaining to psoralen-based photochemical
+
+decontamination treatment of whole blood or blood components and four United
+
+States patents relating to vaccines, as well as related foreign patents. Whether
+
+the Company's psoralen-based pathogen inactivation systems practice either of
+
+the photochemical decontamination patents depends on an interpretation of the
+
+scope of the patent claims. If such systems practice such patents, the license
+
+provides for Cerus to make milestone payments and pay royalties on revenues
+
+Cerus receives from sales of such systems. The license also calls for minimum
+
+annual royalty payments in order to maintain certain exclusive rights. The
+
+manner in which any such milestone payments and royalties would be shared by
+
+Baxter, if at all, has not been determined.
+
+    The Company may rely, in certain circumstances, on trade secrets to
+
+protect its technology. However, trade secrets are difficult to protect. The
+
+Company seeks to protect its proprietary technology and processes, in part, by
+
+confidentiality agreements with its employees and certain contractors. There can
+
+be no assurance that these agreements will not be breached, that the Company
+
+will have adequate remedies for any breach, or that the Company's trade secrets
+
+will not otherwise become known or be independently discovered by competitors.
+
+To the extent that the Company's employees or its consultants or contractors use
+
+intellectual property owned by others in their work for the Company, disputes
+
+may also arise as to the rights in related or resulting know-how and inventions.
+
+    In August 1996, the Company received correspondence from Circadian
+
+Technologies, Inc., an Australian entity, alleging that unspecified trade
+
+secrets and know-how jointly owned by Circadian and the Auckland Division Cancer
+
+Society of New Zealand were, without the consent of Circadian, used in the
+
+development by the Cancer Society and the Company of unspecified compounds for
+
+the Company's red blood cell program. Such claims do not relate to the Company's
+
+platelet or FFP programs. In subsequent correspondence, Circadian has indicated
+
+that it is seeking compensation in the form of royalties or a lump sum payment.
+
+Based on its investigation of the matter to date, the Company does not believe
+
+that the claims are meritorious. Any future litigation involving these
+
+allegations, however, would be subject to inherent uncertainties, especially in
+
+cases where complex technical issues are decided by a lay jury. There can be no
+
+assurance that, if a lawsuit were commenced, it would not be decided against the
+
+Company, which could have a material adverse effect upon the Company's business,
+
+financial condition and results of operations.
+
+                    10
+
+  13
+
+GOVERNMENT REGULATION
+
+    The Company and its products are comprehensively regulated in the United
+
+States by the FDA and, in some instances, by state and local governments, and by
+
+comparable governmental authorities in other countries. The FDA regulates drugs,
+
+medical devices, and biologics under the Federal Food, Drug and Cosmetic Act and
+
+other laws, including, in the case of biologics, the Public Health Service Act.
+
+These laws and implementing regulations govern, among other things, the
+
+development, testing, manufacturing, record keeping, storage, labeling
+
+advertising, promotion and premarket clearance or approval of products subject
+
+to regulation.
+
+    The Company believes its pathogen inactivation systems will be regulated
+
+by the FDA as devices. It is also possible, however, that the FDA will decide to
+
+regulate the pathogen inactivation systems as biologics, as drugs, as
+
+combination products including drugs or biologics and one or more medical
+
+devices, or as drugs or biologics with one or more medical devices (i.e., the
+
+blood bags and light source) requiring separate approval or clearance. Whether
+
+the FDA regulates the pathogen inactivation systems as devices or as one or more
+
+of the other alternatives, it is likely that the FDA's Center for Biologics
+
+Evaluation and Research will be principally responsible for regulating the
+
+pathogen inactivation systems.
+
+    Before a medical device may be marketed in the United States, the FDA
+
+must clear a pre-market notification (a "510(k)") or approve a pre-market
+
+approval application ("PMA") for the product. Before a new drug may be marketed
+
+in the United States, the FDA must approve an NDA for the product. Before a
+
+biologic may be marketed in the United States, the FDA must approve a Biologic
+
+License Application ("BLA"). Before a combination product can be marketed in the
+
+United States, it must have an approved NDA, BLA or PMA, depending on which
+
+statutory authority the FDA elects to use.
+
+    Despite the multiplicity of statutory and regulatory possibilities, the
+
+steps required before approval are essentially the same whether the product is
+
+ultimately regulated as a medical device, biologic, drug, a combination product,
+
+or a combination thereof. The steps required before a medical device, drug or
+
+biologic may be approved for marketing in the United States pursuant to a PMA,
+
+BLA or NDA, respectively, generally include (i) preclinical laboratory and
+
+animal tests, (ii) submission to the FDA of an investigational device exemption
+
+("IDE") (for medical devices) or an IND (for drugs or biologics) for human
+
+clinical testing, which must become effective before human clinical trials may
+
+begin (iii) appropriate tests to show the product's safety, (iv) adequate and
+
+well-controlled human clinical trials to establish the product's efficacy for
+
+its intended indications, (v) submission to the FDA of a PMA, BLA or NDA, as
+
+appropriate and (vi) FDA review of the PMA, BLA or NDA in order to determine,
+
+among other things, whether the product is safe and effective for its intended
+
+uses. In addition, the FDA inspects the facilities at which the product is
+
+manufactured and will not approve the product unless compliance with current
+
+Good Manufacturing Practices ("cGMP") requirements is satisfactory. The steps
+
+required before a medical device may be cleared for marketing in the United
+
+States pursuant to a 510(k) are generally the same, except that instead of
+
+conducting tests to demonstrate safety and efficacy, data, including clinical
+
+data if necessary, must be obtained to show that the product is substantially
+
+equivalent to a legally marketed device, and the FDA must make a determination
+
+of substantial equivalence rather than a determination that the product is safe
+
+and effective.
+
+    The Company believes that, in deciding whether a pathogen inactivation
+
+system is safe and effective, the FDA is likely to take into account whether it
+
+adversely affects the therapeutic efficacy of blood components as compared to
+
+the therapeutic efficacy of blood components not treated with the system, and
+
+that the FDA will weigh the system's safety, including potential toxicities of
+
+the inactivation compounds, and other risks against the benefits of using the
+
+system in a blood supply that has become safer in recent years. There can be no
+
+assurance that the FDA will not require further toxicology studies of the
+
+Company's products.
+
+    Based on discussions with the FDA, the Company believes that it will be
+
+required to provide data from human clinical studies to demonstrate the safety
+
+of treated platelets and their therapeutic comparability to untreated platelets,
+
+but that only data from in vitro and animal studies, not data from human
+
+clinical studies, will be required to demonstrate the system's efficacy in
+
+inactivating pathogens. In light of these criteria, the Company's clinical trial
+
+programs for platelets and FFP will consist of studies that differ from the
+
+usual Phase 1, Phase 2 and Phase 3 clinical studies.
+
+                    11
+
+  14
+
+    There can be no assurance, however, that these means of demonstrating
+
+safety and efficacy will ultimately be acceptable to the FDA or that the FDA
+
+will continue to believe that this clinical plan is appropriate. Moreover, even
+
+if the FDA considers these means of demonstrating safety and efficacy to be
+
+acceptable in principle, there can be no assurance that the FDA will find the
+
+data submitted sufficient to demonstrate safety and efficacy. In particular,
+
+although the Company anticipates that the FDA will consider in vitro and animal
+
+data an appropriate means of demonstrating efficacy in pathogen inactivation,
+
+there can be no assurance that the FDA will so conclude, and any requirement to
+
+provide other than in vitro and animal data would adversely affect the timing
+
+and could affect the success of the Company's efforts to obtain regulatory
+
+approval.
+
+    Even if regulatory approval or clearance is granted, it could include
+
+significant limitations on the indicated uses for which a product could be
+
+marketed. For example, the Company does not believe that it will be able to make
+
+any labeling claims that the Company's pathogen inactivation systems may
+
+inactivate any pathogens for which it does not have in vitro, and in certain
+
+cases animal, data supporting such claims. The testing and approval/clearance
+
+process requires substantial time, effort and financial resources, and is
+
+generally lengthy, expensive and uncertain. The approval process is affected by
+
+a number of factors, including the availability of alternative treatments and
+
+the risks and benefits demonstrated in clinical trials. Additional animal
+
+studies or clinical trials may be requested during the FDA review period and may
+
+delay marketing approval. After FDA approval for the initial indications,
+
+further clinical trials may be necessary to gain approval for the use of the
+
+product for additional indications. The FDA may also require post-marketing
+
+testing to monitor for adverse effects, which can involve significant expense.
+
+Later discovery of previously unknown problems with a product may result in
+
+restrictions on the product, including withdrawal of the product from the
+
+market. In addition, the policies of the FDA may change, and additional
+
+regulations may be promulgated which could prevent or delay regulatory approval
+
+of the Company's planned products. There can be no assurance that any approval
+
+or clearance will be granted on a timely basis, if at all. Any failure to obtain
+
+or delay in obtaining such approvals or clearances, and any significant
+
+limitation on their indicated uses, could have a material adverse effect on the
+
+Company's business, financial condition and results of operations.
+
+    A medical device, biologic or drug, its manufacturer, and the holder of
+
+the PMA or 510(k), BLA or NDA for the product are subject to comprehensive
+
+regulatory oversight, both before and after approval or clearance is obtained.
+
+Violations of regulatory requirements at any stage, including during the
+
+preclinical and clinical testing process, during the approval/clearance process
+
+or after the product is approved/cleared for marketing, could result in various
+
+adverse consequences, including the FDA's requiring that a clinical trial be
+
+suspended or halted, the FDA's delay in approving/clearing or refusing to
+
+approve/clear a product, withdrawal of an approved/cleared product from the
+
+market and the imposition of criminal penalties. For example, the holder of a
+
+PMA or 510(k), BLA or NDA is required to report certain adverse reactions to the
+
+FDA, and must comply with certain requirements concerning advertising and
+
+promotional labeling for the product. Also, quality control and manufacturing
+
+procedures must continue to conform to cGMP regulations after approval or
+
+clearance, and the FDA periodically inspects manufacturing facilities to assess
+
+compliance with cGMP. Accordingly, manufacturers must continue to expend time,
+
+monies and efforts on regulatory compliance, including cGMP compliance. In
+
+addition, new government requirements may be established that could delay or
+
+prevent regulatory approval or clearance of the Company's products under
+
+development or otherwise alter the applicable law. There can be no assurance
+
+that the FDA will determine that the facilities and manufacturing procedures of
+
+Baxter or any other third-party manufacturer of the Company's planned products
+
+will conform to cGMP requirements.
+
+    In addition to the regulatory requirements applicable to the Company and
+
+its products, there are also regulatory requirements applicable to the Company's
+
+prospective customers, which are primarily entities that ship blood and blood
+
+products in interstate commerce. Such entities are regulated by the FDA pursuant
+
+to the Food, Drug and Cosmetic Act and the Public Health Service Act and
+
+implementing regulations. Blood centers and others that ship blood and blood
+
+products interstate will likely be required to obtain approved license
+
+supplements from the FDA before shipping products processed with the Company's
+
+pathogen inactivation systems. This requirement and/or FDA delays in approving
+
+such supplements may deter some blood centers from using the Company's products,
+
+and blood centers that do submit supplements may face disapproval or delays in
+
+approval that could provide further disincentives to use of the systems. The
+
+regulatory impact on potential customers could have a material adverse effect on
+
+the Company's business, financial condition and results of operations.
+
+                    12
+
+  15
+
+    The Phase 3 European clinical trial is being designed to assess the
+
+therapeutic efficacy of the platelet pathogen inactivation system for use in
+
+treating apheresis platelets and pooled random donor platelets. The Phase 3
+
+United States clinical trial is being designed to assess the therapeutic
+
+efficacy of the platelet pathogen inactivation system for use in treating
+
+apheresis platelets, not pooled random donor platelets, which represent 55% and
+
+45% of the market, respectively. If the Company decides to seek FDA approval of
+
+the platelet pathogen inactivation system for use in treating pooled random
+
+donor platelets, the Company may be required by the FDA to conduct additional
+
+clinical studies. In addition, there currently are three principal manufacturers
+
+of automated apheresis collection equipment used in the United States, including
+
+Baxter. The equipment of each manufacturer collect platelets into plastic
+
+disposables designed for that equipment; thus, a pathogen inactivation system
+
+designed for disposables used by one manufacturer will not necessarily be
+
+compatible with other manufacturers' collection equipment. The Company intends
+
+initially to seek FDA approval of a platelet pathogen inactivation system
+
+configured for Baxter's aphersis collection equipment. If the Company determines
+
+that compatibility with other equipment is desirable, it will need to develop
+
+additional processing procedures. Although the Company believes that the FDA
+
+would accept the clinical data from the original system for platelets collected
+
+using other equipment and procedures and would require only limited additional
+
+studies to show comparability, there can be no assurance that it would do so.
+
+    Because of the risk of bacterial growth, current FDA rules require that
+
+platelets may not be stored for more than five days after collection from the
+
+donor. The rules also require that pooled platelets be transfused within four
+
+hours of pooling and, as a result, most pooling occurs at hospitals. However,
+
+the Company's platelet pathogen inactivation system is being designed to be used
+
+at blood centers, not at hospitals, and requires a processing time of
+
+approximately eight hours. Therefore, in order for the Company's platelet
+
+pathogen inactivation system to be effectively implemented and accepted at blood
+
+centers as planned, the FDA-imposed limit on the time between pooling and
+
+transfusion would need to be lengthened or eliminated for blood products treated
+
+with the Company's systems, which are being designed to inactivate bacteria that
+
+would otherwise contaminate pooled platelets. If the Company were to pursue the
+
+pooled random donor platelet market, it would need to work with the FDA during
+
+the approval/clearance process to obtain the necessary changes in these
+
+limitations. There can be no assurance, however, that the FDA would change this
+
+requirement and, if such a change were not made, the Company's business,
+
+financial condition and results of operations would be materially adversely
+
+affected.
+
+    The Company is developing a European investigational plan based on the
+
+platelet and FFP treatment systems using S-59 being categorized as Class III
+
+devices under European Union regulatory authorities. However, there can be no
+
+assurance that this approach will be accepted by European authorities. The
+
+European Union has promulgated rules that require that medical devices receive
+
+by mid-1998 the right to affix the CE Mark, an international symbol of adherence
+
+to quality assurance standards and compliance with applicable European medical
+
+device directives. Failure to receive CE Mark certification will prohibit the
+
+Company from selling its products in the European Union.
+
+    The Company is subject to federal, state and local laws, rules,
+
+regulations and policies governing the use, generation, manufacture, storage,
+
+air emission, effluent discharge, handling and disposal of certain materials,
+
+biological specimens and wastes. There can be no assurance that the Company will
+
+not be required to incur significant costs to comply with environmental and
+
+health and safety regulations in the future. The Company's research and
+
+development involves the controlled use of hazardous materials, including
+
+certain hazardous chemicals and radioactive materials. Although the Company
+
+believes that its safety procedures for handling and disposing of such materials
+
+comply with the standards prescribed by state and federal regulations, the risk
+
+of accidental contamination or injury from these materials cannot be eliminated.
+
+In the event of such an accident, the Company could be held liable for any
+
+damages that result and any such liability could exceed the resources of the
+
+Company.
+
+EMPLOYEES
+
+    As of February 28, 1998, the Company had 76 employees, 59 of whom were
+
+engaged in research and development and 17 in finance and other administration.
+
+The Company also had consulting arrangements with nine individuals. No employee
+
+of the Company is covered by collective bargaining agreements, and the Company
+
+believes that its relationship with its employees is good.
+
+                    13
+
+  16
+
+ADDITIONAL BUSINESS RISKS
+
+    The Company's business is subject to the following risks in addition to
+
+those discussed above and elsewhere in this report.
+
+    Early Stage of Product Development. The Company's pathogen inactivation
+
+systems for blood transfusion components are in the research and development
+
+stage and will require additional preclinical and clinical testing prior to
+
+submission of any regulatory application for commercial use. The Company has not
+
+commenced the large-scale clinical trials that would, if successful, lead to
+
+filing product approval applications with the FDA. The Company's products are
+
+subject to the risks of failure inherent in the development of medical device,
+
+pharmaceutical and biological products and products based on new technologies.
+
+These risks include the possibility that the Company's approach to pathogen
+
+inactivation will not be safe or effective, that the Company's products will not
+
+be easy to use or cost-effective, that third parties will develop and market
+
+superior or equivalent products, that any or all of the Company's products will
+
+fail to receive any necessary regulatory approvals, that such products will be
+
+difficult or uneconomical to manufacture on a commercial scale, that proprietary
+
+rights of third parties will preclude the Company from marketing such products
+
+and that the Company's products will not achieve market acceptance. As a result
+
+of these risks, there can be no assurance that the Company's research and
+
+development activities will result in any commercially viable products.
+
+    Uncertainty Associated with Preclinical and Clinical Testing. The
+
+regulatory process includes preclinical and clinical testing of each product to
+
+establish its safety and efficacy, and may include post-marketing studies
+
+requiring expenditure of substantial resources. The results from preclinical
+
+studies and early clinical trials conducted by the Company may not be predictive
+
+of results obtained in later clinical trials, and there can be no assurance that
+
+clinical trials conducted by the Company will demonstrate sufficient safety and
+
+efficacy to obtain the requisite approvals or that marketable products will
+
+result. For example, at the request of the FDA, the Company designed and
+
+commenced a pilot Phase 2c clinical trial in 15 thrombocytopenic patients to
+
+assess the effect of treated platelets on post-transfusion bleeding time
+
+correction and platelet count increment. The results of this pilot Phase 2c
+
+clinical trial, given its small size, cannot satisfactorily be evaluated
+
+statistically. Thus, non-statistically significant variations in bleeding times,
+
+or other measures of the trial, may result in the FDA requiring additional
+
+patients to be enrolled in the Phase 2c trial. Due to the nature of the trial,
+
+its implementation and its assessment of bleeding times, enrollment of a
+
+significant number of additional patients could be impracticable to accomplish
+
+on a timely basis and could significantly delay completion of this trial and, as
+
+a result, commencement of the proposed Phase 3 clinical trial. This Phase 2c
+
+trial currently is not expected to be completed until at least the third quarter
+
+of 1998. The rate of completion of the Company's clinical trials may be delayed
+
+by many other factors, including slower than anticipated patient enrollment or
+
+any other adverse event occurring during the clinical trials. Completion of
+
+testing, studies and trials may take several years, and the length of time
+
+generally varies substantially with the type, complexity, novelty and intended
+
+use of the product. Data obtained from preclinical and clinical activities are
+
+susceptible to varying interpretations, which could delay, limit or prevent
+
+regulatory approval. In addition, delays or rejections may be encountered based
+
+upon many factors, including changes in regulatory policy during the period of
+
+product development. The Company's products under development require
+
+significant additional research and development efforts. No assurance can be
+
+given that any of the Company's development programs will be successfully
+
+completed, that any further INDs or IDEs will become effective or that
+
+additional clinical trials will be allowed by the FDA or other regulatory
+
+authorities, that clinical trials will commence as planned, that required United
+
+States or foreign regulatory approvals will be obtained on a timely basis, if at
+
+all, or that any products for which approval is obtained will be commercially
+
+successful. Due to the uncertain nature of clinical trial programs, there can be
+
+no assurance that the proposed schedules for IND or IDE and clinical protocol
+
+submissions to the FDA, initiations of studies and completions of clinical
+
+trials can be maintained. Any delays in the Company's clinical trials or
+
+failures to obtain required regulatory approvals would have a material adverse
+
+effect on the Company's business, financial condition and results of operations.
+
+    Reliance on Baxter. Under the terms of the Agreements, the Company
+
+relies on Baxter for significant funding, product development support, the
+
+manufacture and supply of certain system components and the marketing of its
+
+planned products. The Company anticipates that, prior to commencement of product
+
+sales, if any, the Company's principal source of revenue will continue to be
+
+payments under the Agreements.
+
+                    14
+
+  17
+
+    The development programs under the Agreements may be terminated by
+
+Baxter on 90 days' notice. If the Agreements were terminated, if Baxter failed
+
+to provide the committed funding or if Baxter's product development efforts were
+
+unsuccessful, the Company may need to obtain additional funding from other
+
+sources and would be required to devote additional resources to the development
+
+of its products, delaying the development of its products. Any such delay would
+
+have a material adverse effect on the Company's business, financial condition
+
+and results of operations. There can be no assurance that disputes will not
+
+arise in the future with respect to the Agreements. Possible disagreements
+
+between Baxter and the Company could lead to delays in the research, development
+
+or commercialization of certain planned products or could require or result in
+
+time-consuming and expensive litigation or arbitration and would have a material
+
+adverse effect on the Company's business, financial condition and results of
+
+operations.
+
+    Under the terms of the Agreements, Baxter is responsible for
+
+manufacturing the disposable units, such as blood storage containers and related
+
+tubing, as well as any devices associated with the inactivation processes. If
+
+the Agreements were terminated or if Baxter otherwise failed to deliver an
+
+adequate supply of components, the Company would be required to identify other
+
+third-party component manufacturers. There can be no assurance that the Company
+
+would be able to identify such manufacturers on a timely basis or enter into
+
+contracts with such manufacturers on reasonable terms, if at all. Any delay or
+
+change in the availability of devices or disposables from Baxter or its
+
+suppliers could adversely affect the timely submission of products for
+
+regulatory approval or the market introduction and subsequent sales of such
+
+products and would have a material adverse effect on the Company's business,
+
+financial condition and results of operations. Moreover, the inclusion of
+
+components manufactured by others could require the Company to seek new
+
+approvals from government regulatory authorities, which could result in delays
+
+in product delivery. There can be no assurance that the Company would receive
+
+any such required regulatory approvals. Any such delay would have a material
+
+adverse effect on the Company's business, financial condition and results of
+
+operations.
+
+    If appropriate regulatory approvals are received, Baxter will be
+
+responsible for the marketing, sales and distribution of the Company's pathogen
+
+inactivation systems for blood components worldwide. The Company does not
+
+currently maintain, nor does it intend to develop, its own marketing and sales
+
+organization but instead expects to rely on Baxter to market and sell its
+
+pathogen inactivation systems. There can be no assurance that the Company will
+
+be able to maintain its relationship with Baxter or that such marketing
+
+arrangements will result in payments to the Company. Revenues to be received by
+
+the Company through any marketing and sales arrangement with Baxter will be
+
+dependent on Baxter's efforts, and there can be no assurance that the Company
+
+will benefit from Baxter's present or future market presence or that such
+
+efforts will otherwise be successful. If the Agreements were terminated or if
+
+Baxter's marketing efforts were unsuccessful, the Company's business, financial
+
+condition and results of operations would be materially adversely affected.
+
+    The Agreements provide for key decision-making regarding development and
+
+commercialization by a management board comprised of equal representation from
+
+Baxter and the Company and, in the case of FFP and red blood cells, one
+
+independent member. There can be no assurance that such board's decisions will
+
+be consistent with the Company's interests, that Baxter will not elect to pursue
+
+alternative technologies or product strategies or that its corporate interests
+
+and plans will remain consistent with those of the Company. In the Agreements,
+
+Baxter agreed to certain limited restrictions on its ability to independently
+
+develop and market products that compete with the products under the Agreements.
+
+There can be no assurance that these provisions will prevent Baxter from
+
+developing or marketing competing products. The Company is aware that Baxter is
+
+developing an alternative pathogen inactivation system for FFP based on
+
+methylene blue. The development and commercialization of the Company's pathogen
+
+inactivation systems could be materially adversely affected by competition with
+
+Baxter or by Baxter's election to pursue alternative strategies or technologies
+
+in lieu of those of the Company.
+
+    Government Regulation. All of the Company's products under development
+
+and anticipated future products are or will be subject to extensive and rigorous
+
+regulation by the federal government (principally the FDA) and state, local, and
+
+foreign governments. Such regulations govern, among other things, the
+
+development, testing, manufacturing, labeling, storage, pre-market clearance or
+
+approval, advertising, promotion, sale and distribution of such products. The
+
+process of obtaining regulatory approvals or clearances is generally lengthy,
+
+expensive and uncertain. To date, none of the Company's products under
+
+development has been approved for sale in the United States or any foreign
+
+market. Satisfaction of pre-market approval or clearance or other regulatory
+
+requirements of the FDA, or similar requirements of foreign regulatory agencies,
+
+typically takes several years, and may take longer, 
+
+                    15
+
+  18
+
+depending upon the type, complexity, novelty and intended use of the product.
+
+There can be no assurance that the FDA or any other regulatory agency will grant
+
+approval or clearance for any product being developed by the Company on a timely
+
+basis, if at all. If regulatory approval of a product is granted, such approval
+
+may impose limitations on the indicated uses for which a product may be
+
+marketed. Further, even if regulatory approval is obtained, later discovery of
+
+previously unknown problems with a product may result in restrictions on the
+
+product, including withdrawal of the product from the market. The policies of
+
+the FDA and foreign regulatory bodies may change, and additional regulations may
+
+be promulgated, which could prevent or delay regulatory approval of the
+
+Company's planned products. Delay in obtaining or failure to obtain regulatory
+
+approvals could have a material adverse effect on the Company's business,
+
+financial condition and results of operations. Among the conditions for FDA
+
+approval of a pharmaceutical, biologic or device is the requirement that the
+
+manufacturer's quality control and manufacturing procedures conform to cGMP
+
+requirements, which must be followed at all times. The FDA enforces cGMP
+
+requirements through periodic inspections. There can be no assurance that the
+
+FDA will determine that the facilities and manufacturing procedures of Baxter or
+
+any other third-party manufacturer of the Company's planned products will
+
+conform to cGMP requirements.
+
+    Blood centers and others that ship blood and blood products interstate
+
+will likely be required to obtain approved license supplements from the FDA
+
+before shipping products processed with the Company's pathogen inactivation
+
+systems. This requirement and/or FDA delays in approving such supplements may
+
+deter some blood centers from using the Company's products, and blood centers
+
+that do submit supplements may face disapproval or delays in approval that could
+
+provide further disincentives to use the systems. The regulatory impact on
+
+potential customers could have a material adverse effect on the Company's
+
+business, financial condition and results of operations.
+
+    No Assurance of Market Acceptance; Concentrated Market. The Company
+
+believes that market acceptance of the Company's pathogen inactivation systems
+
+will depend, in part, on the Company's ability to provide acceptable evidence of
+
+the safety, efficacy and cost-effectiveness of its products, as well as the
+
+ability of blood centers to obtain FDA approval and adequate reimbursement for
+
+such products. The Company believes that market acceptance of its pathogen
+
+inactivation systems also will depend upon the extent to which physicians,
+
+patients and health care payors perceive that the benefits of using blood
+
+components treated with the Company's systems justify the systems' additional
+
+costs and processing requirements in a blood supply that has become safer in
+
+recent years. While the Company believes that its pathogen inactivation systems
+
+are able to inactivate pathogens in excess of concentrations that the Company
+
+believes typically are present in contaminated blood components when the blood
+
+is donated, there can be no assurance that contamination levels will never
+
+exceed the capacity of the Company's pathogen inactivation systems. The Company
+
+does not expect that its planned products will be able to inactivate all known
+
+and unknown infectious pathogens, and there can be no assurance that the
+
+inability to inactivate certain pathogens will not affect the market acceptance
+
+of its products. There can be no assurance that the Company's pathogen
+
+inactivation systems will gain any significant degree of market acceptance among
+
+blood centers, physicians, patients and health care payors, even if clinical
+
+trials demonstrate safety and efficacy and necessary regulatory approvals and
+
+health care reimbursement approvals are obtained.
+
+    In the United States, approximately 55% of platelets are collected by
+
+apheresis. The Company's Phase 3 United States clinical trial protocol for its
+
+platelet pathogen inactivation system has been designed to assess the
+
+therapeutic efficacy of such system in treating apheresis platelets only. There
+
+can be no assurance that the market share for apheresis platelets will increase.
+
+If such market share does not increase, the Company may decide to conduct
+
+additional clinical studies in order to obtain FDA approval of the system for
+
+use in treating random donor platelets. In addition, there currently are three
+
+principal manufacturers of automated apheresis collection equipment used in the
+
+United States, including Baxter. The equipment of each manufacturer collect
+
+platelets into plastic disposables designed for that equipment; thus, a pathogen
+
+inactivation system designed for disposables used by one manufacturer will not
+
+necessarily be compatible with the other manufacturers' collection equipment.
+
+The Company intends initially to seek FDA approval of a platelet pathogen
+
+inactivation system configured for Baxter's apheresis collection equipment. If
+
+the Company determines that compatibility with other equipment is desirable, it
+
+will need to develop additional processing procedures. Although the Company
+
+believes that the FDA would accept the clinical data from the original system
+
+for platelets collected using other equipment and procedures and would require
+
+only limited additional studies to show comparability, there can be no assurance
+
+that it would do so.
+
+                    16
+
+  19
+
+    The Company's target customers are the limited number of national and
+
+regional blood centers, which collect, store and distribute blood and blood
+
+components. The failure to penetrate even a small number of these customers
+
+could have a material adverse effect on the Company's business, financial
+
+condition and results of operations.
+
+    Rapid Technological Change; Significant Competition. The
+
+biopharmaceutical field is characterized by rapid and significant technological
+
+change. Accordingly, the Company's success will depend in part on its ability to
+
+respond quickly to medical and technological changes through the development and
+
+introduction of new products. Product development involves a high degree of
+
+risk, and there can be no assurance that the Company's product development
+
+efforts will result in any commercially successful products. Technological
+
+developments may result in the Company's products becoming obsolete or
+
+non-competitive before the Company is able to generate any significant revenue.
+
+Any such occurrence would have a material adverse effect on the Company's
+
+business, financial condition and results of operations.
+
+    The Company expects to encounter competition in the sale of products it
+
+may develop, and its success will be dependent upon its ability to compete. Many
+
+companies and organizations that may be competitors or potential competitors
+
+have substantially greater financial and other resources than the Company and
+
+may have greater experience in preclinical testing, human clinical trials and
+
+other regulatory approval procedures. The Company's ability to compete
+
+successfully will depend, in part, on its ability to develop proprietary
+
+products, develop and maintain products that reach the market first, are
+
+technologically superior to and/or are of lower cost than other products on the
+
+market, attract and retain scientific personnel, obtain patent or other
+
+proprietary protection for its products and technologies, obtain required
+
+regulatory approvals, and manufacture, market and sell any product that it
+
+develops. In addition, other technologies or products may be developed that have
+
+an entirely different approach or means of accomplishing the intended purposes
+
+of the Company's products, or that might render the Company's technology and
+
+products uncompetitive or obsolete. Furthermore, there can be no assurance that
+
+the Company's competitors will not obtain patent protection or other
+
+intellectual property rights that would limit the Company's ability to use the
+
+Company's technology or commercialize products that may be developed.
+
+    Dependence on Key Employees. The Company is highly dependent on the
+
+principal members of its management and scientific staff. The loss of the
+
+services of one or more of these employees could have a material adverse effect
+
+on the Company's business, financial condition and results of operations. The
+
+Company believes that its future success will depend in large part upon its
+
+ability to attract and retain highly skilled scientific and managerial
+
+personnel. Competition for such personnel is intense. There can be no assurance
+
+that the Company will be successful in attracting and retaining such personnel
+
+and the failure to do so could have a material adverse effect on the Company's
+
+business, financial condition and results of operations. In addition, a
+
+substantial portion of the stock options currently held by many of the Company's
+
+key employees are vested and may be fully vested over the next several years
+
+before the Company achieves significant revenues or profitability. The Company
+
+intends to grant additional options and provide other forms of incentive
+
+compensation to attract and retain such key personnel, although there can be no
+
+assurance such objective will be achieved.
+
+    Patent and License Uncertainties. The Company's success depends in part
+
+on its ability to obtain patents, to protect trade secrets, to operate without
+
+infringing upon the proprietary rights of others and to prevent others from
+
+infringing on the proprietary rights of the Company. There can be no assurance
+
+that any patents owned by, or licensed to, the Company will afford protection
+
+against competitors or that any pending patent applications now or hereafter
+
+filed by, or licensed to, the Company will result in patents being issued. In
+
+addition, the laws of certain foreign countries do not protect the Company's
+
+intellectual property rights to the same extent as do the laws of the United
+
+States. There can be no assurance that the Company's planned or potential
+
+products will not be covered by third-party patents or other intellectual
+
+property rights, in which case continued development and marketing of such
+
+products would require a license under such patents or other intellectual
+
+property rights. There can be no assurance that such required licenses will be
+
+available to the Company on acceptable terms, if at all. If the Company does not
+
+obtain such licenses, it could encounter delays in product introductions while
+
+it attempts to design around such patents, or could find that the development,
+
+manufacture or sale of products requiring such licenses is foreclosed.
+
+Litigation may be necessary to defend against or assert claims of infringement,
+
+to enforce patents issued to the Company, to protect trade secrets or know-how
+
+owned by the Company or to determine the scope and validity of the proprietary
+
+rights of others. In addition, interference proceedings declared by the United
+
+States Patent and Trademark Office may be necessary to determine the priority of
+
+inventions with respect to patent applications of the 
+
+                    17
+
+  20
+
+Company. Litigation or interference proceedings could result in substantial
+
+costs to and diversion of effort by the Company, and could have a material
+
+adverse effect on the Company's business, financial condition and results of
+
+operations. The Company may rely, in certain circumstances, on trade secrets to
+
+protect its technology. However, trade secrets are difficult to protect. The
+
+Company seeks to protect its proprietary technology and processes, in part, by
+
+confidentiality agreements with its employees and certain contractors. There can
+
+be no assurance that these agreements will not be breached, that the Company
+
+will have adequate remedies for any breach, or that the Company's trade secrets
+
+will not otherwise become known or be independently discovered by competitors.
+
+    Limited Operating History; History of Losses and Expectation of Future
+
+Losses. The Company's net losses in fiscal years 1997, 1996 and 1995 were
+
+$14.7 million, $10.2 million and $2.4 million, respectively. As of December 31,
+
+1997, the Company had an accumulated deficit of approximately $34.9 million. The
+
+Company has not received any revenues from product sales, and all revenues
+
+recognized by the Company to date have resulted from the Agreements and federal
+
+research grants. All of the Company's planned pathogen inactivation systems are
+
+in the research and development stage. The Company will be required to conduct
+
+significant research, development, testing and regulatory compliance activities
+
+on these products that, together with anticipated general and administrative
+
+expenses, are expected to result in substantial losses in future periods. The
+
+Company expects that the amount of such losses will fluctuate from quarter to
+
+quarter as a result of differences in the timing of expenses incurred and
+
+potential revenues from Baxter under the Agreements, and such fluctuations may
+
+be significant. The Company's ability to achieve a profitable level of
+
+operations will depend on successfully completing development, obtaining
+
+regulatory approvals and achieving market acceptance of its pathogen
+
+inactivation systems. There can be no assurance that the Company will ever
+
+achieve a profitable level of operations.
+
+    Reliance on Third-Party Manufacturing; Dependence on Key Suppliers. The
+
+Company has no experience in manufacturing products for commercial purposes and
+
+does not have any manufacturing facilities. Consequently, the Company is
+
+dependent on contract manufacturers for the production of compounds and on
+
+Baxter for other system components for development and commercial purposes.
+
+There can be no assurance that existing manufacturers or any new manufacturer
+
+will be able to provide sufficient quantities of the compounds needed for the
+
+Company's pathogen inactivation systems in the future or that the Company will
+
+be able to enter into arrangements for the commercial-scale manufacture of such
+
+compounds on reasonable terms, if at all.
+
+    In the event that the Company is unable to obtain or retain third-party
+
+manufacturing, it will not be able to commercialize its products as planned.
+
+Failure of any third-party manufacturer to deliver the required quantities of
+
+products on a timely basis and at commercially reasonable prices would
+
+materially adversely affect the Company's business, financial condition and
+
+results of operations. In addition, inclusion of components manufactured by
+
+other third parties could require the Company to seek new approvals from
+
+government regulatory authorities, which could result in delays in product
+
+delivery. There can be no assurance that such approval would be obtained. In the
+
+event the Company undertakes to establish its own commercial manufacturing
+
+capabilities, it will require substantial additional funds, manufacturing
+
+facilities, equipment and personnel.
+
+    The Company purchases certain key components of its compounds from a
+
+limited number of suppliers. While the Company believes that there are
+
+alternative sources of supply for these components, establishing additional or
+
+replacement suppliers for any of the components in the Company's compounds, if
+
+required, may not be accomplished on a timely basis and could involve
+
+significant additional costs. Any failure by the Company to obtain any of the
+
+components used to manufacture the Company's compounds from alternative
+
+suppliers, if required, could limit the Company's ability to manufacture its
+
+compounds and would have a material adverse effect on the Company's business,
+
+financial condition and results of operations.
+
+    Risk of Product Liability. The testing, marketing and sale of the
+
+Company's products will entail an inherent risk of product liability, and there
+
+can be no assurance that product liability claims will not be asserted against
+
+the Company. The Company intends to secure limited product liability insurance
+
+coverage prior to the commercial introduction of any product, but there can be
+
+no assurance that the Company will be able to obtain product liability insurance
+
+on acceptable terms or that insurance subsequently obtained will provide
+
+adequate coverage against any or all potential claims. Any product liability
+
+claim against the Company, regardless of its merit or eventual outcome, could
+
+have a material adverse effect upon the Company's business, financial condition
+
+and results of operations.
+
+                    18
+
+  21
+
+    Environmental Regulation; Use of Hazardous Substances. The Company is
+
+subject to federal, state and local laws, rules, regulations and policies
+
+governing the use, generation, manufacture, storage, air emission, effluent
+
+discharge, handling and disposal of certain materials, biological specimens and
+
+wastes. There can be no assurance that the Company will not be required to incur
+
+significant costs to comply with additional environmental and health and safety
+
+regulations in the future. The Company's research and development involves the
+
+controlled use of hazardous materials, including certain hazardous chemicals and
+
+radioactive materials and pathogens. Although the Company believes that its
+
+safety procedures for handling and disposing of such materials comply with the
+
+standards prescribed by state and federal regulations, the risk of accidental
+
+contamination or injury from these materials cannot be eliminated. In the event
+
+of such an accident, the Company could be held liable for any damages that
+
+result and any such liability could exceed the resources of the Company.
+
+    Uncertainty Regarding Health Care Reimbursement and Reform. The future
+
+revenues and profitability of biopharmaceutical and related companies as well as
+
+the availability of capital to such companies may be affected by the continuing
+
+efforts of the United States and foreign governments and third-party payors to
+
+contain or reduce costs of health care through various means. In the United
+
+States, given recent federal and state government initiatives directed at
+
+lowering the total cost of health care, it is likely that the Congress and state
+
+legislatures will continue to focus on health care reform and the cost of
+
+pharmaceuticals and on the reform of the Medicare and Medicaid systems. While
+
+the Company cannot predict whether any such legislative or regulatory proposals
+
+will be adopted, the announcement or adoption of such proposals could have a
+
+material adverse effect on the Company's business, financial condition and
+
+results of operations.
+
+    The Company's ability to commercialize its products successfully will
+
+depend in part on the extent to which appropriate reimbursement levels for the
+
+cost of the products and related treatment of blood components are obtained from
+
+governmental authorities, private health insurers and other organizations, such
+
+as health maintenance organizations ("HMOs"). Third-party payors are
+
+increasingly challenging the prices charged for medical products and services.
+
+The trend toward managed health care in the United States and other countries
+
+and the concurrent growth of organizations such as HMOs, which could control or
+
+significantly influence the purchase of health care services and products, as
+
+well as legislative proposals to reform health care or reduce government
+
+insurance programs, may all result in lower prices for the Company's products.
+
+The cost containment measures that health care payors and providers are
+
+instituting and the effect of any health care reform could materially adversely
+
+affect the Company's ability to operate profitably.
+
+    Volatility of Stock Price. The trading price of the Company's Common
+
+Stock is subject to significant fluctuations. Factors such as the announcements
+
+of scientific achievements or new products by the Company or its competitors;
+
+governmental regulation; health care legislation; developments in patent or
+
+other proprietary rights of the Company or its competitors, including
+
+litigation; fluctuations in the Company's operating results; comments made by
+
+analysts, including changes in analysts' estimates of the Company's financial
+
+performance; and market conditions for health care stocks in general could have
+
+significant impact on the future price of the Common Stock. In addition, the
+
+stock market has from time to time experienced extreme price and volume
+
+fluctuations, which may be unrelated to the operating performance of particular
+
+companies. In the past, securities class action litigation has often been
+
+instituted following periods of volatility in the market price for a company's
+
+securities. Such litigation could result in substantial costs and a diversion of
+
+management attention and resources, which could have a material adverse effect
+
+on the Company's business, financial condition and results of operations.
+
+                    19
+
+  22
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+    The executive officers of the Company and their ages as of February 27,
+
+1998 are as follows:
+
+    STEPHEN T. ISAACS founded the Company in September 1991 and has served
+
+as President, Chief Executive Officer and a member of the Board of Directors
+
+since that time. Mr. Isaacs was previously President and Chief Executive Officer
+
+of HRI, a research and development company, from September 1984 to December
+
+1996. From 1975 to 1986, Mr. Isaacs held a faculty research position at the
+
+University of California at Berkeley.
+
+    DAVID S. CLAYTON has been Chief Financial Officer of the Company since
+
+May 1996 and Vice President, Finance of the Company since July 1996. From 1992
+
+to May 1996, Mr. Clayton was a financial consultant to various companies,
+
+including the Company. From 1989 through May 1992, Mr. Clayton was the Executive
+
+Vice President of Trans Ocean Ltd., a company engaged in leasing of
+
+international maritime shipping containers.
+
+    LAURENCE M. CORASH, M.D., a co-founder of the Company, has been Vice
+
+President, Medical Affairs of the Company since July 1996. From July 1994 until
+
+he assumed his current position, Dr. Corash was Director of Medical Affairs. Dr.
+
+Corash was a consultant to the Company from 1991 to July 1994. Dr. Corash has
+
+been a Professor of Laboratory Medicine at the University of California, San
+
+Francisco since July 1985 and Chief of the Hematology Laboratory for the Medical
+
+Center at the University of California, San Francisco since January 1982. Dr.
+
+Corash has served as a consultant to the FDA Advisory Panel for Hematology
+
+Devices since 1990.
+
+    JOHN E. HEARST, PH.D., D.SC., a co-founder of the Company, was elected
+
+Vice President, New Science Opportunities in July 1996. From January 1996 until
+
+July 1996, Dr. Hearst served as Director, New Science Opportunities. He has
+
+served as a member of the Board of Directors of the Company since January 1992.
+
+Dr. Hearst has been a Professor of Chemistry at the University of California at
+
+Berkeley since 1972. In 1984, Dr. Hearst co-founded HRI.
+
+ITEM 2. PROPERTIES
+
+    The Company leases approximately 17,400 square feet for its main
+
+facility and approximately 9,900 square feet for an additional facility, both of
+
+which contain laboratory and office space, in Concord, California. The lease of
+
+the main facility extends through June 1999 with two five-year renewal options.
+
+The lease of the additional facility extends through January 1999, with renewal
+
+options for up to six years. The Company also has a short-term lease for
+
+approximately 4,500 square feet at a facility located near its main facility in
+
+Concord. The Company believes that its facilities will be adequate to meet its
+
+needs for the foreseeable future.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+    Not applicable.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+    Not applicable.
+
+                    20
+
+  23
+
+                   PART II
+
+ITEM 5. MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+
+MATTERS
+
+    (a) The Company's Common Stock is traded on the Nasdaq National Market
+
+under the symbol "CERS." The Company completed the initial public offering of
+
+its Common Stock on January 30, 1997. The following table sets forth, for the
+
+periods indicated, the high and low sales prices for the Common Stock as
+
+reported by the Nasdaq National Market:
+
+    On February 27, 1998, the last reported sale price of the Company's
+
+Common Stock on the Nasdaq National Market was $16 1/8 per share. At February
+
+27, 1998, the Company had approximately 282 holders of record of its Common
+
+Stock.
+
+    (b) On January 30, 1997, the Company sold 2,000,000 shares of Common
+
+Stock in an initial public offering for which the Company received net proceeds
+
+of $21,070,000. Of such proceeds, the Company has applied $10,650,000 to
+
+contracts and consultants, $5,450,000 to employee salaries and related expenses,
+
+$1,440,000 to supplies and office expenses, $1,390,000 to professional fees,
+
+$1,360,000 to facilities and the purchase and installation of equipment,
+
+$460,000 to travel and entertainment, $250,000 to insurance, $70,000 to
+
+repayment of indebtedness.
+
+                    21
+
+  24
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+    The following table summarizes certain selected financial data for the
+
+fiscal year ended December 31, 1997. The information presented should be read in
+
+conjunction with the financial statements and notes included elsewhere herein.
+
+The selected financial data for the periods prior to the financial statements
+
+included herein are derived from audited financial statements.
+
+ (1)  See Note 1 of Notes to Financial Statements for a description of the
+
+    method used in computing the net loss per share. The net loss per share
+
+    amounts prior to 1997 have been restated as required to comply with
+
+    Statement of Financial Accounting Standards No. 128, "Earnings Per Share"
+
+    (Statement No. 128) and the Securities and Exchange Commission's Staff
+
+    Accounting Bulletin No. 98, (SAB 98). For further discussion of net loss
+
+    per share and the impact of Statement No. 128 and SAB 98, see the notes
+
+    to the consolidated financial statements.
+
+                    22
+
+  25
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+
+OF OPERATIONS
+
+    The following discussion of the financial condition and results of
+
+operations of the Company should be read in conjunction with the Financial
+
+Statements and the Notes thereto included elsewhere in this report. This report
+
+contains forward-looking statements that involve risks and uncertainties. The
+
+Company's actual results could differ significantly from those discussed in
+
+these forward-looking statements as a result of certain factors, including those
+
+set forth under "Business" and elsewhere herein.
+
+OVERVIEW
+
+  Cerus is developing systems designed to improve the safety of blood
+
+transfusions by inactivating infectious pathogens in blood components used for
+
+transfusion (platelets, plasma and red blood cells) and inhibiting the leukocyte
+
+(white blood cell) activity that is responsible for certain adverse immune and
+
+other transfusion-related reactions. The Company's platelet and plasma pathogen
+
+inactivation systems are in Phase 2 clinical trials in the United States, and
+
+its red blood cell pathogen inactivation system is in preclinical development.
+
+  Since its inception in 1991, Cerus has devoted substantially all of its
+
+efforts and resources to the research, development and clinical testing of
+
+techniques and systems for inactivating pathogens in blood transfusion
+
+components. The Company has been unprofitable since inception and, as of
+
+December 31, 1997, had an accumulated deficit of approximately $34.9 million.
+
+All of the Company's pathogen inactivation systems are in the research and
+
+development stage. The Company will be required to conduct significant research,
+
+development, testing and regulatory compliance activities on these products
+
+that, together with anticipated general and administrative expenses, are
+
+expected to result in substantial losses at least until commercialization of its
+
+products under development. The Company's ability to achieve a profitable level
+
+of operations in the future will depend on its ability to successfully complete
+
+development, obtain regulatory approvals and achieve market acceptance of its
+
+pathogen inactivation systems. As a result, there can be no assurance that the
+
+Company will ever achieve a profitable level of operations. Further, a
+
+significant portion of the Company's development funding is provided by Baxter
+
+Healthcare Corporation ("Baxter") under the agreements described below. There
+
+can be no assurance that such agreements will not be modified or terminated as
+
+provided therein.
+
+  In December 1993, Cerus entered into a development and commercialization
+
+agreement with Baxter to develop a system for inactivation of pathogens in
+
+platelets. The agreement provides for Baxter to make an equity investment and
+
+certain up-front license and milestone payments. The agreement further provides
+
+for Baxter and the Company to generally share system development costs equally,
+
+subject to mutually agreed budgets established from time to time. The agreement
+
+also provides for a sharing of revenue from sales of inactivation system
+
+disposables, after each party is reimbursed for its cost of goods above a
+
+specified level. In January 1997, the Company and Baxter amended the agreement
+
+to provide that the Company would receive an additional 2.2% of the adjusted
+
+product revenue from the sale of the platelet pathogen inactivation system
+
+disposables in return for payment by the Company to Baxter of $5.5 million in
+
+1997 in four equal quarterly installments for development costs.
+
+   In January and July 1995, Cerus received approximately $2.6 million from
+
+Baxter in connection with interim funding agreements related to the development
+
+of pathogen inactivation systems for plasma for transfusions (fresh frozen
+
+plasma or "FFP") and red blood cells. In April 1996, Cerus entered into a second
+
+development and commercialization agreement with Baxter, principally focused on
+
+the FFP and red blood cell pathogen inactivation systems. The agreement provides
+
+for Baxter to make certain equity investments, including two future
+
+milestone-based investments of $5 million each at 120% of the market price at
+
+the time of the investment. The agreement also provides for Baxter and the
+
+Company to generally share development costs of the systems equally, subject to
+
+mutually agreed budgets established from time to time. The agreement further
+
+provides for the Company and Baxter to share gross profits from the sale of
+
+inactivation system disposables, after deducting from such gross profits a
+
+specified percentage allocation to be retained by the marketing party for
+
+marketing and administration expenses.
+
+                    23
+
+  26
+
+  Through December 31, 1997, Baxter has paid the Company up-front license fees
+
+and milestone and development payments totaling $14.8 million and has invested
+
+$17.5 million in the capital stock of the Company under the agreements described
+
+above.
+
+  In March 1998, the Company and Baxter entered into an amendment to the April
+
+1996 agreement providing that, to the extent the approved spending for 1998 for
+
+the red blood cell project exceeds $7.3 million, Cerus will fund all expenses
+
+for the red blood cell project in 1998 in excess of such amount, up to the
+
+amount of the approved budget. To compensate Cerus for such excess expenditures,
+
+Baxter will fully fund the first expenditures under the approved budget for the
+
+red cell project for 1999 in an amount equal to such excess expenditures, after
+
+which the parties shall equally share the expenses of the red cell project. If
+
+for any reason there is not an approved budget for the red cell project for
+
+1999, Baxter will fully fund the first expenditures for 1999 under the approved
+
+budget for such other Cerus-Baxter program or programs as Cerus shall designate
+
+in an amount equal to the Cerus 1998 excess expenditures. If by July 1, 1999,
+
+however, there is not an approved budget for such other Cerus-Baxter program or
+
+programs that is at least equal to such excess expenditures, Baxter will
+
+promptly pay to Cerus one-half of the amount by which the excess expenditures
+
+exceed the amount of expenditures to be funded by Baxter. Cerus anticipates that
+
+the expenditures for 1998 for the FFP program will exceed the previously
+
+approved budget. Cerus and Baxter are discussing the level of funding each
+
+company will support in 1998 for the FFP program. There can be no assurance that
+
+the parties will agree on a budget that would permit the FFP program to proceed
+
+in accordance with the Company's Plans.
+
+  To date, the Company has not received any revenue from product sales and it
+
+will not derive revenue from product sales unless and until one or more planned
+
+products receives regulatory approval and achieves market acceptance. The
+
+Company anticipates that its sources of revenue until product sales occur will
+
+be limited to payments under development and commercialization agreements with
+
+Baxter in the area of blood component pathogen inactivation, payments from the
+
+United States government under research grant programs, payments from future
+
+collaboration agreements, if any, and interest income. Under the agreements, all
+
+research, development, preclinical and clinical costs of the pathogen
+
+inactivation projects are shared by Cerus and Baxter. Because more of such
+
+research and development is typically performed internally at Cerus than at
+
+Baxter and because Cerus is generally responsible for engaging third parties to
+
+perform certain aspects of these projects, the Company's research and
+
+development expenses have exceeded its share of expenses. As a result, the
+
+Company has recognized revenue from Baxter, giving rise to a receivable due from
+
+Baxter and corresponding periodic balancing payments to the Company. At December
+
+31, 1997, the amount of the Baxter receivable was approximately $4.4 million. On
+
+February 13, 1998, Baxter paid Cerus approximately $4.5 million in satisfaction
+
+of such receivable and anticipated adjustments. Through December 31, 1997, the
+
+Company had recognized approximately $19.2 million in revenue under its
+
+agreements with Baxter, including the license fee and milestone amounts
+
+described above, and approximately $3.1 million under United States government
+
+grants.
+
+RESULTS OF OPERATIONS
+
+YEARS ENDED DECEMBER 31, 1997, 1996, AND 1995
+
+    Revenue. Revenue earned under the Agreements for the years ending
+
+December 31, 1997, 1996 and 1995 was $6.2 million, $2.9 million and $6.0 million
+
+and accounted for 90%, 79% and 89% of the Company's total revenue, respectively.
+
+Revenue from Baxter increased in 1997 from 1996, as the Company recognized
+
+milestone and license fee revenue related to the platelet program of
+
+approximately $1.7 million and recognized increased development revenue
+
+primarily relating to its FFP and red blood cell programs. Revenue from Baxter
+
+decreased to approximately $2.9 million in 1996 from 1995, as no milestone or
+
+license fee revenue relating to the platelet program was recognized, as compared
+
+with approximately $1.7 million in milestone and related license fee revenue
+
+recognized during 1995. In addition, FFP and red blood cell development revenue
+
+decreased in 1996 by approximately $1.2 million, principally reflecting lower
+
+revenue during 1996 under the interim funding agreements. Government grant
+
+revenue, generally unchanged among the periods, was approximately $660,000,
+
+$758,000 and $751,000 for the years 1997, 1996 and 1995, respectively.
+
+    Research and Development Expenses. Research and development expenses for
+
+the years ending December 31, 1997, 1996 and 1995 were $19.6 million, $12.1
+
+million and $8.1 million, respectively. The increases in 1997 and 1996 were due
+
+principally to third party costs, particularly toxicology studies, compound
+
+manufacturing development and initiation of clinical trials relating to the
+
+platelet and plasma programs, as well as to increased 
+
+                    24
+
+  27
+
+activity at the Company in the FFP and red blood cell programs. A significant
+
+portion of the increase was the result of increased payroll and other personnel
+
+expenses, related laboratory supplies, equipment and facilities expansion. In
+
+addition, as described above, under an amendment to the 1993 platelet agreement,
+
+Cerus made payments to Baxter in 1997 of $5.5 million for development costs in
+
+return for an additional 2.2% share of platelet pathogen inactivation system
+
+adjusted product revenue.
+
+    General and Administrative Expenses. General and administrative expenses
+
+were approximately $3.2 million in 1997, $2.2 million in 1996 and $1.5 million
+
+in 1995. The increases were primarily attributable to increased personnel levels
+
+associated with the expansion of the Company's operations.
+
+    Other Income (Expense). Interest income was approximately $1.2 million
+
+in 1997, $482,000 in 1996 and approximately $500,000 in 1995. The increase from
+
+1996 to 1997 was attributable primarily to increased average cash balances
+
+related to proceeds from the Company's initial public offering and private
+
+placement to Baxter (see Liquidity and Capital Resources below). The increase
+
+from 1995 to 1996 was attributable primarily to increased average cash balances
+
+related to financings and funding under the Baxter platelet agreement. Interest
+
+expense was relatively unchanged and was approximately $15,000, $18,000 and
+
+$17,000 for the years 1997, 1996 and 1995, respectively.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    From inception to December 31, 1997, Cerus has financed its operations
+
+primarily through private placements of preferred and common equity securities,
+
+an initial public offering of common stock totaling approximately $60.1 million
+
+and project funding provided by Baxter totaling $19.2 million. During that
+
+period, the Company received approximately $3.1 million under United States
+
+government grants and approximately $2.6 million in interest income. At December
+
+31, 1997, the Company had cash and cash equivalents of approximately $11.6
+
+million and short-term investments of approximately $10.0 million.
+
+    Net cash used in operating activities for 1997, 1996, and 1995 was
+
+approximately $16.6 million, $8.9 million and $3.4 million, respectively,
+
+resulting primarily from net losses. From inception through December 31, 1997,
+
+net cash used in investing activities of approximately $12.3 million resulted
+
+from short-term cash investments, purchases of furniture and equipment, and
+
+leasehold improvements.
+
+    At December 31, 1997, the Company's net operating loss carryforwards
+
+were approximately $27.8 million and $14.1 million for federal and state income
+
+tax purposes, respectively. The Company's federal research and development tax
+
+credit carryforwards were approximately $1.2 million and $400,000 for federal
+
+and state income tax purposes, respectively, at December 31, 1997. The federal
+
+net operating loss and tax credit carryforwards expire at various dates from
+
+2007 to 2012. The California state net operating loss expires in 2001 and 2002.
+
+The Tax Reform Act of 1986 and state tax statutes contain provisions relating to
+
+changes in ownership that may limit the utilization in any given year of
+
+available net operating loss carryforwards and research and development credits.
+
+See Note 6 of Notes to Financial Statements.
+
+    The Company's future capital requirements and the adequacy of its
+
+available funds will depend on many factors, including progress of the platelet
+
+and FFP programs and the related clinical trials, progress of the red blood cell
+
+program, achievement of milestones leading to equity investments, regulatory
+
+approval and successful commercialization of the Company's pathogen inactivation
+
+systems, costs related to creating, maintaining and defending the Company's
+
+intellectual property position, and competitive developments. The Company
+
+believes that its available cash balances, together with anticipated cash flows
+
+from existing Baxter and grant arrangements, will be sufficient to meet its
+
+capital requirements for at least the next 12 months. In the event that
+
+additional capital is required, the Company may seek to raise that capital
+
+through public or private equity or debt financings or through additional
+
+collaborative arrangements or government grants. Future capital funding
+
+transactions may result in dilution to stockholders. There can be no assurance
+
+that such capital will be available on favorable terms, if at all.
+
+                    25
+
+  28
+
+IMPACT OF THE YEAR 2000
+
+    Computer programs using two rather than four digits to identify the year
+
+in a date field may cause computer systems to malfunction in the year 2000. Any
+
+computer programs that have time-related software may determine a date using
+
+"00" as the year 1900 rather than the year 2000. This could result in a system
+
+failure or miscalculations causing disruptions of operations, including, among
+
+other things, a temporary inability to engage in specific business activities.
+
+    Based on a recent assessment, the Company has determined that it will be
+
+required to upgrade or replace a portion of its software so that its computer
+
+systems will function properly with respect to dates in the year 2000 and
+
+thereafter. The Company believes that, with upgrades of existing software and/or
+
+conversions to new software, the year 2000 issue will not pose significant
+
+operational problems for its business activities.
+
+    The Company has initiated communications with its significant suppliers
+
+to determine the extent to which the Company's operations are vulnerable to
+
+those third parties' failure to solve their own year 2000 issues. The Company
+
+anticipates that its costs associated with the upgrade and/or conversion of
+
+existing computer software relating to the year 2000 issue is less than
+
+$100,000. There can be no assurance that the systems of other companies on which
+
+the Company relies will be converted on a timely basis and will not have an
+
+adverse effect on the Company's operations. Estimated costs were derived
+
+utilizing numerous assumptions of future events, including the continued
+
+availability of certain resources and other factors. However, there can be no
+
+assurance that these estimates will be achieved, and actual results could differ
+
+materially from those anticipated. Specific factors that might cause such
+
+material differences include, but are not limited to, the availability and cost
+
+of personnel trained in this area, the ability to locate and correct all
+
+relevant computer codes, and similar uncertainties.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA
+
+    The Company's financial statements, together with related notes and
+
+report of Ernst & Young, LLP, independent auditors, are listed in Item 14(a).
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+
+FINANCIAL DISCLOSURE
+
+    Not applicable.
+
+                    26
+
+  29
+
+                  PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+    Information required by this item, insofar as it relates to directors,
+
+will be contained under the captions "Election of Directors" and "Compliance
+
+with Section 16(a) of the Securities Exchange Act of 1934" in the Company's
+
+definitive proxy statement with respect to the Company's 1998 Annual Meeting of
+
+Stockholders (the "Proxy Statement"), and is hereby incorporated by reference
+
+thereto. The information relating to executive officers of the Company is
+
+contained in Part I of this report.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+    The information required by this item will be contained in the Proxy
+
+Statement under the caption "Executive Compensation," and is hereby incorporated
+
+by reference thereto.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+    The information required by this item will be contained in the Proxy
+
+Statement under the caption "Security Ownership of Certain Beneficial Owners and
+
+Management," and is hereby incorporated by reference thereto.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+    The information required by this item will be contained in the Proxy
+
+Statement under the caption "Certain Relationships and Related Transactions,"
+
+and is hereby incorporated by reference thereto.
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+    The following documents are being filed as part of this report on Form
+
+10-K:
+
+    Other information is omitted because it is either presented elsewhere,
+
+is inapplicable or is immaterial as defined in the instructions.
+
+(b)   No reports on Form 8-K were filed during the quarter ended December 31,
+
+1997 
+
+                    27
+
+  30
+
+(c)   Exhibits
+
+- -------
+
++    Certain portions of this exhibit are subject to a confidential treatment
+
+    order.
+
+(1)   Incorporated by reference from the Company's Registration Statement on
+
+    Form S-1 (File No. 333-11341) and amendments thereto.
+
+*    Confidential treatment has been requested for certain portions of this
+
+    exhibit.
+
+                    28
+
+  31
+
+        Report of Ernst & Young LLP, Independent Auditors
+
+The Board of Directors and Stockholders
+
+Cerus Corporation
+
+We have audited the accompanying balance sheets of Cerus Corporation as of
+
+December 31, 1997 and 1996, and the related statements of operations,
+
+stockholders' equity, and cash flows for each of the three years in the period
+
+ended December 31, 1997. These financial statements are the responsibility of
+
+the Company's management. Our responsibility is to express an opinion on these
+
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+
+standards. Those standards require that we plan and perform the audit to obtain
+
+reasonable assurance about whether the financial statements are free of material
+
+misstatement. An audit includes examining, on a test basis, evidence supporting
+
+the amounts and disclosures in the financial statements. An audit also includes
+
+assessing the accounting principles used and significant estimates made by
+
+management, as well as evaluating the overall financial statement presentation.
+
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+
+all material respects, the financial position of Cerus Corporation at December
+
+31, 1997 and 1996, and the results of its operations and its cash flows for each
+
+of the three years in the period ended December 31, 1997 in conformity with
+
+generally accepted accounting principles.
+
+                           Ernst & Young LLP
+
+Walnut Creek, California
+
+January 27, 1998, except for
+
+Note 2 as to which the date is March 6, 1998
+
+                    29
+
+  32
+
+                CERUS CORPORATION
+
+                 BALANCE SHEETS
+
+See accompanying notes.
+
+                    30
+
+  33
+
+                CERUS CORPORATION
+
+              STATEMENTS OF OPERATIONS
+
+See accompanying notes.
+
+                    31
+
+  34
+
+                CERUS CORPORATION
+
+            STATEMENTS OF STOCKHOLDERS' EQUITY
+
+See accompanying notes.
+
+                    32
+
+  35
+
+                CERUS CORPORATION
+
+              STATEMENTS OF CASH FLOWS
+
+See accompanying notes.
+
+                    33
+
+  36
+
+                CERUS CORPORATION
+
+             NOTES TO FINANCIAL STATEMENTS
+
+                DECEMBER 31, 1997
+
+1. THE COMPANY AND ITS SIGNIFICANT ACCOUNTING POLICIES
+
+BASIS OF PRESENTATION
+
+   Cerus Corporation (the "Company") (formerly Steritech, Inc.), incorporated
+
+in California on September 19, 1991, is developing systems designed to improve
+
+the safety of blood transfusions by inactivating infectious pathogens in blood
+
+components used for transfusion (platelets, fresh frozen plasma ("FFP") and red
+
+blood cells) and inhibiting the leukocyte (white blood cell) activity that is
+
+responsible for certain adverse immune and other transfusion-related reactions.
+
+The Company has entered into two development and commercialization agreements
+
+with Baxter Healthcare Corporation ("Baxter") to develop, manufacture and market
+
+these pathogen inactivation systems (see Note 2). The Company has not received
+
+any revenues from product sales, and all revenues recognized by the Company to
+
+date have resulted from the Company's agreements with Baxter and federal
+
+research grants. The Company will be required to conduct significant research,
+
+development, testing and regulatory compliance activities on its pathogen
+
+inactivation systems that, together with anticipated general and administrative
+
+expenses, are expected to result in substantial additional losses in future
+
+periods. The Company's ability to achieve a profitable level of operations will
+
+depend on successfully completing development, obtaining regulatory approvals
+
+and achieving market acceptance of its pathogen inactivation systems. There can
+
+be no assurance that the Company will ever achieve a profitable level of
+
+operations.
+
+USE OF ESTIMATES
+
+   The preparation of financial statements in conformity with generally
+
+accepted accounting principles requires management to make estimates and
+
+assumptions that affect the reported amounts of assets and liabilities at the
+
+date of the financial statements and the reported amounts of revenues and
+
+expenses during the reporting period. Actual results could differ from those
+
+estimates.
+
+REVENUES AND RESEARCH AND DEVELOPMENT EXPENSES
+
+   Revenues related to the cost reimbursement provisions under development
+
+contracts are recognized as the costs on the project are incurred. Revenues
+
+related to milestones specified under development contracts are recognized as
+
+the milestones are achieved. Prepaid license fees, included in deferred revenue,
+
+are recognized as revenues upon achievement of milestones. Research and
+
+development costs are expensed as incurred.
+
+   The Company receives certain United States government grants which support
+
+the Company's research effort in defined research projects. These grants
+
+generally provide for reimbursement of approved costs incurred as defined in the
+
+various grants. Revenues associated with these grants are recognized as costs
+
+under each grant are incurred.
+
+CASH, CASH EQUIVALENTS, AND SHORT-TERM INVESTMENTS
+
+   The Company considers all highly liquid investments with original
+
+maturities less than three months to be cash and cash equivalents. Cash
+
+equivalents consist principally of short-term money market instruments and
+
+commercial paper.
+
+                    34
+
+  37
+
+                CERUS CORPORATION
+
+          NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+1. THE COMPANY AND ITS SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+CASH, CASH EQUIVALENTS, AND SHORT-TERM INVESTMENTS (CONTINUED)
+
+   In accordance with Statement of Financial Accounting Standards No. 115,
+
+"Accounting for Certain Investments in Debt and Equity Securities," the Company
+
+has classified all debt securities as available-for-sale at the time of purchase
+
+and re-evaluates such designation as of each balance sheet date. The
+
+available-for-sale securities recorded at December 31, 1997 totaled $21,580,375.
+
+   Unrealized gains and losses at December 31, 1997 and 1996 and realized
+
+gains and losses for the years then ended were not material. Accordingly, the
+
+Company has not made a provision for such amounts in its balance sheets. The
+
+cost of securities sold is based on the specific identification method.
+
+Substantially, all of the Company's cash, cash equivalents, and short-term
+
+investments are maintained by three major financial institutions.
+
+FURNITURE AND EQUIPMENT
+
+   Furniture and equipment are stated at cost less accumulated depreciation
+
+and amortization. Depreciation on furniture and equipment is calculated on a
+
+straight-line basis over the estimated useful lives of the assets (principally
+
+five years for laboratory equipment and furniture and three years for office
+
+equipment). Leasehold improvements are amortized on a straight-line basis over
+
+the shorter of the lease term or the estimated useful lives of the improvements.
+
+STOCK-BASED COMPENSATION
+
+   In October 1995, the Financial Accounting Standards Board issued Statement
+
+of Financial Accounting Standards No. 123, "Accounting for Stock-Based
+
+Compensation" ("FAS 123"). The Company adopted FAS 123 in 1996. The Company
+
+accounts for employee stock options in accordance with Accounting Principles
+
+Board Opinion No. 25 and has adopted the "disclosure only" alternative described
+
+in FAS 123.
+
+INCOME TAXES
+
+   The Company accounts for income taxes based upon Financial Accounting
+
+Standards Board Statement No. 109, "Accounting for Income Taxes." Under this
+
+method, deferred tax assets and liabilities are determined based on differences
+
+between the financial reporting and tax bases of assets and liabilities and are
+
+measured using the enacted tax rates and laws that will be in effect when the
+
+differences are expected to reverse.
+
+NET LOSS PER SHARE - BASIC AND DILUTED
+
+   In February 1997, the Financial Accounting Standards Board issued Statement
+
+No. 128, "Earnings Per Share" ("FAS 128"), which is required to be adopted for
+
+the period ended December 31, 1997. FAS 128 replaced the calculation of primary
+
+and fully diluted net income (loss) per share with basic and diluted net income
+
+(loss) per share. Unlike primary net income (loss) per share, basic net income
+
+(loss) per share excludes any dilutive effects of options, warrants and
+
+convertible securities.
+
+                    35
+
+  38
+
+                CERUS CORPORATION
+
+          NOTES TO FINANCIAL STATEMENTS (CONTINUED)
+
+1. THE COMPANY AND ITS SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+NET LOSS PER SHARE - BASIC AND DILUTED (CONTINUED)
+
+   In February 1998, Staff Accounting Bulletin No. 98 ("SAB 98") was issued
+
+and amends the existing Securities and Exchange Commission staff guidance
+
+primarily to give effect to FAS 128. Topic 4.D of SAB 98 revises the
+
+instructions regarding the dilutive effects of stock issued for consideration
+
+below the initial public offering ("IPO") price or options and warrants to
+
+purchase common stock with exercise prices below the IPO price, previously
+Question: Compare the financial results of 1997 to those of 1996.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

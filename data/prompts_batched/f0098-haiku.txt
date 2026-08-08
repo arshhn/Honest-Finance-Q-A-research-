@@ -1,0 +1,43 @@
+You are sitting an exam made of 4 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-120-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: How does the bank manage its interest rate risk according to the text?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fsq-114-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: How are dividends taxed for a Real Estate Investment Trust (REIT)?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fsq-184-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: What is a drawback of staggered board terms according to the form?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fsq-204-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: What was the total asset size of Colony Bank at the end of 2018?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

@@ -1,0 +1,2212 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-211-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: e127510k.htm
+
+FORM 10-K
+
+U.S.
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington,
+
+D.C. 20549
+
+FORM
+
+For
+
+the fiscal year ended October 31, 2018
+
+For
+
+the Transition period from ______ to ________.
+
+Commission
+
+file number:	000-51791
+
+Innovative
+
+Designs, Inc.
+
+(Exact
+
+name of registrant as specified in its charter)
+
+(412)
+
+799-0350
+
+(Registrant’s
+
+telephone number including area code)
+
+Securities
+
+to be registered pursuant to Section 12(b) of the Exchange Act:
+
+_______________
+
+Securities
+
+registered or to be registered pursuant to Section 12(g) of the Exchange Act:
+
+(Title
+
+of Class)
+
+Common
+
+Stock, $.0001 par value per share 
+
+Indicate
+
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+
+ No
+
+Indicate
+
+by check mark if the registrant is not required to file reports pursuant to section 13 or Section 15 (d) of the Act.
+
+ No
+
+Check
+
+whether the issuer (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities and Exchange Act of
+
+1934 during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has
+
+been subject to such filing requirements for the past 90 days.	 	No	
+
+Indicate
+
+by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive
+
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such
+
+shorter period that the registrant was required to submit and post such files). 	No 
+
+Indicate
+
+by check mark if disclosure of delinquent filers to Item 405 of Regulation S-K (sec. 229.405) is not contained herein, and will
+
+not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference
+
+in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+Indicate
+
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller
+
+reporting company. (Check One)
+
+Indicate
+
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+
+	No	
+
+The
+
+issuer’s revenues for its most recent fiscal year were $277,966.
+
+The
+
+aggregate market value of the voting stock and non-voting stock held by non-affiliates of the issuer based on the closing price
+
+of $0.08 on February 19, 2019, as reported by the OTCQB, was $1,614,466.
+
+The
+
+number of shares of the issuer’s common stock outstanding, as of February 19, 2019, was 28,149,560.
+
+Transitional
+
+Small Business Disclosure Format:		 No	 	 
+
+The
+
+Company was incorporated in the State of Delaware on June 25, 2002. We operate in two separate business segments; cold weather
+
+clothing and a house wrap for the building construction industry. Both of our segment lines use products made from INSULTEX, which
+
+is a low density foamed polyethylene with buoyancy, scent block, and thermal resistant properties. We have a license agreement
+
+directly with the owner of the INSULTEX Technology. In December 2015, we took delivery of equipment capable of producing INSULTEX.
+
+Given the time and cost of bringing the equipment into production mode and our current financial condition, it is our current
+
+intention to attempt to sell the equipment. We will continue to operate under the license agreement for the manufacture of INSULTEX
+
+used in our cold weather clothing.
+
+Other
+
+companies are free to purchase INSULTEX from us assuming that it is a company within the distribution jurisdiction that we have,
+
+which is worldwide with the exception of Korea and Japan. Other than Korea and Japan, we are the sole worldwide supplier/distributor
+
+of the INSULTEX material.
+
+We
+
+offer the following products containing INSULTEX:
+
+We
+
+also offer a product that helps restore the waterproof character of the outer side of our Arctic Armor clothing. In addition,
+
+we offer cold weather headgear and a base insulation clothing product.
+
+Our
+
+apparel products containing INSULTEX are manufactured, under agreement, at a facility we currently utilize in Indonesia. We assumed
+
+no material costs associated with the design, prototyping, and testing of these products because: (a) we did not utilize the services
+
+of any outside consultant or company for these purposes and (b) although we used the services of our Chief Executive Officer and
+
+Vice President of Sales and Marketing for these purposes, their efforts are part of their normal responsibilities. Our INSULTEX
+
+House Wrap product is manufactured in the United States through a third-party manufacturer.
+
+For
+
+financial information regarding each segment, please see Note 9 of the Notes to Financial Statements appearing elsewhere in this
+
+Report.
+
+The
+
+INSULTEX License and Manufacturing Agreement
+
+Under
+
+the terms of the agreement between us and the Ketut Group, Ketut Group agrees to promptly deliver to Innovative Designs, Inc.
+
+within twenty-eight (28) days of receiving an order, all INSULTEX ordered by us. Under the terms of the agreement, we are required
+
+to pay a fixed amount per meter of INSULTEX. This fixed amount will not change under the agreement for a period of ten (10) years
+
+after the date of the agreement was signed, which was April 1, 2006. The agreement provides that after the ten (10) year period,
+
+the price of the INSULTEX shall be adjusted for a subsequent ten (10) year term, no more than twelve percent (12%) for the subsequent
+
+ten (10) year period. We order INSULTEX from time to time as needed and are not required to purchase any minimum amount of INSULTEX
+
+during the term of the agreement, and we are not required to make any minimum annual payment. However, should we place an order;
+
+any quantity ordered must be a minimum of 100,000 yards of INSULTEX. We are not required to pay any part of any sublicense fee
+
+that we receive from third party sub-licensees, and we are not required to pay any fees to the Ketut Group. This agreement will
+
+be in full legal force and effect for an initial term of ten (10) years from the date of its execution. We have the option to
+
+renew this agreement for up to three (3) successive terms of ten (10) years each by giving notice of our intention to so renew
+
+not less than ninety (90) days prior to the expiration of the then-current term. The Company has exercised the first ten-year
+
+renewal option. We purchased the equipment capable of producing INSULTEX from the Ketut Group.
+
+COLD
+
+WEATHER CLOTHING PRODUCTS
+
+Arctic
+
+Armor Line
+
+Our
+
+Arctic Armor line products are intended for use by the following consumer groups that are in the Company’s target market
+
+for these products:
+
+Website
+
+and Retailers
+
+We
+
+sell both wholesale and retail products on our web site. Our web site, located at www.idigear.com, contains information on our
+
+products, technical information on INSULTEX insulation, e-commerce capabilities with "shopping cart", wholesaler information
+
+and order forms, company contact information, and links to retailers that carry our products. We have obtained the services of
+
+BA Web Productions who assists us in designing and continually developing our website. Our web site features a "wholesaler
+
+only" area, allowing our wholesalers access to information, ordering, and reordering. Our products are offered and sold by
+
+retailers, distributors and through our web site in all states and Canada. Except for products sold through our web site, others
+
+who purchase our products do so at wholesale prices which they plan to sell at their retail prices or use within their industry.
+
+Sales
+
+We
+
+primarily sell our products through independent sales agents and agencies. Once we have made contact with a potential sales agency
+
+or solo agent, we evaluate their existing accounts, the capacity and potential for them to effectively push our products. We also
+
+look at their current product lines through the sales channel. Our primary market area is the outdoor industry which includes
+
+all activity done in cold weather. These activities include recreational such as hunting, ice fishing, snowmobiling, and industries
+
+such as oil and gas, utilities and construction. Once we agree to bring on an independent sales agent or agency, we enter into
+
+a standard agreement.
+
+A
+
+typical sales representative agreement will have a term of one year with the right of either party to terminate upon thirty days
+
+written notice. We do not provide any free samples of our products and all sales expenses are the sole obligation of the sales
+
+agent.
+
+Certain
+
+retailers buy directly from us. We have no verbal or written agreements with them. These retailers purchase our products strictly
+
+on a purchase order basis. During our last fiscal year, we sold our products to such retailers as Canadian Tire and Dick’s
+
+Sporting Goods. Some of our distributors during the last fiscal year were Triple S Pro Fishing Supplies and Fleece Corner. We
+
+distribute our products to the following:
+
+Swimeez
+
+Products
+
+We
+
+distribute our Swimeez products through our web site.
+
+Hunting
+
+Apparel Line
+
+We
+
+distribute our hunting apparel through our web site.
+
+Our
+
+hunting apparel consists of a six pocket pants, 1/2 zip pullover jacket with collar, parka jacket, fleece jacket, bib coveralls
+
+in light weight, and bib coveralls in arctic weight.
+
+Arctic
+
+Armor Line
+
+We
+
+distribute the Arctic Armor Line to retailers and distributors across the United States and Canada. These products are also marketed
+
+to utility companies, oil/gas pipeline workers, railroad workers, police and first responders, and to construction workers.
+
+During
+
+our last fiscal year, two customers accounted for more than ten percent of our cold weather clothing products sales, Fleece Corner
+
+(27.1%) and Pro Fishing Supplies (14.5%).
+
+HOUSE
+
+WRAP
+
+House
+
+Wrap
+
+In
+
+early January 2008, we announced that we had completed our research and development effort on a new use for INSULTEX as a house
+
+wrap for the building construction industry. This house wrap provides barrier protection plus moisture vapor transmission and
+
+the feature of approximately R-3 and R-6 value insulation. The INSULTEX House Wrap was designed to specifically add enhanced insulating
+
+characteristics. In addition, the house wrap is priced competitively with existing house wraps that do not provide any insulation.
+
+The development efforts were conducted by our own personnel and an outside consultant. In December 2016, we temporarily suspended
+
+any advertising for our House Wrap product line as we are currently in litigation with the Federal Trade Commission (“FTC”).
+
+Please see “Legal Proceedings” appearing elsewhere in this report.
+
+INSULTEX
+
+House Wrap
+
+During
+
+our last fiscal year three customers accounted for more than ten percent of our total sales of our House Wrap product, A-Team
+
+Building Supplies, LLC (38.7%), Well Done Insulation (31.1%), and Eddie’s Ace Hardware (13.2%).
+
+Competition
+
+Many
+
+companies offer a type of house wrap some with insulating properties. These companies have large operations and are well financed.
+
+Some of the larger companies are DuPont, Owens-Corning and Kimberly Clark. The Company expects to face intense competition with
+
+others who have much greater resources in the building construction supply industry.
+
+Our
+
+marketing program consists of the following: 
+
+We
+
+ship wholesale product orders by United Parcel Service or trucking companies. Retail orders from our website are shipped United
+
+Parcel Ground Service or Federal Express overnight. The costs of shipping our finished goods are paid by our customers. We have
+
+not instituted any formal arrangements or agreements with United Parcel Service, Federal Express or trucking companies, and we
+
+do not intend to do so.
+
+INSULTEX
+
+is used in all our Arctic Armor finished goods, except for our headwear, and is purchased directly from the Ketut Group.
+
+All
+
+of our cold weather clothing products, except for our gloves, which are purchased from a supplier in the U.S., are sub-manufactured
+
+by PT Lidya and Natalia located in Indonesia. Indonesia does not impose quotas that limit the time period or quantity of items
+
+which can be imported. The U.S. Customs Service imposes an importation duty of 6.5% on all our imported products.
+
+We
+
+have no verbal or written agreements or long-term agreements with PT Lidya and Natalia, and we do not plan to obtain any such
+
+agreements. Our products, including our House Wrap, are manufactured on a per order basis.
+
+The
+
+fulfillment process involved in completing wholesale orders for non-stocked Arctic Armor products and House Wrap product is described
+
+below:
+
+Any
+
+apparel inventory we maintain is stored at our warehousing facility. Our warehouse facility has the capacity to hold 250,000 units
+
+of finished products in inventory. Our House Wrap inventory is stored in the facility that manufactures it.
+
+In
+
+2004, we were granted a trademark for our name "idigear" with the United States Patent and Trademark Office.
+
+In
+
+2007, we were granted the mark "INSULTEX" by the United States Patent and Trademark Office.
+
+In
+
+2011, we were granted a trademark for “INSULTEX HOUSE WRAP” by the United States Patent and Trademark Office.
+
+In
+
+December 2009, we filed a patent application, No. 12 642714, with the United States Patent and Trademark Office for our Composite
+
+House Wrap. The application is still pending. In order to obtain the broadest possible patent protection for this invention Innovative
+
+Designs, Inc. has appealed a portion of the decision of the Patent Trial and Appeal Board (PTAB) entered in Appeal 2015-006289
+
+to the Court of Appeals for the Federal Circuit (CAFC) under 35 U.S.C. §141. The portion of the decision of the Patent Trial
+
+and Appeal Board (PTAB) entered in Appeal 2015-006289 reversing the examiner’s rejection has not been appealed. Innovative
+
+Designs, Inc. expects a favorable action allowing for the broadest possible patent protection to be obtained.
+
+We
+
+had filed a provisional application in December 2008. The patent is currently held by our Chief Executive Officer and a consultant
+
+to the Company.
+
+In
+
+February of 2010, our Chief Executive Officer filed a patent application for a composite fabric material and apparel made therefrom.
+
+The patent has been allowed. The patent has been assigned to the Company.
+
+In
+
+May 2016, our Chief Executive Officer and a consultant to the Compliant filed a patent application relating to INSULTEX entitled
+
+“Process for Forming Closed Cell Expanded Low Density Polyethylene Foam and Products Formed Thereby”.
+
+Our
+
+production costs are limited to the invoices we receive from our sub-manufacturer, PT Lidya and Natalia, on a per production basis
+
+and for our gloves from our supplier in the U.S and for our House Wrap product from the manufacturer.
+
+Although
+
+we are not aware of the need for any government approval of our principal products, we may be subject to such approvals in the
+
+future.
+
+United
+
+States and foreign regulations may subject us to increased regulation costs, and possibly fines or restrictions on conducting
+
+our business. We are subject, directly or indirectly, to governmental regulations pertaining to the following government agencies:
+
+United
+
+States Customs Service
+
+We
+
+are required to pay a 6.5% importation duty to the United States Customs Service on all imported products. We import INSULTEX
+
+from Indonesia from the Ketut Group, in accordance with Innovative Design’s agreement with the Ketut Group.
+
+United
+
+States Department of Labor's Occupational Safety and Health Administration
+
+Because
+
+our sub-manufacturers manufacture our completed products, we and our sub-manufacturers will be subject to the regulations of the
+
+United States Department of Labor's Occupational Safety and Health Administration.
+
+We
+
+are not aware of any governmental regulations that will affect the Internet aspects of our business. However, due to increasing
+
+usage of the Internet, a number of laws and regulations may be adopted relating to the Internet covering user privacy, pricing,
+
+and characteristics and quality of products and services. Furthermore, the growth and development of Internet commerce may prompt
+
+more stringent consumer protection laws imposing additional burdens on those companies conducting business over the Internet.
+
+The adoption of any additional laws or regulations may decrease the growth of the Internet, which, in turn, could decrease the
+
+demand for Internet services and increase the cost of doing business on the Internet. These factors may have an adverse effect
+
+on our business, results of operations, and financial condition.
+
+Moreover,
+
+the interpretation of sales tax, libel, and personal privacy laws applied to Internet commerce is uncertain and unresolved. We
+
+may be required to qualify to do business as a foreign corporation in each such state or foreign country. Our failure to qualify
+
+as a foreign corporation in a jurisdiction where we are required to do so could subject us to taxes and penalties. Any such existing
+
+or new legislation or regulation, including state sales tax, or the application of laws or regulations from jurisdictions whose
+
+laws do not currently apply to our business, could have a material adverse effect on our business, results of operations and financial
+
+condition.
+
+We
+
+currently have no costs associated with compliance with environmental regulations. Because we do not manufacture our products,
+
+but rather they are manufactured by our sub-manufacturers, we do not anticipate any costs associated with environmental compliance.
+
+Moreover, the delivery and distribution of our products will not involve substantial discharge of environmental pollutants. However,
+
+there can be no assurance that we will not incur such costs in the future.
+
+We
+
+estimate that all of our revenues will be from the sale of our products. We will sell our products at prices above our original
+
+cost to produce our products. Prices for some of our products will be lower than similar products of our competitors, while others
+
+will be higher. We expect our product prices to be lower than network marketing companies, but higher compared with retail establishments
+
+that directly manufacture their own products.
+
+Products
+
+that are sold directly by our website will be priced according to our Manufacturer Suggested Retail Prices. Our wholesale clients
+
+will purchase our products at our wholesale prices. We recommend that our retailer clients sell our products at the Manufacturer
+
+Suggested Retail Prices that we provide to them which are the same prices for products on our website; however, they are not required
+
+to do so and may price our products for retail sale at their discretion. We have established M.A.P. (minimum advertised pricing)
+
+on our Arctic Armor™ suit in an attempt to allow all retailers and distributors carrying the line to obtain reasonable gross
+
+margin dollars.
+
+We
+
+currently have a total of 3 full time employees. We hire part-time personnel as needed.
+
+We
+
+have no collective bargaining or employment agreements.
+
+Reports
+
+and Other Information to Shareholders
+
+We
+
+are subject to the informational requirements of the Securities Exchange Act of 1934. Accordingly, we file annual, quarterly and
+
+other reports and information with the Securities and Exchange Commission. You may read and copy these reports and other information
+
+we file at the Securities and Exchange Commission's public reference rooms in Washington, D.C., New York, New York, and Chicago,
+
+Illinois. Our filings are also available to the public from commercial document retrieval services and the Internet world wide
+
+website maintained by the Securities and Exchange Commission at www.sec.gov.
+
+Pending
+
+Litigation
+
+We
+
+are a defendant in a complaint brought by the FTC. While we believe we have a defense to the allegation asserted by the FTC, should
+
+there be an adverse ruling we may be forced to disgorge all revenues derived from the sale of our House Wrap product line, and
+
+we would not be able to sell the product. The result of this action would have a materially adverse effect on the Company’s
+
+revenues and operations. See “Legal Proceeding” appearing elsewhere in this report.
+
+Lack
+
+of Sufficient Operating Funds
+
+Because
+
+we are not able to generate sufficient funds from sales and because we are unable to access commercial sources of credit, we are
+
+consistently underfunded. As a result, our growth is very limited, and we have difficulty in sustaining our current level of operations.
+
+We are not able to initiate adequate marketing programs, hire additional staff, develop new products or have flexibility in ordering
+
+products from our manufacturers. In addition, the action by the FTC has adversely affected our ability to sell our House Wrap
+
+product line. In the past, we have depended on borrowings from our CEO and other private parties, primarily shareholders and the
+
+private sale of our common stock. Should we not be able to continue to rely on these sources of funding to at least meet our current
+
+level of operations our revenue stream will be adversely affected.
+
+Competition
+
+The
+
+markets served by the Company are highly competitive. Competitive pricing pressure could result in loss of customers or decreased
+
+profit margins. Competition by product type includes the following:
+
+The
+
+markets for our products are increasingly competitive. Our competitors have substantially longer operating histories, greater
+
+brand name and company name recognition, larger customer bases and greater financial, operating, and technical resources than
+
+us. Because we are financially and operationally smaller than our competitors, we will encounter difficulties in capturing market
+
+share. Our competitors are able to conduct extensive marketing campaigns and create more attractive pricing of their target markets
+
+than we are.
+
+Some
+
+of our biggest competitors in the Arctic Armor™ line are:
+
+We
+
+compete in the following ways:
+
+Arctic
+
+Armor Line
+
+We
+
+emphasize the following characteristics and advantages of our Arctic Armor line products:
+
+INSULTEX
+
+provides a scent barrier which we had a permeation test performed on at the Texas Research Institute Austin, Inc. The product
+
+was subjected to gas stimulant for an eight-hour period. The product was tested for permeation of the gas every three minutes
+
+for the duration of the test with almost no detection of the gas throughout the test. The testing was based upon accepted industry
+
+practices as well as the test method used.
+
+Our
+
+products have the following disadvantages in comparison to the products of our competitors:
+
+There
+
+can be no assurance that we will be able to compete in the sale of our products, which could have a negative impact upon our business.
+
+We
+
+do not expect our business to be dependent on one or a few customers or retailers; however, there is no assurance that we will
+
+not become so dependent.
+
+Cyclicality
+
+The
+
+Company’s Arctic Armor apparel sales fluctuate based on temperature and weather conditions. Our products are suitable primarily
+
+for cold weather conditions. This will cause a cyclical effect on sales. It also makes our revenues totally dependent on cold
+
+weather.
+
+Material
+
+Acquisition
+
+All
+
+of the materials and items required to manufacture our cold weather clothing products are purchased by our manufacturer in Indonesia.
+
+The
+
+Company currently has only one supplier of INSULTEX, the special material which is manufactured within the apparel of our cold
+
+weather products and our House Wrap product. Additionally, we have one manufacturer that produces the apparel on behalf of the
+
+Company, located in Indonesia. Any delays in getting INSULTEX and/or our finished products will adversely affect our revenue stream.
+
+Once we have our own equipment operating, we will be able to produce INSULTEX. We intend to use such INSULTEX for our House Wrap
+
+product.
+
+Our
+
+Indonesia based manufacturer, PT Lidya and Natalia, has sole discretion in the sourcing and ordering of materials for their production
+
+runs, the costs of which we reimburse PT Lidya and Natalia.
+
+Geographic
+
+Concentration
+
+Most
+
+of the Company’s sales for its cold weather clothing products to retailers are concentrated in colder climates of the United
+
+States and Canada. To the extent that any regional economic downturn impacts these regions, the Company will be adversely affected.
+
+Management
+
+The
+
+Company is dependent on the management of Joseph Riccelli, our Chief Executive Officer. The loss of Mr. Riccelli’s services
+
+could have a negative effect on the performance and growth of the Company for some period of time.
+
+Stock
+
+Price
+
+The
+
+Company’s stock is thinly traded. Should a major shareholder decide to liquidate its position, there could be a negative
+
+effect on the price of the stock until this condition is resolved.
+
+Penny
+
+Stock Considerations
+
+Our
+
+shares are "penny stocks" as that term is generally defined in the Securities Exchange Act of 1934 as equity securities
+
+with a price of less than $5.00. Our shares may be subject to rules that impose sales practice and disclosure requirements on
+
+broker-dealers who engage in certain transactions involving a penny stock.
+
+Under
+
+the penny stock regulations, a broker-dealer selling a penny stock to anyone other than an established customer or "accredited
+
+investor" must make a special suitability determination regarding the purchaser and must receive the purchaser's written
+
+consent to the transaction prior to the sale, unless the broker-dealer is otherwise exempt. Generally, an individual with a net
+
+worth, exclusive of one’s residence, in excess of $1,000,000 or annual income exceeding $200,000 individually or $300,000
+
+together with his or her spouse is considered an accredited investor. In addition, under the penny stock regulations the broker-dealer
+
+is required to:
+
+Because
+
+of these regulations, broker-dealers may encounter difficulties in their attempt to sell shares of our stock, which may affect
+
+the ability of shareholders or other holders to sell their shares in the secondary market and have the effect of reducing the
+
+level of trading activity in the secondary market. These additional sales practice and disclosure requirements could impede the
+
+sale of our securities if our securities become publicly traded. In addition, the liquidity for our securities may be adversely
+
+affected, with a corresponding decrease in the price of our securities.
+
+In
+
+October 2002, we arranged for the lease of warehouse space for our inventory and raw materials at 124 Cherry Street, Etna, Pennsylvania.
+
+We also use this space as our principal executive offices. This facility encompasses 13,000 square feet of storage space on the
+
+first floor and 2,000 square feet for our sales department offices located on the second floor. We have entered into a verbal
+
+agreement with the owner of the building and we pay $3,500 per month for the space. This facility is composed of: (a) warehouse
+
+and storage areas including four (4) shipping bays and a distribution area consisting of square footage to store upward of 250,000
+
+finished goods products; and (b) four (4) offices, one (1) conference room, with presentation area and sample display and (2)
+
+bathrooms totaling approximately 2,000 square feet located on the second floor. Mr. Frank Riccelli is the brother to our Chief
+
+Executive Officer and the owner of the property. The condition of our leased property is good.
+
+We
+
+do not own any property, nor do we have any plans to own any property in the future. We do not currently intend to develop properties.
+
+We are not subject to competitive conditions for property and currently have no property to insure. We have no policy with respect
+
+to investments in real estate or interests in real estate and no policy with respect to investments in real estate mortgages.
+
+Further, we have no policy with respect to investments in securities of or interests in persons primarily engaged in real estate
+
+activities. We consider the condition of our leased property to be suitable for our needs.
+
+On
+
+November 4, 2016, the FTC filed a complaint against the Company in the U.S. District Court Western District of Pennsylvania, number
+
+16-1669. In the complaint, the FTC alleges that, among other matters, the Company does not have substantiation of claims made
+
+by the Company regarding the R value and energy efficiency of its INSULTEX House Wrap products. The complaint asks as to redress
+
+a rescission of revenue the Company received from the sale of House Wrap and a permanent injunction. As a result of the partial
+
+federal government shutdown, a new trial date has been set for July 29, 2019.
+
+The
+
+Company strongly denies the allegation and intends to vigorously defend itself. It is the Company’s belief that the complaint
+
+is based on improper testing of the INSULTEX products using the wrong type of testing equipment.
+
+PART
+
+II
+
+Below
+
+is the market information pertaining to the range of the high and low bid information of our common stock for each quarter for
+
+the last two fiscal years. Our common stock is quoted on the OTC Bulletin Board under the symbol IVDN. The quotations reflect
+
+inter-dealer prices, without retail mark-up, mark-down or commission and may not represent actual transactions.
+
+On
+
+February 19, 2019, the closing bid price was $0.08.
+
+The
+
+source of the above data is www.otcmarkets.com.
+
+Holders
+
+As
+
+of February 19, 2019, we had 195 holders of record of our common stock. We have one class of stock outstanding. We have no shares
+
+of our preferred stock outstanding.
+
+Dividends
+
+We
+
+have not declared any cash dividends on our stock since our inception and do not anticipate paying such dividends in the foreseeable
+
+future. We plan to retain any future earnings for use in our business. Any decisions as to future payment of dividends will depend
+
+on our earnings and financial position and such other factors as the Board of Directors deems relevant.
+
+Recent
+
+Sales of Unregistered Securities.
+
+During
+
+the quarter ended January 31, 2018, the Company issued 50,000 shares of common stock to one individual for services performed
+
+during December 2017 valued at $20,000. The stock was issued at a price of $0.40 per share. In addition, the Company sold 351,000
+
+shares of common stock to three individuals for total proceeds of $111,560. The stock was issued at a price ranging from $0.30-$0.32
+
+per share.
+
+During
+
+the quarter ended April 30, 2018, the Company issued 55,000 shares of common stock to two individuals for services performed in
+
+April 2018 valued at $9,900. The stock was issued at a price of $0.18 per share. In addition, the Company sold 356,250 shares
+
+of common stock to three individuals for total proceeds of $105,000. The stock was issued at a price ranging from $0.25-$0.32
+
+per share.
+
+During
+
+the quarter ended July 31, 2018, the Company issued 5,000 shares of common stock to one individual for services performed in May
+
+2018 valued at $1,000 in total. The stock was issued at a price of $0.20 per share. In addition, the Company sold 25,000 shares
+
+of common stock to one individual for total proceeds of $5,000. The stock was issued at a price of $0.20 per share. We believe
+
+that Section 4(2) of the Securities Act of 1933, as amended, was available because these transactions and the transaction cited
+
+above did not involve a public offering and there was no general solicitation or general advertising involved in these transactions.
+
+We placed legends on the stock certificates stating that the securities were not registered under the Securities Act and set forth
+
+the restrictions on their transferability and sale.
+
+During
+
+the quarter ended October 31, 2018, the Company issued 130,000 shares of common stock to two shareholders for services performed
+
+in September and October 2018 valued at $39,000 in total. The stock was issued at a price of $0.30 per share. Additionally, for
+
+the quarter ended October 31, 2018, the Company sold 425,000 shares of common stock for total proceeds of $90,000. The stock was
+
+issued at a price ranging from $0.20 - $0.25 per share to three stockholders. We believe that Section 4(2) of the Securities Act
+
+of 1933, as amended, was available because these transactions did not involve a public offering and there was no general solicitation
+
+or general advertising involved in these transactions. We placed legends on the stock certificates stating that the securities
+
+were not registered under the Securities Act and set forth the restrictions on their transferability and sale.
+
+During
+
+January 2019, the Company sold 360,000 shares of stock to five individuals for total proceeds of $61,200. The stock was issued
+
+for $0.17 per share. Each Unit consisted of 60,000 shares of common stock and a warrant to purchase 60,000 shares of common stock.
+
+The strike price of the warrant was $.17 per share. The term was three years. The Company also agreed to register the shares and
+
+the shares underlying the warrants. Each Unit was priced at $10,200. Each purchaser was an “accredited investor”.
+
+We believe that Section 4(2) of the Securities Act of 1933, as amended, was available because these transactions did not involve
+
+a public offering and there was no general solicitation or general advertising involved in these transactions. We placed legends
+
+on the stock certificates stating that the securities were not registered under the Securities Act and set forth the restrictions
+
+on their transferability and sale. 
+
+As
+
+a smaller reporting company, under SEC regulations, we are not required to furnish selected financial data.
+
+General
+
+The
+
+following information should be read in conjunction with the financial statements and the notes thereto appearing elsewhere in
+
+this report.
+
+Disclosure
+
+Regarding Forward-Looking Statements
+
+Certain
+
+statements made in this report, and other written or oral statements made by or on behalf of the Company, may constitute “forward-looking
+
+statements” within the meaning of the federal securities laws. When used in this report, the words “believes,”
+
+“expects,” “estimates,” “intends,” and similar expressions are intended to identify forward-looking
+
+statements. Statements regarding future events and developments and our future performance, as well as our expectations, beliefs,
+
+plans, intentions, estimates or projections relating to the future, are forward-looking statements within the meaning of these
+
+laws. Examples of such statements in this report include descriptions of our plans and strategies with respect to developing certain
+
+market opportunities, and our overall business plan. All forward-looking statements are subject to certain risks and uncertainties
+
+that could cause actual events to differ materially from those projected. We believe that these forward-looking statements are
+
+reasonable; however, you should not place undue reliance on such statements. These statements are based on current expectations
+
+and speak only as of the date of such statements. We undertake no obligations to publicly update or revise any forward-looking
+
+statement, whether as a result of future events, new information or otherwise.
+
+Background
+
+Innovative
+
+Designs, Inc. (hereafter referred to as the “Company”, “we” or “our”) was formed on June 25,
+
+2002. We market and sell cold weather clothing products called “Arctic Armor” that are, except for our headwear, made
+
+from INSULTEX, a material with buoyancy, scent block and thermal resistant properties. We offer our House Wrap product line which
+
+is also made from INSULTEX. We obtain INSULTEX for our cold weather clothing products through a license agreement with the owner
+
+and manufacturer of the material. In December 2015, we took delivery of equipment capable of producing our own INSULTEX. We intend
+
+to use the INSULTEX from this equipment in the production of our House Wrap product and for the sale of INSULTEX to others.
+
+Results
+
+of Operations
+
+Comparison
+
+of the fiscal year ended October 31, 2018, with the fiscal year ended October 31, 2017.
+
+The
+
+following table shows a comparison of the results of operations between the fiscal years ended October 31, 2018 and October 31,
+
+2017: 
+
+Results
+
+of Operations
+
+Revenues
+
+for the fiscal year ended October 31, 2018, were $249,682 compared to revenues of $367,955 for the comparable period ending October
+
+31, 2017. House Wrap product revenue totaled $184,294 last year compared to $132,535 for Fiscal Year ended October 31, 2018. Nearly
+
+all of the remaining revenues were derived from our Arctic Armor product line which totaled $117,147 for Fiscal Year ended October
+
+31, 2018 compared to revenues of $183,661 for the Fiscal Year ended October 31, 2017. The decrease in revenue is attributable
+
+to the FTC matter with regard to our House Wrap products as we no longer advertise the insulating quality of these products. The
+
+decrease in revenue for our apparel product line is attributable to the fact that we are devoting significant portion of our limited
+
+resources to the FTC matter. Revenues are net of returns and discounts. We estimate that approximately sixty percent of our cold
+
+weather apparel products are sold to outdoor sportsmen, primarily those engaged in ice fishing.
+
+Selling,
+
+general and administrative expense decreased from $755,836 in fiscal year 2017, to $648,363 in fiscal year ending October 31,
+
+2018. This decrease reflects, in part, a decreased cost of commissions of $24,989 and professional fees of $81,175 The professional
+
+fees which totaled $235,831 are primarily related to the FTC matter.
+
+Our
+
+cost of sales decreased from $216,250 as of October 31, 2017 to $160,534 as of October 31, 2018.
+
+Liquidity
+
+and Capital Resources
+
+During
+
+the fiscal year ended October 31, 2018, we funded our operations from revenues and private sales of our common stock. We will
+
+continue to fund our operations from these sources until we are able to produce sales sufficient to cover our cost structure or
+
+to secure commercial lending arrangements.
+
+On
+
+July 12, 2015 the Company reached an agreement with Ketut Jaya to purchase machinery and equipment utilized to produce the INSULTEX
+
+material. The purchase price is $700,000 and to be made in four installments. The first installment of $300,000 is to be made
+
+at the execution of the agreement. The second installment of $200,000 is to be made when the machinery and equipment is ready
+
+to be shipped to the United States. The third installment of $100,000 is to be made once the machinery and equipment is producing
+
+INSULTEX, and the fourth and final installment of $100,000 is to be made after the first commercial production run of INSULTEX
+
+is completed. As of October 31, 2016, the Company has made payments of $600,000. In addition to the final payments, the Company
+
+will have to have the equipment and machines installed and ensure that the machine can be operated in compliance with environmental
+
+regulations. The Company has not made an estimate of the costs required for bringing the machine into compliance, but it is considered
+
+to be substantial. Given the expected time and cost of bringing the equipment into production mode and our current financial condition,
+
+it is our intention to attempt to sell the equipment.
+
+Short
+
+Term: We funded our operations with revenues from sales, private sales of our common stock and from loans from our Chief Executive
+
+Officer and others. We could not access commercial lines of credit during our last fiscal year.
+
+Our
+
+existing debt obligations consist of the following:
+
+The
+
+Company intends to repay these debt obligations with funds it generates from revenues, from the possible sale of its securities
+
+either debt or equity, from advances from its CEO or other stockholders. Because we cannot currently access commercial lending
+
+facilities, should we not be able to continue to obtain funding from our CEO and/or other individuals or sell our securities or
+
+should our revenues decrease our operations would be severely effected as we would not be able to fund our purchase orders to
+
+our suppliers for finished goods. The Company continues to pay its creditors when payments are due.
+
+Long
+
+Term: The Company will continue to fund operations from revenues, borrowings and the possible sale of its securities. Should we
+
+not be able to continue to rely on these sources our operations would be severely effected as we would not be able to fund our
+
+purchase orders to our suppliers for finished goods.
+
+As
+
+a smaller reporting company under SEC Regulation, we are not required to provide this information. 
+
+Our
+
+audited financial statements may be found beginning on Page 30 elsewhere in this report.
+
+Disclosure
+
+Controls and Procedures
+
+Management
+
+of Innovative Designs, Inc. is responsible for maintaining disclosure controls and procedures that are designed to ensure that
+
+information required to be disclosed in the reports that the Company files or submits under the Securities Exchange Act of 1934
+
+(the “Exchange Act”) is recorded, processed, summarized and reported within the time periods specified in the Securities
+
+and Exchange Commission’s rules and forms. In addition, the disclosure controls and procedures must ensure that such information
+
+is accumulated and communicated to the Company’s management, including its Chief Executive Officer/Chief Financial Officer,
+
+as appropriate, to allow timely decisions regarding required financial and other required disclosures.
+
+At
+
+the end of the period covered by this report, an evaluation of the effectiveness of our disclosure controls and procedures (as
+
+defined in Rules 13(a)-15(e) and 15(d)-15(e) of the Securities Exchange Act of 1934 (the “Exchange Act”)) was carried
+
+out under the supervision and with the participation of our Chief Executive Officer/Chief Financial Officer. Based on his evaluation
+
+of our disclosure controls and procedures, he concluded that during the period covered by this report, such disclosure controls
+
+and procedures were not effective. This was due to our limited resources, including the absence of a financial staff with accounting
+
+and financial expertise and deficiencies in the design or operation of our internal control over financial reporting that adversely
+
+affected our disclosure controls and that may be considered to be “material weaknesses.”
+
+At
+
+this time, we do not have the financial resources to employ a financial staff with accounting and financial expertise, once we
+
+have the necessary financial resources, we plan to hire and designate an individual responsible for identifying reportable developments
+
+and to implement procedures designed to remediate the material weakness by focusing additional attention and resources in our
+
+internal accounting functions. However, the material weakness will not be considered remediated until the applicable remedial
+
+controls operate for a sufficient period of time and management has concluded, through testing, that these controls are operating
+
+effectively.
+
+Our
+
+Chief Executive Officer is also our Chief Financial Officer.
+
+Management’s
+
+Annual Report on Internal Control over Financial Reporting
+
+Our
+
+management is responsible for establishing and maintaining adequate internal control over our financial reporting. Internal control
+
+over financial reporting is a process designed to provide reasonable assurance to our management and board of directors regarding
+
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S.
+
+generally accepted accounting principles.
+
+Our
+
+internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records
+
+that in reasonable detail accurately and fairly reflect our transactions; (ii) provide reasonable assurance that transactions
+
+are recorded as necessary for preparation of our financial statements; (iii) provide reasonable assurance that receipts and expenditures
+
+of company assets are made in accordance with management authorization; and (iv) provide reasonable assurance that unauthorized
+
+acquisition, use or disposition of company assets that could have a material effect on our financial statements would be prevented
+
+or detected on a timely basis.
+
+Because
+
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections
+
+of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because changes
+
+in conditions may occur or the degree of compliance with the policies or procedures may deteriorate.
+
+Our
+
+management assessed the effectiveness of our internal control over financial reporting as of October 31, 2018. This evaluation
+
+was based on criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission, or COSO, Internal Control-Integrated
+
+Framework. Based upon such assessment, our Chief Executive Officer/Chief Financial Officer concluded that our internal controls
+
+over financial reporting were not effective as of October 31, 2018. In particular, our controls over financial reporting were
+
+not effective in the specific areas described in the paragraphs below.
+
+As
+
+of October 31, 2018, our Chief Executive Officer/Chief Financial Officer identified the following specific material weaknesses
+
+in the Company’s internal controls over its financial reporting processes:
+
+There
+
+have been no significant changes in our internal control over financial reporting during the fiscal year ended October 31, 2018
+
+and 2017, or subsequent to October 31, 2018, that has materially affected or is reasonably likely to materially affect, our internal
+
+control over financial reporting, except as discussed above.
+
+PART
+
+III
+
+Directors
+
+and Executive Officers
+
+Our
+
+executive officers are elected annually by our board of directors. A majority vote of the directors who are in office is required
+
+to fill vacancies on the board. Each director shall be elected for the term of one (1) year and until his successor is elected
+
+and qualified, or until his earlier resignation or removal. The directors named below will serve until the next annual meeting
+
+of our shareholders or until a successor is elected and has accepted the position.
+
+Our
+
+directors and executive officers are as follows: 
+
+Joseph
+
+Riccelli has been our Chief Executive Officer and Chairman of the Board since our inception in June 2002. Mr. Riccelli was the
+
+owner of Pittsburgh Foreign and Domestic, a sole proprietor car dealership located in Glenshaw, Pennsylvania. He attended Point
+
+Park College located in Pittsburgh, Pennsylvania from 1971 to 1972. 
+
+Dean
+
+P. Kolocouris has been one of our Directors since our inception in June 2002. From December 1996 to December, Mr. Kolocouris was
+
+a Loan Officer and Assistant Vice President at Eastern Savings Bank located in Pittsburgh, Pennsylvania. Since that time, he has
+
+been in private lending. In June 1993, Mr. Kolocouris received a bachelor’s degree in Finance from Duquesne University located
+
+in Pittsburgh, Pennsylvania. Mr. Kolcouris has been in banking for over fifteen years and his knowledge of finance and business
+
+experience is helpful to the Company.
+
+Daniel
+
+P. Rains has been a director since March 2007. Mr. Rains is currently Vice President of business development at McCarl’s,
+
+Inc., a mechanical contracting firm. He has held this position for over fifteen years. From 1981 through 1987, Mr. Rains was a
+
+professional football player for the Chicago Bears. He is a graduate of the University of Cincinnati. Mr. Rains has been in professional
+
+sports and in business for over twenty years. His experience and knowledge of these fields are helpful to the Company. As the
+
+Company enters the building construction market with its House Wrap product, Mr. Rains’ experience in that industry will
+
+be especially helpful. 
+
+Audit
+
+Committee
+
+We
+
+do not have a separate standing Audit Committee. Therefore, our entire Board of Directors acts as the Audit Committee. The Board
+
+of Directors has determined that Mr. Dean Kolocouris is its financial expert. Mr. Kolocouris is a loan officer for a bank and
+
+has a degree in Finance.
+
+Nominating
+
+and Compensation Committees
+
+We
+
+do not have either a nominating committee or a compensation committee. The basis for the Board of Directors to not have a nominating
+
+committee is the fact that our principal stockholder who is also our CEO and Chairman of the Board controls approximately thirty-four
+
+percent of the voting stock. And the Company has never held an Annual Meeting of stockholders. New board members are recommended
+
+to the Board by the Chairman of the Board.
+
+Board
+
+of Directors Meetings
+
+During
+
+the last full fiscal year, there were no meetings of the Board of Directors.
+
+Code
+
+of Ethics
+
+We
+
+have not, as yet, adopted a code of ethics. We have only one full time executive officer/ chief financial officer who also acts
+
+as our principal accounting officer. To date, our operations have been so minimal and our staff so small that we have not considered
+
+a formal standard relating to the conduct of our personnel. 
+
+The
+
+following Executive Compensation Chart highlights the terms of compensation for our Executives.
+
+During
+
+2018, we paid our Chief Executive Officer $49,876 in compensation.
+
+There
+
+are no employment agreements between us and our executive officer Joseph Riccelli. There are no change of control arrangements,
+
+either by means of a compensatory plan, agreement, or otherwise, involving our current or former executive officers. There are
+
+no automobile lease agreements or key man life insurance policies that are to the benefit of our executive officers, in which
+
+we would make such payments. There are no standard or other arrangements in which our directors are compensated for any services
+
+as a director, including any additional amounts payable for committee participation or special assignments. There are no other
+
+arrangements in which any of our directors were compensated during our last fiscal year for any service provided as a director.
+
+Other
+
+than Mr. Riccelli, who is our CEO, the Board of Directors considers the remaining Directors Messrs. Kolocouris and Rains to be
+
+independent directors.
+
+Securities
+
+Authorized for Issuance under Equity Compensation Plans.
+
+The
+
+following table sets forth the ownership as of February 19, 2019 (a) by each person known by us to be the beneficial owner of
+
+more than five percent (5%) of our outstanding common stock, and/or (b) by each of our directors, by all executive officers and
+
+our directors and executive officers as a group.
+
+To
+
+the best of our knowledge, all persons named have sole voting and investment power with respect to such shares, except as otherwise
+
+noted. There are not any pending or anticipated arrangements that may cause a change in our control.
+
+By
+
+virtue of his stock ownership or control over our stock, Mr. Riccelli may be deemed to “control” the Company.
+
+Our
+
+officers and directors may encounter conflicts of interests between our business objectives and their own interests. We have not
+
+formulated a policy for the resolution of such conflicts. Future transactions or arrangements between or among our officers, directors
+
+and shareholders, and businesses they control, may result in conflicts of interest, and the conflicts may be resolved in favor
+
+of businesses that our officers or directors are affiliated, which may have an adverse effect on our revenues.
+
+Our
+
+officers and directors have the following conflicts of interests:
+
+Independence
+
+of Board Members
+
+The
+
+Company has adopted the NASDAQ Listing Rules; Rule 5605 and 5605 (a) (20, for determining the independence of its directors. Directors
+
+are deemed independent only if the Board affirmatively determines that the director has no material relationship with the Company
+
+directly or as an officer, share owner or partner of an entity that has a relationship with the Company or any other relationship
+
+which, in the opinion of the Board, would interfere with the exercise of independent judgment in carrying out the responsibilities
+
+of a director.
+
+Audit
+
+Fees
+
+The
+
+aggregate fees billed for the fiscal years ended October 31, 2018 and 2017 for professional services rendered by the principal
+
+accountant for the audit of our annual financial statements and review of the financial statements included in our Form 10-K or
+
+services that are normally provided by the accountant in connection with statutory and regulatory filings or engagements for these
+
+fiscal periods were as follows: (a) during fiscal year ended October 31, 2018 and 2017, our current auditors, Louis Plung &
+
+Company billed the Company $18,000 for professional services, respectively.
+
+Audit
+
+Related Fees
+
+None.
+
+Tax
+
+Fees
+
+None.
+
+All
+
+Other Fees
+
+None.
+
+SIGNATURES
+
+In
+
+accordance with Section 13 or 15(d) of the Exchange Act, the registrant has duly caused this report to be signed on its behalf
+
+by the undersigned, thereunto duly authorized.
+
+In
+
+accordance with the Exchange Act, this report has been signed below by the following persons on behalf of the registrant and in
+
+the capacities and on the dates indicated.
+
+INNOVATIVE
+
+DESIGNS, INC.
+
+FINANCIAL
+
+STATEMENTS AND
+
+INDEPENDENT
+
+AUDITORS’ REPORT
+
+October
+
+31, 2018 and 2017
+
+REPORT
+
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To
+
+the Shareholders and Board of Directors
+
+Innovative
+
+Designs, Inc.
+
+Opinion
+
+on the Financial Statements
+
+We
+
+have audited the accompanying balance sheets of Innovative Designs, Inc. (the Company) as of October 31, 2018 and 2017, and the
+
+related statements of operations, stockholders' equity, and cash flows for each of the fiscal years then ended, and the related
+
+notes to the financial statements. In our opinion, the financial statements present fairly, in all material respects, the financial
+
+position of the Company as of October 31, 2018 and 2017 and the results of its operations and its cash flows for each of the years
+
+in the two-year period ended October 31, 2018 and 2017, in conformity with accounting principles generally accepted in the United
+
+States of America.
+
+Emphasis
+
+of Matter
+
+The
+
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+
+in Note 13 to the financial statements, the Company has suffered recurring losses from operations and has a net capital deficiency
+
+that raise substantial doubt about its ability to continue as a going concern. Management's plans in regard to these matters are
+
+also described in Note 13. The financial statements do not include any adjustments that might result from the outcome of this
+
+uncertainty.
+
+Basis
+
+for Opinion
+
+These
+
+financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on
+
+the Company’s financial statements based on our audits. We are a public accounting firm registered with the
+
+Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company
+
+in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission
+
+and the PCAOB.
+
+We
+
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits
+
+to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether
+
+due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over
+
+financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting,
+
+but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting.
+
+Accordingly, we express no such opinion.
+
+Our
+
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to
+
+error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+
+regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting
+
+principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial
+
+statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Pittsburgh,
+
+Pennsylvania
+
+March
+
+13, 2019
+
+Nature
+
+of Operations - Innovative Designs, Inc. (the “Company”), which was incorporated in the State of Delaware on June
+
+25, 2002, markets cold weather recreational and industrial clothing products, as well as house wrap, which are made from INSULTEX,
+
+a low density foamed polyethylene, a material with buoyancy, scent block, and thermal resistant properties. Our clothing and housewrap
+
+is offered and sold by retailers, distributors, and companies throughout the United States and Canada.
+
+We
+
+operate two reportable segments: Apparel and House Wrap. Our apparel segment offers a wide variety of extreme cold weather apparel
+
+and related items. Our House Wrap segment offers our INSULTEX House Wrap which has an R-value of 3 and an R-value of 6 and our
+
+own seam tape.
+
+Basis
+
+of Accounting - The financial statements are prepared using the accrual basis of accounting in which revenues are recognized
+
+when earned and expenses are recognized when incurred.
+
+Fiscal
+
+Year End - The Company’s fiscal year ends on October 31. The fiscal years ending October 31, 2018 and 2017 are referred
+
+to as 2018 and 2017, respectively, throughout the Company’s financial statements.
+
+Estimates
+
+- The preparation of financial statements in conformity with accounting principles generally accepted in the United States
+
+of America requires management to make estimates and assumptions that affect reported amounts and disclosures. Actual results
+
+may differ from these estimates and assumptions.
+
+Cash
+
+and Cash Equivalents - The Company defines cash and cash equivalents as those highly liquid investments purchased with a maturity
+
+of three months or less.
+
+Revenue
+
+Recognition - The Company recognizes revenue when persuasive evidence of an arrangement exists, delivery has occurred, the
+
+sales price is fixed or determinable and collectability is probable. Revenue is derived from sales of the Company’s recreational
+
+products, such as Arctic Armor, and our house wrap line of products. Sales of these items are recognized when the items are shipped.
+
+The Company offers a 5-day return policy and no warranty on all of its products. All sales outside the United States are entered
+
+into using the U.S. dollar as its functional currency. During 2018 and 2017, the Company took back certain products from customers
+
+that accounted for $683 and $5,165, respectively in revenue. The Company was not required to accept these returns but made a business
+
+decision to do so.
+
+Fair
+
+Value of Financial Instruments - The carrying value of cash and cash equivalents, accounts receivable, accounts payable, and
+
+certain other liabilities approximate their estimated fair values due to the short-term nature of these instruments. The fair
+
+value of the Company’s debt instruments approximates their fair values as the interest is tied to or approximates market
+
+rates.
+
+Estimated
+
+Uncollectable Accounts - Management evaluates its receivables on a quarterly basis to assess the validity of remaining
+
+receivables. Management has determined that there is significant doubt regarding the receivable balance over 90 days of
+
+$9,320 as of the fiscal year ended October 31, 2018 and an allowance is applied on this receivable balance over 90 days. No
+
+allowance was deemed necessary for the fiscal year ended October 31, 2017.
+
+Inventory -
+
+Inventory consists primarily of finished goods. Inventory is stated at the lower of cost or net realizable value and
+
+is valued based on first-in-first-out. Net realizable value is the estimated selling price in the ordinary course of business, less reasonably
+
+predictable costs of completion, disposal, and transportation.
+
+During
+
+the fiscal year ended October 31, 2010, the Company discontinued its hunting and swimming lines of apparel. A reserve balance
+
+of approximately $75,000 and $51,000 was recorded as of October 31, 2018 and 2017, respectively. The reserve is evaluated on a
+
+quarterly basis and adjusted accordingly.
+
+Deposits
+
+on Inventory - The Company only has one manufacturer that produces the apparel on behalf of the Company, located in Indonesia.
+
+The Company will send deposits to the manufacturer for future production of the apparel based on approved purchase orders between
+
+the Company and the manufacturer. Once finished purchase orders are received by the Company, the deposits associated with those
+
+purchase orders are transferred into inventory. The Company had a on deposit for the INSULTEX in the amount of $57,330 and $70,000
+
+as of October 31, 2018 and 2017, respectively.
+
+Property
+
+and Equipment - Property and equipment are stated at cost. Expenditures for maintenance and repairs are charged to income
+
+as incurred. Additions, improvements and major replacements are capitalized. The cost and accumulated depreciation related to
+
+assets sold or retired are removed from the accounts and any gain or loss is credited or charged to income.
+
+For
+
+financial reporting purposes, depreciation is primarily provided on the straight-line method over the estimated useful lives of
+
+depreciable assets, which range from 5 to 7 years.
+
+Deposits
+
+on Equipment - On July 12, 2015, the Company reached an agreement with Ketut Jaya to purchase the machinery and equipment utilized
+
+to produce the INSULTEX material. The purchase price is $700,000 and to be made in four installments. The first installment of
+
+$300,000 is to be made at the execution of the agreement. The second installment of $200,000 is to be made when the machinery
+
+and equipment is ready to be shipped to the United States. The third installment of $100,000 is to be made once the machinery
+
+and equipment is producing INSULTEX, and the fourth and final installment of $100,000 is to be made after the first commercial
+
+production run of INSULTEX is completed. As of October 31, 2018, the Company has made payments of $500,000 in accordance with
+
+the agreement and made a $100,000 pre-payment as the machine is not yet producing INSULTEX. Additionally, the Company has incurred
+
+$17,000 of additional expenses related to shipping. Given the expected time and cost of bringing the equipment into production mode and the Company’s current
+
+financial condition, it is the Company’s intention to attempt to sell the equipment.
+
+Impairment
+
+of Long-lived Assets - Management of the Company considers the valuation and depreciation of property and equipment. Management
+
+considers both the current and future levels of undiscounted cash flow generated by the Company and the continuing value of property
+
+and equipment to determine when and if an impairment has occurred. Any write-downs due to impairment are charged to operations
+
+at the time the impairment is identified. No such write-downs due to impairment have been recorded in 2018 and 2017.
+
+Income
+
+Taxes - The Company accounts for income taxes in accordance with Financial Accounting Standards Board (“FASB”)
+
+Accounting Standards Codification (“ASC”) Topic 740 “Income Taxes”, which requires an asset and
+
+liability approach for financial reporting purposes. Deferred income taxes are provided for differences between the tax bases
+
+of assets and liabilities and the financial reporting amounts at the end of the period, and for net operating loss and tax credit
+
+carryforwards available to offset future taxable income. Changes in enacted tax rates or laws result in adjustments to recorded
+
+deferred tax assets and liabilities in the periods in which the tax laws are enacted or tax rates are changed.
+
+In
+
+addition, ASC 740 clarifies the accounting for uncertainty in tax positions and requires that a company recognize in its financial
+
+statements the impact of a tax position, only if it is more likely than not of being sustained upon examination, based on the
+
+technical merits of the position. The Company recognized no material adjustments to the liability for unrecognized income tax
+
+benefits.
+
+The
+
+Company’s policy regarding the classification of interest and penalties recognized in accordance with ASC 740 is to classify
+
+them as income tax expense in its financial statements, if applicable.
+
+The
+
+Company is subject to routine audits by taxing jurisdictions; however, there are currently no audits for any tax periods in progress.
+
+Concentration
+
+of Credit Risk - The Company maintains its cash and cash equivalents with a financial institution which management believes
+
+to be of high credit quality. Their accounts are insured by the Federal Deposit Insurance Corporation (FDIC) up to $250,000 in
+
+coverage. The balances in these accounts may, at times, exceed the federally insured limits. The Company has not experienced any
+
+losses on the deposits and management believes the Company is not exposed to any significant credit risk related to these accounts.
+
+The Company had no uninsured cash balances as of October 31, 2018 and 2017, respectively.
+
+Shipping
+
+and Handling - Shipping costs associated with acquiring inventories are charged to cost of goods sold when incurred. The
+
+Company pays shipping and handling costs on behalf of customers for purchased merchandise. These costs are billed back to the
+
+customer through the billing invoice and are included in revenue at the time the merchandise is shipped. The shipping and
+
+handling costs associated with customer orders was $16,247 and $18,825 for the fiscal years ended October 31, 2018 and 2017,
+
+respectively.
+
+Net
+
+Income Per Common Share - The Company calculates net income per share in accordance with ASC Topic 260 “Earnings
+
+per Share”. Basic earnings per share are calculated by dividing net income by the weighted average number of common
+
+shares outstanding for the period. The Company only has common stock outstanding for 2018 and 2017. As a result, diluted earnings
+
+per share was not calculated.
+
+Stock-Based
+
+Compensation - The Company accounts for stock based compensation in accordance with ASC Topic 718 “Compensation -
+
+Stock Compensation”. In accordance with the provisions of ASC 718, share-based payment transactions with employees are
+
+measured based on the fair value of the nonequity instruments issued on the grant date or on the fair value of the liabilities
+
+incurred. Share-based payments to nonemployees are measured and recognized using the fair-value method, based on the fair value
+
+of the equity instruments issued or the fair value of goods or services received, whichever is more reliably measured.
+
+Recent
+
+Accounting Standards Update - Recently, various new Accounting Standards Updates (“ASUs”) were
+
+issued by the Financial Accounting Standards Board (FASB). Management has determined, based on their review, the following ASUs
+
+issued recently that will be applicable to the Company. Management will continue to monitor the issuance of updates
+
+throughout the year to determine if the update will have an impact on the Company’s financial statements and should it have
+
+an impact, the update will be disclosed in the notes to the financial statements.
+
+In
+
+February 2016, the FASB issued ASU 2016-02, “Leases”, which added a requirement than an entity, when acting as a lessee,
+
+should recognize in the balance sheet a liability to make lease payments and a right-of-use asset representing
+
+its right to use the underlying asset for the lease term. For public business entities, ASU 2016-02 is effective for fiscal years
+
+beginning after December 15, 2019 including interim periods within fiscal years beginning after December 15, 2020. Early application
+
+is permitted. Management is determining if the adoption of this guidance will have any impact on the financial statements and
+
+notes thereto.
+
+Property
+
+and equipment are summarized by major classifications as follows:
+
+Depreciation
+
+expense for the fiscal years ended October 31, 2018 and 2017 was $33,588 and $30,963, respectively.
+
+Borrowings
+
+at October 31, 2018 and 2017 consisted of the following:
+
+Maturities
+
+of long-term debt are as follows: 
+
+DUE
+
+TO STOCKHOLDERS
+
+In
+
+February 2012, the Company entered into a note payable with Roberta Riccelli for $8,000. This loan was to be used to fund operations
+
+of the Company. This loan is due on demand, including interest at 10% for 120 days. This note was extended through a verbal agreement.
+
+The loan balance as of October 31, 2018 and 2017 was $5,000.
+
+In
+
+January 2013, the Company entered into a note payable with Corinthian Development for $20,000. This loan was to be used to fund
+
+operations of the Company. This loan is due on demand, including interest at 10% with an original repayment date of May 2013.
+
+This note was extended through a verbal agreement. The loan balance at October 31, 2018 and 2017 was $10,000.
+
+In
+
+May 2013, the Company entered into a note payable with the Sol & Tina Waxman Family Foundation for $100,000. This loan was
+
+to be used to fund operations of the Company. The Company’s CEO has pledged 250,000 shares of his stock, as collateral.
+
+This note is also personally guaranteed by the Company’s CEO. There have been various subsequent amendments to the original
+
+note agreement. The most recent amendment was made in January 2018 for the balance of $30,250. Interest is payable at 10% and
+
+total payment is due by January 5, 2019. The loan balance at October 31, 2018 and 2017 was $30,250 and $27,500, respectively.
+
+In
+
+May 2013, the Company entered into a note payable with its CEO, Joseph Riccelli, for $90,000. This loan was to be used to fund
+
+operations of the Company. This loan is due on demand, including interest at 10% with an original repayment date of November 2013.
+
+This note was extended through a verbal agreement. The loan balance at October 31, 2018 and 2017 was $13,500 and $40,000, respectively.
+
+During May 2018, the Company entered into a note payable agreement with Lawrence Fraser for $50,000. This loan was used to fund the operations of the Company. This loan is due on June 1, 2019, including interest at 10%. The loan balance at October 31, 2018 was $50,000.
+
+During
+
+August 2017, the Company entered into a note payable agreement with Riccelli Properties, which is wholly owned and operated
+
+by the Company’s CEO, Joseph Riccelli, in the amount of $40,672. This amount reflects payments made by Riccelli
+
+Properties on the Small Business Association promissory note. Riccelli Properties sold the real estate that was collateral on
+
+the promissory note. The note has a term of 6 months and an interest rate of 10%. This loan balance at October 31, 2018 and
+
+2017 was $36,600 and $36,000, respectively.  
+
+NOTES
+
+PAYABLE
+
+In
+
+July 2005, the Company was approved for a low interest promissory note from the U.S. Small Business Administration in the amount
+
+of $280,100. In January 2006 the Company amended the promissory note with the Small Business Administration increasing the principal
+
+balance to $430,500. The note bears an annual interest rate of 2.9% and matures on July 13, 2035. Monthly payments, including
+
+principal and interest, of $1,820 are due monthly. A payment was made on the note of $40,672 during the year ended October 31,
+
+2017 due to the sale of real estate by Riccelli Properties that was collateral on the promissory note. The loan balance was $119,486
+
+and $137,358 at October 31, 2018 and 2017, respectively. This note is guaranteed by the Company’s CEO.
+
+On
+
+April 16, 2006, the Company entered into an Exclusive License and Manufacturing Agreement (the “Agreement”) with the
+
+Ketut Group, with an effective date of April 1, 2006, whereby the Company acquired an exclusive license to develop, use, sell,
+
+manufacture and market products related to or utilizing INSULTEX™, Korean Patent Number, (0426429) or any INSULTEX Technology.
+
+At the behest of the Board of Directors, the INSULTEX trademark was chosen as the mark to identify the product utilized by Innovative
+
+since its inception and was originally registered by Joseph Riccelli on February 17, 2005. The new trademark, intended to avoid
+
+confusion arising from the use of the old Eliotex trademark in association with a new, subsequent, different and separately-patented
+
+product, was assigned by Mr. Riccelli to the Company on April 25, 2006, with that assignment to become effective upon final approval
+
+of the Statement of Use by the United States Patent and Trademark Office. The License was awarded by the Korean inventor, an individual
+
+who is part of the Ketut Group, and the manufacturer of INSULTEX™. The Company received an exclusive forty (40) year worldwide
+
+license, except for Korea and Japan, with an initial term of ten (10) years and an option to renew the License for up to three
+
+(3) successive ten (10) year terms. The first ten-year option was exercised. Additionally, the Company was granted the exclusive
+
+rights to any current or future inventions, improvements, discoveries, patent applications and letters of patent which the Ketut
+
+Group controls or may control related to INSULTEX™. Furthermore, the Company has the right to grant sub-licenses to other
+
+manufacturers for the use of INSULTEX™ or any INSULTEX Technology.
+
+Revenues
+
+from three customers were approximately 51% and 34% of the Company’s revenues for the fiscal years ended October 31, 2018
+
+and 2017, respectively.
+
+Three
+
+customers accounted for approximately 86% and 71% of the Company’s accounts receivable as of October 31, 2018 and 2017,
+
+respectively.
+
+The
+
+Company only has one supplier of INSULTEX, the special material which is manufactured within the apparel of the Company. Additionally,
+
+the Company only has one manufacturer that produces the apparel on behalf of the Company, located in Indonesia, and one manufacturer
+
+that produces house wrap on behalf of the Company in Massachusetts.
+
+In
+
+prior years the Company incurred net operating losses and, accordingly, no provision for income taxes has been recorded. In addition,
+
+no benefit for income taxes has been recorded due to the uncertainty of the realization of any tax assets. For the 2017 tax year,
+
+fiscal year end October 31, 2018, the Company had net operating loss carryforwards of approximately $5,700,000 for tax purposes.
+
+The carryforwards are available to offset taxable income of future periods and begin to expire after the Company’s 2037
+
+tax year, fiscal year end October 31, 2038. Effective for tax years ending in 2018 or later, net operating losses cannot be carried back but can be carried forward to future tax years indefinitely. Realization of the deferred tax benefit related to the carryforward is dependent upon
+
+the Company generating sufficient taxable income in the future, against which the loss can be offset, which is not guaranteed
+
+Deferred
+
+income taxes reflect the net tax effect of temporary differences between carrying amounts of assets and liabilities for financial
+
+reporting purposes and the amounts used for income tax purposes, as well as tax benefits of net operating loss carryforwards.
+
+The significant components of the Company’s deferred tax assets and liabilities relate to the following:
+
+For
+
+financial reporting purposes, the Company has incurred losses in previous years. Based on the available objective evidence, including
+
+the Company’s previous losses, management believes it is more likely than not that the net deferred tax assets will not
+
+be fully realizable. Accordingly, the Company provided for a full valuation allowance against its net deferred tax assets as of
+
+October 31, 2018 and 2017, respectively.
+
+The
+
+effective income tax rate varied from the statutory Federal tax rate as follows:
+
+The
+
+Company’s effective tax rate is lower than what would be expected if the federal statutory rate were applied to income (loss)
+
+before taxes, primarily due to net operating loss carryforwards.
+
+On December 22, 2017, the President signed into law the Tax Cuts and Jobs Act (H.R.1) (the "Act"). The Act includes a number of changes to existing tax law impacting businesses including, among other things, a permanent reduction in the corporate income tax rate from 34% to 21%. The rate reduction applies to tax years beginning on or after January 1, 2018.
+
+As a result of the reduction in the corporate income tax rate under the Act, the Company had to revalue its net deferred tax liability, for the fiscal year ended October 31, 2017. The did not change the Company's net income for the fiscal year ended October 31, 2018. 
+
+The
+
+Company leases its executive offices/warehouse space from Frank Riccelli, a stockholder and brother of our Chief Executive
+
+Officer, for $3,500 per month. The lease is based on a verbal agreement with month to month terms. For the fiscal years ended
+
+October 31, 2018 and 2017 rent expense totaled $42,000.
+
+We
+
+have organized our operations into two segments as discussed in Note 1 to the financial statements. We rely on an internal management
+
+reporting process that provides segment information for purposes of making financial decisions and allocating resources.
+
+The
+
+following tables present our business segment information for the fiscal years ending October 31, 2018 and 2017:
+
+During
+
+the quarter ended January 31, 2017, there was no stock sold or issued.
+
+During
+
+the quarter ended April 30, 2017, the Company issued 30,000 shares of common stock to one director for services performed during
+
+February 2017 valued at $7,500. The stock was issued at a price of $0.25 per share. Pursuant to Rule 12b-15 under the Securities
+
+and Exchange Act of 1934, as amended, this Form 10-Q includes new certifications by our principal executive officer and principal
+
+financial officer under Sections 302 and 906 of the Sarbanes-Oxley Act of 2002.
+
+During
+
+the quarter ended July 31, 2017, the Company issued 130,000 shares of common stock to two shareholders for services performed
+
+in April and May 2017 valued at $40,200 in total. The stock was issued at a price of $0.30 and $0.34 per share. Pursuant to Rule
+
+12b-15 under the Securities and Exchange Act of 1934, as amended, this Form 10-Q includes new certifications by our principal
+
+executive officer and principal financial officer under Sections 302 and 906 of the Sarbanes-Oxley Act of 2002.
+
+Additionally,
+
+for the quarter ended July 31, 2017, the Company sold 217,000 shares of common stock to three previous stockholders for total
+
+proceeds of $40,590. The stock was issued at a price ranging from $0.18-$0.22 per share. We believe that Section 4(2) of the Securities
+
+Act of 1933, as amended, was available because these transactions did not involve a public offering and there was no general solicitation
+
+or general advertising involved in these transactions. We placed legends on the stock certificates stating that the securities
+
+were not registered under the Securities Act and set forth the restrictions on their transferability and sale.
+
+During
+
+the quarter ended October 31, 2017, the Company issued 140,000 shares of common stock to one shareholder and one individual for
+
+services performed in September and October 2017 valued at $50,000 in total. The stock was issued at a price of $0.25 and $0.40
+
+per share. Pursuant to Rule 12b-15 under the Securities and Exchange Act of 1934, as amended, this Form 10-Q includes new certifications
+
+by our principal executive officer and principal financial officer under Sections 302 and 906 of the Sarbanes-Oxley Act of 2002.
+
+Additionally,
+
+for the quarter ended October 31, 2017, the Company sold 505,000 shares of common stock for total proceeds of $131,950. The stock
+
+was issued at a price ranging from $0.25 - $0.40 per share to three new investors and three stockholders. We believe that Section
+
+4(2) of the Securities Act of 1933, as amended, was available because these transactions did not involve a public offering and
+
+there was no general solicitation or general advertising involved in these transactions. We placed legends on the stock certificates
+
+stating that the securities were not registered under the Securities Act and set forth the restrictions on their transferability
+
+and sale.
+
+During
+
+the quarter ended January 31, 2018, the Company issued 50,000 shares of common stock to one individual for services performed
+
+during December 2017 valued at $20,000. The stock was issued at a price of $0.40 per share. In addition, the Company sold 351,000
+
+shares of common stock to three individuals for total proceeds of $111,560. The stock was issued at a price ranging from $0.30-$0.32
+
+per share.
+
+During
+
+the quarter ended April 30, 2018, the Company issued 55,000 shares of common stock to two individuals for services performed in
+
+April 2018 valued at $9,900. The stock was issued at a price of $0.18 per share. In addition, the Company sold 356,250 shares
+
+of common stock to three individuals for total proceeds of $105,000. The stock was issued at a price ranging from $0.25-$0.32
+
+per share.
+
+During
+
+the quarter ended July 31, 2018, the Company issued 5,000 shares of common stock to one individual for services performed in May
+
+2018 valued at $1,000 in total. The stock was issued at a price of $0.20 per share. In addition, the Company sold 25,000 shares
+
+of common stock to one individual for total proceeds of $5,000. The stock was issued at a price of $0.20 per share. We believe
+
+that Section 4(2) of the Securities Act of 1933, as amended, was available because these transactions and the transaction cited
+
+above did not involve a public offering and there was no general solicitation or general advertising involved in these transactions.
+
+We placed legends on the stock certificates stating that the securities were not registered under the Securities Act and set forth
+
+the restrictions on their transferability and sale.
+
+During
+
+the quarter ended October 31, 2018, the Company issued 130,000 shares of common stock to two shareholders for services performed
+
+in September and October 2018 valued at $39,000 in total. The stock was issued at a price of $0.80 per share. Additionally, for
+
+the quarter ended October 31, 2018, the Company sold 425,000 shares of common stock for total proceeds of $90,000. The stock was
+
+issued at a price ranging from $0.20 - $0.25 per share to three stockholders. We believe that Section 4(2) of the Securities Act
+
+of 1933, as amended, was available because these transactions did not involve a public offering and there was no general solicitation
+
+or general advertising involved in these transactions. We placed legends on the stock certificates stating that the securities
+
+were not registered under the Securities Act and set forth the restrictions on their transferability and sale.
+
+The
+
+Company has entered into various debt agreements with related parties. These agreements are classified as shareholder loans within
+
+Note 3 to the financial statements.
+
+The
+
+Company has entered into a verbal lease agreement as further discussed in Note 7 to the financial statements.
+
+On
+
+November 4, 2016, the Federal Trade Commission (FTC) filed a complaint against the Company in the U.S. District Court Western
+
+District of Pennsylvania, number 16-1669. In the complaint, the FTC alleges that, among other matters, the Company does not have
+
+substantiation of claims made by the Company regarding the R value and energy efficiency of its INSULTEX House Wrap products.
+
+The complaint asks as redress of rescission of revenue the Company received from the sale of House Wrap and a permanent injunction.
+
+The parties are currently in the expert discovery phase. As a result of the partial federal government shutdown, a new trial date has been set for July 29, 2019.
+
+The
+
+Company strongly denies the allegation and intends to vigorously defend itself. It is the Company’s belief that the complaint
+
+is based on improper testing of the INSULTEX products using the wrong type of testing equipment.
+
+The
+
+Company had a net loss of $554,625 and a negative cash flow from operations of $418,948 for the year ended October 31, 2018. In
+
+addition, the Company has an accumulated deficit of $8,900,437. Management of the Company has represented that they will be able
+
+to continue to support the Company’s cash needs through sales, sales of Company stock, and borrowings from private parties.
+
+In
+
+accordance with ASC Topic 855, “Subsequent Events”, the Company evaluated subsequent events through March 13,
+
+2019, the date these financial statements were available to be issued. During their evaluation, the following subsequent events
+
+were identified.
+
+During
+
+January 2019, the Company sold 360,000 shares of stock to five individuals for total proceeds of $61,200. The stock was
+
+issued for $0.17 per share. Each Unit consisted of 60,000 shares of common stock and a warrant to purchase 60,000 shares of
+
+common stock. The strike price of the warrant was $.17 per share. The term was three years. The Company also agreed to
+
+register the shares and the shares underlying the warrants. Each Unit was priced at $10,200. Each purchaser was an
+
+“accredited investor”. The Company believes that Section 4(2) of the Securities Act of 1933, as amended, was
+
+available because these transactions did not involve a public offering and there was no general solicitation or general
+
+advertising involved in these transactions. The Company has placed legends on the stock certificates stating that
+
+the securities were not registered under the Securities Act and set forth the restrictions on their transferability
+
+and sale.
+Question: When is the 2019 Proxy Statement expected?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

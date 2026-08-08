@@ -1,0 +1,3804 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-037-base ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+FORM 10-K
+
+- ----------------------------------------
+
+- ----------------------------------------
+
+           SECURITIES AND EXCHANGE COMMISSION
+
+              Washington, D.C. 20549
+
+                  FORM 10-K
+
+   [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+
+        OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                   OR
+
+   [_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+
+          OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the Fiscal Year Ended December 31, 1998    Commission File No. 001-14625
+
+              HOST MARRIOTT CORPORATION
+
+        Maryland               53-0085950
+
+    (State of Incorporation)      (I.R.S. Employer Identification
+
+                            Number)
+
+               10400 Fernwood Road
+
+              Bethesda, Maryland 20817
+
+                (301) 380-9000
+
+     Securities registered pursuant to Section 12(b) of the Act:
+
+ The aggregate market value of shares of common stock held by non-affiliates
+
+at March 19, 1999 was $2,561,000,000.
+
+ Indicate by check mark whether the registrant (i) has filed all reports
+
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+
+1934 during the preceding 12 months, and (ii) has been subject to such filing
+
+requirements for the past 90 days. Yes [X] No [_]
+
+           Document Incorporated by Reference
+
+        Notice of 1999 Annual Meeting and Proxy Statement
+
+- ----------------------------------------
+
+- ----------------------------------------
+
+             FORWARD-LOOKING STATEMENTS
+
+ Certain matters discussed herein are forward-looking statements. Certain,
+
+but not necessarily all, of such forward-looking statements can be identified
+
+by the use of forward-looking terminology, such as "believes," "expects,"
+
+"may," "will," "should," "estimates" or "anticipates" or the negative thereof
+
+or other variations thereof or comparable terminology. All forward-looking
+
+statements involve known and unknown risks, uncertainties and other factors
+
+which may cause our actual transactions, results, performance or achievements
+
+to be materially different from any future transactions, results, performance
+
+or achievements expressed or implied by such forward-looking statements.
+
+Although we believe the expectations reflected in such forward-looking
+
+statements are based upon reasonable assumptions, we can give no assurance
+
+that our expectations will be attained or that any deviations will not be
+
+material. We undertake no obligation to publicly release the result of any
+
+revisions to these forward-looking statements that may be made to reflect any
+
+future events or circumstances. The following risk factors should be
+
+considered by prospective investors who should carefully consider the material
+
+risks described below.
+
+We do not control our hotel operations and are dependent on the managers and
+
+lessees of our hotels
+
+ Because federal income tax laws restrict real estate investment trusts and
+
+"publicly traded" partnerships from deriving revenues directly from operating
+
+a hotel, we operate virtually none of our hotels. Instead, we lease virtually
+
+all of our hotels to subsidiaries of Crestline which, in turn, retain managers
+
+to manage our hotels pursuant to management agreements. Thus, we are dependent
+
+on the lessees but, under the hotel leases, we have little influence over how
+
+the lessees operate our hotels. Similarly, we are dependent on the managers,
+
+principally Marriott International, Inc., but we have virtually no influence
+
+over how the managers manage our hotels. We have no recourse if we believe
+
+that the hotel managers do not maximize the revenues from our hotels, which in
+
+turn will maximize the rental payments we receive under the leases. We may
+
+seek redress under most leases only if the lessee violates the terms of the
+
+lease and then only to the extent of the remedies set forth in the lease.
+
+ Each lessee's ability to pay rent accrued under its lease depends to a large
+
+extent on the ability of the hotel manager to operate the hotel effectively
+
+and to generate gross sales in excess of its operating expenses. Our rental
+
+income from the hotels may therefore be adversely affected if the managers
+
+fail to provide quality services and amenities and competitive room rates at
+
+our hotels or fail to maintain the quality of the hotel brand names. Although
+
+the lessees have primary liability under the management agreements while the
+
+leases are in effect, we remain liable under the leases for all obligations
+
+that the lessees do not perform. We may terminate a lease if the lessee
+
+defaults, but terminating the lease could, unless another suitable lessee is
+
+found, impair our ability to qualify as a REIT for federal income tax purposes
+
+and the ability of the operating partnership (as defined in the business and
+
+properties section) to qualify as a partnership for federal income tax
+
+purposes unless another suitable lessee is found. As described below, our
+
+inability to qualify as a REIT or the operating partnership's inability to
+
+qualify as a partnership for federal income tax purposes would have a material
+
+adverse effect on us.
+
+We do not control certain assets held by the non-controlled subsidiaries
+
+ We own economic interests in certain taxable corporations, which we refer to
+
+as non-controlled subsidiaries. These non-controlled subsidiaries hold various
+
+assets which, under our credit facility may not exceed, in the aggregate, 15%
+
+of the value of our assets. These assets consist primarily of interests in
+
+certain partnerships and hotels which are not leased, and certain FF&E (as
+
+defined below) used in our hotels. Ownership of these assets by us could
+
+jeopardize our REIT status and the operating partnership's status as a
+
+partnership for federal income tax purposes. Although we own approximately 95%
+
+of the total economic interests of the non-controlled subsidiaries, all of the
+
+voting common stock, representing approximately 5% of the total economic
+
+interests, is owned by Host Marriott Statutory Employee/Charitable Trust, the
+
+beneficiaries of which are a trust formed for the benefit of a number of our
+
+employees and the J. Willard and Alice S. Marriott Foundation. These voting
+
+stockholders elect the directors who are responsible for overseeing the
+
+operations of the non-controlled subsidiaries. The directors are currently
+
+employees of the operating partnership, although this is not required. As a
+
+result, we have no control over the operation or management of the hotels or
+
+other assets owned by the non-
+
+                    1
+
+controlled subsidiaries, even though we depend upon the non-controlled
+
+subsidiaries for a significant portion of our revenues. Also, the activities
+
+of non-controlled subsidiaries could cause us to be in default under our
+
+principal debt facilities.
+
+We are dependent on the ability of Crestline and the lessees to meet their
+
+rent payment obligations
+
+ The lessees' rent payments are the primary source of our revenues. Crestline
+
+guarantees the obligations of its subsidiaries under the hotel leases, but
+
+Crestline's liability is limited to a relatively small portion of the
+
+aggregate rent obligation of its subsidiaries. Crestline's and each of its
+
+subsidiaries' ability to meet its obligations under the leases will determine
+
+the amount of our revenue and, likewise, our ability to meet our obligations.
+
+We have no control over Crestline or any of its subsidiaries and cannot assure
+
+you that Crestline or any of its subsidiaries will have sufficient assets,
+
+income and access to financing to enable them to satisfy their obligations
+
+under the leases or to make payments of fees under the management agreements.
+
+Although the lessees have primary liability under the management agreements
+
+while the leases are in effect, we and our subsidiaries remain liable under
+
+the management agreements for all obligations that the lessees do not perform.
+
+Because of our dependence on Crestline, our credit rating will be affected by
+
+its creditworthiness.
+
+Our revenues and the value of our properties could be adversely affected by
+
+conditions affecting the lodging industry
+
+ If our assets do not generate income sufficient to pay our expenses, service
+
+our debt and maintain our properties, we will be unable to make expected
+
+distributions to our stockholders. Factors that could adversely affect our
+
+revenues and the economic performance and value of our properties include:
+
+ . changes in the national, regional and local economic climate,
+
+ . local conditions such as an oversupply of hotel properties or a reduction
+
+  in demand for hotel rooms,
+
+ . the attractiveness of our hotels to consumers and competition from
+
+  comparable hotels,
+
+ . the quality, philosophy and performance of the managers of our hotels,
+
+  primarily Marriott International, Inc.,
+
+ . the ability of any hotel lessee to maximize rental payments,
+
+ . changes in room rates and increases in operating costs due to inflation
+
+  and other factors and
+
+ . the need to periodically repair and renovate our hotels.
+
+Our expenses may remain constant even if our revenues drop
+
+ The expenses of owning a property are not necessarily reduced when
+
+circumstances such as market factors and competition cause a reduction in
+
+income from the property. If a property is mortgaged and we are unable to meet
+
+the mortgage payments, the lender could foreclose and take the property. Our
+
+financial condition and ability to service debt and make distributions to our
+
+stockholders could be adversely affected by:
+
+ .interest rate levels,
+
+ .the availability of financing,
+
+ .the cost of compliance with government regulation, including zoning and
+
+ tax laws and
+
+ .changes in laws and governmental regulations, including those governing
+
+ usage, zoning and taxes.
+
+New acquisitions may fail to perform as expected or we may be unable to make
+
+acquisitions on favorable terms
+
+ We intend to acquire additional full service hotels and other types of real
+
+estate. Newly acquired properties may fail to perform as expected, which could
+
+adversely affect our financial condition. We may underestimate the costs
+
+necessary to bring an acquired property up to standards established for its
+
+intended market position. We expect to acquire hotels and other types of real
+
+estate with cash from secured or unsecured financings and
+
+                    2
+
+proceeds from offerings of equity or debt, to the extent available. We may not
+
+be in a position or have the opportunity in the future to make suitable
+
+property acquisitions on favorable terms. Competition for attractive
+
+investment opportunities may increase prices for hotel properties, thereby
+
+decreasing the potential return on our investment. In addition, in order to
+
+maintain our status as a REIT we must lease virtually all of the properties we
+
+acquire. We cannot guarantee that the leases for newly acquired hotels will be
+
+as favorable to us as the existing leases.
+
+Competition for acquisitions may result in increased prices for hotels
+
+ Other major investors with significant capital compete with us for
+
+attractive investment opportunities. These competitors include other REITs and
+
+hotel companies, investment banking firms and private institutional investment
+
+funds. This competition may increase prices for hotel properties, thereby
+
+decreasing the potential return on our investment.
+
+The seasonality of the hotel industry may affect the ability of the lessees to
+
+make timely rent payments
+
+ The seasonality of the hotel industry may, from time to time, affect either
+
+the amount of rent that accrues under the hotel leases or the ability of the
+
+lessees to make timely rent payments under the leases. A lessee's or
+
+Crestline's inability to make timely rent payments to us could adversely
+
+affect our financial condition and ability to service debt and make
+
+distributions to our stockholders.
+
+We may be unable to sell properties when appropriate because real estate
+
+investments are illiquid
+
+ Real estate investments generally cannot be sold quickly. We may not be able
+
+to vary our portfolio promptly in response to economic or other conditions.
+
+This inability to respond promptly to changes in the performance of our
+
+investments could adversely affect our financial condition and ability to
+
+service debt and make distributions to our stockholders. In addition, sales of
+
+appreciated real property could generate material adverse tax consequences,
+
+which may make it disadvantageous for us to sell hotels.
+
+We may be unable to renew leases or find other lessees
+
+ Our current hotel leases have terms generally ranging from seven to ten
+
+years. There can be no assurance that upon expiration of our leases, our
+
+hotels will be relet to the current lessees, or if relet, will be relet on
+
+terms favorable to us. If our hotels are not relet, we will be required to
+
+find other lessees who meet certain requirements of the management agreements
+
+and of the federal income tax rules that govern REITs. We cannot assure you
+
+that we would be able to find satisfactory lessees or that the terms of any
+
+new leases would be favorable. Failure to find satisfactory lessees could
+
+cause us to lose our REIT status, and cause the operating partnership to be
+
+considered a "publicly traded partnership" taxable as a "C" corporation. Under
+
+these circumstances the operating partnership would have to pay substantial
+
+federal income taxes as well as distribute more cash to us to enable us to
+
+meet our tax burden. This would significantly impair, if not eliminate, our
+
+ability to raise additional capital. Failure to enter leases on satisfactory
+
+terms could also result in reduced cash available for servicing debt and for
+
+distributions to stockholders.
+
+A significant number of our hotels are subject to ground leases
+
+ As of December 31, 1998, we leased 54 of our hotels pursuant to ground
+
+leases. These ground leases generally require increases in ground rent
+
+payments every five years. Our ability to make cash distributions to our
+
+stockholders could be adversely affected to the extent that the rents payable
+
+by the lessees under the leases do not increase at the same or a greater rate
+
+as the increases under the ground leases. In addition, if we were to sell a
+
+hotel encumbered by a ground lease, the buyer would have to assume the ground
+
+lease, which could result in a lower sales price.
+
+                    3
+
+Some potential losses are not covered by insurance
+
+ We carry comprehensive liability, fire, flood, extended coverage and rental
+
+loss (for rental losses extending up to 12 months) insurance with respect to
+
+all of our hotels. We believe the policy specifications and insured limits of
+
+these policies are of the type customarily carried for similar hotels. Certain
+
+types of losses, such as from earthquakes and environmental hazards, however,
+
+may be either uninsurable or too expensive to justify insuring against. Should
+
+an uninsured loss or a loss in excess of insured limits occur, we could lose
+
+all or a portion of the capital we have invested in a hotel, as well as the
+
+anticipated future revenue from the hotel. In such an event, we might
+
+nevertheless remain obligated for any mortgage debt or other financial
+
+obligations related to the property.
+
+Leases and management agreements could impair the sale or other disposition of
+
+our hotels
+
+ Each lease with a subsidiary of Crestline generally requires us to make a
+
+termination payment to the lessee if we terminate the lease prior to the
+
+expiration of its term. A termination payment is required even if we terminate
+
+a lease because of a change in the federal income tax laws that either would
+
+make continuation of the lease jeopardize our REIT status or would enable us
+
+to operate our hotels ourselves. The termination fee generally is equal to the
+
+fair market value of the lessee's leasehold interest in the remaining term of
+
+the lease, which could be a significant amount. In addition, if we decide to
+
+sell a hotel, we may be required to terminate its lease, and the payment of
+
+the termination fee under such circumstances could impair our ability to sell
+
+the hotel and would reduce the net proceeds of any sale.
+
+ Under the terms of the management agreements, we generally may not sell,
+
+lease or otherwise transfer the hotels unless the transferee assumes the
+
+related management agreements and meets certain other conditions. Our ability
+
+to finance, refinance or effect a sale of any of the properties managed by
+
+Marriott International or another manager may, depending upon the structure of
+
+such transactions, require the manager's consent. If Marriott International or
+
+other manager did not consent, we would be prohibited from consummating the
+
+financing, refinancing or sale without breaching the management agreement.
+
+The acquisition contracts relating to certain hotels limit our ability to sell
+
+or refinance such hotels
+
+ For reasons relating to federal income tax considerations of the former
+
+owners of certain of our hotels, we have agreed to restrictions on selling
+
+certain hotels or repaying or refinancing the mortgage debt thereon for lock-
+
+out periods which vary depending on the hotel. We anticipate that, in certain
+
+circumstances, we may agree to similar restrictions in connection with future
+
+hotel acquisitions. As a result, even if it were in our best interests to sell
+
+such hotels or refinance their mortgage debt, it may be difficult or
+
+impossible to do so during their respective lock-out periods.
+
+Marriott International's and Crestline's operation of their respective
+
+businesses could result in decisions not in our best interest
+
+ Marriott International, a public company in the business of hotel
+
+management, manages a significant number of our hotels. In addition, Marriott
+
+International manages hotels owned by others that compete with our hotels. As
+
+a result, Marriott International may make decisions regarding competing
+
+lodging facilities which it manages that would not necessarily be in our best
+
+interests. Further, J.W. Marriott, Jr., a member of our Board of Directors,
+
+and Richard E. Marriott, our Chairman of the Board and J.W. Marriott, Jr.'s
+
+brother, serve as directors, and, in the case of J.W. Marriott, Jr., also an
+
+officer, of Marriott International. J.W. Marriott, Jr. and Richard E. Marriott
+
+also beneficially owned approximately 10.6% and 10.4%, respectively, as of
+
+January 1, 1999 of the outstanding shares of common stock of Marriott
+
+International, and approximately 5.7% and 6.0%, respectively, as of March 24,
+
+1999 of the outstanding shares of common stock of Crestline, but neither
+
+serves as an officer or director of Crestline. As a result, J.W. Marriott, Jr.
+
+and Richard E. Marriott have potential conflicts of interest as directors of
+
+Host Marriott when making decisions regarding Marriott International,
+
+including decisions relating to the management agreements involving the
+
+hotels, Marriott International's management of competing lodging properties
+
+and Crestline's leasing and other businesses.
+
+                    4
+
+ Our Board of Directors and Marriott International's Board of Directors
+
+follow appropriate policies and procedures to limit the involvement of Messrs.
+
+J.W. Marriott, Jr. and Richard E. Marriott in conflict situations, including
+
+requiring them to abstain from voting as directors of either company or their
+
+subsidiaries on certain matters which present a conflict between the
+
+companies. If appropriate, these policies and procedures will apply to other
+
+directors and officers.
+
+Provisions of our charter and bylaws could inhibit changes in control that
+
+could be beneficial to our stockholders
+
+ Certain provisions of our charter and bylaws may delay or prevent a change
+
+in control or other transaction that could provide our stockholders with a
+
+premium over the then-prevailing market price of their shares or which might
+
+otherwise be in their best interests. These include a staggered Board of
+
+Directors and the ownership limit described below. Also, any future class or
+
+series of stock may have certain voting provisions that could delay or prevent
+
+a change in control or other transaction that might involve a premium price or
+
+otherwise be good for our stockholders.
+
+The Marriott International purchase right may discourage a takeover that could
+
+be beneficial to our stockholders
+
+ Marriott International has the right to purchase up to 20% of each class of
+
+our outstanding voting shares at the then fair market value upon the
+
+occurrence of specified certain change of control events. We refer to this
+
+right as the Marriott International purchase right. The Marriott International
+
+purchase right will continue in effect until June 2017, subject to certain
+
+limitations intended to protect the our REIT status. The Marriott
+
+International purchase right may have the effect of discouraging someone from
+
+attempting to take us over, because any person considering acquiring a
+
+substantial or controlling block of our common stock will face the possibility
+
+that its ability to obtain or exercise control would be impaired or made more
+
+expensive by the exercise of the Marriott International purchase right.
+
+We have adopted Maryland law limitations on changes in control
+
+ Maryland corporate law prohibits certain "business combinations" between a
+
+Maryland corporation and any person who owns 10% or more of the voting power
+
+of the corporation's then outstanding shares of stock (an "Interested
+
+Stockholder") or an affiliate of the Interested Stockholder unless a business
+
+combination is approved by the board of directors any time before an
+
+Interested Stockholder first becomes an Interested Stockholder. The
+
+prohibition lasts for five years after the Interested Stockholder becomes an
+
+Interested Stockholder. Thereafter, any such business combination must be
+
+approved by stockholders under certain special voting requirements. We will be
+
+subject to such provisions although we may elect to "opt-out" in the future.
+
+As a result, a change in control or other transaction that could provide our
+
+stockholders with a premium over the then-prevailing market price of their
+
+shares or which might otherwise be in their best interests may be prevented or
+
+delayed. Our Board of Directors has exempted from this statute the acquisition
+
+of shares by Marriott International pursuant to the terms of the Marriott
+
+International purchase right as well as any other transactions involving us
+
+and Marriott International or our respective subsidiaries, or J.W. Marriott,
+
+Jr. or Richard E. Marriott, provided that, if any such transaction is not in
+
+the ordinary course of business, it must be approved by a majority of our
+
+directors present at a meeting at which a quorum is present, including a
+
+majority of the disinterested directors, in addition to any vote of
+
+stockholders required by other provisions of Maryland corporate law.
+
+Maryland control share acquisition law could delay or prevent a change in
+
+control
+
+ Under Maryland corporate law, unless a corporation elects not to be subject
+
+thereto, "control shares" acquired in a "control share acquisition" have no
+
+voting rights except to the extent approved by stockholders by a vote of two-
+
+thirds of the votes entitled to be cast on the matter, excluding shares owned
+
+by the acquiror and by officers or directors who are employees of the
+
+corporation. "Control shares" are voting shares which would entitle the
+
+acquiror to exercise voting power in electing directors within certain
+
+specified ranges of voting power.
+
+                    5
+
+A "control share acquisition" means the acquisition of control shares, subject
+
+to certain exceptions. We are subject to these control share provisions of
+
+Maryland law and, as a result, a change in control or other transaction that
+
+could provide our stockholders with a premium over the then-prevailing market
+
+price of their shares or which might otherwise be in their best interests may
+
+be delayed or prevented. Our bylaws contain an exemption from this statute for
+
+any shares acquired by Marriott International, together with its successors
+
+and permitted assignees, pursuant to the Marriott International purchase
+
+right.
+
+We have adopted a rights agreement which could delay or prevent a change in
+
+control
+
+ Our rights agreement provides, among other things, that upon the occurrence
+
+of certain events, stockholders will be entitled to purchase shares of our
+
+stock, subject to the ownership limit. These purchase rights would cause
+
+substantial dilution to a person or group that acquires or attempts to acquire
+
+20% or more of our common stock on terms not approved by the Board of
+
+Directors and, as a result, could delay or prevent a change in control or
+
+other transaction that could provide our stockholders with a premium over the
+
+then-prevailing market price of their shares or which might otherwise be in
+
+their best interests.
+
+We have a stock ownership limit primarily for REIT tax purposes
+
+ Primarily to facilitate maintenance of our REIT qualification, our charter
+
+imposes an ownership limit on our common stock and preferred stock. The
+
+attribution provisions of the federal tax laws that are used in applying the
+
+ownership limit are complex. They may cause one stockholder to be considered
+
+to own the stock of a number of related stockholders. As a result, these
+
+provisions may cause a stockholder whose direct ownership of stock does not
+
+exceed the ownership limit to, in fact, exceed the ownership limit.
+
+ The ownership limit could delay or prevent a change in control and,
+
+therefore, could adversely affect stockholders' ability to realize a premium
+
+over the then-prevailing market price for the common stock in connection with
+
+such transaction.
+
+The large number of shares available for future sale could adversely affect
+
+the market price of our publicly traded securities
+
+ In connection with our REIT conversion at the end of 1998, we reserved
+
+approximately 96.4 million shares of our common stock for future issuance of
+
+which approximately 20 million shares were issued in February 1999. Such
+
+common stock will be freely transferable upon receipt. The balance of the
+
+reserved common stock may be issued upon the redemption of units of limited
+
+partnership interest in our operating partnership. These limited partnership
+
+units will become redeemable at various times over the next year, with
+
+approximately 23.9 million limited partnership units becoming redeemable
+
+beginning on July 1, 1999, pursuant to each holder's right under the operating
+
+partnership's partnership agreement to redeem them for shares of our common
+
+stock or, at our election, the cash equivalent thereof. In addition, we have
+
+reserved a substantial number of shares of our common stock for issuance
+
+pursuant to benefit plans or outstanding options, and such shares of our
+
+common stock will be available for sale in the public markets from time to
+
+time. Moreover, we may issue additional shares of our common stock in the
+
+future. We cannot predict the effect that future sales of shares of our common
+
+stock, or the perception that such sales could occur, will have on the market
+
+prices of our equity securities.
+
+Our FFO and cash distributions will affect the market price of our publicly
+
+traded securities
+
+ We believe that the market value of a REIT's equity securities is based
+
+primarily upon the market's perception of the REIT's growth potential,
+
+including its prospects for accretive acquisitions and development, and its
+
+current and potential future cash distributions, and is secondarily based upon
+
+the real estate market value of the underlying assets. For that reason, our
+
+common stock may trade at prices that are higher or lower than the net asset
+
+value per share. To the extent we retain operating cash flow for investment
+
+purposes, working capital reserves or other purposes, these retained funds,
+
+while increasing the value of our underlying assets, may not correspondingly
+
+increase the market price of our common stock. Our failure to meet the
+
+market's expectations with regard to future FFO and cash distributions would
+
+likely adversely affect the market price of our publicly traded securities.
+
+                    6
+
+Market interest rates may have an effect on the value of our publicly traded
+
+securities
+
+ One of the factors that investors consider important in deciding whether to
+
+buy or sell shares of a REIT is the distribution rate on such shares, as a
+
+percentage of the price of such shares relative to market interest rates. If
+
+market interest rates go up, prospective purchasers of our equity securities
+
+may expect a higher dividend yield. Higher interest rates would not, however,
+
+result in more funds for us to distribute and, in fact, would likely increase
+
+our borrowing costs and potentially decrease cash available for distribution
+
+to the extent that our indebtedness has floating interest rates. Thus, higher
+
+market interest rates could cause the market price of our publicly traded
+
+securities to go down.
+
+We are dependent on external sources of capital
+
+ To qualify as a REIT, we must distribute to our stockholders each year at
+
+least 95% of our net taxable income, excluding any net capital gain. Because
+
+of these distribution requirements, it is not likely that we will be able to
+
+fund all future capital needs, including acquisitions, from income from
+
+operations. We therefore will have to rely on third-party sources of capital,
+
+which may or may not be available on favorable terms or at all. Our access to
+
+third-party sources of capital depends upon a number of factors, including
+
+general market conditions, the market's perception of our growth potential,
+
+our current and potential future earnings and cash distributions and the
+
+market price of our common stock. Moreover, additional equity offerings may
+
+result in substantial dilution of stockholders' interests, and additional debt
+
+financing may substantially increase our leverage.
+
+Our degree of leverage could limit our ability to obtain additional financing
+
+ Our debt-to-total market capitalization ratio was approximately 59% as of
+
+December 31, 1998. We have a policy of incurring debt only if, immediately
+
+following such incurrence, our debt-to-total market capitalization ratio on a
+
+pro forma basis would be 60% or less. Our degree of leverage could affect our
+
+ability to obtain financing in the future for working capital, capital
+
+expenditures, acquisitions, development or other general corporate purposes
+
+and to refinancing borrowings on favorable terms. Our leveraged capital
+
+structure also makes us more vulnerable to a downturn in our business or in
+
+the economy generally. Moreover, there are no limitations in our
+
+organizational documents that limit the amount of indebtedness that we may
+
+incur, although our existing debt instruments contain certain restrictions on
+
+the amount of indebtedness that we may incur. Accordingly, our Board of
+
+Directors could alter or eliminate the 60% policy without stockholder approval
+
+to the extent permitted by our debt agreements. If this policy were changed,
+
+we could become more highly leveraged, resulting in an increase in debt
+
+service payments that could adversely affect our cash flow and consequently
+
+our ability to service our debt and make distributions to stockholders.
+
+Rental revenues from hotels are subject to prior rights of lenders
+
+ The mortgages on certain of our hotels require that rent payments under the
+
+leases on such hotels be used first to pay the debt service on such mortgage
+
+loans. Consequently, only the cash flow remaining after debt service will be
+
+available to satisfy other obligations, including property taxes and
+
+insurance, FF&E reserves for the hotels and capital improvements, and debt
+
+service on unsecured debt, and to make distributions to stockholders.
+
+We depend on our key personnel
+
+ We depend on the efforts of our executive officers and other key personnel.
+
+While we believe that we could find replacements for these key personnel, the
+
+loss of their services could have a significant adverse effect on our
+
+operations. We do not intend to obtain key-man life insurance with respect to
+
+any of our personnel.
+
+The REIT conversion could result in litigation
+
+ Over the last several years, business reorganizations involving the
+
+combination of several partnerships into a single entity have occasionally
+
+given rise to investor lawsuits. These lawsuits have involved claims against
+
+the
+
+                    7
+
+general partners of the participating partnerships, the partnerships
+
+themselves and related persons involved in the structuring of, or benefiting
+
+from, the conversion or reorganization, as well as claims against the
+
+surviving entity and its directors and officers. If any lawsuits are filed in
+
+connection with the partnership mergers or other transactions in connection
+
+with our REIT Conversion, such lawsuits could result in substantial damage
+
+claims against us, as successor to the liabilities of our predecessors. Such
+
+lawsuits, if successful, could adversely affect our financial condition and
+
+our ability to service our debt and make distributions to stockholders.
+
+Joint venture investments have additional risks
+
+ Instead of purchasing hotel properties directly, we may invest as a co-
+
+venturer. Joint venturers often share control over the operation of the joint
+
+venture assets. Actions by a co-venturer could subject such assets to
+
+additional risk. Our co-venturer in an investment might have economic or
+
+business interests or goals that are inconsistent with our interests or goals,
+
+or be in a position to take action contrary to our instructions or requests or
+
+contrary to our policies or objectives. Although we generally will seek to
+
+maintain sufficient control of any joint venture to permit our objectives to
+
+be achieved, we might not be able to take action without the approval of our
+
+joint venture partners. Also, our joint venture partners could take actions
+
+binding on the joint venture without our consent. A joint venture partner
+
+could go bankrupt, leaving us liable for its share of joint venture
+
+liabilities. Also, the requirement that we lease our assets to qualify as a
+
+REIT may make it more difficult for us to enter into joint ventures in the
+
+future.
+
+The year 2000 problem may adversely impact our business and financial
+
+condition
+
+ Year 2000 issues have arisen because many existing computer programs and
+
+chip-based embedded technology systems use only the last two digits to refer
+
+to a year, and therefore do not properly recognize a year that begins with
+
+"20" instead of the familiar "19." If not corrected, many computer
+
+applications could fail or create erroneous results. Our potential year 2000
+
+problems include issues relating to our in-house hardware and software
+
+computer systems, as well as issues relating to third parties with which we
+
+have a material relationship or whose systems are material to the operations
+
+of our hotels.
+
+ In-House systems
+
+   Since October of 1993, we have invested in the implementation and
+
+  maintenance of accounting and reporting systems and equipment that are
+
+  intended to enable us to provide adequately for our information and
+
+  reporting needs and which are also year 2000 compliant. Substantially all
+
+  of our in-house systems have already been certified as year 2000 compliant
+
+  through testing and other mechanisms. We have not delayed any systems
+
+  projects due to the year 2000 issue. We have engaged a third party to
+
+  review our year 2000 in-house compliance.
+
+ Third-Party systems
+
+   We rely upon operational and accounting systems provided by third
+
+  parties, primarily the managers of our hotels, to provide the appropriate
+
+  property-specific operating systems, including reservation, phone,
+
+  elevator, security, HVAC and other systems, and to provide us with
+
+  financial information. We will continue to monitor the efforts of these
+
+  third parties to become year 2000 compliant and will take appropriate steps
+
+  to address any non-compliance issues.
+
+ Risks
+
+   We believe that future costs associated with year 2000 issues for its in-
+
+  house systems will be insignificant and therefore not impact our business,
+
+  financial condition and results of operations. However, the actual effect
+
+  that year 2000 issues will have on our business will depend significantly
+
+  on whether other companies and governmental entities properly and timely
+
+  address year 2000 issues and whether broad-based or systemic failures
+
+  occur. We cannot predict the severity or duration of any such failures,
+
+  which could include disruptions in passenger transportation or
+
+  transportation systems generally, loss of utility and/or telecommunications
+
+  services, the loss or disruption of hotel reservations made on centralized
+
+  reservation systems and errors or failures in financial transactions or
+
+  payment processing systems such as credit cards.
+
+                    8
+
+   Moreover, we are dependent upon Crestline to interface with third parties
+
+  in addressing year 2000 issues at our hotels leased to its subsidiaries.
+
+  Due to the general uncertainty inherent with respect to year 2000 issues
+
+  and our dependence on third parties, including Crestline, we are unable to
+
+  determine at this time whether the consequences of year 2000 failures will
+
+  have a material impact on us. Although our joint year 2000 compliance
+
+  program with Crestline is expected to significantly reduce uncertainties
+
+  arising out of year 2000 issues and the possibility of significant
+
+  interruptions of normal operations, we cannot assure you that this will be
+
+  the case.
+
+Environmental problems are possible and can be costly
+
+ We believe that our properties are in compliance in all material respects
+
+with applicable environmental laws. Unidentified environmental liabilities
+
+could arise, however, and could have a material adverse effect on our
+
+financial condition and performance. Federal, state and local laws and
+
+regulations relating to the protection of the environment may require a
+
+current or previous owner or operator of real estate to investigate and clean
+
+up hazardous or toxic substances or petroleum product releases at such
+
+property. The owner or operator may have to pay a governmental entity or third
+
+parties for property damage and for investigation and clean-up costs incurred
+
+by such parties in connection with the contamination. These laws typically
+
+impose clean-up responsibility and liability without regard to whether the
+
+owner or operator knew of or caused the presence of the contaminants. Even if
+
+more than one person may have been responsible for the contamination, each
+
+person covered by the environmental laws may be held responsible for all of
+
+the clean-up costs incurred. In addition, third parties may sue the owner or
+
+operator of a site for damages and costs resulting from environmental
+
+contamination emanating from that site. Environmental laws also govern the
+
+presence, maintenance and removal of asbestos. These laws require that owners
+
+or operators of buildings containing asbestos properly manage and maintain the
+
+asbestos, that they notify and train those who may come into contact with
+
+asbestos and that they undertake special precautions, including removal or
+
+other abatement, if asbestos would be disturbed during renovation or
+
+demolition of a building. These laws may impose fines and penalties on
+
+building owners or operators who fail to comply with these requirements and
+
+may allow third parties to seek recovery from owners or operators for personal
+
+injury associated with exposure to asbestos fibers.
+
+Compliance with other government regulations can also be costly.
+
+ Our hotels are subject to various forms of regulation, including Title III
+
+of the Americans with Disabilities Act, building codes and regulations
+
+pertaining to fire safety. Compliance with such laws and regulations could
+
+require substantial capital expenditures. We do not believe, however, that
+
+substantial non-budgeted capital expenditures will be required with respect to
+
+our existing hotels based on existing laws and regulations. Such regulations
+
+may be changed from time to time, or new regulations adopted, resulting in
+
+additional or unexpected costs of compliance. Any such increased costs could
+
+reduce the cash available for servicing of debt and distributions to
+
+stockholders.
+
+We intend to qualify as a REIT, but we cannot guarantee that we will qualify
+
+ We intend to operate to qualify as a REIT for tax purposes beginning in
+
+1999. If we qualify as a REIT, we generally will not be taxed on income that
+
+we distribute to our stockholders so long as we distribute currently at least
+
+95% of our net taxable income, excluding net capital gain. We cannot
+
+guarantee, however, that we will qualify as a REIT in 1999 or in any future
+
+year. Many of the REIT requirements are highly technical and complex. The
+
+determination that we are a REIT requires an analysis of various factual
+
+matters and circumstances that may not be totally within our control. For
+
+example, to qualify as a REIT, at least 95% of our gross income must be income
+
+specified in the REIT tax laws, such as "rents from real property." We are
+
+also required to distribute to shareholders at least 95% of our REIT taxable
+
+income, excluding capital gains. The fact that we hold our assets through the
+
+operating partnership and its subsidiaries further complicates the application
+
+of the REIT requirements. Even a technical or inadvertent mistake could
+
+jeopardize our REIT status. Furthermore, Congress and the IRS might make
+
+changes to the tax laws and regulations, and the courts might issue new
+
+rulings that make it more difficult, or impossible, for us to remain qualified
+
+as a REIT. In addition, it is possible that
+
+                    9
+
+even if we do qualify as a REIT, new tax rules will change the way we are
+
+taxed. If we fail to qualify as a REIT, we will be subject to federal income
+
+tax at regular corporate rates. In this event, we may cause the operating
+
+partnership to distribute adequate amounts to us and its other unitholders to
+
+permit us to pay our tax liabilities and our ability to raise additional
+
+capital could be impaired. This would significantly reduce the cash we would
+
+have available to service debt. Furthermore, our failure to qualify as a REIT
+
+could create a default under some of our debt instruments, including our
+
+credit facility. If we fail to qualify as a REIT, then unless certain specific
+
+statutory provisions apply, we will be disqualified from treatment as a REIT
+
+for the next four taxable years.
+
+If the operating partnership is treated as a corporation, we will fail to
+
+qualify as a REIT
+
+ The operating partnership intends to qualify as a partnership for federal
+
+income tax purposes. However, it will be treated as a corporation, instead of
+
+a partnership, for federal income tax purposes if it is a "publicly traded
+
+partnership" unless at least 90% of its income is qualifying income as defined
+
+in the tax code. The income requirements applicable to REITs and the
+
+definition of qualifying income for purposes of this 90% test are similar in
+
+most, but not all, respects. Qualifying income for the 90% test generally
+
+includes passive income, such as specified types of real property rents,
+
+dividends and interest. However, real property rent will not be qualifying
+
+income if the operating partnership or one or more actual or constructive
+
+owners of 5% of the operating partnership actually or constructively own 10%
+
+or more of the tenant. The partnership agreement of the operating partnership
+
+contains ownership restrictions intended to prevent the disqualification of
+
+income based on these ownership restrictions. We believe that it will meet
+
+this qualifying income test, but we cannot guarantee that it will. If it were
+
+to be taxed as a corporation, it would incur substantial tax liabilities, we
+
+would fail to qualify as a REIT for tax purposes, we may require it to
+
+distribute adequate amounts to us to permit us to pay our tax liabilities, and
+
+our and its ability to raise additional capital could be impaired.
+
+The operating partnership may need to borrow money or issue additional equity
+
+in order for us to qualify as a REIT
+
+ A REIT must distribute to its shareholders at least 95% of its net taxable
+
+income, excluding any net capital gain. The source of the distributions we
+
+make to our stockholders will be money distributed to us by the operating
+
+partnership. We intend to meet this 95% requirement, but there are a number of
+
+reasons why the operating partnership's cash flow alone may be insufficient
+
+for us to meet this requirement. First, as a result of some of the
+
+transactions of certain of our predecessor entities, the operating partnership
+
+and its subsidiaries, we expect to recognize large amounts of taxable income
+
+in future years for which the operating partnership will have no corresponding
+
+cash flow or earnings before interest, taxes, depreciation and other non cash
+
+items which is referred to as EBITDA. This type of income is often referred to
+
+as "phantom income." Second, in order to qualify as a REIT in 1999, we need to
+
+distribute to our stockholders, prior to the end of 1999, all of the "earnings
+
+and profits" that accumulated prior to 1999. If we do not meet this
+
+requirement by virtue of the distributions declared in connection with the
+
+REIT Conversion, we will be required to make further distributions prior to
+
+the end of 1999. The operating partnership may not have cash flow that
+
+corresponds to these distributions. Third, the seasonality of the hospitality
+
+industry could cause a further mismatch of our income and cash flow.
+
+ In addition, even if a REIT meets the 95% requirement, it may still be
+
+subject to a 4% nondeductible excise tax. This excise tax applies to the
+
+amount by which certain of the REIT's distributions in a given calendar year
+
+are less than the sum of 85% of its ordinary income, 95% of its capital gain
+
+net income and any undistributed taxable income from prior years. We intend to
+
+make distributions to our stockholders so that we will not be subject to this
+
+excise tax, but for the reasons described above, the operating partnership's
+
+cash flow alone may be insufficient for it to distribute to us the funds we
+
+will need.
+
+ The operating partnership's partnership agreement requires it to distribute
+
+enough cash to us for us to meet the 95% distribution requirement and avoid
+
+the 4% excise tax, and the operating partnership has to make proportionate
+
+distributions to its other equityholders. If its cash flow alone is
+
+insufficient for it to distribute to us the money we need to meet the 95%
+
+distribution requirement or to avoid the 4% excise tax, it may need to issue
+
+additional equity or borrow money. We cannot guarantee that these sources of
+
+funds will be available to it on favorable terms or even at all. Any problems
+
+the operating partnership has in borrowing money could be
+
+                   10
+
+exacerbated by two factors. First, it will need to distribute most if not all
+
+of our earnings to us and other holders of its partnership units. Therefore,
+
+it will be unable to retain these earnings. Accordingly, it generally will
+
+need to refinance its maturing debt with additional debt or equity and rely on
+
+third-party sources to fund future capital needs. Second, its borrowing needs
+
+will be increased if we are required to pay taxes or liabilities attributable
+
+to prior years. If the operating partnership is unable to raise the money
+
+necessary to permit us to meet the 95% distribution requirement, we will fail
+
+to qualify as a REIT. If the operating partnership is able to raise the money,
+
+but only on unfavorable terms, then our financial performance may be damaged.
+
+We are required to distribute all of our prior earnings and profits, but we
+
+cannot guarantee that we will be able to do so
+
+ In order to qualify as a REIT for 1999, we are required to distribute to our
+
+stockholders, prior to the end of 1999, all of our earnings and profits that
+
+we accumulated prior to 1999. We believe that we will meet this requirement.
+
+However, it is very hard to determine the exact level of our pre-1999 earnings
+
+and profits because the determination depends on an extremely large number of
+
+factors. The complexity of the determination is compounded by the fact that we
+
+started accumulating earnings and profits in 1929. Also, it is difficult to
+
+value our distributions which have not been cash, such as the distribution of
+
+Crestline common stock we made in December 1998. Therefore, we cannot
+
+guarantee that we will meet this requirement. If we do not meet this
+
+requirement, then we will not qualify as a REIT at least for 1999.
+
+We will qualify as a REIT only if the rent from the leases meets a number of
+
+tests, but we cannot guarantee that it will
+
+ A REIT's income must meet certain tests relating to its source. If the
+
+income meets the tests, it is called "good income." Almost all of our income
+
+will be rent from the hotel leases. This rent will be good income only if the
+
+leases are respected as true leases for federal income tax purposes. If the
+
+leases are treated as service contracts, joint ventures or some other type of
+
+arrangement, then this rent will not be good income and we will fail to
+
+qualify as a REIT.
+
+ In addition, the rent from any particular hotel lease will be good income
+
+only if we own less than 10% of the lessee of the hotel. For purposes of this
+
+test, we are treated as owning both any interests that we hold directly and
+
+the interests owned by a person who owns more than 10% of our stock. In
+
+determining who owns more than 10% of our stock, a person may be treated as
+
+owning the stock of another person who is either a relative or has common
+
+financial interests. We will not directly own more than 10% of any of the
+
+lessees. In addition, we intend to enforce the ownership limit in our charter,
+
+which restricts the amount of our capital stock that any person can own. If
+
+the ownership limit is effective, then no person will ever own more than 10%
+
+of our capital stock and we should never own more than 10% of the lessees.
+
+However, we cannot guarantee that the ownership limit will be effective. If
+
+the ownership limit is not effective, our ownership in the lessees may exceed
+
+the 10% limit. As a result, the rent from our leases would not be good income
+
+and we would fail to qualify as a REIT.
+
+ Furthermore, rent from any particular hotel lease will be good income only
+
+if no portion of the rent is based on the income or profits of the lessee of
+
+the hotel. The rent, however, can be based on the gross revenues of the
+
+lessees, unless the arrangement does not conform to normal business practice
+
+or is being used as a device to base rent on the income or profits of the
+
+lessees. The rent from the current leases, other than the Harbor Beach Resort
+
+lease, is based on the gross revenues of the lessees. We believe that the
+
+leases conform to normal business practice and, other than the Harbor Beach
+
+Resort lease, are not being used as a device to base rent on the income or
+
+profits of the lessees. We cannot guarantee that the IRS will agree with our
+
+position. If rent from leases in addition to the Harbor Beach Resort lease is
+
+found to be based on the income or profits of the lessees, the rent would not
+
+be good income and we would fail to qualify as a REIT.
+
+Host Marriott will qualify as a REIT and, if we are a "publicly traded
+
+partnership," we would qualify as a partnership only if the personal property
+
+arrangements are respected by the IRS
+
+ Rent that is attributable to personal property is not good income under the
+
+REIT rules or the rules applicable to "publicly traded partnerships." Hotels
+
+contain significant personal property. Therefore, in order to protect our
+
+                   11
+
+ability to qualify as a REIT and the operating partnership's ability to
+
+qualify as a partnership, we sold an estimated $59 million of personal
+
+property associated with some of our hotels to the non-controlled
+
+subsidiaries. The non-controlled subsidiaries lease the personal property
+
+associated with each hotel directly to the lessee that is leasing the hotel.
+
+Under each personal property lease, the non-controlled subsidiary receives
+
+rent payments directly from the applicable lessee. We believe the amount of
+
+the rent represents the fair rental value of the personal property. If for any
+
+reason these lease arrangements are not respected by the IRS for federal
+
+income tax purposes and we were treated as the lessor, we would not qualify as
+
+a REIT and, if the operating partnership is considered a "publicly traded
+
+partnership," it likely would not qualify as a partnership.
+
+We will be subject to taxes even if we qualify as a REIT
+
+ Even if we qualify as a REIT, we will be subject to some federal, state and
+
+local taxes on our income and property. For example, we will have to pay tax
+
+on income that we do not distribute. We also will be liable for any tax that
+
+the IRS successfully asserts against our predecessors for corporate income
+
+taxes for years prior to 1999. Furthermore, we will derive income from the
+
+non-controlled subsidiaries and they will be subject to regular corporate
+
+taxes.
+
+ In addition, we and our subsidiaries contributed a large number of assets to
+
+the operating partnership with a value that was substantially greater than our
+
+tax basis in the assets. We refer to these assets as assets with "built-in
+
+gain." We will be subject to tax on the built-in gain if the operating
+
+partnership sells these assets prior to the end of 2008. We also have
+
+substantial deferred tax liabilities that we or one of the non-controlled
+
+subsidiaries will recognize, without the receipt by us of any corresponding
+
+cash. Even if the operating partnership does not sell the built-in gain assets
+
+prior to the end of 2008, there are a number of other transactions that likely
+
+would cause us to be subject to the tax on the built-in gain. In connection
+
+with this gain, neither we nor the operating partnership will receive any
+
+corresponding cash.
+
+Proposed legislation, if enacted, could require us to restructure our
+
+ownership of the non-controlled subsidiaries
+
+ The Clinton Administration's fiscal year 2000 budget proposal, announced
+
+February 1, 1999, includes a proposal that would limit a REIT's ability to own
+
+more than 10%, by vote or value, of the stock of another corporation.
+
+Currently, a REIT cannot own more than 10% of the outstanding voting
+
+securities of any one issuer. A REIT can, however, own more than 10% of the
+
+value of the stock of a corporation provided no more than 25% of the value of
+
+the REIT's assets consists of subsidiaries that conduct impermissible
+
+activities and that the stock of any one single corporation does not account
+
+for more than 5% of the total value of the REIT's assets. The budget proposal
+
+would allow a REIT to own all of the voting stock and value of a "taxable REIT
+
+subsidiary" provided all of a REIT's taxable subsidiaries do not represent
+
+more that 15% of the REIT's total assets. In addition, under the budget
+
+proposal, a "taxable REIT subsidiary" would not be entitled to deduct any
+
+interest on debt funded directly or indirectly by the REIT. The budget
+
+proposal, if enacted in its current form, may require that we restructure our
+
+ownership of the non-controlled subsidiaries because we currently own more
+
+than 10% of the value of the non-controlled subsidiaries. The budget proposal,
+
+if enacted in its current form, would be effective after the date of its
+
+enactment and would provide transition rules to allow corporations, like the
+
+non-controlled subsidiaries, to convert into "taxable REIT subsidiaries" tax-
+
+free. It is presently uncertain whether any proposal regarding REIT
+
+subsidiaries, including the budget proposal, will be enacted, or if enacted,
+
+what the terms of such proposal (including its effective date) will be.
+
+Items 1 & 2. Business and Properties
+
+ We are a self-managed and self-administered real estate investment trust, or
+
+"REIT," owning full service hotel properties. Through our subsidiaries, we
+
+currently own 125 hotels, representing approximately 58,000 rooms located
+
+throughout the United States and Canada. These hotels are generally operated
+
+under the Marriott, Ritz-Carlton, Four Seasons, Swissotel and Hyatt brand
+
+names, which are among the most respected and widely recognized brand names in
+
+the lodging industry. As described more fully below, our hotels are held by
+
+our
+
+                   12
+
+subsidiaries and leased by our subsidiaries to lessees, principally
+
+subsidiaries of Crestline Capital Corporation. The hotels are managed on
+
+behalf of the lessees by subsidiaries of Marriott International and other
+
+companies.
+
+ We were formed as a Maryland corporation in 1998, under the name HMC Merger
+
+Corporation, as a wholly owned subsidiary of Host Marriott Corporation, a
+
+Delaware corporation, in connection with Host Marriott's efforts to reorganize
+
+its business operations to qualify as a REIT for federal income tax purposes.
+
+As part of this reorganization, which we refer to as the REIT conversion, and
+
+which is described below in more detail, on December 29, 1998, we merged with
+
+Host Marriott and changed our name to Host Marriott Corporation. As a result,
+
+we have succeeded to the hotel ownership business formerly conducted by Host
+
+Marriott, which is described more fully below.
+
+The REIT conversion
+
+ During 1998, Host Marriott and its subsidiaries and affiliates consummated a
+
+series of transactions intended to enable us to qualify as a REIT for federal
+
+income tax purposes. As a result of these transactions the hotel ownership
+
+business formerly conducted by Host Marriott and its subsidiaries and other
+
+affiliates is conducted as an umbrella partnership REIT, or UPREIT through
+
+Host Marriott, L.P., a Delaware limited partnership in which we are the sole
+
+general partner, and its subsidiaries. In this Form 10-K, we refer to Host
+
+Marriott, L.P. as the operating partnership. We intend to elect to be treated
+
+as a REIT for federal income tax purposes effective January 1, 1999.
+
+ Certain of the transactions comprising the REIT conversion are described
+
+below.
+
+ Reorganization of lodging assets under the operating partnership. During
+
+1998, Host Marriott reorganized its hotel ownership assets and certain other
+
+assets so that they were owned by the operating partnership and its
+
+subsidiaries. In exchange for the hotel ownership business, Host Marriott
+
+received a number of units of limited partnership interests in the operating
+
+partnership (which we refer to as "OP Units") equal to the number of then-
+
+outstanding shares of Host Marriott common stock, and the operating
+
+partnership and its subsidiaries assumed substantially all of the liabilities
+
+of Host Marriott and its subsidiaries.
+
+ As a result of this reorganization, our merger with Host Marriott and
+
+related transactions as described below, we are the sole general partner in
+
+the operating partnership and hold approximately 78% of the outstanding OP
+
+Units. Our hotel ownership business is conducted by the operating partnership
+
+and its subsidiaries.
+
+ Host Marriott did not transfer to the operating partnership (and the
+
+operating partnership therefore does not own) certain other assets formerly
+
+held by Host Marriott and its subsidiaries (principally consisting of 31
+
+retirement communities and controlling interests in the entities that lease
+
+our hotels). Most of these assets are owned by Crestline, formerly a wholly
+
+owned subsidiary of Host Marriott. Crestline became a separate publicly traded
+
+company on December 29, 1998 as part of the shareholder distribution discussed
+
+below.
+
+ Acquisitions by the operating partnership. Prior to the REIT conversion,
+
+Host Marriott and several of its separate direct and indirect wholly owned
+
+subsidiaries were the sole general partners of eight publicly traded limited
+
+partnerships and four private partnerships in which Host Marriott or a
+
+subsidiary owned or held a controlling interest in 28 full-service hotels
+
+operating under the Marriott brand. The following table lists each of these
+
+partnerships and the hotel properties owned by it or in which it holds a
+
+controlling interest.
+
+                   13
+
+- ----
+
+(1) We owned or had a controlling interest in these partnerships prior to the
+
+  REIT conversion. These properties were previously consolidated by Host
+
+  Marriott.
+
+(2) We consolidated these properties through our investments including the
+
+  ownership of mortgage notes prior to the REIT conversion.
+
+(3) We acquired substantially all of the unaffiliated partnership interests
+
+  prior to the REIT conversion. These properties were previously
+
+  consolidated by Host Marriott.
+
+ In addition to the partnerships listed above, we own controlling interests
+
+in certain private partnerships which we had previously consolidated. Certain
+
+of the minority partners in these partnerships retain the right to exchange
+
+their interests in these partnerships for OP Units subject to certain
+
+conditions. We estimate that as many as approximately 7 million OP Units could
+
+be issued at various points in time in the event that all such minority
+
+partners were to elect to exchange their partnership interests.
+
+ As part of the REIT conversion, the operating partnership, directly and
+
+through its subsidiaries, acquired all of the publicly-traded partnerships and
+
+the four private partnerships identified on the table above in exchange for
+
+approximately 25 million OP Units. Approximately 8.5 million of these OP Units
+
+have been converted into shares of our common stock. Additionally, certain
+
+limited partners of the publicly-traded partnerships elected to exchange OP
+
+Units for approximately $3 million aggregate principal amount unsecured notes
+
+due December 15, 2005 issued by the operating partnership.
+
+ The operating partnership also acquired on December 30, 1998 from the
+
+Blackstone Group, a Delaware limited partnership, and a series of funds
+
+controlled by affiliates of Blackstone Real Estate Partners (together, the
+
+"Blackstone Entities"), ownership of or a controlling interest in 12 upscale
+
+and luxury full-service hotels in the U.S. and a mortgage loan secured by a
+
+thirteenth hotel and certain other assets. As part of the Blackstone
+
+acquisition, the operating partnership also acquired a 25% interest in the
+
+U.S. Swissotel management company
+
+                   14
+
+which was sold in turn to Crestline at book value. In exchange for these
+
+assets, the operating partnership issued to the Blackstone Entities
+
+approximately 43.9 million OP Units, which OP Units are redeemable for cash
+
+(or at our option, our common shares), assumed debt and made cash payments
+
+totaling approximately $920 million and distributed approximately 1.4 million
+
+shares of Crestline common stock and other consideration to the Blackstone
+
+Entities. The actual number of OP Units to be issued to the Blackstone
+
+Entities will fluctuate based upon certain adjustments to be determined at the
+
+close of business on March 31, 1999. Based on current stock prices, the
+
+operating partnership will be required to issue to the Blackstone Entities in
+
+April 1999 approximately 3.7 million additional OP Units pursuant to such
+
+adjustments. As a result of the consummation of the Blackstone Acquisition,
+
+after all the adjustments the Blackstone Entities will own approximately 16.4%
+
+of the outstanding OP Units. The Blackstone hotel portfolio consists of two
+
+Ritz-Carlton, two Four Seasons, one Grand Hyatt, three Hyatt Regency and four
+
+Swissotel properties. John G. Schreiber, co-chairman of Blackstone Real Estate
+
+Partners' investment committee, is a member of our Board of Directors.
+
+ Contribution of assets to non-controlled subsidiaries. In connection with
+
+the REIT conversion, two taxable corporations were formed in which the
+
+operating partnership owns approximately 95% of the economic interest but none
+
+of the voting interest-Rockledge Hotel Properties, Inc. and Fernwood Hotel
+
+Assets, Inc. (we refer to these two subsidiaries as the non-controlled
+
+subsidiaries). The non-controlled subsidiaries hold various assets which were
+
+originally contributed by Host Marriott and its subsidiaries to the operating
+
+partnership, the direct ownership of which by the operating partnership or its
+
+other subsidiaries would jeopardize our status as a REIT and the operating
+
+partnership's status as a partnership for federal income tax purposes. These
+
+assets primarily consist of interests in certain partnerships or other
+
+interests in hotels which are not leased, and certain furniture, fixtures and
+
+equipment (also known as FF&E) used in the hotels and certain international
+
+hotels. The operating partnership has no control over the operation or
+
+management of the hotels or other assets owned by the non-controlled
+
+subsidiaries. The Host Marriott Statutory Employee/Charitable Trust, the
+
+beneficiaries of which are a trust formed for the benefit of certain employees
+
+of the operating partnership and the J. Willard and Alice S. Marriott
+
+Foundation, acquired all of the voting common stock of each non-controlled
+
+subsidiary, representing, in each case, the remaining approximately 5% of the
+
+total economic interests in each non-controlled subsidiary.
+
+ Leases of hotels. Under current federal income tax law, a REIT cannot derive
+
+income from the operation of hotels but can derive rental income by leasing
+
+hotels. Therefore, as part of the REIT conversion the operating partnership
+
+and its subsidiaries have leased virtually all of their hotel properties to
+
+certain subsidiaries of Crestline. Generally, there is a separate lessee for
+
+each hotel property or there is a separate lessee for each group of hotel
+
+properties that has separate mortgage financing or has owners in addition to
+
+the operating partnership and its wholly owned subsidiaries. Each lessee is
+
+generally a limited liability company whose purpose is limited to acting as
+
+lessee under an applicable lease. The lessees under leases of hotels that are
+
+managed by subsidiaries of Marriott International are owned 100% by a wholly
+
+owned subsidiary of Crestline, although Marriott International or its
+
+appropriate subsidiary has a non-economic voting interest on certain matters.
+
+The LLC operating agreement or the limited partnership agreement, as
+
+applicable, for such lessees provides that the Crestline subsidiary or general
+
+partner of the lessee will have full control over the management of the
+
+business of the lessee, except with respect to certain decisions for which the
+
+consent of members or partners and the manager will be required.
+
+ The hotel management agreements to which Host Marriott or its subsidiaries
+
+were parties were assigned to the lessees for the term of the applicable
+
+leases. Although the lessees have primary liability under the management
+
+agreements while the leases are in effect, the operating partnership retains
+
+contingent liability under the management agreements for all obligations that
+
+the lessees do not perform. The operating partnership also remains primarily
+
+liable for certain obligations under the management agreements.
+
+ From time to time, legislation has been proposed that would have the effect
+
+of enabling a REIT to lease hotels to a wholly owned subsidiary corporation
+
+that could operate hotels directly, provided that the subsidiary contracts out
+
+the management functions to independent third parties. In the event that
+
+legislation is enacted that would have the effect of enabling the operating
+
+partnership to lease its hotels to a wholly owned subsidiary, then
+
+                   15
+
+Host Marriott, at its discretion, may elect to terminate the leases of its
+
+hotels with Crestline subsidiaries and pay certain termination fees.
+
+ The shareholder distributions. As part of the REIT conversion, Host Marriott
+
+made certain taxable distributions to its shareholders in which they received,
+
+for each share of common stock, (1) one-tenth of one share of common stock of
+
+Crestline and, (2) either $1 cash or 0.087 share of Host Marriott common stock
+
+at the election of the shareholder. The aggregate value of the Crestline
+
+common stock, the common stock and cash distributed to shareholders of Host
+
+Marriott was approximately $510 million.
+
+Operations as a REIT
+
+ We are the sole general partner of the operating partnership and manage all
+
+aspects of the business of the operating partnership. This includes decisions
+
+with respect to, sales and purchases of hotels, the financing of the hotels,
+
+the leasing of the hotels, and capital expenditures for the hotels (subject to
+
+the terms of the leases and the management agreements described below).
+
+ Under current federal income tax law, REITs are restricted in their ability
+
+to derive revenues directly from the operations of hotels. Therefore, the
+
+operating partnership and its subsidiaries lease virtually all of their hotels
+
+to certain entities we refer to as the "lessees." The lessees pay rent to the
+
+operating partnership and its subsidiaries generally equal to a specified
+
+minimum rent plus rent based on specified percentages of different categories
+
+of aggregate sales at the relevant hotels to the extent such "percentage rent"
+
+would exceed the minimum rent. The lessees operate the hotels pursuant to
+
+management agreements with the managers. Each of the management agreements
+
+provides for certain base and incentive management fees, plus reimbursement of
+
+certain costs, as further described below. Such fee and cost reimbursements
+
+are the primary obligation of the lessees and not the operating partnership or
+
+its subsidiaries (although operating partnership or its subsidiaries remain
+
+liable under the management agreements and the obligation of the lessees to
+
+pay such fees could adversely affect the ability of the lessees to pay the
+
+required rent to the operating partnership or its subsidiaries). A summary of
+
+the material terms of these leases and management agreements is provided
+
+below.
+
+ The leases, through the sales percentage rent provisions, are designed to
+
+allow the operating partnership and its subsidiaries to participate in any
+
+growth above specified levels in room sales at the hotels, which management
+
+expects can be achieved through increases in room rates and occupancy levels.
+
+Although the economic trends affecting the hotel industry will be the major
+
+factor in generating growth in lease revenues, the abilities of the lessees
+
+and the managers will also have a material impact on future sales growth.
+
+ In addition to external growth generated by new acquisitions, the operating
+
+partnership intends to carefully and periodically review its portfolio to
+
+identify opportunities to selectively enhance existing assets to improve
+
+operating performance through major capital improvements. The leases of the
+
+operating partnership and its subsidiaries provide the operating partnership
+
+and its subsidiaries with the right to approve and finance major capital
+
+improvements.
+
+Business Strategy
+
+ Our primary objective is to acquire upscale and luxury full service hotel
+
+lodging properties and achieve long-term sustainable growth in "Funds from
+
+Operations" (i.e., net income computed in accordance with generally accepted
+
+accounting principles, excluding gains or losses from debt restructuring and
+
+sales of properties, plus real estate related depreciation and amortization,
+
+and after adjustments for less than 100% owned partnerships and joint
+
+ventures) per common share and cash flow. Since the beginning of 1994 through
+
+the date hereof, we have grown our hotel portfolio, directly or through our
+
+respective subsidiaries, by 105 full-service hotels representing more than
+
+48,000 rooms for an aggregate purchase price of approximately $6.2 billion.
+
+Based upon data provided by Smith Travel Research, we believe that our full-
+
+service hotels outperform the industry's average occupancy rate by a
+
+significant margin. Our full-service hotels averaged 78.8% occupancy for 1998,
+
+for comparable properties, compared to a 71.1% average occupancy for our
+
+competitive set. Our competitive set
+
+                   16
+
+refers to hotels in the upscale and luxury full-service segment of the lodging
+
+industry, the segment which is most representative of our full-service hotels,
+
+and consists of Marriott Hotels, Resorts and Suites; Crowne Plaza; Doubletree;
+
+Hyatt; Hilton; Radisson; Red Lion; Sheraton; Westin; and Wyndham.
+
+ One commonly used indicator of market performance for hotels is REVPAR,
+
+which measures daily room revenues generated on a per room basis. This does
+
+not include food and beverage or other ancillary revenues generated by the
+
+property. REVPAR represents the product of the average daily room rate charged
+
+and the average daily occupancy achieved. The relatively high occupancy rates
+
+of our hotels, along with increased demand for full-service hotel rooms, have
+
+allowed the managers of our hotels to increase average daily room rates by
+
+selectively raising room rates and by replacing certain discounted group
+
+business with higher-rate group and transient business. As a result, on a
+
+comparable basis, REVPAR for our full-service properties increased
+
+approximately 7.3% and 12.6% in 1998 and 1997, respectively.
+
+ Although competition for acquisitions has increased, we believe that the
+
+upscale and luxury full-service segments of the market offer opportunities to
+
+acquire assets at attractive multiples of cash flow and at discounts to
+
+replacement value. We intend to increase our pool of potential acquisition
+
+candidates by considering acquisitions of select non-Marriott and non-Ritz-
+
+Carlton hotels that offer long-term growth potential and are consistent with
+
+the overall quality of our current portfolio. We will focus on upscale and
+
+luxury full-service properties in difficult to duplicate locations with high
+
+barriers to entry, such as hotels located in downtown, airport and
+
+resort/convention locations, which are operated by quality managers. We
+
+believe this ability to acquire hotel properties operated by a variety of
+
+quality managers under long-term contracts represents a strategic advantage
+
+over a number of competitors. For example, in December 1998, we consummated
+
+the Blackstone Acquisition for approximately $1.55 billion in a combination of
+
+OP Units, assumed debt, and other consideration.
+
+ In certain circumstances, we have improved the results of under-performing
+
+hotels by converting them to the Marriott brand. In general, based upon data
+
+provided by Smith Travel Research, we believe that the Marriott brand has
+
+consistently outperformed the industry. Demonstrating the strength of the
+
+Marriott brand name, our comparable properties generated a 26% REVPAR premium
+
+over our competitive set for 1998. Accordingly, management anticipates that
+
+any additional full-service properties acquired in the future and converted
+
+from other brands to the Marriott brand should achieve higher occupancy rates
+
+and average room rates than has previously been the case for those properties
+
+as the properties begin to benefit from Marriott's brand name recognition,
+
+reservation system and group sales organization. Of our 105 full-service
+
+hotels acquired from the beginning of 1994 through the date hereof, sixteen
+
+were converted to the Marriott brand following their acquisition although such
+
+opportunities have been more limited recently.
+
+ We also plan to selectively develop new upscale and luxury full-service
+
+hotels in major urban markets and convention/resort locations with strong
+
+growth prospects, unique or difficult to duplicate sites, high barriers to
+
+entry for other new hotels and limited new supply. We intend to target only
+
+development projects that show promise of providing financial returns that
+
+represent a premium to acquisitions. In 1997, Host Marriott announced that it
+
+would develop the 717-room Tampa Convention Center Marriott for $104 million,
+
+including a $16 million subsidy provided by the City of Tampa.
+
+ We believe we are well qualified to pursue our acquisition and development
+
+strategy. Management has extensive experience in acquiring and financing
+
+lodging properties and believes its industry knowledge, relationships and
+
+access to market information provide a competitive advantage with respect to
+
+identifying, evaluating and acquiring hotel assets.
+
+Recent Acquisitions, Dispositions and Developments
+
+ In January 1998, one of our subsidiaries acquired an additional interest in
+
+Atlanta Marquis, which owns an interest in the 1,671-room Atlanta Marriott
+
+Marquis Hotel, for approximately $239 million, including the assumption of
+
+approximately $164 million of mortgage debt. It previously owned a 1.3%
+
+general and limited partnership interest. As noted above, the remaining
+
+limited partner interests in Atlanta Marquis were acquired as part of the REIT
+
+conversion.
+
+                   17
+
+ In March 1998, one of our subsidiaries acquired a controlling interest in
+
+the partnership that owns three hotels: the 359-room Albany Marriott, the 350-
+
+room San Diego Marriott Mission Valley and the 320-room Minneapolis Marriott
+
+Southwest for approximately $50 million. In the second quarter of 1998, one of
+
+our subsidiaries acquired the partnership that owns the 289-room Park Ridge
+
+Marriott in Park Ridge, New Jersey for $24 million. It previously owned a 1%
+
+managing general partner interest and a note receivable interest in such
+
+partnership. In addition, our subsidiary acquired the 281-room Ritz-Carlton,
+
+Phoenix for $75 million, the 397-room Ritz-Carlton, Tysons Corner in Virginia
+
+for $96 million and the 487-room Torrance Marriott near Los Angeles,
+
+California for $52 million. In the third quarter of 1998, Host Marriott
+
+acquired the 308-room Ritz-Carlton, Dearborn for approximately $65 million; a
+
+subsidiary of Host Marriott also acquired the 336-room Ritz-Carlton, San
+
+Francisco for approximately $161 million, and Host Marriott acquired the 404-
+
+room Memphis Crowne Plaza (which was converted to the Marriott brand upon
+
+acquisition) for approximately $16 million. These assets are currently held by
+
+the operating partnership and its subsidiaries.
+
+ As noted above, in December 1998, we completed acquisitions of eight public
+
+partnerships and interests in four private partnerships which own or control
+
+28 properties and we consummated the Blackstone Acquisition. The Blackstone
+
+hotel portfolio is one of the premier collections of hotel real estate
+
+properties which includes: the 449-room Ritz-Carlton, Amelia Island; the 275-
+
+room Ritz-Carlton, Boston; the 793-room Hyatt Regency Burlingame at San
+
+Francisco Airport; the 469-room Hyatt Regency Cambridge, Boston; the 514-room
+
+Hyatt Regency Reston, Virginia; the 439-room Grand Hyatt Atlanta; the 365-room
+
+Four Seasons Philadelphia; the 246-room Four Seasons Atlanta; the 494-room
+
+Drake (Swissotel) New York; the 630-room Swissotel Chicago; the 498-room
+
+Swissotel Boston and the 348-room Swissotel Atlanta. Additionally, the
+
+transaction included: a $65.6 million first mortgage loan on the 285-room Four
+
+Seasons Beverly Hills; two office buildings in Atlanta-the offices at The
+
+Grand (97,879 sq. ft.) and the offices at the Swissotel (67,110 sq. ft.); and
+
+a 25% interest in the Swissotel U.S. management company (which was transferred
+
+to Crestline).
+
+ During 1997, we or our subsidiaries acquired, or purchased controlling
+
+interests in, 17 full-service hotels, containing 8,624 rooms, for an aggregate
+
+purchase price of approximately $765 million (including the assumption of
+
+approximately $418 million of debt). Our subsidiaries also completed the
+
+acquisition of the 504-room New York Marriott Financial Center following the
+
+acquisition of the mortgage on the hotel for $101 million in late 1996.
+
+ In 1997, we or our subsidiaries acquired, or obtained controlling interests
+
+in, five affiliated partnerships, adding 10 hotels to our portfolio. In
+
+January 1997, a subsidiary of Host Marriott acquired a controlling interest in
+
+MHP. MHP owns the 1,503-room Marriott Orlando World Center and a 50.5%
+
+interest in the 624-room Marriott Harbor Beach Resort. In April, a subsidiary
+
+of Host Marriott acquired a controlling interest in the 353-room Hanover
+
+Marriott. In the fourth quarter, a subsidiary of Host Marriott acquired the
+
+Chesapeake Hotel Limited Partnership. This partnership owns the 430-room
+
+Boston Marriott Newton; the 681-room Chicago Marriott O'Hare; the 595-room
+
+Denver Marriott Southeast; the 588-room Key Bridge Marriott in Virginia; the
+
+479-room Minneapolis Airport Marriott in Minnesota; and the 221-room Saddle
+
+Brook Marriott in New Jersey. In December 1997, a subsidiary obtained a
+
+controlling interest in the partnership that owns the 884-room Marriott's
+
+Desert Springs Resort and Spa in California and acquired the remaining
+
+interests in December 1998 as part of the REIT conversion.
+
+ In addition to investments in partnerships in which we already held minority
+
+interests, we have been successful in adding properties to our portfolio
+
+through partnership arrangements with either the seller of the property or the
+
+incoming managers (typically Marriott International or a Marriott franchisee).
+
+We have the financial flexibility and, due to our existing private partnership
+
+investment portfolio, the administrative infrastructure in place to
+
+accommodate such arrangements. We view this ability as a competitive advantage
+
+and expect to enter into similar arrangements to acquire additional properties
+
+in the future.
+
+ Through subsidiaries, we currently own four Canadian properties, with 1,636
+
+rooms, and will continue to evaluate other attractive acquisition
+
+opportunities in Canada. In addition, the overbuilding and economic stress
+
+currently being experienced in some European and Pacific Rim countries may
+
+eventually lead to additional
+
+                   18
+
+international acquisition opportunities. We will acquire international
+
+properties only when such acquisitions achieve satisfactory returns after
+
+adjustments for currency and country risks and tax consequences.
+
+ We may also expand certain existing hotel properties where strong
+
+performance and market demand exists. Expansions to existing properties create
+
+a lower risk to us as the success of the market is generally known and
+
+development time is significantly shorter than new construction. We recently
+
+began construction on a 500-room expansion and an additional 15,000 square
+
+feet of meeting space to the 1,503-room Marriott Orlando World Center, which
+
+is due to be completed in early 2000. In July 1998, a subsidiary purchased a
+
+13-acre parcel of land for the development of a 295-room Ritz-Carlton that
+
+will serve as an extension of the 463-room Ritz-Carlton, Naples, which was
+
+purchased in September 1996. The existing hotel just completed room,
+
+restaurant and public space refurbishment and is in the process of adding a
+
+world-class spa. In addition, a subsidiary of one of the non-controlled
+
+subsidiaries has entered into a joint venture through which it owns 49% of the
+
+surrounding newly developed 27-hole world-class Greg Norman designed golf
+
+course development. The golf course joint venture was transferred to a non-
+
+controlled subsidiary in connection with the REIT conversion. The total
+
+investment by the operating partnership in expansions and improvements of the
+
+Ritz-Carlton, Naples property is expected to be approximately $97 million.
+
+ In February 1999, we sold the Minneapolis/Bloomington Marriott for $35
+
+million and recorded a gain on the sale of approximately $13 million. We also
+
+may selectively dispose of other hotel assets where we believe we can earn
+
+higher returns on our invested capital.
+
+Hotel Lodging Industry
+
+ The lodging industry posted strong gains in 1998 as higher average daily
+
+rates drove increases in revenue per available room, or REVPAR. Over the last
+
+five years, the lodging industry has benefited from a favorable supply/demand
+
+imbalance, driven in part by low construction levels in our submarkets
+
+combined with high gross domestic product (GDP) growth. Recently, however,
+
+supply has begun to moderately outpace demand, causing slight declines in
+
+occupancy rates in the upscale and luxury full-service segments in which we
+
+operate. According to Smith Travel Research, supply in our competitive set
+
+increased 1.2% for the year ended December 31, 1998 versus the same period one
+
+year ago while demand in our competitive set decreased 0.3% for the same
+
+period. At the same time, occupancy declined 1.5% in our competitive set for
+
+the year ended December 31, 1998 versus the same period one year ago.
+
+ These declines in occupancy, however, were more than offset by increases in
+
+average daily rates which generated higher REVPAR. According to Smith Travel
+
+Research, for the year ended December 31, 1998, average daily rate and REVPAR
+
+for our competitive set increased 6.5% and 5.0%, respectively, versus the same
+
+period one year ago. The current amount of excess supply in the lodging
+
+industry is relatively moderate and much less severe than that experienced in
+
+the lodging industry beginning in 1989, in part because of the greater
+
+financial discipline and lending practices imposed by financial institutions
+
+and public markets today relative to those during the late 1980's.
+
+ Within the upscale and luxury full-service segment, our hotels have
+
+outperformed the overall sector. The attractive locations of our hotels, the
+
+limited availability of new building sites for new construction of competing
+
+full-service hotels, and the lack of availability of financing for new full-
+
+service hotels has allowed us to maintain REVPAR and average daily rate
+
+premiums over our competitors in these service segments. On a comparable
+
+basis, average daily rates for our full service hotels increased 6.9% during
+
+1998 compared with 1997. The increase in average daily rate helped generate a
+
+strong increase in comparable hotel REVPAR of 7.3% for the same period.
+
+Furthermore, because our lodging operations have a high fixed-cost component,
+
+increases in REVPAR generally yield greater percentage increases in EBITDA.
+
+While we do not benefit directly from increases in EBITDA levels at our
+
+properties due to the structure of our leases, we should benefit from such
+
+increases due to expected higher market valuations of our properties based on
+
+such elevated EBITDA levels.
+
+                   19
+
+ We believe that the current environment of excess supply will most likely
+
+continue over the next twelve to eighteen months, although any excess supply
+
+is expected to be moderate given the fact that demand is expected to grow at
+
+the same 1% to 2% rate as projected GDP and new construction has been limited
+
+by capital constraints. Given the relatively long lead time to develop urban,
+
+convention and resort hotels, we believe that growth in room supply in upscale
+
+and luxury full-service sub-markets in which we operate will remain moderate
+
+through the year 2000. However, there can be no assurance that growth in
+
+supply will remain moderate or that REVPAR and EBITDA will continue to
+
+improve.
+
+Hotel Lodging Properties
+
+ Our lodging portfolio currently consists of 125 upscale and luxury full
+
+service hotels with approximately 58,000 rooms. Our hotel lodging properties
+
+represent quality assets in the upscale and luxury full-service lodging
+
+segments. All but thirteen of our hotel properties are currently operated
+
+under the Marriott or Ritz-Carlton brand names.
+
+ To maintain the overall quality of our lodging properties, each property
+
+undergoes refurbishments and capital improvements on a regularly scheduled
+
+basis. Typically, refurbishing has been provided at intervals of five years,
+
+based on an annual review of the condition of each property. For the fiscal
+
+years 1998, 1997 and 1996, we spent $165 million, $129 million and $87
+
+million, respectively, on capital improvements to existing properties. As a
+
+result of these expenditures, we will be able to maintain high quality rooms
+
+at our properties.
+
+ Our hotels average nearly 465 rooms. Thirteen of our hotels have more than
+
+750 rooms. Hotel facilities typically include meeting and banquet facilities,
+
+a variety of restaurants and lounges, swimming pools, gift shops and parking
+
+facilities. Our hotels primarily serve business and pleasure travelers and
+
+group meetings at locations in downtown and suburban areas, near airports and
+
+at resort convention locations throughout the United States. The properties
+
+are generally well situated in locations where there are significant barriers
+
+to entry by competitors including downtown areas of major metropolitan cities
+
+at airports and resort/convention locations where there are limited or no
+
+development sites. Marriott International serves as the manager for 99 of our
+
+125 hotels and all but 13 are part of Marriott International's full-service
+
+hotel system. The Marriott brand name has consistently delivered occupancy and
+
+REVPAR premiums over other brands. Based upon data provided by Smith Travel
+
+Research, our comparable properties have an eight percentage point occupancy
+
+premium and a 26% REVPAR premium over the competitive set for 1998.
+
+ The average age of our properties is sixteen years, although several of the
+
+properties have had substantial, more recent renovations or major additions.
+
+In 1998, a subsidiary substantially completed a two-year $25 million dollar
+
+capital improvement program at the New Orleans Marriott which included
+
+renovations to all guest rooms, refurbishment of ballrooms and restaurant
+
+updates. In early 1998, a subsidiary of Host Marriott completed a $15 million
+
+capital improvement program at the Denver Marriott Tech Center. The program
+
+included replacement of guestroom interiors, remodeling of the lobby,
+
+ballroom, meeting rooms and corridors, as well as renovations to the exterior
+
+of the building.
+
+ A number of our full-service hotel acquisitions such as the Memphis Marriott
+
+which was acquired in 1998 were converted to the Marriott brand upon
+
+acquisition. The conversion of these properties to the Marriott brand is
+
+intended to increase occupancy and room rates as a result of Marriott
+
+International's nationwide marketing and reservation systems, its Marriott
+
+Rewards program, group sales force, as well as customer recognition of the
+
+Marriott brand name. The invested capital with respect to these properties is
+
+primarily used for the improvement of common areas, as well as upgrading soft
+
+and hard goods (i.e., carpets, drapes, paint, furniture and additional
+
+amenities). The conversion process typically causes periods of disruption to
+
+these properties as selected rooms and common areas are temporarily taken out
+
+of service. Historically, the conversion properties have shown improvements as
+
+the benefits of Marriott International's marketing and reservation programs,
+
+group sales force and customer service initiatives take hold. In addition,
+
+these properties have generally been integrated into Marriott International's
+
+systems covering purchasing and distribution, insurance, telecommunications
+
+and payroll processing.
+
+                   20
+
+ The chart below sets forth performance information for our comparable
+
+hotels:
+
+- ----
+
+(1) Consists of the 78 properties owned directly or indirectly by us for the
+
+  entire 1998 and 1997 fiscal years, respectively. These properties, for the
+
+  respective periods, represent the "comparable properties". Properties held
+
+  for less than all of the periods discussed above, respectively, are not
+
+  considered comparable.
+
+ The chart below sets forth certain performance information for our hotels:
+
+- ----
+
+(1) Number of properties and rooms as of December 31, 1998 and includes 25
+
+  properties (9,965 rooms) acquired in the public partnerships merger and
+
+  the Blackstone Acquisition.
+
+ The following table presents full service hotel information by geographic
+
+region for 1998:
+
+- ----
+
+(1) The operating results of the 25 properties acquired through the Blackstone
+
+  Acquisition and the merger of the public partnerships are not included.
+
+ During 1995 and 1996, we divested virtually all of our limited-service hotel
+
+properties through the sale and leaseback of 53 Courtyard properties and 18
+
+Residence Inn properties. During 1998, limited-service properties represented
+
+less than 2% of our EBITDA from hotel properties and we expect this percentage
+
+to continue to decrease as we continue to acquire full service properties.
+
+These 71 properties that we lease continue to be reflected in our revenues.
+
+The Courtyard and Residence Inn properties are subleased to subsidiaries of
+
+Crestline under sublease agreements and are managed by Marriott International
+
+under long-term management agreements. The owners of the 71 limited-services
+
+properties that we lease have not yet consented to the subleases but have
+
+agreed to waive any defaults under the related leases until April 23, 1999, to
+
+provide us with additional time to obtain such consents (which could require
+
+modifications in the terms of the sublease and structural or other changes
+
+related thereto). If such consents are not obtained, we may be required to
+
+terminate the subleases and
+
+                   21
+
+contribute to a non-controlled subsidiary our equity interests in the
+
+subsidiaries leasing the properties. This change would have the effect of
+
+reducing our revenues by $297 million and $282 million for 1998 and 1997,
+
+respectively, and increasing our net income by approximately $5 million and $4
+
+million for 1998 and 1997, respectively.
+
+ The following table sets forth as of March 1, 1999, the location and number
+
+of rooms relating to each of our 125 hotels. All of the properties are leased
+
+to a subsidiary of Crestline and operated under Marriott brands by Marriott
+
+International, unless otherwise indicated.
+
+                   22
+
+- ----
+
+(1) This property was converted to the Marriott brand after acquisition.
+
+(2) The land on which this hotel is built is leased under one or more long-
+
+  term lease agreements.
+
+(3) This property is not operated under the Marriott brand and is not managed
+
+  by Marriott International.
+
+(4) This property is operated as a Marriott franchised property.
+
+(5) This property is leased to Marriott International.
+
+(6) This property is not wholly owned by the operating partnership.
+
+(7) This property is not leased to Crestline.
+
+Investments in Affiliated Partnerships
+
+ The operating partnership and certain of its subsidiaries also manage our
+
+partnership investments and conduct the partnership services business. As
+
+previously discussed, in connection with the REIT conversion, the non-
+
+controlled subsidiaries were formed to hold various assets. The direct
+
+ownership of those assets by us or the operating partnership could jeopardize
+
+our status as a REIT or the operating partnership's treatment as a partnership
+
+for federal income tax purposes. Substantially all our general and limited
+
+partner interests in partnerships owning 220 limited-service hotels were held
+
+by the non-controlled subsidiaries at year end. Additionally, of the 20 full-
+
+service hotels in which we had general and limited partner interests 13 were
+
+acquired by the operating partnership, two were sold, four were transferred to
+
+the non-controlled subsidiary and one was retained.
+
+ The managing general partner of the partnership retained is responsible for
+
+the day-to-day management of the partnership operations, which generally
+
+includes payment of partnership obligations from partnership funds,
+
+preparation of financial reports and tax returns and communications with
+
+lenders, limited partners and regulatory bodies. As the general partner, we
+
+are reimbursed for the cost of providing these services subject to limitations
+
+in certain cases.
+
+ The partnership hotel is currently operated under a management agreement
+
+with Marriott International or its subsidiaries. As the general partner, we
+
+oversee and monitor Marriott International and its subsidiaries' performance
+
+pursuant to these agreements.
+
+                   23
+
+ Cash distributions provided from these partnerships including distributions
+
+related to partnerships sold, transferred or acquired in 1998 are tied to the
+
+overall performance of the underlying properties and the overall level of
+
+debt. Distributions from these partnerships to us were $2 million in 1998 and
+
+$5 million in each of 1997 and 1996. All debt of these partnerships is
+
+nonrecourse to us and our subsidiaries, except that we are contingently liable
+
+under various guarantees of debt obligations of certain of the limited-service
+
+partnerships.
+
+Marketing
+
+ As of March 1, 1999, 99 of our 125 hotel properties were managed by Marriott
+
+International as Marriott or Ritz-Carlton brand hotels. Thirteen of the 26
+
+remaining hotels are operated as Marriott brand hotels under franchise
+
+agreements with Marriott International. We believe that these Marriott-managed
+
+and franchised properties will continue to enjoy competitive advantages
+
+arising from their participation in the Marriott International hotel system.
+
+Marriott International's nationwide marketing programs and reservation systems
+
+as well as the advantage of the strong customer preference for Marriott brands
+
+should also help these properties to maintain or increase their premium over
+
+competitors in both occupancy and room rates. Repeat guest business in the
+
+Marriott hotel system is enhanced by the Marriott Rewards program, which
+
+expanded the previous Marriott Honored Guest Awards program. Marriott Rewards
+
+membership includes more than 7.5 million members.
+
+ The Marriott reservation system provides Marriott reservation agents
+
+complete descriptions of the rooms available for sale and up-to-date rate
+
+information from the properties. The reservation system also features
+
+connectivity to airline reservation systems, providing travel agents with
+
+access to available rooms inventory for all Marriott and Ritz-Carlton lodging
+
+properties. In addition, software at Marriott's centralized reservations
+
+centers enables agents to immediately identify the nearest Marriott or Ritz-
+
+Carlton brand property with available rooms when a caller's first choice is
+
+fully occupied. Our website (www.hostmarriott.com) currently permits users to
+
+connect to the Marriott reservation system to reserve rooms in its hotels.
+
+Competition
+
+ Our hotels compete with several other major lodging brands in each segment
+
+in which they operate. Competition in the industry is based primarily on the
+
+level of service, quality of accommodations, convenience of locations and room
+
+rates. Although the competitive position of each of our hotel properties
+
+differs from market to market, we believe that our properties compare
+
+favorably to their competitive set in the markets in which they operate on the
+
+basis of these factors. The following table presents key participants in
+
+segments of the lodging industry in which we compete:
+
+Other Real Estate Investments
+
+ We have lease and sublease activity relating primarily to Host Marriott's
+
+former restaurant operations. Additionally, as part of the Blackstone
+
+Acquisition, we acquired 165,000 square feet of office space in two buildings
+
+in Atlanta. Prior to the REIT conversion, we owned 12 undeveloped parcels of
+
+vacant land, totaling approximately 83 acres, originally purchased primarily
+
+for the development of hotels or senior living communities, which are now
+
+owned by one of the non-controlled subsidiaries.
+
+Employees
+
+ We are managed by our Board of Directors and we have no employees who are
+
+not employees of the operating partnership.
+
+                   24
+
+ Currently, the operating partnership has approximately 175 management
+
+employees, and approximately 16 other employees which are covered by a
+
+collective bargaining agreement that are subject to review and renewal on a
+
+regular basis. We believe that we and our managers have good relations with
+
+labor unions and have not experienced any material business interruptions as a
+
+result of labor disputes.
+
+Environmental and Regulatory Matters
+
+ Under various federal, state and local environmental laws, ordinances and
+
+regulations, a current or previous owner or operator of real property may be
+
+liable for the costs of removal or remediation of hazardous or toxic
+
+substances on, under or in such property. Such laws may impose liability
+
+whether or not the owner or operator knew of, or was responsible for, the
+
+presence of such hazardous or toxic substances. In addition, certain
+
+environmental laws and common law principles could be used to impose liability
+
+for release of asbestos-containing materials, and third parties may seek
+
+recovery from owners or operators of real properties for personal injury
+
+associated with exposure to released asbestos-containing materials.
+
+Environmental laws also may impose restrictions on the manner in which
+
+property may be used or business may be operated, and these restrictions may
+
+require expenditures. In connection with our current or prior ownership or
+
+operation of hotels, we may be potentially liable for any such costs or
+
+liabilities. Although we are currently not aware of any material environmental
+
+claims pending or threatened against us, no assurance can be given that a
+
+material environmental claim will not be asserted against us.
+
+The Leases
+
+ In order for us to qualify as a REIT and for the operating partnership to be
+
+treated as a partnership for federal income tax purposes, neither we nor the
+
+operating partnership may operate our hotels or related properties.
+
+Accordingly, we lease the hotels to the lessees, which are primarily wholly
+
+owned, indirect subsidiaries of Crestline.
+
+ Lessees. There generally is a separate lessee for each hotel or group of
+
+hotels that is owned by a separate subsidiary of the operating partnership.
+
+Each lessee is generally a Delaware limited liability company, whose purpose
+
+is limited to acting as lessee under the applicable lease(s).
+
+ For those hotels where it is the manager, Marriott International or a
+
+subsidiary has a non-economic membership interest in the lessee entitling it
+
+to certain voting rights but no economic rights. The operating agreements for
+
+such lessees provide that the Crestline member of the lessee has full control
+
+over the management of the business of the lessee, except with respect to
+
+certain decisions for which the consent of the members or partners and the
+
+manager are required. These decisions are:
+
+ . dissolving, liquidating, consolidating, merging, selling or leasing all
+
+  or substantially all of the assets of the lessee;
+
+ . engaging in any other business or acquiring any assets or incurring any
+
+  liabilities not reasonably related to the conduct of the lessee's
+
+  business;
+
+ . instituting voluntary bankruptcy or similar proceedings or consenting to
+
+  involuntary bankruptcy or similar proceedings;
+
+ . terminating the management agreement relating to the lessee's hotel,
+
+  other than by reason of a breach by the manager or upon exercise of
+
+  express termination rights in the management agreement;
+
+ . challenging the status or rights of the manager or the enforceability of
+
+  the manager's consent rights; or
+
+ . incurring debt in excess of certain limits.
+
+Upon any termination of the applicable management agreement, these special
+
+voting rights of Marriott International (or its subsidiary) will cease.
+
+                   25
+
+ Lease terms. Each lease has a fixed term ranging generally from seven to ten
+
+years, depending upon the lease, subject to earlier termination upon the
+
+occurrence of certain contingencies described in the lease, including,
+
+particularly, the provisions described below under "-Damage or Destruction,"
+
+"-Termination of the Leases upon Disposition of Full-Service Hotels" and "-
+
+Termination of the Leases upon Changes in Tax Laws".
+
+ Minimum rent; percentage rent; additional charges. Each lease requires the
+
+lessee to pay (1) minimum rent in a fixed dollar amount per annum plus (2) to
+
+the extent it exceeds minimum rent, percentage rent based upon specified
+
+percentages of aggregate sales from the applicable hotel, including room
+
+sales, food and beverage sales and other income ("Gross Revenues"), in excess
+
+of specified thresholds.
+
+ Minimum rent is a fixed dollar amount specified in each lease less the FF&E
+
+adjustment (which is described under "-Personal Property Limitation" below).
+
+Any amounts other than minimum rent and percentage rent due to the lessor
+
+under the leases are referred to as "additional charges".
+
+ The amount of minimum rent and the percentage rent thresholds are to be
+
+adjusted each year. The annual adjustment with respect to minimum rent equals
+
+a percentage of any increase in the Consumer Price Index, or CPI, during the
+
+previous twelve months. The annual adjustment with respect to percentage rent
+
+thresholds is a specified percentage equal to the weighted average of a
+
+percentage of any increase in CPI plus a specified percentage of any increase
+
+in a regional labor cost index agreed upon by the lessor and the lessee during
+
+the previous twelve months. Neither minimum rent nor percentage rent
+
+thresholds will be decreased because of the annual adjustment.
+
+ Rental payments will be made on a fiscal year basis. The "fiscal year" means
+
+the fiscal year used by the manager. Payments of rent are to be made within
+
+two business days after the required payment date under the management
+
+agreement for each accounting period. "Accounting period" means, for those
+
+hotels where Marriott International is the manager, any of the thirteen four-
+
+week accounting periods which are used in the manager's accounting system.
+
+Rent payable for each accounting period will be the sum of (1) the excess (if
+
+any) of (x) the greater of cumulative minimum rent year-to-date or cumulative
+
+percentage rent year-to-date over (y) the total amount of minimum rent and
+
+percentage rent paid year-to-date plus (2) any additional charges due. If the
+
+total amount of minimum rent and percentage rent paid year-to-date, as of any
+
+rent payment date, is greater than both cumulative minimum rent year-to-date
+
+and cumulative percentage rent year-to-date, then the lessor must remit the
+
+difference to the lessee.
+
+ The leases generally provide for a rent adjustment in the event of damage,
+
+destruction, partial taking, certain capital expenditures or an FF&E
+
+adjustment.
+
+ Lessee expenses. Each lessee is responsible for paying all of the expenses
+
+of operating the applicable hotel(s), including all personnel costs, utility
+
+costs and general repair and maintenance of the hotel(s). The lessee also is
+
+responsible for all fees payable to the applicable manager, including base and
+
+incentive management fees, chain services payments and franchise or system
+
+fees, with respect to periods covered by the term of the lease. The lessee is
+
+not obligated to bear the cost of any capital improvements or capital repairs
+
+to the hotels or the other expenses to be borne by the lessor, as described
+
+below.
+
+ Lessor expenses. The lessor (typically, the operating partnership or its
+
+subsidiary) is responsible for the following expenses: real estate taxes,
+
+personal property taxes (to the extent the lessor owns the personal property),
+
+casualty insurance on the structures, ground lease rent payments, required
+
+expenditures for FF&E (including maintaining the FF&E reserve, to the extent
+
+such is required by the applicable management agreement) and capital
+
+expenditures.
+
+ The consent of the lessor is required for any capital expenditures (except
+
+in an emergency or where the owner's consent is not required under the
+
+management agreement) or a change in the amount of the FF&E reserve payment.
+
+                   26
+
+ Crestline guarantee. Crestline and certain of its subsidiaries have entered
+
+into a limited guarantee of the lease and management agreement obligations of
+
+each lessee. For each of four identified "pools" of hotels, the cumulative
+
+limit of the guarantee at any time is 10% of the aggregate rents under all
+
+leases in such pool paid with respect to the preceding thirteen full
+
+accounting periods (with an annualized amount based upon the minimum rent for
+
+those leases that have not been in effect for thirteen full accounting
+
+periods). In the event of a payment default under any lease or failure of
+
+Crestline to maintain certain minimum net worth or debt service coverage
+
+ratios, the obligations under the guarantees of leases in each pool are
+
+secured by excess cash flow of each lessee in such pool. Such excess cash flow
+
+will be collected, held in a cash collateral account, and disbursed in
+
+accordance with agreed cash management procedures.
+
+ Security. The obligations of the lessee are secured by a pledge of all
+
+personal property (tangible and intangible) of the lessee related to or used
+
+in connection with the operation of the hotels (including any cash and
+
+receivables from the manager or others held by the lessee as part of working
+
+capital).
+
+ Working capital. Each lessor sold the existing working capital, including
+
+inventory and fixed asset supplies (as defined in the Uniform System of
+
+Accounts for Hotels) and receivables due from the manager, net of accounts
+
+payable and accrued expenses to the applicable lessee upon the commencement of
+
+the lease at a price equal to the fair market value of such assets. The
+
+purchase price is represented by a note evidencing a loan that bears interest
+
+at a rate per annum equal to the long-term applicable federal rate in effect
+
+on the commencement of the lease. Interest owed on the working capital loan is
+
+due simultaneously with each periodic rent payment and the amount of each
+
+payment of interest will be credited against such rent payment. The principal
+
+amount of the working capital loan will be payable upon termination of the
+
+lease. At the termination or expiration of the lease, the lessee will sell to
+
+the lessor the then existing working capital at a price equal to the value of
+
+such assets at that time. The lessor will pay the purchase price of the
+
+working capital by offsetting the purchase price against the outstanding
+
+principal balance of the working capital loan. To the extent that the value of
+
+the working capital delivered to the lessor exceeds the value of the working
+
+capital delivered by the lessor to the lessee at the commencement of the
+
+lease, the lessor will pay to the lessee an amount equal to the difference in
+
+cash. To the extent that the value of the working capital delivered to the
+
+lessor is less than the value of the working capital delivered by the lessor
+
+to the lessee at the commencement of the lease, the lessee will pay to the
+
+lessor an amount equal to the difference in cash.
+
+ Termination of leases upon disposition of full-service hotels. In the event
+
+the applicable lessor enters into an agreement to sell or otherwise transfer
+
+any full-service hotel free and clear of the applicable lease, the lessor must
+
+pay the lessee a termination fee equal to the fair market value of the
+
+lessee's leasehold interest for the remaining term of the lease. For purposes
+
+of determining the fair market value, a discount rate of 12% will be used, and
+
+the annual income for each remaining year of the lease will be assumed to be
+
+the average annual income generated by the lessee during the three fiscal
+
+years preceding the termination date or if the hotel has not been in operation
+
+for at least three fiscal years, then the average during the preceding fiscal
+
+years that have elapsed, and if the hotel has not been in operation for at
+
+least twelve months, then the assumed annual income shall be determined on a
+
+pro forma basis. Alternatively, the lessor would be entitled to (1) substitute
+
+a comparable hotel or hotels (in terms of economics and quality for the lessor
+
+and the lessee as agreed to by the lessee) for any hotel that is sold or (2)
+
+sell the hotel subject to the lease (subject to the lessee's reasonable
+
+approval if the sale is to an entity that does not have sufficient financial
+
+resources and liquidity to fulfill the "owner's" obligations under the
+
+management agreement and the lessor's obligations under the lease, or does not
+
+satisfy specified character standards) without being required to pay a
+
+termination fee. In addition, the lessors collectively and the lessees
+
+collectively each have the right to terminate up to twelve leases without
+
+being required to pay any fee or other compensation as a result of such
+
+termination, but the lessors are permitted to exercise such right only in
+
+connection with sales of hotels to an unrelated third party or the transfer of
+
+a hotel to a joint venture in which the operating partnership does not have a
+
+two-thirds or greater interest.
+
+ Termination of the leases upon changes in tax laws. In the event that
+
+changes in the federal income tax laws allow the lessors, or subsidiaries or
+
+affiliates of the lessors, to directly operate the hotels without jeopardizing
+
+our status as a REIT, the lessors have the right to terminate all, but not
+
+less than all, of the leases
+
+                   27
+
+(excluding leases of hotels that must still be leased following the tax law
+
+change) in return for paying the lessees the fair market value of the
+
+remaining terms of the leases, valued in the same manner as provided above
+
+under "-Termination of Leases upon Disposition of Hotels". The payments are
+
+payable in cash or, subject to certain conditions, shares of our common stock,
+
+at the election of the lessor and us.
+
+ Damage or Destruction. If a hotel is partially or totally destroyed and is
+
+no longer suitable for use as a hotel (as reasonably determined by the
+
+lessor), the lease of such hotel will automatically terminate and the
+
+insurance proceeds will be retained by the lessor, except for any proceeds
+
+attributable to personal property owned by the lessee or business interruption
+
+insurance. In this event, no termination fee will be owed to the lessee. If a
+
+hotel is partially destroyed but is still suitable for use as a hotel (as
+
+reasonably determined by the lessor), the lessee, subject to the lessor
+
+agreeing to release the insurance proceeds to fund the cost of repair and
+
+restoration, must apply the insurance proceeds to restore the hotel to its
+
+preexisting condition. The lessor must fund any shortfall in insurance
+
+proceeds less than or equal to five percent of the estimated cost of repair.
+
+The lessor may fund such deficiency, in its sole discretion, in the event the
+
+sum of (a) the insurance proceeds and (b) that portion of the insurance
+
+deductible, if any, which is greater than 5% of the cost of repair, is less
+
+than 95% of the cost of the repair, provided that if the lessor elects not to
+
+fund such shortfall, the lessee may terminate the lease and the lessor must
+
+pay to the lessee a termination fee equal to the lessee's operating profit for
+
+the immediately preceding fiscal year. The term "lessee's operating profit"
+
+shall mean for any fiscal year an amount equal to revenues due to the lessee
+
+from the leased property after the payment of all expenses relating to the
+
+operation or leasing of the leased property less rent paid to the lessor. If
+
+and to the extent any damage or destruction results in a reduction of gross
+
+revenues which would otherwise be realizable from the operation of the hotel,
+
+the lessor will receive all loss of income insurance and the lessee will have
+
+no obligation to pay rent, for any accounting period until the effects of the
+
+damage are restored, in excess of the greater of (1) one-thirteenth of the
+
+total rent paid in the fiscal year prior to the casualty or (2) percentage
+
+rent calculated for the current accounting period.
+
+ Events of default. Except as otherwise provided below, and subject to the
+
+notice and, in some cases, cure periods in the lease, the lease may be
+
+terminated without penalty by the applicable lessor if any of the following
+
+events of default (among others) occur:
+
+ . Failure to pay rent within ten days after the due date;
+
+ . Failure to comply with, or observe any of, the terms of the lease (other
+
+  than the failure to pay rent) for 30 days after notice from the lessor,
+
+  including failure to properly maintain the hotel (other than by reason of
+
+  the failure of the lessor to perform its obligations under the lease),
+
+  such period to be extended for up to an additional 90 days if such
+
+  default cannot be cured with due diligence within 30 days;
+
+ . Acceleration of maturity of certain indebtedness of the lessee with a
+
+  principal amount in excess of $1,000,000;
+
+ . Failure of Crestline to maintain minimum net worth or debt service
+
+  coverage ratio requirements;
+
+ . Filing of any petition for relief, bankruptcy or liquidation by or
+
+  against the lessee;
+
+ . The lessee voluntarily ceases to operate the hotel for 30 consecutive
+
+  days, except as a result of a casualty, condemnation or emergency
+
+  situation;
+
+ . A change in control of Crestline, the lessee or any subsidiary of
+
+  Crestline that is a direct or indirect parent of the lessee. Unless the
+
+  change in control involves an adverse party which would include a
+
+  competitor in the hotel business, a party without adequate financial
+
+  resources, a party that has been convicted of a felony (or controlled by
+
+  such a person), or a party who would jeopardize our qualification as a
+
+  REIT, the lessor must pay a termination fee equal to the lessee's
+
+  operating profit from the hotel for the immediately preceding fiscal
+
+  year; or
+
+ . The lessee, the lessee's direct parent or Crestline defaults under the
+
+  assignment of management agreement, the guarantees described above, the
+
+  non-competition agreement described below or certain other related
+
+  agreements between the parties or their affiliates.
+
+                   28
+
+ Assignment of lease. A lessee is permitted to sublet all or part of the
+
+hotel or assign its interest under its lease, without the consent of the
+
+lessor, to any wholly owned and controlled single purpose subsidiary of
+
+Crestline, provided that Crestline continues to meet the minimum net worth
+
+test and all other requirements of the lease. Transfers to other parties are
+
+permitted if approved by the lessor.
+
+ Subordination to qualifying mortgage debt. The rights of each lessee are
+
+expressly subordinate to qualifying mortgage debt and any refinancing thereof.
+
+A default under the loan documents may result in the termination of the lease
+
+by the lender. The lender is not required to provide a non-disturbance
+
+agreement to the lessee.
+
+ The lessor is obligated to compensate the lessee, on a basis equal to the
+
+lease termination provision described in "-Termination of Leases upon
+
+Disposition of Hotels" above, if the lease is terminated because of a non-
+
+monetary default under the terms of a loan that occurs because of an action or
+
+omission by the lessor (or its affiliates) or a monetary default where there
+
+is not an uncured monetary event of default of the lessee. In addition, if any
+
+loan is not refinanced in a timely manner, and the loan amortization schedule
+
+is converted to a cash flow sweep structure, the lessee has the right to
+
+terminate the lease after a twelve-month cure period and the lessor would owe
+
+a termination fee as provided above. During any period of time that a cash
+
+flow sweep structure is in effect, the lessor must compensate the lessee for
+
+any lost revenue resulting from such cash flow sweep. The operating
+
+partnership has guaranteed these obligations.
+
+ Personal property limitation. If a lessor reasonably anticipates that the
+
+average tax basis of the items of the lessor's FF&E and other personal
+
+property that are leased to the applicable lessee will exceed 15% of the
+
+aggregate average tax basis of the real and personal property subject to the
+
+applicable lease, the following procedures would apply, subject to obtaining
+
+lender consent where required:
+
+ . The lessor would acquire any replacement FF&E that would cause the
+
+  applicable limits to be exceeded, and immediately thereafter the lessee
+
+  would be obligated either to acquire such excess FF&E from the lessor or
+
+  to cause a third party to purchase such FF&E.
+
+ . The lessee would agree to give a right of first opportunity to a non-
+
+  controlled subsidiary of the operating partnership to acquire the excess
+
+  FF&E and to lease the excess FF&E to the lessee at an annual rental equal
+
+  to the market leasing factor times the cost of the excess FF&E. If such
+
+  non-controlled subsidiary does not agree to acquire the excess FF&E and
+
+  to enter into such lease, then the Lessee may either acquire the excess
+
+  FF&E itself or arrange for another third party to acquire such excess
+
+  FF&E and to lease the same to the lessee.
+
+ . The annual rent under the applicable lease would be reduced in accordance
+
+  with a formula based on market leasing rates for the excess FF&E.
+
+ Certain actions under the leases. The leases prohibit the lessee from taking
+
+the following actions with respect to the management agreement without notice
+
+to the lessor and, if the action would have a material adverse effect on the
+
+lessor, the consent of the lessor:
+
+ . terminate the management agreement prior to the expiration of the term
+
+  thereof;
+
+ . amend, modify or assign the management agreement;
+
+ . waive (or fail to enforce) any right of the "owner" under the management
+
+  agreement;
+
+ . waive any breach or default by the manager under the management agreement
+
+  (or fail to enforce any right of the "owner" in connection therewith);
+
+ . agree to any change in the manager or consent to any assignment by the
+
+  manager; or
+
+ . take any other action which reasonably would be expected to materially
+
+  adversely affect the lessor's rights or obligations under the management
+
+  agreement for periods following the termination of the lease (whether
+
+  upon the expiration of its term or upon earlier termination as provided
+
+  for therein).
+
+                   29
+
+ Change in manager. A lessee is permitted to change the manager or the brand
+
+affiliation of a hotel only with the approval of the applicable lessor, which
+
+approval may not be unreasonably withheld. Any replacement manager must be a
+
+nationally recognized manager with substantial experience in managing hotels
+
+of comparable quality. No such replacement can extend beyond the term of the
+
+lease without the consent of the lessor, which consent may be withheld in the
+
+lessor's sole discretion.
+
+The Management Agreements
+
+ General
+
+ The lessees lease the hotels from the operating partnership or its
+
+subsidiaries. Upon leasing the hotels, the lessees assumed substantially all
+
+of the obligations of such subsidiaries under the management agreements
+
+between those entities and the subsidiaries of Marriott International and
+
+other companies that currently manage the hotels. As a result of their
+
+assumptions of obligations under the management agreements, the lessees have
+
+substantially all of the rights and obligations of the "owners" of the hotels
+
+under the management agreements for the period during which the leases are in
+
+effect (including the obligation to pay the management and other certain fees
+
+thereunder) and hold the operating partnership harmless with respect thereto.
+
+The subsidiaries of the operating partnership remain liable for all
+
+obligations under the management agreements. See "-Management Services
+
+Provided by Marriott International and Affiliates," "-Assignment of
+
+Management Agreements".
+
+ Management services provided by Marriott International and affiliates
+
+ General. Under each management agreement related to a Marriott
+
+International-managed hotel, the manager provides complete management services
+
+to the applicable lessees in connection with its management of such lessee's
+
+hotels.
+
+ Operational services. The managers have sole responsibility and exclusive
+
+authority for all activities necessary for the day-to-day operation of the
+
+hotels, including establishment of all room rates, the processing of
+
+reservations, procurement of inventories, supplies and services, periodic
+
+inspection and consultation visits to the hotels by the managers' technical
+
+and operational experts and promotion and publicity of the hotels. The manager
+
+receives compensation from the lessee in the form of a base management fee and
+
+an incentive management fee, which are normally calculated as percentages of
+
+gross revenues and operating profits, respectively.
+
+ Executive supervision and management services. The managers provide all
+
+managerial and other employees for the hotels; review the operation and
+
+maintenance of the hotels; prepare reports, budgets and projections; provide
+
+other administrative and accounting support services, such as planning and
+
+policy services, financial planning, divisional financial services, risk
+
+planning services, product planning and development, employee planning,
+
+corporate executive management, legislative and governmental representation
+
+and certain in-house legal services; and protect the "Marriott" trademark and
+
+other tradenames and service marks. The manager also provides a national
+
+reservations system.
+
+ Chain services. The management agreements require the manager to furnish
+
+chain services that are furnished generally on a central or regional basis to
+
+hotels in the Marriott hotel system. Such services include: (1) the
+
+development and operation of computer systems and reservation services, (2)
+
+regional management and administrative services, regional marketing and sales
+
+services, regional training services, manpower development and relocation
+
+costs of regional personnel and (3) such additional central or regional
+
+services as may from time to time be more efficiently performed on a regional
+
+or group level. Costs and expenses incurred in providing such services are
+
+allocated among all hotels in the Marriott hotel system managed by the manager
+
+or its affiliates and each applicable lessee is required to reimburse the
+
+manager for its allocable share of such costs and expenses.
+
+ Working capital and fixed asset supplies. The lessee is required to maintain
+
+working capital for each hotel and fund the cost of fixed asset supplies,
+
+which principally consist of linen and similar items. The applicable lessee
+
+also is responsible for providing funds to meet the cash needs for the
+
+operations of the hotels if at any time the funds available from operations
+
+are insufficient to meet the financial requirements of the hotels.
+
+                   30
+
+ Use of affiliates. The manager employs the services of its affiliates to
+
+provide certain services under the management agreements. Certain of the
+
+management agreements provide that the terms of any such employment must be no
+
+less favorable to the applicable lessee, in the reasonable judgment of the
+
+manager, than those that would be available from the manager.
+
+ FF&E replacements. The management agreements generally provide that once
+
+each year the manager will prepare a list of FF&E to be acquired and certain
+
+routine repairs that are normally capitalized to be performed in the next year
+
+and an estimate of the funds necessary therefor. Under the terms of the
+
+leases, the lessor is required to provide to the applicable lessee all
+
+necessary FF&E for the operation of the hotels (including funding any required
+
+FF&E replacements). For purposes of funding the FF&E replacements, a specified
+
+percentage (generally 5%) of the gross revenues of the hotel is deposited by
+
+the manager into a book entry account. These amounts are treated under the
+
+leases as paid by the lessees to the lessor and will be credited against their
+
+rental obligations. If the manager determines that more than 5% of the gross
+
+revenues of the hotel is required to fund repairs for a certain period, the
+
+manager may increase the percentage of gross revenues to be deposited into the
+
+FF&E reserve account for such periods. In such event, the lessor may elect to
+
+fund such increases through annual increases in the amount deposited by the
+
+manager in the FF&E reserve account or to make a lump-sum contribution to the
+
+FF&E reserve account of the additional amounts required. If the lessor adopts
+
+the first election, the deductions are credited against the rental obligations
+
+of the lessee. If the lessor fails to elect either option within thirty days
+
+of the request for additional funds or fails to pay the lump-sum within 60
+
+days of its election to do so, the manager may terminate the management
+
+agreement. Under certain circumstances, the manager may make repairs in
+
+addition to those set forth on its list, but in no event may it expend more
+
+than the amount in the FF&E reserve account without the consent of the
+
+operating partnership and the lessee.
+
+ Under certain of the management agreements, the lessor must approve the FF&E
+
+replacements, including any FF&E replacements proposed by the manager that are
+
+not contained on the annual list which was approved by the lessor and the
+
+lessee. If the manager and the lessor agree, the lessor would acquire or
+
+otherwise provide the FF&E replacements set forth on the approved list. If the
+
+lessor and the manager are unable to agree on the list within 60 days of its
+
+submission, the lessor would be required to make only those FF&E replacements
+
+specified on such list that are no more extensive than the system standards
+
+for FF&E replacements that the manager requires for Marriott hotels. For
+
+purposes of funding the FF&E replacements required to be paid for by the
+
+operating partnership, each management agreement and the lessor's loan
+
+agreements require the lessor to deposit a designated amount into the FF&E
+
+reserve account periodically. The lessees have no obligation to fund the FF&E
+
+reserve accounts (and any amounts deposited therein by the manager from funds
+
+otherwise due the lessee under the management agreement will be credited
+
+against the lessee's rental obligation).
+
+ Under each lease, the lessor is responsible for the costs of FF&E
+
+replacements and for decisions with respect thereto (subject to its
+
+obligations to the lessee under the lease).
+
+ Building alterations, improvements and renewals. The management agreements
+
+require the manager to prepare an annual estimate of the expenditures
+
+necessary for major repairs, alterations, improvements, renewals and
+
+replacements to the structural, mechanical, electrical, heating, ventilating,
+
+air conditioning, plumbing and vertical transportation elements of each hotel.
+
+Such estimate must be submitted to the lessor and the lessee for their
+
+approval. In addition to the foregoing, the management agreements generally
+
+provide that the manager may propose such changes, alterations and
+
+improvements to the hotel as are required, in the manager's reasonable
+
+judgment, to keep the hotel in a competitive, efficient and economical
+
+operating condition or in accordance with Marriott standards. The cost of the
+
+foregoing is paid from the FF&E reserve account; to the extent that there are
+
+insufficient funds in such account, the operating partnership is required to
+
+pay any shortfall. Under the management agreements (and the leases), neither
+
+the lessor nor the lessee may unreasonably withhold consent to repairs and
+
+other changes which are required under applicable law or any of the manager's
+Question: What is the aggregate market value of shares of common stock held by non-affiliates as of March 19, 1999?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

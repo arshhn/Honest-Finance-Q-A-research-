@@ -1,0 +1,1728 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-004-base ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+d500600d10k.htm
+
+FORM 10-K
+
+Form 10-K
+
+Table of Contents
+
+  UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549  
+
+  FORM 10-K  
+
+  (Mark One) 
+
+For the fiscal year ended December 31, 2017 
+
+OR  
+
+For the transition period from                  to
+
+                 Commission File Number: 001-35429  
+
+  BRIGHTCOVE
+
+INC. (Exact name of registrant as specified in its charter) 
+
+ (888) 882-1880 
+
+(Registrants telephone number, including area code) 
+
+Securities Registered pursuant to Section 12(b) of the Act: 
+
+ Securities Registered pursuant to Section 12(g) of the Act: 
+
+None  
+
+  Indicate by check
+
+mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes  ☐    No  ☒ 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+
+    Yes  ☐    No  ☒ Indicate by check mark whether the registrant:
+
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and
+
+(2) has been subject to such filing requirements for the past 90 days.    Yes  ☒    No  ☐ 
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such
+
+files).    Yes  ☒    No  ☐ Indicate by check mark if disclosure of
+
+delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrants knowledge, in definitive proxy or information statements
+
+incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. ☒ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
+
+non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth
+
+company in Rule 12b-2 of the Exchange Act. (Check one):  
+
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+
+Exchange Act).    Yes  ☐    No  ☒ The aggregate market value of
+
+common stock held by non-affiliates of the registrant based on the closing price of the registrants common stock as reported on the NASDAQ Global Market on June 30, 2017, was $130,976,463. Shares of
+
+voting and non-voting stock held by executive officers, directors and holders of more than 5% of the outstanding stock have been excluded from this calculation because such persons or institutions may be
+
+deemed affiliates. This determination of affiliate status is not a conclusive determination for other purposes. As of February 23,
+
+2018 there were 34,952,140 shares of the registrants common stock, $0.001 par value per share, outstanding. DOCUMENTS INCORPORATED
+
+BY REFERENCE Portions of the registrants definitive Proxy Statement relating to its 2018 Annual Meeting of Stockholders are
+
+incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. Such Proxy Statement will be filed with the U.S. Securities and Exchange Commission within 120 days after the end of
+
+the fiscal year to which this report relates.    
+
+Table of Contents
+
+BRIGHTCOVE INC. 
+
+Table of Contents  
+
+  2 
+
+Table of Contents
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This Annual Report on Form 10-K contains forward-looking statements that involve risks and
+
+uncertainties, as well as assumptions that, if they never materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements. The statements contained in this Annual Report
+
+on Form 10-K that are not purely historical are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, or Securities Act, and Section 21E of the
+
+Securities Exchange Act of 1934, as amended, or Exchange Act. Such forward-looking statements include any expectation of earnings, revenue or other financial items; any statements of the plans, strategies and objectives of management for future
+
+operations; factors that may affect our operating results; statements related to adding employees; statements related to potential benefits of the acquisition of substantially all of the assets of Unicorn Media, Inc. and certain of its subsidiaries;
+
+statements related to future capital expenditures; statements related to future economic conditions or performance; statements as to industry trends and other matters that do not relate strictly to historical facts or statements of assumptions
+
+underlying any of the foregoing. Forward-looking statements are often identified by the use of words such as, but not limited to, anticipate, believe, can, continue, could,
+
+estimate, expect, intend, may, will, plan, project, seek, should, target, will, would, and similar
+
+expressions or variations intended to identify forward-looking statements. These statements are based on the beliefs and assumptions of our management based on information currently available to management. Such forward-looking statements are
+
+subject to risks, uncertainties and other important factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by such forward-looking statements. Factors that could cause
+
+or contribute to such differences include, but are not limited to, those identified below, and those discussed in the section titled Risk Factors included in Item 1A of Part I of this Annual Report on Form 10-K, and the risks discussed in our other Securities and Exchange Commission, or SEC, filings. Furthermore, such forward-looking statements speak only as of the date of this report. Except as required by law, we
+
+undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements. Forward-looking statements in this Annual Report on Form 10-K may include
+
+statements about:  
+
+  3 
+
+Table of Contents
+
+PART I  
+
+ Overview 
+
+Brightcove Inc., or Brightcove, is a leading global provider of cloud-based services for video. Brightcove was incorporated in Delaware in
+
+August 2004 and our headquarters are in Boston, Massachusetts. Our suite of products and services reduces the cost and complexity associated with publishing, distributing, measuring and monetizing video across devices. 
+
+Brightcove Video Cloud, or Video Cloud, our flagship product released in 2006, is the worlds leading online video platform. Video Cloud
+
+enables our customers to publish and distribute video to Internet-connected devices quickly, easily and in a cost-effective and high-quality manner. Brightcove Zencoder, or Zencoder, is a cloud-based video encoding service. Brightcove SSAI, or SSAI
+
+(formerly named Once), is an innovative, cloud-based ad insertion and video stitching service that addresses the limitations of traditional online video ad insertion technology. Brightcove Player, or Player (formerly named Perform), is a cloud-based
+
+service for creating and managing video player experiences. Brightcove OTT Flow, powered by Accedo, or OTT Flow, is a service for media companies and content owners to rapidly deploy high-quality, direct-to-consumer, live and on-demand video services across platforms. Brightcove Video Marketing Suite, or Video Marketing Suite, is a comprehensive suite of video
+
+technologies designed to address the needs of marketers to drive awareness, engagement and conversion. Brightcove Enterprise Video Suite, or Enterprise Video Suite, is an enterprise-class platform for internal communications, employee training, live
+
+streaming, marketing and ecommerce videos. Since 2014, our
+
+go-to-market approach for our solutions has been focused primarily on (i) media companies and (ii) digital marketers in a wide range of enterprises and
+
+organizations. As of December 31, 2017, we had 4,168 customers in over 70 countries, including many of the worlds leading
+
+media companies, broadcasters, publishers, brands and corporations, as well as governments, educational institutions and non-profit organizations. 
+
+We primarily generate revenue by offering our products to customers on a subscription-based, software as a service, or SaaS, model. Our
+
+revenue grew from $150.3 million in the year ended December 31, 2016 to $155.9 million in the year ended December 31, 2017. As of December 31, 2016, we had 4,571 customers, of which 2,564 used our volume offerings and 2,007
+
+used our premium offerings. As of December 31, 2017, we had 4,168 customers, of which 2,001 used our volume offerings and 2,167 used our premium offerings. Substantially all of our revenue has historically been attributable to our Video Cloud
+
+product, and we expect that revenue from Video Cloud will continue to comprise a significant portion of our revenue. In addition to being offered on a stand-alone basis, Video Cloud is also a core component of OTT Flow, Video Marketing Suite and
+
+Enterprise Video Suite. Our Solutions 
+
+Our solutions provide our customers with the following key benefits:  
+
+  4 
+
+Table of Contents
+
+ Our Business Strengths 
+
+We believe that the following business strengths differentiate us from our competitors and are key to our success: 
+
+  5 
+
+Table of Contents
+
+ Our
+
+Customers As of December 31, 2017, we had 4,168 customers in over 70 countries. We provide our solutions to many of the
+
+worlds leading media companies, broadcasters, publishers, brands and corporations, as well as governments, educational institutions and non-profit organizations. While our solutions are tailored to meet
+
+the needs of media companies and digital marketers in a wide range of enterprises and organizations, we believe our solutions can benefit any organization with a website or digital content. 
+
+Our Products and Services Video
+
+Cloud Video Cloud, the worlds leading online video platform, enables our customers to publish and distribute video to
+
+Internet-connected devices quickly, easily and in a cost-effective and high-quality manner. Our innovative technology and intuitive user interface give customers control over a wide range of features and functionality needed to publish and deliver a
+
+compelling user experience, including the following:  
+
+  6 
+
+Table of Contents
+
+ Zencoder 
+
+Zencoder is a cloud-based video encoding service. Zencoder provides our customers with high-quality, reliable encoding of live and on-demand video and access to highly scalable encoding power without having to pay for, manage and scale expensive hardware and software. Zencoder includes the following principal features and functionality: 
+
+  7 
+
+Table of Contents
+
+SSAI 
+
+SSAI is an innovative, cloud-based ad insertion and video stitching service that addresses the limitations of traditional online video ad
+
+insertion technology. SSAI reduces or eliminates the need for platform-specific ad technology and makes it possible for customers to reliably deliver live or on-demand video with dynamically customized
+
+programming and targeted ads to the maximum range of devices. SSAI includes the following principal features and functionality:  
+
+Player Player is
+
+a cloud-based service for creating and managing video player experiences. This service provides customers with leading video player technology, a robust set of management APIs and performance optimization services. Player delivers cross-platform
+
+playback experiences and includes built-in support for advertising, analytics and content protection. Player includes the following principal features and functionality: 
+
+OTT Flow OTT Flow
+
+is a service for media companies and content owners to rapidly deploy high-quality, direct-to-consumer, live and on-demand video
+
+services across platforms. OTT Flow enables video content delivery with a consistent user interface across multiple platforms, including desktop, Apple and Android smartphones and tablets, and Google Chromecast. OTT Flow also includes support for ad-supported and subscription video-on-demand models with ecommerce, customer relationship management, or CRM, and billing engine
+
+interfaces. This product also features a flexible and intuitive web-based administrative console for user interface and user experience configuration, rules-based content packaging and scheduling capabilities,
+
+robust analytics and subtitle and caption support. 
+
+  8 
+
+Table of Contents
+
+Video Marketing Suite 
+
+Video Marketing Suite is a comprehensive suite of video technologies designed to address the needs of marketers to drive awareness, engagement
+
+and conversion. Video Marketing Suite is a bundled offering of Video Cloud, Brightcove Gallery, or Gallery, and Brightcove Social. Gallery is a cloud-based service that enables customers to create and publish video portals. This service combines
+
+portal templates with best practices for search engine optimization, responsive design, social sharing and conversion in a single solution that can be implemented and updated with ease. Gallery allows customers to create engaging video experiences
+
+such as video channels, product showcases, event microsites and video support centers. Brightcove Social allows customers to manage their video presence across social networks from a single interface. With Brightcove Social, customers can edit,
+
+publish and track their videos in the native playback environments of Facebook, YouTube and Twitter, as well as their own websites, from Video Cloud. 
+
+Enterprise Video Suite 
+
+Enterprise Video Suite is an enterprise-class platform for internal communications, employee training, live streaming, marketing and ecommerce
+
+videos. Enterprise Video Suite is a bundled offering of Video Cloud, Gallery, and Brightcove Live. Brightcove Live is an optional add-on to Video Cloud designed to enable
+
+non-technical users to set up live events and deliver multi-bitrate streams to multiple devices, without the need for hardware encoders or development work. 
+
+Editions Each of
+
+our products is offered to customers on a subscription-based SaaS model, with varying levels of usage entitlements, support and, in certain cases, functionality. Our customers pay us a monthly, quarterly or annual subscription fee for access to our
+
+products. This model allows our customers to scale their level of investment and usage based on the size and complexity of their needs. 
+
+Video Cloud is offered in two product lines. The first product line is comprised of our premium product editions. All premium editions include
+
+functionality to publish and distribute video to Internet-connected devices, with higher levels of the premium editions providing additional features and functionality. The second product line is comprised of our volume product edition. Our volume
+
+editions target small and medium-sized businesses, or SMBs. The volume editions provide customers with the same basic functionality that is offered in our premium product editions but have been designed for
+
+customers who have lower usage requirements and do not typically require advanced features and functionality. Video Marketing Suite and
+
+Enterprise Video Suite are each generally available in Starter, Pro and Enterprise editions. The Starter edition for each provides customers with the same basic functionality that is offered in the Pro and Enterprise editions but has been designed
+
+for customers who have lower usage requirements and do not typically require advanced features and functionality. All Video Marketing Suite and Enterprise Video Suite customers are considered premium customers. 
+
+Zencoder customers are considered premium customers other than Zencoder customers on month-to-month contracts or pay-as-you-go contracts, which are considered volume
+
+customers. All SSAI, Player, and OTT Flow customers are considered premium customers. 
+
+Account Management 
+
+An important component of our sales strategy is our account management organization. This organization is focused on ongoing customer success
+
+and engagement, as well as contract renewals and upsells to our customer base. 
+
+  9 
+
+Table of Contents
+
+Professional Services 
+
+While our products are easy for customers to use and deploy without any additional specialized services, we offer a range of professional
+
+services for customers who seek customization of our products or assistance with their implementations. These professional services are priced on a time and materials basis or a per project basis and include projects such as content migrations from
+
+other vendors or in-house solutions, video player enhancements, mobile and connected TV app development and the creation of web pages optimized for video. 
+
+Support Our
+
+products generally include basic support for technical and operational issues from our support team via web-based submission or email. The premium editions of our products generally include additional support
+
+options such as phone support, live chat, dedicated live event support, 24x7x365 support and more. Our award-winning, TSIA certified team supports our customers from our offices in Boston, London, Sydney, Tokyo, South Korea and Tempe. We also have a
+
+dedicated customer success team that offers various onboarding and related services to new and existing customers looking to get the most out of our products and services. 
+
+Training We offer
+
+free basic online training to registered users of our products. We also offer customized, onsite training for customers that is priced on a per engagement basis. 
+
+Sales and Marketing We sell our products
+
+primarily through our global direct sales organization. Our sales team is organized by the following geographic regions: Americas, Europe and the Middle East, Asia Pacific, and Japan. We further organize our go-to-market approach by focusing our sales and marketing teams on selling primarily to (i) media companies, who generally want to distribute video content to a broad audience and (ii) digital
+
+marketers in a wide range of enterprises and organizations, who generally use video for marketing or enterprise communication purposes. A small amount of sales are generated through referral partners, channel partners and resellers. We also sell
+
+some of our products online through our website. We generate customer leads, accelerate sales opportunities and build brand awareness
+
+through our marketing programs. Our marketing programs target executives, technology professionals and senior business leaders. Like our sales teams, our marketing team and programs are organized by geography and industry segment. Our principal
+
+marketing programs include:  
+
+  10 
+
+Table of Contents
+
+Operations 
+
+We use a number of third-party cloud computing platforms to provide our products and services to customers. We take advantage of this
+
+geographically dispersed, third-party, cloud computing capacity to improve the responsiveness of our service and lower network latency for our customers. We also operate data center facilities in the greater Boston area and operate our own servers
+
+for systems that manage meta-data, business rules and archival storage of media assets. Media delivery to end users, including video,
+
+audio, images and JavaScript components, is served primarily through CDN providers, including Akamai, Limelight and Fastly. We believe our agreements with our CDN providers are based on competitive market terms and conditions, including service
+
+level commitments from these CDN providers. We entered into our agreement with Akamai in July 2010. It enables us to use Akamai CDN
+
+services for our own benefit and to resell Akamai CDN services to our customers in every geographic location in which we offer our products. The current expiration date of the agreement is December 31, 2018. 
+
+We entered into our agreement with Limelight in March 2006. It enables us to use Limelight CDN services for our own benefit and to resell
+
+Limelight CDN services to our customers in every geographic location in which we offer our products. The agreement is currently renewing on a month to month basis. Either party may terminate the agreement with 60 days notice. 
+
+We entered into our agreement with Fastly in April 2017. It enables us to use Fastly CDN services for our own benefit and to resell Fastly CDN
+
+services to our customers in every geographic location in which we offer our products. The current expiration date of the agreement is January 31, 2019. 
+
+Our agreements with Akamai and Limelight contain a service continuation period following expiration of the agreement, which we believe is
+
+sufficient to enable transition to an alternative provider to avoid material disruption to our business or to our customers. Our agreement with Akamai provides that, upon termination for any reason, Akamai will continue to provide CDN services to
+
+our existing customers for up to twelve months. Our agreement with Limelight provides that, upon termination for any reason, Limelight will continue to provide CDN services for our benefit for up to six months. 
+
+Intellectual Property We rely
+
+principally on a combination of trademark, patent, copyright and trade secret laws in the United States and other jurisdictions, as well as confidentiality procedures and contractual provisions to protect our proprietary technology, confidential
+
+information, business strategies and brands. We also believe that factors such as the technological and creative skills of our employees coupled with the creation of new features, functionality and products are essential to establishing and
+
+maintaining a technology leadership position. We enter into confidentiality and invention assignment agreements with our employees and consultants and confidentiality agreements with other third parties, and we rigorously control access to our
+
+proprietary technology. In the United States, we have 35 issued and/or allowed patents and 8 patent applications pending.
+
+Internationally, we have 17 issued and/or allowed patents and 18 patent applications pending, including two patent applications undergoing examination at the European Patent Office. We currently have patent applications pending in Canada, United
+
+Kingdom, Australia, Hong Kong and Japan, and we may seek coverage in additional jurisdictions to the extent we determine such coverage is appropriate and cost-effective. Our issued patents cover a variety of technical domains relevant to our
+
+business, including aspects of publishing and distributing digital media online, cloud-based stream delivery and ad insertion. Our
+
+registered trademarks in the United States include BRIGHTCOVE, ZENCODER, ONCEVOD and our logo. These trademarks are also registered in certain non-U.S. jurisdictions, including the
+
+European Union 
+
+  11 
+
+Table of Contents
+
+and Canada. We may apply for registrations for these and other marks in additional jurisdictions to the extent we determine such coverage is appropriate and cost-effective. 
+
+Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy or obtain and use our technology to develop
+
+products with the same functionality as our solutions. Policing unauthorized use of our technology is difficult and expensive. Our competitors could also independently develop technologies equivalent to ours, and our intellectual property rights may
+
+not be broad enough for us to prevent competitors from selling products incorporating those technologies. Competition 
+
+We compete with video-sharing sites such as YouTube, in-house solutions, online video platforms and a
+
+broad range of other technology providers. Some of our actual and potential competitors may enjoy competitive advantages over us, such as larger marketing budgets and larger sales teams, as well as greater financial, technical and other resources.
+
+The overall markets for our products are fragmented, rapidly evolving and highly competitive. We expect that the competitive landscape
+
+will change as our markets consolidate and mature. We believe the principal competitive factors in our industry include the following:  
+
+ The mix of factors relevant in any given
+
+situation varies with regard to each prospective customer. We believe we compete favorably with respect to all of these factors. Some of
+
+our competitors have made or may make acquisitions or enter into partnerships or other strategic relationships to offer a more comprehensive service than we do. These combinations may make it more difficult for us to compete effectively, including
+
+on the basis of price, sales and marketing programs, technology or service functionality. We expect these trends to continue as organizations attempt to strengthen or maintain their market positions. 
+
+Research and Development We have focused
+
+our research and development efforts on expanding the functionality and scalability of our products and enhancing their ease of use, as well as creating new product offerings. We expect research and development expenses to increase in absolute
+
+dollars as we intend to continue to regularly release new features and functionality, expand our product offerings, continue the localization of our products in various languages, 
+
+  12 
+
+Table of Contents
+
+upgrade and extend our service offerings, and develop new technologies. Over the long term, we believe that research and development expenses as a percentage of revenue will decrease, but will
+
+vary depending upon the mix of revenue from new and existing products, features and functionality, as well as changes in the technology that our products must support, such as new operating systems or new Internet-connected devices. 
+
+Our research and development expenses were $31.9 million, $30.2 million and $29.3 million in 2017, 2016 and 2015, respectively,
+
+which included stock-based compensation expense of $1.6 million, $1.3 million and $1.4 million, respectively. As of December 31, 2017, we had 155 employees in research and development. 
+
+Employees As of December 31, 2017,
+
+we had 498 employees, of which 381 were located in the United States and 117 were located outside of the United States. None of our employees are represented by a labor union or covered by a collective bargaining agreement. We consider our
+
+relationship with our employees to be good. Information about Segment and Geographic Revenue 
+
+Information about segment and geographic revenue is set forth in Note 10 of the Notes to Consolidated Financial Statements under Item 8 of
+
+this Annual Report on Form 10-K. Available Information 
+
+Our principal executive offices are located at 290 Congress Street, Boston, Massachusetts, 02210. Our telephone number is (888) 882-1880. Our website address is www.brightcove.com. Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q,
+
+Current Reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934 are available free of charge through the investor
+
+relations page of our website as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission. Alternatively, these reports may be accessed at the SECs website at
+
+www.sec.gov.  
+
+ You should carefully review the risk factors described below and those
+
+described in other reports we file with the Securities and Exchange Commission, as well as the other information contained in this Annual Report on Form 10-K, in evaluating our business. Our business,
+
+prospects, financial condition, or operating results could be harmed by any of these risks, as well as other risks not currently known to us or that we currently consider immaterial. If any of such risks and uncertainties actually occurs, our
+
+business, financial condition or operating results could differ materially from the plans, projections and other forward-looking statements included in the section titled Managements Discussion and Analysis of Financial Condition and
+
+Results of Operations and elsewhere in this report and in our other public filings. The trading price of our common stock could decline due to any of these risks, and, as a result, you may lose all or part of your investment. 
+
+We have a history of losses, we expect to continue to incur losses and we may not achieve or sustain profitability in the future. 
+
+We have incurred significant losses in each fiscal year since our inception in 2004. We experienced a consolidated net loss of
+
+$7.6 million for the year ended December 31, 2015, a consolidated net loss of $10.0 million for the year ended December 31, 2016 and a consolidated net loss of $19.5 million for the year ended December 31, 2017. These
+
+losses were due to the substantial investments we made to build our products and services, grow and maintain our business and acquire customers. Key elements of our growth strategy include acquiring new customers and continuing to innovate and build
+
+our brand. As a result, we expect our operating expenses to increase in the future due to expected increased sales and marketing expenses, operations 
+
+  13 
+
+Table of Contents
+
+costs, research and development costs and general and administrative costs and, therefore, our operating losses will continue or even potentially increase for the foreseeable future. In addition,
+
+as a public company we incur significant legal, accounting and other expenses that we did not incur as a private company. Furthermore, to the extent that we are successful in increasing our customer base, we will also incur increased expenses
+
+because costs associated with generating and supporting customer agreements are generally incurred up front, while revenue is generally recognized ratably over the committed term of the agreement. You should not rely upon our recent bookings or
+
+revenue growth as indicative of our future performance. We cannot assure you that we will reach profitability in the future or at any specific time in the future or that, if and when we do become profitable, we will sustain profitability. If we are
+
+ultimately unable to generate sufficient revenue to meet our financial targets, become profitable and have sustainable positive cash flows, investors could lose their investment.
+
+Substantially all of our revenue has historically come from a single product, Video Cloud. 
+
+We have historically been substantially dependent on revenue from a single product, Video Cloud, and we expect that revenue from Video Cloud
+
+will continue to comprise a significant portion of our revenue. Our business would be harmed by a decline in the market for Video Cloud, increased competition in the market for online video platforms, or our failure or inability to provide
+
+sufficient investment to support Video Cloud as needed to maintain or grow its competitive position. If we are unable to retain our existing
+
+customers, our revenue and results of operations will be adversely affected. We sell our products pursuant to agreements that are
+
+generally for annual terms. Our customers have no obligation to renew their subscriptions after their subscription period expires, and we have experienced losses of customers that elected not to renew, in some cases, for reasons beyond our control.
+
+For example, our largest customer during 2016 faced distressing financial circumstances and, as a result, we lost substantially all of the revenue we expected to generate from this customer in 2017. In addition, even if subscriptions are renewed,
+
+they may not be renewed on the same or on more profitable terms. As a result, our ability to retain our existing customers and grow depends in part on subscription renewals. We may not be able to accurately predict future trends in customer
+
+renewals, and our customers renewal rates have and may continue to decline or fluctuate because of several factors, including their satisfaction or dissatisfaction with our services, the cost of our services and the cost of services offered by
+
+our competitors, reductions in our customers spending levels or the introduction by competitors of attractive features and functionality. If our customer retention rate decreases, we may need to increase the rate at which we add new customers
+
+in order to maintain and grow our revenue, which may require us to incur significantly higher advertising and marketing expenses than we currently anticipate, or our revenue may decline. If our customers do not renew their subscriptions for our
+
+services, renew on less favorable terms, or do not purchase additional functionality or subscriptions, our revenue may grow more slowly than expected or decline, and our profitability and gross margins may be harmed or affected. 
+
+Our long term financial targets are predicated on bookings and revenue growth and operating margin improvements that we may fail to achieve, which could
+
+reduce our expected earnings and cause us to fail to meet the expectations of analysts or investors and cause the price of our securities to decline. 
+
+We are projecting long-term bookings, revenue and earnings growth. Our projections are based on the expected growth potential in our premium
+
+customer base, as well as the market for on-demand software solutions generally. We may not achieve the expected bookings and revenue growth if the markets we serve do not grow at expected rates, if customers
+
+do not purchase or renew subscriptions as we expect, and/or if we are not able to deliver products desired by customers and potential customers. Our long-term operating margin improvement targets are predicated on operating leverage as long term
+
+revenue increases and improved operating efficiencies from moving to additional cloud-based delivery of services, together with lower cost of goods sold, research and development expenses and general and administrative expenses as a percentage of
+
+total revenue. If operating margins do not improve, our earnings could be adversely affected and the price of our securities could decline. 
+
+  14 
+
+Table of Contents
+
+The actual market for our solutions could be significantly smaller than our estimates of our total
+
+potential market opportunity, and if customer demand for our services does not meet expectations, our ability to generate revenue and meet our financial targets could be adversely affected. 
+
+While we expect strong growth in the markets for our products, it is possible that the growth in some or all of these markets may not meet our
+
+expectations, or materialize at all. The methodology on which our estimate of our total potential market opportunity is based includes several key assumptions based on our industry knowledge and customer experience. If any of these assumptions
+
+proves to be inaccurate, then the actual market for our solutions could be significantly smaller than our estimates of our total potential market opportunity. If the customer demand for our services or the adoption rate in our target markets does
+
+not meet our expectations, our ability to generate revenue from customers and meet our financial targets could be adversely affected. Our business
+
+is substantially dependent upon the continued growth of the market for on-demand software solutions. 
+
+We derive, and expect to continue to derive, substantially all of our revenue from the sale of our
+
+on-demand solutions. As a result, widespread acceptance and use of the on-demand business model is critical to our future growth and success. Under the perpetual or
+
+periodic license model for software procurement, users of the software would typically install and operate the applications on their hardware. Because many companies are generally predisposed to maintaining control of their information technology,
+
+or IT, systems and infrastructure, there may be resistance to the concept of accessing software as a service provided by a third party. In addition, the market for on-demand software solutions is still
+
+evolving, and competitive dynamics may cause pricing levels to change as the market matures and as existing and new market participants introduce new types of solutions and different approaches to enable organizations to address their technology
+
+needs. As a result, we may be forced to reduce the prices we charge for our products and may be unable to renew existing customer agreements or enter into new customer agreements at the same prices and upon the same terms that we have historically.
+
+If the market for on-demand software solutions fails to grow, grows more slowly than we currently anticipate or evolves and forces us to reduce the prices we charge for our products, our bookings growth,
+
+revenue, gross margin and other operating results could be materially adversely affected. Our operating results may fluctuate from quarter to
+
+quarter, which could make them difficult to predict. Our quarterly operating results are tied to certain financial and operational
+
+metrics that have fluctuated in the past and may fluctuate significantly in the future. As a result, you should not rely upon our past quarterly operating results as indicators of future performance. Our operating results depend on numerous factors,
+
+many of which are outside of our control. In addition to the other risks described in this Risk Factors section, the following risks could cause our operating results to fluctuate: 
+
+  15 
+
+Table of Contents
+
+We have a relatively short operating history in a relatively new and rapidly developing market, which
+
+makes it difficult to evaluate our business and future prospects. Our business has a relatively short operating history and the
+
+market for our products and services is relatively new and rapidly developing, which makes it difficult to evaluate our business and future prospects. We have been in existence since 2004, and much of our growth has occurred in recent periods. We
+
+have encountered, and will continue to encounter, risks and difficulties frequently experienced by growing companies in rapidly changing industries, including those related to: 
+
+If we do not manage these risks successfully, our business will be harmed.
+
+Our long-term success depends, in part, on our ability to expand the sales of our products to customers located outside of the United States, and thus
+
+our business is susceptible to risks associated with international sales and operations. We currently maintain offices and have
+
+sales personnel in Australia, France, India, Japan, Singapore, South Korea, Spain, the United Arab Emirates and the United Kingdom, and we intend to expand our international operations. Any international expansion efforts that we may undertake may
+
+not be successful. In addition, conducting international operations subjects us to new risks that we have not generally faced in the United States. These risks include:  
+
+  16 
+
+Table of Contents
+
+ These
+
+factors may cause our costs of doing business in these geographies to exceed our comparable domestic costs. Operating in international markets also requires significant management attention and financial resources. Any negative impact from our
+
+international business efforts could negatively impact our business, results of operations and financial condition as a whole. We must keep up with
+
+rapid technological change to remain competitive in a rapidly evolving industry. Our markets are characterized by rapid
+
+technological change, frequent new product and service introductions and evolving industry standards. Our future success will depend on our ability to adapt quickly to rapidly changing technologies, to adapt our services and products to evolving
+
+industry standards and to improve the performance and reliability of our services and products. To achieve market acceptance for our products, we must effectively anticipate and offer products that meet changing customer demands in a timely manner.
+
+Customers may require features and functionality that our current products do not have. If we fail to develop products that satisfy customer preferences in a timely and cost-effective manner, our ability to renew our contracts with existing
+
+customers and our ability to create or increase demand for our products will be harmed. We may experience difficulties with software
+
+development, industry standards, design or marketing that could delay or prevent our development, introduction or implementation of new products and enhancements. The introduction of new products by competitors, the emergence of new industry
+
+standards or the development of entirely new technologies to replace existing offerings could render our existing or future products obsolete.
+
+If we are unable to successfully develop or acquire new features and functionality, enhance our existing products to anticipate and meet
+
+customer requirements or sell our products into new markets, our bookings growth, revenue and results of operations will be adversely affected. We
+
+face significant competition and may be unsuccessful against current and future competitors. If we do not compete effectively, our operating results and future growth could be harmed. 
+
+We compete with video sharing sites, in-house solutions, online video platforms and certain niche
+
+technology providers, as well as larger companies that offer multiple services, including those that may be used as substitute services for our products. Competition is already intense in these markets and, with the introduction of new technologies
+
+and market entrants, we expect competition to further intensify in the future. In addition, some of our competitors may make acquisitions, be acquired, or enter into strategic relationships to offer a more comprehensive service than we do. These
+
+combinations may make it more difficult for us to compete effectively. We expect these trends to continue as competitors attempt to strengthen or maintain their market positions. 
+
+Demand for our services is sensitive to price. Many factors, including our advertising, customer acquisition and technology costs,
+
+commoditization of our products and services and our current and future competitors pricing and marketing strategies, can significantly affect our pricing strategies. There can be no assurance that we will not be forced to engage in
+
+price-cutting initiatives, or to increase our advertising and other expenses to attract and retain customers in response to competitive pressures, either of which could have a material adverse effect on our revenue, operating results and resources.
+
+ We will likely encounter significant, growing competition in our business from many sources, including portals and digital media
+
+retailers, search engines, social networking and consumer-sharing services companies, 
+
+  17 
+
+Table of Contents
+
+broadband media distribution platforms, technology suppliers, direct broadcast satellite television service companies and digital and traditional cable systems. Many of our present and likely
+
+future competitors have substantially greater financial, marketing, technological and other resources than we do. Some of these companies may even choose to offer services competitive with ours at no cost as a strategy to attract or retain customers
+
+of their other services. Technological and commercial developments may lead to the increasing commoditization of our products and services, including data delivery and storage, further increasing downward pressure on the prices we can charge. If we
+
+are unable to compete successfully with traditional and other emerging providers of competing services, our business, financial condition and results of operations could be adversely affected. 
+
+We depend on the experience and expertise of our executive officers, senior management team and key technical employees, and the loss of any key
+
+employee could have an adverse effect on our business, financial condition and results of operations. Our success depends upon the
+
+continued service of our executive officers, senior management team and key technical employees, as well as our ability to continue to attract and retain additional highly qualified personnel. Each of our executive officers, senior management team,
+
+key technical personnel and other employees could terminate his or her relationship with us at any time. The loss of any member of our senior management team or key personnel might significantly delay or prevent the achievement of our business
+
+objectives and could materially harm our business and our customer relationships. In addition, because of the nature of our business, the loss of any significant number of our existing engineering, project management and sales personnel could have
+
+an adverse effect on our business, financial condition and results of operations. Our business and operations have experienced rapid growth and
+
+organizational change in recent periods, which has placed, and may continue to place, significant demands on our management and infrastructure. If we fail to manage our growth effectively and successfully recruit additional highly-qualified
+
+employees, we may be unable to execute our business plan, maintain high levels of service or address competitive challenges adequately. 
+
+We increased our number of full-time employees from 413 as of December 31, 2015, to 490 as of December 31, 2016 and to 498 as of
+
+December 31, 2017, and our revenue grew from $134.7 million in 2015 to $150.3 million in 2016 and to $155.9 million in 2017. Our headcount and operations have grown, both domestically and internationally, since our inception.
+
+This growth has placed, and will continue to place, a significant strain on our management, administrative, operational and financial infrastructure. We anticipate further growth will be required to address increases in our product and service
+
+offerings and continued international expansion. Our success will depend in part upon the ability of our senior management team to manage this growth effectively. To do so, we must continue to recruit, hire, train, manage and integrate a significant
+
+number of qualified managers, technical personnel and employees in specialized roles within our company, including in technology, sales and marketing. If our new employees perform poorly, or if we are unsuccessful in recruiting, hiring, training,
+
+managing and integrating these new employees, or retaining these or our existing employees, our business may suffer. In addition, to
+
+manage the expected continued growth of our headcount, operations and geographic expansion, we will need to continue to improve our information technology infrastructure, operational, financial and management systems and procedures. Our expected
+
+additional headcount and capital investments will increase our costs, which will make it more difficult for us to address any future revenue shortfalls by reducing expenses in the short term. If we fail to successfully manage our growth we will be
+
+unable to successfully execute our business plan, which could have a negative impact on our business, financial condition or results of operations. 
+
+  18 
+
+Table of Contents
+
+Potential future acquisitions could be difficult to integrate, divert the attention of key personnel,
+
+disrupt our business, dilute stockholder value and impair our financial results. As part of our business strategy, we intend to
+
+consider acquisitions of companies, technologies and products that we believe could accelerate our ability to compete in our core markets or allow us to enter new markets. Acquisitions involve numerous risks, any of which could harm our business,
+
+including:  
+
+ Acquisitions also
+
+frequently result in the recording of goodwill and other intangible assets which are subject to potential impairments in the future that could harm our financial results. In addition, if we finance acquisitions by issuing equity securities, our
+
+existing stockholders may be diluted. As a result, if we fail to properly evaluate acquisitions or investments, we may not achieve the anticipated benefits of any such acquisitions, and we may incur costs in excess of what we anticipate. The failure
+
+to successfully evaluate and execute acquisitions or investments or otherwise adequately address these risks could materially harm our business and financial results. 
+
+We may experience delays in product and service development, including delays beyond our control, which could prevent us from achieving our growth
+
+objectives and hurt our business. Many of the problems, delays and expenses we may encounter may be beyond our control. Such
+
+problems may include, but are not limited to, problems related to the technical development of our products and services, problems with the infrastructure for the distribution and delivery of online media, the competitive environment in which we
+
+operate, marketing problems, consumer and advertiser acceptance and costs and expenses that may exceed current estimates. Problems, delays or expenses in any of these areas could have a negative impact on our business, financial conditions or
+
+results of operations. Delays in the timely design, development, deployment and commercial operation of our product and service
+
+offerings, and consequently the achievement of our revenue targets and positive cash flow, could result from a variety of causes, including many causes that are beyond our control. Such delays include, but are not limited to, delays in the
+
+integration of new offers into our existing offering, changes to our products and services made to correct or enhance their features, performance or marketability or in response to regulatory developments or otherwise, delays encountered in the
+
+development, integration or testing of our products and services and the infrastructure for the distribution and delivery of online media and other systems, unsuccessful commercial launches of new products and services, delays in our ability to
+
+obtain financing, insufficient or ineffective marketing efforts and slower-than-anticipated consumer acceptance of our products. Delays in any of these matters could hinder or prevent our achievement of our growth objectives and hurt our business.
+
+ There is no assurance that the current cost of Internet connectivity and network access will not rise with the increasing popularity of online
+
+media services. We rely on third-party service providers for our principal connections to the Internet and network access, and to
+
+deliver media to consumers. As demand for online media increases, there can be no assurance that Internet 
+
+  19 
+
+Table of Contents
+
+and network service providers will continue to price their network access services on reasonable terms. The distribution of online media requires delivery of digital content files and providers
+
+of network access and distribution may change their business models and increase their prices significantly, which could slow the widespread adoption of such services. In order for our services to be successful, there must be a reasonable price
+
+model in place to allow for the continuous distribution of digital media files. We have limited or no control over the extent to which any of these circumstances may occur, and if network access or distribution prices rise, our business, financial
+
+condition and results of operations would likely be adversely affected. Failure of our infrastructure for the distribution and delivery of online
+
+media could adversely affect our business. Our success as a business depends, in large part, on our ability to provide a
+
+consistently high-quality digital experience to consumers via our relationships and infrastructure for the distribution and delivery of online media generally. There is no guarantee that our relationships and infrastructure will not experience
+
+problems or other performance issues, which could seriously impair the quality and reliability of our delivery of digital media to end users. For example, we primarily use three content delivery networks, or CDNs, to deliver content to end users. If
+
+one or more of these CDNs were to experience sustained technical failures, it could cause delays in our service and we could lose customers. If we do not accurately predict our infrastructure capacity requirements, our customers could experience
+
+service outages or service degradation that may subject us to financial penalties and liabilities and result in customer losses. In the past we have, on limited occasions, suffered temporary interruptions of certain aspects of our service, including
+
+our customers ability to upload new content into our system, our customers ability to access administrative control of their accounts, and our ability to deliver content to end users in certain geographic locations. These service
+
+interruptions were the results of human error, hardware and software failures or failures of third-party networks. On a limited number of occasions, these service interruptions have required us to provide service credits to customers. We cannot
+
+guarantee that service interruptions will not occur again or predict the duration of interruptions of our service or the impact of such interruptions on our customers. Failures and interruptions of our service may impact our reputation, result in
+
+our payment of compensation or service credits to our customers, result in loss of customers and adversely affect our financial results and ability to grow our business. In addition, if our hosting infrastructure capacity fails to keep pace with
+
+increased sales or if our delivery capabilities fail, customers may experience delays as we seek to obtain additional capacity or enable alternative delivery capability, which could harm our reputation and adversely affect our revenue growth.
+
+We may have difficulty scaling and adapting our existing infrastructure to accommodate increased traffic and storage, technology advances or customer
+
+requirements. In the future, advances in technology, increases in traffic and storage, and new customer requirements may require
+
+us to change our infrastructure, expand our infrastructure or replace our infrastructure entirely. Scaling and adapting our infrastructure is likely to be complex and require additional technical expertise. If we are required to make any changes to
+
+our infrastructure, we may incur substantial costs and experience delays or interruptions in our service. These delays or interruptions may cause customers and partners to become dissatisfied with our service and move to competing service providers.
+
+Our failure to accommodate increased traffic and storage, increased costs, inefficiencies or failures to adapt to new technologies or customer requirements and the associated adjustments to our infrastructure could harm our business, financial
+
+condition and results of operations. We rely on software and services licensed from other parties. The loss of software or services from third
+
+parties could increase our costs and limit the features available in our products and services. Components of our service and
+
+product offerings include various types of software and services licensed from unaffiliated parties. If any of the software or services we license from others or functional equivalents thereof were either no longer available to us or no longer
+
+offered on commercially reasonable terms, we would be 
+
+  20 
+
+Table of Contents
+
+required to either redesign our services and products to function with software or services available from other parties or develop these components ourselves. In either case, the transition to a
+
+new service provider or an internally-developed solution could result in increased costs and could result in delays in our product launches and the release of new service and product offerings. Furthermore, we might be forced to temporarily limit
+
+the features available in our current or future products and services. If we fail to maintain or renegotiate any of these software or service licenses, we could face significant delays and diversion of resources in attempting to license and
+
+integrate functional equivalents. If our software products contain serious errors or defects, then we may lose revenue and market acceptance and
+
+may incur costs to defend or settle claims. Complex software applications such as ours often contain errors or defects,
+
+particularly when first introduced or when new versions or enhancements are released. Despite internal testing and testing by our customers, our current and future products may contain serious defects, which could result in lost revenue, lost
+
+customers, slower growth or a delay in market acceptance. Since our customers use our products for critical business applications, such
+
+as online video, errors, defects or other performance problems could result in damage to our customers. They could seek significant compensation from us for the losses they suffer. Although our customer agreements typically contain provisions
+
+designed to limit our exposure to claims, existing or future laws or unfavorable judicial decisions could negate these limitations. Even if not successful, a claim brought against us would likely be time-consuming and costly and could seriously
+
+damage our reputation in the marketplace, making it harder for us to sell our products. Unauthorized disclosure of data, unauthorized access to our
+
+service and misuse of our service could adversely affect our business. Any security breaches, unauthorized access, unauthorized
+
+usage, virus or similar breach or disruption could result in loss of confidential information, personal data and customer content, damage to our reputation, early termination of our contracts, litigation, regulatory investigations, increased costs
+
+or other liabilities. If our security measures, or those of our partners or service providers, are breached as a result of third-party action, employee error, malfeasance or otherwise and, as a result, someone obtains unauthorized access to
+
+confidential information, personal data or customer content, our reputation will be damaged, our business may suffer or we could incur significant liability. If the measures we have put in place to limit or restrict access to and use of
+
+functionality, usage entitlements and support for customers or prospective customers are breached, circumvented or ineffective as a result of third-party action, employee error, malfeasance or otherwise and, as a result, someone obtains unauthorized
+
+access to and use of functionality, usage entitlements and support, our business may suffer or we could incur significant liability and/or costs. 
+
+Techniques used to obtain unauthorized access or use or to sabotage systems change frequently and generally are not recognized until launched
+
+against a target. As a result, we may be unable to anticipate these techniques or to implement adequate preventative measures. If an actual or perceived security breach occurs, the market perception of our security measures could be harmed and we
+
+could lose sales and customers. Any significant violations of data privacy or unauthorized disclosure of information could result in the loss of business, litigation and regulatory investigations and penalties that could damage our reputation and
+
+adversely impact our results of operations and financial condition. Moreover, if a security breach occurs with respect to another software as a service, or SaaS, provider, our customers and potential customers may lose trust in the security of the
+
+SaaS business model generally, which could adversely impact our ability to retain existing customers or attract new ones. We use a limited number
+
+of data centers and cloud computing services facilities to deliver our services. Any disruption of service at these facilities could harm our business. 
+
+We manage our services and serve all of our customers from a limited number of third-party data center facilities and cloud computing services
+
+facilities. While we control the actual computer and storage systems upon 
+
+  21 
+
+Table of Contents
+
+which our software runs, and deploy them to the data center facilities, we do not control the operation of these facilities. 
+
+The owners of these facilities have no obligation to renew their agreements with us on commercially reasonable terms, or at all. If we are
+
+unable to renew these agreements on commercially reasonable terms, we may be required to transfer to new facilities, and we may incur significant costs and possible service interruption in connection with doing so. 
+
+Any changes in third-party service levels at these facilities or any errors, defects, disruptions or other performance problems at or related
+
+to these facilities that affect our services could harm our reputation and may damage our customers businesses. Interruptions in our services might reduce our revenue, cause us to issue credits to customers, subject us to potential liability,
+
+and cause customers to terminate their subscriptions or harm our renewal rates. These facilities are vulnerable to damage or service
+
+interruption resulting from human error, intentional bad acts, security breaches, earthquakes, hurricanes, floods, fires, war, terrorist attacks, power losses, hardware failures, systems failures, telecommunications failures and similar events. For
+
+example, on September 18, 2014, we suffered a service disruption resulting from a distributed denial-of-service attack at third-party data center facilities used by
+
+us. By September 20, 2014, we had restored the services impacted by the attack. We contacted federal law enforcement authorities regarding the denial-of-service
+
+attack and cooperated with them. We also conducted an assessment of our internet service providers and data center providers, potential future vulnerability to malicious activity, and the sufficiency of our infrastructure to withstand and recover
+
+rapidly from such attacks. While this matter did not have a material adverse effect on our operating results, there can be no assurance that such incidents will not occur again, and they could occur more frequently and on a more significant scale.
+
+The occurrence of a natural disaster or an act of terrorism, or vandalism or other misconduct, or a decision to close the facilities without adequate notice or other unanticipated problems could result in lengthy interruptions in our services.
+
+Our business may be adversely affected by third-party claims, including by governmental bodies, regarding the content and advertising distributed
+
+through our service. We rely on our customers to secure the rights to redistribute content over the Internet, and we do not screen
+
+the content that is distributed through our service. There is no assurance that our customers have licensed all rights necessary for distribution, including Internet distribution. Other parties may claim certain rights in the content of our
+
+customers. In the event that our customers do not have the necessary distribution rights related to content, we may be required to cease
+
+distributing such content, or we may be subject to lawsuits and claims of damages for infringement of such rights. If these claims arise with frequency, the likelihood of our business being adversely affected would rise significantly. In some cases,
+
+we may have rights to indemnification or claims against our customers if they do not have appropriate distribution rights related to specific content items, however there is no assurance that we would be successful in any such claim. 
+
+We operate an open publishing platform and do not screen the content that is distributed through our service. Content may be
+
+distributed through our platform that is illegal or unlawful under international, federal, state or local laws or the laws of other countries. We may face lawsuits, claims or even criminal charges for such distribution, and we may be subject to
+
+civil, regulatory or criminal sanctions and damages for such distribution. Any such claims or investigations could adversely affect our business, financial condition and results of operations. 
+
+  22 
+
+Table of Contents
+
+We could incur substantial costs as a result of any claim of infringement of another partys
+
+intellectual property rights. In recent years, there has been significant litigation in the United States involving patents and
+
+other intellectual property rights. Companies providing Internet-related products and services are increasingly bringing and becoming subject to suits alleging infringement of proprietary rights, particularly patent rights. These risks have been
+
+amplified by the increase in third parties whose sole or primary business is to assert such claims, some of whom have sent letters to and/or filed suit alleging infringement against some of our customers. From time to time, third parties claim that
+
+we are infringing upon their intellectual property rights. For information regarding these claims, see Part I, Item 3, Legal Proceedings. We could incur substantial costs in prosecuting or defending any intellectual property
+
+litigation. Additionally, the defense or prosecution of claims could be time-consuming, and could divert our managements attention away from the execution of our business plan. 
+
+Moreover, any settlement or adverse judgment resulting from a claim could require us to pay substantial amounts or obtain a license to
+
+continue to use the technology that is the subject of the claim, or otherwise restrict or prohibit our use of the technology. There can be no assurance that we would be able to obtain a license from the third party asserting the claim on
+
+commercially reasonable terms, if at all, that we would be able to develop alternative technology on a timely basis, if at all, or that we would be able to obtain a license to use a suitable alternative technology to permit us to continue offering,
+
+and our customers to continue using, our affected product or service. In addition, we may be required to indemnify our customers for third-party intellectual property infringement claims, which would increase the cost to us. An adverse determination
+
+could also prevent us from offering our products or services to others. Infringement claims asserted against us may have an adverse effect on our business, financial condition and results of operations. 
+
+Our agreements with customers often include contractual obligations to indemnify them against claims that our products infringe the
+
+intellectual property rights of third parties. The results of any intellectual property litigation to which we might become a party, or for which we are required to provide indemnification, may force us to do one or more of the following: 
+
+ If we are required to make
+
+substantial payments or undertake any of the other actions noted above as a result of any intellectual property infringement claims against us or any obligation to indemnify our customers for such claims, such payments or costs could have a material
+
+adverse effect upon our business and financial results. Failure to adequately protect our intellectual property could substantially harm our
+
+business and operating results. Because our business depends substantially on our intellectual property, the protection of our
+
+intellectual property rights is important to the success of our business. We rely upon a combination of trademark, patent, trade secret and copyright law and contractual restrictions to protect our intellectual property. These afford only limited
+
+protection. Despite our efforts to protect our property rights, unauthorized parties may attempt to copy aspects of our products, service, software and functionality or obtain and use information that we consider proprietary. Moreover, policing our
+
+proprietary rights is difficult and may not always be effective. In addition, we may need to enforce our rights under the laws of countries that do not protect proprietary rights to as great an extent as do the laws of the United States. 
+
+Litigation or proceedings before the U.S. Patent and Trademark Office or other governmental authorities and administrative bodies in the
+
+United States and abroad may be necessary in the future to enforce our 
+
+  23 
+
+Table of Contents
+
+intellectual property rights, to protect our patent rights, trade secrets, trademarks and domain names, and to determine the validity and scope of the proprietary rights of others. Such
+
+litigation or proceedings may be very costly and impact our financial performance. We may also incur substantial costs defending against frivolous litigation or be asked to indemnify our customers against the same. Our efforts to enforce or protect
+
+our proprietary rights may prove to be ineffective and could result in substantial costs and diversion of resources and could substantially harm our operating results. 
+
+Our exposure to risks associated with the use of intellectual property may increase as a result of acquisitions, as we have less opportunity
+
+to have visibility into the development process with respect to acquired technology or the care taken to safeguard against infringement risks. Third parties may make infringement and similar or related claims after we have acquired technology that
+
+had not been asserted prior to our acquisition. Confidentiality agreements with employees and others may not adequately prevent disclosure of trade
+
+secrets and other proprietary information. We have devoted substantial resources to the development of our technology, business
+
+operations and business plans. In order to protect our trade secrets and proprietary information, we rely in significant part on confidentiality agreements with our employees, licensees, independent contractors, advisers and customers. These
+
+agreements may not be effective to prevent disclosure of confidential information, including trade secrets, and may not provide an adequate remedy in the event of unauthorized disclosure of confidential information. In addition, others may
+
+independently discover trade secrets and proprietary information, and in such cases we would not be able to assert trade secret rights against such parties. To the extent that our employees and others with whom we do business use intellectual
+
+property owned by others in their work for us, disputes may arise as to the rights in related or resulting know-how and inventions. Laws regarding trade secret rights in certain markets in which we operate may
+
+afford little or no protection to our trade secrets. The loss of trade secret protection could make it easier for third parties to compete with our products by copying functionality. In addition, any changes in, or unexpected interpretations of, the
+
+trade secret and other intellectual property laws in any country in which we operate may compromise our ability to enforce our trade secret and intellectual property rights. Costly and time-consuming litigation could be necessary to enforce and
+
+determine the scope of our proprietary rights, and failure to obtain or maintain trade secret protection could adversely affect our competitive business position.
+
+Our use of open source software could negatively affect our ability to sell our services and subject us to possible litigation. 
+
+A portion of the technology licensed by us incorporates open source software, and we may incorporate open source software in the
+
+future. Such open source software is generally licensed by its authors or other third parties under open source licenses. If we fail to comply with these licenses, we may be subject to certain conditions, including requirements that we offer our
+
+services that incorporate the open source software for no cost, that we make available source code for modifications or derivative works we create based upon, incorporating or using the open source software and that we license such modifications or
+
+alterations under the terms of the particular open source license. If an author or other third party that distributes such open source software were to allege that we had not complied with the conditions of one or more of these licenses, we could be
+
+required to incur significant legal expenses defending against such allegations and could be subject to significant damages, enjoined from the sale of our services that contained the open source software and required to comply with the foregoing
+
+conditions, which could disrupt the distribution and sale of some of our services. Fluctuations in the exchange rate of foreign currencies could
+
+result in currency translation losses. We currently have foreign sales denominated in Australian dollars, British pound sterling,
+
+Euros, Japanese yen and New Zealand dollars and may, in the future, have sales denominated in the currencies of additional countries in which we establish or have established sales offices. In addition, we incur a portion of our operating
+
+  24 
+
+Table of Contents
+
+expenses in British pound sterling, Euros, Japanese yen and, to a lesser extent, other foreign currencies. Any fluctuation in the exchange rate of these foreign currencies may negatively impact
+
+our business, financial condition and operating results. We have not previously engaged in foreign currency hedging. If we decide to hedge our foreign currency exposure, we may not be able to hedge effectively due to lack of experience, unreasonable
+
+costs or illiquid markets. We may be required to collect sales and use taxes on the services we sell in additional jurisdictions in the future,
+
+which may decrease sales, and we may be subject to liability for sales and use taxes and related interest and penalties on prior sales. 
+
+State and local taxing jurisdictions have differing rules and regulations governing sales and use taxes and these rules and regulations are
+
+subject to varying interpretations that may change over time. In particular, the applicability of sales and use taxes to our subscription services in various jurisdictions is unclear. We cannot assure you that we will not be subject to sales and use
+
+taxes or related penalties for past sales in states where we presently believe sales and use taxes are not due. We reserve estimated sales and use taxes in our financial statements but we cannot be certain that we have made sufficient reserves to
+
+cover all taxes that might be assessed. If one or more taxing authorities determines that taxes should have, but have not, been paid with
+
+respect to our services, we may be liable for past taxes in addition to being required to collect sales or similar taxes in respect of our services going forward. Liability for past taxes may also include substantial interest and penalty charges.
+
+Our client contracts typically provide that our clients must pay all applicable sales and similar taxes. Nevertheless, clients may be reluctant to pay back taxes and may refuse responsibility for interest or penalties associated with those taxes or
+
+we may determine that it would not be feasible to seek reimbursement. If we are required to collect and pay back taxes and the associated interest and penalties and if our clients do not reimburse us for all or a portion of these amounts, we will
+
+incur unplanned expenses that may be substantial. Moreover, imposition of such taxes on our services going forward will effectively increase the cost of such services to our clients and may adversely affect our ability to retain existing clients or
+
+to gain new clients in the areas in which such taxes are imposed. Government and industry regulation of the Internet is evolving and could directly
+
+restrict our business or indirectly affect our business by limiting the growth of our markets. Unfavorable changes in government regulation or our failure to comply with regulations could harm our business and operating results. 
+
+Federal, state and foreign governments and agencies have adopted and could in the future adopt regulations covering issues such as user
+
+privacy, content, and taxation of products and services. Government regulations could limit the market for our products and services or impose burdensome requirements that render our business unprofitable. Our products enable our customers to
+
+collect, manage and store a wide range of data. The United States and various state governments have adopted or proposed limitations on the collection, distribution and use of personal information. Several foreign jurisdictions, including the
+
+European Union and the United Kingdom, have adopted legislation (including directives or regulations) that increase or change the requirements governing data collection and storage in these jurisdictions. If our privacy or data security measures
+
+fail to comply with current or future laws and regulations, we may be subject to litigation, regulatory investigations or other liabilities, or our customers may terminate their relationships with us. 
+
+In addition, although many regulations might not apply to our business directly, we expect that laws regulating the solicitation, collection
+
+or processing of personal and consumer information could affect our customers ability to use and share data, potentially reducing demand for our services. The Telecommunications Act of 1996 and the European Union Data Protection Directive
+
+along with other similar laws and regulations prohibit certain types of information and content from being transmitted over the Internet. The scope of this prohibition and the liability associated with a violation are currently unsettled. In
+
+addition, although substantial portions of the Communications Decency Act were held to be unconstitutional, we cannot be certain that similar 
+
+  25 
+
+Table of Contents
+
+legislation will not be enacted and upheld in the future. Legislation like the Telecommunications Act and the Communications Decency Act could dampen the growth in web usage and decrease its
+
+acceptance as a medium of communications and commerce. Moreover, if future laws and regulations limit our customers ability to use and share consumer data or our ability to store, process and share data with our customers over the Internet,
+
+demand for our products could decrease, our costs could increase, and our results of operations and financial condition could be harmed. 
+
+In addition, taxation of services provided over the Internet or other charges imposed by government agencies or by private organizations for
+
+accessing the Internet may be imposed. Any regulation imposing greater fees for Internet use or restricting information exchange over the Internet could result in a decline in the use of the Internet and the viability of Internet-based services,
+
+which could harm our business and operating results. Our stock price has been volatile and is likely to be volatile in the future. 
+
+The market price of our common stock has been and is likely to be highly volatile and could be subject to significant fluctuations in response
+
+to, among other things, the risk factors described in this report and other factors beyond our control. Market prices for securities of early stage companies have historically been particularly volatile. Some, but not all, of the factors that may
+
+cause the market price of our common stock to fluctuate include:  
+
+ In addition, if the market for
+
+technology stocks, or the stock market in general, experiences a loss of investor confidence, the trading price of our common stock could decline for reasons unrelated to our business, financial condition, or results of operations. If any of the
+
+foregoing occurs, it could cause our stock price to fall and may expose us to lawsuits that, even if unsuccessful, could be costly to defend and a distraction to management. 
+
+Our business and operations could be adversely affected if we are subject to stockholder activism, which could cause us to incur significant expense and
+
+impact the market price of our common stock. In recent years, proxy contests and other forms of stockholder activism have been
+
+directed against numerous public companies. Stockholder activism, including potential proxy contests, could result in substantial costs and divert the attention of our management and our board of directors and resources from our business. Activist
+
+  26 
+
+Table of Contents
+
+campaigns can create perceived uncertainties as to our future direction, strategy or leadership and may result in the loss of potential business opportunities and harm our ability to attract new
+
+customers, employees and investors. In addition, we may be required to incur significant legal fees and other expenses related to any activist stockholder matters. Further, the market price of our common stock could be subject to significant
+
+fluctuation or otherwise be adversely affected by the events, risks, and uncertainties of any stockholder activism. If securities or industry
+
+analysts do not publish, or cease publishing, research or reports about us, our business or our market, or if they adversely change their recommendations regarding our stock, our stock price and trading volume could decline. 
+
+The trading market for our common stock will be influenced by research and reports that industry or security analysts may publish about us, our
+
+business, our market or our competitors. If any of the analysts who may cover us adversely change their recommendations regarding our stock, or provide more favorable relative recommendations about our competitors, our stock price would likely
+
+decline. If any analyst who may cover us were to cease coverage of our company or fail to regularly publish reports on us, we could lose visibility in the financial markets, which in turn could cause our stock price or trading volume to decline.
+
+ We are an emerging growth company and we cannot be certain if the reduced disclosure requirements applicable to emerging growth
+
+companies will make our common stock less attractive to investors. We are an emerging growth company, as defined in
+
+the Jumpstart Our Business Startups Act of 2012, or the JOBS Act, and we may take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies
+
+including, but not limited to, reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements and exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and
+
+shareholder approval of any golden parachute payments not previously approved. We cannot predict if investors will find our common stock less attractive because we may rely on these exemptions. If some investors find our common stock less attractive
+
+as a result, there may be a less active trading market for our common stock and our stock price may be more volatile. We may take advantage of these reporting exemptions until we are no longer an emerging growth company. 
+
+In addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended
+
+transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an emerging growth company can delay the adoption of certain accounting standards until
+
+those standards would otherwise apply to private companies. However, we chose to opt out of such extended transition period, and as a result, we will comply with new or revised accounting standards on the relevant dates on which adoption
+
+of such standards is required for non-emerging growth companies. Section 107 of the JOBS Act provides that our decision to opt out of the extended transition period for complying with new or revised
+
+accounting standards is irrevocable. We do not expect to declare any dividends in the foreseeable future. 
+
+We do not anticipate declaring any dividends to holders of our common stock in the foreseeable future. Consequently, investors may need to rely
+
+on sales of their common stock after price appreciation, which may never occur, as the only way to realize any future gains on their investment. Investors seeking dividends should not purchase our common stock. 
+
+We may be unable to meet our future capital requirements, which could limit our ability to grow. 
+
+We believe our existing cash and cash equivalents will be sufficient to meet our anticipated working capital and capital expenditure needs over
+
+at least the next 12 months. We may, however, need, or could elect to seek, additional funding at any time. To the extent that existing resources are insufficient to fund our business 
+
+  27 
+
+Table of Contents
+
+operations, our future activities for the expansion of our service and our product offerings, developing and sustaining our relationships and infrastructure for the distribution and delivery of
+
+digital media online, marketing, and supporting our office facilities, we may need to raise additional funds through equity or debt financing. Additional funds may not be available on terms favorable to us or our stockholders. Furthermore, if we
+
+issue equity securities, our stockholders may experience additional dilution or the new equity securities may have rights, preferences and privileges senior to those of our existing classes of stock. If we cannot raise funds on acceptable terms, we
+
+may not be able to develop or enhance our products, take advantage of future opportunities or respond to competitive pressures or unanticipated requirements. 
+
+Failure to maintain effective internal control over financial reporting could result in our failure to accurately report our financial results. Any
+
+inability to report and file our financial results accurately and timely could harm our business and adversely impact investor confidence in our company and, as a result, the value of our common stock. 
+
+We are required to evaluate our internal control over financial reporting in connection with Section 404 of the Sarbanes-Oxley Act, and
+
+our independent registered public accounting firm is required to attest to the effectiveness of our internal control over financial reporting. This assessment includes the disclosure of any material weaknesses in our internal control over financial
+
+reporting identified by our management, as well as our independent registered public accounting firms attestation report on our internal control over financial reporting. During the evaluation and testing process, if we identify one or more
+
+material weaknesses in our internal control over financial reporting, we will be unable to assert that our internal control over financial reporting is effective. If we are unable to assert that our internal control over financial reporting is
+
+effective, or if our independent registered public accounting firm is unable to express an opinion on the effectiveness of our internal control over financial reporting, we could lose investor confidence in the accuracy and completeness of our
+
+financial reports, which could have a material adverse effect on the price of our common stock. Anti-takeover provisions contained in our amended
+
+and restated certificate of incorporation and amended and restated bylaws, as well as provisions of Delaware law, could impair a takeover attempt. 
+
+Our amended and restated certificate of incorporation and bylaws, and Delaware law, contain provisions that could have the effect of rendering
+
+more difficult or discouraging an acquisition deemed undesirable by our board of directors. Our corporate governance documents include provisions:  
+
+  28 
+
+Table of Contents
+
+These provisions, alone or together, could delay hostile takeovers and changes in control of
+
+our company or changes in our management. As a Delaware corporation, we are also subject to provisions of Delaware law, including
+
+Section 203 of the Delaware General Corporation Law, which prevents some stockholders holding more than 15% of our outstanding common stock from engaging in certain business combinations without approval of the holders of substantially all of
+
+our outstanding common stock. Any provision of our amended and restated certificate of incorporation or bylaws or Delaware law that has the effect of delaying or deterring a change in control could limit the opportunity for our stockholders to
+
+receive a premium for their shares of our common stock, and could also affect the price that some investors are willing to pay for our common stock. 
+
+We record substantial expenses related to our issuance of equity awards that may have a material adverse impact on our operating results for the
+
+foreseeable future. We expect our stock-based compensation expenses will continue to be significant in future periods, which will
+
+have an adverse impact on our operating results. The model used by us requires the input of highly subjective assumptions, including the price volatility of the options underlying stock. If facts and circumstances change and we employ
+
+different assumptions for estimating stock-based compensation expense in future periods, or if we decide to use a different valuation model, the future period expenses may differ significantly from what we have recorded in the current period and
+
+could materially affect the fair value estimate of stock-based payments, our operating income, net income and net income per share. Failure of our
+
+customers to pay the amounts owed to us, or to pay such amounts in a timely manner, may adversely affect our financial condition and operating results. 
+
+If any of our significant customers have insufficient liquidity, we could encounter significant delays or defaults in payments owed to us by
+
+such customers, and we may need to extend our payment terms or restructure the receivables owed to us, which could have a significant adverse effect on our financial condition, including impacting the timing of revenue recognition. Any deterioration
+
+in the financial condition of our customers will increase the risk of uncollectible receivables. Global economic uncertainty could also affect our customers ability to pay our receivables in a timely manner or at all or result in customers
+
+going into bankruptcy or reorganization proceedings, which could also affect our ability to collect our receivables. If we do not successfully
+
+manage the transition associated with the resignation of our former Chief Executive Officer (CEO) and the appointment of a new CEO, it could be viewed negatively by our customers and shareholders and could have an adverse impact on our
+
+business. David Mendels resigned from his position as the Companys CEO and resigned from the Board effective July 24,
+
+2017. Andrew Feinberg, formerly the Companys President and Chief Operations Officer, is serving as the Companys acting CEO. The Board has an active search process underway to select the next CEO from internal and external candidates.
+
+Such leadership transitions can be inherently difficult to manage, and an inadequate transition of our CEO may cause disruption to our business, including to our relationships with customers, vendors and employees. In addition, if we are unable to
+
+attract and retain a qualified candidate to become our permanent CEO in a timely manner, our ability to meet our financial and operational goals and strategic plans may be adversely impacted, as well as our financial performance. It may also make it
+
+more difficult to retain and hire key employees. Changes in interpretations of financial accounting standards may cause an adverse impact to our
+
+reported results of operations. In May 2014, the Financial Accounting Standards Board issued new revenue recognition rules under
+
+Accounting Standards Codification 606, Revenue from Contracts with Customers, or ASC 606, which is effective 
+
+  29 
+
+Table of Contents
+
+for interim and annual periods beginning after December 31, 2017. We have elected to adopt the new standard effective January 1, 2018 using the modified retrospective method. 
+
+In order to comply with the requirements of ASC 606 on January 1, 2018, we are continuing to update and enhance our internal accounting
+
+systems and our internal controls over financial reporting. If we are not successful in updating our policies, procedures, information systems and internal controls over financial reporting, the revenue that we recognize and the related disclosures
+
+that we provide under ASC 606 may not be complete or accurate, which could harm our operating results or cause us to fail to meet our reporting obligations. 
+
+The effect of comprehensive U.S. tax reform legislation on the Company and its affiliates, whether adverse or favorable, is uncertain. 
+
+On December 22, 2017, President Trump signed into law H.R. 1, An Act to provide for reconciliation pursuant to titles II and V of
+
+the concurrent resolution on the budget for fiscal year 2018 (informally titled the Tax Cuts and Jobs Act). Among a number of significant changes to the U.S. federal income tax rules, the Tax Cuts and Jobs Act reduces the marginal
+
+U.S. corporate income tax rate from 35% to 21%, limits the deduction for net interest expense, shifts the United States toward a more territorial tax system, and imposes new taxes to combat erosion of the U.S. federal income tax base. The effect of
+
+the Tax Cuts and Jobs Act on the Company and its affiliates, whether adverse or favorable, is uncertain, and may not become evident for some period of time.  
+
+ Not applicable.
+
+ Our corporate headquarters are located in Boston, Massachusetts. We lease
+
+82,184 square feet pursuant to a lease that terminates March 31, 2022. We have sales and marketing offices in Tokyo, Japan; Sydney, Australia; Seoul, South Korea; and Singapore. Our offices in New York, New York; London, England; Seattle,
+
+Washington; San Francisco, California; and Tempe, Arizona are used for sales and marketing as well as research and development. We believe our facilities are adequate for our current needs. 
+
+The Companys primary office lease has the option to renew the lease for two successive periods of five years each. In connection with
+
+the office lease, the Company entered into a letter of credit in the amount of $2.4 million.  
+
+ On May 22, 2017, a lawsuit was filed against us and two
+
+individuals by Ooyala, Inc. (Ooyala) and Ooyala Mexico S. de R.L. de C.V. (Ooyala Mexico). The lawsuit, which was filed in the United States District Court for the District of Massachusetts, concerns allegations that the two
+
+individuals, who are former employees of Ooyala Mexico, misappropriated customer information and other trade secrets and used that information in working for Brightcove. The complaint was amended on June 1, 2017 to remove claims against the two
+
+former employees of Ooyala Mexico. The remaining claims against us are for violation of the Defend Trade Secrets Act of 2016 (18 U.S.C. §1836), violation of the Massachusetts trade secret statute (M.G.L. c. 93, §42), violation of
+
+Massachusetts Chapter 93A (M.G.L. c. 93A, §11), and tortious interference with advantageous business relationships. Ooyala and Ooyala Mexico also filed a motion for preliminary injunction (amended at the same time the complaint was amended),
+
+seeking to enjoin us from using any of the allegedly misappropriated information or communicating with customers whose information was taken, and seeking the return of any information that was allegedly taken. On June 16, 2017, we filed an
+
+opposition to the motion for preliminary injunction, and also moved to dismiss the lawsuit. Brightcoves motion to dismiss was denied on September 6, 2017. The court has not ruled on Ooyalas motion for preliminary injunction. We
+
+expect the court to issue a schedule order in the near term. We cannot yet determine whether it is probable that a loss will be incurred in connection with this complaint, nor can we reasonably estimate the potential loss, if any. 
+
+  30 
+
+Table of Contents
+
+On October 26, 2017, Realtime Adaptive Streaming LLC filed a complaint against us and
+
+our subsidiary Brightcove Holdings, Inc. in the United States District Court for the District of Delaware. The complaint alleges that Brightcove infringed five patents related to file compression technology. The complaint seeks monetary damages and
+
+injunctive relief. On December 1, 2017, Realtime filed an amended complaint, adding two additional patents to its claims. Brightcove filed a motion to dismiss on January 26, 2018. The plaintiff filed an opposition to the motion to dismiss
+
+on February 9, 2018 and Brightcove filed a reply on February 16, 2018. A ruling on the motion to dismiss has not yet been issued by the court. We cannot yet determine whether it is probable that a loss will be incurred in connection with
+
+this complaint, nor can the Company reasonably estimate the potential loss, if any. In addition, we are, from time to time, party to
+
+litigation arising in the ordinary course of our business. Management does not believe that the outcome of these claims will have a material adverse effect on our consolidated financial position, results of operations or cash flows based on the
+
+status of proceedings at this time.  
+
+ Not applicable. 
+
+  31 
+
+Table of Contents
+
+PART II  
+
+Our common stock has been traded on the NASDAQ Global Market under the symbol BCOV since our initial public offering on
+
+February 17, 2012. Prior to this time, there was no public market for our common stock. The following table shows the high and low sale prices per share of our common stock as reported on the NASDAQ Global Market for the periods indicated: 
+
+ On February 23, 2018, the last reported sale price for our common stock on the NASDAQ Global Market was
+
+$7.15 per share. Dividend Policy We
+
+have never paid or declared any cash dividends on our common stock. We currently intend to retain any cash flow to finance the growth and development of our business, and we do not expect to pay any cash dividends on our common stock in the
+
+foreseeable future. Payment of future dividends, if any, will be at the discretion of our board of directors and will depend on our financial condition, results of operations, capital requirements, restrictions contained in current or future
+
+financing instruments and other factors our board of directors deems relevant. Stockholders 
+
+As of February 23, 2018, there were approximately 109 holders of record of our common stock (not including beneficial holders of stock
+
+held in street name). Stock Performance Graph 
+
+The graph set forth below compares the cumulative total stockholder return on our common stock between February 17, 2012 (the date of our
+
+initial public offering) and December 31, 2017, with the cumulative total return of (a) the NASDAQ Computer & Data Processing Index and (b) the NASDAQ Composite Index, over the same period. This graph assumes the investment
+
+of $100 on February 17, 2012 in our common stock, the NASDAQ Computer & Data Processing Index and the NASDAQ Composite Index and assumes the reinvestment of dividends, if any. The graph assumes our closing sales price on
+
+February 17, 2012 of $14.30 per share as the initial value of our common stock and not the initial offering price to the public of $11.00 per share. 
+
+The comparisons shown in the graph below are based upon historical data. We caution that the stock price performance shown in the graph below
+
+is not necessarily indicative of, nor is it intended to forecast, the potential future performance of our common stock. Information used in the graph was obtained from the NASDAQ Stock Market LLC, a financial data provider and a source believed to
+
+be reliable. The NASDAQ Stock Market LLC is not responsible for any errors or omissions in such information. 
+
+  32 
+
+Table of Contents
+
+ Sales of Unregistered Securities 
+
+Not applicable. Use of Proceeds from Public
+
+Offering of Common Stock On February 16, 2012, our registration statement on Form S-1
+
+(File No. 333-176444) was declared effective for our initial public offering. On February 23, 2012, we closed our initial public offering of 5,750,000 shares of common stock, including 750,000 shares
+
+pursuant to the underwriters overallotment option, at an offering price of $11.00 per share. The managing underwriters of the offering were Morgan Stanley & Co. LLC, and Stifel, Nicolaus & Company, Incorporated. Following the
+
+sale of the shares in connection with the closing of our initial public offering, the offering terminated. As a result of the offering,
+
+including the underwriters option to purchase additional shares, we received net proceeds of approximately $54.5 million, after deducting total expenses of approximately $8.7 million, consisting of underwriting discounts and
+
+commissions of $4.4 million and offering-related expenses reasonably estimated to be $4.3 million. None of such payments were direct or indirect payments to any of our directors or officers or their associates, to persons owning 10% or
+
+more of our common stock, or to any of our affiliates. We have used $7.0 million of the net proceeds from our initial public
+
+offering to repay certain indebtedness. None of such payments were direct or indirect payments to any of our directors or officers or their associates, to persons owning 10% or more of our common stock, or to any of our affiliates. We also used
+
+approximately $27.4 million of the net proceeds from our initial public offering as consideration for the purchase of Zencoder in 
+
+  33 
+
+Table of Contents
+
+August 2012. On January 31, 2014, we acquired substantially all of the assets of Unicorn for total consideration of approximately $39.7 million, which was funded by approximately
+
+$9.1 million of the net proceeds from our initial public offering and 2,850,547 shares of our common stock. There has been no
+
+material change in the planned use of proceeds from our initial public offering as described in our final prospectus filed with the SEC on February 17, 2012 pursuant to Rule 424(b) under the Securities Act. 
+
+Purchases of Equity Securities by the Issuer or Affiliated Purchasers 
+
+There were no repurchases of shares of common stock made during the year ended December 31, 2017. 
+
+  34 
+
+Table of Contents
+
+ The following selected consolidated financial data
+
+should be read in conjunction with Managements Discussion and Analysis of Financial Condition and Results of Operations, the consolidated financial statements and related notes, and other financial information included in this
+
+Annual Report on Form 10-K. We derived the consolidated financial data for the years ended
+
+December 31, 2017, 2016 and 2015 and as of December 31, 2017 and 2016 from our audited consolidated financial statements, which are included elsewhere in this Annual Report on Form 10-K. We derived
+
+the consolidated financial data for the years ended December 31, 2014 and 2013 and as of December 31, 2015, 2014 and 2013 from our audited consolidated financial statements, which are not included in this Annual Report on Form 10-K. Historical results are not necessarily indicative of the results to be expected in future periods.  
+
+  35 
+
+Table of Contents
+
+  36 
+
+Table of Contents
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the financial
+
+statements and related notes appearing elsewhere in this Annual Report on Form 10-K. The following discussion contains forward-looking statements that reflect our plans, estimates, and beliefs. Our actual
+
+results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Annual Report on Form 10-K, particularly in Risk Factors. Overview 
+
+We are a leading global provider of cloud-based services for video. We were incorporated in Delaware in August 2004 and our headquarters are in
+
+Boston, Massachusetts. Our suite of products and services reduce the cost and complexity associated with publishing, distributing, measuring and monetizing video across devices. 
+
+Brightcove Video Cloud, or Video Cloud, our flagship product released in 2006, is the worlds leading online video platform. Video Cloud
+
+enables our customers to publish and distribute video to Internet-connected devices quickly, easily and in a cost-effective and high-quality manner. Brightcove Zencoder, or Zencoder, is a cloud-based video encoding service. Brightcove SSAI, or SSAI,
+
+is an innovative, cloud-based ad insertion and video stitching service that addresses the limitations of traditional online video ad insertion technology. Brightcove Player, or Player, is a cloud-based service for creating and managing video player
+
+experiences. Brightcove OTT Flow, powered by Accedo, or OTT Flow, is a service for media companies and content owners to rapidly deploy high-quality, direct-to-consumer,
+
+live and on-demand video services across platforms. Brightcove Video Marketing Suite, or Video Marketing Suite, is a comprehensive suite of video technologies designed to address the needs of marketers to
+
+drive awareness, engagement and conversion. Brightcove Enterprise Video Suite, or Enterprise Video Suite, is an enterprise-class platform for internal communications, employee training, live streaming, marketing and ecommerce videos. 
+
+Our philosophy for the next few years will continue to be to invest in our product strategy and development, sales, and go-to-market activities to support our long-term revenue growth. We believe these investments will help us address some of the challenges facing our business
+
+such as demand for our products by existing and potential customers, rapid technological change in our industry, increased competition and resulting price sensitivity. These investments include support for the expansion of our infrastructure within
+
+our hosting facilities, the hiring of additional technical and sales personnel, the innovation of new features for existing products and the development of new products. We believe this strategy will help us retain our existing customers, increase
+
+our average annual subscription revenue per premium customer and lead to the acquisition of new customers. Additionally, we believe customer growth will enable us to achieve economies of scale which will reduce our cost of goods sold, research and
+
+development and general and administrative expenses as a percentage of total revenue. As of December 31, 2017, we had 498 employees
+
+and 4,168 customers, of which 2,001 used our volume offerings and 2,167 used our premium offerings. As of December 31, 2016, we had 490 employees and 4,571 customers, of which 2,564 used our volume offerings and 2,007 used our premium
+
+offerings. We generate revenue by offering our products to customers on a subscription-based, software as a service, or SaaS, model. Our
+
+revenue grew from $150.3 million in the year ended December 31, 2016 to $155.9 million in the year ended December 31, 2017, primarily related to an increase in revenue from professional services engagements and to a lesser extent
+
+our subscription-based SaaS. Our consolidated net loss was $19.5 million and $10.0 million for the years ended December 31, 2017 and 2016, respectively. Included in consolidated net loss for the year ended December 31, 2017 was
+
+stock-based compensation expense and amortization of acquired intangible assets of $7.2 million and $2.7 million, respectively. Included in consolidated net loss for the year ended December 31, 2016 was stock-based compensation
+
+expense and amortization of acquired intangible assets of $6.0 million and $3.1 million, respectively. 
+
+  37 
+
+Table of Contents
+
+For the years ended December 31, 2017 and 2016, our revenue derived from customers
+
+located outside North America was 41% and 38%, respectively. We expect the percentage of total net revenue derived from outside North America to increase in future periods as we continue to expand our international operations. 
+
+Key Metrics We regularly review a number
+
+of metrics, including the following key metrics, to evaluate our business, measure our performance, identify trends affecting our business, formulate financial projections and make strategic decisions. 
+
+As of December 31, 2017, we had 4,168 customers, of which 2,001 used our volume offerings and 2,167 used our premium offerings. As of
+
+December 31, 2016, we had 4,571 customers, of which 2,564 used our volume offerings and 2,007 used our premium offerings. During 2013, we shifted our go-to-market
+
+focus and growth strategy to expanding our premium customer base, as we believe our premium customers represent a greater opportunity for our solutions. Volume customers decreased in recent periods primarily due to our discontinuation of the
+
+promotional Video Cloud Express offering. As a result, we have experienced attrition of this base level offering without a corresponding addition of customers. We expect customers using our volume offerings to continue to decrease in 2018 and beyond
+
+as we continue to focus on the market for our premium solutions.  
+
+  38 
+
+Table of Contents
+
+The following table includes our key metrics for the periods presented: 
+
+ Components of Consolidated Statements of Operations 
+
+Revenue Subscription and
+
+Support Revenue  We generate subscription and support revenue from the sale of our products. Video Cloud is offered
+
+in two product lines. The first product line is comprised of our premium product editions. All premium editions include functionality to publish and distribute video to Internet-connected devices, with higher levels of premium editions providing
+
+additional features and functionality. Customer arrangements are typically one year contracts, which include a subscription to Video Cloud, basic support and a pre-determined amount of video streams,
+
+bandwidth, transcoding and storage. We also offer gold support or platinum support to our premium customers for an additional fee, which includes extended phone support. The pricing for our premium editions is based on the value of our software, as
+
+well as the number of users, accounts and usage, which is comprised of video streams, bandwidth, transcoding and storage. Should a customers usage exceed the contractual entitlements, the contract will provide the rate at which the customer
+
+must pay for actual usage above the contractual entitlements. We believe that our bundled pricing approach has made it easier for our customers to purchase all of the elements required to manage, store and deliver their video assets to their
+
+viewers. Pricing for some of the non-software elements of our products, howeversuch as bandwidth and storagehas been subject to moderate but consistent pricing pressure as a result of competition
+
+among bandwidth and cloud infrastructure providers. This pricing pressure has not historically had a meaningful impact on our results of operations. During the year ended December 31, 2017, we experienced an unexpected, significant increase in
+
+the impact of the price competition among bandwidth and cloud infrastructure providers in the markets for these increasingly commoditized non-software services. As a result, our recurring dollar retention rate
+
+decreased in the year ended December 31, 2017. We have taken steps to reduce the portion of our revenue that is subject to such pricing pressure by bringing new solutions, such as Dynamic Delivery (formerly known as Bolt), to market. We believe
+
+that these new solutions increase the value of our software platform to customers and allow us to retain a larger portion of the customers total contract value while reducing the revenue related to
+
+non-software elements. However, as a result of the impact of the commoditization of the non-software elements, we now expect that our subscription revenue growth rate
+
+will be impacted through the first quarter of 2018. The second product line is comprised of our volume product edition. Our volume
+
+editions target small and medium-sized businesses, or SMBs. The volume editions provide customers with the same basic functionality that is offered in our premium product editions but have been designed for
+
+customers who have lower usage 
+
+  39 
+
+Table of Contents
+
+requirements and do not typically require advanced features and functionality. We discontinued the lower level pricing options for the Express edition of our volume offering and expect the total
+
+number of customers using the Express edition to continue to decrease. Customers who purchase the volume editions generally enter into month-to-month agreements. Volume
+
+customers are generally billed on a monthly basis and pay via a credit card. Zencoder is offered to customers on a subscription basis,
+
+with either committed contracts or pay-as-you-go contracts. The pricing is based on usage, which is comprised of minutes of video
+
+processed. The committed contracts include a fixed number of minutes of video processed. Should a customers usage exceed the contractual entitlements, the contract will provide the rate at which the customer must pay for actual usage above the
+
+contractual entitlements. Zencoder customers are considered premium customers other than Zencoder customers on month-to-month contracts or pay-as-you-go contracts, which are considered volume customers. 
+
+SSAI is offered to customers on a subscription basis, with varying levels of functionality, usage entitlements and support based on the size
+
+and complexity of a customers needs. Player is offered to customers on a subscription basis. Customer arrangements are typically one-year contracts, which include a subscription to Player, basic support and a pre-determined amount of video streams. We also offer gold
+
+support or platinum support to our Player customers for an additional fee, which includes extended phone support. The pricing for Player is based on the number of users, accounts and usage, which is comprised of video streams. Should a
+
+customers usage exceed the contractual entitlements, the contract will provide the rate at which the customer must pay for actual usage above the contractual entitlements. 
+
+OTT Flow is offered to customers on a subscription basis, with varying levels of functionality, usage entitlements and support based on the
+
+size and complexity of a customers needs. Customer arrangements are typically one-year contracts. 
+
+Video Marketing Suite and Enterprise Video Suite are offered to customers on a subscription basis in Starter, Pro and Enterprise editions. The
+
+Pro and Enterprise customer arrangements are typically one-year contracts, which typically include a subscription to Video Cloud, Gallery, Brightcove Social (for Video Marketing Suite customers) or Brightcove
+
+Live (for Enterprise Video Suite customers), basic support and a pre-determined amount of video streams or plays (for Video Marketing Suite customers), viewers (for Enterprise Video Suite customers), bandwidth
+
+and storage or videos. We also generally offer gold support or platinum support to these customers for an additional fee, which includes extended phone support. The pricing for our Pro and Enterprise editions is based on the number of users,
+
+accounts and usage, which is comprised of video streams or plays, viewers, bandwidth and storage or videos. Should a customers usage exceed the contractual entitlements, the contract will provide the rate at which the customer must pay for
+
+actual usage above the contractual entitlements. The Starter edition provides customers with the same basic functionality that is offered in our Pro and Enterprise editions but has been designed for customers who have lower usage requirements and do
+
+not typically seek advanced features and functionality. Customers who purchase the Starter edition may enter into one-year agreements or
+
+month-to-month agreements. Starter customers with month-to-month agreements are generally
+
+billed on a monthly basis and pay via a credit card. All SSAI, Player, OTT Flow, Video Marketing Suite and Enterprise Video Suite
+
+customers are considered premium customers. Professional Services and Other Revenue  Professional services and other
+
+revenue consists of services such as implementation, software customizations and project management for customers who subscribe to our premium editions. These arrangements are priced either on a fixed fee basis with a portion due upon contract
+
+signing and the remainder due when the related services have been completed, or on a time and materials basis. Our backlog consists of
+
+the total future value of our committed customer contracts, whether billed or unbilled. As of December 31, 2017, we had backlog of approximately $106 million compared to backlog of 
+
+  40 
+
+Table of Contents
+
+approximately $99 million as of December 31, 2016. Of the approximately $106 million in backlog as of December 31, 2017, between $83 million and $85 million is expected to be
+
+recognized as revenue during the year ended December 31, 2018. During the year ended December 31, 2017, approximately $73 million of revenue was recognized from backlog as of December 31, 2016. Because revenue for any period is a function of
+
+revenue recognized from backlog at the beginning of the period as well as from contract renewals and new customer contracts executed during the period, backlog at the beginning of any period is not necessarily indicative of future performance. Our
+
+presentation of backlog may differ from that of other companies in our industry. Cost of Revenue 
+
+Cost of subscription, support and professional services revenue primarily consists of costs related to supporting and hosting our product
+
+offerings and delivering our professional services. These costs include salaries, benefits, incentive compensation and stock-based compensation expense related to the management of our data centers, our customer support team and our professional
+
+services staff. In addition to these expenses, we incur third-party service provider costs such as data center and content delivery network, or CDN, expenses, allocated overhead, depreciation expense and amortization of capitalized internal-use software development costs and acquired intangible assets. We allocate overhead costs such as rent, utilities and supplies to all departments based on relative headcount. As such, general overhead
+
+expenses are reflected in cost of revenue in addition to each operating expense category. The costs associated with providing professional services are significantly higher as a percentage of related revenue than the costs associated with delivering
+
+our subscription and support services due to the labor costs of providing professional services. Cost of revenue increased in absolute
+
+dollars from 2016 to 2017. In future periods we expect our cost of revenue will increase in absolute dollars as our revenue increases. Cost of revenue as a percentage of revenue could fluctuate from period to period depending on the growth of our
+
+professional services business and any associated costs relating to the delivery of subscription services and the timing of significant expenditures. To the extent that our customer base grows, we intend to continue to invest additional resources in
+
+expanding the delivery capability of our products and other services. The timing of these additional expenses could affect our cost of revenue, both in terms of absolute dollars and as a percentage of revenue, in any particular quarterly or annual
+
+period. Operating Expenses 
+
+We classify our operating expenses as follows: 
+
+Research and Development. Research and development expenses consist primarily of personnel and related expenses for our research
+
+and development staff, including salaries, benefits, incentive compensation and stock-based compensation, in addition to the costs associated with contractors and allocated overhead. We have focused our research and development efforts on expanding
+
+the functionality and scalability of our products and enhancing their ease of use, as well as creating new product offerings. We expect research and development expenses to increase in absolute dollars as we intend to continue to periodically
+
+release new features and functionality, expand our product offerings, continue the localization of our products in various languages, upgrade and extend our service offerings, and develop new technologies. Over the long term, we believe that
+
+research and development expenses as a percentage of revenue will decrease, but will vary depending upon the mix of revenue from new and existing products, features and functionality, as well as changes in the technology that our products must
+
+support, such as new operating systems or new Internet-connected devices. Sales and Marketing. Sales and marketing expenses
+
+consist primarily of personnel and related expenses for our sales and marketing staff, including salaries, benefits, incentive compensation, commissions, stock-based compensation and travel costs, amortization of acquired intangible assets, in
+
+addition to costs associated with marketing and promotional events, corporate communications, advertising, other brand building and product marketing expenses and allocated overhead. Our sales and marketing expenses have increased in absolute
+
+dollars in each of the last three years. We intend to continue to invest in sales and marketing and increase the number of 
+
+  41 
+
+Table of Contents
+
+sales representatives to add new customers and expand the sale of our product offerings within our existing customer base, build brand awareness and sponsor additional marketing events.
+
+Accordingly, in future periods we expect sales and marketing expense to increase in absolute dollars and continue to be our most significant operating expense. Over the long term, we believe that sales and marketing expense as a percentage of
+
+revenue will decrease, but will vary depending upon the mix of revenue from new and existing customers and from small, medium-sized and enterprise customers, as well as changes in the productivity of
+
+our sales and marketing programs. General and Administrative. General and administrative expenses consist primarily of
+
+personnel and related expenses for executive, legal, finance, information technology and human resources functions, including salaries, benefits, incentive compensation and stock-based compensation, in addition to the costs associated with
+
+professional fees, insurance premiums, other corporate expenses and allocated overhead. In future periods we expect general and administrative expenses to increase in absolute dollars as we continue to incur additional personnel and professional
+
+services costs in order to support the growth of our business. Over the long term, we believe that general and administrative expenses as a percentage of revenue will decrease. 
+
+Merger-related. Merger-related costs consisted of transaction expenses incurred as part of the acquisition of substantially all
+
+of the assets of Unicorn Media, Inc. and certain of its subsidiaries, or Unicorn, as well as costs associated with the retention of key employees of Unicorn. Approximately $1.5 million was required to be paid to retain certain key employees
+
+from the Unicorn acquisition. The period in which these services were performed varies by employee. Given that the retention amount was related to a future service requirement, the related expense was recorded as merger-related compensation expense
+
+in the consolidated statements of operations over the expected service period. Other Expense 
+
+Other expense consists primarily of interest income earned on our cash, cash equivalents, foreign exchange gains and losses and interest
+
+expense payable on our debt. Income Taxes 
+
+As part of the process of preparing our consolidated financial statements, we are required to estimate our taxes in each of the jurisdictions
+
+in which we operate. We account for income taxes in accordance with the asset and liability method. Under this method, deferred tax assets and liabilities are recognized based on temporary differences between the financial reporting and income tax
+
+bases of assets and liabilities using statutory rates. In addition, this method requires a valuation allowance against net deferred tax assets if, based upon the available evidence, it is more likely than not that some or all of the deferred tax
+
+assets will not be realized. We have provided a valuation allowance against our existing net deferred tax assets at December 31, 2017, with the exception of the deferred tax assets related to Brightcove KK. 
+
+On December 22, 2017, the Tax Cuts and Jobs Act was enacted in the United States. Refer to Note 7, Income Taxes, for additional
+
+information regarding this new tax legislation. Stock-Based Compensation Expense 
+
+Our cost of revenue, research and development, sales and marketing, and general and administrative expenses include stock-based compensation
+
+expense. Stock-based compensation expense represents the fair value of outstanding stock options and restricted stock awards, which is recognized as expense over the respective stock option and restricted stock award service periods. For the years
+
+ended December 31, 2017, 2016 and 2015, we recorded stock-based compensation expense of $7.2 million, $6.0 million and $6.0 million, respectively. We expect stock-based compensation expense to increase in absolute dollars in
+
+future periods. 
+
+  42 
+
+Table of Contents
+
+Foreign Currency Translation 
+
+With regard to our international operations, we frequently enter into transactions in currencies other than the U.S. dollar. As a result, our
+
+revenue, expenses and cash flows are subject to fluctuations due to changes in foreign currency exchange rates, particularly changes in the euro, British pound, Australian dollar, and Japanese yen. For the years ended December 31, 2017, 2016
+
+and 2015, 45%, 42% and 40%, respectively, of our revenue was generated in locations outside the United States. During the same periods, 29%, 28% and 27%, respectively, of our revenue was in currencies other than the U.S. dollar, as were some of the
+
+associated expenses. In periods when the U.S. dollar declines in value as compared to the foreign currencies in which we conduct business, our foreign currency-based revenue and expenses generally increase in value when translated into U.S. dollars.
+
+We expect our foreign currency-based revenue to remain relatively unchanged in absolute dollars and as a percentage of total revenue. Critical
+
+Accounting Policies and Estimates Our consolidated financial statements are prepared in accordance with accounting principles
+
+generally accepted in the United States. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities
+
+at the date of the financial statements and the reported amounts of revenue and expenses during the reporting periods. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the
+
+circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Our actual results may differ from these estimates under different
+
+assumptions or conditions. We believe that the following significant accounting policies, which are more fully described in the notes to
+
+our consolidated financial statements included elsewhere in this Annual Report on Form 10-K, involve a greater degree of judgment and complexity. Accordingly, these are the policies we believe are the most
+
+critical to aid in fully understanding and evaluating our financial condition and results of operations. Revenue Recognition 
+
+We primarily derive revenue from the sale of our online video platform, which enables our customers to publish and distribute video to
+
+Internet-connected devices quickly, easily and in a cost-effective and high-quality manner. Revenue is derived from three primary sources: (1) the subscription to our technology and related support; (2) hosting, bandwidth and encoding
+
+services; and (3) professional services, which include customization services. We recognize revenue when all of the following
+
+conditions are satisfied: (1) there is persuasive evidence of an arrangement; (2) the service has been provided to the customer; (3) the collection of fees is probable; and (4) the amount of fees to be paid by the customer is
+
+fixed or determinable. Our subscription arrangements provide customers the right to access our hosted software applications. Customers do
+
+not have the right to take possession of our software during the hosting arrangement. Accordingly, we recognize revenue in accordance with Accounting Standards Codification (ASC) 605, Revenue Recognition. Contracts for premium customers
+
+generally have a term of one year and are non-cancellable. These contracts generally provide the customer with an annual level of usage, and provide the rate at which the customer must pay for actual usage
+
+above the annual allowable usage. For these services, we recognize the annual fee ratably as revenue each month. Should a customers usage of our services exceed the annual allowable level, revenue is recognized for such excess in the period of
+
+the usage. Contracts for volume customers are generally month-to-month arrangements, have a maximum monthly level of usage and provide the rate at which the customer
+
+must pay for actual usage above the monthly allowable usage. The monthly volume subscription and support and usage fees are recognized as revenue during the period in which the related cash is collected. 
+
+  43 
+
+Table of Contents
+
+Revenue recognition commences upon the later of when the application is placed in a
+
+production environment, or when all revenue recognition criteria have been met. Professional services and other revenue sold on a
+
+stand-alone basis are recognized as the services are performed, subject to any refund or other obligation. Deferred revenue includes
+
+amounts billed to customers for which revenue has not been recognized, and primarily consists of the unearned portion of annual software subscription and support fees, and deferred professional service fees. 
+
+Revenue is presented net of any taxes collected from customers. 
+
+Multiple-Element Arrangements 
+
+We periodically enter into multiple-element service arrangements that include platform subscription fees, support fees, and, in certain cases,
+
+other professional services. We assess arrangements with multiple deliverables under Accounting Standards Update (ASU) No. 2009-13, Revenue Recognition (Topic 605), Multiple-Deliverable Revenue Arrangements  a Consensus of the FASB Emerging Issues Task Force . Arrangement consideration is allocated to deliverables
+
+based on their relative selling price. In order to treat deliverables in a multiple-element arrangement as separate units of accounting,
+
+the deliverables must have stand-alone value upon delivery. If the deliverables have stand-alone value upon delivery, we account for each deliverable separately. Subscription services have stand-alone value as such services are often sold
+
+separately. In determining whether professional services have stand-alone value, we consider the following factors for each professional services agreement: availability of the services from other vendors, the nature of the professional services,
+
+the timing of when the professional services contract was signed in comparison to the subscription service start date, and the contractual dependence of the subscription service on the customers satisfaction with the professional services
+
+work. To date, we have concluded that all of the professional services included in multiple-element arrangements executed have stand-alone value. 
+
+When multiple deliverables included in an arrangement are separated into different units of accounting, the arrangement consideration is
+
+allocated to the identified separate units based on a relative selling price hierarchy. We determine the relative selling price for a deliverable based on its vendor-specific objective evidence of fair value (VSOE), if available, or its best
+
+estimate of selling price (BESP), if VSOE is not available. We have determined that third-party evidence of selling price is not a practical alternative due to differences in our service offerings compared to other parties and the availability of
+
+relevant third party pricing information. The amount of revenue allocated to delivered items is limited by contingent revenue, if any. We
+
+have not established VSOE for our offerings due to the lack of pricing consistency, the introduction of new services and other factors. Accordingly, we use our BESP to determine the relative selling price. We determine BESP by considering our
+
+overall pricing objectives and market conditions. Significant pricing practices taken into consideration include our discounting practices, the size and volume of our transactions, the geographic area where services are sold, price lists, our go-to-market strategy, historical contractually stated prices and prior relationships and future subscription service sales with certain classes of customers. 
+
+The determination of BESP is made through consultation with and approval by our management, taking into consideration the go-to-market strategy. As our go-to-market strategies evolve, we may modify our pricing
+
+practices in the future, which could result in changes in selling prices, including both VSOE and BESP. We analyze the selling prices used in our allocation of arrangement consideration, at a minimum, on an annual basis. Selling prices are analyzed
+
+on a more frequent basis if a significant change in our business necessitates a more timely analysis or if we experience significant variances in our selling prices. 
+
+  44 
+
+Table of Contents
+
+Allowance for Doubtful Accounts 
+
+We offset gross trade accounts receivable with an allowance for doubtful accounts. The allowance for doubtful accounts is our best estimate of
+Question: What types of securities has Brightcove registered?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

@@ -1,0 +1,918 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-184-base ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: hgbl-10k_20171231.htm
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D.C. 20549
+
+FORM 10-K
+
+☒ ANNUAL REPORT PURSUANT TO SECTION 13
+
+OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31, 2017
+
+Commission File No. 0-17973
+
+HERITAGE GLOBAL INC.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+(858) 847-0656
+
+(Registrant’s Telephone Number, Including Area Code)
+
+Securities registered pursuant to Section 12(b) of the Act: None.
+
+Securities registered pursuant to Section 12(g) of the Act: Common Stock, $0.01 par value.
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes  ☐    No  ☒
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes  ☐    No  ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  ☒    No  ☐
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.  ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes  ☐    No  ☒
+
+The aggregate market value of Common Stock held by non-affiliates based upon the closing price of $0.35 per share on June 30, 2017, as reported by the OTCQB, was approximately $6.6 million.
+
+As of March 2, 2018, there were 28,480,148 shares of Common Stock, $0.01 par value, outstanding.
+
+TABLE OF CONTENTS
+
+2
+
+Forward-Looking Information
+
+This Annual Report on Form 10-K (the “Report”) contains certain “forward-looking statements” as defined by the Private Securities Litigation Reform Act of 1995 that are based on management’s exercise of business judgment as well as assumptions made by, and information currently available to, management. When used in this document, the words “may,” "will,” “anticipate,” “believe,” “estimate,” “expect,” “intend,” and words of similar import, are intended to identify any forward-looking statements. You should not place undue reliance on these forward-looking statements. These statements reflect our current view of future events and are subject to certain risks and uncertainties, including those noted under Item 1A “Risk Factors” below. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, our actual results could differ materially from those anticipated in these forward-looking statements. We undertake no obligation, and do not intend, to update, revise or otherwise publicly release any revisions to these forward-looking statements to reflect events or circumstances after the date hereof, or to reflect the occurrence of any unanticipated events. Although we believe that our expectations are based on reasonable assumptions, we can give no assurance that our expectations will materialize.
+
+PART I
+
+Item 1. Business.
+
+Overview, History and Recent Developments
+
+Heritage Global Inc. (“HGI”, and together with its consolidated subsidiaries, “we”, “us”, “our” or the “Company”) was incorporated in Florida in 1983 under the name “MedCross, Inc.” Our name was changed to “I-Link Incorporated” in 1997, to “Acceris Communications Inc.” in 2003, to “C2 Global Technologies Inc.” in 2005, to “Counsel RB Capital Inc.” in 2011, and to Heritage Global Inc. in 2013. The most recent name change more closely identifies HGI with its core auction business, Heritage Global Partners, Inc. (“HGP”).
+
+In 2014, HGI acquired all of the issued and outstanding capital stock in National Loan Exchange, Inc. (“NLEX”), a broker of charged-off receivables in the United States and Canada. As a result of this acquisition, NLEX operates as one of our wholly owned divisions.
+
+In July 2016, we completed the sale of our real estate inventory to International Investments and Infrastructure, LLC (“III”) for $4.1 million.  Concurrently, and in accordance with the purchase and sale agreement, the previously existing lease agreement between us and an affiliate of III was terminated.  Refer to Note 3 to the consolidated financial statements for further information.  
+
+In July 2016, we repaid $2.5 million of outstanding principal, plus accrued interest, on our loan with an unrelated party (the “Third Party Debt”) and terminated our loan agreement with the third party.  Refer to Note 9 to the consolidated financial statements for further information.    
+
+The organization chart below outlines our basic domestic corporate structure as of December 31, 2017.
+
+3
+
+Asset liquidation
+
+We are a value-driven, innovative leader in corporate and financial asset liquidation transactions, valuations and advisory services.  We specialize both in acting as an adviser, as well as acquiring or brokering turnkey manufacturing facilities, surplus industrial machinery and equipment, industrial inventories, real estate, accounts receivable portfolios, intellectual property, and entire business enterprises.
+
+Our asset liquidation business began operations in 2009 with the establishment of Heritage Global LLC (“HG LLC”). In addition to acquiring turnkey manufacturing facilities and used industrial machinery and equipment, HG LLC arranges traditional asset disposition sales, including liquidation and auction sales. In 2011, HG LLC acquired 100% of the business of Equity Partners HG LLC f/k/a EP USA, LLC (“Equity Partners”), thereby expanding our operations. Equity Partners is a boutique M&A advisory firm and provider of financial solutions for businesses and properties in transition.   
+
+In 2012, we increased our in-house asset liquidation expertise with our acquisition of 100% of the outstanding equity of HGP, a global full-service auction, appraisal and asset advisory firm, and launched Heritage Global Partners Europe (“HGP Europe”). Through our wholly-owned subsidiary Heritage Global Partners UK Limited, we opened three European-based offices, one each in the United Kingdom, Germany and Spain. 
+
+In 2014, we again expanded our asset liquidation operations with the acquisition of 100% of the outstanding equity of NLEX. NLEX is the largest volume broker of charged-off receivables in the United States and Canada, and its offerings include national, state and regional portfolios on behalf of many of the world’s top financial institutions. The NLEX acquisition is consistent with our strategy to expand and diversify the services provided by its asset liquidation business. 
+
+As a result of the events and acquisitions outlined above, management believes that our expanded global platform will allow us to achieve our long term industry leadership goals.
+
+Employees
+
+As of December 31, 2017, we had 48 employees: 27 are employed by HGP, 14 by NLEX, and seven by Equity Partners.  
+
+Industry and Competition
+
+Our asset liquidation business consists primarily of the auction, appraisal and asset advisory services provided by HGP, mergers and acquisitions advisory services provided by Equity Partners, and the accounts receivable brokerage services provided by NLEX. Our asset liquidation business also includes the purchase and sale, including at auction, of industrial machinery and equipment, real estate, inventories, accounts receivable and distressed debt. The market for these services and assets is highly fragmented. To acquire auction or appraisal contracts, or assets for resale, we compete with other liquidators, auction companies, dealers and brokers. We also compete with them for potential purchasers, as well as with equipment manufacturers, distributors, dealers and equipment rental companies. Some competitors have significantly greater financial and marketing resources and name recognition. 
+
+Our business strategy includes the option of partnering with one or more additional purchasers, pursuant to a partnership, joint venture or limited liability company agreement (collectively, “Joint Ventures”). These Joint Ventures give us access to more opportunities, helping to mitigate some of the competition from the market’s larger participants and contribute to our objective to be the leading resource for clients requiring capital asset solutions.
+
+Government Regulation
+
+We are subject to federal, state and local consumer protection laws, including laws protecting the privacy of customer non-public information and regulations prohibiting unfair and deceptive trade practices. Many jurisdictions also regulate “auctions” and “auctioneers” and may regulate online auction services. These consumer protection laws and regulations could result in substantial compliance costs and could interfere with the conduct of our business.
+
+Legislation in the United States, including the Sarbanes-Oxley Act of 2002 and the Dodd-Frank Act of 2010, has increased public companies’ regulatory and compliance costs as well as the scope and cost of work provided by independent registered public 
+
+4
+
+accountants and legal advisors. The mandatory adoption of XBRL reporting in 2011 has also increased our costs paid to third party service providers. As regulatory and compliance guidelines continue to evolve, we expect to continue to incur costs, which may or may not be material, in order to comply with legislative requirements or rules, pronouncements and guidelines by regulatory bodies.
+
+Available Information
+
+We file certain reports with the Securities and Exchange Commission (the “SEC”), including annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K. The public may read and copy any materials we file with the SEC at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. We are an electronic filer, and the SEC maintains an Internet site at http://www.sec.gov that contains the reports and information statements and other information we file electronically. Our website address is www. heritageglobalinc.com. Please note that our website address is provided as an inactive textual reference only. The information provided on our website is not part of this report, and is therefore not incorporated by reference unless such information is specifically referenced elsewhere in this report.
+
+Item 1A. Risk Factors.
+
+You should carefully consider and evaluate these risk factors, as any of them could materially and adversely affect our business, financial condition and results of operations, which, in turn, can adversely affect the price of our securities.
+
+We face significant competition in our asset liquidation business.
+
+Our asset liquidation business depends on our ability to successfully obtain a continuous supply of auction or appraisal contracts, or distressed and surplus assets for profitable resale to third parties. In this regard, we compete with numerous other organizations, some of which are much larger and better-capitalized, with greater resources available for both asset acquisition and associated marketing to potential customers. Additionally, some competitors have a longer history of activity in the asset liquidation business and may have advantages with respect to accessing both deals and capital.
+
+Our asset liquidation business is subject to inventory risk and credit risk.
+
+Under our business model, when not acting solely as an auctioneer, we assume the general and physical inventory and credit risks associated with purchasing assets for subsequent resale. Although we do enter into transactions for which a subsequent purchaser has already been identified, in most cases we purchase assets and assume the risk that they may sell for less than our forecasted price. Further, we may miscalculate demand or resale value and subsequently sell the assets for less than their original purchase price. Either situation could have a material adverse effect upon our use of working capital and our results of operations.
+
+Our operating results are subject to significant fluctuation.
+
+Our revenue and operating results are subject to fluctuation from quarter to quarter and from year to year due to the nature of the asset liquidation business, which involves discrete deals of varying size that are very difficult to predict. The timing of revenue recognition related to significant transactions can materially affect quarterly and annual operating results. Despite the accompanying variability of direct asset liquidation costs, quarterly fixed costs that are largely composed of salaries and benefits could exceed our gross profit. There can therefore be no assurance that we can achieve or sustain profitability on a quarterly or annual basis.
+
+We are subject to the risks associated with managing growth.
+
+Since the establishment of our asset liquidation business in 2009, we have experienced significant growth.  This has occurred through the acquisitions of Equity Partners in 2011, HGP in 2012 and NLEX in 2014. This growth requires an increased investment in personnel, systems and facilities. In the absence of continued revenue growth, our operating margins could decline from current levels. Additional acquisitions will be accompanied by such risks as exposure to unknown liabilities of acquired businesses, unexpected acquisition expenses, greater than anticipated investments in personnel, systems and facilities, the expense of integrating new and existing operations, diversion of senior management resources, and dilution to existing stockholders. Failure to anticipate and manage these risks could have a material adverse effect upon our business and results of operations.
+
+5
+
+A portion of our asset liquidation business is conducted through Joint Ventures.
+
+Conducting business through Joint Ventures, as described above under “Industry and Competition,” allows us to participate in significantly larger deals than those we could fund independently. If we ceased entering into Joint Ventures, or our Joint Venture partners decide not to partner with us, the pool of potential transactions would be reduced. Further, upon entering into Joint Ventures, we become exposed to the uncertainties of the activities of our partners.  This could negatively impact our ability to obtain a continuous supply of assets for resale, and could have a material adverse effect upon our use of working capital and our results of operations.
+
+We are subject to foreign currency exchange rate risk.
+
+During 2012, we expanded our operations to the United Kingdom (“UK”), Spain, and Germany. Our UK operations are conducted in pounds sterling (£) and our Spain and Germany operations are conducted in euros (€), rather than in U.S. dollars. To date we have been required to use funds generated by our U.S. operations to meet a portion of European obligations as they come due. We thereby incur exchange rate risk. We conduct some of our asset liquidation transactions in currencies other than the U.S. dollar, which exposes us to foreign exchange risk.  Although this risk has not had a material impact on our business and operations to date, failure to anticipate and adequately manage this risk could have a material adverse effect on our financial condition and our results of operations.
+
+The auction portion of our asset liquidation business may be subject to a variety of additional costly government regulations.
+
+Many states and other jurisdictions have regulations governing the conduct of traditional “auctions” and the liability of traditional “auctioneers” in conducting auctions, which may also apply to online auction services. In addition, certain states have laws or regulations that expressly apply to online auction services. We expect to continue to incur costs in complying with these laws and could be subject to fines or other penalties for any failure to comply with these laws. We may be required to make changes in our business to comply with these laws, which could increase our costs, reduce our revenue, and cause us to prohibit the listing of certain items, or otherwise adversely affect our financial condition or operating results.
+
+Certain categories of merchandise that we sell are subject to government restrictions.
+
+We sell merchandise, such as scientific instruments, that is subject to export control and economic sanctions laws, among other laws, imposed by the United States and other governments. Such restrictions include the U.S. Export Administration regulations, the International Traffic in Arms regulations, and economic sanctions and embargo laws administered by the Office of the Foreign Assets Control regulations. These restrictions prohibit us from, among other things, selling property to (1) persons or entities that appear on lists of restricted or prohibited parties maintained by the United States or other governments or (2) countries, regimes, or nationals that are the target of applicable economic sanctions or other embargoes.
+
+We may incur significant costs or be required to modify our business to comply with these requirements. If we are alleged to have violated any of these laws or regulations we may be subject to civil and criminal penalties and administrative sanctions, including termination of contracts, forfeiture of profits, suspension of payments, fines, and suspension or prohibition from doing business with U.S. federal government agencies. In addition, we could suffer serious harm to our reputation if allegations of impropriety are made against us, whether or not true.
+
+We are subject to the U.S. Foreign Corrupt Practices Act (“FCPA”).
+
+We are subject to the FCPA, which generally prohibits U.S. companies and their intermediaries from making improper payments to foreign officials for the purpose of obtaining or retaining business. Our 2012 expansion into Europe has increased the risk of non-compliance with the FCPA. Failure to comply with the FCPA could subject us to, among other things, penalties and legal expenses that could harm our reputation and have a material adverse effect on our business, financial condition and results of operations.
+
+Our asset liquidation business is subject to environmental risk.
+
+Our asset liquidation business at times includes the purchase and resale of buildings and land. Although our purchase process includes due diligence to determine that there are no material adverse environmental issues, it is possible that such issues could be discovered subsequent to a completed purchase. Any remediation and related costs could have a material adverse effect upon our business and results of operations.
+
+6
+
+We are dependent upon key personnel.
+
+Our operations are substantially dependent on the knowledge, skills and performance of several of our executive officers, particularly our Chief Executive Officer, Chief Operating Officer/President, President of NLEX, and Senior Managing Director of Equity Partners. The loss of any of these officers could damage key relationships and result in the loss of essential information and expertise. As our operations expand, we will be required to hire additional employees and may face competition for them. Therefore, either the loss of the services of the above existing officers, or the inability to attract and retain appropriately skilled new employees, could have a material adverse effect upon our business and results of operations.
+
+We may require additional financing in the future, which may not be available, or may not be available on favorable terms.
+
+We may need additional funds to finance the operations of our asset liquidation business, to make additional investments, or to acquire complementary businesses or assets. We may be unable to generate these funds from our operations. If funds are not available, or not available on acceptable terms, we could experience a material adverse effect upon our business.
+
+Provisions in our Articles of Incorporation, as amended, could prevent or delay stockholders' attempts to replace or remove current management.
+
+Our Articles of Incorporation, as amended, provide for staggered terms for the members of our Board of Directors (the “Board”). The Board is divided into three staggered classes, and each director serves a term of three years. This means that only one class of directors can be replaced at a single annual stockholders’ meeting. These provisions may tend to preserve our current management and the Board in a hostile tender offer, and may have an adverse impact on stockholders who may want to participate in such a tender offer, or who may want to replace some or all of the members of the Board.
+
+Our Board of Directors may issue additional shares of preferred stock without stockholder approval.
+
+Our Articles of Incorporation, as amended, authorize the issuance of up to 10,000,000 shares of preferred stock, $10.00 par value per share. The Board is authorized to determine the rights and preferences of any additional series or class of preferred stock. The Board may, without stockholder approval, issue shares of preferred stock with dividend, liquidation, conversion, voting or other rights that are senior to our shares of common stock or that could adversely affect the voting power or other rights of the existing holders of outstanding shares of preferred stock or common stock. The issuance of additional shares of preferred stock may also hamper or discourage an acquisition or change in control of the Company.
+
+We may conduct future offerings of our common stock and preferred stock and pay debt obligations with our common and preferred stock that may diminish our investors’ pro rata ownership and depress our stock price.
+
+We reserve the right to make future offers and sales, either public or private, of our securities including shares of our preferred stock, common stock or securities convertible into common stock at prices differing from the price of the common stock previously issued. In the event that any such future sales of securities are affected or we use our common or preferred stock to pay principal or interest on our debt obligations, an investor’s pro rata ownership interest may be reduced to the extent of any such issuances and, to the extent that any such sales are effected at consideration which is less than that paid by the investor, the investor may experience dilution and a diminution in the market price of the common stock.
+
+There is a limited public trading market for our common stock; the market price of our common stock has been volatile and could experience substantial fluctuations.
+
+Our common stock is currently traded in the OTC market in the United States and has a limited public trading market in the United States.  Our common stock is traded on the Canadian Securities Exchange, and the market there is similarly limited.  Without an active trading market, there can be no assurance regarding the liquidity or resale value of the common stock. In addition, the market price of our common stock has been, and may continue to be, volatile. Such price fluctuations may be affected by general market price movements or by reasons unrelated to our operating performance or prospects such as, among other things, announcements concerning us or our competitors, technological innovations, government regulations, and litigation concerning proprietary rights or other matters.
+
+7
+
+Changes in tax laws or their interpretations, or becoming subject to additional foreign, U.S. federal, state or local taxes, could negatively affect our business, financial condition and results of operations.
+
+We are subject to extensive tax liabilities, including U.S. federal and state taxes. Changes in tax laws or their interpretations could decrease the amount of revenues we receive, the value of any tax loss carry forwards and tax credits recorded on our balance sheet and the amount of our cash flow, and have a material adverse impact on our business, financial condition and results of operations. Some of our tax liabilities are subject to periodic audits by the respective taxing authority which could increase our tax liabilities. If we are required to pay additional taxes, our costs would increase and our net income would be reduced, which could have a material adverse effect on our business, financial condition and results of operations.
+
+On December 22, 2017, President Trump signed into law H.R. 1, originally known as the “Tax Cuts and Jobs Act,” which includes significant changes to the taxation of business entities. These changes include, among others, a reduction in the corporate income tax rate. We continue to examine the impact this tax reform legislation may have on our business. Notwithstanding the reduction in the corporate income tax rate, the overall impact of this tax reform is uncertain, and our business and financial condition could be adversely affected.
+
+We may not be able to utilize income tax loss carry forwards.
+
+Restrictions in our ability to utilize income tax loss carry forwards have occurred in the past due to the application of certain changes in ownership tax rules in the United States. There is no certainty that the application of these rules may not recur. In addition, further restrictions of, reductions in, or expiration of net operating loss and net capital loss carry forwards may occur through future merger, acquisition and/or disposition transactions or through failure to continue a significant level of business activities. Any such additional limitations could require us to pay income taxes in the future and record an income tax expense to the extent of such liability. We could be liable for income taxes on an overall basis while having unutilized tax loss carry forwards since these losses may be applicable to one jurisdiction and/or particular line of business while earnings may be applicable to a different jurisdiction and/or line of business. Additionally, income tax loss carry forwards may expire before we have the ability to utilize such losses in a particular jurisdiction and there is no certainty that current income tax rates will remain in effect at the time when we have the opportunity to utilize reported tax loss carry forwards. Thus, any net operating loss arising in a taxable year ending before January 1, 2018 may only be carried forward for 20 taxable years following the taxable year of such loss. Any net operating loss arising in a taxable year ending on or after January 1, 2018 can be carried forward indefinitely. In addition, any net operating loss deduction with respect to a net operating loss arising in a taxable year beginning after December 31, 2017 is limited to 80% of our taxable income in the year in which deduction is taken.
+
+We have not declared any dividends on our common stock to date and have no expectation of doing so in the foreseeable future.
+
+The payment of cash dividends on our common stock rests within the discretion of our Board of Directors and will depend, among other things, upon our earnings, unencumbered cash, capital requirements and our financial condition, as well as other relevant factors. To date, we have not paid dividends on our common stock nor do we anticipate that we will pay dividends in the foreseeable future. As of December 31, 2017, we do not have any preferred stock outstanding that has any preferential dividends.
+
+Item 1B. Unresolved Staff Comments
+
+None.
+
+Item 2. Properties.
+
+We lease or rent office space in several locations in the United States. The principal locations are San Diego, CA and Burlingame, CA, which are related to HGP’s operations, and Edwardsville, IL, which is related to NLEX’s operations. We also maintain offices in Los Angeles, CA; Scottsdale, AZ; Farmington Hills, MI and Easton, MD. The Edwardsville office is leased from a related party, as discussed in Note 13 to the consolidated financial statements.
+
+Item 3. Legal Proceedings.
+
+We are involved in various legal matters arising out of our operations in the normal course of business, none of which are expected, individually or in the aggregate, to have a material adverse effect on us. 
+
+8
+
+Item 4. Mine Safety Disclosures.
+
+Not Applicable.
+
+9
+
+PART II
+
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+
+Market Information
+
+Shares of our common stock, $0.01 par value per share, are quoted under the symbol “HGBL” in the OTC market (“OTCQB”), and under the symbol “HGP” on the Canadian Securities Exchange (“CSE”).
+
+The following table sets forth the high and low prices for our common stock, as quoted on the OTCQB, for the calendar quarters from January 1, 2016 through December 31, 2017, based on inter-dealer quotations, without retail mark-up, mark-down or commissions. These prices may not represent actual transactions, and are quoted in U.S. dollars:
+
+On March 2, 2018, the closing price for a share of our common stock as quoted on the OTCQB was $0.43.
+
+The following table sets forth the high and low prices for our common stock, as quoted on the CSE, for the calendar quarters from January 1, 2016 through December 31, 2017, based on inter-dealer quotations, without retail mark-up, mark-down or commissions. These prices may not represent actual transactions, and are quoted in Canadian dollars:  
+
+On March 2, 2018, the closing price for a share of our common stock as quoted on the CSE was Canadian $0.51.
+
+Holders
+
+As of March 2, 2018, we had approximately 394 holders of common stock of record.
+
+Dividends
+
+To date, we have not paid dividends on our common stock nor do we anticipate that we will pay dividends in the foreseeable future. As of December 31, 2017, we do not have any preferred stock outstanding which has any preferential dividends.
+
+10
+
+Recent Sales of Unregistered Securities; Use of Proceeds from Registered Securities.
+
+On March 28, 2017, one of our directors exercised a previously granted option to purchase 10,000 shares of our common stock at an exercise price of $0.08 per share.  No commissions were paid on this purchase.  This purchase was exempt from registration pursuant to Section 4(2) of the Securities Act and/or Regulation D promulgated thereunder.  
+
+Issuer Purchases of Equity Securities.
+
+None.
+
+Item 6. Selected Financial Data.
+
+As a Smaller Reporting Company, we are electing scaled reporting obligations and therefore are not required to provide the information requested by this Item.
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis should be read in conjunction with our Consolidated Financial Statements and Notes thereto, included in Item 15 of this Report. Our accounting policies have the potential to have a significant impact on our financial statements, either because of the significance of the financial statement item to which they relate, or because they require judgment and estimation due to the uncertainty involved in measuring, at a specific point in time, events that are continuous in nature.
+
+Business Overview, Recent Developments and Outlook
+
+Please see Item 1, above, of this Report for an overview of our business and recent developments. Please see Item 1A, above, for a discussion of the risk factors that may impact our current and future operations, and financial condition.
+
+Liquidity and Capital Resources
+
+Liquidity
+
+At December 31, 2017, we had a working capital deficit of $5.6 million, as compared to a working capital deficit of $4.1 million at December 31, 2016, an increase in the deficit of $1.5 million. 
+
+Our current assets decreased to $3.0 million compared to $4.4 million at December 31, 2016. Within current assets, the most significant change was a decrease of $0.9 million in accounts receivable, primarily the result of payments owed to us for activities related to our asset liquidation transactions in the fourth quarter.
+
+Our current liabilities remained relatively constant at $8.7 million as compared to $8.6 at December 31, 2016.  The most significant change was the $1.7 million decrease in the accounts payable and accrued liabilities, primarily the result of timing of certain auction settlement liabilities, offset by an increase in the current portion of contingent consideration due to timing of the final contingent consideration payment owed to the former owner (and current president) of NLEX in 2018.
+
+We believe we can fund our operations, our working capital deficit, and our debt service obligations during 2018 and beyond through a combination of cash flows from our on-going asset liquidation operations and accessing financing from our existing line of credit.  
+
+Our current Related Party debt consists of the Street Capital Loan (as defined below). During the third quarter of 2016, we repaid the outstanding balance of the Third Party Debt and terminated an agreement with the unrelated party.  The Street Capital Loan is with our former majority stockholder, Street Capital, and the amount of principal outstanding has varied over time.  In the third quarter of 2016, we amended the Street Capital Loan to structure payment terms of the outstanding balance, beginning in the third 
+
+11
+
+quarter of 2016, and ending in the third quarter of 2018.  At December 31, 2017 the Street Capital Loan had a current outstanding balance of $0.4 million as compared to $1.0 million at December 31, 2016. 
+
+Our Third Party debt consists of a Promissory Note dated January 30, 2018 (the “Note”) issued in the amount of $1,260,000. We are required to pay off the Note in 36 equal installments of $35,000, and any remaining outstanding balance hereunder shall be due and payable in full on January 30, 2021.
+
+During 2017, our primary sources of cash were the operations of our asset liquidation business.  Cash disbursements during 2017 consisted of debt repayment of $0.6 million (all of which was paid to Street Capital), payment of the contingent consideration owed to the former owner (and current president) of NLEX in the amount of $0.9 million, and payment of operating expenses.  
+
+We expect that our asset liquidation business will continue to be the primary source of cash required for ongoing operations for the foreseeable future. 
+
+Ownership Structure and Capital Resources
+
+At December 31, 2017 and December 31, 2016, we had stockholders’ equity of $3.5 million. 
+
+We determine our future capital and operating requirements based upon our current and projected operating performance and the extent of our contractual commitments.  We expect to be able to finance our future operations through a combination of our asset liquidation business and securing additional debt financing. Our contractual requirements are limited to the outstanding debt, contingent consideration liability, and lease commitments with related and unrelated parties.  Capital requirements are generally limited to our purchases of surplus and distressed assets.  We believe that our current capital resources, including available borrowing capacity from our existing line of credit, are sufficient for these requirements.  In the event additional capital is needed, we believe we can obtain additional debt financing through either related party loans or through a new credit facility.      
+
+Cash Position and Cash Flows 
+
+Cash and cash equivalents at December 31, 2017 were $2.1 million compared to $2.5 million at December 31, 2016. 
+
+Cash provided by or used in operating activities. Cash provided by operating activities was $1.2 million during 2017 as compared to $3.9 million cash provided by operating activities during 2016. The approximate $2.7 million decrease was primarily attributable to a net unfavorable change of $4.6 million in the operating assets and liabilities in 2017 compared to 2016, the result of completing the sale of our real estate inventory in the third quarter of 2016 and additional net unfavorable changes in other operating assets and liabilities of $0.8 million. The change in operating assets and liabilities was offset by a favorable change in the net (loss) income adjusted for noncash items, which was $1.8 million better during 2017 compared to 2016, mainly attributable to the legal settlement and the fair value adjustment of the contingent consideration in 2017.  
+
+The significant changes in operating assets and liabilities during 2017 as compared to 2016 are primarily due to the nature of our operations. We earn revenue from discrete asset liquidation deals that vary considerably with respect to their magnitude and timing, and that can consist of fees, commissions, asset sale proceeds, or a combination of all. The operating assets and liabilities associated with these deals are therefore subject to the same variability and can be quite different at the end of any given period.
+
+Cash used in investing activities. Cash used in investing activities during 2017 was $44,000, as compared to $79,000 cash provided during 2016. In both 2016 and 2017, the cash used was for the purchase of property and equipment.
+
+Cash used in financing activities. Cash used in financing activities was $1.6 million during 2017, as compared to $4.1 million during 2016. The 2017 activity consisted of a draw and full repayment within our related party line of credit, $0.6 million of repayments to Street Capital, and $0.9 million of contingent consideration paid to the former owner (and current president) of NLEX. The 2016 activity consisted of repayments to Street Capital ($0.8 million) and an unrelated third party ($2.5 million), and $0.8 million of contingent consideration paid to the former owner (and current president) of NLEX.  We also received proceeds of $1.1 million from related party loans during 2016, and repaid the amount in full as of December 31, 2016.  
+
+12
+
+Management’s Discussion of Results of Operations
+
+The following table summarizes our consolidated results of operations for 2017 and 2016 (in thousands).
+
+Our asset liquidation revenue has several components:  (1) traditional fee based asset disposition services, such as commissions from on-line and webcast auctions, liquidations and negotiated sales, and commissions from the NLEX charged-off receivables business, (2) the acquisition and subsequent disposition of distressed and surplus assets, including industrial machinery and equipment and real estate, and (3) fees earned for appraisal and management advisory services. We also earn income from our asset liquidation business through our earnings from equity method investments.
+
+2017 Compared to 2016
+
+Revenues and cost of revenues - Revenues were $20.1 million in 2017 compared to $23.8 million in 2016 and costs of services revenue and asset sales were $4.7 million in 2017 compared to $11.3 million in 2016. The gross profits were therefore $15.4 million in 2017 compared to $12.5 million in 2016, an increase of approximately $2.9 million or approximately 23%. The significant decrease in revenue in 2017 was primarily the result of our sale of the real estate inventory in 2016.  In addition, cost of services revenue decreased during 2017 as compared to 2016, and services revenue increased during 2017 as compared to 2016, based on a higher volume of deals for the Equity Partners and NLEX divisions, which have lower direct costs as compared to deals for HGP. Because we conduct our asset liquidation operations both independently and through partnerships, and the ratio of the two is unlikely to remain constant in each period, the operations must be considered as a whole rather than on a line-by-line basis. The gross profit is a function of the volume, size and timing of asset liquidation transactions conducted during the year.     
+
+Selling, general and administrative expense – Selling, general and administrative expense was $13.6 million in 2017 as compared to $12.0 million in 2016, an increase of $1.6 million or 13%. Expenses increased overall primarily due to the following: an increase in the annual performance bonus for the Equity Partners division based on improved financial performance; an increase in external finders fees for the Equity Partners division; an increase in salaries and commissions for the NLEX division as compared to the prior year; and an increase in our non-cash stock-based compensation expense, attributable to the Company-wide option grant in the fourth quarter of 2016.
+
+13
+
+Significant components of selling, general and administrative expense were as shown below (dollars in thousands):
+
+Depreciation and amortization expense – Depreciation and amortization expense was $0.3 million in 2017 and 2016, and consisted almost entirely of amortization expense related to intangible assets.  In both years the depreciation of property and equipment was not material.
+
+Off-Balance Sheet Arrangements – We had no off-balance sheet arrangements during the years ended December 31, 2017 and 2016. 
+
+14
+
+Non-GAAP Financial Measure – Adjusted Earnings before Interest, Taxes, Depreciation and Amortization (“Adjusted EBITDA”)
+
+We prepared our consolidated financial statements in accordance with generally accepted accounting principles in the United States (“GAAP”). We use the non-GAAP financial measure “Adjusted EBITDA” in assessing our results. Adjusted EBITDA reflects the standard definition of EBITDA (net income (loss) plus depreciation and amortization, interest and other expense, and provision for income taxes), adjusted further to reflect the effects of settlement accrual charges, plus or minus fair value adjustments of contingent consideration and plus stock-based compensation.  We believe that Adjusted EBITDA is relevant and useful supplemental information for our investors. Management believes that the presentation of this non-GAAP financial measure, when considered together with our GAAP financial measures and the reconciliation to the most directly comparable GAAP financial measure, provides a more complete understanding of the factors and trends affecting us than could be obtained absent these disclosures. Management uses Adjusted EBITDA to make operating and strategic decisions and to evaluate our performance. We have disclosed this non-GAAP financial measure so that our investors have the same financial data that management uses, with the intention of assisting investors to make comparisons to our historical operating results and analyze our underlying performance. Management believes that Adjusted EBITDA is a useful supplemental tool to evaluate our underlying operating performance on an ongoing basis. Our use of Adjusted EBITDA is not meant to be, and should not be, considered in isolation or as a substitute for, or superior to, any GAAP financial measure. You should carefully evaluate the financial information, below, which reconciles our GAAP reported net (loss) income to Adjusted EBITDA for the periods presented (in thousands).
+
+Recently adopted accounting pronouncements
+
+In 2016, the FASB issued Accounting Standards update (“ASU”) 2016-07, Investments – Equity Method and Joint Ventures (“ASU 2016-07”), which simplifies the transition to the equity method of accounting by, among other things, eliminating retroactive adjustments to the investments as a result of an increase in the level of ownership interest or degree of influence.  ASU 2016-07 became effective January 1, 2017 and did not have a material impact on our consolidated financial statements.  
+
+In 2016, the FASB issued ASU 2016-09, Compensation – Stock Compensation (“ASU 2016-09”), which provides improvements to employee share-based payment accounting.  ASU 2016-09 simplifies the accounting and presentation of various elements of share-based compensation including, but not limited to, income taxes, excess tax benefits, statutory tax withholding requirements, payment of employee taxes, and award assumptions.  ASU 2016-09 became effective January 1, 2017 and did not have a material impact on our consolidated financial statements.
+
+In 2015, the FASB issued Accounting Standards update 2015-17, Balance Sheet Classification of Deferred Taxes (“ASU 2015-17”).  ASU 2015-17 requires all deferred tax assets and liabilities to be classified as non-current on the balance sheet.  This amendment simplifies the presentation of deferred income taxes.  ASU 2015-17 will be effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2016.  ASU 2015-17 became effective January 1, 2017 and did not have a material impact on our consolidated financial statements.
+
+Future accounting pronouncements
+
+In 2014, the FASB issued Accounting Standards update 2014-09, Revenue from Contracts with Customers (“ASU 2014-09”). ASU 2014-09 specifies a comprehensive model to be used in accounting for revenue arising from contracts with customers, and supersedes most of the current revenue recognition guidance, including industry-specific guidance. The FASB subsequently issued amendments to ASU No. 2014-09 that have the same effective date and transition date. It applies to all contracts with customers except those that are specifically within the scope of other FASB topics, and certain of its provisions also apply to transfers of nonfinancial assets, including in-substance nonfinancial assets that are not an output of an entity’s ordinary activities. The core principal of the model is that revenue is recognized to depict the transfer of goods or services to customers in an amount that reflects 
+
+15
+
+the consideration to which the transferring entity expects to be entitled in exchange. To apply the revenue model, an entity will:  1) identify the contract(s) with a customer, 2) identify the performance obligations in the contract, 3) determine the transaction price, 4) allocate the transaction price to the performance obligations in the contract, and 5) recognize revenue when (or as) the entity satisfies a performance obligation. For public companies, ASU 2014-09 is effective for annual reporting periods (including interim reporting periods within those periods) beginning after December 15, 2017. Upon adoption, entities can choose to use either a full retrospective or modified approach, as outlined in ASU 2014-09. As compared with current GAAP, ASU 2014-09 requires significantly more disclosures about revenue recognition. These new standards became effective for us on January 1, 2018, and will be adopted using the modified retrospective method through a cumulative-effect adjustment directly to retained earnings as of that date, as applicable. Based on our assessment of the impact that these new standards will have on our consolidated results of operations, financial position and disclosures completed to date, we have not identified any accounting changes that would materially impact the amount of reported revenues with respect to our service revenue and asset sales, or the timing of such revenues; however, certain changes are required for financial statement disclosure purposes.
+
+In 2016, the FASB issued Accounting Standards update 2016-02, Leases (“ASU 2016-02”).  ASU 2016-02 requires a lessee to recognize a lease asset representing its right to use the underlying asset for the lease term, and a lease liability for the payments to be made to lessor, on its balance sheet for all operating leases greater than 12 months.  ASU 2016-02 will be effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2018.  We have not yet adopted ASU 2016-02 nor assessed its potential impact on the financial statements.       
+
+In 2016, the FASB issued Accounting Standards update 2016-15, Statement of Cash Flows (“ASU 2016-15”), which clarifies the classification of certain cash receipts and payments.  The specific cash flow issues addressed by ASU 2016-15, with the objective of reducing the existing diversity in practice, are as follows: (1) debt prepayment or debt extinguishment costs; (2) settlement of zero-coupon debt instruments or other debt instruments with insignificant coupon interest rates; (3) contingent consideration payments made after a business combination; (4) proceeds from the settlement of insurance claims; (5) proceeds from the settlement of corporate-owned life insurance policies; (6) distributions received from equity method investees; (7) beneficial interest in securitization transactions; and (8) separately identifiable cash flows and application of the predominance in principle.  ASU 2016-15 will be effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2017.  We are still assessing the impact of ASU 2016-15 on our consolidated financial statements.
+
+In 2017, the FASB issued Accounting Standards update 2017-01, Business Combinations (“ASU 2017-01”), which clarifies the definition of a business under topic 805 of the Accounting Standards Codification.  The main provisions of ASU 2017-01 provide a screen to determine when an integrated set of assets and activities is not a business.  The screen requires that when substantially all of the fair value of the gross assets acquired (or disposed of) is concentrated in a single identifiable asset or group of similar identifiable assets, the set is not a business.  ASU 2017-01 will be effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2017.  We are still assessing the impact of ASU 2017-01 on our consolidated financial statements.    
+
+In 2017, the FASB issued Accounting Standards update 2017-04, Intangibles – Goodwill and Other (“ASU 2017-04”), which simplifies the test for goodwill impairment.  The main provisions of ASU 2017-04 eliminate the second step of the goodwill impairment test which previously was performed to determine the goodwill impairment loss for an entity by calculating the difference between the implied fair value of the entity’s goodwill and its carrying value.  Under ASU 2017-04, if a reporting unit’s carrying value exceeds its fair value, an entity will record an impairment charge based on that difference.  The impairment charge will be limited to the amount of goodwill which is allocated to that reporting unit.  ASU 2017-04 will be effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019.  Early adoption is permitted for annual and interim goodwill impairment testing dates after January 1, 2017.  We are still assessing the impact of ASU 2017-04 on our consolidated financial statements.      
+
+16
+
+Critical Accounting Policies
+
+Use of estimates
+
+The preparation of our consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements, as well as the reported amounts of revenues and expenses during the reporting period. Management bases its estimates and judgments on historical experience and various other factors that are believed to be reasonable under the circumstances. Actual results could differ from those estimates.
+
+Significant estimates include the assessment of collectability of revenue recognized, and the valuation of accounts receivable, inventory, investments, goodwill and intangible assets, liabilities, contingent consideration, deferred income tax assets and liabilities, and stock-based compensation. These estimates have the potential to significantly impact our consolidated financial statements, either because of the significance of the financial statement item to which they relate, or because they require judgment and estimation due to the uncertainty involved in measuring, at a specific point in time, events that are continuous in nature.
+
+Revenue recognition
+
+Services revenue generally consists of commissions and fees from providing auction services, appraisals, brokering of sales transactions and providing merger and acquisition advisory services. Revenue is recognized when persuasive evidence of an arrangement exists, the selling price is fixed and determinable, goods or services have been provided, and collectability is reasonably assured.  For asset sales revenue is recognized in the period in which the asset is sold, the buyer has assumed the risks and awards of ownership, we have no continuing substantive obligations and collectability is reasonably assured.
+
+We evaluate revenue from asset liquidation transactions in accordance with the accounting guidance to determine whether to report such revenue on a gross or net basis.  We have determined that we act as an agent for our fee based asset liquidation transactions and therefore we report the revenue from transactions in which we act as an agent on a net basis.  
+
+We also earn income through asset liquidation transactions that involve us acting jointly with one or more additional purchasers, pursuant to Joint Ventures. For these transactions, we do not record the revenue or expenses associated with these Joint Ventures. Instead, our proportionate share of the net income (loss) is reported as earnings of equity method investments. In general, the Joint Ventures apply the same revenue recognition and other accounting policies we do.
+
+Cost of services revenue and asset sales
+
+Cost of services revenue generally includes the direct costs associated with generating commissions and fees from our auction and appraisal services, merger and acquisition advisory services, and brokering of charged-off receivable portfolios.  We generally recognize these expenses in the period in which the revenue they relate to is recorded.  Cost of asset sales generally includes the cost of purchased inventory and the related direct costs of selling inventory.  We recognize these expenses in the period in which title to the inventory passes to the buyer and the buyer assumes the risk and reward of the inventory.
+
+Accounts receivable
+
+Our accounts receivable primarily relate to the operations of our asset liquidation business. They generally consist of three major categories:  fees, commissions and retainers relating to appraisals and auctions, receivables from asset sales, and receivables from Joint Venture partners. The initial value of an account receivable corresponds to the fair value of the underlying goods or services. To date, a majority of the receivables have been classified as current and, due to their short-term nature, any decline in fair value would be due to issues involving collectability. At each financial statement date the collectability of each outstanding account receivable is evaluated, and an allowance is recorded if the book value exceeds the amount that is deemed collectable. See Note 8 to the consolidated financial statements for more detail regarding our accounts receivable.  
+
+Inventory
+
+17
+
+Our inventory consists of assets acquired for resale. Machinery and equipment inventory is classified as current, and historically is sold within a one-year operating cycle. Real estate inventory is generally classified as non-current due to uncertainties relating to the timing of resale. All inventory is recorded at the lower of cost or net realizable value. There is a risk that assets acquired for resale may be subsequently sold for less than their cost, or may remain unsold.  Historically, the assets’ selling prices have generally been in excess of their cost. See Note 3 to the consolidated financial statements for further detail.       
+
+Equity Method Investments
+
+As noted above, we conduct a portion of our asset liquidation business through Joint Ventures. These are accounted for using the equity method of accounting whereby our proportionate share of the Joint Venture’s net income (loss) is reported in the consolidated statement of operations as earnings of equity method investments. At the balance sheet date, our investments in these Joint Ventures are reported in the consolidated balance sheet as equity method investments. We monitor the value of each Joint Ventures’ underlying assets and liabilities, and records a write down of our investments should we conclude that there has been a decline in the value of the net assets. Given that the underlying transactions are identical, in all material aspects, to asset liquidation transactions that we undertake independently, the net assets are similarly expected to be sold within a one-year operating cycle.  However, these investments have historically been classified as non-current in the consolidated financial statements due to the uncertainties relating to the timing of resale of the underlying assets as a result of the Joint Venture relationship.  See Note 4 to the consolidated financial statements for further detail.  
+
+Intangible assets and goodwill
+
+Intangible assets are recorded at fair value upon acquisition. Those with an estimated useful life are amortized, and those with an indefinite useful life are unamortized. Subsequent to acquisition, we monitor events and changes in circumstances that require an assessment of intangible asset recoverability. Indefinite-lived intangible assets are assessed at least annually to determine both if they remain indefinite-lived and if they are impaired.  We assess whether or not there have been any events or changes in circumstances that suggest the value of the asset may not be recoverable. Amortized intangible assets are not tested annually, but are assessed when events and changes in circumstances suggest the assets may be impaired. If an assessment determines that the carrying amount of any intangible asset is not recoverable, an impairment loss is recognized in the statement of operations, determined by comparing the carrying amount of the asset to its fair value. All of our identifiable intangible assets at December 31, 2017 have been acquired as part of the acquisitions of HGP in 2012 and NLEX in 2014, and are discussed in more detail in Note 7 to the consolidated financial statements. No impairment charges were necessary during 2017.  
+
+Goodwill, which results from the difference between the purchase price and the fair value of net identifiable tangible and intangible assets acquired in a business combination, is not amortized, but is tested at least annually for impairment. We perform our annual impairment test on October 1.  Testing goodwill is a two-step process, in which the carrying amount of the reporting unit associated with the goodwill is first compared to the reporting unit’s estimated fair value. If the carrying amount of the reporting unit exceeds its estimated fair value, the fair values of the reporting unit’s assets and liabilities are analyzed to determine whether the goodwill of the reporting unit has been impaired. An impairment loss is recognized to the extent that our recorded goodwill exceeds its implied fair value as determined by this two-step process. Accounting Standards Update 2011-08, Testing Goodwill for Impairment, provides the option to perform a qualitative assessment prior to performing the two-step process, which may eliminate the need for further testing. Goodwill, in addition to being tested for impairment annually, is tested for impairment at interim periods if an event occurs or circumstances change such that it is more likely than not that the carrying amount of goodwill may be impaired.  
+
+In testing goodwill, we initially use a qualitative approach and analyzes relevant factors to determine if events and circumstances have affected the value of the goodwill. If the result of this qualitative analysis indicates that the value has been impaired, we then apply a quantitative approach to calculate the difference between the goodwill’s recorded value and its fair value. An impairment loss is recognized to the extent that the recorded value exceeds its fair value.  All of our goodwill relates to our acquisitions of Equity Partners in 2011, HGP in 2012 and NLEX in 2014, and is discussed in more detail in Note 7 to the consolidated financial statements. No impairment charges were necessary during 2017.
+
+Future impairment of our intangible assets and goodwill could result from changes in assumptions, estimates or circumstances, some of which are beyond our control. The most significant items that could impact our business and result in an impairment charge are outlined above in Item 1A. Risk Factors.
+
+Deferred income taxes
+
+We recognize deferred tax assets and liabilities for temporary differences between the tax bases of assets and liabilities and the amounts at which they are carried in the financial statements, based upon the enacted tax rates in effect for the year in which the 
+
+18
+
+differences are expected to reverse. We periodically assess the value of our deferred tax assets, which have been generated by a history of net operating and net capital losses, and determines the necessity for a valuation allowance that will reduce deferred tax assets to the amount expected to be realized. We evaluate which portion of the deferred tax assets, if any, will more likely than not be realized by offsetting future taxable income, taking into consideration any limitations that may exist on our use of our net operating and net capital loss carryforwards.  We continued to carry a full valuation allowance in 2017.  For further discussion of our income taxes, see Note 12 to the consolidated financial statements.
+
+On December 22, 2017, the 2017 Tax Cuts and Jobs Act (the Tax Act) was enacted into law and the new legislation contains several key tax provisions that affected us, including a one-time mandatory transition tax (Toll Charge) on accumulated foreign earnings and a reduction of the corporate income tax rate to 21% effective January 1, 2018, among others. We are required to recognize the effect of the tax law changes in the period of enactment, which will include determining the transition tax, re-measuring our U.S. deferred tax assets and liabilities, as well as reassessing the net realizability of our deferred tax assets and liabilities.
+
+Contingent consideration
+
+At December 31, 2017 our contingent consideration consists of the estimated fair value of an earn-out provision that was part of the consideration for the acquisition of NLEX in 2014. The amount assigned to the contingent consideration at the acquisition date was determined using a discounted cash flow analysis. Its fair value is assessed quarterly, and any adjustments, together with the accretion of the fair value discount, are reported as fair value adjustments on our consolidated statement of operations. See Notes 2 and 10 to the consolidated financial statements for more discussion of the contingent consideration.
+
+Liabilities and contingencies
+
+We are involved from time to time in various legal matters arising out of our operations in the normal course of business. On a case by case basis, we evaluate the likelihood of possible outcomes for these contingent matters. Based on this evaluation, we determine whether a loss accrual is appropriate. If the likelihood of a negative outcome is probable, and the amount can be estimated, we accrue the estimated loss in the current period.  Refer to Note 14 to the consolidated financial statements for further detail.   
+
+Stock-based compensation
+
+Our stock-based compensation is primarily in the form of options to purchase common shares. The fair value of stock options is calculated using the Black-Scholes option pricing model.  The determination of the fair value of our stock options is based on a variety of factors including, but not limited to, the price of our common stock, the expected volatility of the stock price over the expected life of the award, and expected exercise behavior.  The fair value of the awards is subsequently expensed over the vesting period, net of estimated forfeitures. The provisions of our stock-based compensation plans do not require that we settle any options by transferring cash or other assets, and therefore we classify the option awards as equity. See Note 15 to the consolidated financial statements for further discussion of our stock-based compensation.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+As a Smaller Reporting Company, we are electing scaled reporting obligations and therefore are not required to provide the information requested by this Item.
+
+Item 8. Financial Statements and Supplementary Data.
+
+Our Consolidated Financial Statements required by this Item are included herein, commencing on page F-1.
+
+Item 9. Changes In and Disagreements with Accountants on Accounting and Financial Disclosure.
+
+During the years ended December 31, 2017 and December 31, 2016, respectively, we had no disagreements with our auditors and no reportable events.
+
+19
+
+Item 9A. Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures
+
+As of the end of the period covered by this Annual Report, under the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer (the “Certifying Officers”), we conducted an evaluation of our disclosure controls and procedures. As defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act, the term “disclosure controls and procedures” means controls and other procedures of an issuer that are designed to ensure that information required to be disclosed by the issuer in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Commission’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer’s management, including the Certifying Officers, to allow timely decisions regarding required disclosure. Based on this evaluation, the Certifying Officers have concluded that our disclosure controls and procedures were effective as of December 31, 2017.
+
+Management’s Annual Report on Internal Control Over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, in accordance with Rules 13a-15(f) and 15d-15(f) of the Exchange Act. Under the supervision and with the participation of our management, including the Certifying Officers, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+Our internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles in the United States of America. Our internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of our assets; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures are being made by us only in accordance with authorizations of our management and directors; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of our assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Based on its assessment using these criteria, our management concluded that our internal control over financial reporting was effective as of December 31, 2017.
+
+Changes in Internal Control over Financial Reporting
+
+There were no changes in our internal control over financial reporting during the fourth fiscal quarter of 2017 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+Item 9B. Other Information.
+
+None.
+
+20
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance.
+
+Under our Charter documents, the Board is divided into three classes, with the total number of directors to be not less than five and not more than nine. Each director is to serve a term of three years or until his or her successor is duly elected and qualified. As of the date hereof, the Board consists of seven members: three Class I directors (Messrs. Dove, Perlis and Shimer), two Class II directors (Messrs. Hexner and Silber) and two Class III directors (Messrs. Ryan and DeMoss). The following table sets forth the names, ages and positions with us of our current directors and executive officers. With the exception of Ross Dove and Kirk Dove, who are brothers, there are no family relationships between any present executive officers and directors.
+
+Set forth below are descriptions of the backgrounds of our executive officers and directors:
+
+Allan C. Silber, Chairman of the Board.  Mr. Silber was elected to the Board as a Class II director in September 2001. He was appointed as Chairman of the Board in November 2001, a position he held until October 2004, and was again appointed as Chairman of the Board in March 2005. In January 2011, Mr. Silber resigned the position of Chief Executive Officer and assumed the position of President. In May 2015 in connection with the appointment of Ross Dove as Chief Executive Officer and Kirk Dove as Chief Operating Officer and President, Mr. Silber resigned the position of President.  Mr. Silber is the Chairman of Street Capital, which he founded in 1979.  Mr. Silber sits on a number of public, private and not for profit Boards. Mr. Silber attended McMaster University and received a bachelor’s degree from the University of Toronto.
+
+Michael Hexner, Director.  Mr. Hexner was appointed by the Board as a Class II director in August 2016 to fill a Board vacancy. Mr. Hexner has expertise and extensive experience in executive leadership with growing businesses.  Mr. Hexner co-founded Wheel Works in 1976, and grew the business, as its Chief Executive Officer, to become the largest independent tire chain in the United States.  Mr. Hexner was the co-founder of Pacific Leadership Group in 2001, and has served as the Chairman and Chief Executive Officer of both SmartPillars and DealerFusion.  Mr. Hexner currently serves as an operating partner of Fundamental Capital, a private equity firm, and as the Chairman of Zoomvy.com.  Mr. Hexner received a Bachelor of Arts in political philosophy from Williams College, a master’s degree in negotiation and dispute resolution from Creighton University, and has completed an executive management program at the Haas School of Business of the University of California.
+
+Samuel L. Shimer, Director.  Mr. Shimer was appointed by the Board as a Class I director in April 2001. Mr. Shimer has extensive expertise in mergers and acquisitions, including those transactions that occurred while he was an officer of our company and Street Capital, where he was initially employed as a Senior Vice President, Mergers & Acquisitions and Business Development in July 1997. He was appointed Managing Director in February 2000 and he terminated his employment with the Company in February 2004 to join J. H. Whitney & Co., a private equity fund management company, where he remained a Partner until December 2009. Mr. Shimer is currently Managing Director of SLC Capital Partners, LLC, a private equity fund management company that he co-founded in 2010. From 1991 to 1997, Mr. Shimer worked at two merchant banking funds affiliated with Lazard Frères & Co., Center Partners and Corporate Partners, ultimately serving as a Principal. Mr. Shimer earned a Bachelor of Science in economics from The Wharton School of the University of Pennsylvania, and a Master of Business Administration degree from Harvard Business School.
+
+21
+
+J. Brendan Ryan, Director.  Mr. Ryan was appointed by the Board as a Class III director in August 2011 to fill a Board vacancy. Mr. Ryan has had a distinguished career in the advertising industry, most recently serving as the global CEO of Foote Cone & Belding Worldwide (now FCB), and as the Chairman and Chairman Emeritus from June 2005 to December 2010. He has served on the boards of several public companies and currently serves as a board member of several non-profit corporations. Mr. Ryan has extensive experience at the Board level with respect to the workings of public companies as well as an extensive network of contacts that could be of benefit to us. Mr. Ryan received his Bachelor of Arts in history from Fordham College and his Master of Business Administration in marketing from the Wharton Graduate School of the University of Pennsylvania.
+
+Morris Perlis, Director.  Mr. Perlis was appointed by the Board as a Class I director in May 2015.  Mr. Perlis previously served as President of Street Capital from 1992 until 2001, a period of tremendous success that included guiding our health care strategy, resulting in superior growth of three investee companies.  In addition to his past experience at Street Capital, Mr. Perlis bring a wealth of expertise gained in senior strategic and management roles with other leading organizations.  He spent 13 years with American Express Inc., including five years as President of American Express Canada.  During that time he obtained approval for, and directed the launch of, the AMEX Bank of Canada, for which he served as CEO.  Among his other responsibilities with American Express, Mr. Perlis served as Executive Vice President, and was a key member of numerous senior level U.S. executive committees.  Mr. Perlis also spent four years as President and CEO of Mad Catz Interactive, during which time he completely re-engineered the company, leading it to become the largest third party manufacturer in its industry.  Mr. Perlis is currently the President and CEO of Morris Perlis and Associates, and is active on a number of public, private and not for profit boards. 
+
+Emmett DeMoss, Director.  Mr. DeMoss was appointed by the Board as a Class III director in August 2017.  He worked in the business sector as a Corporate Finance Officer for Dean Witter and for Hambrecht & Quist, where he managed the initial public offerings (“IPO”) of several companies. He later served as Chief Operating Officer of Grubb & Ellis (“G&E”), a commercial real estate brokerage and advisory firm, where he helped grow the business to $350 million in annual revenues and led the reverse IPO of our company. Mr. DeMoss has extensive executive leadership experience with growing businesses and was the founder, director and senior officer of Rackwise and Real Bid, the first on-line Company to offer indicative bidding for commercial real estate, which eventually merged with CoStar (Nasdaq: CSGP). He also held positions as a director and senior officer of Docutel. Mr. DeMoss received his Bachelor of Science in Mechanical Engineering from Princeton University and a Master of Business Administration in Finance from Stanford University.
+
+Ross Dove, Chief Executive Officer and Director.  Mr. Dove was appointed by the Board as a Class I director in May 2015. Mr. Ross Dove was appointed our Chief Executive Officer in May 2015 and has served as Co-Managing Partner of Heritage Global Partners, Inc. since its founding in October 2009.  Together with his brother, Kirk Dove, Mr. Ross Dove joined our company when HGI acquired HGP in February 2012. Mr. Dove began his career in the auction business over thirty years ago, beginning with a small family-owned auction house and helping to expand it into a global firm, DoveBid, which was sold to a third party in 2008. The Messrs. Dove remained as global presidents of the business until September 2009, and then formed HGP in October 2009. During his career, Mr. Dove has been actively involved with advances in the auction industry such as theatre-style auctions, which was a first step in migrating auction events onto the Internet. Mr. Dove has been a member of the National Auctioneers Associations since 1985, and a founding member of the Industrial Auctioneers Association. He served as a director of Critical Path from January 2002 to January 2005 and has served on the boards of several venture funded companies.
+
+Kirk Dove, Chief Operating Officer and President.  Mr. Kirk Dove was appointed our Chief Operating Officer and President in May 2015 and has served as Co-Managing Partner of Heritage Global Partners, Inc. since its founding in October 2009.  Together with his brother, Ross Dove, Mr. Kirk Dove joined our company when HGI acquired HGP in February 2012. Mr. Dove began his career in the auction business over thirty years ago, including, along with his brother, the position of global president of DoveBid, which was sold to a third party in 2008. The Messrs. Dove remained as global presidents of the business until September 2009, and then formed HGP in October 2009. In addition to his experience with the auction business, Mr. Dove was employed at Merrill Lynch for several years as a Senior Account Executive. Mr. Dove received a Bachelor of Science in business from Northern Illinois University. He is a Senior ASA Member of the American Society of Appraisers, and has been a member of the National Auctioneers Associations since 1985.
+
+Scott A. West, Chief Financial Officer.  Mr. West became the Chief Financial Officer of HGP in March 2014 and was appointed the Chief Financial Officer of HGI in May 2015.  Mr. West has over 25 years of multi-national executive financial accounting and business management experience serving various public and private equity funded companies, including a Fortune 500 company. He has expertise managing financial, technical, M&A and international accounting teams and has deep knowledge of SEC financial reporting, SOX compliance and international accounting matters.  Mr. West is responsible for all of the Company’s financial and treasury functions including financial reporting, bank relationships, conducting internal and industry analysis to support the Company’s goals for growth, investor relations, and M&A activity.  Mr. West received a Bachelor of Science in accounting from Arizona State University.
+
+22
+
+James Sklar, Executive Vice President, General Counsel, and Corporate Secretary.  Mr. Sklar became the Executive Vice President and General Counsel of HGP in June 2013 and was appointed the Executive Vice President, General Counsel and Corporate Secretary of HGI in May 2015.  Mr. Sklar has over two decades of relevant legal expertise serving leading worldwide asset advisory and auction services firms.  Throughout his career, he has played a key role in establishing relationships with global alliance partners and implementing international contracts as well as expanding the adoption of the auction sale process in North America, Europe, Asia and Latin America.  Mr. Sklar is responsible for all of the Company’s legal matters including negotiating global transactional business alliance documents, managing relationships and contracts with worldwide clients and business partners, and providing legal representation for all of the Heritage Global companies.  Mr. Sklar received a Bachelor of Science in economics from the Wharton School of the University of Pennsylvania and a Juris Doctorate from Wayne State University Law School.
+
+Kenneth Mann, Senior Managing Director, Equity Partners HG LLC.  Mr. Mann has been employed by us since March 2011, when he joined our company in connection with our acquisition of Equity Partners. Prior to the acquisition, Mr. Mann was a Partner at Equity Partners since 1995, and a Managing Partner since September 2002. During his career, Mr. Mann has had extensive experience handling investment banking services for distressed businesses operating in a wide variety of industries. Mr. Mann received a Bachelor of Science in business administration from Salisbury University. He began sponsoring events with the American Bankruptcy Institute in 1995, became a member in March 2003, and has served on its Asset Sales Committee since 2003.
+
+David Ludwig, President, National Loan Exchange Inc. (“NLEX”).  Mr. Ludwig joined our company when HGI acquired NLEX in June 2014. Mr. Ludwig has worked in the financial industry for over twenty-five years, and he developed NLEX from its start as a post-Resolution Trust Corporation (RTC) sales outlet to the nation’s leading broker of charged-off credit card and consumer debt accounts. He is considered a leading pioneer in the debt sales industry, and has been a featured speaker at many industry conferences, as well as quoted in numerous publications including the New York Times, LA Times, Collections and Credit Risk, and Collector Magazine. Mr. Ludwig also serves as consultant and expert witness within the industry.  Mr. Ludwig received a Bachelor of Science in economics from the University of Illinois.
+
+Each of our officers has been appointed by the Board and holds his office at the discretion of the Board.
+
+No director or officer of our company has, during the last ten years: (i) been subject to or involved in any legal proceedings described under Item 401(f) of Regulation S-K, including, without limitation, any criminal proceeding (excluding traffic violations or similar misdemeanors), (ii) been subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities, or (iii) been a party to a civil proceeding of a judicial or administrative body of competent jurisdiction and as a result of such proceeding was or is subject to a judgment, decree or final order enjoining future violations of, or prohibiting or mandating activities subject to, United States federal or state securities or commodities laws and regulations, or finding any violations with respect to such laws and regulations.
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+Section 16(a) of the Exchange Act requires our officers and directors, and persons who own more than ten percent of a registered class of our equity securities, to file reports of ownership and changes in ownership of equity securities of HGI with the SEC. Officers, directors, and greater than ten percent stockholders are required by the SEC regulation to furnish us with copies of all Section 16(a) forms that they file.
+
+Based solely upon a review of Forms 3 and Forms 4 furnished to us pursuant to Rule 16a-3 under the Exchange Act during our most recent fiscal year, and Forms 5 with respect to our most recent fiscal year, we believe that all such forms required to be filed pursuant to Section 16(a) were timely filed by the executive officers, directors and security holders required to file same during the fiscal year ended December 31, 2017.
+
+Code of Ethics
+
+HGI has adopted a code of ethics that applies to our employees, including its principal executive, financial and accounting officers or persons performing similar functions. The HGI Code of Conduct (the “Code”) can be found on our website at http://www.heritageglobalinc.com (follow Corporate Governance link to Governance Documents tab). We intend to satisfy the disclosure requirements under Item 5.05 of Form 8-K regarding any amendments to, or waivers from, a provision of the Code that applies to our principal executive, financial and accounting officers or persons performing similar functions by posting such information on its website at the website address set forth above. The information provided on our website is not part of this report, and is therefore not incorporated by reference unless such information is specifically referenced elsewhere in this report.
+
+23
+
+Corporate Governance
+
+Board Leadership and Risk Oversight
+
+We are a small organization, with a market capitalization at December 31, 2017 of approximately $10.5 million. From 2001 until the first quarter of 2014, Street Capital was our majority stockholder. In the first quarter of 2014 Street Capital declared a dividend in kind, consisting of its 73.3% interest in our company, which was paid to Street Capital stockholders in April 2014. Our association with Street Capital continued into 2015, and Street Capital remained a related party, due to a management services agreement (the “Services Agreement”) between us and Street Capital. The Services Agreement is described in more detail in Item 13 of this Report and in Note 13 to the consolidated financial statements.  The Services Agreement was terminated effective August 31, 2015, as described more fully in the Current Report on Form 8-K filed with the SEC on September 1, 2015.  After the termination of the Services Agreement, Street Capital remained a related party as a result of the Street Capital Loan and our Chairman of the Board, Mr. Allan Silber, also holding a similar position for Street Capital.   
+
+Our operations, even following the acquisitions of HGP in 2012 and NLEX in 2014, remain relatively modest, with only 48 employees, as detailed in Item 1 of this report. Given the current size and scale of our operations, we believe that the Board does not require a lead independent director in order to effectively oversee our strategic priorities. The Board meets quarterly to review our operating results. It meets annually to review and approve our strategy and budget. Material matters such as acquisitions and dispositions, investments and business initiatives are approved by the full Board.
+
+Board Meetings and Committees
+
+The Board held four meetings during the fiscal year ended December 31, 2017. The Board has designated two standing committees: the Audit Committee and the Compensation Committee. HGI does not have a nominating or a corporate governance committee. However, corporate governance functions are included in the Audit Committee Charter, and Board nominations are considered by the full Board. There are no specific criteria for Director nominees, and we do not specifically consider diversity with respect to the selection of our Board nominees. Given our limited operations, we believe that we would have difficulty identifying and attracting a diverse selection of candidates. To date, it has been deemed most effective to nominate and appoint individuals who are either former employees with detailed knowledge of the business, such as Mr. Shimer, or individuals with expertise that will be of value as we expand our market presence, such as Mr. Hexner, Mr. DeMoss, Mr. Ryan and Mr. Perlis. There has been no material change in the procedures by which our stockholders may recommend nominees to our Board since such procedures were adopted and implemented.
+
+Audit Committee
+
+The Audit Committee is responsible for making recommendations to the Board concerning the selection and engagement of independent accountants and for reviewing the scope of the annual audit, audit fees, results of the audit and independent registered public accounting firm’s independence. The Audit Committee is also responsible for corporate governance, and reviews and discusses with management and the Board such matters as accounting policies, internal accounting controls and procedures for preparation of financial statements. Its membership is currently comprised of Mr. Shimer (Chairman), Mr. DeMoss, and Mr. Hexner, all three of whom are independent directors. The Audit Committee held four meetings during the fiscal year ended December 31, 2017. In 2000, the Board approved HGI’s Audit Committee Charter, which was subsequently revised and amended in 2001 and again in 2003 in order to incorporate certain updates in light of regulatory developments, including the Sarbanes-Oxley Act of 2002. A copy of the current Audit Committee Charter is available on our website www.heritageglobalinc.com.
+
+Audit Committee Financial Expert
+
+The Board has determined that Mr. Samuel L. Shimer is an Audit Committee financial expert as defined by Item 407(d) of Regulation S-K and is “independent” as such term is defined under Nasdaq Marketplace Rules and applicable federal securities laws and regulations. 
+
+24
+
+Item 11. Executive Compensation.
+
+Compensation Discussion and Analysis
+
+Summary
+
+The following sections provide an explanation and analysis of our executive compensation program and the material elements of total compensation paid to each of our named executive officers. Included in the discussion is an overview and description of:
+
+In reviewing our executive compensation program, we considered issues pertaining to policies and practices for allocating between long-term and currently paid compensation and those policies for allocating between cash and non-cash compensation. We also considered the determinations for granting awards, performance factors for our company and our named executive officers, and how specific elements of compensation are structured and taken into account in making compensation decisions. Questions related to the benchmarking of total compensation or any material element of compensation, the tax and accounting treatment of particular forms of compensation and the role of executive officers (if any) in the total compensation process also are addressed where appropriate. In addition to the named executive officers discussed below, we have only 48 salaried employees.
+
+General Executive Compensation Philosophy
+
+We compensate our executive management through a combination of base salaries, merit-based performance bonuses, and long-term equity compensation. We adhere to the following compensation policies, which are designed to support the achievement of our business strategies:
+
+A core principle of our executive compensation program is the belief that compensation paid to executive officers should be closely aligned with our near- and long-term success, while simultaneously giving us the flexibility to recruit and retain the most qualified key executives. Our compensation program is structured so that it is related to our stock performance and other factors, direct and indirect, all of which may influence long-term stockholder value and our success.
+
+We utilize each element of executive compensation to ensure proper balance between our short- and long-term success as well as between our financial performance and stockholder return. In this regard, we believe that the executive compensation program for our named executive officers is consistent with our financial performance and the performance of each named executive officer. We do not utilize the services of compensation consultants in determining or recommending executive or director compensation.
+
+25
+
+Our Named Executive Officers
+
+This analysis focuses on the compensation paid to our “named executive officers,” a defined term generally encompassing:
+
+During 2017, our named executive officers were:
+
+Ross Dove – Chief Executive Officer. Mr. Dove (and his brother, Kirk Dove) co-founded HGP, which we acquired in 2012.  Effective May 5, 2015, Mr. Dove became our Chief Executive Officer, as more fully described in our Form 8-K filed with the SEC on May 7, 2015.
+
+Kenneth Mann – Senior Managing Director, Equity Partners. Mr. Mann has held this position prior to and since our acquisition of Equity Partners in 2011.
+
+David Ludwig – President, National Loan Exchange. Mr. Ludwig has held this position prior to and since our acquisition of National Loan Exchange in 2014.
+
+Elements of Compensation
+
+Base Salaries
+
+Unless specified otherwise in their employment agreements, the base salaries of our named executive officers are evaluated annually. In evaluating appropriate pay levels and salary increases for such officers, the Compensation Committee uses a subjective analysis, considering achievement of our strategic goals, level of responsibility, individual performance, and internal equity and external pay practices. In addition, the Committee considers the scope of the executives’ responsibilities, taking into account competitive market compensation for similar positions where available, as well as seniority of the individual, our ability to replace the individual and other primarily judgmental factors deemed relevant by our Board and Compensation Committee. The Compensation Committee does not use any specific benchmark in the determination of base salaries.
+
+Base salaries are reviewed annually by our Compensation Committee and our Board, and adjusted from time to time pursuant to such review or at other appropriate times, in order to align salaries with market levels after taking into account individual responsibilities, performance and experience.
+
+During 2017 and 2016 all of our named executive officers were paid employees. 
+
+Mr. Mann earns a base salary of $375,000 and is eligible for a performance bonus as described below.
+
+Mr. Dove earns a base salary of $350,000 and is eligible for a performance bonus as described below.  Further, Mr. Dove will participate in a share of our net profits and net losses earned on certain industrial auction principal and guarantee transactions.  For further information on the profit share refer to Item 13 below and to Note 9 to the consolidated financial statements. 
+
+Mr. Ludwig earns a base salary of $400,000 and is subject to the earn-out consideration from the acquisitions of NLEX in 2014, as further described in Notes 2 and 10 to the consolidated financial statements.   
+
+Bonuses
+
+Bonus awards are designed to focus management attention on key operational goals for the current fiscal year. Our executives may earn a bonus based upon achievement of their specific operational goals and achievement by us or our business unit of financial targets. Cash bonus awards are distributed based upon the Company and the individual meeting performance criteria objectives. The final determination for all bonus payments is made by our Compensation Committee based on a subjective analysis of the foregoing elements.
+
+We set bonuses based on a subjective analysis of certain performance measures in order to maximize and align the interests of our officers with those of our stockholders. Although performance goals are generally standard for determining bonus awards, we have and will consider additional performance rating goals when evaluating the bonus compensation structure of our executive 
+
+26
+
+management. In addition, in instances where the employee has responsibility over a specific area, performance goals may be directly tied to the overall performance of that particular area.
+
+For 2017, Mr. Mann was eligible for a performance bonus calculated as follows:  The Equity Partners team is entitled to receive 50% of the net operating income achieved by Equity Partners (“HEP NOI”) above $175,000. We will retain the first $175,000 of HEP NOI and 50% of HEP NOI thereafter. In addition, we will make available annually a bonus in the amount of $25,000 to be allocated to a member or members of the Equity Partners team. The allocation among the Equity Partners team to be determined by Mr. Mann and our Chief Executive Officer, Mr. Ross Dove. In 2017 Mr. Mann earned a bonus of $218,895, and in 2016 he earned a bonus of $50,000.  
+
+For 2017, Mr. Dove was eligible to receive a performance bonus calculated as follows:  after we achieve consolidated net operating income of $1,733,000, and the Heritage Global Partners auction division achieves net operating income of $352,000, Mr. Dove may share in a bonus pool of $100,000 (to be shared also with other of our officers, collectively the “Management Group”), which will be allocated at management’s discretion.  After this, the Management Group receives 10% of the first $500,000 of net operating income above $1,733,000 (net operating income from $1,733,000 – $2,233,000), and then 20% of the net operating income in excess of $2,233,000.  
+
+As Mr. Dove’s and Mr. Mann’s bonuses are closely tied to our performance, they do not encourage inappropriate risk-taking on their part.
+
+For 2017, Mr. Ludwig was not eligible to receive a performance bonus; however, he was subject to the earn-out consideration from the acquisitions of NLEX in 2014, as further described in Notes 2 and 10 to the consolidated financial statements.
+
+Equity Incentive Grants
+
+In keeping with our philosophy of providing a total compensation package that favors at-risk components of pay, long-term incentives can comprise a significant component of our executives’ total compensation package. These incentives are designed to motivate and reward executives for maximizing shareowner value and encourage the long-term employment of key employees. Our objective is to provide executives with above-average, long-term incentive award opportunities.
+
+We view stock options as our primary long-term compensation vehicle for our executive officers. Stock options generally are granted at slightly above the prevailing market price on the date of grant and will have value only if our stock price increases. Grants of stock options generally are based upon our performance, the level of the executive’s position, and an evaluation of the executive’s past and expected future performance. We do not time or plan the release of material, non-public information for the purpose of affecting the value of executive compensation.
+
+We believe that stock options will continue to be used as the predominant form of stock-based compensation. In 2016, our named executives participated in a Company-wide stock option grant.  As part of the grant the named executives received options to purchase an aggregate 825,000 shares of our common stock at a strike price of $0.45 per share.  No options were granted to any of our named executive officers during 2017. 
+
+Other Benefits
+
+The only additional benefits provided to the named executive officers during 2017 and 2016 were the payment of an automobile allowance of $14,029 to Mr. Ross Dove and the payment of club membership dues for Mr. Ludwig ($8,000 in 2017 and $10,000 in 2016).  There were no pension or change in control benefits in either 2017 or 2016.
+
+Upon termination of employment by us without cause, Mr. Dove and Mr. Mann are each entitled to 12 months base salary and a pro rata share of the bonus payable in the fiscal year of termination. Any bonus payable is based on the termination date (provided that, as of the termination date, the performance criteria established with respect to the bonus for the fiscal year have been met), subject to certain conditions.
+
+Upon termination of employment by us without cause, Mr. Ludwig is entitled to receipt of his base salary, payable in equal monthly installments, that would have been received, through the earlier of (a) the last day of his original employment period, or (b) the date on which we satisfy in full our obligation to pay Mr. Ludwig any earn-out obligations.
+
+27
+
+Tax Considerations
+
+Section 162(m) of the Internal Revenue Code places limits on the deductibility of compensation in excess of $1.0 million paid to executive officers of publicly held companies. The Compensation Committee does not believe that Section 162(m) has had or will have any impact on the compensation policies followed by us.
+
+Executive Compensation Process
+
+Compensation Committee
+
+Our Compensation Committee oversees and approves all compensation and awards made to the Chief Executive Officer, Chief Operating Officer/President, Chief Financial Officer and General Counsel. The Compensation Committee reviews the performance and compensation of the executive officers, without their participation, and establishes their compensation accordingly, with consultation from others when appropriate.
+
+Executive and Director Compensation – Tabular Disclosure
+
+Summary Compensation Table
+
+The following table sets forth the aggregate compensation for services rendered during the fiscal years ended December 31, 2017 and 2016 by our named executive officers. 
+
+Grants of Plan-Based Awards
+
+In 2016, we granted stock option awards to our executive officers as part of an employee wide option award grant.  All option awards were granted with a strike price of $0.45 per share.  The table below details the option awards granted to our executive officers in 2016.  No grants were made to our named executive officers noted above during 2017. 
+
+28
+
+Outstanding Equity Awards at Fiscal Year-End
+
+The following table sets forth the detail of outstanding equity awards at December 31, 2017.
+
+In 2016, we adopted the Heritage Global Inc. 2016 Stock Option Plan.  Refer to Note 15 to the consolidated financial statements for further discussion of our stock-based compensation.  There were no other adjustments or changes in the terms of any of our equity awards in 2017 or 2016.
+
+Compensation of Directors
+
+The following table sets forth the aggregate compensation for services rendered during the fiscal year ended December 31, 2017 by each person serving as a director.
+
+Each director who is not an employee receives a $20,000 per year cash retainer, $1,000 per meeting attended in person or by telephone, and an annual grant of stock options to purchase 10,000 shares of common stock, which is awarded in March of each year. In addition, the Chairman of the Board receives a cash retainer of $75,000 per year, the Chairman of the Audit Committee receives a cash retainer of $10,000 per year, Audit Committee members who are not the chair receive a cash retainer of $5,000 per year, and other committee chairpersons receive an annual cash retainer of $2,000 per year. The directors are also eligible to receive options under our stock option plans at the discretion of the Board. 
+
+29
+
+Stock Option Plans
+
+At December 31, 2017, we had four stock-based employee compensation plans, which are described in Note 15 of the consolidated financial statements included in Item 15 of this Report. 
+
+30
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+
+The following table sets forth information regarding the ownership of our common stock as of March 2, 2018, except as otherwise footnoted, by: (i) each director; (ii) each of the Named Executive Officers in the Summary Compensation Table; (iii) all of our executive officers and directors as a group; and (iv) all those known by us to be beneficial owners of more than five percent of our common stock. As of March 2, 2018, there are 28,480,148 shares of common stock and 569 shares of Class N Preferred stock issued and outstanding. Each share of Class N Preferred Stock is entitled to 40 votes.
+
+We are not aware of any arrangements, including any pledge by any person of securities of the registrant or any of its parents, the operation of which may at a subsequent date result in a change of control of the registrant.
+
+31
+
+Securities Authorized for Issuance Under Equity Compensation Plans
+
+The following table sets forth, as of December 31, 2017, information with respect to equity compensation plans (including individual compensation arrangements) under which our securities are authorized for issuance.
+
+32
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence.
+
+Transactions with Management and Others
+
+See Item 7 hereof for discussion of our changes in the ownership and control by Street Capital, its former majority owner and parent. See Item 11 hereof for descriptions of the terms of employment, consulting and other agreements between us and certain officers and directors.
+
+Transactions with Street Capital
+
+Allan Silber, the Chairman of our Board, is also the Chairman of Street Capital.
+
+Loan Agreement
+
+The Street Capital Loan was originally entered into in 2003 and accrued interest at 10% per annum compounded quarterly from the date funds were advanced (the “Street Capital Loan”). The Street Capital Loan was secured by our assets. 
+
+In 2014, following Street Capital’s distribution of its ownership interest in our company to Street Capital stockholders as a dividend in kind, the unpaid balance of the Street Capital Loan began accruing interest at a rate per annum equal to the lesser of the Wall St. Journal (“WSJ”) prime rate + 2.0%, or the maximum rate allowable by law. As of December 31, 2015, the interest rate on the loan was 5.50%. In the third quarter of 2016, following an amendment to the loan agreement, the Street Capital Loan began accruing interest at a rate per annum equal to the WSJ prime rate + 1.0%.  We also agreed to a payment schedule to begin in the third quarter of 2016, and Street Capital removed the security from our assets.  As of December 31, 2017, the interest rate on the loan was 5.50%.  See Note 13 to the consolidated financial statements for further discussion of transactions with Street Capital. 
+
+During 2017, the largest amount outstanding under the Street Capital Loan was $1.0 million, which occurred during the first quarter of 2017.  During 2017, we made payments on the loan of $0.6 million.  As of March 2, 2018, the outstanding balance of the loan was $0.4 million.  
+
+Transactions with Other Related Parties
+
+Through April 2016, as part of the operations of HGP we leased office space in Foster City, CA that is owned by an entity jointly controlled by Ross Dove and Kirk Dove, our Chief Executive Officer and President and Chief Operating Officer, respectively (“Ross and Kirk”).  We terminated the lease agreement in the second quarter of 2016.  The total amount paid for the lease was $76,000 in 2016, and as a result, the total amount paid to each of Ross Dove and Kirk Dove, individually, was $38,000 in 2016.    
+
+As part of the operations of NLEX, we lease office space in Edwardsville, IL that is owned by the President of NLEX, David Ludwig. The total amount paid for the lease in both 2017 and 2016 was $0.1 million, which was paid in its entirety directly to David Ludwig.
+
+In the fourth quarter of 2016, we entered into a related party secured promissory note with an entity owned by certain executive officers of our company (the “Entity”) for a revolving line of credit (the “Line of Credit”).  Under the terms of the Line of Credit, we received a revolving line of credit with an aggregate borrowing capacity of $1.5 million.  Interest under the Line of Credit is charged at a variable rate.  Aggregate loans under the Line of Credit up to $1.0 million incur interest at a variable rate per annum based on the rate charged to the Entity by its bank, plus 2.0%.  Amounts outstanding at any time in excess of $1.0 million incur interest at a rate of 8.0% per annum.  We are required to pay the Entity an annual commitment fee of $15,000, payable on a monthly basis, and due regardless of amounts drawn against the line.  Further, the Entity is eligible to participate in the net profits and net losses of certain industrial auction principal and guarantee transactions entered into by us on or after January 1, 2017, and consummated on or prior to the maturity date. Principal transactions are those in which we purchase assets for resale. Guarantee transactions are those in which we guarantee our client a minimum amount of proceeds from the auction.  The Line of Credit matures at the earlier of (i) three years from the date of the Agreement, (ii) the termination of the Entity’s line of credit with its bank, or (iii) forty-five (45) days following the date we close a new credit facility with a financial institution. Ross Dove and Kirk Dove each have an equal 50% share in the payments made to the Entity. For additional information on the Line of Credit refer to the Form 8-K filed with the SEC on December 27, 2016.  On November 21, 2017, we utilized the Line of Credit by drawing $750,000, which was repaid in full on December 22, 2017 resulting in approximately $4,000 of interest expense. We also incurred approximately $34,000 in expense based on the profit share provision for principal and guarantee transactions, as noted above. 
+
+33
+
+In connection with the acquisition of NLEX in 2014, we pay the former owner and current president of NLEX (“David Ludwig”) an earn-out provision, calculated as 50% of the Net Profits (as defined in the NLEX stock purchase agreement) of NLEX for each of the four years following the closing of the acquisition.  The future payments expected to be made to David Ludwig under the earn-out provision are included within the consolidated balance sheet as contingent consideration.  During 2017, we made our third earn-out payment to David Ludwig, in the amount of $0.9 million.  
+
+Director Independence
+
+Our securities are quoted on the OTC market and the Canadian Securities Exchange. Our Board applies “independence” requirements and standards under the Nasdaq Marketplace Rules. Pursuant to the requirements, the Board annually undertakes a review of director independence. During this review, the Board considers transactions and relationships between each director or any member of his or her immediate family and HGI and its subsidiaries and affiliates. The purpose of this review is to determine whether any such relationships or transactions exist that are inconsistent with a determination that the director is independent. As a result of this review in 2017, the Board affirmatively determined that during 2017 Messrs. Hexner, Ryan, Shimer, Perlis and DeMoss were deemed “independent” as defined under the Nasdaq Marketplace Rules. The Board further determined that each of the foregoing directors met the independence and other requirements, including the Audit Committee membership independence requirements, needed to serve on the Board committees for which they serve.
+
+Item 14. Principal Accountant Fees and Services.
+
+The Audit Committee has selected Squar Milner LLP (“Squar Milner”) as our independent registered public accounting firm for the fiscal year ended December 31, 2017. Squar Milner has served as our independent registered public accounting firm since the fiscal year ended December 31, 2014.  All fees paid to independent registered public accounting firms were pre-approved by the Audit Committee.
+
+The following is a summary of the fees paid or expected to be paid to Squar Milner for professional services rendered for the fiscal years ended December 31, 2017 and 2016 (in thousands): 
+
+34
+
+Audit Fees
+
+Audit fees are for professional services for the audit of our annual financial statements, the reviews of the financial statements included in our Quarterly Reports on Form 10-Q, and services in connection with our statutory and regulatory filings.
+
+Audit-Related Fees
+
+Audit-related fees are for assurance and related services that are reasonably related to the audit and reviews of our financial statements, exclusive of the fees disclosed as audit fees above. 
+
+Tax Fees
+
+Tax fees are for services related to tax compliance, consulting and planning services and include preparation of tax returns, review of restrictions on net operating loss carry forwards and other general tax services. For 2017 and 2016, these services were provided by an independent accounting firm other than Squar Milner.
+
+All Other Fees
+
+We did not incur fees for any other services provided by our principal accountant during the years ended December 31, 2017 and 2016.
+
+Audit and Non-Audit Service Pre-Approval Policy
+
+In accordance with the requirements of the Sarbanes-Oxley Act of 2002 and the rules and regulations promulgated thereunder, the Audit Committee has adopted an informal approval policy to pre-approve services performed by the independent registered public accounting firm. All proposals for services to be provided by the independent registered public accounting firm, which must include a detailed description of the services to be rendered and the amount of corresponding fees, are submitted to the Chairman of the Audit Committee and the Chief Financial Officer. The Chief Financial Officer authorizes services that have been pre-approved by the Audit Committee. If there is any question as to whether a proposed service fits within a pre-approved service, the Audit Committee chair is consulted for a determination. The Chief Financial Officer submits requests or applications to provide services that have not been pre-approved by the Audit Committee, which must include an affirmation by the Chief Financial Officer and the independent registered public accounting firm that the request or application is consistent with the SEC’s rules on auditor independence, to the Audit Committee (or its Chairman or any of its other members pursuant to delegated authority) for approval.  All fees related to audit services during 2017 were pre-approved by the Audit Committee.  
+
+Audit Services. Audit services include the annual financial statement audit (including quarterly reviews) and other procedures required to be performed by the independent registered public accounting firm to be able to form an opinion on our financial statements. The Audit Committee pre-approves specified annual audit services engagement terms and fees and other specified audit fees. All other audit services must be specifically pre-approved by the Audit Committee. The Audit Committee monitors the audit services engagement and may approve, if necessary, any changes in terms, conditions and fees resulting from changes in audit scope or other items.  
+
+Audit-Related Services. Audit-related services are assurance and related services that are reasonably related to the performance of the audit or review of our financial statements which historically have been provided to us by the independent registered public accounting firm and are consistent with the SEC’s rules on auditor independence. The Audit Committee pre-approves specified audit-related services within pre-approved fee levels. All other audit-related services must be pre-approved by the Audit Committee.
+
+Tax Services. The Audit Committee pre-approves specified tax services that the Audit Committee believes would not impair the independence of the independent registered public accounting firm and that are consistent with SEC rules and guidance. All other tax services must be specifically approved by the Audit Committee.
+
+All Other Services. Other services are services provided by the independent registered public accounting firm that do not fall within the established audit, audit-related and tax services categories. The Audit Committee pre-approves specified other services that do not fall within any of the specified prohibited categories of services.
+
+35
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+Report of Independent Registered Public Accounting Firm
+
+Consolidated Balance Sheets as of December 31, 2017 and 2016
+
+Consolidated Statements of Operations and Comprehensive Income (loss) for the years ended December 31, 2017 and 2016
+
+Consolidated Statements of Stockholders’ Equity for the years ended December 31, 2017 and 2016
+
+Consolidated Statements of Cash Flows for the years ended December 31, 2017 and 2016
+
+Notes to Consolidated Financial Statements
+
+These schedules are omitted because they are not required, or are not applicable, or the required information is shown in the consolidated financial statements or notes thereto.
+
+36
+
+37
+
+(c) Financial Statement Schedules
+
+The following Schedules are included in our Financial Statements:
+
+None.
+
+Item 16. Form 10-K Summary
+
+None.
+
+38
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+
+39
+
+INDEX OF FINANCIAL STATEMENTS
+
+Title of Document
+
+F-1
+
+Report of Independent Registered Public Accounting Firm
+
+To the Stockholders and the Board of Directors of Heritage Global Inc. 
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Heritage Global Inc. and its subsidiaries (the Company) as of December 31, 2017 and 2016, the related consolidated statements of operations and comprehensive loss, stockholders' equity, and cash flows, for the years then ended, and the related notes to the consolidated financial statements (collectively, the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2017 and 2016, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+/s/ SQUAR MILNER LLP
+
+We have served as the Company's auditor since 2014.
+
+San Diego, California
+
+March 13, 2018
+
+F-2
+
+HERITAGE GLOBAL INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+ (In thousands of US dollars, except share amounts)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-3
+
+HERITAGE GLOBAL INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+ (In thousands of US dollars, except per share amounts)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-4
+
+HERITAGE GLOBAL INC.
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+
+ (In thousands of US dollars, except share amounts)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-5
+
+HERITAGE GLOBAL INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+ (In thousands of US dollars)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-6
+
+HERITAGE GLOBAL INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1 – Description of Business and Principles of Consolidation
+
+These consolidated financial statements include the accounts of Heritage Global Inc. together with its subsidiaries, including Heritage Global Partners, Inc. (“HGP”), Equity Partners HG LLC (“Equity Partners”), National Loan Exchange Inc. (“NLEX”) and Heritage Global LLC (“HG LLC”). These entities, collectively, are referred to as “HGI,” the “Company,” “we” or “our” in these consolidated financial statements. These consolidated financial statements were prepared in conformity with generally accepted accounting principles in the United States of America (“GAAP”), as outlined in the Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC”) and include the assets, liabilities, revenues, and expenses of all subsidiaries over which HGI exercises control. All significant intercompany accounts and transactions have been eliminated upon consolidation.
+
+The Company’s sole operating segment is its asset liquidation business, which began operations in 2009 with the establishment of HG LLC. The business was subsequently expanded by the acquisitions of Equity Partners, HGP and NLEX in 2011, 2012 and 2014, respectively. As a result, HGI is positioned to provide an array of value-added capital and financial asset solutions:  auction and appraisal services, traditional asset disposition sales, and financial solutions for distressed businesses and properties.
+
+Note 2 – Summary of Significant Accounting Policies
+
+Use of estimates
+
+The preparation of the Company’s consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements, as well as the reported amounts of revenues and expenses during the reporting period. Management bases its estimates and judgments on historical experience and various other factors that are believed to be reasonable under the circumstances. Actual results could differ from those estimates.
+
+Significant estimates include the assessment of collectability of revenue recognized and the valuation of accounts receivable, inventory, investments, goodwill and intangible assets, liabilities, contingent consideration, deferred income tax assets and liabilities, and stock-based compensation. These estimates have the potential to significantly impact our consolidated financial statements, either because of the significance of the financial statement item to which they relate, or because they require judgment and estimation due to the uncertainty involved in measuring, at a specific point in time, events that are continuous in nature.
+
+Foreign Currency
+
+The functional currency of foreign operations is deemed to be the local country’s currency.  Assets and liabilities of operations outside of the United States are generally translated into U.S. dollars, and the effects of foreign currency translation adjustments are included as a component of accumulated other comprehensive loss. 
+
+Reclassifications
+
+Certain prior year balances within the consolidated financial statements have been reclassified to conform to current year presentation.  
+
+Nature of Business
+
+The Company earns revenue both from commission or fee-based services, and from the sale of distressed or surplus assets. With respect to the former, revenue is recognized as the services are provided. With respect to the latter, the majority of the asset sale transactions are conducted directly by the Company and the revenue is recognized in the period in which the asset is sold. Fee based revenue is reported as services revenue, and the associated direct costs are reported as cost of services revenue. At the balance sheet date, any unsold assets which the Company owns are reported as inventory, any outstanding accounts receivable are included in the Company’s accounts receivable, and any associated liabilities are included in the Company’s accrued liabilities. Equipment inventory is expected to be sold within a year and is therefore classified as a current asset; however, real estate inventory is generally classified as non-current due to the uncertainty in the timing of its sale. 
+
+The remaining asset sale transactions involve the Company acting jointly with one or more additional purchasers, pursuant to a partnership, joint venture or limited liability company (“LLC”) agreement (collectively, “Joint Ventures”). These transactions are accounted for as equity method investments, and, accordingly, the Company’s proportionate share of the net income (loss) is reported 
+
+F-7
+Question: What is a drawback of staggered board terms according to the form?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

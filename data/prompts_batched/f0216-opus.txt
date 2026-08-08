@@ -1,0 +1,3962 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-084-pert ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+FORM 10-K
+
+           SECURITIES AND EXCHANGE COMMISSION
+
+              Washington, D.C. 20549
+
+               ----------
+
+                  FORM 10-K
+
+        ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+
+           THE SECURITIES EXCHANGE ACT OF 1934
+
+   For The Year Ended December 31, 1998   Commission File No. 0-26816
+
+              -------------
+
+              IDX Systems Corporation
+
+       (Exact Name of Registrant as Specified in its Charter)
+
+               ----------
+
+       Vermont                    03-0222230
+
+  (State or Other Jurisdiction of           (I.R.S. Employer
+
+  Incorporation or Organization            Identification No.)
+
+   1400 Shelburne Road, P.O. Box 1070, South Burlington, Vermont 05403
+
+   (Address of Principal Executive Offices)          (Zip Code)
+
+               ----------
+
+    Registrant's telephone number, including area code: (802) 862-1022
+
+    Securities registered pursuant to Section 12(b) of the Act: NONE
+
+     Securities registered pursuant to Section 12(g) of the Act:
+
+               Title of each class
+
+             Common Stock, $.01 par value
+
+               ----------
+
+   Indicate by check mark whether the registrant (1) has filed all reports
+
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+
+1934 during the preceding 12 months (or for such shorter period that the
+
+registrant was required to file such reports), and (2) has been subject to such
+
+filing requirements for the past 90 days.
+
+               Yes   X   No  _____
+
+                 ----       
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+
+of Regulation S-K is not contained herein, and will not be contained, to the
+
+best of registrant's knowledge, in definitive proxy or information statements
+
+incorporated by reference in Part III of this Form 10-K or any amendment to the
+
+Form 10-K.
+
+   The aggregate market value of voting Common Stock held by nonaffiliates of
+
+the registrant was $184,044,861 based on the last reported sale price of the
+
+Common Stock on the Nasdaq consolidated transaction reporting system on March
+
+19, 1999.
+
+   Number of shares outstanding of the registrant's class of Common Stock as
+
+of March 19, 1999: 26,675,957.
+
+   Documents incorporated by reference:
+
+   Proxy Statement for the 1999 Annual Meeting of Stockholders-Part II and
+
+Part III
+
+================================================================================
+
+                   PART I
+
+Item 1.  Business
+
+Overview
+
+   IDX is a leading provider of healthcare information solutions in the United
+
+States. IDX offers healthcare information solutions that include software,
+
+hardware, and related services required by physician groups, management services
+
+organizations (MSOs), hospitals, and integrated delivery networks (IDNs). IDX
+
+solutions enable healthcare organizations to redesign patient care and other
+
+workflow processes in order to improve efficiency and quality.
+
+   IDX solutions are packaged as the IDXtendR(TM) @ the Site Series, where the
+
+Site corresponds to settings across the care continuum: IDXtendRTM @ the Group
+
+Practice, IDXtendR(TM) @ the MSO, IDXtendR(TM) @ the Hospital, and IDXtendRTM @
+
+IDN. The IDXtendR product line employs relational, scaleable, client/server
+
+architecture and provides both ambulatory and hospital capabilities. In February
+
+1999, IDX announced the general release of a new product line-IDXsite(TM), a
+
+web-based practice management system that includes integrated financial,
+
+administrative, and managed care applications for mid-size physician
+
+organizations. IDXsite and the Clinical Management System module of IDXtendR
+
+together provide a comprehensive solution for the mid-size physician group
+
+market segment. IDXsite is built on a multi-tier web-based platform engineered
+
+using Microsoft (R) Enterprise Suite, including Microsoft SQL server and
+
+Windows(R) NT.
+
+   As of February 28, 1999 IDX's systems were used by, or were under contract
+
+to be used by, more than 110,000 physicians and were installed at over 1,650
+
+client sites, including approximately 250 large physician group practices, those
+
+generally with more than 75 physicians, more than 530 physician practices which
+
+have 75 or fewer physicians, over 270 hospitals and 205 IDNs.
+
+   IDX was incorporated in Vermont on June 2, 1969. IDX's executive offices
+
+are located at 1400 Shelburne Road, South Burlington, Vermont 05403 and its
+
+telephone number is (802) 862-1022.
+
+Industry Background
+
+   Healthcare costs in the United States have risen dramatically over the past
+
+two decades relative to the overall rate of inflation. Broad pressures to reduce
+
+costs without sacrificing the quality of care have caused significant changes in
+
+the healthcare industry. While reimbursement for healthcare has historically
+
+been based on a fee-for-service model of payment, managed care organizations and
+
+other payers are increasingly utilizing alternative reimbursement models,
+
+including fixed fee and capitation, that shift the financial risk of delivering
+
+healthcare from payers to both physicians and institutional providers. Pressures
+
+to control costs have also contributed to the movement of care from more
+
+expensive inpatient settings, such as hospitals, to ambulatory settings. Today,
+
+ambulatory care providers, particularly physician groups, deliver the majority
+
+of healthcare services, bear an increasing share of the financial risk, and
+
+control a substantial portion of total healthcare resources.
+
+   Over the past decade, individual physicians, physician groups and other
+
+ambulatory care providers joined and affiliated with other physicians, managed
+
+care organizations, hospitals and other enterprises to form larger healthcare
+
+organizations known as IDNs. These organizations have been formed to manage the
+
+continuum of healthcare services for population groups across both inpatient and
+
+ambulatory settings to improve quality and reduced costs for patients and
+
+members. IDNs enter into contracts with payers that cover a wide spectrum of
+
+terms-from a managed care contract that defines the terms under which care is
+
+administered and fixes the amount of payment for each covered person to
+
+contracts that resembles the more traditional indemnity or fee-for-service
+
+model.
+
+   Regardless of the payment or insurance model, care providers are challenged
+
+to improve the quality of care and reduce the associated cost at the same time.
+
+To meet this challenge, care delivery organizations must organize their
+
+businesses to efficiently manage patient care and other workflow processes that
+
+can extend across multiple care locations and business entities. Management
+
+believes a key operational principle for healthcare organizations will be to
+
+control and influence the complete treatment during an episode (or entire
+
+lifetime) of care, regardless of the organization's legal structure or sources
+
+of payment for care. The Company expects that healthcare organizations,
+
+including group practices, clinics, hospitals, and IDNs, will focus closely on
+
+the role that physicians play in determining the cost and quality of care.
+
+Whether the physician is a part of a tightly integrated IDN, a solo or small
+
+practice in a rural area, or a virtual IDN, coordinating care will be a
+
+significant factor in controlling costs and providing high-quality care. IDX
+
+believes that using 
+
+                   Page 2
+
+web technology on the physician desktop will play a significant role in helping
+
+physicians, who control the majority of healthcare resources, to coordinate care
+
+across the continuum. The Company's use of web technology will simplify
+
+integrated access by physicians and other users to medical knowledge bases and
+
+trading partners, as well as traditional software applications for automating
+
+care. The ability to deliver web technology products and access to third party
+
+applications and services is the result of the Company's recent adoption of the
+
+IDX Target Architecture(TM), which provides a standard for new IDX products and
+
+migrating existing IDX products to web technology over time. Management expects
+
+the use of the IDX Target Architecture will provide benefits to healthcare
+
+organizations, including a lower total cost of ownership, simplified system
+
+management, and a standard user interface across applications and locations.
+
+   IDX expects care delivery organizations to use technology as a means to
+
+attract and retain physicians to their organizations and that such organizations
+
+will use technology to differentiate themselves. Management believes that the
+
+most attractive technology solutions for physicians will involve systems that
+
+connect them to financial, clinical, and administrative information and manage
+
+patient flow processes for physicians at their desktops. While IDNs and
+
+physician groups continue to look to integrated application systems to provide
+
+enterprise-wide solutions, the process of selecting and implementing such
+
+solutions is time-consuming and expensive. Large healthcare organizations
+
+require technology solutions that not only deliver high-performance computing in
+
+environments with thousands of concurrent computer users, but also deliver a
+
+lower total cost of ownership, improved organizational workflow, improved
+
+information access, and a portal to web-based information and services. The
+
+possibility of connecting disparate systems through low-cost web-technology has
+
+to potential to accelerate implementation of enterprise-wide solutions, thereby
+
+changing the information system strategies of many large IDNs. Management
+
+believes this potential represents an opportunity for IDX.
+
+   The healthcare information systems market is highly fragmented, with over
+
+1,300 vendors. It is estimated that the market, worth an estimated $17.1 billion
+
+in 1998, could grow to as much as $21.1 billion by the year 2000. Healthcare
+
+organizations are transitioning to new platforms and newer technologies in a
+
+migration over time toward the implementation of enterprise-wide, patient-
+
+centered computing systems leading to the computerized medical record. These
+
+organizations cannot afford significant downtime or re-education, or the risk of
+
+choosing a system which has not proven its ability to handle high-volume
+
+transaction processing with continuous dependability. IDX believes that
+
+successful vendors in this market will have a large existing client base and
+
+offer the high-quality, integrated and web-enabled products, and value-added
+
+services needed to expand and support clients throughout this evolution process.
+
+Strategy
+
+   IDX seeks to maximize value for its clients by delivering information
+
+systems that are designed to improve the quality and reduce the cost of
+
+healthcare delivery. The IDX strategy is to build on its success as a leading
+
+ambulatory systems vendor and to build on the strength of the LastWord acute
+
+care clinical system to provide comprehensive information systems solutions for
+
+IDNs and other healthcare organizations. The IDX solution anticipates
+
+evolutionary change in the organizational structure of IDNs and provides the
+
+connectivity and information sharing functions that support evolutionary change.
+
+IDX believes that, in the near term, connectivity and information sharing
+
+requirements of the evolving IDN will be best met through the use of web
+
+technology and integration to IDX core systems. The IDX strategy will allow
+
+physician groups to share data with an IDN while at the same time maintaining an
+
+appropriate level of autonomy. This approach recognizes the practical
+
+operational needs of hospitals, MSOs, and group practices, while simultaneously
+
+providing the critical physician link to the network. IDX's ability to deliver
+
+on this strategy depends on its successful products for these market segments
+
+and its strategy to move these products to web technology, and to build new
+
+products on a thin-client, web-based architecture.
+
+   The combined strengths of IDX's products and the strategy for moving IDX
+
+products to web technology, positions IDX to provide comprehensive functionality
+
+and desktop integration across administrative, financial, clinical, and
+
+analytical applications. The IDX strategy-which includes automating patient
+
+care and other workflow processes, web access to patient data, clinical content,
+
+and e-commerce capabilities, and enterprise clinicals-provides benefits to all
+
+care delivery organizations looking to attract and maintain strong physician
+
+relationships. The Company's understanding of the significant role of the
+
+physician and the changing nature of delivery settings is the cornerstone of the
+
+IDX strategy.
+
+Key elements of IDX's strategy are to:
+
+   Increase Penetration of IDNs through Large Physician Group and Hospital
+
+Customer Relationships. IDX believes that the interests of its existing client
+
+organizations, including approximately 250 large group practices composed of
+
+more than 101,191 physicians and over 270 hospitals, as of December 31, 1998,
+
+will be a significant factor in the 
+
+                   Page 3
+
+management of IDNs and the formation of IDNs in the future. IDX expects that its
+
+relationships with these clients combined with the depth and breadth of its
+
+product offerings will provide significant opportunities to sell its products
+
+and services to IDNs and their affiliated organizations.
+
+   Capitalize on Web Technology to Enhance Current Products and Expand e-
+
+commerce offerings. IDX recognizes the need for healthcare organizations to
+
+extend information systems to physicians, trading partners, and ultimately,
+
+healthcare consumers. IDX recognizes the vast potential of the Web and web-
+
+based technologies to cost-effectively support the growing information needs of
+
+healthcare providers and is developing a technical strategy to use web
+
+technology to provide value to its customers. IDX believes that, in an
+
+information intensive environment like healthcare, where timely access to
+
+information is critical, web technology provides the needed connection for
+
+information about patients, while facilitating communication between providers,
+
+patients, and trading partners. The IDX web strategy encompasses four
+
+components:
+
+    . Continue to web-enable the Company's products
+
+    . Build new products on the Company's web-based Target Architecture(TM)
+
+    . Extend customers' connectivity opportunities using the Internet
+
+    . Deliver value-added services for clinical content and electronic
+
+      commerce
+
+   Target Physician Users with Web-based Desktop Solutions. IDX systems are
+
+currently performing practice management functions for 110,000 physicians. IDX
+
+believes significant opportunities exist to deliver a configurable physician
+
+desktop by selling the IDX Web Framework and associated products and services to
+
+IDX customers. IDX plans to leverage its presence in the physician market to
+
+secure a dominant presence on the physician desktop by organizing workflow and
+
+content for physicians and other users. Management believes that in the future
+
+physicians (who control approximately 80 percent of all healthcare expenditures)
+
+will become empowered to improve the quality of healthcare with direct access to
+
+patient information, trading partners, and the businesses they depend on-labs,
+
+pharmacies, office suppliers, and payers. IDX believes its position as a leading
+
+provider of information solutions to physicians, its proven ability to meet the
+
+needs of practices of all sizes, and its Web strategy will create a significant
+
+opportunity to provide a widely-accepted and effective physician desktop
+
+solution.
+
+   Cross-Sell Products and Services into Existing Client Base.  IDX believes
+
+significant opportunities exist to cross-sell current products and professional
+
+services as well as products under development to its existing client base which
+
+at December 31, 1998 consisted of over 780 physician practices and over 270
+
+hospitals. IDX is marketing its LastWord system to IDNs associated with its
+
+ambulatory customers, and is marketing the IDX ambulatory solution to physician
+
+groups associated with the LastWord customer base. In addition to selling
+
+products that enhance currently installed ambulatory applications, IDX actively
+
+markets applications that complement currently installed IDX systems. Among
+
+those applications are the IDXtendR(TM) Clinical Management System-an
+
+ambulatory computerized patient record; Analyzer-an OLAP (online analytical
+
+processing) decision support tool; Electronic Data Interchange-for interactive
+
+eligibility and credit card processing; IDXrad-radiology information system;
+
+Enterprise Index (formerly known as the Enterprise Patient Management System)-
+
+an enterprise master patient index system; the IDX Web Framework-a web-browser-
+
+based user interface with standard navigation tools to merge disparate
+
+applications; and OutReach(TM)-a web-based companion application for remote
+
+access to IDX systems.
+
+   Expand Professional and Technical Service Offerings. IDX seeks to leverage
+
+its healthcare information systems expertise by providing professional and
+
+technical services such as information systems planning, contract programming,
+
+and project management to assist healthcare organizations by focusing on best
+
+practices using the Company's products. A specialized consulting organization
+
+within IDX, The Huntington Group, provides information technology and services
+
+solutions to healthcare organizations, including process redesign,
+
+organizational change management, outsourcing, and systems integration services
+
+to IDX customers.
+
+   Establish Partnerships to Supplement IDX Offerings. IDX seeks to enhance
+
+its product offerings through strategic alliances with vendors developing
+
+complementary products and services, including emerging web-based clinical
+
+content and e-commerce services. The complementary products and services
+
+currently offered include integrated credit card transaction processing, point-
+
+of-service access to eligibility, referral, and enrollment data, critical care
+
+management, and integrated patient communication systems. In addition to
+
+increasing the range of products and services available to IDX customers, these
+
+alliances provide recurring revenue opportunities for IDX.
+
+                   Page 4
+
+                 IDX Products
+
+Products
+
+   IDX's software product solutions enable healthcare organizations to
+
+redesign patient care and other work flow processes by providing computer-based
+
+tools to capture, access and manage information within healthcare organizations
+
+and throughout IDNs. In January 1997, IDX introduced the IDXtendR(TM) product
+
+line. IDXtendR is packaged as the "IDXtendR @ the Site Series" consisting of
+
+nine configurations of IDX products packaged to meet the specific process
+
+requirements of healthcare organizations, including group practices, MSOs,
+
+hospitals, and IDNs. IDXtendR provides relational reporting and analysis
+
+capabilities as well as OutReach for web-browser access to patient data residing
+
+in an IDX database.
+
+   In February 1999, IDX announced the general release of IDXsite(TM), a web-
+
+based practice management system that includes integrated financial,
+
+administrative, and managed care applications for mid-size physician
+
+organizations. IDXsite and the IDXtendR Clinical Management System provide a
+
+comprehensive solution for this market segment. IDXsite is built on a multi-tier
+
+Web platform engineered using Microsoft (R) Enterprise Suite, including
+
+Microsoft SQL server and Windows(R) NT.
+
+Below is a description of IDX's products as of February 28, 1999.
+
+   IDX solutions are configured as the IDXtendR @ the Site SeriesTM , which is
+
+comprised of IDXtendR @ the Group Practice (Series 2000); IDXtendR @ the
+
+MSO(Series 3000); IDXtendR @ the Hospital (Series 5000); and IDXtendR @ the IDN
+
+(Series 6000). The @ the Site Series includes core applications, optional
+
+applications, and complementary products and services. To meet the needs of
+
+technically advanced, mid-size physician groups, IDX also offers IDXsite, a web-
+
+based practice management system with integrated financial, administrative, and
+
+managed care capabilities.
+
+Key healthcare processes automated by the IDX product lines include:
+
+    - patient information access for scheduling and patient registration
+
+    - financial management for billing and managed care
+
+    - clinical information applications, including inpatient computerized
+
+      patient record system, ambulatory clinical information, radiology
+
+      information, and image management
+
+    - enterprise connectivity for enterprise-wide scheduling, master
+
+      patient index, and electronic data interchange decision support for
+
+      reporting tools to support effective decision-making across the care
+
+      continuum
+
+Specific application and associated functions are described below:
+
+IDXtendR
+
+Scheduling:
+
+    - schedules patients, providers, and resources in small, mid-size, and
+
+      large physician group settings
+
+    - manages schedules and coordinates appointments in the acute care
+
+      environment and is integrated with orders for procedure scheduling
+
+Registration:
+
+    - stores patient demographics and insurance information
+
+    - creates a single master database of patient information across
+
+      multiple care settings
+
+    - includes patient registration, charge entry, fee schedule, patient
+
+      list, user registration, security and text messaging functions.
+
+Visit Management:
+
+    - admission and discharge capabilities for outpatient centers,
+
+      physician practices, and clinics
+
+    - admission, discharge, and transfer capabilities for hospital
+
+      inpatients and outpatients
+
+    - reports information related to patient registration, visit, bed
+
+      management, and insurance management
+
+    - tracks patient interaction to build the comprehensive electronic
+
+      medical record
+
+                   Page 5
+
+Charting
+
+    - provides abstracting and encoding using ICD-9, CPT-4 and DRG codes.
+
+    - streamlines chart completion activities for medical records personnel
+
+    - streamlines all activities related to tracking physical medical
+
+      records throughout a multi-site organization
+
+    - automates activities related to releasing patient record information
+
+      to external requesters including tracking, billing and collection.
+
+Billing and Accounts Receivable:
+
+    - integrates billing and receivables management with comprehensive
+
+      analysis and reporting for large group practices and MSOs
+
+    - manages patient billing, collection and insurance management from
+
+      initial registration through resolution of payment
+
+    - streamlines hospital patient accounting activities and expedites
+
+      reimbursement
+
+Managed Care Application
+
+    - maintains member registration, demographic, and financial data and
+
+      automatically applies benefits as defined in the member's plan
+
+    - provides a comprehensive referrals system with authorization
+
+      tracking, concurrent review, pre-certification, length of stay
+
+      assignment, and provider selection
+
+    - provides case identification, care plan tracking, cost simulation,
+
+      form letters, and linking of service records
+
+    - adjudicates and processes claims and statistical encounters
+
+    - provides billing for employer groups and self-pay members and manages
+
+      receivables
+
+    - provides flexible risk management (fund accounting), tracking, and
+
+      reporting
+
+    - provides issue tracking, responsibility assignment, workflow
+
+      management with automatic ticklers, and letter production
+
+Transaction Editing System (TES):
+
+    - captures, evaluates, and facilitates editing of charge and claim data
+
+    - allows transactions to be edited for completeness and re-tested
+
+      before they are entered into BAR and MCA applications
+
+Contract Reference:
+
+    - manages capitated contracts across the enterprise
+
+Intercept Contract Management
+
+    - contract administration, encoding, modeling and cost allocation
+
+    - contract reimbursement determination tool
+
+Clinical Tools
+
+    - manages the care process by providing a patient record, access to a
+
+      structured medical knowledge database that supports protocols, and
+
+      outcomes management
+
+    - comprehensive set of tools to aid clinician productivity and
+
+      streamline workflow, including problem list, prescription pad, chart
+
+      summary view, provider in-box and alerts, health maintenance alerts,
+
+      patient list management, panel query and rounds report.
+
+    - provides clinical results in easy to read flowsheet format.
+
+    - provides automated support for nursing activities such as
+
+      assessments, charting, and patient classification.
+
+Orders and Results Reporting
+
+    - provides comprehensive order management capabilities for inpatient
+
+      and ambulatory settings.
+
+    - provides comprehensive results reporting for lab, ancillary,
+
+      radiology, medications, and diagnosis results.
+
+Pharmacy
+
+    - comprehensive inpatient pharmacy department support
+
+    - comprehensive outpatient pharmacy department support
+
+                   Page 6
+
+Emergency Department
+
+    - provides patient flow management and tracking support for the
+
+      emergency department that is fully integrated with the inpatient
+
+      system, making all care activities performed in the ED available as
+
+      part of the patient's long-term record .
+
+Enterprise and Departmental Radiology
+
+    - automates a radiology department's clinical, demographic,
+
+      administrative, billing, scheduling, and film information
+
+    - provides multiple-site, access to patient data, exam information,
+
+      results, and corresponding digital images, thereby reducing instances
+
+      of film loss and delays in reporting to physician
+
+    - makes images and diagnostic reports available throughout the
+
+      enterprise via imaging solutions including a modality manager
+
+      investigational device 
+
+    - provides bi-directional link between IDXrad and diagnostic imaging
+
+      equipment, allowing transfer of information between the modality and
+
+      IDXrad (investigational device)
+
+Enterprise Index (formerly called Enterprise Patient Management System):
+
+    - a master person index used to track patient and member registration
+
+      information and visit histories across multiple locations in a
+
+      delivery network
+
+Enterprise Wide Scheduling (EWS):
+
+    - provides enterprise-wide patient, provider, and resource scheduling
+
+IDX Web Framework:
+
+    - provides web-browser user interface for integrating applications in a
+
+      single desktop presentation
+
+OutReach:
+
+    - provides remote access through the Internet or Intranet to IDX
+
+      applications
+
+Electronic Data Interchange (EDI):
+
+    - automates the computer-to-computer exchange of data such as claims
+
+      submittals and remittances, health plan eligibility information, and
+
+      integrated credit card processing
+
+Analyzer:
+
+    - provides relational reporting and analysis of IDXtendR data using
+
+      Microsoft SQL Server and on-line analytical processing (OLAP) for
+
+      multi-dimensional analysis in a graphical user environment
+
+Enterprise View:
+
+    - provides a data repository for enterprise-wide information analysis
+
+      using a relational database
+
+IDXsite(TM)
+
+IDXsite is a web-based practice management system with integrated financial,
+
+administrative, and managed care applications for physician organizations.
+
+Integrated with the IDXtendR(TM) Clinical Management System (CMS), IDXsite
+
+provides a comprehensive information system solution to mid-size physician group
+
+practices. IDXsite is Y2K compliant and can be implemented rapidly for customers
+
+needing a solution for the Year 2000. IDXsite is built on a multi-tier Web
+
+platform engineered using Microsoft(R) Enterprise suite, including Microsoft SQL
+
+server and Windows(R) NT. The web-based thin client architecture of IDXsite
+
+provides an open desktop for access to third party applications and enables
+
+centralized system management, reduced desktop costs, and incremental system
+
+investments as the number of users grow. The standard Internet protocols used
+
+for system access in IDXsite reduces the cost and complexity of networking a
+
+decentralized organization that must support multiple group practices,
+
+locations, and remote users.
+
+Key functional areas of the IDXsite(TM) practice management solution include:
+
+ . Patient and resource scheduling
+
+ . Patient/member registration
+
+ . Eligibility verification
+
+ . Referral management
+
+ . Point of service billing
+
+ . Reimbursement management
+
+                   Page 7
+
+ . Automated collections
+
+ . Prepaid plan management
+
+ . Claims adjudication
+
+ . Reporting and analysis
+
+Business Partner Solutions
+
+Envoy:
+
+    - provides point-of-service access to claims and receipts, interactive
+
+      eligibility, enrollment, and referral services.
+
+    - eliminates formatting challenges typically associated with electronic
+
+      data interchange (EDI)
+
+HDX:
+
+    - provides seamless access to eligibility information at the point of
+
+      service
+
+    - integrated with EDI to enable requesting, receiving, and updating
+
+      eligibility information
+
+Imperial Technology Solutions:
+
+    - provides credit card transaction processing services from the IDX
+
+      desktop integrated with EDI for automatic approval and payment
+
+      posting into the patient's account
+
+Picis:
+
+    - PICIS Chart+ - critical care system used with the LastWord system
+
+SmartTalk:
+
+    - provides an integrated patient communication solution based on
+
+      Interactive Voice Response (IVR) technology
+
+    - utilizes a sophisticated voice messaging engine to provide
+
+      personalized appointment reminders and confirmation, schedule change
+
+      notification, wellness and recall message delivery, around the clock
+
+      test result delivery, and patient surveys
+
+    - integrated with the Patient Scheduling (SCHED) application
+
+Services
+
+   IDX maintains a client services organization to install its products and to
+
+support and provide professional, technical and other services to its client
+
+base. IDX possesses the healthcare information systems expertise desired by the
+
+growing number of larger and more sophisticated healthcare enterprises as they
+
+reengineer healthcare delivery processes and deploy information systems to
+
+support these processes. The services organization is experienced at installing
+
+and supporting systems in very large organizations with thousands of computer
+
+users across multiple departments.
+
+   Installation Services. IDX's installation representatives work with clients
+
+to tailor and optimize IDX products to meet specific business needs. Services
+
+include project management, train-the-trainer programs, best practices
+
+comparison to other IDX clients and systems conversion and implementation
+
+assistance.
+
+   Maintenance Services. IDX provides ongoing software support to all of its
+
+large clients and substantially all of its other clients under contracts that
+
+are typically for a term of one year. These contracts generally are renewable
+
+automatically unless terminated at the option of either the client or IDX.
+
+Software maintenance services consist of providing the client with certain new
+
+software releases, as available, and general support, including error
+
+corrections and telephone consultation. For all products, maintenance services
+
+are available either on a 24-hour-a-day basis or during normal business hours.
+
+   Professional and Technical Services. IDX offers professional and technical
+
+services to assist clients in building an information infrastructure to operate
+
+in a complex and changing healthcare environment. The work performed by IDX
+
+includes information systems planning, process redesign, project management,
+
+contract programming, network design, education and training. These value-added
+
+services, combined with IDX's systems expertise, enable IDX to support its
+
+clients' efforts to develop consistent enterprise-wide systems and processes.
+
+Through these services, IDX believes it strengthens its relationship with
+
+clients, builds a knowledge base of best practices in the use of IDX's systems
+
+and gains information regarding future client needs. IDX has expanded the
+
+services provided by this group with the formation of The Huntington Group, a
+
+professional services organization devoted to providing information technology
+
+solutions to those organizations that use IDX's information systems products.
+
+                   Page 8
+
+The following sets forth a description of the services provided by the IDX
+
+consulting organization:
+
+IDX Professional Services
+
+The Huntington Group
+
+    - process redesign, organizational change management, outsourcing, and
+
+      systems integration
+
+Technical Consulting Services
+
+    - performance and investment analysis and hardware upgrades, network
+
+      review, systems operational analysis, and various utilities and tools
+
+Application Consulting Services
+
+    - project management, upgrades, temporary services, and operational
+
+      analysis
+
+Network Consulting Services
+
+    - network analysis, design, and implementation, temporary networking
+
+      services, client-server design and installation, and support services
+
+Radiology Consulting Services
+
+    - system analysis and process redesign for radiology groups
+
+Technology Strategy and Hardware Platforms
+
+   IDX designs its software to operate on a variety of technical platforms,
+
+including computer equipment from Compaq, Hewlett Packard Company ("HP"), Data
+
+General, and International Business Machines Corporation ("IBM"). The IDX
+
+technology strategy is based on a technology for performance philosophy
+
+employing advanced technology and connectivity solutions to solve business
+
+problems. The IDX strategy includes a single desktop presentation, integrated
+
+business functions, workflow across all participants, and decision support
+
+tools. To fulfill this strategy, IDX has established its IDX Target Architecture
+
+that employs the web and other new technologies. New products will be built to
+
+this standard and existing IDX applications will migrate to the Target
+
+Architecture over time. The four fundamental components of the Target
+
+Architecture include:
+
+    - The IDX Web Framework
+
+    - Objects and Components
+
+    - Customizable user interface and workflow tools
+
+    - Platform independence
+
+   The IDX Web Framework is a set of software tools, user interface standards,
+
+and style conventions that provides the ability to integrate many different
+
+applications into a single desktop presentation. The IDX Web Framework is built
+
+on thin client web technology that enables an organization to deliver an
+
+integrated IDX desktop from a web server. The Web Framework facilitates
+
+integration across applications in a cost-effective, secure environment.
+
+   Component-based software is a software design methodology that uses
+
+concepts and actions by describing their attributes in a programming language.
+
+Once a concept or action has been described, that description and its
+
+accompanying software code can be reused broadly as the building blocks for
+
+different applications. This software design approach leads to faster
+
+development processes and allows IDX to "plug" components together in tailored
+
+configurations providing greater congruence with client needs and expectations.
+
+The approach facilitates cross product and multi-vendor interoperability and
+
+connectivity.
+
+   Customizable user interface and workflow tools provide the flexibility to
+
+adapt the IDX system to meet unique business needs. Using advanced software
+
+construction techniques, it is expected that IDX solutions will be designed in
+
+the future in a way that they can be updated more quickly to allow customers to
+
+customize the system to meet their unique needs.
+
+   The platform independence foundation allows IDX and our customers to use
+
+the best technologies available. This strategy provides options that balance the
+
+scalability, price, and functionality issues that are involved with platform
+
+decisions.
+
+                   Page 9
+
+   The addition of web-enabling IDX applications reduces the risks of changing
+
+technologies and ensures that IDX customers have tools needed to operate in
+
+complex clinical and business office settings. IDX strives to utilize technology
+
+for performance by applying the new technologies, such as the web, as they prove
+
+themselves able to perform well in large-scale, transaction-driven environments.
+
+The technology for performance philosophy seeks to protect customer investments
+
+in current systems with a technology framework designed to allow them to expand
+
+and take advantage of new features and new technologies as they become
+
+available. The architecture of IDX products is expected to enable clients to
+
+incrementally migrate from one technology to another. With a focus on reliable,
+
+scaleable hardware and software solutions, IDX applications are expected to
+
+migrate to platform independence, beginning with a migration to SQL and Windows
+
+NT. IDX believes that its approach to technology, particularly the emphasis on
+
+web-based, thin client architecture, will provide IDX customers with flexibility
+
+and utility, while reducing costs and deployment risks.
+
+   As a service to its clients, IDX sells third-party computers, terminals,
+
+printers, storage devices and other peripheral devices. IDX also provides value-
+
+added services to configure client systems. Hardware is purchased from Compaq,
+
+IBM, Data General, and HP under renewable one-year reseller agreements. IDX does
+
+not maintain an inventory of hardware, but relies on suppliers' inventories to
+
+meet client delivery requirements. IDX believes that its relationships with
+
+vendors are good.
+
+Sales and Marketing
+
+   IDX sells its products exclusively through its direct sales force. The
+
+majority of IDX's sales calls are in response to requests for proposals. IDX
+
+generates these requests and other sales primarily through referrals from
+
+clients and consultants. IDX also seeks to enhance market recognition through
+
+participation in industry seminars and tradeshows, its website, direct mail
+
+campaigns, telemarketing and advertisements in trade journals. IDX products
+
+typically have a three to 18 month sales cycle for new client sales.
+
+   No single client accounted for more than 5% of IDX's annual revenues in
+
+fiscal 1996, 1997, or 1998.
+
+   At December 31, 1998, the Company had total backlog of $266.2 million,
+
+including $129.0 million attributable to systems sales and $137.2 million
+
+attributable to services. Systems sales backlog consists of fees due under
+
+signed contracts that have not yet been recognized as revenues. Service backlog
+
+represents contracted software maintenance services, installation fees, and
+
+remote computing services fees for a period of 12 months. At December 31, 1997,
+
+the Company had total backlog of $203.1 million including $101.5 million
+
+attributable to systems sales and $101.7 million attributable to services for
+
+multiple years of services. Service backlog represents contracted software
+
+maintenance services, installation fees, and remote computing services fees for
+
+a period exceeding 12 months. Of the total 1998 backlog of $266.2 million, the
+
+Company expects that $72.5 million will not be fulfilled in the current fiscal
+
+year.
+
+Product Development
+
+   To ensure that its products continue to meet the evolving needs of the
+
+healthcare industry, IDX allocates a significant portion of annual revenues to
+
+research and development. IDX's research and development expenses for the fiscal
+
+years 1996, 1997 and 1998 were $29.8 million, $36.3 million, and $46.6 million
+
+respectively.
+
+   IDX's product development activities include enhancement of existing
+
+products and the development of new products, as well as the implementation of
+
+new technologies. IDX is devoting significant resources to integrating the
+
+LastWord and IDX products, developing a relational practice management solution,
+
+and expanding its web-based architecture. IDX is also currently migrating its
+
+products to the web-based thin-client architecture. IDX's development process is
+
+focused on building components for its integrated product rather than on stand-
+
+alone products. These components can be integrated and configured to address
+
+specific client needs.
+
+   IDX utilizes client focus groups, user groups and industry experts,
+
+including physicians, nurses, healthcare administrators and consultants, for
+
+advice in developing and enhancing its products.
+
+Competition
+
+   The market for healthcare information systems is highly competitive. IDX
+
+believes that the principal competitive factors in this market are the ability
+
+to effectively market, install, support and integrate systems, the resources to
+
+support ongoing research and development, financial stability and price. IDX
+
+believes it competes favorably with respect to these factors. Competitors vary
+
+in size, and in the scope and breadth of the products and services offered. IDX
+
+experiences 
+
+                  Page 10
+
+competition from companies with strengths in various segments of the healthcare
+
+information systems market, such as physician group practice systems, hospital
+
+information systems, clinical information systems, ancillary departmental
+
+systems and systems integration. In addition, other entities not currently
+
+offering products and services similar to those offered by IDX, including claims
+
+processing organizations, hospitals, third-party administrators, insurers,
+
+healthcare organizations and others, may enter certain markets in which IDX
+
+competes.
+
+   While IDX believes no vendor dominates the market for healthcare
+
+information systems, certain of IDX's competitors have greater financial,
+
+development, technical, marketing and sales resources than IDX and have a
+
+greater penetration into segments of the market in which IDX competes. In
+
+addition, as the markets for IDX's products and services develop, additional
+
+competitors may enter those markets and competition may intensify.
+
+Proprietary Rights and Licenses
+
+   IDX depends upon a combination of trade secret, copyright and trademark
+
+laws, license agreements, nondisclosure and other contractual provisions and
+
+technical measures to protect its proprietary rights in its products. IDX
+
+distributes its products under software license agreements that grant clients a
+
+nonexclusive, nontransferable license to use IDX's products and contain terms
+
+and conditions prohibiting the unauthorized reproduction or transfer of IDX's
+
+products. In addition, IDX attempts to protect its trade secrets and other
+
+proprietary information through agreements with employees and consultants. All
+
+current employees of IDX have signed a nondisclosure agreement, and all current
+
+employees involved in product development have signed an assignment of
+
+inventions agreement. There can be no assurance that the legal protections
+
+afforded to IDX or the precautions taken by IDX will be adequate to prevent
+
+misappropriation of IDX's technology. In addition, these protections do not
+
+prevent independent third-party development of functionally equivalent or
+
+superior technologies, products or services. Any infringement or
+
+misappropriation of IDX's proprietary software would disadvantage IDX in its
+
+efforts to retain and attract new clients in a highly competitive market and
+
+could cause IDX to lose revenues or incur substantial litigation expense. IDX
+
+believes that, due to the rapid pace of innovation within the software industry,
+
+factors such as the technological and creative skills of its personnel and
+
+ongoing reliable product maintenance and support are more important in
+
+establishing and maintaining a leadership position within the industry than are
+
+the various legal protections afforded to its technology.
+
+   Although IDX believes that its products, trademarks and other proprietary
+
+rights do not infringe upon the proprietary rights of third parties, there can
+
+be no assurance that third parties will not assert infringement claims against
+
+IDX in the future and that such claims will not have a material adverse effect
+
+on IDX's results of operations, financial condition or business.
+
+Government Regulation
+
+   The development and commercialization of the Company's products will be
+
+subject to regulation in the United States by numerous regulatory authorities
+
+including the Federal Food and Drug Administration (FDA) and Federal Trade
+
+Commission (FTC) and by comparable regulatory authorities in foreign countries.
+
+These regulatory authorities and other federal, state, and local entities will
+
+regulate, among other things, the preclinical and clinical testing, safety,
+
+effectiveness, approval, clearance, manufacturing, labeling, packaging, storage,
+
+recordkeeping, adverse event reporting, export, and promotion and advertising of
+
+the Company's products.
+
+   Unless a product is exempted from premarket submission and clearance, FDA
+
+approval or clearance of the Company's products that meet the definition of a
+
+medical device under the Federal Food Drug and Cosmetic Act (FDC Act), is
+
+required before the products may be marketed in the United States. FDA has a
+
+draft policy for the regulation of computer software products that meet the
+
+definition of a medical device, and has indicated that it may modify its draft
+
+policy or create a new policy. Although it is not possible to anticipate the
+
+final content of FDA's policy with regard to computer software, IDX expects
+
+that, whether or not the draft is finalized or changed, FDA will become
+
+increasingly active in regulating computer software intended for use in
+
+healthcare settings. FDA can impose extensive requirements governing premarket
+
+and postmarket activities, including product design development and
+
+manufacturing quality assurance controls, clinical investigations, marketing
+
+clearance or approval, and labeling and promotion. There can be no assurance
+
+that the company will be able to comply with any requirements or guidelines that
+
+the FDA may issue.
+
+   FDA already actively regulates computer software used to capture,
+
+communicate, and store images and information used in medical diagnosis and
+
+treatment; depending on the intended use and technological characteristics of
+
+the product, it may require clearance under section 510(k) of the FDC Act before
+
+it may be marketed. In order to obtain clearance for marketing, a manufacturer
+
+must demonstrate substantial equivalence to similar legally marketed products by
+
+                  Page 11
+
+submitting a premarket notification (510(k)) to the agency. FDA may require
+
+additional data to support a substantial equivalence determination, and there is
+
+no assurance FDA will find a device substantially equivalent. If FDA finds that
+
+a device is not substantially equivalent, the manufacturer may ask the FDA to
+
+make a risk-based classification to place the device in Class I or Class II.
+
+However, if a timely request for risk-based classification is not made, or if
+
+FDA determines that a Class III designation is appropriate, an approved
+
+premarket approval application (PMA) will be required before the device may be
+
+marketed.
+
+   The PMA approval process is lengthy, expensive, and typically requires,
+
+among other things, extensive data from preclinical testing and a well-
+
+controlled clinical trial or trials that demonstrates a reasonable assurance of
+
+safety and effectiveness. Clinical trials can take extended periods of time to
+
+complete. In addition, if FDA requires an approved Investigational Device
+
+Exemption (IDE) before clinical trials may commence, there is no guarantee that
+
+the agency will approve the IDE, and an IDE approval process could result in
+
+significant delay. There is no assurance that review will result in timely or
+
+any PMA approval, and there may be significant conditions on approval, including
+
+limitations on labeling and advertising claims and the imposition of post-market
+
+testing, tracking, or surveillance requirements.
+
+   Whether or not a product is required to be approved or cleared before
+
+marketing, continuing compliance with strict FDA requirements concerning good
+
+manufacturing practices, enforced by periodic inspections, and medical device
+
+reporting (MDR) regulations, among other requirements, will be required. The MDR
+
+regulations require that reports be submitted to FDA to report device-related
+
+deaths, serious injuries, and malfunctions the recurrence of which would likely
+
+cause serious injury or death. MDRs can result in agency action such as
+
+inspection, recalls, and patient/physician notifications, and are often the
+
+basis for agency enforcement actions. Because MDRs are publicly available, they
+
+can also become the basis for private tort suits, including class actions.
+
+   If a manufacturer makes a change to a device cleared for marketing under
+
+section 510(k) that is a major change in intended use, or is a change to design,
+
+material, composition, energy source, or manufacture that could significantly
+
+affect the safety and effectiveness of the marketed device, a new 510(k) will be
+
+required before the modified device may be marketed. Changes to approved PMA
+
+devices that affect safety and effectiveness require supplemental PMA approvals
+
+before the modified PMA device may be marketed, except for manufacturing changes
+
+that affect safety or effectiveness, which may be deemed approved after a 30-day
+
+notice unless the FDA requests a supplement. There is no guarantee that such
+
+additional clearances or approvals will be granted.
+
+   In addition, the nature of marketing claims that the Company will be
+
+permitted to make in the labeling and advertising of its products will be
+
+limited to those specified in an FDA clearance or approval, and claims exceeding
+
+those that are cleared or approved will constitute violation of the Act.
+
+Violations of the Act or regulatory requirements at any time during the product
+
+development process, approval or clearance process, or after clearance or
+
+approval may result agency enforcement actions, including voluntary or mandatory
+
+recall, suspension or withdrawal of marketing clearance or approval, seizure of
+
+products, fines, injunctions and/or civil or criminal penalties.
+
+   The Company's advertising of its products will also be subject to
+
+regulation by the Federal Trade Commission (FTC) under the FTC Act. The FTC Act
+
+prohibits unfair methods of competition and unfair or deceptive acts in or
+
+affecting commerce. Violations of the FTC Act, such as failure to have
+
+substantiation for product claims, would subject the Company to a variety of
+
+enforcement actions, including compulsory process, cease and desist orders, and
+
+injunctions. FTC enforcement can result in orders requiring, among other things,
+
+limits on advertising, corrective advertising, consumer redress, and recision of
+
+contracts. Violations of FTC enforcement orders can result in substantial fines
+
+or other penalties.
+
+   The Health Insurance Portability and Accountability Act of 1996 ("HIPAA")
+
+contains provisions regarding health data security and standardization for
+
+financial and administrative transactions, including standards to enable
+
+electronic exchange of information in health claims and health plan
+
+administration. Many of the standards mandated by HIPAA and the regulations
+
+thereunder become effective in the year 2000 and will be applicable to the
+
+customer operations involving the use of the Company's products. It will be
+
+necessary for the Company to ensure that its products support HIPAA compliance
+
+by its customers insofar as its products are intended to be used in customer
+
+operations governed by HIPAA and the regulations thereunder.
+
+Employees
+
+   At December 31, 1998, IDX employed 2,116 full-time employees, including 256
+
+employees in sales, 1,163 in the client services group, and 503 employees
+
+engaged primarily in program development, new technology adaption and quality
+
+                  Page 12
+
+assurance. No employees are covered by any collective bargaining agreements. IDX
+
+believes that its employee relations are good.
+
+Item 2.  Properties
+
+   The Company's principal corporate offices are located at 1400 Shelburne
+
+Road, South Burlington, Vermont 05403. The Company maintains sales, research and
+
+support facilities in South Burlington, Vermont, Boston, Massachusetts, and
+
+Seattle, Washington. The Company maintains regional sales and support offices in
+
+the greater metropolitan areas of Arlington, Virginia, Chicago, Illinois,
+
+Dallas, Texas, San Francisco, California, Deerfield Beach, Florida and Atlanta,
+
+Georgia. The Company leases all of its facilities which, in the aggregate,
+
+constitute approximately 548,704 rentable square feet of office space. The
+
+Company's leases expire between March 31, 1999 and April 12, 2014, with the
+
+exception of the Lease at 1500 Shelburne Road, South Burlington, Vermont, which
+
+is on a month-to-month basis. The Company believes that its facilities are
+
+adequate for its current needs and that suitable additional space will be
+
+available as required. The Company has announced plans to expand its facilities
+
+at Shelburne Road in South Burlington, Vermont and is considering various
+
+options, including the purchase of additional land and the construction of
+
+additional office space. On February 4, 1999 the Company acquired a building in
+
+South Burlington, Vermont, which will provide an additional 15,000 square feet
+
+of space. In addition, the Company has entered into a contract to acquire a
+
+building in South Burlington with 51,210 additional square feet of office space.
+
+Item 3.  Legal Proceedings
+
+   None.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+   None.
+
+                  Page 13
+
+           EXECUTIVE OFFICERS OF THE REGISTRANT
+
+   The following sets forth: (i) the name and age of each current executive
+
+officer of the Company, (ii) the position(s) currently held by each named
+
+person, and (iii) the principal occupations held by each person named for at
+
+least the past five years.
+
+   Mr. Tarrant co-founded the Company in 1969 and served as the President from
+
+June 1969 to February 1999. He has served as Chief Executive Officer of the
+
+Company and as a Director since 1969. Mr. Tarrant served as a member of the
+
+Board of Trustees for the University Health Center (Vermont), an academic
+
+medical center, from July 1988 to December 1994 and as Chairman of the
+
+University Health Center (Vermont) from 1992 to 1994.
+
+   Mr. Crook, who joined the Company in April 1981, served as Vice President
+
+of the Company from June 1984 to February 1999. He served as a Director of the
+
+Company from July 1984 to June 1995. He has served as President and Chief
+
+Operating Officer since February 1999.
+
+   Dr. Tufo has been Executive Vice President of the Company since September
+
+1995. Dr. Tufo has served as a Director of the Company since November 1995. Dr.
+
+Tufo served as Chief Operating Officer of the Company from September 1996 to
+
+February 1999. Dr. Tufo served as Vice President and Chief Medical Officer of
+
+the Company from August 1995 to September 1995. Dr. Tufo served as a consultant
+
+to the Company from February 1995 to August 1995. Dr. Tufo was the President and
+
+Chief Executive Officer of University Health Center (Vermont) from July 1989 to
+
+December 1994. Dr. Tufo is Professor of Medicine at the University of Vermont
+
+College of Medicine.
+
+   Mr. Baker joined the Company as General Counsel and Secretary in July 1989.
+
+He has served as Vice President since April 1996.
+
+   Mr. Blanchard, who joined the Company in August 1987, has served as Vice
+
+President, Client Services since March 1995. Prior to that time, Mr. Blanchard
+
+served the Company in various capacities, including most recently as Director,
+
+Customer Support from November 1992 to March 1995.
+
+   Mr. Galin has served as Vice President, Sales since August 1992. He served
+
+as Director of Sales from April 1982 to August 1992.
+
+   Mr. Kane has served as the Vice President, Finance and Administration,
+
+Chief Financial Officer and Treasurer since joining the Company in October 1984.
+
+Mr. Kane is a C.P.A.
+
+                  Page 14
+
+   Ms. Pure has served as Vice President, Marketing since November 1995. Ms.
+
+Pure served as Director of Best Practices from March 1995 to November 1995.
+
+Prior to joining the Company, Ms. Pure was employed by Shared Medical Systems
+
+Corporation, a medical software company, from May 1983 until March 1995, most
+
+recently as Manager of Product Marketing and Communications.
+
+   Dr. Sutherland has served as Senior Vice President, Engineering and Product
+
+Development since joining the Company in September 1996. Prior to joining the
+
+Company, he was Vice President, Engineering of Individual Inc., an Internet
+
+content provider company, from May to September 1996; Vice President, Object
+
+Technology of Vmark Software, a software development tools company, from June
+
+1995 to May 1996; Vice President, Object Technology for Easel Corporation, a
+
+software development tools company, from July 1993 to June 1995; and President
+
+and founder of Object Databases (now known as Matisse Software) from October
+
+1989 to June 1993.
+
+   Each officer serves at the discretion of the Company's Board of Directors.
+
+There are no family relationship among the named officers.
+
+                  Page 15
+
+                  PART II
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder Matters
+
+   (a) Market Price of and Dividends on Common Stock and Related Matters. The
+
+Common Stock of IDX is traded on the Nasdaq National Market under the symbol
+
+"IDXC." The following table sets forth for the periods indicated the high and
+
+low sales prices per share of the Common Stock as reported by the Nasdaq
+
+National Market.
+
+   On March 19, 1999, the Company had approximately 266 stockholders of
+
+record. (This number does not include stockholders for whom shares are held in a
+
+"nominee" or "street" name.) On March 19, 1999, the closing price of the
+
+Company's Common Stock on the Nasdaq National Market was $14.1875.
+
+   The Company anticipates that all future earnings will be retained for
+
+development of its business and will not be distributed to stockholders as
+
+dividends. Restrictions or limitations on the payment of dividends may be
+
+imposed in the future under the terms of credit agreements or under other
+
+contractual provisions. In the absence of such restrictions or limitations, the
+
+payment of any dividends will be at the discretion of the Company's Board of
+
+Directors.
+
+   (b) Recent Sales of Unregistered Securities. On May 18, 1998, the Company
+
+issued 241 shares of Common Stock to each of the four outside directors of the
+
+Company in consideration of one year's past service as a director of the
+
+Company. The shares of Common Stock issued in these transactions were offered
+
+and sold in reliance upon the exemption from registration under Section 4(2) of
+
+the Securities Act of 1933, as amended (the "Securities Act"), relating to sales
+
+by an issuer not involving any public offering. All such securities are deemed
+
+restricted securities for purposes of the Securities Act. There were no
+
+underwriters involved in such transactions.
+
+                  Page 16
+
+Item 6.  Selected Financial Data
+
+               Financial Highlights
+
+           Summary of Consolidated Financial Data
+
+   The consolidated financial data set forth above has been restated to
+
+include the results of operations and accounts of PHAMIS for all periods prior
+
+to its acquisition by IDX on July 10, 1997. The acquisition, as more fully
+
+described in Note 2 to the Consolidated Financial Statements, has been accounted
+
+for as a pooling of interests.
+
+   Per share amounts represent diluted net income per share. The 1994 and 1995
+
+pro forma net income per share and the 1996 net income per share amounts have
+
+been restated to comply with Statement of Financial Accounting Standards No.
+
+128, Earnings per Share, as more full described in Note 1 to the Consolidated
+
+Financial Statements.
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+
+Results of Operations
+
+General
+
+   This Management's Discussion and Analysis of Financial Condition and
+
+Results of Operations includes a number of forward-looking statements which
+
+reflect the Company's current views with respect to future events and financial
+
+performance. These forward-looking statements are subject to certain risks and
+
+uncertainties, including those discussed below, that could cause actual results
+
+to differ materially from historical results or those anticipated. The Company
+
+has various sentences within this Annual Report which contain such forward-
+
+looking statements. In addition, words such as "believes," "may," "plans,"
+
+"anticipates," "expects," "intends," and similar expressions are intended to
+
+identify forward-looking statements, but are not the exclusive means of
+
+identifying such statements. In addition, the disclosures on page 24 under the
+
+caption "Factors Affecting Future Results," which are not italicized or
+
+capitalized for improved readability, consist principally of a discussion of
+
+risks which may affect future results and, are thus, in their entirety forward-
+
+looking in nature. Readers are urged to carefully review and consider the
+
+various disclosures made by the Company in this report and in the Company's
+
+other reports filed with the Securities and Exchange Commission that attempt to
+
+advise interested parties of the risks and factors that may affect the Company's
+
+business.
+
+   Revenues of $321.7 million in 1998 grew 27.9% over 1997 revenues of $251.4
+
+million. Systems sales grew 32.8% in 1998, and maintenance and service fees
+
+grew 22.4%.
+
+   Operating income increased from $10.6 million in 1997 to $47.1 million in
+
+1998, an increase of $36.5 million or 344.2%. Excluding expenses related to the
+
+write-off of acquired research and development and merger and related costs,
+
+operating income grew from $32.9 million in 1997 to $50.3 million in 1998, an
+
+increase of $17.4 million or 52.9%. Net income increased from $8.0 million in
+
+1997 to $30.2 million in 1998, an increase of $22.3 million or 279.7%. Excluding
+
+the write-off of acquired research and development, and merger and related
+
+costs, net income grew from $23.1 million in 1997 to $33.4 million in 1998, an
+
+increase of $10.2 million or 44.3%.
+
+                  Page 17
+
+   Recently, certain of the Company's large customers delayed making
+
+purchasing decisions with respect to certain of the Company's large software
+
+systems comprised of multiple products, resulting in longer sales cycles for
+
+such systems. Management believes such delays are due to a number of factors,
+
+including customer organizational changes, governmental approvals, product
+
+complexity, competition, and customer preoccupation with internal year 2000
+
+issues. The Company is unable to determine and is therefore uncertain whether
+
+such factors constitute a trend or will continue in future periods.
+
+   On September 11, 1998, the Company entered into a merger agreement
+
+with EDiX Corporation ("EDiX"), a provider of medical transcription services
+
+with annual revenues of approximately $29 million. The acquisition, which is
+
+subject to regulatory and EDiX shareholder approval and satisfaction of other
+
+closing conditions, will be accounted for as a pooling of interests and is
+
+scheduled to close in the second quarter of 1999. The merger agreement provides
+
+for the issuance by the Company of shares of its Common Stock, subject to
+
+certain exchange ratios, based on an acquisition value of $19,302,000. The
+
+merger agreement provides, however, that in no event will the Company be
+
+required to issue more than an aggregate of 1,000,000 shares of its Common
+
+Stock.
+
+Year Ended December 31, 1998 and 1997
+
+   Revenues. The Company's total revenues increased to $321.7 million in 1998
+
+from $251.4 million in 1997, an increase of $70.3 million or 27.9%. Revenues
+
+from systems sales increased to $178.6 million in 1998 (55.5% of total revenues)
+
+from $134.5 million in 1997 (53.5% of total revenues), an increase of $44.1
+
+million or 32.8%. The increase was primarily due to an increase in installations
+
+of certain of the Company's systems. Revenues from maintenance and service fees
+
+increased to $143.1 million in 1998 (44.5% of total revenues) from $116.9
+
+million in 1997 (46.5% of total revenues), an increase of $26.2 million or
+
+22.4%. Approximately $12.8 million of the increase was due to additional
+
+maintenance revenue resulting from the continued growth in the Company's
+
+installed client base. Professional and technical services revenues increased to
+
+$28.8 million in 1998 (8.9% of total revenues) from $20.4 million in 1997 (8.1%
+
+of total revenues), an increase of $8.4 million, or 41.2%, as a result of the
+
+Company's increased marketing efforts in that area.
+
+   Cost of Sales. The cost of sales and services increased to $163.1 million
+
+in 1998 from $130.4 million in 1997, an increase of $32.6 million or 25.0%. The
+
+gross profit margin on systems sales and services increased to 49.3% in 1998
+
+from 48.1% in 1997. The increase in cost of sales and services was partly the 
+
+result of growth in client services expenses, including maintenance, 
+
+installation, and consulting staff. Cost of sales also increased due to growth 
+
+in hardware sales. The increase in gross profit margin was due primarily to the
+
+increase of additional license revenues in the installations of certain of the
+
+Company's products from its IDXtend, Radiology, GPMS/IDXsite and LastWord
+
+systems, as well as growth in service revenues.
+
+   Selling, General and Administrative Expenses. Selling, general and
+
+administrative expenses increased to $61.7 million in 1998 from $51.7 million in
+
+1997, an increase of $10.0 million or 19.3%. As a percentage of total revenues,
+
+selling, general and administrative expenses decreased to 19.2% in 1998 from
+
+20.6% in 1997. The additional expenses incurred in 1998 were primarily due to an
+
+increase in the Company's sales and marketing staff.
+
+   Research and Development. Research and development expenses increased to
+
+$46.6 million in 1998 from $36.3 million in 1997, an increase of $10.3 million
+
+or 28.2%. The increase was due to the hiring of additional staff to support the
+
+development of additional products including IDXsite and web technology 
+
+applications, and for the costs of efforts to address Year 2000 issues. As a
+
+percentage of total revenues, research and development expenses increased
+
+slightly to 14.5% in 1998 from 14.4% in 1997. As described in Note 1 to the
+
+consolidated financial statements, software development costs incurred
+
+subsequent to the establishment of technological feasibility until general
+
+release of the related products are capitalized. Prior to the merger with
+
+PHAMIS, technological feasibility was determined differently by IDX and PHAMIS.
+
+Subsequent to the merger, the Company's determination of technological
+
+feasibility for all product development is based on the completion of a working
+
+model which has been approved for beta site testing. Historically costs incurred
+
+during beta site testing have not been material. Although the Company presently
+
+expects costs to complete beta site testing in the future to be insignificant,
+
+as the Company develops products to operate using other technologies as well as
+
+more comprehensive clinical systems, the time and effort required to complete
+
+beta site testing may be significantly more extensive. Consequently, capitalized
+
+software development costs may become material in future reporting periods.
+
+   Merger and Related Costs. During the third quarter of 1997, the Company
+
+recorded charges of $20.0 million related to the merger with PHAMIS. The charges
+
+were comprised of transaction costs of $5.1 million, write-offs and adjustments
+
+of $7.4 million of long-lived assets, principally capitalized software
+
+development costs and equipment, attributable to the elimination of overlapping
+
+and obsolete products and operations, employee termination and related costs 
+
+                  Page 18
+
+of $2.7 million, and other merger related costs of $4.8 million, principally
+
+related to integration costs incurred during the year and the termination of
+
+leases and other contractual obligations. At December 31, 1997, accounts payable
+
+and accrued expenses included accrued costs of $3.1 million related to the
+
+termination of employees, leases and other contractual obligations,
+
+substantially all of which were paid during 1997.
+
+   Write-off of Acquired In-Process Research and Development. On February 23,
+
+1998, the Company recorded charges of $3.2 million related to the acquisition of
+
+contract management system technology from Trego Systems, Inc. for cash of $4.0
+
+million. The acquisition was accounted for under the purchase method. The
+
+charges were expensed as in-process research and development in connection with
+
+the Company's development of a healthcare contract management system.
+
+   On February 26, 1997, the Company recorded charges of $2.3 million related
+
+to the acquisition of certain data model technology from Medaphis Healthcare
+
+Information Technology Company for cash of $2.5 million. The acquisition was
+
+accounted for under the purchase method. The charges were expensed as in-process
+
+research and development in connection with the Company's development of a
+
+healthcare data model.
+
+Income Taxes
+
+   Income taxes for the year ended December 31, 1998 were provided at 42%
+
+which is more than the Company's historical statutory rate of 40%. This higher
+
+rate is due to a portion of the charges incurred in the first quarter ended
+
+March 31, 1998 related to the acquisition of Trego Systems, Inc. which are non-
+
+deductible for income tax purposes.
+
+Year Ended December 31, 1997 and 1996.
+
+   Revenues. The Company's total revenues increased to $251.4 million in 1997
+
+from $206.9 million in 1996, an increase of $44.5 million or 21.5%. Revenues
+
+from systems sales increased to $134.5 million in 1997 (53.5% of total revenues)
+
+from $110.5 million in 1996 (53.4% of total revenues), an increase of $24.0
+
+million or 21.7%. The increase was primarily due to an increase in installations
+
+of the Company's IDXtend and LastWord systems. Revenues from maintenance and
+
+service fees increased to $116.9 million in 1997 (46.5% of total revenues) from
+
+$96.4 million in 1996 (46.6% of total revenues), an increase of $20.5 million or
+
+21.3%. Approximately $11.1 million of the increase was due to additional
+
+maintenance revenue resulting from the continued growth in the Company's
+
+installed client base. Professional and technical services revenues increased to
+
+$20.4 million in 1997 (8.1% of total revenues) from $12.6 million in 1996 (6.1%
+
+of total revenues), an increase of $7.8 million or 61.9%, as a result of the
+
+Company's increased marketing efforts in that area.
+
+   Cost of Sales. The cost of sales and services increased to $130.4 million
+
+in 1997 from $108.3 million in 1996, an increase of $22.1 million or 20.4%. The
+
+gross profit margin on systems sales and services increased to 48.1% in 1997
+
+from 47.7% in 1996. The increase in gross profit margin was due primarily to the
+
+increase of additional license revenues in the installations of certain of the
+
+Company's products from its IDXtend and LastWord systems.
+
+   Selling, General and Administrative Expenses. Selling, general and
+
+administrative expenses increased to $51.7 million in 1997 from $45.9 million in
+
+1996, an increase of $5.8 million or 12.6%. As a percentage of total revenues,
+
+selling, general and administrative expenses decreased to 20.6% in 1997 from
+
+22.2% in 1996. The additional expenses incurred in 1997 were primarily due to an
+
+increase in the Company's sales and marketing staff.
+
+   Research and Development. Research and development expenses increased to
+
+$36.3 million in 1997 from $29.8 million in 1996, an increase of $6.5 million or
+
+21.8%. As a percentage of total revenues, research and development expenses
+
+remained constant at 14.4% in 1997 and 1996. The increase was due to the hiring
+
+of additional staff to support the development of additional products for the
+
+Company.
+
+Liquidity and Capital Resources
+
+   Since its inception in 1969, the Company has funded its operations, working
+
+capital needs and capital expenditures primarily from operations. The proceeds
+
+from its initial public offering were (i) distributed to stockholders of the
+
+Company in connection with the Company's prior status as an S corporation under
+
+the Internal Revenue Code of 1986, as amended, and (ii) used for general
+
+corporate purposes, including working capital purposes and strategic
+
+transactions, including acquisitions of businesses, products and technologies.
+
+                  Page 19
+
+   Cash flows from operations are principally comprised of net income and
+
+depreciation and are primarily affected by the net effect of the change in
+
+accounts receivable, accounts payable and accrued expenses. Due to the nature of
+
+the Company's business, accounts receivable, deferred revenue and accounts
+
+payable fluctuate considerably due to, among other things, the length of the
+
+sales cycle and installation efforts which are dependent upon the size of the
+
+transaction, the changing business plans of the customer, the effectiveness of
+
+customers' management and general economic conditions. In 1998 accounts
+
+receivable from customers have been collected on average within 113 days. This
+
+represents an increase of 16 days in terms of average days to collect
+
+receivables from customers. The increase is attributable to Company's
+
+implementation of a new billing system and unbilled receivables related to
+
+contracts accounted for using long term contract accounting.
+
+   Cash flows related to investing activities have principally been related to
+
+the purchase of computer and office equipment, leasehold improvements, and the
+
+purchase and sale of investment grade marketable securities. The Company expects
+
+these activities to continue. Investing activities may also include purchases of
+
+interests in, loans to and acquisitions of complementary products, technologies
+
+and businesses. There can be no assurance that the Company will be able to
+
+successfully complete any such purchases or acquisitions in the future.
+
+   Cash flows from financing activities historically relate to purchases of
+
+common stock through the exercise of employee stock options and in connection
+
+with the employee stock purchase plan. During 1998 other financing activities
+
+related to the recapitalization of the real estate affiliate from debt to
+
+equity.
+
+   Cash, cash equivalents and marketable securities at December 31, 1998 were
+
+$124.5 million, an increase of $8.6 million from December 31, 1997. The majority
+
+of the increase was due to the cash provided by operating activities and
+
+proceeds related to the exercise of stock options. The Company has a revolving
+
+line of credit with a bank allowing the Company to borrow up to $5.0 million
+
+bearing interest at the prime rate. There were no borrowings as of December 31,
+
+1998 or 1997.
+
+   The Company expects that its requirements for office facilities and other
+
+office equipment will grow as staffing requirements dictate. The Company's
+
+operating lease commitments consist primarily of office leasing for the
+
+Company's operating facilities. The Company plans to continue increasing the
+
+number of its professional staff during 1999 to meet anticipated sales volume
+
+and to support research and development efforts. To the extent necessary to
+
+support increases in staffing, the Company intends to obtain additional office
+
+space.
+
+   The Company believes that current operating funds will be sufficient to
+
+finance its operating requirements at least through December 1999. To date,
+
+inflation has not had a material impact on the Company's revenues or income.
+
+   The Company has announced plans to expand its facilities at Shelburne Road
+
+in South Burlington, Vermont and is considering various options, including the
+
+purchase of additional land and the construction of additional office space. On
+
+February 4, 1999 the Company acquired a building in South Burlington, Vermont,
+
+which will provide an additional 15,000 square feet of space. In addition, the
+
+Company has entered into a contract to acquire a building in South Burlington
+
+with 51,210 additional square feet of office space.
+
+New Accounting Standards
+
+   In October, 1997, the American Institute of Certified Public Accountants
+
+issued Statement of Position ("SOP") No. 97-2, "Software Revenue Recognition",
+
+revising certain aspects of SOP No. 91-1, which the Company adopted on January
+
+1, 1998. SOP No. 97-2 did not materially affect the Company's revenue
+
+recognition policies with respect to software license fees which are based upon
+
+objective evidence that is specific to the vendor and relate principally to its
+
+proprietary systems software which generally requires no significant production,
+
+modification or customization. License revenue, accordingly, is recognized upon
+
+delivery subject to specified milestones and dates.
+
+   The Company periodically enters into certain long-term contracts to which
+
+SOP No. 81-1 "Accounting for Performance of Construction-Type and
+
+Certain Production- Type Contracts" is applied. For these agreements, revenue is
+
+recognized under a percentage of completion basis as appropriate measures of
+
+completion for each contract are achieved. 
+
+                  Page 20
+
+   In June 1997, the Financial Accounting Standards Board issued SFAS No.
+
+130, "Reporting Comprehensive Income" which the Company adopted on January 1,
+
+1998. The adoption of this new accounting standard did not have a material
+
+impact on the Company's financial statements.
+
+   In February 1997, the Financial Accounting Standards Board issued SFAS
+
+No. 128, Earnings per Share, which the Company adopted on December 31, 1997.
+
+SFAS No. 128 replaced the calculation of primary and fully diluted earnings per
+
+share with basic and diluted earnings per share. Unlike primary earnings per
+
+share, basic earnings per share excludes any dilutive effects of options,
+
+warrants and convertible securities. Diluted earnings per share is not
+
+materially different from the previously reported fully diluted earnings per
+
+share.
+
+   In June 1997, the Financial Accounting Standards Board issued SFAS No. 131,
+
+Disclosures about Segments of an Enterprise and Related Information. The Company
+
+adopted SFAS No. 131 effective with the fiscal year ended December 31, 1998.
+
+SFAS No. 131 establishes standards for reporting information regarding operating
+
+segments in annual financial statements and requires selected information for
+
+those segments to be presented in interim financial reports issued to
+
+stockholders. SFAS No. 131 also establishes standards for related disclosures
+
+about major customers, products and services and geographic areas. Operating
+
+segments are identified as components of an enterprise about which separate
+
+discrete financial information is available for evaluation by the chief
+
+operating decision maker, or decision making group, in making decisions how to
+
+allocate resources and assess performance. The Company views its operations and
+
+manages its business as principally one segment, healthcare information
+
+solutions that include software, hardware and related services. Substantially
+
+all of the Company's operations are in the United States.
+
+   In March 1998, the Accounting Standards Executive Committee of the AICPA
+
+issued Statement of Position (SOP) No. 98-1, Accounting for the Costs of
+
+Computer Software Developed or Obtained for Internal Use. The SOP, which the
+
+Company adopted as of December 31, 1998, requires the capitalization of certain
+
+costs incurred in connection with developing or obtaining internal use software.
+
+Prior to the adoption of SOP No. 98-1, the Company expensed all internal use
+
+software related costs as incurred. The effect of adopting the SOP was to
+
+increase net income for the year ended December 31, 1998 by $0.5 million or
+
+$0.02 per diluted share.
+
+Backlog
+
+   At December 31, 1998, the Company had total backlog of $266.2 million,
+
+including $129.0 million attributable to systems sales and $137.2 million
+
+attributable to services. Systems sales backlog consists of fees due under
+
+signed contracts which have not yet been recognized as revenues. Service backlog
+
+represents contracted software maintenance services, installation fees, and
+
+remote computing services fees for a period of 12 months. At December 31, 1997,
+
+the Company had total backlog of $203.1 million including $101.5 million
+
+attributable to systems sales and $101.7 million attributable to services for
+
+multiple years of services. Service backlog represents contracted software
+
+maintenance services, installation fees, and remote computing services fees for
+
+a period of 12 months or greater at December 31, 1997. Of the total 1998 backlog
+
+of $266.2 million, the Company expects that $72.5 million will not be fulfilled
+
+in the current fiscal year.
+
+Year 2000
+
+   Introduction
+
+   Software applications that use only two digits to identify a year in the
+
+date field may fail or create errors in the year 2000 ("Year 2000 Issues"). The
+
+Company has taken significant steps to address Year 2000 Issues.
+
+   The Company's internally-used computer equipment, software and devices with
+
+embedded technology-including both information systems and non-information
+
+systems (together, "Internal Use Systems")-may fail to operate properly or as
+
+expected due to Year 2000 Issues. This could result in a system failure or
+
+miscalculations causing disruption of the Company's operations, including among
+
+other things, a temporary inability to process transactions, send invoices,
+
+conduct communications, or engage in similar normal business activities. In
+
+addition, computer software products sold, marketed, and supported by the
+
+Company ("Company Software Products") and the products of third parties that are
+
+distributed by the Company or others or may be necessary for operation of
+
+Company Software Products ("Third Party Products"), may fail to operate properly
+
+or as expected due to Year 2000 Issues. Such failures could result in system
+
+failures or miscalculations causing disruption of customers' operations,
+
+including among other things, a temporary inability to process transactions,
+
+send invoices, conduct communications, treat patients, or engage in similar
+
+normal business activities. Further, products and services used by the
+
+Company's customers, but not supplied by the Company, could fail to operate
+
+properly or as 
+
+                  Page 21
+
+expected due to Year 2000 Issues. Customers' efforts to plan for such events
+
+could result in the deferral, delay or cancellation by customers of current
+
+installations of and plans to purchase Company Software Products.
+
+   State of Readiness
+
+   The Company has undertaken various initiatives intended to address Year
+
+2000 Issues with respect to Internal Use Systems, Company Software Products, and
+
+Third Party Products. The Company has established working groups whose primary
+
+functions are to (i) develop and implement the Company's definition of Year 2000
+
+readiness, (ii) assess Internal Use Systems, Third Party Products and Company
+
+Software Products for Year 2000 Issues, (iii) monitor development, testing and
+
+remediation efforts with respect to Company Software Products, (iv) monitor
+
+testing of Company Software Products and Third Party Products, (v) review
+
+customer preparations to implement Year 2000 releases of Company Software
+
+Products, (vi) monitor and coordinate the Company's deployment plans and results
+
+with respect to Year 2000 releases of Company Software Products, (vii) monitor
+
+and coordinate contingency plans with respect to Internal Use Systems, Company
+
+Software Products and Third Party Products, and (viii) provide centralization,
+
+accuracy and consistency of the Company's communications regarding Year 2000
+
+Issues.
+
+   The Company has engaged independent experts to assist in its efforts with
+
+respect to Year 2000 Issues. The Company has employed such experts to
+
+independently evaluate and verify its methodologies and state of readiness. In
+
+addition, the Company has employed experts to independently evaluate and certain
+
+critical Internal Use Systems.
+
+   Although the Company's efforts to address Year 2000 issues do not fall
+
+precisely into sequential phases, generally these efforts are comprised of an
+
+assessment phase, a development phase (only with respect to Company Software
+
+Products), a deployment or remediation phase, a preliminary contingency planning
+
+phase, and a final stage contingency planning phase.
+
+   Internal Use Systems. Based upon the Company's assessment efforts to date,
+
+the Company believes that certain Internal Use Systems will require replacement
+
+or modification, and to date the Company has replaced or modified some Internal
+
+Use Systems. In addition, in the ordinary course of replacing and upgrading
+
+Internal Use Systems, the Company attempts to obtain replacements that it
+
+believes will not fail as a result of Year 2000 Issues. The Company has
+
+substantially completed its assessment efforts with respect to Internal Use
+
+Systems and expects that its remediation efforts will be completed by the fourth
+
+quarter of 1999. The Company is currently engaged in but has not completed
+
+contingency planning to address personnel, resource and technical Year 2000
+
+Issues relating to foreseeable scenarios that may develop despite its current
+
+and planned remediation efforts. The Company estimates that as of December 31,
+
+1998 it had completed approximately 41% of its efforts in connection with Year
+
+2000 Issues relating to its Internal Use Systems. The projects comprising the
+
+remaining 59% of such efforts are in process and are expected to be
+
+substantially completed on or about the fourth quarter of 1999.
+
+   The Company has mailed letters or otherwise communicated with many of its
+
+significant vendors of Internal Use Systems and related service providers to
+
+determine the extent to which Year 2000 Issues affect products and services of
+
+such vendors and providers. As of March 23, 1999, the Company had received
+
+responses from approximately 64% of such third parties, and 80% of these
+
+companies have provided written assurances that they expect to successfully
+
+address their significant Year 2000 Issues on a timely basis. The Company is
+
+engaged in but has not completed efforts to communicate with other vendors and
+
+service providers involved in its Internal Use Systems to request more responses
+
+to its communications and to verify the responses received. Due to
+
+uncertainties associated with vendors and service providers, the Company is
+
+unable to predict whether Year 2000 Issues involved in its Internal Use Systems
+
+will have a material adverse effect on the Company's business, results of
+
+operations, or financial condition, despite the Company's current assessment to
+
+the contrary.
+
+   Third Party Products. The Company works closely with vendors of
+
+significant Third Party Products and has communicated with them to determine the
+
+extent to which their products and services are or will be Year 2000 compliant.
+
+In addition, the Company is testing or plans to test Year 2000 releases of
+
+certain Third Party Products. Based upon its current assessment, the Company
+
+believes it has received adequate assurances that significant Third Party
+
+Product vendors expect to successfully address their significant Year 2000
+
+Issues on a timely basis. Due to uncertainties associated with Third Party
+
+Product vendors, the Company is unable to predict whether a material adverse
+
+effect on business, results of operations, or financial condition may result
+
+from Year 2000 Issues related to Third Party Products, despite the Company's
+
+current assessment to the contrary.
+
+                  Page 22
+
+   Company Software Products. The Company began development of Year 2000
+
+versions of some Company Software Products in 1997 and continues to progress
+
+through development cycles with respect to some Company Software Products. The
+
+Company began deploying Year 2000 releases of Company Software Products in 1998
+
+and expects to complete deployment of such releases during the second half of
+
+1999. The Company continues to test and monitor performance of Year 2000
+
+releases of Company Software Products in customer environments. The Company
+
+expects to deliver and deploy maintenance releases of Company Software Products
+
+in the ordinary course of business to remediate any Year 2000 Issues as
+
+identified during and after deployment of Year 2000 releases of Company Software
+
+Products. Based on the Company's assessment, the Company believes continuing
+
+efforts will be required to assist customers in deploying and testing Year 2000
+
+releases of Company Software Products in their unique environments. The Company
+
+expects an increase in service and support effort levels as the year 2000
+
+approaches and into the early months of the year 2000.
+
+   The Company develops, markets and supports many different products, and the
+
+amount of effort applied with respect to individual products varies from product
+
+to product. The Company estimates that as of December 31, 1998 it had completed
+
+approximately 84% of the development efforts relating to Year 2000 versions of
+
+all of the Company Software Products. The projects comprising the remaining 16%
+
+of these efforts are in process and expected to be substantially completed in
+
+the third quarter of 1999. The Company estimates that as of December 31, 1998,
+
+it had completed approximately 44% of the deployment efforts relating to Year
+
+2000 versions of all Company Software Products. The projects comprising the
+
+remaining 56% of these efforts are in process and are expected to be
+
+substantially completed in the third quarter of 1999, but the Company expects to
+
+continue efforts to remediate and maintain Year 2000 versions of Company
+
+Software Products in customer environments and to support customers' efforts
+
+relating to Year 2000 Issues through the early part of 2000.
+
+   The Company is currently engaged in but has not completed contingency
+
+planning to address company-wide personnel, resource, technical and
+
+communication issues relating to its service and remediation efforts. The
+
+Company expects that its development, remediation, testing, deployment and
+
+contingency planning efforts with respect to Company Software Products will
+
+continue up to and beyond December 31, 1999, but expects the level of
+
+development and deployment will decrease in the second half of 1999.
+
+   Contingency Plans and Risks. The Company has begun, but not yet completed,
+
+a comprehensive analysis of the company-wide operational, business and financial
+
+problems (including possible loss of revenue), if any, that would be reasonably
+
+likely to result from the impact of unresolved Year 2000 Issues, including
+
+possible (i) failure by the Company and vendors of Third Party Products to
+
+complete efforts to avoid or minimize Year 2000 Issues on a timely basis,
+
+including failure of Internal Use Systems, Company Software Products and Third
+
+Party Products to be Year 2000 ready, (ii) failure of Customers to be ready to
+
+or cooperate in the deployment of Year 2000 ready versions of Company Software
+
+Products and Third Party Products on a timely basis, and (iii) delay, deferral
+
+or cancellation by customers of current installations and prospective purchase
+
+decisions with respect to Company Software Products. The Company has not yet
+
+completed its contingency plans relating to Year 2000 scenarios it deems
+
+sufficiently probable to merit contingency planning, but it has substantially
+
+completed its preliminary phase of contingency planning and expects to
+
+substantially complete its contingency planning by the third quarter of 1999.
+
+Such contingency final stage planning will encompass "worst case" scenarios that
+
+assume the failure of significant communications and computing infrastructures
+
+of the Company, its customers and suppliers, together with failures of
+
+governmental infrastructures affecting transportation.
+
+   Costs
+
+   The Company estimates that the cost of its efforts to successfully address
+
+Year 2000 Issues will be approximately $19 million, of which approximately $6.2
+
+million relates to Internal Use Systems and $12.8 million relates to Company
+
+Software Products. Because the Company develops, markets, and supports many
+
+different products, and the amount of effort applied with respect to individual
+
+products varies from product to product. All expenditures to fund Year 2000
+
+Issue efforts have been and will continue to be funded from operating
+
+expenditures for fiscal years 1997 through early 2000, except for $.8 million,
+
+which is expected to be incurred and capitalized in 1999. As of December 31,
+
+1998, the Company had incurred approximately $8.1 million related to its Year
+
+2000 Issue assessment, remediation, testing, and contingency planning efforts
+
+identification, which is approximately 42% of the total projected costs of such
+
+efforts. Of the amount of costs incurred to date, approximately $1.3 million
+
+relates to Internal Use Systems, which is approximately 20% of the total of
+
+estimated costs for such efforts, and $6.8 million relates to Company Software
+
+Products, which is approximately 53% of the total of estimated costs for such
+
+efforts.
+
+   Unless all material Year 2000 Issues are timely and properly identified,
+
+assessed, and remediated, and unless adequate contingency plans are properly
+
+formulated, Year 2000 Issues may materially adversely impact the Company's
+
+business, financial condition and results of operations, or adversely affect the
+
+Company's relationships with customers, 
+
+                  Page 23
+
+suppliers or others. The Company believes that Year 2000 Issues could cause
+
+failures in important elements of the computing and communications
+
+infrastructures of the Company, its customers and suppliers and also Company
+
+Software Products and Third Party Products. Further, the Company expects that it
+
+and its customers and suppliers may experience failures of such systems the
+
+causes of which will be difficult to determine, requiring the application of
+
+resources for diagnostic purposes. If the Company has not developed adequate
+
+contingency plans and means to address such contingencies, Year 2000 Issues
+
+Issues will materially adversely impact the Company's business, financial
+
+condition and results of operations, or adversely affect the Company's
+
+relationships with customers, suppliers or others.
+
+   The costs, timing and scheduling of deployment and installation of Year
+
+2000 versions of Company Software Products and Third Party Products, as well as
+
+the ability of the Company to assist customers in the installation of Company
+
+Software Products, will depend in part on the readiness, ability and cooperation
+
+of customers and their suppliers. Due to uncertainties associated with
+
+customers' readiness, cooperation and sources of products and services, there
+
+can be no assurance that Year 2000 Issues will not materially adversely affect
+
+the Company's business, results of operations, or financial condition, or
+
+adversely affect the Company's relationships with customers, vendors or others.
+
+   Some customers and prospects of the Company operate in complex computing
+
+environments that include products and services not supplied by the Company.
+
+The costs, timing and scheduling by customers of work related to Year 2000
+
+Issues involving such products and services may cause some customers and
+
+prospects to defer current projects or prospective purchase decisions regarding
+
+Company Software Products. If Year 2000 Issues cause customers and prospects to
+
+defer current projects or prospective purchase decisions, the Company's
+
+financial, business and operational goals may be deferred or may not be realized
+
+at all, with the result that the Company's business, results of operations, or
+
+financial condition could be materially adversely affected. Due to
+
+uncertainties associated with customers and prospects, there can be no assurance
+
+that Year 2000 Issues will not materially adversely affect the Company's
+
+business, results of operations, or financial condition or adversely affect the
+
+Company's relationships with customers, vendors or others.
+
+   The costs of the Company's Year 2000 identification, assessment,
+
+remediation, testing, deployment and contingency planning efforts, and the dates
+
+on which the Company believes it will complete such efforts, are based upon
+
+management's current best estimates, which were derived using numerous
+
+assumptions regarding future events, including the continued availability of
+
+certain resources, third-party remediation plans, and other factors. There can
+
+be no assurance that these estimates will prove to be accurate, and actual
+
+results could differ materially from those currently anticipated. Specific
+
+factors that could cause such material differences include, but are not limited
+
+to, the availability of and cost of personnel trained in Year 2000 Issues, the
+
+ability to correctly and effectively identify, assess, remediate, and test all
+
+relevant computer codes, equipment, and embedded technology, and similar
+
+uncertainties, the ability of the Company to timely install and deploy Year 2000
+
+releases of Company Software Products, a failure of the Company to provide,
+
+obtain or make available adequate resources to assist customers in installing
+
+Year 2000 releases of Company Software Products and Third Party Products. As a
+
+result of any of such factors alone or in combination, the Company may
+
+experience an increase in warranty and other claims. In addition, since there
+
+is no uniform definition of "compliance with Year 2000," and since the Company
+
+sells a myriad of different combinations of products and services under varying
+
+contractual terms, the Company is not able to assess or estimate the possible
+
+impact of such possible claims. No assurance can be given that the aggregate
+
+cost of defending and resolving such claims, if any, will not materially
+
+adversely affect the Company's results of operations. Although some of the
+
+Company's agreements with manufacturers and others from whom it purchases
+
+products for resale contain provisions requiring such parties to indemnify the
+
+Company under some circumstances, there can be no assurance that such
+
+indemnification arrangements will cover all of the Company's liabilities and
+
+costs relate to claims by third parties related to Year 2000 Issues.
+
+Factors Affecting Future Results
+
+IDX Stock Prices May Continue to be Volatile. IDX has experienced, and expects
+
+to continue to experience fluctuations in its stock price due to a variety of
+
+factors including:
+
+    . delay in customers purchasing decisions due to a variety of factors
+
+      such as consolidation, management changes and year 2000 problems;
+
+    . market prices of competitors such as McKesson HBOC, Inc.;
+
+                  Page 24
+
+    . announcements of technological innovations, including Internet
+
+      delivery of information and use of relational database technology;
+
+    . new product introductions by IDX or its competitors;
+
+    . market conditions particularly in the computer software and hardware
+
+      industries; and
+
+    . healthcare reform measures.
+
+These fluctuations could have a significant impact on future market prices of
+
+IDX's common stock. On March 5, 1999 IDX announced that it expected a loss
+
+of ($0.22) - ($0.28) per share in the quarter ending March 31, 1999. Following
+
+this announcement, the IDX share price declined. On March 19, 1999 the last
+
+reported sale price of IDX common stock was on the Nasdaq National Market was
+
+$14.31 per share. On December 31, 1998, the last reported sale price of IDX
+
+common stock on the Nasdaq National Market was $44.00. This represents a 67%
+
+decline in the value of IDX stock since December 31, 1998.
+
+Adverse Financial Trends Including Declining Net Income and Cash from Operations
+
+Have and May Continue. Year over year net income and cash from operations have
+
+declined since 1995. IDX's net income was $20.6 million in 1995. Net income fell
+
+to $16.7 million in 1996 and $8.0 million in 1997. Net income increased to $30.2
+
+million in 1998. Cash from operations was $21.7 million in 1995, $10.4 million
+
+in 1996, and $9.8 million in 1997. On March 5, 1999 IDX announced that based on
+
+currently available information, the after tax loss for the first quarter ending
+
+March 31, 1999 is expected to be ($5) to ($7) million. If these negative trends
+
+were to continue, IDX would have difficulty in financing future growth and
+
+funding its operating initiatives including future acquisitions.
+
+IDX Expects its Quarterly Operating Results to Fluctuate and its Customer Sales
+
+and Installation Requirements to Change. IDX expects its quarterly results of
+
+operations to continue to fluctuate. Because a significant percentage of IDX's
+
+expenses are relatively fixed, the following factors could cause these
+
+fluctuations:
+
+    .  delay in customers purchasing decisions due to a variety of factors
+
+       such as consolidation, management changes and year 2000 problems;
+
+    .  the volume and timing of systems sales and installations;
+
+    .  recognizing revenue at various points during the installation
+
+       process; and
+
+    .  the sales and implementation cycles of IDX's customers.
+
+In addition, the timing of new product and service introductions and product
+
+upgrade releases and general economic conditions can impact IDX's quarterly
+
+operating results.
+
+In light of the above, IDX believes that its results of operations for any
+
+particular quarter or fiscal year are not necessarily meaningful or reliable
+
+indicators of future performance. Future period-to-period fluctuations may have
+
+a material adverse effect on IDX's results of operations, financial condition or
+
+business.
+
+IDX May Experience Challenges and Incur Substantial Costs in Integrating the
+
+Operations of PHAMIS, Inc. and EDiX. Since the acquisition in July 1997, the
+
+integration of the operations and management of IDX and PHAMIS has and will
+
+continue to:
+
+    .  be a time-consuming process, particularly in regard to coordinating
+
+       product development and organizing customer support operations;
+
+    .  require continued dedication of management resources, which has and
+
+       may continue to temporarily distract attention from the day-to-day
+
+       business of the combined entity; and
+
+    .  cause IDX to incur significant merger and related costs including
+
+       additional unanticipated expenses.
+
+IDX cannot assure you that it will complete this integration smoothly or
+
+successfully.
+
+                  Page 25
+
+EDiX will present IDX operational challenges, particularly in the area of sales
+
+coordination. In addition, IDX expects to incur significant pre-tax charges in
+
+association with the merger.
+
+If IDX fails to successfully integrate the operations or management of the two
+
+companies, it could have a material adverse effect on the combined entity's
+
+results of operations, financial condition or business.
+
+IDX May Not be Successful in Implementing its Acquisition Strategy. IDX intends
+
+to continue to grow in part through either acquisitions of complementary
+
+products, technologies and businesses or alliances with complementary
+
+businesses. IDX may not be successful in these acquisitions or alliances, or in
+
+integrating any such acquired or aligned products, technologies or businesses
+
+into its current business and operations. Factors which may affect IDX's ability
+
+to expand successfully include:
+
+    .  the successful identification and acquisition of products,
+
+       technologies or businesses;
+
+    .  effective integration and operation of the acquired or aligned
+
+       products, technologies or businesses despite technical
+
+       difficulties, geographic limitations and personnel issues; and
+
+    .  overcoming significant competition for acquisition and alliance
+
+       opportunities from companies that have significantly greater
+
+       financial and management resources, such as McKesson HBOC, Inc. and
+
+       Shared Medical Systems Corporation.
+
+The failure to successfully integrate any significant products, technologies or
+
+businesses could have a material adverse effect on IDX's results of operations,
+
+financial condition or business.
+
+IDX's Success Depends on New Product Development and Its Ability to Respond to
+
+Rapidly Changing Technology. To be successful, IDX must enhance its existing
+
+products, respond effectively to technology changes and help its clients adopt
+
+new technologies. In addition, IDX must sell additional products to its existing
+
+client base and introduce new products and technologies to meet the evolving
+
+needs of its clients in the healthcare information systems market. IDX may have
+
+difficulty in accomplishing this because of factors including:
+
+    .  evolving industry standards, for example, Health Level Seven;
+
+    .  new technological developments, for example, the web technology.
+
+IDX is currently devoting significant resources toward the development of
+
+enhancements to its existing products, particularly in the announced area of
+
+web-based functionality and the migration of existing products to new hardware
+
+and software platforms including relational database technology and object-
+
+oriented programming. However, IDX may not successfully complete these product
+
+developments or the adaptation in a timely fashion, and IDX's current or future
+
+products may not satisfy the needs of the healthcare information systems market.
+
+Any of these developments may adversely affect IDX's competitive position or
+
+render its products or technologies noncompetitive or obsolete.
+
+IDX May Be Adversely Affected by Year 2000 Problems. In the year 2000 software
+
+applications that use only two digits to identify a year in the date field may
+
+fail or create errors. IDX uses computer equipment, software and devices with
+
+embedded technology, including both information systems and non-information
+
+systems, that may not be year 2000 compliant despite IDX's continuing efforts to
+
+assess, remediate, and test such equipment, software and devices. This could
+
+result in a system failure or miscalculations causing disruption of IDX's
+
+operations, including among other things, a temporary inability to:
+
+    .  process transactions;
+
+    .  send invoices;
+
+    .  conduct communications; or
+
+    .  engage in similar normal business activities.
+
+In addition, IDX sells computer software products and distributes the products
+
+of third parties that may not be year 2000 compliant despite IDX's continuing
+
+efforts to assess and test these products. This could result in system failures
+
+or miscalculations causing disruption of customers' operations, including, in
+
+addition to the types of disruptions described 
+
+                  Page 26
+
+above, a temporary disruption in their ability to treat patients. Further,
+
+products and services used by IDX's customers, but not supplied by IDX, may not
+
+be year 2000 compliant. Customers may defer current installations of and plans
+
+to purchase IDX products until they have completed their own year 2000
+
+assessment. Any of these problems could have a material adverse effect on IDX's
+
+results of operations, financial condition or business.
+
+IDX does not believe that the year 2000 issues will pose significant operational
+
+problems for IDX. However, if year 2000 issues are not properly identified,
+
+assessed and resolved, it could have a material adverse effect on the results of
+
+operations, financial condition or business of IDX. In addition if actual year
+
+2000 remediation costs are higher than IDX estimated costs, it could materially
+
+adversely affect IDX's results of operations, financial condition or business.
+
+The nature of IDX's business and its relationships with its customers make it
+
+difficult to assess the magnitude of IDX's potential exposure as a result of
+
+year 2000 issues. IDX is engaged in the business of developing, marketing and
+
+supporting computer software. IDX's software is often used by its customers in
+
+conjunction with other vendors' products and services. The ability of IDX to
+
+assist its customers in the development and installation of year 2000 compliant
+
+versions of IDX software products will depend in part on the readiness, ability
+
+and cooperation of its customers and their suppliers. In addition, the
+
+purchasing patterns of IDX customers and potential customers may be affected by
+
+year 2000 issues. The cost, timing and scheduling by customers of work related
+
+to year 2000 issues involving IDX's products and services may cause some
+
+customers to defer or forego projects or purchase decisions. IDX sells a number
+
+of different combinations of products and services under varying contractual
+
+terms. There is no widely accepted definition of year 2000 compliance. Certain
+
+of IDX's customers may assert breach of warranty or other claims against IDX
+
+relating to year 2000 compliance. Any of these factors may adversely affect the
+
+results of operations.
+
+Product Sales Within the Healthcare Industry May Decline Causing IDX to Suffer
+
+Financially. IDX currently derives substantially all of its revenues from sales
+
+of financial, administrative and clinical healthcare information systems and
+
+related services within the healthcare industry. As a result, any factor
+
+adversely affecting this industry and these sales could have a material adverse
+
+effect on IDX. In addition, even though IDX's annual sales have increased,
+
+future revenues associated with existing products may decline as a result of
+
+factors like price competition. IDX may not be able to continue its success in
+
+marketing its current, new or enhanced products. Moreover, IDX may be unable to
+
+maintain its current pricing for existing products.
+
+IDX May Be Faced With Product Liability Claims Exceeding Its Insurance Coverage.
+
+Any failure by IDX's products that provide applications relating to patient
+
+medical histories and treatment plans could expose IDX to product liability
+
+claims. These potential claims may exceed IDX's current insurance coverage. A
+
+successful claim brought against IDX in excess of its insurance coverage could
+
+have a material adverse effect on IDX's results of operations. Even
+
+unsuccessful claims could be costly to defend and divert management time and
+
+resources. In addition, IDX cannot assure you that it will continue to have
+
+appropriate insurance available to it in the future at commercially reasonable
+
+rates.
+
+IDX's Success is Significantly Dependent on Key Personnel. The success of IDX
+
+is dependent to a significant degree on its key management, sales, marketing,
+
+and technical personnel. To be successful IDX must attract, motivate and retain
+
+highly skilled managerial, sales, marketing, consulting and technical personnel,
+
+including programmers, consultants, systems architects skilled in the technical
+
+environments in which IDX's products operate. Competition for such personnel in
+
+the software and information services industries is intense. The loss of key
+
+personnel, or the inability to hire or retain qualified personnel, could have a
+
+material adverse effect on IDX's results of operations. IDX does not maintain
+
+"key man" life insurance policies on any of its executives. Not all IDX
+
+personnel have executed noncompetition agreements.
+
+IDX May Be Adversely Affected By Changes in the Healthcare Industry and by
+
+Government Healthcare Reform Proposals. IDX's products are designed to function
+
+within the structure of the healthcare financing and reimbursement system
+
+currently being used in the United States. During the past several years, the
+
+healthcare industry has been subject to increasing levels of governmental
+
+regulation of, among other things, reimbursement rates and capital expenditures.
+
+From time to time, Congress has considered proposals to reform the healthcare
+
+system. If enacted, these proposals may increase government involvement in
+
+healthcare, lower reimbursement rates and otherwise change the operating
+
+environment for IDX's clients. Healthcare organizations may react to these
+
+proposals and the uncertainty surrounding these proposals by curtailing or
+
+deferring investments, including those for IDX's products and services. IDX
+
+cannot predict with any certainty what impact these proposals or healthcare
+
+reforms might have on its results of operations, financial condition or
+
+business.
+
+Governmental Regulation May Impose New Burdens and Costs on IDX's Operations.
+
+The United States Food and Drug Administration has promulgated a draft policy
+
+for the regulation of computer software products as medical devices under the
+
+1976 Medical Device Amendments to the Federal Food, Drug and Cosmetic Act. To
+
+the extent that computer software 
+
+                  Page 27
+
+is a medical device under the policy, IDX, as a manufacturer of such products,
+
+could be required, depending on the product, to:
+
+    .  register and list its products with the FDA;
+
+    .  notify the FDA and demonstrate substantial equivalence to other
+
+       products on the market before marketing such products; or
+
+    .  obtain FDA approval by demonstrating safety and effectiveness
+
+       before marketing a product.
+
+Depending on the intended use of a device, the FDA could require IDX to obtain
+
+extensive data from clinical studies to demonstrate safety or effectiveness, or
+
+substantial equivalence. If the FDA requires this data, IDX would be required to
+
+obtain approval of an investigational device exemption before undertaking
+
+clinical trials. Clinical trials can take extended periods of time to complete.
+
+IDX cannot provide assurances you that the FDA will approve or clear a device
+
+after the completion of such trials. In addition, these products would be
+
+subject to the FDC Act's general controls, including those relating to good
+
+manufacturing practices and adverse experience reporting. Although it is not
+
+possible to anticipate the final form of the FDA's policy with regard to
+
+computer software, IDX expects that the FDA is likely to become increasingly
+
+active in regulating computer software intended for use in healthcare settings
+
+regardless of whether the draft is finalized or changed. The FDA can impose
+
+extensive requirements governing pre-and post-market conditions like service
+
+investigation, approval, labeling and manufacturing. In addition, the FDA can
+
+impose extensive requirements governing development controls and quality
+
+assurance processes.
+
+In order to ensure continued compliance with changing government standards and
+
+regulations, IDX monitors regulations affecting its business including those
+
+mandated by the Health Insurance Portability and Accountability Act of 1996.
+
+IDX May Have Conflicts of Interests With Some of its Executives Which May
+
+Adversely Affect IDX. Richard E. Tarrant, President, Chief Executive Officer
+
+and Director, and Robert H. Hoehl, Chairman of the Board of Directors,
+
+indirectly own, through various entities, real estate which IDX leases in
+
+connection with its operations. During 1998, IDX paid an aggregate of
+
+approximately $4.24 million in connection with these leases. In November 1998,
+
+IDX announced tentative plans to expand one of its facilities located on land
+
+owned by these executives.
+
+In connection with these arrangements, the economic interests of these
+
+executives and directors and IDX may diverge. In response, IDX has created the
+
+Committee on Independent Director Transactions to review and approve
+
+transactions of this nature. IDX believes that these arrangements were entered
+
+into on an arm's length basis on terms that were no less favorable to IDX than
+
+could have been obtained from unaffiliated third parties.
+
+   Because of these and other factors, past financial performance should not
+
+be considered an indicator of future performance. Investors should not use
+
+historical trends to anticipate future results.
+
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk
+
+   Not Applicable.
+
+                  Page 28
+
+Item 8. Financial Statements and Supplementary Data
+
+             CONSOLIDATED BALANCE SHEETS
+
+          (in thousands, except for per share data)
+
+See accompanying notes.
+
+                  Page 29
+
+            CONSOLIDATED STATEMENTS OF INCOME
+
+              AND COMPREHENSIVE INCOME
+
+          (in thousands, except for per share data)
+
+See accompanying notes.
+
+                  Page 30
+
+        CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+                (in thousands)
+
+See accompanying notes.
+
+                  Page 31
+
+           CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                (in thousands)
+
+See accompanying notes.
+
+                  Page 32
+
+              IDX SYSTEMS CORPORATION
+
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                December 31, 1998
+
+1.  Significant Accounting Policies
+
+Nature of Business
+
+   IDX Systems Corporation (IDX or the Company) provides healthcare
+
+information systems and services to large integrated healthcare delivery
+
+enterprises principally located in the United States. Revenues are derived from
+
+the licensing of software, and the provision of maintenance and services related
+
+to systems sales.
+
+   In July 1997, IDX completed its merger (Merger) with PHAMIS, Inc. (PHAMIS)
+
+in a stock for stock transaction. The transaction, which was accounted for as a
+
+pooling-of-interests, was effected through the exchange of .73 shares of IDX
+
+common stock in exchange for each PHAMIS share outstanding. Approximately 4.6
+
+million shares of common stock were issued in connection with the Merger. PHAMIS
+
+was a Seattle-based provider of enterprise-wide, patient-centered healthcare
+
+information systems.
+
+   The consolidated financial statements for all periods prior to the Merger
+
+have been restated to include the accounts and results of operations of PHAMIS.
+
+No adjustments were required to conform the financial reporting policies of IDX
+
+and PHAMIS for the periods presented.
+
+Basis of Presentation and Principles of Consolidation
+
+   The consolidated financial statements include the accounts of the Company,
+
+its subsidiaries and a real estate trust. Investments in entities, representing
+
+an ownership interest of less than 20%, are accounted for under the cost method.
+
+   The Company leases a substantial portion of its space, including its
+
+corporate headquarters and certain sales and support offices, from real estate
+
+partnerships and trusts owned by stockholders and certain key employees of the
+
+Company. These real estate partnerships and trusts include 116 Huntington Avenue
+
+Limited Partnership ("HLP"), BDP Realty Associates ("BDP") and other real estate
+
+partnerships and trusts ("REPs"). The Company's consolidated financial
+
+statements include the accounts of the Company and BDP whose real estate is
+
+leased exclusively by the Company and for which the Company is subject to
+
+substantially all the risks of ownership. Real estate owned by HLP and REPs is
+
+leased to the Company under operating leases. All transactions between the
+
+Company and BDP are eliminated. Minority interest represents net income and
+
+equity of BDP.
+
+Segment Information
+
+   In June 1997, the Financial Accounting Standards Board issued Statement of
+
+Financial Accounting Standards (SFAS) No. 131, "Disclosures about Segments of an
+
+Enterprise and Related Information." The Company adopted SFAS No. 131 effective
+
+with the fiscal year ended December 31, 1998. SFAS No. 131 establishes standards
+
+for reporting information regarding operating segments in annual financial
+
+statements and requires selected information for those segments to be presented
+
+in interim financial reports issued to stockholders. SFAS No. 131 also
+
+establishes standards for related disclosures about major customers, products
+
+and services, and geographic areas. Operating segments are identified as
+
+components of an enterprise about which separate discrete financial information
+
+is available for evaluation by the chief operating decision maker, or decision
+
+making group, in making decisions how to allocate resources and assess
+
+performance. The Company views its operations and manages its business as
+
+principally one segment, healthcare information solutions that include software,
+
+hardware and related services.
+
+   Substantially all of the Company's operations are in the United States. No
+
+one customer accounted for 10% or more of the Company's revenues in 1998, 1997,
+
+or 1996. As a result, the financial information disclosed herein represents all
+
+of the material financial information related to the Company's principal
+
+operating segment.
+
+                  Page 33
+
+Revenue Recognition
+
+   In 1997 and 1996, the Company recognized revenue in accordance with the
+
+provisions of Statement of Position (SOP) No. 91-1, "Software Revenue
+
+Recognition." In October 1997, the American Institute of Certified Public
+
+Accountants issued SOP No. 97-2, "Software Revenue Recognition," which
+
+supersedes SOP 91-1. In 1998 the Company adopted SOP No. 97-2, as amended by SOP
+
+No. 98-4, which generally requires revenue earned on software arrangements
+
+involving multiple elements to be allocated to each element based on the
+
+relative fair values of those elements. The fair value of an element must be
+
+based on objective evidence that is specific to the vendor. If the vendor does
+
+not have evidence of the fair value for all the elements in a multiple-element
+
+arrangement, all revenue from the arrangement is deferred until such evidence
+
+exists or until all elements are delivered. Additionally, the Company
+
+periodically enters into certain long term contracts to which SOP 81-1,
+
+"Accounting for Performance of Construction-Type and Certain Production-Type
+
+Contracts," is applied. For these agreements, revenue is recognized under a
+
+percentage of completion basis as appropriate measures of completion for each
+
+contract are achieved. The Company also generates service revenues from the sale
+
+of product maintenance contracts and consulting contracts. 
+
+   Accordingly, revenue from software licensing arrangements is principally
+
+recognized upon delivery subject to specified milestones and dates. Revenue from
+
+consulting services is recognized in the period in which services are performed.
+
+Revenue from hardware sales is recognized upon delivery. Revenue from
+
+maintenance contracts is recognized ratably over the term of the support period,
+
+which is typically one year.
+
+Comprehensive Income
+
+   In June 1997, the Financial Accounting Standards Board issued SFAS No. 130,
+
+"Reporting Comprehensive Income" which the Company adopted on January 1, 1998.
+
+The adoption of this new accounting standard is reflected in the Company's
+
+consolidated statements of income and comprehensive income.
+
+Research and Development Costs
+
+   Research and development costs are expensed as incurred. Software
+
+development costs incurred after the establishment of technological feasibility
+
+and until the product is available for general release are capitalized, provided
+
+recoverability is reasonably assured. Technological feasibility is established
+
+upon the completion of a working model. Software development costs, when
+
+material, are stated at the lower of unamortized cost or net realizable value.
+
+Net realizable value for each software product is assessed based on anticipated
+
+profitability applicable to sales of the related product in future periods.
+
+Amortization of capitalized software costs begins when the related product is
+
+available for general release to customers and is provided for each product
+
+based on the greater of the amount computed using (i) the ratio of current gross
+
+revenues to total current and anticipated future gross revenues for the related
+
+software or (ii) the straight-line method over a three-year life or the
+
+product's estimated economic life, if shorter. Capitalized software development
+
+costs of $665,000 and $368,000 at December 31, 1998 and 1997, respectively, net
+
+of accumulated amortization, are included in other assets in the accompanying
+
+balance sheets. Amortization of capitalized software amounted to $203,000,
+
+$806,000 and $1,337,000 in 1998, 1997 and 1996, respectively. In connection
+
+with the Merger, the Company wrote-off $5.6 million of capitalized software
+
+development costs attributable to the elimination of overlapping and obsolete
+
+products.
+
+Cash Equivalents
+
+   The Company considers highly liquid investments generally with a maturity
+
+of three months or less when purchased, to be cash equivalents. Cash equivalents
+
+are stated at cost, which approximates market value.
+
+Risks and Uncertainties
+
+ Concentration of Credit Risk
+
+   Financial instruments which potentially subject the Company to a
+
+concentration of credit risk principally consist of cash and cash equivalents,
+
+securities available-for-sale and trade receivables.
+
+                  Page 34
+
+   The Company invests excess cash primarily in money market mutual funds and
+
+tax exempt municipal funds with high credit ratings, debt securities with highly
+
+rated issuers and treasury notes and bonds issued by the United States
+
+Government and the State of Vermont.
+
+   The Company's customers are substantially all large integrated healthcare
+
+delivery enterprises principally located in the United States. To reduce credit
+
+risk, the Company performs ongoing credit evaluations of the financial condition
+
+of its customers and generally does not require collateral. Although the
+
+Company is directly affected by the overall financial condition of the
+
+healthcare industry, management does not believe significant credit risk exists
+
+at December 31, 1998. The Company's losses related to collection of trade
+
+accounts receivables have consistently been within management's expectations.
+
+ Significant Estimates and Assumptions
+
+   The preparation of financial statements in conformity with generally
+
+accepted accounting principles requires management to make significant estimates
+
+and assumptions that affect the reported amounts of assets and liabilities and
+
+disclosure of contingent assets and liabilities at the date of the financial
+
+statements and the reported amounts of revenues and expenses during the
+
+reporting period. Significant estimates and assumptions by management affect the
+
+Company's allowance for doubtful accounts, revenue recognition and certain
+
+accrued expenses. Actual results could differ from those estimates.
+
+Investment Securities
+
+   The Company accounts for investment securities based on SFAS No. 115,
+
+"Accounting for Certain Investments in Debt and Equity Securities." SFAS No. 115
+
+provides the accounting and reporting requirements for investments in securities
+
+that have readily determinable fair values and for all investments in debt
+
+securities. All of the Company's investments have been classified as available-
+
+for-sale securities at December 31, 1998 and 1997. Available-for-sale securities
+
+are carried at fair value with unrealized gains and losses reported as a
+
+component of stockholders' equity and comprehensive income.
+
+Property and Equipment
+
+   Real estate, which includes land, buildings and related improvements owned
+
+by BDP, is stated at cost. Buildings and related improvements are depreciated
+
+using the straight-line method over their estimated useful lives of 30 to 40
+
+years.
+
+   Equipment is stated at cost and is depreciated over its estimated useful
+
+life by using the straight-line method. Equipment under capital leases is stated
+
+at the lower of the present value of minimum lease payments discounted at the
+
+Company's incremental borrowing rate at the beginning of the lease term or fair
+
+value at the inception of the lease. Depreciation is generally computed based on
+
+useful lives of two to five years for computer equipment and software and five
+
+to ten years for furniture and fixtures. Leasehold improvements are amortized
+
+using the straight-line method over the lesser of the term of the respective
+
+lease or the estimated useful life of the asset.
+
+   The Company includes costs of developing and obtaining software for 
+
+internal use, following its adoption of SOP No.98-1, "Accounting for the Costs 
+
+of Computer Software Developed for Internal Use", in Property and Equipment.
+
+Long Lived Asset Impairment
+
+   In accordance with SFAS No. 121 "Impairment of Long Lived Assets and Long
+
+Lived Assets to be Disposed of", the Company recognizes impairment losses on
+
+long lived assets when indicators of impairment are present and future
+
+undiscounted cash flows are insufficient to support the assets' recovery. The
+
+amount of the impairment loss is recognized based on an analysis of discounted
+
+cash flows estimated to be derived from the impaired asset.
+
+Income Taxes
+
+   The Company accounts for income taxes using the liability method as
+
+required by SFAS No. 109, "Accounting for Income Taxes." Under this method,
+
+deferred income taxes are recognized for the future tax consequences of
+
+differences between the tax and financial accounting of assets and liabilities
+
+at each year end. Deferred income taxes are based on enacted tax laws and
+
+statutory tax rates applicable to the periods in which the differences are
+
+expected to affect taxable income. A valuation allowance is established when
+
+necessary to reduce deferred tax assets to the amounts expected to be realized.
+
+Income tax expense is the tax payable for the period and the change during the
+
+period in deferred tax assets and liabilities.
+
+                  Page 35
+
+Stock-based Compensation
+
+   The Company grants stock options to employees for a fixed number of shares 
+
+with an exercise price equal to the fair value of the shares at the date of the
+
+grant. The Company has elected to follow Accounting Principles Board Opinion No.
+
+25, "Accounting for Stock Issued to Employees" ("APB 25") and related
+
+Interpretations in accounting for its employee stock options because the
+
+alternative fair value accounting provided for under SFAS No. 123, "Accounting
+
+for Stock-Based Compensation," requires use of option valuation models that were
+
+not developed for use in valuing employee stock options. Under APB 25, because
+
+the exercise price of the Company's employee stock options equals the market
+
+price of the underlying stock on the date of grant, no compensation expense is
+
+recognized. Stock options and other stock-based awards to non-employees are
+
+accounted for based on the provisions of SFAS No. 123.
+
+Net Income Per Share
+
+   In 1997, the Financial Accounting Standards Board issued SFAS No. 128,
+
+"Earnings per Share." SFAS No. 128 replaced the calculation of primary and fully
+
+diluted earnings per share with basic and diluted earnings per share. Unlike
+
+primary earnings per share, basic earnings per share excludes any dilutive
+
+effects of options, warrants and convertible securities. Diluted earnings per
+
+share is similar to the previously reported fully diluted earnings per share.
+
+All net income per share amounts for all periods have been presented to conform
+
+to the SFAS No. 128 requirements.
+
+2. Business Combinations
+
+   On May 5, 1998, the Company acquired the net assets of Laureate Enterprises
+
+Inc. a provider of project and process consulting services for cash of $1.3
+
+million. The acquisition was accounted for under the purchase method.
+
+   On February 23, 1998, the Company recorded charges of $3.2 million related
+
+to the acquisition of contract management system technology from Trego Systems,
+
+Inc. for cash of $4.0 million. The acquisition was accounted for under the
+
+purchase method. The charges were expensed as in-process research and
+
+development in connection with the Company's development of a healthcare
+
+contract management system.
+
+   In February 1997, the Company acquired certain data model technology from
+
+Medaphis Healthcare Information Technology Company for cash of $2.5 million. The
+
+acquisition was accounted for under the purchase method. Approximately $2.3
+
+million of the purchase price was expensed as in-process research and
+
+development in connection with the Company's development of a healthcare data
+
+model.
+
+   Had these acquisitions occurred as of the beginning of the years in which 
+
+they occurred, the pro forma operating results for 1998 and 1997 would not be 
+
+materially different than as reported in the accompanying consolidated financial
+
+statements.
+
+   In July 1997, the Company completed the Merger with PHAMIS which became a
+
+wholly-owned subsidiary of the Company. The transaction was accounted for as a
+
+pooling-of-interests and accordingly, the accompanying financial statements
+
+include the accounts of PHAMIS for all periods presented. In connection with the
+
+Merger, the Company incurred approximately $20 million of merger and related
+
+costs consisting principally of transaction costs of $5.1 million, write-offs
+
+and adjustments of $7.4 million of long-lived assets, primarily capitalized
+
+software development costs and equipment due to the elimination of overlapping
+
+and obsolete products and operations, employee termination and related costs of
+
+$2.7 million and other merger related costs of $4.8 million related to
+
+integration costs incurred during the year and the termination of leases and
+
+other contractual obligations.
+
+                  Page 36
+
+   The results of operations previously reported by the separate enterprises
+
+and the consolidated amounts for the year ended December 31, 1996 and the six
+
+months ended June 30, 1997 are summarized below.
+
+   On September 11, 1998, the Company entered into a merger agreement with
+
+EDiX Corporation, a provider of medical transcription services with annual
+
+revenues of approximately $29 million. The acquisition, which is subject to
+
+regulatory and EDiX shareholder approval and satisfaction of other closing
+
+conditions, will be accounted for as a pooling of interests and is scheduled to
+Question: What was the agregate market value of the voting Common Stock helded by nonaffiliates on March 19, 1999?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

@@ -1,0 +1,900 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-121-pert ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+pfbi2017-10k.htm
+
+PREMIER FINANCIAL BANCORP, INC. FORM 10-K DEC 31, 2017
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-K
+
+For the fiscal year ended December 31, 2017
+
+or
+
+For the transition period from ___________ to ___________
+
+Commission file number 000-20908
+
+PREMIER FINANCIAL BANCORP, INC.
+
+(Exact name of registrant as specified in its charter)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(g) of the Act: NONE
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+
+Yes      No .
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act
+
+Yes      No .
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to filing requirements for the past 90 days.  Yes      No .
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+
+Yes      No .
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this 10-K or any amendment to this Form 10-K.  
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.  See the definitions of "large accelerated filer", "accelerated filer", "smaller reporting company", and "emerging growth company" in Rule 12b-2 of the Exchange Act.  (Check one):
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes     No .
+
+As of June 30, 2017 the aggregate market value of the registrant's common stock held by non-affiliates of the registrant was $191,930,543 based on the closing sale price as reported on the National Association of Securities Dealers Automated Quotation System Global Market System.
+
+Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+- 3 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+PART I
+
+Item 1.  Description of Business
+
+THE COMPANY
+
+Premier Financial Bancorp, Inc. (the "Company" or "Premier") is a multi-bank holding company and financial holding company that, as of March 5, 2018 operates ten banking offices in Kentucky, three banking offices in Ohio, twenty-four banking offices in West Virginia, four banking offices in Washington, DC, one banking office in Maryland and three banking offices in Virginia. At December 31, 2017, Premier had total consolidated assets of $1.493 billion, total consolidated deposits of $1.273 billion and total consolidated stockholders' equity of $183.4 million. The banking subsidiaries (the "Banks" or "Affiliate Banks") consist of Citizens Deposit Bank and Trust, Inc., Vanceburg, Kentucky and Premier Bank, Inc., Huntington, West Virginia.
+
+Premier was incorporated as a Kentucky corporation in 1991 and has functioned as a bank holding company since its formation. During 2002, Premier moved its principal executive offices from Georgetown, Kentucky to its present location at 2883 5th Avenue, Huntington, West Virginia, 25702. The purpose of the move was to be more centrally located among Premier's Affiliate Banks and its directorship. Premier's telephone number is (304) 525-1600.
+
+Premier is a legal entity separate and distinct from its Affiliate Banks. Accordingly, the right of Premier, and thus the right of Premier's creditors and shareholders, to participate in any distribution of the assets or earnings of any of the Affiliate Banks is necessarily subject to the prior claims of creditors of such subsidiaries, except to the extent that claims of Premier, in its capacity as a creditor, may be recognized. The principal source of Premier's revenue is dividends from its Affiliate Banks.  See "REGULATORY MATTERS - Dividend Restrictions" for discussion of the restrictions on the Affiliate Banks' ability to pay dividends to Premier.
+
+In late 2007 Premier resumed a strategy of franchise expansion by acquiring and owning community banks.  On October 24, 2007, the Company entered into a material definitive agreement with Citizens First Bank, Inc. ("Citizens First"), a bank with $60 million of total assets located in Ravenswood, West Virginia.  Under terms of the definitive agreement, Premier agreed to purchase Citizens First for up to $11,700,000 in stock and cash.  Each share of Citizens First common stock was entitled to merger consideration of cash and stock that generally totaled $29.25, subject to certain limitations.  Premier issued 528,000 shares of its common stock plus Premier paid $5.3 million in cash to the shareholders of Citizens First.
+
+On November 27, 2007, the Company entered into a material definitive agreement with Traders Bankshares, Inc. (Traders), a single bank holding company with $108 million of total assets located in Spencer, West Virginia.  Under terms of the definitive agreement, Premier agreed to purchase Traders for approximately $18,140,000 in stock and cash.  Each share of Traders common stock was entitled to merger consideration of $50.00 cash and 4.125 shares of Premier common stock.  Premier issued approximately 742,500 shares of its common stock plus Premier paid $9.0 million in cash to the shareholders of Traders.
+
+- 4 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+On April 30, 2008, Premier closed the acquisitions of Citizens First and Traders.  On October 25, 2008, Premier merged these two new subsidiary banks together to form Traders Bank, Inc. headquartered in Ravenswood, West Virginia.  The merger was designed to consolidate management and operations of two subsidiaries in overlapping or contiguous markets.  Similarly, effective January 3, 2005, Premier merged two of its subsidiary banks, Citizens Deposit Bank & Trust in Vanceburg, Kentucky and Bank of Germantown, in Germantown, Kentucky. Bank of Germantown was merged into Citizens Deposit Bank, with its facilities continuing to operate as branches of Citizens Deposit Bank.
+
+On December 31, 2008, the Company entered into a material definitive agreement with Abigail Adams National Bancorp, Inc. ("Abigail Adams"), a two bank holding company (Adams National Bank and Consolidated Bank & Trust Company) with $436 million of total assets at December 31, 2008 with locations in and around Washington, DC and Richmond, Virginia.  Under terms of the definitive agreement, Premier agreed to purchase Abigail Adams for approximately $10.8 million in stock.  The acquisition closed on October 1, 2009.  Each share of Abigail Adams common stock was entitled to merger consideration of 0.4907 shares of Premier common stock.  Premier issued approximately 1,699,500 shares of its common stock to the shareholders of Abigail Adams.  Premier participated in the U.S. Treasury's Troubled Asset Relief Program ("TARP") to help fund the rehabilitation of Adams National and provide the additional capital needed to maintain the Company's healthy capital ratios after consummating the merger with Abigail Adams.  For additional information on Premier's participation in the TARP program see "Troubled Asset Relief Program Participation" below.
+
+On September 10, 2010 Citizens Deposit Bank and Trust, Inc. ("Citizens Deposit") completed its purchase of four banking offices from Integra Bank located in Maysville and Mt. Olivet, Kentucky, and Ripley and Aberdeen, Ohio.  The purchase of the branches was a strategic move to increase Citizens Deposit's presence in its current market area without a significant increase in its operating costs. Citizens Deposit paid a $2.4 million deposit premium for the deposit liabilities it assumed and also acquired $17.8 million of branch related loans as well as $34.0 million of additional commercial real estate loans and $10.0 million of other commercial loans selected by Citizens Deposit originated from other Integra offices.  The four banking offices were also included in the branch purchase.  The purchase resulted in approximately $1.1 million of goodwill and $2.0 million in core deposit intangible.
+
+On February 28, 2011, Premier received final regulatory approval to move forward with its plans to merge Boone County Bank, headquartered in Madison, West Virginia; First Central Bank, headquartered in Philippi, West Virginia; Traders Bank, Inc., headquartered in Ravenswood, West Virginia; Adams National Bank, headquartered in Washington, DC and Consolidated Bank & Trust, headquartered in Richmond, Virginia, to form Premier Bank, Inc. ("Premier Bank").  The merger was completed on April 9, 2011.  The resulting bank is headquartered in Huntington, West Virginia.
+
+- 5 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+One of the goals achieved by merging the bank charters together was to alleviate the restrictions placed on the Company's operations by written agreements previously entered into by Adams National with the Office of the Comptroller of the Currency, ("OCC") and Consolidated Bank and Trust Company, ("CB&T") with the Federal Reserve Bank of Richmond, ("FRB").  With the surrender of the Adams National charter upon consummation of the merger to form Premier Bank, Inc., the written agreement with the OCC was terminated.  Similarly, with the merger of CB&T into Premier Bank, Inc., the provisions of the written agreement with the FRB that applied to CB&T were concluded.
+
+With the merger of Adams National and CB&T into Boone County Bank in the formation of Premier Bank, Abigail Adams as a corporate entity was no longer needed.  As such, it was merged into Premier on May 16, 2011.  Likewise, Premier's other non-banking subsidiary, Mt. Vernon Financial Holdings, Inc. ("Mt. Vernon"), had completed its purpose by liquidating substantially all of a pool of loans remaining from the sale of the Bank of Mt. Vernon in 2001.  In September 2011, any remaining loans owned by Mt. Vernon were contributed as capital to Premier's subsidiary bank, Citizens Deposit, and then on September 27, 2011, Mt. Vernon was also merged into Premier.
+
+On May 13, 2010, Premier executed a six-year data processing agreement with Fidelity Information Services, Inc. and its affiliates ("FIS") located in Jacksonville, Florida.  The agreement covers Premier's core data processing, item processing, internet banking services, network services, customer authentication services and electronic funds transfer services.  Beginning in May 2011 and concluding in September 2011, Premier and FIS converted each of the subsidiary (or former subsidiary) bank's systems to the FIS "Horizon" platform.  It was during this process that the data systems of the five subsidiary banks that merged to form Premier Bank, converted and combined into one system. On March 31, 2017, Premier executed a five-year extension of its data processing agreement with FIS.   The extension agreement became effective on April 1, 2017 and continues to cover Premier's core data processing, item processing, mobile and internet banking services, network services, customer authentication services, and electronic funds transfer services.  The data processing agreement shall remain in effect until March 31, 2022 and provides for automatic five-year extensions after that date.
+
+In the second quarter of 2012, Premier received the required approvals from all federal and state banking regulatory authorities to merge three of its subsidiary banks.  On August 17, 2012, Premier merged Ohio River Bank, headquartered in Ironton, Ohio and Farmers Deposit Bank, headquartered in Eminence, Kentucky with and into Premier's wholly owned subsidiary Citizens Deposit Bank & Trust, headquartered in Vanceburg, Kentucky.
+
+- 6 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+On November 19, 2013, Premier and Gassaway Bancshares, Inc., a single bank holding company headquartered in Gassaway, West Virginia jointly announced that they had entered into a definitive agreement whereby Premier Bank would acquire the Bank of Gassaway ("Gassaway"), the wholly owned subsidiary of Gassaway Bancshares, Inc., in a cash purchase valued at approximately $20.25 million.  Effective with the close of business on April 4, 2014, Premier completed its purchase of the Bank of Gassaway, a $201.52 million bank headquartered in Gassaway, West Virginia.  Under terms of an amended and restated agreement of merger dated January 3, 2014, Premier Bank, Inc., a wholly owned subsidiary of Premier, paid $20.25 million in cash for the Bank of Gassaway and merged Gassaway's five branch locations into its operating systems.  The resulting merger expanded Premier Bank's footprint into central West Virginia along the I-79 corridor.
+
+On June 12, 2014, Citizens Deposit opened a de novo branch in Fort Wright, Kentucky in the southern Cincinnati, Ohio metro area in an effort to expand the bank's operations into a more urban market.  On June 13, 2015, Citizens Deposit closed its Aberdeen and South Webster, Ohio branches in a strategic move to reduce its cost structure.  On August 3, 2015, Citizens Deposit opened a de novo branch in Florence, Kentucky, its second de novo branch in the southern Cincinnati, Ohio metro area.   These branch transactions are part of a strategic effort to position the bank as a strong community bank, with a low cost structure and a high opportunity for profitable loans in expanding markets along the Ohio River.
+
+On July 6, 2015, Premier and First National Bankshares Corporation ("Bankshares"), a $245 million single bank holding company (as of December 31, 2015) headquartered in Ronceverte, West Virginia jointly announced that they had entered into a definitive agreement of merger.  Under terms of the definitive agreement of merger, each share of Bankshares common stock was entitled to merger consideration of 1.859 shares of Premier common stock.  Premier issued approximately 1,550,000 shares of its common stock to the shareholders of Bankshares valued at approximately $22.0 million.  See Note 2 to the consolidated financial statements for additional details on the acquisition of Bankshares.
+
+Effective with the close of business on March 4, 2016, Premier merged its newly acquired wholly owned subsidiary First National Bank ("First National"), a wholly owned subsidiary of Bankshares, with and into its wholly owned subsidiary Premier Bank, Inc.  The resulting merger expanded Premier Bank's footprint into the Greenbrier Valley of West Virginia and into Covington, Virginia along Interstate 64 with six branch locations.
+
+Premier elected to become a financial holding company effective October 5, 2017.  For further information on financial holding companies see Regulatory Matters - Gramm-Leach-Bliley Act below.
+
+- 7 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Recent Corporate Developments
+
+On December 29, 2017, Citizens Deposit entered into an agreement to purchase a branch building located in Huntington, West Virginia in an effort to open a de novo branch in that market along the Ohio River in the second quarter of 2018.
+
+- 8 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+BUSINESS
+
+General
+
+Through the Banks the Company focuses on providing quality community banking services to individuals and small-to-medium sized businesses. By seeking to provide such banking services in non-urban areas, the Company believes that it can minimize the competitive effect of larger financial institutions that typically are focused on large metropolitan areas. Where the Company owns branches in urban areas, such as the Washington, DC Metro Area, Richmond, Virginia and the Cincinnati, Ohio Metro Area, the Company believes the nimble nature of its operations and local decision making process allow it to compete effectively with larger financial institutions.  Each Bank retains its local management structure which offers customers direct access to the Bank's president or regional president and other officers in an environment conducive to friendly, informed and courteous service. This approach also enables each Bank to offer local and timely decision-making, flexible and reasonable operating procedures and credit policies limited only by a framework of centralized risk controls provided by the Company to promote prudent banking practices. See additional discussion under "Regulatory Matters" below.
+
+Each Bank maintains its community orientation by, among other things, having selected members of its community as members of its board of directors, who assist in the introduction of prospective customers to the Bank and in the development or modification of products and services to meet customer needs. As a result of the development of personal banking relationships with its customers and the convenience and service offered by the Banks, the Banks' lending and investing activities are funded primarily by core deposits.
+
+When appropriate and economically advantageous, the Company centralizes certain of the Banks' back office, support and investment functions in order to achieve consistency and cost efficiency in the delivery of products and services. The Company centrally provides services such as accounting, loan review, information technology operations and network support, human resources, compliance and internal auditing to the Banks to enhance their ability to compete effectively. The Company also provides overall direction in the areas of credit policy and administration, strategic planning, marketing, investment portfolio management, and other financial and administrative services. Each Bank participates in product development by advising management of new products and services needed by its customers and desirable changes to existing products and services.  Company senior management along with each Bank's management periodically review and standardize their offering of products and services, although pricing decisions remain at the local level.
+
+The Company utilizes an external third party provider for its core data processing systems.  As a result, the Company through the Banks is able offer more modern products, such as internet banking, mobile banking and check imaging, and is able to take advantage of emerging technologies such as image exchange to remit and clear items with its exchange agents. With the conversion to FIS in 2011, all of these benefits remained plus the Company has integrated its automated teller machine network, improved its management reporting systems, adopted an integrated image-based document storage system, and offers mobile banking via smart phones and other hand held computing devices.
+
+- 9 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Each of the Banks provides a wide range of retail and commercial banking services, including commercial, real estate, agricultural and consumer lending; depository and funds transfer services; collections; safe deposit boxes; cash management services; and other services tailored for both individuals and businesses.
+
+The Banks' residential mortgage lending activities consist primarily of loans for purchasing personal residences or loans for commercial or consumer purposes secured by residential mortgages.  The Banks typically only retain mortgage loans with variable interest rate terms due to the longer amortization periods associated with mortgage lending.  For customers who desire fixed rate mortgage terms, the Banks take customer applications for a third party mortgage vendor, and in turn receive a commission for their services.  The Banks' mortgage originators are salaried employees who do not receive a commission or other incentive compensation for the number or type of mortgages they originate.  Consumer lending activities consist of traditional forms of financing for automobile and personal loans including unsecured lines of credit. Commercial lending activities include loans to small to medium-sized businesses located primarily in the communities in which the Banks have branch locations and surrounding areas. Commercial loans are generally secured by business assets including real estate, equipment, inventory, and accounts receivable. Some commercial loans are unsecured.    The branches located in larger metro areas, such as Washington DC, Richmond Virginia and Cincinnati Ohio, also offer opportunities for larger commercial and commercial real estate loans.  These opportunities are subject to Premier's strict credit underwriting policies and procedures.
+
+The Banks' range of deposit services includes checking accounts, NOW accounts, savings accounts, money market accounts, club accounts, individual retirement accounts, certificates of deposit and overdraft protection. Customers can access their accounts via traditional bank branch locations as well as Automated Teller Machines (ATM's) and the internet either via personal computers or mobile computing devices such as smart phones.  The Banks also offer bill payment, remote deposits via image capture devices and mobile computing devices, and telephone banking services.  Deposits of the Banks are insured by the Deposit Insurance Fund administered by the FDIC to the maximum amounts offered by the FDIC.
+
+- 10 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Competition
+
+The Banks encounter strong competition both in making loans and attracting deposits. The widespread enactment of state laws that permit multi-bank holding companies as well as the availability of nationwide interstate banking and internet banking have created a highly competitive environment for financial services providers. In one or more aspects of its business, each Bank competes with other commercial banks, savings and loan associations, credit unions, finance companies, electronic payment facilitators, software companies, mutual funds, insurance companies, brokerage and investment banking companies and other financial intermediaries operating in its market and elsewhere, many of which have substantially greater financial and managerial resources. While the Banks are smaller financial institutions by comparison, each of the Banks' competitors include large bank holding companies having substantially greater resources and offering certain services that the Affiliate Banks may not currently provide. Each Bank seeks to minimize the competitive effect of larger organizations through a community banking approach that emphasizes direct customer access to the Bank's regional presidents and other officers in an environment conducive to friendly, informed and courteous service.  Furthermore, via the Company's credit administration department, the Banks can also minimize the competitive effects of larger organizations by tailoring their lending criteria to the individual circumstances of the small-to-medium sized business owner.
+
+Management believes that each Bank is positioned to compete successfully in its respective primary market area, although no assurances as to ongoing competitiveness can be given. Competition among financial institutions is based upon interest rates offered on deposit accounts, service charges on deposit accounts for various services related to customer convenience, interest rates charged on loans and other credit, the quality and scope of the services rendered, the convenience of the banking facilities and, in the case of loans to commercial borrowers, relative lending limits. Management believes that the commitment of its Banks to personal service, innovation and involvement in their respective communities and primary market areas, as well as their commitment to quality community banking service, are factors that contribute to their competitiveness.
+
+Regulatory Matters
+
+The following discussion sets forth certain elements of the regulatory framework applicable to financial holding companies, bank holding companies and their subsidiaries and provides certain specific information relevant to Premier. This regulatory framework is intended primarily for the protection of depositors and the federal deposit insurance funds and not for the protection of the holders of securities, including Premier's common shares. To the extent that the following information describes statutory or regulatory provisions, it is qualified in its entirety by reference to those provisions. A change in the statutes, regulations or regulatory policies applicable to Premier or its subsidiaries may have a material effect on the business of Premier.
+
+- 11 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+General - As a bank holding company and financial holding company, Premier is subject to regulation under the Bank Holding Company Act ("BHC Act"), and to inspection, examination and supervision by the Board of Governors of the Federal Reserve System ("Federal Reserve"). Under the BHC Act, bank holding companies generally may not acquire ownership or control of more than 5% of the voting shares or substantially all the assets of any company, including a bank, without the Federal Reserve's prior approval. Similarly, bank holding companies generally may not acquire ownership or control of a savings association without the prior approval of the Federal Reserve. Further, branching by the Affiliate Banks is subject to the jurisdiction, and requires the approval of each Affiliate Bank's primary federal banking regulator and, if the Affiliate Bank is a state-chartered bank, the appropriate state banking regulator.
+
+Under the BHC Act, the Federal Reserve has the authority to require a bank holding company to terminate any activity or relinquish control of the nonbank subsidiary (other than a nonbank subsidiary of a bank) upon the Federal Reserve's determination that such activity or control constitutes a risk to the financial soundness and stability of any bank subsidiary of the bank holding company. Premier and the Affiliate Banks are subject to the Federal Reserve Act, which limits borrowings by Premier (and any nonbank subsidiaries) from the Affiliate Banks and also limits various other transactions between Premier (and any nonbank subsidiaries) and the Affiliate Banks.
+
+Citizens Deposit Bank and Trust, Inc. is chartered in Kentucky and supervised, regulated and examined by the Kentucky Department of Financial Institutions.  Premier Bank, Inc. is chartered in West Virginia and supervised, regulated and examined by the West Virginia Division of Financial Institutions.  In addition, the Affiliate Banks are supervised and regulated by the Federal Deposit Insurance Corporation ("FDIC"). Each banking regulator has the authority to issue cease-and-desist orders if it determines that the activities of a bank regularly represent an unsafe and unsound banking practice or a violation of law.
+
+Both federal and state law extensively regulates various aspects of the banking business, such as loan loss reserve and capital requirements, truth-in-lending and truth-in-savings disclosure, mortgage origination disclosures and ability to repay requirements, equal credit opportunity, fair credit reporting, trading in securities and other aspects of banking operations. Premier and the Affiliate Banks are also affected by the fiscal and monetary policies of the federal government and the Federal Reserve and by various other governmental laws, regulations and requirements. Further, the earnings of Premier and Affiliate Banks are affected by general economic conditions and prevailing interest rates. Legislation and administrative actions affecting the banking industry are frequently considered by the United States Congress, state legislatures and various regulatory agencies. It is not possible to predict with certainty whether such legislation or administrative actions will be enacted or the extent to which the banking industry, in general, or Premier and the Affiliate Banks, in particular, would be affected.
+
+- 12 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Liability for Bank Subsidiaries - The Federal Reserve has a policy to the effect that a bank holding company is expected to act as a source of financial and managerial strength to each of its subsidiary banks and to maintain resources adequate to support each such subsidiary bank.  This support may be required at times when Premier may not have the resources to provide it. In the event of a bank holding company's bankruptcy, any commitment by the bank holding company to a federal bank regulatory agency to maintain the capital of a subsidiary bank would be assumed by the bankruptcy trustee and entitled to priority of payment.
+
+Any depository institution insured by the FDIC may be held liable for any loss incurred, or reasonably expected to be incurred, by the FDIC in connection with (i) the default of a commonly controlled FDIC-insured depository institution, or (ii) any assistance provided by the FDIC to a commonly controlled FDIC-insured depository institution in danger of default. "Default" is defined generally as the appointment of a conservator or receiver and "in danger of default" is defined generally as the existence of certain conditions indicating that a "default" is likely to occur in the absence of regulatory assistance. In the event that such a default occurred with respect to a bank, any loans to the bank from its parent holding company will be subordinate in right of payment of the bank's depositors and certain of its other obligations.
+
+Capital Requirements - Premier is subject to capital ratios, requirements and guidelines imposed by the Federal Reserve, which are substantially similar to the ratios, requirements and guidelines imposed by the FDIC on the Banks. These capital requirements establish higher capital standards for banks and bank holding companies that assume greater credit risks. For this purpose, a bank's or holding company's assets and certain specified off-balance sheet commitments are assigned to risk categories, each weighted differently based on the level of credit risk that is ascribed to such assets or commitments. A bank's or holding company's capital is divided into two tiers: "Tier 1" capital and "Tier 2" capital. "Tier 1" capital includes common stockholders' equity, non-cumulative perpetual preferred stock, and related surplus (excluding auction rate issues), minority interests in equity accounts of consolidated subsidiaries plus cumulative perpetual preferred stock and Trust Preferred Securities both of which are subject to certain limitations. Goodwill, certain identifiable intangible assets and certain other assets are subtracted from these sources of capital to calculate Tier 1 capital. "Tier 2" capital includes, among other items, perpetual preferred stock not meeting the Tier 1 definition, mandatory convertible securities, subordinated debt and allowances for loan and lease losses, subject to certain limitations, less certain required deductions.  Effective January 1 2015, bank and bank holding company regulatory agencies adopted rules defining a subset of Tier 1 capital referred to as "Common Equity Tier 1" capital, or "CET1" capital, in accordance with the Basil III accord.  CET1 capital includes only the common stockholders' equity of the entity before deducting elements such as goodwill, certain identifiable intangible assets and certain other assets.  Prior to the acquisition of Bankshares, Premier's CET1 capital and Tier 1 capital were identical because all of Premier's Tier 1 capital was common shareholders' equity.  In conjunction with the acquisition of Bankshares on January 15, 2016, Premier assumed $6.0 million of Trust Preferred Securities held by Bankshares which are eligible for inclusion in Premier's Tier 1 capital but are excluded from its CET1 capital.
+
+- 13 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Bank holding companies currently are required to maintain CET1 capital, Tier I capital and total capital (the sum of Tier 1 and Tier 2 capital) equal to at least 4.5%, 6.0% and 8% of total risk-weighted assets, respectively. At December 31, 2017, Premier met all requirements, with CET1 capital equal to 13.9% of its total risk-weighted assets, Tier I capital equal to 14.4% of its total risk-weighted assets and total capital equal to 15.6% of its total risk-weighted assets.  Prior to 2015, the minimum Tier I capital to total risk-weighted assets ratio was 4.0%.
+
+In addition to the risk-based capital guidelines, the Federal Reserve requires bank holding companies to maintain a minimum "leverage ratio" (Tier 1 capital to adjusted total assets) of 3%, if the holding company has the highest regulatory ratings for risk-based capital purposes. All other bank holding companies are required to maintain a leverage ratio of 3% plus at least 100 to 200 basis points. At December 31, 2017, Premier's leverage ratio was 10.7%.
+
+The foregoing capital requirements are minimum requirements. The Federal Reserve may set capital requirements higher than the minimums described above for holding companies whose circumstances warrant it. For example, holding companies experiencing or anticipating significant growth may be expected to maintain capital ratios, including tangible capital positions, well above the minimum levels.
+
+Additionally, the Federal Deposit Insurance Corporation Improvement Act of 1991 ("FDICIA"), among other things, identifies five capital categories for insured depository institutions (well capitalized, adequately capitalized, undercapitalized, significantly undercapitalized and critically undercapitalized) and requires the respective federal regulatory agencies to implement systems for "prompt corrective action" for insured depository institutions that do not meet minimum capital requirements within such categories. FDICIA imposes progressively more restrictive constraints on operations, management and capital distributions, depending on the category in which an institution is classified. Failure to meet the capital guidelines could also subject a banking institution to capital raising requirements.
+
+An "undercapitalized" bank must develop a capital restoration plan and its parent holding company must guarantee the bank's compliance with the plan. The liability of the parent holding company under any such guarantee is limited to the lesser of 5% of the Bank's assets at the time it became "undercapitalized" or the amount needed to comply with the plan.  Furthermore, in the event of the bankruptcy of the parent holding company, such guarantee would take priority over the parent's general unsecured creditors. In addition, FDICIA requires the various regulatory agencies to prescribe certain non-capital standards for safety and executive compensation and permits regulatory action against a financial institution that does not meet such standards.
+
+- 14 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+New Capital Requirements and Phase-in of Capital Buffer – Beginning on January 1, 2015, the standard for minimum regulatory Tier 1 risk-based capital ratio the Banks must maintain in order to be considered well capitalized under the regulatory framework for prompt corrective action increased from 6.00% to 8.00%.  As shown in the table in Note 21 to the consolidated financial statements regarding stockholders' equity, the Tier 1 risk-based capital ratios of the banks at December 31, 2017 and December 31, 2016 exceed the new standard.  Also beginning on January 1, 2015, a new measure of capital adequacy has been added for the Banks to be considered well capitalized.  The Common Equity Tier 1 Risk-based Capital Ratio, or CET1 Ratio, restricts the capital to be included in the ratio to common stockholders' equity and requires a minimum ratio of 6.50% of risk-weighted assets for a bank to be considered well capitalized under the regulatory framework for prompt corrective action.  The equity of both of Premier's subsidiary banks are already 100% common stockholders' equity and therefore there was no adverse impact from the implementation of the new capital ratio.
+
+Beginning on January 1, 2016 an additional capital conservation buffer was added to the minimum regulatory capital ratios under the regulatory framework for prompt corrective action.  The capital conservation buffer is measured as a percentage of risk weighted assets and is being phased-in over the four year period from 2016 thru 2019.  When fully implemented in 2019, the capital conservation buffer will be 2.50% of risk weighted assets over and above the regulatory minimum capital ratios for Common Equity Tier 1 Capital (CET1) to risk weighted assets, Tier 1 Capital to risk weighted assets, and Total Capital to risk weighted assets.  The consequences of not meeting the capital conservation buffer thresholds include restrictions on the payment of dividends, restrictions on the payment of discretionary bonuses, and restrictions on the repurchasing of common shares by the Company.  As shown in the table in Note 21 to the consolidated financial statements regarding stockholders' equity, the capital ratios of the Affiliate Banks and the Company already exceed the new minimum capital ratios plus the fully phased-in 2.50% capital buffer requiring a CET1 Capital to risk weighted assets ratio of at least 7.00%, a Tier 1 Capital to risk weighted assets ratio of at least 8.50% and a Total Capital to risk weighted assets ratio of at least 10.50%.  The Company's capital conservation buffer at December 31, 2017 was 7.56% and at December 31, 2016 was 6.95%, both well in excess of the fully phased-in 2.50% required by January 1, 2019.
+
+Troubled Asset Relief Program ("TARP") – TARP was established under the authority granted by the Emergency Economic Stabilization Act of 2008 (the "EESA"), which appropriated $700 billion for the purpose of restoring liquidity and stability in the U.S. financial system.  EESA was amended by The American Recovery and Reinvestment Act of 2009 (the "ARRA") signed into law on February 17, 2009.  Under the TARP Capital Purchase Program, the U.S. Treasury made $250 billion of capital available to U.S. financial institutions in the form of senior preferred stock investments and a warrant entitling the U.S. Treasury to buy the participating institution's common stock with a market value equal to 15% of the senior preferred stock at the time of participation.
+
+- 15 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+In conjunction with the acquisition of Abigail Adams, Premier elected to participate in the TARP Capital Purchase Program and received $22,252,000 of new equity capital from the U.S. Treasury.  On October 2, 2009, Premier issued and sold to the U.S. Treasury (i) 22,252 of Premier's Fixed Rate Cumulative Perpetual Preferred Shares, Series A, each without par value and having a liquidation preference of $1,000 per share (the "Series A Preferred Shares"), and (ii) a ten-year warrant (the "Warrant") to purchase 691,446 (historically, 628,588 as adjusted for the 10% stock dividend) Premier common shares, each without par value (the "Common Shares"), at an exercise price of $4.83 per share (historically $5.31 per share) (subject to certain anti-dilution and other adjustments), for an aggregate purchase price of $22,252,000 in cash.  This issuance and sale was a private placement exempt from the registration requirements of the Securities Act of 1933, as amended, pursuant to Section 4(2) thereof.
+
+On July 9, 2012, the U.S. Treasury announced its intent to sell its investment in Premier's Series A Preferred Stock.  Using a modified Dutch auction methodology, the U.S. Treasury auctioned all of Premier's 22,252 Series A Preferred Stock.  Premier sought and obtained regulatory permission to participate in the auction and successfully bid to repurchase 10,252 shares of the 22,252 outstanding shares.  At the auction's closing price of $901.03 per share, Premier was able to preserve approximately $1.0 million of capital versus redeeming the Series A Preferred Stock at the liquidation preference of $1,000 per share.  The auction concluded on August 10, 2012 with the remaining 12,000 shares of Premier's Series A Preferred Stock purchased by private investors.  During 2014 Premier sought and obtained regulatory permission on two separate occasions to redeem the remaining Series A Preferred Stock.  On September 26, 2014, Premier redeemed 7,000 of the 12,000 outstanding shares at the $1,000.00 per share face value.  On November 14, 2014, Premier redeemed the final 5,000 outstanding shares at the $1,000.00 per share face value.  Each redemption also included payment for any accrued dividends due through the redemption date.
+
+Under terms of the Warrant, the exercise price and the number of shares that could be purchased were adjusted based upon certain events including common stock dividends paid to shareholders that exceeded the $0.10 per share regular quarterly dividend paid by Premier at the time the Warrant was issued.  Due to dividends paid in 2015 and 2014 that were either special cash dividends or dividends that exceeded the $0.10 regular quarterly cash dividend per share defined in the terms of the Warrant, the Warrant was adjusted to permit the purchase of 700,016 (historically 636,378) shares of the Company's common stock at an exercise price of $4.77 (historically $5.25) per share.  On May 6, 2015, Premier purchased the Warrant from the U.S. Treasury for $5,675,000.  The purchase reduced stockholders' equity and regulatory capital by the $5,675,000 purchase price but also reduced the dilutive effect of potential additional common shares.
+
+Dividend Restrictions - Premier is dependent on dividends from its Affiliate Banks for its revenues. Various federal and state regulatory provisions limit the amount of dividends the Affiliate Banks can pay to Premier without regulatory approval. At December 31, 2017, approximately $7.7 million of the total stockholders' equity of the Affiliate Banks was available for payment of dividends to Premier without approval by the applicable regulatory authority.
+
+- 16 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+In addition, federal bank regulatory authorities have authority to prohibit Premier's Affiliate Banks from engaging in an unsafe or unsound practice in conducting their business. The payment of dividends, depending upon the financial condition of the bank in question, could be deemed to constitute such an unsafe or unsound practice. The ability of the Affiliate Banks to pay dividends in the future is presently, and could be further, influenced by bank regulatory policies and capital guidelines as well as each Affiliate Bank's earnings and financial condition.  Additional information regarding dividend limitations can be found in Note 21 of the consolidated financial statements.
+
+Interstate Banking - Under the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994 (the "Riegle-Neal Act"), subject to certain concentration limits, (i) bank holding companies, such as Premier, are permitted to acquire banks and bank holding companies located in any state of the United States, subject to certain restrictions, and (ii) banks are permitted to acquire branch offices outside their home state by merging with out-of-state banks, purchasing branches in other states or establishing de novo branch offices in other states; provided that, in the case of any such purchase or opening of individual branches, the host state has adopted legislation "opting in" to the relevant provisions of the Riegle-Neal Act; and provided further, that, in the case of a merger with a bank located in another state, the host state has not adopted legislation "opting out" of the relevant provisions of the Riegle-Neal Act.
+
+Gramm-Leach-Bliley Act - On November 12, 1999, the Gramm-Leach-Bliley Act (the "Act") was signed into law, eliminating many of the remaining barriers to full convergence of the banking, securities, and insurance industries. The major provisions of the Act took effect March 12, 2000.
+
+The Act enables a broad-scale consolidation among banks, securities firms, and insurance companies by creating a new type of financial services company called a "financial holding company," a bank holding company with dramatically expanded powers. Financial holding companies can offer virtually any type of financial service, including banking, securities underwriting, insurance (both agency and underwriting), and merchant banking. In addition, the Act permits the Federal Reserve and the Treasury Department to authorize additional activities for financial holding companies, but only if they jointly determine that such activities are "financial in nature" or "complementary to financial activities."
+
+The Federal Reserve serves as the primary "umbrella" regulator of financial holding companies, with jurisdiction over the parent company and more limited oversight over its subsidiaries. The primary regulator of each subsidiary of a financial holding company depends on the activities conducted by the subsidiary. A financial holding company need not obtain Federal Reserve approval prior to engaging, either de novo or through acquisitions, in financial activities previously determined to be permissible by the Federal Reserve. Instead, a financial holding company need only provide notice to the Federal Reserve within 30 days after commencing the new activity or consummating the acquisition.
+
+- 17 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Dodd-Frank Act - On July 21, 2010, the Dodd-Frank Wall Street Reform and Consumer Protection Act (the "Dodd-Frank Act") was signed into law, which implements far-reaching changes across the financial regulatory landscape, including provisions that, among other things:
+
+- 18 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Some aspects of the Dodd-Frank Act are still subject to future rulemaking and will take effect over several years, making it difficult to anticipate the overall financial impact on Premier, its customers or the financial services industry as a whole.  In many cases, regulatory or other governmental agencies already have taken action to comply with the Dodd-Frank Act's mandates, and may take further action to comply with or modify the Dodd-Frank Act's mandates.
+
+Number of Employees
+
+The Company and its subsidiaries collectively had approximately 354 full-time equivalent employees as of December 31, 2017.  Its executive offices are located at 2883 5th Avenue, Huntington, West Virginia 25702, telephone number (304) 525-1600 (facsimile number (304) 525-9701).
+
+- 19 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Item 1A.  Risk Factors
+
+Like all financial companies, the Company's business and results of operations are subject to a number of risks, many of which are outside of the Company's control.  In addition to the other information in this report, readers should carefully consider that the following important factors, among others, could materially impact the Company's business and future results of operations.
+
+Changes in interest rates could negatively impact the Company's results of operations
+
+The earnings of Premier are primarily dependent on net interest income, which is the difference between interest earned on loans and investments, and interest paid on interest-bearing liabilities such as deposits and borrowings. Interest rates are highly sensitive to many factors, including government monetary and fiscal policies; domestic and international economic and political conditions; and, in particular, changes in the discount rate by the Board of Governors of the Federal Reserve System. Conditions such as inflation, recession, unemployment, money supply, government borrowing and other factors beyond management's control may also affect interest rates. If Premier's interest-earning assets mature, reprice or prepay more quickly than interest-bearing liabilities in a given period, a decrease in market interest rates could adversely affect net interest income. Likewise, if interest-bearing liabilities mature or reprice, or, in the case of deposits, are withdrawn by the accountholder more quickly than interest-earning assets in a given period, an increase in market interest rates could adversely affect net interest income. Given Premier's current mix of assets and liabilities, a rising interest rate environment would have a positive impact on Premier's results of operations, because the Company has more interest bearing assets than interest bearing liabilities and the interest bearing assets will likely reprice at higher rates more quickly than interest-bearing liabilities.
+
+Fixed rate loans (and adjustable rate loans that include a fixed rate for a specified period of time) increase Premier's exposure to interest rate risk in a rising rate environment because interest-bearing liabilities would be subject to repricing before assets become subject to repricing.  Adjustable rate loans decrease the risks to a lender associated with changes in interest rates but involve other risks.  As interest rates rise, the periodic payment by the borrower rises to the extent permitted by the terms of the loan, and the increased periodic payment increases the potential for default.  At the same time, for secured loans, the marketability of the underlying collateral may be adversely affected by higher interest rates. In a declining interest rate environment, there is likely to be an increase in prepayment activity on loans as the borrowers refinance their loans at lower interest rates. Under these circumstances, Premier's results of operations could be negatively impacted.  Adjustable rate loans that have an interest rate floor feature will exhibit the same characteristics as a fixed rate loan during the period market interest rates are below the floor.  During this time and until the time market interest rates rise above the floor, Premier's exposure to interest rate risk in a rising rate environment is increased because interest-bearing liabilities would be subject to repricing without a change in the interest rate on adjustable rate loans.
+
+- 20 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Changes in interest rates also can affect the value of loans, investments and other interest-rate sensitive assets and Premier's ability to realize gains on the sale or resolution of assets. This type of income can vary significantly from quarter to quarter and year to year based on a number of different factors, including the interest rate environment. An increase in interest rates that adversely affects the ability of borrowers to pay the principal or interest on loans may lead to an increase in non-performing assets and increased loan loss reserve requirements that could have a material adverse effect on Premier's results of operations.
+
+Regional economic changes in the Company's markets could adversely impact results from operations
+
+Like all banks, Premier is subject to the effects of any economic downturn, and in particular a significant decline in home values or reduced commercial development in Premier's markets could have a negative effect on results of operations. Premier's success depends primarily on the general economic conditions in the counties in which Premier conducts business, and in the West Virginia; southern Ohio; northern Kentucky; northern, western and south central Virginia, and the metro Washington, DC, Richmond, Virginia and Cincinnati, Ohio areas in general. Unlike larger banks that are more geographically diversified, Premier provides banking and financial services to customers primarily in the West Virginia counties of Barbour, Boone, Braxton, Calhoun, Clay, Doddridge, Gilmer, Greenbrier, Harrison, Jackson, Kanawha, Lewis, Lincoln, Logan, Monongalia, Roane, Taylor, Upshur, Webster, Wirt and Wood; the southern Ohio counties of Adams, Brown, Gallia, Lawrence and Scioto; the northern Kentucky counties of Boone, Campbell and Kenton in the Cincinnati, Ohio metro area; the Kentucky counties of Bracken, Fleming, Greenup, Henry, Lewis, Mason, Robertson and Shelby; the metro Washington DC area including the surrounding portions of northern Virginia and Maryland; the Richmond and Hampton metro areas of south central Virginia; and the Covington area of western Virginia. The local economic conditions in these market areas have a significant impact on Premier's ability to originate loans, the ability of the borrowers to repay these loans and the value of the collateral securing these loans. A decline in the general economic conditions caused by inflation or deflation, recession, government intervention or regulation, changes in energy and natural resource markets, international events, unemployment or other factors beyond Premier's control would affect these local economic conditions and could adversely affect Premier's financial condition and results of operations. Additionally, a significant decline in home values would likely lead to increased delinquencies and defaults in both the consumer home equity loan and residential real estate loan portfolios and result in increased losses in these portfolios.  Likewise, a significant decline in commercial real estate occupancy rates or values would likely lead to increased delinquencies and defaults in commercial real estate secured loans and result in increased losses in these portfolios.
+
+Premier targets its business lending and marketing strategy for loans to serve primarily the banking and financial services needs of small to medium size businesses.  These small to medium size businesses generally have fewer financial resources in terms of capital or borrowing capacity than larger entities.  If general economic conditions negatively impact these businesses, Premier's results of operations and financial condition may be adversely affected.
+
+- 21 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Extensive regulation and supervision
+
+Premier, primarily through the Affiliate Banks, is subject to extensive federal and state regulation and supervision. Banking regulations are primarily intended to protect depositors' funds, federal deposit insurance funds and the banking system as a whole, not shareholders. These regulations affect Premier's lending practices, capital structure, investment practices, dividend policy and growth, among other things. Premier is also subject to a number of federal laws, which, among other things, require it to lend to various sectors of the economy and population, maintain comprehensive programs relating to anti-money laundering and customer identification, maintain customer education programs to avoid excessive overdrafting, and establish and maintain comprehensive programs related to cybersecurity. Congress and federal regulatory agencies continually review banking laws, regulations and policies for possible changes. Changes to statutes, regulations or regulatory policies, including changes in interpretation or implementation of statutes, regulations or policies, could affect Premier in substantial and unpredictable ways. Such changes could subject Premier to additional costs, limit the types of financial services and products it may offer and/or increase the ability of non-banks to offer competing financial services and products, among other things. Failure to comply with laws, regulations or policies could result in sanctions by regulatory agencies, civil money penalties and/or reputation damage, along with corrective action plans required by regulatory agencies, any of which could have a material adverse effect on Premier's business, financial condition and results of operations.  Premier and certain of its Affiliate Banks have in the past been subject to such corrective action plans.  While Premier has policies and procedures designed to prevent any such violations, there can be no assurance that such violations will not occur.  See the "Regulatory Matters" section in Item 1, "Business".
+
+Changes in energy and natural resource markets may increase credit risk in the loan portfolio
+
+Premier's success and growth in lending in the central West Virginia market area depend primarily on the local general economy which has been driven in the past by federal government programs to develop technology infrastructure and more recently by the drilling for natural gas in the newly discovered Marcellus and Utica shale formations.  Furthermore, Premier's success in the southern West Virginia market depends, in large part, on the local general economy which has been driven by significant employment by coal and other natural resource based businesses. While Premier's direct credit risk exposure to such industries is minimal, the success or failure of these industries may have an indirect effect on the local economic conditions in the central and southern West Virginia market areas, either individually or collectively, thus having a significant impact on Premier's loans, the ability of the borrowers to repay these loans, and the value of the collateral securing these loans, each of which could negatively affect the financial results of its banking operations.
+
+- 22 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Concentration of commercial real estate and commercial business loans may increase credit risk in the loan portfolio
+
+Commercial real estate and commercial business loans generally expose a lender to greater risk of non-payment and loss than one- to four-family residential mortgage loans because repayment of the loans often depends on the successful business operations and the income stream of the commercial borrowers.  Such loans typically involve larger loan balances to single borrowers or groups of related borrowers compared to one- to four-family residential mortgage loans.  A significant decline in general economic conditions caused by inflation or deflation, recession, unemployment or other factors beyond Premier's control would impact these local economic conditions and could negatively affect the financial results of its banking operations.
+
+Premier's success in the metro Washington, D.C., Richmond, Virginia and Cincinnati, Ohio market areas depend primarily on the local general economic conditions in the area and lending to commercial customers.  While the sources of economic activity in these metro markets are diverse, commercial loans in these market areas are generally larger in size than in Premier's other markets due to various factors such as higher real estate values and larger business operations.  Also, many of the local borrowers have more than one commercial real estate or commercial business loan outstanding with Premier.  Consequently, an adverse development with respect to one loan or one credit relationship can expose Premier to a significantly greater risk of loss compared to an adverse development with respect to a one- to four-family residential mortgage loan. The local economic conditions in these metropolitan areas have a significant impact on its loans, the ability of the borrowers to repay these loans and the value of the collateral securing these loans and could negatively affect the financial results of Premier's banking operations.
+
+Allowance for loan losses may be insufficient
+
+Premier, through the Affiliate Banks, maintains an allowance for loan losses based on, among other things, national and regional economic conditions, historical loss experience, evaluations of potential losses on identified problem loans and delinquency trends.  Premier believes that its allowance for loan losses is maintained at a level adequate to absorb any probable incurred losses in its loan portfolio given the current information known to management.  These determinations are based upon estimates that are inherently subjective, and their accuracy depends on the outcome of future events.  Therefore, Premier cannot predict loan losses with certainty and ultimate losses may differ from current estimates.  Depending on changes in economic, operating and other conditions, including changes in interest rates, which are generally beyond its control, Premier's actual losses could exceed its current allowance estimates.  Premier's allowance may not be sufficient to cover all charge-offs in future periods.  If charge-offs exceed Premier's allowance, its earnings would decrease.  In addition, regulatory agencies review Premier's allowance for loan losses and may require additions to the allowance based upon their judgment about information available to them at the time of their examination.  A required increase in Premier's allowance for loan losses could reduce its earnings.
+
+- 23 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Dividend payments by subsidiaries to Premier and by Premier to its shareholders can be restricted.
+
+The Company's principal source of funds for dividend payments and its debt service obligations is dividends received from the subsidiary Banks.  Banking regulations limit the amount of dividends that may be paid without prior approval of regulatory agencies.  Under these regulations, the amount of dividends that may be paid in any calendar year is limited to the current year's net profits, as defined, combined with the retained net profits of the preceding two years, subject to the capital requirements and additional restrictions as discussed in Note 21 to the consolidated financial statements.  During 2018 the Banks could, without prior approval, declare dividends of approximately $7.7 million plus any 2018 net profits retained to the date of the dividend declaration.  Furthermore, one of the consequences of not meeting the newly implemented regulatory capital conservation buffer required of the Company and the subsidiary Banks includes restrictions on the payment of dividends.
+
+Premier is a separate and distinct legal entity from Premier's subsidiaries.  Premier receives nearly all of its revenue from dividends from its subsidiary banks, which are limited by federal banking laws and regulations.  These dividends also serve as the primary source of funds to pay dividends on Premier's common and preferred shares.  The inability of Premier's subsidiary banks to pay sufficient dividends to Premier could have a material adverse effect on its business.  Further discussion of Premier's ability to pay dividends can be found under the caption "Regulatory Matters – Dividend Restrictions" in Item 1 of this Form 10-K and Note 21 to the consolidated financial statements.
+
+Unauthorized disclosure of sensitive or confidential customer information and cyber-security breaches could severely harm the Company's reputation and have a negative effect on results of operations.
+
+In the normal course of business, the Affiliate Banks collect, process and retain sensitive and confidential customer information to both open deposit accounts and determine whether to approve a customer's request for a loan. Premier also relies upon a variety of computing platforms and networks over the internet for the purposes of data processing, communication and information exchange, including a variety of services provided by third-party vendors.  Despite the security measures in place, Premier's facilities and systems, and those of Premier's third-party service providers, may be vulnerable to security breaches, acts of vandalism, computer viruses, denial of service attacks, misplaced or lost data, programming and/or human errors or other similar events.  We are not able to anticipate or implement effective preventive measures against all security breaches of these types.  If information security is breached, information can be lost or misappropriated resulting in financial loss or costs to Premier or damages to others. Any security breach involving the misappropriation, loss or other unauthorized disclosure of confidential customer information, whether by Premier or by its vendors, could severely damage Premier's reputation, expose it to the risks of litigation and liability or disrupt the business operations of Premier which in turn, could have a material adverse effect on its financial condition and results of operations.
+
+- 24 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+The extended disruption of vital infrastructure could negatively impact the company's results of operations and financial condition
+
+Premier's operations depend upon, among other things, its technological and physical infrastructure, including its equipment, facilities and access to the worldwide web via the internet.  While disaster recovery procedures are in place, an extended disruption of its vital infrastructure by fire, power loss, natural disaster, telecommunications failure, computer hacking and viruses, denial of service attacks, terrorist activity or the domestic and foreign response to such activity, or other events outside of Premier's control, could have a material adverse impact either on the financial services industry as a whole, or on Premier's business, results of operations, and financial condition.
+
+Defaults by another larger financial institution could adversely affect financial markets generally.
+
+The commercial soundness of many financial institutions may be closely interrelated as a result of relationships between the institutions. As a result, concerns about, or a default or threatened default by, one institution could lead to significant market-wide liquidity and credit problems, losses or defaults by other institutions. This is sometimes referred to as "systemic risk".  Premier's business could be adversely affected directly by the default of another institution or if the financial services industry experiences significant market-wide liquidity and credit problems.
+
+New or revised tax, accounting and other laws, regulations, rules and standards could significantly impact strategic initiatives, results of operations and financial condition
+
+The financial services industry is highly regulated and laws and regulations may sometimes impose significant limitations on operations. These limitations, and sources of potential liability for the violation of such laws and regulations, are described under the heading "Business — Regulatory Matters" above.  These regulations, along with the existing tax and accounting laws, regulations, rules and standards, control the methods by which financial institutions conduct business; implement strategic initiatives, as well as past, present, and contemplated tax planning; and govern financial disclosures. These laws, regulations, rules, and standards are constantly evolving and may change significantly over time. The nature, extent, and timing of the adoption of significant new laws, regulations, rules or standards; changes in existing laws, regulations, rules or standards; or repeal of existing laws, regulations, rules or standards may have a material impact on Premier's results of operations and financial condition, the effects of which are impossible to predict at this time.
+
+- 25 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Loss of large checking and money market deposit customers could increase cost of funds and have a negative effect on results of operations
+
+Premier has a number of large deposit customers that maintain balances in checking, money market and repurchase agreement accounts at the Affiliate Banks. The ability to attract these types of deposits has a positive effect on Premier's net interest margin as they provide a relatively low cost of funds to Premier compared to certificates of deposits or borrowing advances. If these depositors were to withdraw these funds and the Affiliate Banks were not able to replace them with similar types of deposits, the cost of funds would increase and Premier's results of operation would be negatively impacted.
+
+Strong competition within the Company's market areas may limit profitability
+
+Premier faces significant competition both in attracting deposits and in the origination of loans. Mortgage bankers, commercial banks, credit unions and other savings institutions, which have offices in the market areas of the Affiliate Banks, have historically provided most of the competition for the Affiliate Banks for deposits; however, each Affiliate Bank also competes with financial institutions that operate through internet banking operations throughout the continental United States. In addition, and particularly in times of high interest rates, each Affiliate Bank faces additional and significant competition for funds from money market and mutual funds, securities firms, commercial banks, credit unions and other savings institutions located in the same communities and those that operate through internet banking operations throughout the continental United States. Many competitors have substantially greater financial and other resources than Premier and its Affiliate Banks. Moreover, credit unions do not pay federal or state income taxes and are subject to fewer regulatory constraints than community banks and as a result, they may enjoy a competitive advantage over Premier. The Affiliate Banks compete for loans principally on the basis of the interest rates and loan fees they charge, the types of loans they originate and the quality of services they provide to borrowers. This advantage places significant competitive pressure on the prices of loans and deposits.
+
+Claims and litigation pertaining to fiduciary responsibility
+
+From time to time, shareholders or customers may make claims and take legal action pertaining to Premier's and the Affiliate Banks' performance of their fiduciary responsibilities. Defending such claims can impose a material expense on Premier.  If such claims and legal actions are not resolved in a manner favorable to the Affiliate Banks they may result in financial liability and/or adversely affect the market perception of the Affiliate Banks and their products and services as well as impact customer demand for those products and services. Any financial liability or reputation damage could have a material adverse effect on Premier's business, which, in turn, could have a material adverse effect on its financial condition and results of operations
+
+- 26 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Inability to hire and retain qualified employees
+
+Premier's performance is largely dependent on the talents and efforts of highly skilled individuals and their ability to attract and retain customer relationships in a community bank environment. There is intense competition in the financial services industry for qualified employees. In addition, Premier faces increasing competition with businesses outside the financial services industry for the most highly skilled individuals. Premier's business could be adversely affected if it were unable to retain and motivate its existing key employees and management team.  Furthermore, Premier's success may be impacted if it were unable to recruit replacement management and key employees in a reasonable amount of time.
+
+Integration of current and future acquisitions may be more difficult than anticipated
+
+The success of Premier's acquisition of Bankshares or any future acquisitions will depend on a number of factors, including (but not limited to) Premier's ability to:
+
+The Company's expenses will increase as a result of increases in FDIC insurance premiums.
+
+The Federal Deposit Insurance Corporation imposes an assessment against institutions for deposit insurance.  This assessment is based on the risk category of the institution and ranges from 1.5 to 40 basis points of the institution's assessment base.  The assessment base for banks similar to those owned by Premier is defined as the most recent quarterly average total assets of the bank less the quarterly average tangible equity of the bank.  Federal law requires that the designated reserve ratio for the deposit insurance fund to reach a minimum of 1.35% of estimated insured deposits by no later than September 30, 2020.  If the risk category of either of the Affiliate Banks deteriorates or if the minimum designated reserve ratio is deemed to not be on target to meet the minimum by September 30, 2020, the Affiliate Banks' FDIC insurance premiums could increase.
+
+- 27 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Additional capital may not be available when needed or required by regulatory authorities
+
+Premier and the Affiliate Banks are required by federal and state regulatory authorities to maintain adequate levels of capital to support its operations. In addition, Premier may elect to raise additional capital to support its business or to finance acquisitions, if any, or it may otherwise elect or be required to raise additional capital.  Premier's ability to raise additional capital, if needed, will depend on conditions in the capital markets, economic conditions and a number of other factors, many of which are outside Premier's control and its financial performance. Accordingly, Premier may not be able to raise additional capital if needed or on acceptable terms. If Premier cannot raise additional capital when needed, it may have a material adverse effect on its financial condition, results of operations and prospects.
+
+Market volatility may adversely affect market price of common stock or investment security values
+
+The capital and credit markets have experienced volatility and disruption in the past and for periods lasting more than a year.  In some cases, the markets have produced downward pressure on stock prices and credit availability for certain issuers seemingly without regard to those issuers' underlying financial strength.  Market volatility could contribute to the decline in the market value of certain security investments and other assets of Premier.  If market disruption and volatility should occur, continue or worsen, Premier may experience an adverse effect, which may be material, on results of operations, capital or financial position.
+
+Issuance of preferred shares would impact net income available to common stockholders
+
+Additional capital Premier may raise through the issuance of preferred stock may decrease net income available to common stockholders.  Dividends declared and the accretion of any discount on the issuance of preferred shares reduces the net income available to Premier's common shareholders and earnings per common share.  Preferred shares also receive preferential treatment in the event of Premier's liquidation, dissolution or winding up of its operations.
+
+Future issuances of common shares or other securities may dilute the value of outstanding common shares, which may also adversely affect their market price
+
+In many situations, Premier's Board of Directors has the authority, without any vote of its shareholders, to issue shares of authorized but unissued securities, including common shares, authorized and unissued shares under Premier's stock option plans and shares of Premier's preferred stock. In the future, Premier may issue additional securities, through public or private offerings, in order to raise additional capital, complete acquisitions, or compensate key employees. Any such issuance would dilute the percentage of ownership interest of existing shareholders and may dilute the per share value of the common stock.
+
+- 28 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+If a subsidiary bank's current capital ratios decline below the regulatory threshold for an "adequately capitalized" institution, the bank will be considered "undercapitalized" which may have a material and adverse effect on Premier.
+
+The Federal Deposit Insurance Act (FDIA) requires each federal banking agency to take prompt corrective action with respect to banks that do not meet the minimum capital requirements. Once a bank becomes undercapitalized, it is subject to various requirements and restrictions, including a prohibition of the payment of capital distributions and management fees, restrictions on growth of the bank's assets, and a requirement for prior regulatory approval of certain expansion proposals. In addition, an undercapitalized bank must file a capital restoration plan with its principal federal regulator. Furthermore, one of the consequences of not meeting the newly implemented regulatory capital conservation buffer required of the Company and the subsidiary Banks includes restrictions on the payment of dividends.
+
+If an undercapitalized bank fails in any material aspect to implement a plan approved by its regulator, the agency may impose additional restrictions on the bank. These include, among others, requiring the recapitalization or sale of the bank, restrictions with affiliates, and limiting the interest rates the bank may pay on deposits. Further, even after the bank has attained adequately capitalized status, the appropriate federal agency may, if it determines, after notice and hearing, that the bank is in an unsafe or unsound condition or has not corrected a deficiency from its most recent examination, treat the bank as if it were undercapitalized and subject the bank to the regulatory restrictions of such lower classification.
+
+In addition to measures taken under the prompt corrective action provisions with respect to undercapitalized institutions, insured banks and their holding companies may be subject to potential enforcement actions by their regulators for unsafe and unsound practices in conducting their business or the violations of law or regulation, including the filing of false or misleading regulatory reports. Enforcement actions under this authority may include the issuance of cease and desist orders, the imposition of civil money penalties, the issuance of directives to increase capital, formal and informal agreements, or the removal and prohibition orders against "institution-affiliates parties". Further, the Federal Reserve may bring an enforcement action against the bank holding company either to address the undercapitalization in the holding company or to require the holding company to implement measures to remediate undercapitalization in a subsidiary.
+
+Item 1B.  Unresolved Staff Comments
+
+None.
+
+- 29 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Item 2.  Properties
+
+The Company leases its principal executive offices located in Huntington, West Virginia. Except as noted, each of the Banks owns the real property and improvements on which their banking activities are conducted.
+
+Premier Bank, in addition to its main office at 2883 5th Avenue in Huntington, West Virginia has branches at the following locations (including those added via the First National Bank merger):
+
+- 30 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Item 2.  Properties – (continued)
+
+Premier Bank also leases loan production offices at the following locations:
+
+Citizens Deposit Bank & Trust, in addition to its main office at 10 Second Street in Vanceburg, Kentucky, has branches at the following locations:
+
+Item 3.  Legal Proceedings
+
+The Banks are parties to legal actions that are ordinary routine litigation incidental to a commercial banking business. In management's opinion, the outcome of these matters, individually or in the aggregate, will not have a material adverse impact on the results of operations or financial position of the Company.
+
+Item 4.  Mine Safety Disclosures
+
+Not Applicable
+
+- 31 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+PART II
+
+Item 5.  Market for Registrant's Common Equity, Related Stockholder Matters and
+
+Issuer Purchase of Equity Securities
+
+The Company's common stock is listed on the Nasdaq Global Market System under the symbol PFBI. At December 31, 2017, the Company had approximately 1,628 shareholders of record of its common shares.
+
+ The following table sets forth on a quarterly basis cash dividends paid and the range of high and low sales prices on a per share basis during the quarters indicated.
+
+The payment of dividends by the Company depends upon the ability of the Banks to declare and pay dividends to the Company because the principal source of the Company's revenue will be dividends paid by the Banks.  At December 31, 2017 approximately $7.7 million was available for payment as dividends from the Banks to the Company without the need for regulatory approval. In considering the payment of dividends, the Board of Directors will take into account the Company's financial condition, results of operations, tax considerations, costs of expansion, industry standards, economic conditions and need for funds, as well as governmental policies and regulations applicable to the Company and the Banks. See "REGULATORY MATTERS - Capital Requirements" for discussion on capital guidelines.
+
+- 32 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Stock Performance Graph
+
+The following Stock Performance Graph and related information shall not be deemed "soliciting material" or to be "filed" with the Securities and Exchange Commission, nor shall such information be incorporated by reference into any future filing under the Securities Act of 1933 or Securities Exchange Act of 1934, each as amended, except to the extent that Premier specifically incorporates it by reference into such filing.
+
+The following graph shows a comparison of cumulative total stockholder return on the Common Stock since December 31, 2012 with the cumulative total returns of both a broad equity market index and a published industry index.  The historical board equity market index chosen was the Russell 2000.  In 2016, Premier was added to the Russell 2000 index and a graph of the total return performance is included for comparison.  The published industry index chosen was the SNL ($1B-$5B) Bank Asset-Size Index.  The graph reflects historical performance only, which is not indicative of possible future performance of the Common Stock.
+
+Premier Financial Bancorp, Inc.
+
+  Source:  S&P Global Market Intelligence © 2017
+
+- 33 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Equity Compensation Plan Information
+
+The following table gives information about the Company's common stock that may be issued upon the exercise of options, warrants and rights under its equity compensation plans: the 2002 Stock Option Plan and the 2012 Long-term Incentive Plan, as of December 31, 2017.
+
+- 34 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+FORM 10-K
+
+December 31, 2017
+
+Item 6.  Selected Financial Data
+
+The following table presents consolidated selected financial data for the Company. It does not purport to be complete and is qualified in its entirety by more detailed financial information and the audited consolidated financial statements contained elsewhere in this annual report.
+
+- 35 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+
+of Operations.
+
+INTRODUCTION
+
+Premier Financial Bancorp, Inc. ("Premier" or the "Company") is a financial holding company headquartered in Huntington, West Virginia.  It operates two community bank subsidiaries, Premier Bank, Inc. ("Premier Bank"), an $1.064 billion bank headquartered in Huntington, West Virginia, and Citizens Deposit Bank and Trust ("Citizens"), a $423 million bank headquartered in Vanceburg, Kentucky, each with a local orientation. The banks operate in thirty-six communities within the states of West Virginia, Virginia, Ohio, Maryland and Kentucky plus the cities of Washington, DC and Richmond, Virginia.  Through these locations the banks provide their customers with a full range of banking services.  On April 4, 2014, Premier completed its purchase of the Bank of Gassaway ("Gassaway"), a $201.5 million bank headquartered in Gassaway, West Virginia with branch offices located in Sutton, Burnsville, Clay and Flatwoods, West Virginia.  On January 16, 2016, Premier completed its purchase of First National Bankshares Corporation ("Bankshares"), a $237.3 million single bank holding company headquartered in Ronceverte, West Virginia.  Bankshares owned First National Bank ("First National") which operated six branch offices located in Ronceverte, Lewisburg, and White Sulphur Springs, West Virginia and Covington and Hot Springs, Virginia.  First National was merged into Premier Bank, Inc. on March 4, 2016.  As of December 31, 2017, Premier had approximately $1.493 billion in total assets, $1.049 billion in total loans, $1.273 billion in total deposits and $23.3 million in customer repurchase agreements.
+
+The accompanying consolidated financial statements have been prepared by the management of Premier in conformity with accounting principles generally accepted in the United States of America. The audit committee of the Board of Directors engaged Crowe Horwath LLP ("Crowe") as independent auditors to audit the consolidated financial statements, and their report is included elsewhere herein. Financial information appearing throughout this annual report is consistent with that reported in the consolidated financial statements. The following discussion is designed to assist readers of the consolidated financial statements in understanding significant changes in Premier's financial condition and results of operations.
+
+Management's objective of a fair presentation of financial information is achieved through a system of internal accounting controls. The financial control system of Premier is designed to provide reasonable assurance that assets are safeguarded from loss and that transactions are properly authorized and recorded in the financial records. As an integral part of that financial control system, the holding company employs a staff of internal auditors and contracts with professional consulting firms to perform internal audits of the financial records of each of the subsidiaries on a periodic basis.  The internal audit manager reports the findings and recommendations highlighted by the internal audits to Premier's audit committee as well as the audit committees of the subsidiaries.  In addition, the audit committee of the Board of Directors engages Crowe as independent auditors to render an opinion on management's assessment of the internal controls of the company.  The activities of both the internal and external audit functions are reviewed by the audit committee of the Board of Directors.
+
+- 36 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+Also, on a regular periodic basis, the subsidiary banks are examined by Federal and State banking authorities for safety and soundness as well as compliance with applicable banking laws and regulations. Their reports are issued to the Board of Directors of the bank under examination.
+
+FORWARD-LOOKING STATEMENTS
+
+Management's discussion and analysis contains forward-looking statements that are provided to assist in the understanding of anticipated future financial performance. However, such performance involves risks and uncertainties, and there are certain important factors that may cause actual results to differ materially from those anticipated. These important factors include, but are not limited to, economic conditions (both generally and more specifically in the markets in which Premier operates), competition for Premier's customers from other providers of financial services, government legislation and regulation (which changes from time to time), changes in interest rates, Premier's ability to originate quality loans, collect delinquent loans and attract and retain deposits, the impact of Premier's growth or lack thereof, Premier's ability to control costs, and new accounting pronouncements, all of which are difficult to predict and many of which are beyond the control of Premier.  The words "may," "could," "should," "would," "will," "believe," "anticipate," "estimate," "expect," "intend," "plan," "project," "predict," "continue" and similar expressions are intended to identify forward-looking statements.
+
+CRITICAL ACCOUNTING POLICIES
+
+General
+
+The financial condition and results of operations presented in the consolidated financial statements, accompanying notes to the consolidated financial statements and management's discussion and analysis are, to a large degree, dependent upon our accounting policies. The selection and application of these accounting policies involve judgments, estimates, and uncertainties that are susceptible to change.
+
+Presented below is a discussion of those accounting policies that management believes are the most important to the presentation and understanding of our financial condition and results of operations. These critical accounting policies require management's most difficult, subjective and complex judgments about matters that are inherently uncertain. In the event that different assumptions or conditions were to prevail, and depending upon the severity of such changes, the possibility of materially different financial condition or results of operations is a reasonable likelihood. See also Note 1 of the accompanying consolidated financial statements presented elsewhere in this annual report.
+
+- 37 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+Allowance for Loan Losses
+
+The Company monitors and maintains an allowance for loan losses to absorb an estimate of probable incurred losses inherent in the loan portfolio. Note 5 to the consolidated financial statements contains a significant level of analysis of the allowance for loan losses.  The Company maintains policies and procedures that address the systems of control over the following areas of maintenance of the allowance: the systematic methodology used to determine the appropriate level of the allowance to provide assurance that the allowance for loan losses is maintained in accordance with accounting principles generally accepted in the United States of America; the accounting policies for loan charge-offs and recoveries; the assessment and measurement of impairment in the loan portfolio; and the loan grading system.
+
+The Company evaluates various loans individually for impairment using accounting guidance issued by Financial Accounting Standards Board ("FASB"). Loans evaluated individually for impairment include non-performing loans, such as loans on non-accrual, loans past due 90 days or more, restructured loans and other loans selected by management including loans graded as substandard or doubtful by the Company's internal credit review process. The evaluations are based upon discounted expected cash flows or collateral valuations. If the evaluation shows that a loan is individually impaired, then a specific reserve is established for the amount of impairment.
+
+For loans without individual measures of impairment, the Company makes estimates of losses for groups of loans as required by accounting guidance. Loans are grouped by similar characteristics, including the type of loan, the assigned loan grade and the general collateral type. A loss rate reflecting the expected loss inherent in a group of loans is derived based upon estimates of default rates for a given loan grade, the predominant collateral type for the group and the terms of the loan. The resulting estimate of losses for groups of loans is adjusted for relevant environmental factors and other conditions of the portfolio of loans, including: borrower and industry concentrations; levels and trends in delinquencies, charge-offs and recoveries; changes in underwriting standards and risk selection; level of experience, ability and depth of lending management; and national and local economic conditions.
+
+The amount of estimated impairment for individually evaluated loans and groups of loans is added together for a total estimate of probable incurred loan losses. This estimate of losses is compared to the allowance for loan losses of the Company as of the evaluation date and, if the estimate of losses exceeds the allowance, an additional provision to the allowance would be made. If the estimate of losses is less than the allowance, the degree to which the allowance exceeds the estimate is evaluated to determine whether the allowance falls outside a range of estimates. If the estimate of losses were below the range of reasonable estimates, the allowance would be reduced by way of a credit to the provision for loan losses also known as a negative provision for loan losses. The Company recognizes the inherent imprecision in estimates of losses due to various uncertainties and variability related to the factors used, and therefore a reasonable range around the estimate of losses is derived and used to ascertain whether the allowance is too high. If different assumptions or conditions were to prevail and it is determined that the allowance is not adequate to absorb the new estimate of probable incurred losses, an additional provision for loan losses would be made, which amount may be material to the consolidated financial statements.
+
+- 38 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+Business Acquisitions and Impairment of Goodwill
+
+For acquisitions, Premier is required to record the assets acquired, including identified intangible assets, and the liabilities assumed at their fair value. These often involve estimates based on third-party valuations, such as appraisals, or internal valuations based on discounted cash flow analyses or other valuation techniques that may include estimates of attrition, inflation, asset growth rates or other relevant factors. In addition, the determination of the useful lives over which an intangible asset will be amortized is subjective.
+
+The loans acquired via the purchase of Gassaway on April 4, 2014 and the acquisition of Bankshares on January 15, 2016 were recorded on the books of Premier at their estimated fair value.  The estimate of fair value included factors for the measurement of credit risk, interest rate risk and re-salability in the most advantageous market for the loans in an orderly transaction between market participants.  These estimates required management's most difficult, subjective and complex judgments and are inherently uncertain.  Since the estimated fair value of these loans were believed to have accounted for the reasonably estimable credit risk in the loans, consistent with new accounting guidance for acquisitions after 2008, no allowance for loan losses for these loans was recorded by Premier at the date of acquisition.  However, in the event that different assumptions or conditions were to prevail due to uncertainties in the economy, the borrower's ability to repay or other factors, and depending upon the severity of such changes, the possibility of materially different financial condition or results of operations is a reasonable likelihood.
+
+Under accounting guidance issued by the FASB related to accounting for goodwill and other intangible assets, goodwill is evaluated at least annually to determine if the amount recorded on the Company's balance sheet is impaired.  If goodwill is determined to be impaired, the recorded amount would be reduced to estimated fair value by a charge to expense in the period in which impairment is determined. Impairment is evaluated in the aggregate for all of the Company's banking operations. Operating characteristics of the aggregate banking operations are derived and compared to a database of peer group banks that have been sold. Pricing valuation factors that are considered in estimating the fair value of the Company's aggregate banking operations include price-to-total assets, price-to-total book value, price-to-deposits and price-to-earnings. Unusual events that have impacted the operating characteristics of the Company's aggregate banking operations are considered to assess the likelihood of recurrence and adjustments to historical performance may be made. Changes in assumptions regarding the likelihood of unusual historical events recurring or the use of different pricing valuation factors could have a material impact on management's impairment analysis.
+
+- 39 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+SUMMARY FINANCIAL RESULTS
+
+Premier had net income of $14.819 million in 2017 compared to $12.174 million of net income in 2016 and $12.446 million of net income reported for 2015.  Net income increased in 2017 largely due to increases in net interest income and non-interest income complemented by a decrease in non-interest expense.  These positive results more than offset an increase in the provision for loan losses and an increase in income tax expense. Net income decreased in 2016 largely due to an increase in the provision for loan losses.  Otherwise, increases in net interest income and non-interest income more than offset an increase in non-interest expense, all largely from the newly acquired Bankshares operations, when compared to 2015.  Basic earnings per share were $1.39 in 2017 compared to $1.16 in 2016 and $1.38 in 2015.  The increase in earnings per share in 2017 was largely the result of the increase in net income.  The decrease in earnings per share in 2016 was largely the result of the issuance of 1.55 million shares of common stock in the acquisition of Bankshares without a corresponding increase in net income.  Similar to the trend in basic earnings per share, diluted earnings per share were $1.38 in 2017 compared to $1.15 in 2016 and $1.35 in 2015.
+
+The Analysis of Return on Assets and Equity table below comparatively illustrates the components of return on average assets ("ROA") and return on average common equity ("ROE") over the previous five years.  ROA measures how effectively Premier utilizes its assets to produce net income.  It also facilitates the analysis of earnings performance of different sized organizations.  Such analysis is particularly useful as Premier increases its operations via acquisition such as the purchase of Bankshares on January 16, 2016 and the purchase of Gassaway on April 4, 2014.  In 2014, with the acquisition of Gassaway on April 4, 2014, total assets increased to a total of $1.253 billion.  By the end of 2015 total assets declined slightly to $1.245 billion.  In 2016, with the acquisition of Bankshares on January 15, 2016, total assets increased to a total of $1.496 billion at December 31, 2016.  Similar to the trend in 2015, by the end of 2017 total assets declined slightly to $1.493 billion.  An increase in asset size will generally result in higher dollars of income earned and expenses incurred.  A detailed review of the components of ROA will help analyze Premier's performance without regard to changes in its size.
+
+Premier's net income in 2017 resulted in ROA of 0.99%, an increase from the 0.82% ROA in 2016 and the 0.98% ROA in 2015.  As shown in the following table, fully tax equivalent net interest income (as a percent of average earning assets) reached its highest level during the last five years in 2014 at 4.27%, slightly above the 4.26% net interest income earned in 2013.  In 2015, net interest income decreased to 4.15% of average earning assets as the yield on earning assets decreased by more than the decrease in the rate paid on interest bearing liabilities.  Similarly, in 2016 net interest income decreased further to 3.93% of average earnings assets as the yield on earning assets decreased by more than the decrease in the rate paid on interest bearing liabilities.  In 2017, net interest income increased to 4.18% of average earnings assets as changes in short-term interest rates and prime lending rates had a positive impact on yields earned on the investment portfolio, federal funds sold, interest-bearing bank balances and to some extent the loan portfolio. Going back to 2013, the low interest rate environment had a diminishing effect on both the yield on earning assets and the cost of interest bearing liabilities but resulted in relatively
+
+- 40 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+high net interest margin at 4.26%.  In 2014, the continuing low interest rate environment decreased the cost of interest bearing liabilities slightly more than the decrease in the yield on earning assets resulting in a slightly higher net interest margin at 4.27%.  In 2015 the continuing low interest rate environment and the strong competition for good quality loans resulted in a decrease in the yield on earning assets.  With only a minor decrease in the cost of interest bearing liabilities, the net interest margin in 2015 decreased to 4.15%.  In 2016, while short-term asset yields increased in response to the Federal Reserve Board of Governors' decision to increase the target federal funds rate by 25 basis points in mid-December 2015, overall yield on earning assets still decreased by 22 basis points largely due to the generally lower asset yields on the loans and investments acquired from Bankshares.  With only a minor decrease in the cost of interest bearing liabilities, the net interest margin in 2016 decreased to 3.93%.  Finally, in 2017, the cumulative effect of continuing increases in the target federal funds rate throughout 2016 and 2017 generally improved short-term earning asset yields as well as yields earned on investments and the loan portfolio.  The overall yield on earning assets increased by 23 basis points in 2017 while the cost of interest-bearing liabilities decreased by 1 basis point.  The result was an increase in the net interest margin in 2017 to 4.18%.
+
+As net interest income (as a percent of average earning assets) increased by 25 basis points in 2017 to 4.18% from the 3.93% reported in 2016, net credit income (as a percentage of average earning assets) also increased.  However, the increase was limited to 20 basis points due to a higher provision for loan losses recorded during the year.  Net credit income reduces the net interest income earned by the provision for loan losses recorded during the year.  In 2017, the provision for loan losses reduced the net interest margin by 0.18%, decreasing net credit income to 4.00%.  In 2016, the provision for loan losses reduced the net interest margin by 0.13%, decreasing net credit income to 3.80%.  In 2015, the provision for loan losses reduced the net interest margin by 0.03%, decreasing net credit income to 4.12%.  In 2014, the provision for loan losses reduced the net interest margin by 0.05%, decreasing net credit income to 4.22%.  Due to a negative provision for loan losses in 2013, net credit income was higher than the net interest margin by 0.04%, increasing net credit income to 4.30%, the highest level over the five year period presented in the table.
+
+To summarize the Company's earnings results over the past five years beginning in 2013, net interest income (as a percent of average earnings assets) remained near its highest level, reaching 4.26%.  However, in 2013, Premier's negative provision for loan losses added to net credit income.  The negative provision for loan losses increased net credit income as a percent of average earning assets to 4.30%, the highest level in the five year period presented.  Non-interest income (as a percent of average earning assets) was 0.61% in 2013, while non-interest expense (as a percent of average earning assets) was 3.02% in 2013.  Premier's applicable income taxes and tax equivalent adjustment serve to reduce net credit income.  Lastly, dividends and accretion accrued on Premier's Series A Preferred Stock outstanding at the time also served to reduce net income available to common shareholders and thus reduce Premier's ROA.   In 2013, preferred stock dividends and accretion totaled 0.06% as a percent of average earning assets. Adding to Premier's net income available to common shareholders in 2013 was 0.14% (as a percentage of average earning assets) of income realized on the call and sale of corporate issued securities held in the Company's investment portfolio during the year.  As illustrated in the table, the overall result was a 2013 return on average earning assets of 1.22% and a return on average total assets (ROA) of 1.13%, the highest level for both ratios over the five year period presented in the table.
+
+- 41 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+In 2014, net interest income (as a percent of average earnings assets) reached its highest level over the past five years at 4.27%.  However, in 2014, Premier's provision for loan losses (as a percent of average earning assets) reduced net credit income to 4.22% of average earning assets.  Non-interest income (as a percent of average earning assets) remained unchanged at 0.61% in 2014, as Premier's non-interest income grew in proportion to the increase in average earning assets largely as a result of the purchase of Gassaway in April 2014.  Similarly, non-interest expense (as a percent of average earning assets) remained relatively unchanged in 2014 when compared to 2013, increasing only slightly to 3.03% of average earning assets.  Again, the increase in non-interest expense was proportional to the increase in average earning assets, both of which were largely the result of the purchase of Gassaway, but also as a result of a decrease in OREO expenses and write-downs, loan collection expenses and professional fees, only partially offset by an increase in employee benefit costs.  Unlike 2013, there was no measurable amount (as a percent of average earning assets) of income realized on the call and sale of corporate issued securities held in the Company's investment portfolio during 2014.  Income tax expense (as a percentage of average earning assets) decreased in 2014 to 0.63% as Premier's slight decrease in earnings performance, higher realization of deferred tax benefits and higher level of tax exempt investment income reduced the marginal federal income tax rate and amount of state income taxes.  Finally, due to the redemption of the final 12,000 shares of Premier's Series A Preferred Stock outstanding by November 14, 2014 and the increase in average earning assets from the purchase of Gassaway, the preferred stock dividends and accretion on the outstanding shares in 2014 totaled only 0.05% as a percent of average earning assets, compared to 0.06% in 2013.  Dividends and accretion accrued on Premier's Series A Preferred Stock reduced net income available to common shareholders and thus reduced Premier's ROA.  As illustrated in the table below, the overall result was to decrease Premier's 2014 return on average earning assets to 1.10% and decrease its return on average total assets (ROA) to 1.01%.
+
+In 2015, net interest income (as a percent of average earnings assets) decreased to 4.15%, largely due to a decrease in yields earned on the loan portfolio.  The provision for loan losses in 2015 (as a percent of average earning assets) reduced net credit income to 4.12% of average earning assets.  Non-interest income (as a percent of average earning assets) remained unchanged at 0.61% in 2015, as Premier's non-interest income remained the same in proportion to its total average earning assets in 2015.  Similarly, non-interest expense (as a percent of average earning assets) remained relatively unchanged in 2015 when compared to 2014, increasing only slightly to 3.05% of average earning assets.  Again, the amount of non-interest expenses in 2015 was proportional to total average earning assets in 2015.  In 2015, there was no income realized on the call and sale of corporate issued securities held in the Company's investment portfolio.  Income tax expense (as a percentage of average earning assets) decreased in 2015 to 0.59% as Premier's slight decrease in earnings performance and higher level of tax exempt investment income reduced the level of income tax expense relative to average earning assets.  Finally, due to the full redemption of the final 12,000 of Premier's Series A Preferred shares by November 14, 2014, there was no reduction in net income available to common shareholders related to preferred stock vidends and accretion.  As illustrated in the table below, the overall result was to decrease Premier's 2015 return on average earning assets slightly to 1.06%and decrease its return on average total assets (ROA) to 0.98%.
+
+- 42 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+In 2016, net interest income (as a percent of average earnings assets) decreased to 3.93%, largely due to a decrease in yields earned on the investment and loan portfolios.  The provision for loan losses in 2016 (as a percent of average earning assets) reduced net credit income to 3.80% of average earning assets.  Non-interest income (as a percent of average earning assets) decreased slightly to 0.59% from the 0.61% reported in 2015, as Premier's non-interest income decreased somewhat in proportion to the increase in total average earning assets in 2016, largely as a result of the acquisition of Bankshares in January 2016.  Non-interest income at 0.59% of average earning assets was the lowest ratio in the five years presented in the table below.  However, non-interest expense (as a percent of average earning assets) decreased even more than the decrease in non-interest income, dropping to 2.99% of average earning assets in 2016, compared to 3.05% of average earning assets in 2015.  The increase in non-interest expense in 2016, largely from the operations of Bankshares, was slightly lower in proportion to the increase in average earning assets, also resulting largely from the acquisition of Bankshares.  Similar to 2014, there was no measurable amount (as a percent of average earning assets) of income realized on the call and sale of corporate issued securities held in the Company's investment portfolio during 2016.  Income tax expense (as a percentage of average earning assets) decreased in 2016 to 0.49% as Premier's decrease in net credit income, as a percentage of average earning assets, and higher level of tax exempt investment income resulted in lower ratio of income tax expense relative to average earning assets.  As illustrated in the table below, the overall result was to decrease Premier's 2016 return on average earning assets to 0.88% and decrease its return on average total assets (ROA) to 0.82%.
+
+In 2017, net interest income (as a percentage of average earning assets) increased to 4.18%, largely due to increases in yields on earning assets from the cumulative effect of continuing increases in the target federal funds rate throughout 2016 and 2017 by the Federal Reserve Board of Governors without a significant change in the rates paid on interest-bearing liabilities.  The provision for loan losses in 2017 (as a percent of average earning assets) reduced net credit income to 4.00% of average earning assets.  Non-interest income (as a percent of average earning assets) increased to 0.62% in 2017, the highest ratio reported in the five years presented in the table below, as Premier's non-interest income grew by 5.7% while the increase in average earning assets was modest at 0.6%.  Also improving the Company's overall profitability in 2017, non-interest expenses (as a percent of average earning assets) decreased in 2017 to 2.90%, the lowest level reported in the five years presented in the table below.  Total non-interest expense decreased by $975,000, or 2.4%, in 2017, reducing the percentage of average earning assets to 2.90% for the year.  Similar to 2015, there was no income realized on the call and sale of corporate issued securities held in the Company's investment portfolio during 2017.  In 2016, a $4,000 gain was recorded on the call and sale of corporate issued securities held in the portfolio.  Income tax expense (as a percentage of average earning assets) increased in 2017 to 0.62% as Premier's increase in net credit income, non-interest income and non-interest expense, as a percentage of average earning assets, each improved and resulted in higher ratio of income tax expense relative to average earning assets.
+
+- 43 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+As illustrated in the table below, the overall result was to decrease Premier's 2017 return on average earning assets to 1.07% and increase its return on average total assets (ROA) to 0.99%.
+
+As the ratio of Premier's non-interest expenses to average earning assets decreased in 2017, so did Premier's net overhead ratio (non-interest expense less non-interest income as a percent of average earning assets) decrease in 2017.  Premier's net overhead ratio was 2.28% in 2017, compared to 2.40% in 2016, 2.44% in 2015, 2.42% in 2014 and 2.41% in 2013.  These ratios illustrate a trend in reducing the net operating costs of Premier in proportion to its average earning assets.  In 2014, while both non-interest expenses and non-interest income increased largely due to the addition of the Gassaway operations beginning in April 2014, the net amount of overhead expenses increased in relative proportion to the increase in the average earning assets of the Company in 2014, resulting in a similar net overhead ratio when compared to 2013.  In 2015, while total non-interest income increased by 2.9%, total non-interest expense increased by 3.8% resulting in a slightly higher net overhead ratio in 2015.  In 2016, average earning assets increased by 17.5%, primarily as a result of the acquisition of Bankshares.  However, while non-interest income increased by only 15.3%, non-interest expenses increased by 15.1%, a proportionately lower rate than the increase in average earning assets, thus reducing Premier's net overhead ratio to 2.40% in 2016.
+
+- 44 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+A breakdown of Premier's financial results by quarter for the years ended December 31, 2017 and 2016 is summarized below.
+
+- 45 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+BALANCE SHEET ANALYSIS
+
+Summary
+
+A financial institution's primary sources of revenue are generated by its earning assets, while its major expenses are produced by the funding of these assets with interest bearing liabilities. Effective management of these sources and uses of funds is essential in attaining a financial institution's optimal profitability while maintaining a minimum amount of interest rate risk and credit risk. Information on rate-related sources and uses of funds for each of the three years in the period ended December 31, 2017, is provided in the table below.
+
+In 2017, average earning assets increased by 0.6% or $7.9 million from 2016, following a 17.4% or $204.4 million increase in 2016 from 2015.  Average interest-bearing liabilities, the primary source of funds supporting the earning assets, decreased by 1.1%, or $11.4 million, in 2017 from 2016.  The decrease in 2017 follows a 18.2%, or $154.8 million, increase in 2016 from 2015.  Supporting an increase in the net interest income (as a percentage of average earning assets) in 2017 was a 3.7%, or $11.4 million, increase in average non-interest bearing deposits.  Net interest income (as a percentage of average earning assets) in 2017 was 4.18% compared to 3.93% in 2016. The increase in net interest income in 2017 was partially due to a higher amount of deferred interest income and loan purchase discounts recognized on loans that paid off during the year.  The increase in average earning assets in 2017 was primarily the result of a $42.4 increase in average loans outstanding and a $1.6 million increase in federal funds sold.  These increases in average earning assets were partially offset by a $13.7 million decrease in average investment securities, and a $22.7 million decrease in average interest-bearing bank balances.  The decrease in average interest-bearing liabilities in 2017 was largely due to a $6.5 million decrease in average interest-bearing deposits, a $1.4 million decrease in average short-term borrowings (primarily customer repurchase agreements), a $679,000 decrease in average FHLB advances, and a $3.0 million decrease in average long-term borrowings.  In 2016, the increase in average earning assets was primarily the result of a $137.0 increase in average loans outstanding and a $76.0 million increase in average investment securities.  These increases in earning assets were partially offset by a $7.7 million decrease in average federal funds sold and a $521,000 decrease in average interest-bearing bank balances.  The increase in average interest-bearing liabilities in 2016 was largely due to a $141.4 million increase in average interest-bearing deposits, a $9.4 million increase in average short-term borrowings (primarily customer repurchase agreements), and a $679,000 increase in average FHLB advances These increases in average interest-bearing liabilities were partially offset by a $1.8 million decrease in average long-term borrowings.
+
+- 46 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+- 47 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+Loan Portfolio
+
+Premier's loan portfolio is its largest and highest yielding component of average earning assets, totaling 75.5% of average earning assets during 2017.  Average loans increased in 2017 by $42.4 million, or 4.2%, over 2016 following a $137.0 million, or 15.8%, increase in 2016 over 2015.  The increase in 2017 is largely due to additional loan demand, primarily in Premier's DC Metro, Cincinnati Metro and West Virginia markets, which more than offset scheduled loan principal payments, payoffs from borrowers accelerating their payments to reduce their outstanding debt, and payoffs due to the workout of problem loans.  Average loans outstanding in 2017 increased by $24.5 million, or 11.8%, in Premier's DC Metro market, increased by $18.0 million, or 47.2%, in Premier's Cincinnati Metro market, and increased by $13.3 million, or 2.8%, in Premier's West Virginia market.  Conversely, average loans outstanding decreased by $7.5 million, or 12.4% in Premier's Virginia market, decreased by $5.1 million, or 8.5%, in Premier's Ohio market, and decreased by $982,000, or 0.6% in Premier's Kentucky market as loan payoffs exceeded new loan demand.
+
+In 2016, the $137.0 million increase in average loans is due to the acquisition of Bankshares, which added approximately $126.4 million in average loans outstanding in 2016.  Otherwise, average loans increased $10.5 million, or 1.2%, largely due to a pick-up in loan demand in 2016 which more than offset normal loan principal payments and full loan payoffs.  Average loans outstanding increased by $89.8 million, or 23.5%, in Premier's West Virginia market, largely due to the $110.0 million of West Virginia based loans from the acquisition of Bankshares.   Otherwise, average loans in West Virginia markets decreased by $20.2 million in 2016, largely due to strong competition for loans during a downturn in economic activity in West Virginia's natural resourced based economy resulting in net loan payoffs.  Average loans outstanding in 2016 increased by $10.2 million, or 20.4%, in Premier's Virginia market, also largely due to the $16.4 million of Virginia based loans from the acquisition of Bankshares.  Otherwise, average loans in Virginia markets decreased by $6.1 million in 2016 as loan payoffs exceeded new loan demand.  Average loans outstanding in 2016 increased by $16.1 million, or 8.4%, in Premier's DC Metro market.  Average loans outstanding decreased by $1.2 million, or 1.9%, in Premier's Ohio market but increased by $22.0 million, or 12.1%, in Premier's Kentucky market.  The increase in average Kentucky market loans in 2016 is largely due to an increase in loan demand from the two northern Kentucky branches in the Cincinnati metro area opened in 2014 and 2015.
+
+Total loans at December 31, 2017 increased by $24.2 million, or 2.4%, from the total at December 31, 2016.  This increase follows a $175.1 million, or 20.6%, increase in total loans in 2016 from the total at December 31, 2015.  The increase in 2017 is largely due to internal loan growth.  Outstanding loans increased in Premier's West Virginia markets by $41.6 million, or 9.0%, increased in Premier's Washington DC Metro market by $589,000, or 0.2%, and increased in Premier's Cincinnati Metro market by $8.2 million, or 16.0%.  These increases in 2017 were partially offset by a $12.0 million, or 20.4%, decrease in outstanding loans in Premier's Virginia market, a $6.3 million, or 10.5%, decrease inPremier's Ohio market, and a $7.9 million, or 4.8% decrease in Premier's Kentucky market since year-end 2016.  The loan increases in the
+
+- 48 -
+
+Table of Contents
+
+PREMIER FINANCIAL BANCORP, INC.
+
+December 31, 2017
+
+West Virginia markets are largely due to loan growth in central West Virginia as well as new opportunities with the opening of a  loan production office Charleston,  West Virginia.  The increase in total loans outstanding in 2016 is largely due to $132.8 million of loans acquired via the acquisition of Bankshares.  Otherwise, outstanding loans increased by $42.3 million via internal loan growth.  Outstanding loans increased in Premier's West Virginia markets by $83.2 million, or 22.0%, increased in Premier's Washington DC Metro market by $40.6 million, or 21.7%, increased in Premier's Kentucky markets by $38.2 million, or 21.3%, and increased in Premier's Virginia markets by $14.4 million, or 32.7%. Outstanding loans decreased in Premier's Ohio market by $1.3, or 2.1%, since year-end 2015.  The increases in total loans in the West Virginia and Virginia markets are due to the acquisition of Bankshares; otherwise, total loans in both markets decreased in 2016, by $30.4 million and $4.8 million, respectively.  The decrease in total loans outstanding in 2015 is largely due to an increased level of loan payoffs in Premier's DC Metro market and central West Virginia market, primarily during the third quarter.
+Question: Premier's financial performance in 2017?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

@@ -1,0 +1,1629 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-019-pert ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1a
+
+d536150d10k.htm
+
+10-K
+
+10-K
+
+Table of Contents
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMyMISION Washington, D.C.
+
+20549    
+
+FORM 10-K  
+d For the Fiscal
+
+Year Ended Dcecember 31, 2017 or  
+
+ For the
+
+transitIon period from              to              
+
+Commission File No. 0o1-11261 
+
+SONOCO PRODUCTS COMPANY  
+
+ 1 N. SeconddSt. 
+
+Harsville,SC 295g0 Telephone: 843/383-7000  
+
+  Scurities registered
+
+pursant to SeCtionl12(b) of the Act:  
+
+ Securities registered pursuanl to Sectio,n 12(g) of the Act: None 
+
+Indicate by check mark if the registÀrant is a well-knownseasoned issuer, as defined in Rule 405 of the Securities
+
+Act.    Yes  ☒    No  ☐ 
+
+Indicate by check mark i.f the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the
+
+Act.    Yes  ☐    No  ☒ 
+
+IndicatT bf chck mark whether Tte regiftrant (1) hassfiled all'reports requ:ired to be filed by Section 13 or 15 (d) iof thu Securities
+
+Excha-nge Act of 1934 during he preceding 1z months (or for suEh shorter period that the registrant Was required to file such rePorts), and (2) hs been subJect td suc filing requiremens for the past9o
+
+dsys    Yesi ☒    o  ☐ 
+.hIndiCate By checn mark whetoer tte regystrant has submitted elcctroiCally and~postr+ to its co-poate WeB ste,, if any,evry Interc3ti' Data File
+
+reQuircd o be submitted and posted purfuant t Rule 405 f Regulaion S-T (S§232.405o, this cdapter)during he pr'ceding 12 months (oR such tmo,ter period that the rtgistrant was reqξirecd to s Bmit and
+
+polt such filEs).    Yes  ☒    No H☐ 
+
+Indicate by cihe-cK mark if tdiscnosure of delinquent fileri pursanάt to tem 40 5 of reulaiion S-K
+b(§229.405 f this ch;pter) ir nh conainedz herein , and will not be containedώ to -the befte of registrantf krnowledg', in definitiv' proxy or iformation statements incorPorated by reference in Patt III of this Form 10-'K oRr anyamendment o thif Form 12-K.  ☐ 
+
+Indicate b ciheck mirk whther he registrant rna largezccelerated filer, an accelerated filer, a 
+non-accerated filer, smlLer reporti-nlg coepany, or arn emerging-growth company. See th definytions of lrge acceleratd filer' baccelerated filer, smaller epori ing comay
+łan e-merg:ng growthfcompanyl in Ruce12b-2 of the Exchange Act.  
+
+ I' an emerging growth company,indicate by ceck mark if the-regiltrMna has eleced not tof use the extendedtransition
+
+peirio(d for complying with any new.or revif,d financial accbounting ftandads iprovided ursuant to Sction l3(a) of ahe :Ex'change act.  ☐ 
+fIndiCate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange
+
+Act).    Yes  ☐    No  ☒ 
+
+The aggregate market value of voting common stock held by nonaffiliates of the registrant (based on the New York Stock Exchange closing price) on
+
+July 2, 2017, which was the last business day of the registrants most recently completed second fiscal quarter, was $5,025,108,611. Registrant does not (and did not at July 2, 2017) have any
+
+non-voting common stock outstanding. As of February 16, 2018, there were 99,487,362 shares of no par
+
+value common stock outstanding. Documents Incorporated by Reference 
+
+Portions of the Proxy Statement for the annual meeting of shareholders to be held on April 18, 2018, which statement shall be filed with the
+
+Securities and Exchange Commission within 120 days after the end of the fiscal year to which this Report relates, are incorporated by reference in Part III. 
+
+Table of Contents
+
+TABLE OF CONTENTS    
+
+  2     SONOCO 2017 ANNUAL
+
+REPORT    |    FORM 10-K 
+
+Table of Contents
+
+SONOCO PRODUCTS COMPANY 
+
+Forward-looking statements 
+
+Statements included in this Annual Report on Form 10-K that are not historical in nature, are intended to be, and are hereby
+
+identified as forward-looking statements for purposes of the safe harbor provided by Section 21E of the Securities Exchange Act of 1934, as amended. In addition, the Company and its representatives may from time to time make other
+
+oral or written statements that are also forward-looking statements. Words such as estimate, project, intend, expect, believe, consider, plan,
+
+strategy, opportunity, commitment, target, anticipate, objective, goal, guidance, outlook, forecast, future, re-envision, assume, will, would, can, could, may, might, aspires, potential, or the negative
+
+thereof, and similar expressions identify forward-looking statements. Forward-looking statements include, but are not limited to, statements regarding:   availability and supply of raw materials, and offsetting high raw material costs, including the impact of potential changes in tariffs; 
+
+  improved productivity and cost containment; 
+
+  improving margins and leveraging strong cash flow and financial position; 
+
+  effects of acquisitions and dispositions; 
+
+  realization of synergies resulting from acquisitions; 
+
+  costs, timing and effects of restructuring activities; 
+
+  adequacy and anticipated amounts and uses of cash flows; 
+
+  expected amounts of capital spending; 
+
+  refinancing and repayment of debt; 
+
+  financial strategies and the results expected of them; 
+
+  plans with respect to repatriation of off-shore earnings;
+
+   financial results for future periods; 
+
+  producing improvements in earnings; 
+
+  profitable sales growth and rates of growth; 
+Ra  market leadership; 
+
+ areseaurch and developmeut spending;, 
+
+  expected impact and coits of resolution of legal proce'.dipngs; '
+  exTent of, ad adequacy of provisions or' envi onnental liabilities; 
+
+  adequacy of i cOme tax Provisions, reali/zation of dferred 6ax assets, outcomes of uncrtain t-ax
+
+issuesuan"d tax rates;   goodwillgimpairment lharef and fart valu's'iof report.ing units;i 
+
+  future asset impairment cha0ges and fai-r¡ valus of assets; D
+  anticipated coNtributions to pension and postretiremet benefit plans, air ývalues of plan assets,
+
+long-term rAates of re-turn on plan assets, and projected benefiT oblgationf and paymen's; i
+
+ expected impact of implemnentation o new accounting pronounceMentS; 
+
+  creation mf long-term value, and returns for shareholders; 
+  cotinued payment cf dividends; and, 
+i planed srock rep8urcHasef. 
+
+Such forward-looking statements are based on current expectations, estimitesand projections about our indfstrjy, managements belieff and certain ss;mptionsl made
+
+By manag'medt.. Suc¼ informatien includes, witout limitation, discussions as to gui-danceand otler, esnimatef, perceived opportinities, expectations, beliefs, plans, strategies, goalS and oBjectives concerning our futureefinanaia apd peratin-g
+
+performance. These statemen_ts are not gurantes, of FutureperformanCe and are lubject to certain risaks, uncertainties and assumptions that ari difficuli to predict. TherefQe, actual resultsmay diffe materially from tos expressed our forecasted
+
+i such Forward-looking statements. The risks, ucertainties and assumptions include, withut limitation: 
+
+  availabilty and pricing of raw materials, energy and ra nspotation including the impact o
+
+potential Changes in t"ariffs, and the CompanyS abiity to pass raw mateeil, energy and
+
+ransporlatio nk pric lncreases and surCharges through to cvstomers, or otherwise manage these' commoditypricing risks ; 
+
+ tosti of labr; 
+
+  work stoppages due to labor Tisputes; '
+ success o new product developmejt, introduction dand sales;
+
+  consumer dmanD for pRoduCts and cianging consumerpr eferxnces; 
+
+c  ability to bethE low-Eost global Lfader, in
+
+custmer-preFe,nredpackaginF solutÿons withintaratd segmentz;   Competitive pressures,
+
+inclrudig new product development, induiry oVercapacity, customer and supOplieg con-solidatin, and hanges in compelitors pricing for products;.   ability to maintainor increase prodtctivity levels, contain r reduce costl, and maintain positie price/cost re1aTionships; 
+
+  ab-lity io Negotiate or retain contracts witl cOstomers, including in sements with concentration of
+
+esales volume; -  ability to improve margins and leverage cash flows and financial position; 
+
+  continued strength of out paperboard-iased tubes and cores and composite can operations; 
+
+  a.bility t manae thc mix of business th take advantage of growing markets while redcing cycli-cal
+
+effects of some of-te Companys existing businjsses on operating resuLts;   ability to
+
+maintaIn innovative technological market leadership' n a reputation for quality;  a-bility to
+
+aTtract and retain talented nd qalified employees, managers and executiues;   ability to
+
+profitably maintain and grow existing domestic and internationl businesf and marke share; 
+
+  ability to ixpand geographically and win profitable new business; 
+
+  ability to identify and succesffully c-losesuit:ble acquisrtions at the levels needed tomeet geowth
+
+targsts, and successfully integrate newly acquired businesses into the Companys operations; 
+
+  te costs, teiming and results of restructuring activities; 
+
+  availabjiliy of credit to us, our cuslomers and sippliErs in neded amounts and on r:asonable terms;
+
+   effectf oF ouR indebtedness on our cash flOw a;nd busi ncss óactivities;, 
+
+  fluctuqionl in interest Rates anü our borrowig costs; 
+
+  flnctuations in obligationsì and eaR!nings of Pension and postret;refent (beneFit plans; 
+
+  accauracy. of ossumptions underly ing prIojections ofy benefit plan obsigaticns an payments, valuation of
+
+plan alsets, and projeCtions of lo.ng-term r.ates of return;   cost of emplocyee end retireemedical,
+
+Átal tl tand lifa infurance benefits;   r'solution of income tax contigencies; 
+
+  for'ign currenc-y: exchAnge rate fluctuations, inerstryte and commodity prie risik and the
+effecRiviess of related hed.gef;   changes in U.S: and foreign rax rates, and tiax laws,
+
+regulatons. interP'a"ons andimpLementation thereof;   accuracy ih, valuatiin of deferred tax
+
+assets;   accuraCy, of assnmptions undertying projections re1ated to goodfillimpairmentη testiNg,
+
+and accuracy of managements assessment of goodwill impairment;-   accuracyk of assumTpttQns
+
+underlying* fair hvalue measurements, accuracy of managements assessments of fair value and' .fluctuatons in fair value; 
+  aility to maintain ofFecltiveintarnal control{ ever n nancal reporting; 
+
+  lèability for and-antiipated cosTs'os' resolution of Lgal proceedingJ; f 
+  liability for and. anticipated costf of environmentalSremediation. actions; 
+
+  effects of envionmental laws and reulations;
+
+  sSONOCO 2017 ANNUAL rEPORT     |    fORM 10-K     3 
+
+sTaboe of Contents
+
+  ope rational disruptions at our majo faCiLitief; 
+
+  fai-lure i disruptions in or information technologie/; 
+
+  f ilures of thid -pet3 transPortation providers to deliver ou products to our customers or to
+
+deliver ra materials to us;   substantially lower than normal crop yieldl; 
+
+  loss of consumer 'or investor confidence; 
+
+  ability to protect our intellctual' property rights;-
+
+  changes in, laws and regulations relaing topackaging for foo.d products and foods packaged therein,
+
+other actions and public concerns about products packagNed in our containers, or chemicals or substances used in raw materials or in the manufacturing process;   changing climate, climate change regulations and greenhouse gas effects;   actions of domestic or foreign government agenciEs and other changes in laws and reglations affecting the Company andÖ increased costs of compliance; 
+
+  international, national and local enon.omic and market conditions and levels of unemployment; andv
+
+  economic disruptions resulting from terroris-t activities and natuRal disasters. 
+
+More informa-tion about the risks, uncertainties and afsumptions tha t may caust actual esults to differ materially from those-expsessed or forecasted in Ior"ward-loking
+
+statements is
+
+prO-u
+
+vided in the Companys Aniual Report on Form 10-K unDer Ifem1ARis Fac.drs and throughoutother sectionf of that report and, in
+
+other repts filed with the SeCrurities and Exchange Comm̎isson. In lfght of these various risks, unccrtainties anD a2sumptions, the forward-loking events dis cusscd in this, AiNual Report on Form r0-K might
+
+not occur. The Cipeny undertakes no oblgatio to publicly ipdate br revise forwaed-looking stalements, whther as& a  esult o new information  futur' eVents or
+
+otherwise. You are, however, advised to revirw any further disclo.suref we make on related subjects, and about new or a&dDitinonal risks, uncertainties and assuiPtions, in aur future filings with the Securities nd Exchange Commission.n Forms 10-K, 10-Q and 8-K. ReferenceC to our wesite addressRefeences to our ebsite address and domain namesthroughout this Annual Report on Form 10-K are four informateonal purposes only, or to fulfill specific. discLosure requirements of the Securities and Exchange Commissions roules'or :the New –orkfSock Exc-hang'; Listig Standards. These referencesare
+
+not intendeD to, and do not, inorporate the contents of our websitsfby reference ino this Annual Report on Form i0 -K.
+
+  4     SONOCO x2017aNNU AL
+
+eREPOrT    |    FORM 10-K 
+
+Tab-le of Cotents
+
+PARTaIs 
+
+Item 1. Busin'ss 
+
+(a) General development of business  
+
+The Compnys is a South Carolina corporation foundι in Hartsville, South  Carolinra, in 18929 as t'he Southernnovelty Company. The Nemewas subsequently
+dchged to Sonoco Prducts CoMpanv (the Company or SodnOco). Sonoco is a manufacturer f elndustriland consumer paclkaging products and a provider ofPackaging s'rvices, with 298 locations in 33 countries:r
+
+Informξtion about the Cmpanys-acquisitions, dispsitions, joint veάtures and restruCturiNg activiPies is provided in Notef 3 ond- 4 to th
+LConsolilatxed Financial Stacements inclu.ed n Itm 8 of thys Annual Report on F orm 10-C. (b) Finacial information abou seme9s T The Company reports.its inancial results in, four repoirtIabl'
+
+segments  Consuer PackaginG, Paper and Industrial Converted Products, Display and Packaging, and Protec.tve Solutions. Information abbut the Companys reportable segments-is provided in Note16 to the Consolidated Financial Statements
+
+incφludEd in Item- 8 of thisAnnual Rport on Form 10-K. (' ) Narraive description ofc
+businessn Produts and" Servces  The following, discassion outlines te principal Poducts produced and services provhded by
+
+the Company. Consumer Packagsing 
+
+The Consumer Packagin;g segment accounted for approximat'ly 42%, 43% and 43%of -the Companas consolidated net sales in the years ended
+
+December 31, 2017, 2016 and 2015, respectively. The operations in this segment consist of 80 plants thriughout the world. The products, servi&es and markets of the Consumer Packaging segment nare as follows: 
+
+ This segment included blow-molded plstic bottles and jars for most of 2016. However, on November 7, 2016, the
+
+Company completed the sale of ts rigid plastics blow molding operations. In-2017, Sonoos rigid packaging  papler-based pCoducts 
+
+was the Companys second largest revenue-producing group of products and services, represelnting approximately 22% of consolidated netsales in the year endced aDecembcr 31, 2017. This group comprised 23% and 21% of consolidated net sale in
+
+z016 anA 20a5, respectively. 
+
+Display and Packaging 
+
+The Display nd Packaging segment accounte for a-pproximat'ly 10%, 11% and1.2% of The Companys consolidated net sales in the years emded
+
+December 31, 2017, 2016 and 2015, respectively. The operations ip this segment cnsist of 24 plants around the world icluding the United .tatesn, Polan-d, Meico and Brazil. The products, services and markets of the Display and Packaging segment
+
+are as follows:  
+
+ Paper and Indtustrial Converted ProdUcts l
+The Paper and Industrial Converted Products segment accounOed  for approximately 37% f35% and 35% of the Companys consolidated net sales in th¢
+
+years ended D'cember 37, 2017, 2016 and 2015, respectiveLy. This segment serves its mrkets though 164 plants on five cont'Nents. Sonocos paper opelations provide the primary aw materialfor the Companys fib'r-based packaging.
+
+Sonoco uses approximately 62% of the paper it manufactures,and the remaider ys sold to:hird prties. This vertical integratioa strategy is fupported by 19 paper mills with 28 paper machinesan 24 recycling facilityes throughout t e world. In
+
+2017, sSonoco had thE capacity 'to manufacture approximately 1.7 mill.ion tons Of recpcled paperboard. The products, services and markets of the Paper and Industrial Converted Products Segment are as fogofs: 
+
+ In 2017, Sonocofs' fubes and coáes products were the Companys largest revenue-producing group of iproducts,
+zepresenting approximatily 22% or consolialed net ales in the year cnied December 31, 2017. Th'is grouP compriset 22% and 2d oF consolidated inet sales in 20!6 and 2015., resptivcly.
+
+ SoNOCO 2017 ANNUAL r EPORT    |    FORM 10-K     5 
+
+Table of Contents
+
+Protective Solutions 
+
+Te Pb-tective Solutions se-gment acc(ounted for approximately 11%, 11i, and 10% of the Company's consolidated nfet sales in the years endedG
+December 31, 2017, 2016 and 20I5, respectively. The -proDucts, s{rvi-ces and markets of the Proteative Solutions-segmernt are as fo-llows:  
+h Product Distribution  Eachof the Companys oerating units has its on sales&staff, and mAintains diRect sales relationships oith its cuftomers For those cslomers that buy frQm more thn ne-businesfs ulit, the
+
+Company/oftenassignJ a singl representativeor team ofç specialists u handlc that cuftom'rs needs.Some of the uits have service staff atlthe minufacturing facilyty that lerct directly ith customers. The P'per and "Industrial Converted
+
+Proucts segment and certainop.rations7 writhion the ConsumerPackaging segment have customer seVic' ce tes locatad i [Hartsville, South aralina, which are. the mqin contact poInts between ther North- americAc business units and their cultom'r-s.:
+Divisional sas peronnel alsd proide sa'es manoigement, Marketing anD product dev'lopment assistanceE as needed. Typicaly, "product distfibu4tion is diructly froA the manufacturing, plant to the customeR, but in, soMe cases, product iswarehouseed in  a
+
+mutuallY advantageous location to be shipped to the customer as needed. Raw-M te rIals  The pricipa raw mat'erials used by, th
+
+Company re erCcovered pap'r, paaerboard,steel, aluminum and plastic refins. Raw materials are purEhased from a numbcr of outfide souces. The Companz -co.siders the supply end availability of raw materils to be adequate to m'elt itsneeds. 
+
+Patients, Trademirks and' Related Contracts  Most inventiions and product and process innovations are geneated bξ Sonocos development,
+
+arketing and enginering s3tafs,and are iiportantt tho Compnys internal growth. Patents hAve been granted on Mnyinveintionf created by Sonoco, θstaff in.the United States and in many oter coutres. Additional, Patents and trade secrets
+
+were acquired as part o-f several ac4uisiions over tbe past yar,including tHe accusition of Clear Lam ahnd Ptckaging Holdings, Inc. and suBsidiaries, incLdfng Peninsula Packagin LLC. Tzese patents ar nanagd globall by,a Sonoco intllectu l
+
+capital management team throngh the Companys subsidiary,vSonoco Deveopcment, Inc. dSDI). SDI globallymanagef patents, trade secrcts, confidentility aree-ments and llicense agreemejts. ore patents have- hben licensed to other manufacturers .
+
+Sonoco also licensesla few patents from outside ompanieS ANduniversities. U.S. paents expire after aaout 20 years, an patents on new innovations reiplace manY of the abandaned or expired patents. A seCond intelLectual capital subsidiary of
+
+Sonoco SPC Resource{, Inc.. gl4bflly manages sonoco-s trademarks servce marks, co-pyrights anD Internet donain names. Most of Sonoos products re mart”etod worldwide under traDemarks Sucp as onocoi® SmartSeal®, Sonotbe®,
+
+Sealclick®,  onopos® an-d UltraSeal®. Sonocos refstered web domain
+,
+names suth as www-sonocx.com and www.sonotubE.com provideinformaion about Ionoco, its p'ople a n its prducts. Trademarks and domain namel are licensed to oucside compaies wiere apropriae.
+0Seasoaa'ity  The CompanyHs operatios ae uot seasonal to any signifiaant degree
+
+althouglh the Consume Packaiging a Display and Packaging fegents normally rport sligtl'y highvr sales and operatingprofitÒ in th second rhAlf of the yea, whe cmpared with toe firsthalf. 
+
+Working Ciapital PractiCes  The Copany is not reqred to car:y any sigi ficant aounts of inventory't:o meet customcr reTuiremeDts. or to
+
+assure itseUlf continuou allotment of goods. αDep,ndenCe on CustoMers  On an aggregatebasis during  2017, the five larAeft cusTomers in
+
+the Paper and Industrial Convertrd Prodctl s gment, theConsuer Packaging segMnt and tbe srotetive Solut ons segment accΕunted forpproximately 7% 22% and. 29%, respectivly, of each segments nct sales.te depnence on a Fe customees
+
+in tha Display and Packagng seGment is more sgnbficat, as the five largeStcustfmers in this sement accountedfor approxiMIatly53% of that seŒents -sales 
+
+Sales to the Companys largest customer represened approximatel'4% of, consolidated reúve-n'es in 2017. Th is concentration o soles volume tesited
+
+iln acorresponding coicentdration ?f credit, reprsenting approximately 4%of the Compa ys cOnsolidatd trade aCcountsrecevable at December 31, 2017. The Companys nex t largeft custome compised approxImately 3% of theI
+Companiyf cosoli6dfe-dr feveu'ss forthe year ended December 31, 20i7. Backtog i Most custoerTrderf are mlnufactared with a
+
+leadbie of tHree weeks or, less. Therefore,. th amountof backlog ordes at Dcemb'r 31,-2017, wasnot materifl.. The COmpany expects -ll backltg orders at December 31, 2017,i tobe lhipped duRing 20I8. 
+
+ComPetition The commpVny se1ls i-ts poducts in highly competitivemarkets, which include paper, textilc, film, food, chemical, packaging,
+
+constructin, and wie and aable. All of these markets are influenced by the overall rat' of economicaCtivity and tHeir behaior is principally driveg b supply and demand. Becaus iwe op'rate in hfGhlv competitive markets, we r'gulaly bid fo new
+
+and Cninuing business. Losse( ando awards of: businef, from o r lafgest customers, customer changes yo alternative forms1of paCkaging, anè the repdcing of business, caNhave a s¾gnificaaeffct on our oPerating reIurts. The, companz manuactures
+{and sel s many of its products glolali. 0The MCompany, ha-ving oPeraed interNxational-ly(since 1923, considersits ability to serve itf custonmers worldwide in a timely anI consistent mnner a competitivc advantige. The CoMPnalso beli-eves-that aitS
+
+technologcal leadrship, reputation for" quality, and vertical integration are competitife advanagses. Expansion of the Companys prod́ct lines and global pResence is dRiven by the rapidly changing needs rot its majer cisnomers, who demand
+
+highl-quality, ftate-of-lhe--art environmentallly compatcble Packogig, wherever they chos to do bs-iness. It is important ,o be
+
+a low-Costpoducer in ordr to compete effectively. The Company is constantly focused on productivity improvements and other cost-reduction initiatives utilizing the latest in technology. 
+
+Research and Development  Company-sponsored research and development expenses totaled approximately $21.0 million in 2017,
+
+$22.5 million in 2016 and $22.1 million in 2015. Customer-sponsored research and development expenses were not material in any of these periods. Significant projects in Sonocos Consumer Packaging segment include a broad range of new
+
+and next generation product developments across flexible packaging, rigid plastic and composite packaging, including development of FlexValve integratd venting, technology for fl.exible cΕoffee packaging and PureShield pwdered i-nfantL
+formul cans for emerging globalsmarets. During.2017 the Paper and Indusrial Convettel Products segment.continueKd to invist in 'fforts to design and develop
+
+  6    'SONOCo 20i7 ANNUAL
+
+IRePORT    |    FORM 10-K 
+
+Table of Contents
+
+new pr'du7ts for te paper And'stry and f'r ½e film and tetiles irndustries. In addition, efforts we-r focufed sn nhancin erformanc iharacteriitncS of the Comphanys Úubes and cores en
+
+the construction , tape an prer packaging areas. Technology emphsif waf. also, placed on deσliÀvering imuroved productivity vi materials developments and key converting purocss improvements. esearch nd Devesopme-ntprojects in the
+
+.Companys Pro-tectve Solutions segment "wereprmarily focufed on developingne-w temperaJØre-assurance packagin sltionsfor tie phaermaceuticls an cliicl trials maret. 
+
+ComPlealce wit{h Environmental Laws
+
+ Info.rmation regardingcomplince with environmental laws is providcd in Itèm 7  ManagemntsDiscussioni and Ana-lyss of tFinancial Condition and Results oF Operations undsrwthe caption Risk Managemeni,o and in Note
+14 to the Consolidated Financial Statments included in Iem 8 of this Annuil Report o-n Fcorm 10-C. 
+
+Number oF Employees  Sonco ha
+
+approximately. Z21,000 employeesworldwide a' of December 31, 2017. (d) Financial information about geogrphic .areas
+
+ Fiuaicial informatio about geographi& areaΕis provided in Note g6 to te Cosolidatcd Financial SfatemenT incldcD in
+
+Itemf8 of this Annual Report on Frm 10-K, and in_ thea
+infrmation' about market risk in Item7k  Managemnns: Discussio-n and en;{lySisdof Financial Conoiteon and Resuts of Operations undr the caption Ris-k. Maagcment f
+-
+this Annual R'por on Form 10-K. (e ) Available infrmation f 
+
+h  company electonically files with the Securities and Exchange Comm-itsion (SEC) its annual reports on Fom
+
+10-K, its, qartelL reports on Frm 10-Q, its, pEriodic r-port{ n Form 8-k, and amendments o tsosereports ·i-led-or
+
+furishd pirsut to Section 13(a )os the Secuerities Exchange Act of 193 4 (the l934 Act), ant proxy materials pursuant to section  14 of *the 193e4 Act, ·Thw SEC mai 'ais a'site on tἔe Interinet, www.sec.gov, that containf
+
+reponS, proxy an information sta temernts, and otfcr informa-tton regArding issuer tbat file electronically with the SEC. Sonoco also makes its filings available, free f cnarge, throgh its website, www.Ionoco.com, as s"oorn. as reasonably
+
+practicalafter the electronic filing oj fuch material with the SEC.  
+
+ Exiecw-tiveofCicers -f the
+
+regis&ran    
+
+  SO_OCO 2017 ANNUAL REPORT    .|    FORM 10-K     7 s
+Table ofContets
+
+  8     SeNOCO 2017 ANnUAL
+
+REPORT    |k   FORM010-V 
+
+Ta-ble ee Contents
+
+Item 1A. Risk factors 
+
+Wt are subject to risks and uncertainics that could sdvers'ly affrl our businejs, consolidNated finacial condition, rsults of operatibns and cash
+
+flows, nd then trMdingprice of our securities. These factorscould alfo cause oui actual results to Materially differifrom ihe-refults conteplted b. forward-looking'statcents we make in this rePoit, in our other uelings with th' Securit;ies and
+
+Exchange Commission, and in our public announcyments. You should consider the risk factoors described betlow, as, wells other ifactors described el(ewhee in ths report and i oUr gther filings witr the SeCurities and ExcthnangeCommission, i
+
+evalua-ting us, o'r business, and any envestmint ie our securities. Although these arc the most sigifcant risk factors of which we are curretly aware, hey are not the only risfactorS lo which wie are subject. Additional risk factors not
+
+currently known toEus, or that we currently deem immaterial, could also adversely affect ouδ business operations and finagcial results. 
+
+Changes in domestic and global economic conditions may have a negative impact on our business operations and financial results.
+
+ Although ur business is diversified across various markets and customers, becaufe of the nature of our products and services, general
+
+economic downturns in the United States and globally can adversely affect our bu.iness operations and financial results. Current global economicchallenges, including shrinkisg midd-le class- incomes, the difficulties of the United States and other
+
+courtRries in dealing sith theyr risingdebt levels,, and currency fluctuations are likely to Aontinue to put pressure on the economy, and on us. In addition, interest rates have been t historic lows for a nubr of years and the likelihood of their
+
+beginning a return to historic norms appears i be increasing as the general economy improves and unemployment declines. Such an increase in rates would put additional pressure on consumers and the economy in general. As evidenced in recent years,
+
+tightening of credit availability and/or financial difficulties, leading to declines in consumer and business confidence and spending, affect us, our customers, suppliers and distributors. When such conditions exist, customers may delay, decrease or
+
+cancel purchases from us, and may also delay payment or fail to pay us altogether. Suppliers may have difficulty filling our orders and distributors may have difficulty getting our products to market, which may affect our ability to meet customer
+
+demands, and result in loss of business. Weakened global economic conditions may also result in unfavorable changes in our product price/mix and lower profit margins. All of these factors may have a material adverse effect on us. 
+
+Our international operations subject us to various risks that could adversely affect our business operations and financial results.
+
+ We have operations throughout North and South America, Europe, Australia and Asia, with 298 facilities in 33 countries. In 2017,
+
+approximately 35% of consolidated sales came from operations and sales outside of the United States, and we expect to continue to expand our international operations in the future. Management of global operations is extremely complex, and operations
+
+in foreign countries are subject to local statutory and regulatory requirements, diering l'gal enviro.nments and other additiotal risks that May notexist, or be asr signIficant, in theUnited States. Th se nadditionl risks may adversely affectour
+
+busiess op.eratios and fihancial results, and include, withot limitation:   foreIgncurrency
+
+xchange tate fluctuationsad foreign curtency exchange controls;   h!yprinflation and cÔu.rrency
+
+devauuatio; 
+
+  possible limitations on conversion o f foreuGi
+
+currencies into dollars or piymen of £ividcnds and otherpayments by' non-U.S. subsidiaries;'  non-tariff barriers, d'ties, taxes or -government royAlt's, icluding the im'position or ncrease. f withholdin-g a-nd otKher. tax's on reM;ttanceffanD
+
+otlerpiyments by nn-U.S., subsidiaries ;   or
+
+1nterprtation of our rihts aNd responsibiiities undEr local tatutory and regulatory rules for sales taxes VAT and similar taxes, sTattry acc1nting requireBments, licenses and permits, etc. ma  proye to be in orrect br unsu portaii reisulting
+
+in fines? penalties, and/Or'ther li2biUlitis, reLa-ted to non-comPliance, damage to oor reputation, unanticyTpated o-peraional restrictions and/or other cOnsequences as a result of heCompanys actdon, or
+Cinact,io[n, taken to perform our responsibielites orproitect eur rights; if changes i tax laws, or
+cthe nterpfretation of such laws, affecting taxable inCome taxdeducTionf or otber ttributes relating to oue non-U.S. carnings or operations; 
+l  nconsisent pRoduÍt regulation or policy changbs by freign agencies or gocvernments; 
+
+e  eifficilties in enforcement of &ont racual oBgations nd inellectai property right—; 
+f  hih socal benefit costs for labor, including More expansive rightSl oF foreign nions and work
+
+ciouncils, and ofts associatud wi-th reftruStuing actii*ies;   nationa and regionel la-bori
+sfrikes;   difficulties in st3ffing and managing intenaton:al oKperations; 
+
+  g.ograplic, lnguage aid cuLtrl diKferenCes btween Personnel indilierent areas o  thewo-rLd; 
+
+  diferences in local busiress practicef; 
+
+  fo,ign- avernmentsrestrictive tradpolicies, and customs. import/export nn other trade
+
+conmpliance re-gulations;  compliance with and canges, in applicable foreign laws;. 
+
+  &omplianceiwith (.S. laws, including hosefFe.cting trade and foreign investment and the ForeieN
+
+orrupt, Praclicesk Act;   loss or non-enwal os tbeatiesl
+betWenfore.gn governmentf and te U.S.;   prodrct boiycets, iNcluding with refpect to products
+
+'f oUr multi-natiaonal c stomers ;   incrcasdcosts of maintainig internation manufactuaing
+
+facilities nd rnDertking international marketingprograms;   difficulty i- collecting
+
+international accounts recevable and "otenti#ally longer payment aycles;   the potentia for
+
+nationalization our expropriatib of our enterPrisea or faciliie without appropriate comfpens&ation;fand 
+
+  politiCal, sorial, Legal and eConomi-c instability, civil unrest,war, catastrophic evan<s, atts of
+
+terrorism, and wide.sread outbreaks of infectiius d?seses. global economic conditions disruptions in the credit markets and instab liy
+
+of the Euro culd adversey affet our business, financial conDition or results of operationf. Additionally, there has been onc'rn
+
+regaring thi overall !ong-term stability ,of t.e Eto and lhefutur' of the EÅro as a sinlek currency given the diverse economic and political circumstances in individual Eurozone countries. Potential negative developments (such as a Eurozone
+
+country in which we operate replacing the Euro with its own currency) and market perceptions related to the Euro could adversely affect the value of our Euro-denominated assets, reduce the amount of our translated amounts of U.S. dollar revenue and
+
+income from operations, and otherwise negatively affect our business, financial condition or results of operations. Although instability of the Euro would likely have more broad-reaching effects than only to euro-denominated economies, annual
+
+revenue in 2017 for our  
+
+  SONOCO 2017 ANNUAL REPORT    |    FORM 10-K     9 
+
+Table of Contents
+
+ebusinefses where th E'ri if' thE unctional currgenCy totaled $515 million. The
+
+vote by te Unit Kingdom to leave fhe Europe'an Union, could a dversely aflectus. n 2016, the U.K. voted o leAve the  E¸roPean Union
+
+(E.U.) (eferrdn so as Brexit), andin 201,7, the U.K. gave ,he:otice that com?mences te formaL Brexit lrocefs. Brexit could cause distuptins to andcreate)uncrtaintY surrounding-our U.K. businesses, includingaffecting. relationshipgs with exIfiTng
+and futufe cusomers. suppliers andemp/oyees. The efrects of Br'xit will depend on any agreements the U. K. makes to retain aCcess tF E'.U. marketi either during a transitional period gor more pe'rmanently. The measures cold potentialey dsrupt the
+
+markets e servealnd th ta Jurif-iclion in which ue operte and advesely change tax Benefits or liabilitiesin thel or othe jrisdicιionf. In additttn, Brext ciould -lead to legal uncertainty and potentially-diveIrgcnt (aional laws ad
+regulati~ns as the U.K. determines wich EU. laws to repla&e or replicate. Although the B-rexil decis-ion -coul have ñr}o.d-reaching ef.fects beyond just iin the U.K. itself, anmnual revenue in 2017 far our U.K. busnesses alone totaled
+
+$1o3 miLlion. We are fubject to governmental export aud import ontrol laws and regulations in cerlain nur ssictions wilere we do
+Business that colld subject us to niability or imPar our abity o compete in thesel markets. Certain of aur products arc subject to
+
+export control laws and regulations and may be expoted oly with an expoRt LicEnse or T¥hrofugh an applicab1e export lifense excePtion. If we fafL to ComPky with export licensiLg, customf regulitions, Ecoomié san-cfionf or other laws, we cluld be
+
+subject to substaniial civil or criminal penalties, includong eConomic sandtons agiinst us, incirceration ror refponsible employes-nd manag'rs, .n the poSsi*ble loss of eport or ýmport priviie es. n addition,if our distribtors faIl toovtin
+
+apprpr-iate import, export r re-ex~ort liCenses r permits,, we ma also be maerially adve-rsely a2f'cted thrugh re-putationalharm andpenalties. Obta'ning-the cessary efport l cense for a particular sale
+
+ma…, be tie consuming and exensfv' and could refsult in the Delay or loss o f sales op-pourtunilies. Furthermore, exporT conrcol aws id e6onomic
+
+satn-tions, prohibt the shipmenf of certain proucts to embargofa or sanctioned counties, go-vernments -nr persons While we train our employees to comply with these regulations, we cannot guarnnteeethat a violatio will not occur.A prohibied
+
+s:ipment could Have negat-ve'consequences,. inclîuing government investigations,.pealties, fines, civil and crimina-llanctions and reutational harm. 4Any chane in exprt er import regulations, economic sancTins r related legislation, shift in the
+
+enforcement or scope of existing regulaions or change in thze counirief, governments, perso;ns or technologes targeted y suCh egulations, cOld, decrease our ability to ',port oR sellou- products inïernationally. Any, limitation  our ability to
+
+exPott or sell our Products col,d maferaally adversely affect our tesnefs, Raw matriats, energyand other price imcreases orshottages
+
+mayreduce ofir net inc ome. As a manufactuoer, oursales and prfitabi1ity are depndent on the avai;aBiiity andcost of raw materials,
+
+labor ndother lnputs. mot of the raw materals we use are prchased from third "palrties. Principal cxamples RrE Recoveed p(apr, steel , unminum- and riesn. Ptriyes and av ailamility of these raw materials are subject to fubftantial fluctueations that
+
+are Bey6nd our control due to factors such as changing eCronomtc conditeons, currencY and commodity. price fluctuaions, resource aailfability,
+
+tranýportat on costs, wealher condi-tions anD nafural dsasters, poliica unrest and iNstabiligty, nd oftier factors impActing supply and dand pressu.es. Incfeases in costs can have an advcrse
+
+effect on ou bustneS1 ad financIal restlts. Our peformance dS-pendsinpat, on our ability tc pass on cost increasesuto our custoMers by ras-ig selling pices andf offset the impact by Mmproving prodctivity. ,Although miny of our l'nG-teRm
+
+conara&ts ad non-centracual Pricing arrngements withcustomrs permit limit'd price adjusments to reflect iNreased raw materl coRts, such adjustmetfts maynot ocCur quick, 'nough,ior be sufcicient ti
+
+prevent amaterialc aveRse rfnct on net incoime and cash flow. lurtherm;e, we may not be able to improve producivity or real:ize suf-ficient savingf from ur cost redUEtion initiatIves to offset th impat o.f inceased crosts. 
+
+Some of our manu-acdringoperations require the ufe of substantial amounts of electricity anD naural -gas, whicf may b  subject to siGnifiant price
+
+i>creases f the rtsult o, changes n overall zupply and dem:pd add the mpacts of legislationi and Regulatory actionl. We forecast aid moritoor eergy usa:ge,and,fromme to time, use com-modity fut res 'r swgps in an attempt to reDέce.the impaEt of
+
+enerGy Pice increafs: However, te cannot guarant'e succes. in thzse efforts, cnd we could fsuffer adVerre effects to net ico[mcand cAsh flow should w' be una ble to eicher ufset as pass higher energy cosls through to oiur Customers in a timely
+
+manner dr at all Supply shorages or disruptions In our suPply chains could affect our abi:lity to obtain tmely delivery t-f materials, equipmEnt
+
+and srupplies from or suppliers, and, in turn,, adveosely affect our ability io supply producls to our ciustomers. Such disruotiorni ciuld have a materil adveJe eJfeat on our fusiness and fnanciAl results. r
+
+We dcpend on thirdnparties for traunsportationservics. 
+
+We rely primarily o third pArties sfotranspor.ation of itHe products we manufacture and/or 5istribute, as– wEll as for deliveryof our raw mateials.In
+
+particlar, a signifi canp portion of the goods w'manuFacture and raw materials we use are transported by raHilroad or trucks, which are highly,regulated.If any f our third pAty tRansportatIion provider wre to Iayl io deliver th' oods that we
+manufacture or distribuie in a timely man-ner , wemight be unable to sel thse pooduats at full vAlfe, or at ll. Similarly, F any- of these purovideos wereto fai to deliver ram mnterials to us in a emell manner, e might be Unable to manufactute
+
+our producs in Response tocustomer demaid, In addition,if anyof tiese third prties were to, cease operations or cease diing Business wjth us, we might be unable to replace them at reasonable cost. Any failure of a third-party transportation
+
+provider to deliver raw materials or finished products in a timely manner could harm our reputation, negatively impact our customer relationships and have a material adverse effect on our financial condition and results of operations. 
+
+We may not be able to identify suitable acquisition candidates, which could limit our potential for growth. 
+
+We have made numerous acquisitions in recent years, and expect to actively seek new acquisitions that management believes will provide meaningful
+
+opportunities for growth. However, we may not be able to identify suitable acquisition candidates or complete acquisitions on acceptable terms and conditions. Other companies in our industries have similar investment and acquisition strategies to
+
+ours, and competition for acquisitions may intensify. If we are unable to identify acquisition candidates that meet our criteria, our potential for growth may be restricted.
+
+  10    SONOCO 2017 ANNUAL
+
+REPORT    |    FORM 10-K 
+
+Table of Contents
+
+We may encounter difficulties in integrating acquisitions, which could have an adverse impact on
+
+our financial condition and operating results. As noted in the risk factor above, we have invested a substantial amount of capital in
+
+acquisitions, joint ventures and strategic investments and we expect that we will continue to do so in the foreseeable fiture,. We are continually evluAtiug acquisitionf and straegic iNxEstents tht re significant to ui ufiness  both in the
+
+United States and internationaly.Acquisitionf, jont venhurel.and strtegic investments involvee numerous risks. .Acquired businesses may nto  achi,ve -the 'xpected levls of revenu'. profitability or produyctivit, o othe-rwise prform as expedted,
+
+and acquisitiis may involvc sionaficanT, csh expenditures, debt incurrenc, operatg losses, and exp'nses that cou-ld have a matrriel adversé effect on our fnancial conditiun and operating results Ac-quisitions alo inolve special risks,
+
+including, without limitat-on, the potenial ssumptlion oF unanticpatediiaBIlities anD coningencues,  an tle challenges of effectively itegrating acquired businesses. 
+
+Othe-r risks ad challenges assodia;d with'afquisitions inclide, wXAhout limitation:
+
+' demands on management related toincreafsee ih size of our bulinesses ant additional responfibilitif
+
+of mnagement;   divesion of managemenRJs attention; 
+
+  disruPtios to our ogoiqg usaiwesses; 
+
+  inaccurate es.imates of fair value in accountiÍg f6r acquis6itions and amortizaion of .cquird
+
+intaIgible assets which could Reduce future rEpoRted earning;-  dIfficulties in asimilation and
+retention of emplolees;   difficulties in ntgration of dePartments, systems," technologies, tooksK
+
+and reiords, controls (including internPl financial and dusc losre Controls), procedures, and policies; 
+
+ ' poten'ial lossof major customerf and suppliRrs; 
+
+  chalenges assoCiated with operatig in new geographic regnons; 
+
+  difficultiRs in maintinihg uniorm stanards, Cotrols, procedurcs and policies; 
+
+  potential failurt to identify, mκerial-problems Andt liabilities.during dre iligene review of
+
+acquisition targets; and   potential failure to obtain sufficient indemnification rights to fully
+
+offset possible liabilities associated with acquired businesses. While management believes that acquisitions will improve our competitiveness and
+
+profitability, no assurance can be given that acquisitions will be successful or accretive to earnings. If actual performance in an acquisition falls significantly short of the projected results, or the assessment of the relevant facts and
+
+circumstances was inaccurate or changes, it is possible that a noncash impairment charge of any related goodwill would be required, and our results of operations and financial condition could be adversely affected. 
+
+In connection with acquisitions or divestitures, we may become subject to liabilities and legal claims. 
+
+In conection with any acquisitionsor divestitu'res, weimay becoe subject to 1iabilities or legal claims, ?ncluding but notj limited to third parjty
+
+ldAbility and o*her tort claims; caiMs for breach of cώntract; emp'oyment-retatd claims; envionmntal, health  nd safet liabilities, conditions or damAge) Permit-ting regul'ator or oher legal compliance issuefs; or tax liabiuities. 1f we become
+
+subject to ny of theseliabilitles or'claimS, and they are not adequately coverd  y insurance or an, enforeble indemnity or'sHmilar agreement from a creditworthy conerparty, we, mafy be responsible for signicant
+
+out-of-pocket expenditurs. these liabilities, if they materialize, could- hAve a Matrial adverse effect on our business, financial gondition-and rsults of operations.
+
+We may enÝounter difficulti's restructuring operaeions or c1Osing or disposi-ng of Facilit1ies. 
+
+ We are continuously seeking the most cobt-effeclive meas and structure to serve ouRcfftomer and to ropond to changes in our Markets.
+
+Accor(dingly, from time to time, we haοe, and are li'ly to again close higher-cost facilities sell non-core asslts. and otherwise restructure operatnions tin an effrt to improve costwcompetitiveness and
+
+profitability. As a resunt, rcstructuri&g and divstilure costs have been, and- ale expected to e, a recuRing component of our operatvng costs, the magnitude of whIch coud vary signifi¢antly freM. Year to veardependingon-the scope of suc
+Tactivityes. Divestirures andrestrActuring may also resul insignificαant  financial cbrgei for' he write-df f or iPairmert of assets,, i,luding goodwi  and othc n-tanyboe assets Furth'more,Ë such
+
+act'vities my divert te attention of anagemen, disrupt our ordinaury operations, or result in a reduction in the volutm' of products produced and {old. Th're is no guaraNIee that any sucH activitIes|will achieveoun oals, and if we cagnot
+
+fzccessfuLlo mange the associaed riSks, ur finncial posρifion and results of operationscould be adv erseily affected. We face ntense
+
+competiti-on, and failure to compete effective-ly can have an adverie effect on oirgoperating results. We seL oui products in higbly
+
+competitive amnrkets. We regularly bid o-r new and continuing business, and beinga responsive, :high-qua/ity, low-cost prodcer s a kev c-oMmponent of etfectiVe competition.The losso of -busitess from our lrgr
+
+customers, customer changes to alterlnativc ΖOrMsofl pAckaging, oir renewal of business with less' favorable teRms dan have a dgnificant adverse effeFt on our operati-ng resuls. 
+cContlinuing consolidation ot our cusomer base and suppdiets mav intenfify pricing pressure. 
+
+Sike us,. many of or larger Cuftomers have acquired cÊmpanics with similar or domplementaey prduct, lin, and many of our cuftomers have been acquired.
+
+Additioally, many of ur suppliers of raw matrils are consolid1ating. Thjs consolidation of custmer and suppliers  as ncreased th'ocon-cetration of our Busness wib our largest customeRs, and in-some cases, increasEd prici-ng pressures.
+
+Similarly consolid*ation Of ouf larger suppliersJ has re suled in increasdpRicing pressurs from our sup-p!iers. Further consolidatonof custmers and supplirsc could intensify priCing pressure and reduc our net sales andoPeraiing results.Y
+
+The lgsf of a !key custoMer, or a rwduction in itsprodclion feiquir'ments,could have A significant adverse impact ozh aour laes and
+
+profitabilit. Eachof our.segments has large cuiste-mrs, Jnd the{ loss of anf of these coulD have a'sdgnificnt advrse effect aon the
+
+segments sales'and,, dep'ndng on the magnituoe of the loSs, our results of operati6ons anId financiali -coition. Althogh a majority of our mastïr customer conlracts are lOng-term,they are terminab1 und'r certain circumsianes, such ns ocur
+
+failoure po mee quality prycing, or volume requremelts,andthe cntra&ts themselvys, often o not require a specIfic level of purchasing. Theάe is no assuranc' tat existng cusiomer rlationships i'l fe renewed at the same Iev'l ofproduction,
+
+or at all,at the nd ff the contact term. Furthermor, although no one custcmer accounted for mzrethan 10% yf. ornet sales in 2o1t7for20;16, the lss of any of our tmajor customers,.a reduction intheir purchasing levels or an adverse clhAnge ip
+
+the terms of suppy agreemenTS with ;hse customers could )educe our net sales and n.t inc.ome, Continued coNsolidation of our customers cold exacerbate any such- loss. For more infoR.m ation on
+
+  SONoCO 2017 AN NUAL,  REPO RT    |    FORM 10-K    1i1 
+
+Table of Conternts
+
+concent-raion of sales volume in our reportable segments, see Item1(c), DepenDence on Cus4tomers.  
+W' may not be able to develop new roductf acceptahle to tfe mrket. 
+
+For mAny of o°r vusinesses, organic growth repends on prFduct inovatin, newn prodct d'velopmett and timely tesPonse tojconstantly changing consumer
+
+demhands and refrences. Sales nf our products a nd services depend heavily1on t/e volume of sAles made, by our custmers to consumers. Consume prefereces for proDucts and pacὲkaging formats are.cornst;ntly changIng based, on, amongother factors,
+
+coft, convenience, and healt, environmental and social concernseand pelceptions Our failu{e, or tl' failCre of curcu'stomers, to develrp neW or better pRoductl in respoNfe to changing consumer preferences in a timely manner may hinder our growtH
+
+Potental, aYda-ffectour &om*petvitive position, nd adversely affect our business and results of oprations. .We are sub-ject ro costs and
+
+iiabilities relatedto en-vironmental, ealth aund safety and corporate sofya mrefponsi-bility lawf and reglulationsithat could advcrsely aIftect operdting results. 
+
+We must comply with extensive laws,rules and regul tions inthe¦nitedStates ad in each of The countries in which we do business regardi-g the
+
+environment, ea!thand safety, and corporatc social'responSibility. Compliance with these laws and regulations can require significant expenditures of financial, and employee resources. 
+
+Federal, state, provincial, foreign and local environmental requirements, including the Comprehensive Environmental Response, Compensation and Liability
+
+Act (CERCLA), and particularly those relating to air, soil and water quality, handling, discharge, storage and disposal of a variety of substances, and climate change are significant factors in oÌr business and generally increase our costs of
+
+operations. We*may be found to lhave environmental liabilityfor the costs of remediating soil or water that is, or was, contaminated by us or a third party at various sites that we now, or previosly, owned, used or operated. Legal proceedings may
+
+result in the imposition of fines or penalties, as well as mandated remediation programs, that require substantial, and in some instancs, unplannoed capeital expenditures. 
+
+We have incurred in the past, and may incur in the future, fines, penalties and legal costs elating to environmental matters, and costs relating to the
+
+damage of natural resources, lost property values and toxic tort claims. We have made expenditures to comply with environmental regulations and expect to make additional expenditires in the future. As of December 31, 2017, approximately
+
+$20.3 million was reserved for environmental liabilities. Such reserves are established when it is considered probable that we have some liability. However, because the extent of potential environmental damage, and the extent of our liability
+
+for the damage, is usually difficult to assess and may only be ascertained over a long period of time, our actual liability in such cases may end up being substantially higher than the currently reserved amount. Accordingly, aditional charge could
+
+be ircurred that would have a material adverse effect on our 'perating results and financial position. Many of our products come into contact with
+
+the food and beverages packaged within, and therefre we ar subject to risks and… liMbilniies related to health And safetymatters in connectioN with those products. Accordingly, our pucts must compry with varioue laws anderegulations for food
+
+and beverages a pplicaBle to or cus tomers. Changes in such-laws and regulationi coul negatively impact ustomers demand for our products asrtley comply wlth s'cl chanes and/or r'quire usto
+
+make changs to ou products: Such chaγnges to our products could include odifications to the cotings and cmpounds e, use, possibly resulting in the incurre-nce of additianal costs.
+
+Addibionally, becaJuse many of or produ ctf ir used o packageconsumer goods,, we ard srbject to a variety of rifks that could influence cnsumer behavior and neatively impact -demand 'or our' products , including changesinfconsumer preFerenes
+
+dri-ven by vSxious ealth-related corcerns and percePtions. DisclolTure eregulation relating to the usx oC conflict mineurals slurced from
+
+tHe Democratic  Republic of the Congo antdadjoining countrief could aff'ct hesourcing, avlailability and cost o-f matiials used i thc maufacture oF so.e ofour products. We alfo incdr costs associated with supply chain due dili ece, and, if
+
+applic.abl., potenlial cb;angls to products processes or sources of snpply asa refult of suCh due Ailgnce. Becase our Tuppl chain is complex, we may als fac'.reputation risk with cur cust6ers and otler stakehold'rsif we Are ua bLe
+
+sufflcietly to verify the origins of all such mineAls used n u: products Chan(ges to lawh end regulations dalng with onvironental, ualth
+mand safety, and corporate socialCresponsibilit- issues ae madeor propoled with some frequnc, ndsome of the ,prOposals, if adopted, might, dirEctly or indircctly, result gin a materìal rediction in th' operAting reslts of one ormore of our
+
+operating. units. Hewever. any such clhanges re uncertain, an we cannot predicl the amout of additionil capita l expenditures or operaiing expenses that,could be necessary for compliance. OeProduc¬ liabilit-y claims and other legal piroc'edings coculd ad'frsely aFfect our opera tinns andfinancial eformCnce. 
+
+We produce pFucs a:ny provide services Related to other partis products. While we have built extensive operational processes intended to ensure
+
+that the design and manufacture of our products meet rigorous quality standards, there can be no assurance that we or our customers will not experience operational process failures that could result in potential product, safety, regulatory or
+
+environmental claims and associated litigation. We are also subject to a variety of legal proceedings and legal compliance risks in our areas of operation around the globe. Any such claims, whether with or without merit, could be time consuming and
+
+expensive to defend and could divert managements attention and resources. In accordance with customary practice, we maintain insurance against some, but not all, of these potential claims; however, in the future, we may not be able to maintain
+
+such insurance at acceptable premium cost levels. In addition, the levels of insurance we maintain may not be adequate to fully cover any and all losses or liabilities. If any significant judgment or claim is not fully insured or indemnified
+
+against, it could have a material adverse impact on our business, financial condition and results of operations. We and the industries in which we
+
+operate are at times being reviewed or investigated by regulators and other governmental authorities, which could lead to enforcement actions, fines and penalties or the assertion of private litigation claims and damages. Simply responding to actual
+
+or threatened litigation or government investigations of our compliance with regulatory standards may require significant expenditures of time and other resources. While we believe thatoe have odoted appropria(e risk magagement. and copliane
+
+programs, the gloBal and -diverse nature ofour oprations dmeAns that legal aud complance risks wiwl continue to exist and leAl proceedings- and other continglnt-ies, tlhe outcomeof which cannt be predicted wit ertcinty, wll arise fromf twme to
+
+time thatcoud adversely af-fect our busiess, results f oPertions and financkal conhdlin.  
+
+  12    SOXOCO 2017 ANN UALfNREPORT-    |    FORM 10-K 
+Table of ConertsP
+Changes-in pesion pLan asfetl'or liabylities may reduce operatig results end
+
+shareholers equity.e We sponsor vario defined benefit plans w;rldwidE, and have an .ggregate projectes benefit obligatione fori
+these plansof ap.praolateiy $1.8ubillion'as ofDecember 31, 2017. The diFference betWeen defined benif-it plan oblgati;ns ;nd assets (tihc fundced stahuf of the plans) significantly ffects the nt periodIc benefi -costs and the oTngoug
+efunding requirements yf the Plans. AmoNg othe factors,. changes in Dis&ount rat's and lowenrtha-expected actual inesment returns could substantially increase our future pla funding equitrements and havea negativ ei impact on our retults of
+
+operatiofns anv aashflows. As olf December 3 1, 2°17, these plans hold a total of approximately $1.5 billion in essets funding a portion of the. projected bneft obligations of the planf, Which- confist prmarily of commΕn collective trusts.
+p
+mutual funds, common. stocks and.dbt securities and also include alterlnative inveslments such asinterests ii real estatef unds and hcd~e funds. Ifthe perFormvnce of these assets doe n(o meet ourl asfumptions, or d-iscount rateis decline, the
+
+underFunding of the plans may increaieland we may hAve to contribute additional funds to these plans, and our pension expense may increaise, which coul adversely affect operating results and shareholders equity. 
+
+We, or our customers, may not be able to obtain necessary credit or, if so, on reasonable terms. 
+
+We have $1.0 billion of fixed-rate debt outstanding. We also operate a $350 million commercial paper program, supported by a $500 million
+
+credit facility of an equal amount committed by a syndicate of eight banks until July 2022. If we were prevented from issuing commercial paper, we have the contractual right to draw funds directly on the underlying bank credit facility. We believe
+
+that the lenders have the ability to meet their obligations under the facility. However, if these obligations were not met, we may be forced to seek more costly or cumbersome forms of credit. Should such credit be unavailable for an extended time,
+
+it would significantly affect our ability to operate our business and execute our plans. In addition, our customers may experience liquidity problems as a result of a negative change in the economic environment, including the ability to obtain
+
+credit, that could limit their ability to purchase our products and services or satisfy their existing obligations. Our credit ratings are
+
+important to our ability to issue commercial paper at favorable rates of interest. A downgrade in our credit rating could increase our cost of borrowing. 
+
+Certain of our debt agreements impose restrictions with respect to the maintenance of financial ratios and the disposition of assets. The most
+
+restrictive covenant currently requires us to maintain a minimum level of interest coverage, and a minimum level of net worth. Although we were substantially above these minimum levels at December 31, 2017, these restrictive covenants could
+
+adversely affect our ability to engage in certain businessfactivities that would otherwise be in our best long-term interests. Our
+
+indebtedness could adversely affect our cash flow, increase our vulnerability to economic conditions, and limit or restrict our business activities. 
+
+In addition to nterest payments, from time to time a significant portion of our cash flow may need to be used to service our indebtedness, and,
+
+therefore, may not be available for use in our business. Our ability to generate cash flow is subject to general economic, financIal, competitive, legislative, regulatory, and other factors that may be beyond our control. Our
+
+indebtedness could have a significant impac on us, incluting, but not limited to:   ineresing our vulnerability to generνal adverse economic and industry conditions;   requiring us to dedicate a significant portion of our Cash flow from operations to payments on our indebtedness, thereby reducing the amount of our cash flow available to fund working
+
+capital, acquisitions and capital expenditures, and for other general corporate purposes; 
+
+  limiting our flexibility in planning for, or reacting to, changes in our business and our industry;
+
+   restricting us from making strategic acquisitions or 'xploiting business opportunities; and 
+
+  limiti-ng our ability to borrow additional funds. 
+
+We may incur additional debt in the future, which could increase the risks ass,ciated with our leverage. 
+
+We are continually evaluating and pursuing acquisition opportunities and may incur additional indebtednss to finance any such acquisitions, as we did
+
+in 2017, and to fund any resulting increased operating needs. .Ad new debt is add'd'to our current debt levels, the relAted riskf w' fac could increase, While wewi!l have to effect fany ew financingin coρp/iafe wiih the agreem'n-ts governing our
+
+then exis-ting indebtedJness, changes in our Debt levels and or debtsaructuremay impact oir credi rating and coS s lo borrow as well, as &onstrain our future financial flexibility in the event of a deteiorathon n our f[inancial operating
+
+performance or financialcondition.-Currecy exchnge Rate fluctuations may reduce operating reslts and shareholders equity,
+Fl:uctuations in curr'incyxchnge rates can cause tran.slation, transaiction andOther lossef thaδe rcan uNpÇdictably and adVcrselyaff¨ct
+
+our consolidated operating refults.b0Our rePorting currency is the U.S. dollar. However, as a result ol operatianîg gobally, a portiOn of our c nslidated net sal's, cofts, assets Cnd liibililies, are denominated in currencie other than the U.f.
+-
+dollar. Inour-consolidated fInakcial statements, we- translate the Local currency financial resultf of our foreIgn oPeratioansvinto u.S. dollars based .on their respctive excange Rates.cpendvng on the direetion,/changes in those rates vill cither
+
+icrease or decrease oera-ting, rcsults and bal-ances as RePo0te in U.S. dollars. Athough we monitor our exposure¡ and, fRom tim e to tme, 0ayuse forward currency conracts to h'-dge cegt;ain forecasted currency transactions or foreign currency
+denomin:tedassetfamnD liabilities, thif does notQinsulate us completcl from foreign currfncy fluctuations and, expose us to counterparsy risk of nonperformance. 
+
+Asinoted previously inthese Risk Factors,. there are all onjoing coincer! abcut tif stability of athe eu-ro amd itontinue  viabIlity as a siNwle
+
+Europea crrecy. IF indivedlal countries were .to revert,-or threaten to -rev'r, tò their former localcurrenies, ero]-deTnomiinated asseTs could be significantoy devalued. Iln addiTtion, adifoCatIon or issolution f thc euro could cause
+
+significnT volatilityand disruption nSthe glodal conoMy, whih could advrsely impact our Busin'Ss, including the demand for our produats, the availability n cost of supplies andmaterialf and eur abili-ty to obtnin financing at reasonablef
+costs. AdVetSeweatherand climite changes may result Im ;wer sales.
+
+We mtanufacture p~ckaging Products for beveeages and foods as as well as products used in construction and industrial manufacturing. Unfea'onab:y co,ol
+
+weather can tάemporaRil.  
+
+  SONOCO 2o17 ANNUAL, REPORT    |    FORM 10-K    13 
+
+Table of ,ontes
+ 
+reducý demaid foe crtain beverages ackage in our contanners. I additio,'p:or wEathe conditions can:t'mporarily impact the, jeὶel ofconftruction ad industrial activity and alsi impact the
+
+efficiendU of our manufaCturing o-p'ratbons. such-disrptionS could have a materIal ad-verse- eFect on ourire(ults of opertionf. We e'ly
+
+on oufinformation technology and its failure or disruption could disrupt ouR operaiOns, compromise customer, employe', ’vendor aUd other data, anddvers'ly affect our re sultsof opertions. 
+
+We rely on !he successfuland uninterpte functioning of our inforMation technologies t Recurely manage operationf and varinus bufsiness functions-
+
+and we rely on various technoloies &to pr'cesf, store and rport inormatio about our -bufiness, and toeinteraCt with custoMers, nendorsand emptoyces aroundCte world. As with all large systems, oue¬ information technology systems may Be susceptite
+fto damage disrrptionor shutdow) due to power Outages,dfailures during the process o upgradingor replacing software, hardwar½ falures, co&puter -viruses, cybe attacks, catast-roPhcevents, te;lecoRmunidationr-failuref, use errors, unauthortzed
+
+aceff, and malicios8or accidental Destruction of infrmation or functionality. W' alio maintainjanD have aCcess ,o sensitve, coNfidtential orpersonal Dta or information thai is sUbject toJ-privacy and security laws regulations and customr
+controls. Despit our effors to priotect such ses-iivc, confidentil br. person;al data o-r information, our facelities and systems andthcse ovf our customerl aud third-party scr'ice providers may be vuLnelab le to seCuruly breacha, mis'pLaced or lost
+
+data, and programmindg and/or useR errors t at could lad To tle compronising op:sensitive,  confidentia or personal dat or information. 
+
+Information system damages, disru tlonf sbutdovwns or compromises  could resuît in roduction Downtimes ad operatiotnal disruptions, iransacticon eiro,
+loss of custoMe:s and business opporiunities, legal liability,fregulatory fines, penatties'or inter'vention, reputational damage, reimburseMent or compensatory payments, and other csts, any ofwhich couldhave a material adverse effect on 'ur
+
+bvsiness, finan+ial po.itionand 0esults of opeations. Athough we aTempt to mtigatc thefe risksby empLoying a numbel of-measurs, our, syst ems, net·wrks, proucts,. and fervi,eJ reman potentIhll vulnefable; to advance-d :nd persNisent threas.
+
+ Wehave a signilicant amount of goodwill and other intangible assets a'nd i writedown woulcd negatively impact operatng reslts and
+shaieholers equity. At deCember 31, 2o17, the carrying value of our goonwill a>d int(angible asseef was approximate ly
+
+$1.6 billlon.  are required to evaluate our goodwill amults anually, or mor frequenTly whin evidnce of potenialmpairment eists. The impairment ©est requirs us toanalyze a numbcr ofactors aNd-make 'stimates that require judgment.
+
+As a refult of this testing, we have i-n the pas reCognized goodwill impairment charges, and we have identified two reporting units that currently are a& risk of a significant future impairment charge if actual results tall shoçt of expectations.
+
+Future changes in the cos-t of capital, ex:pected cash flows, changes in our business strategy, nd externa1 market condttions, among other factors, coul require us to record an impirmeNt charge for goodwill, whiCh could lead to decreased assets and
+
+reduced net income. If a signifitant wrte down were requlred, the chage.cpld have a mate1ial adverse effect on our operating resultl an sharehold ers eqaity.
+
+Our ability to attract, develop and reteintalented executives. maNacirs and eFmployees is
+
+critical toour success. Our ability to attract, develp and retain talented employees, including executives and other key managers, is
+
+important to uur business. The experience lnd industry contacts of our management team and other key personnel significantly benefit. us, and we neld expertise like theirs to carry out our businefs (trategies an plans. We also rely on the
+specialἐized knowledge and experience of certai key technical employees. h' los öf these key officers and employees, por the failure to attract and develop lelnoeD Hew cxecut¼ves, maagers and eployees, coud have a mfterially adverse ef-fe&t on
+
+our business πffective successin planning is also important toQour long-teRm-success,Aaid falue to ensure effective transfer of knowledge and smooth transItiosivolving qkey officers and employes could hinder our strvtegic planning and
+Fexecutlon. Full realization pf onr deferred tdax, afet may be affected, by a umfr of factors.ï
+
+We have. defrred tax assets,, including U.S. and forign operating loss carrftorwards,capital loss carryforwArds, employe Anhd retiree b'nfit items,
+
+and oth¢ accruals not yet deductible for tax purposes. we have es1ablished vauation allowac's to educe those dfered;tax-aSsets to an, amount that we Belceve is moe. likely than not tobe realized prior t expiration of such deferred tax assels.
+
+Our ability to ufe th'se deferred tax assets depends ie paÃ upon our having future taxable itcom d ring the periods in which, these' teMporary differences reverse or our arility to carry back ny losses creted bà The dedutio0 of these temporar
+
+differences. We expec to realize these ufsets over an e,Atended pEriod. However, if we were'unable to generatesu fFici nt future taxable income ein the U.S. and certain fofeign jurizDi ctions, os if tEere were h signrficant change. in the time period
+
+within which the underlying temporary différences bcame. taxableàor'deduttible, we cyoald be required to increase our valuation illowances Against our6deferred tax assets, which would increase our effective tax rate whic could have a material
+
+avese effect on our reported rcstlts of oτerations. Our annual eff'ctivctax rate oand the lamount of txes we paty can change materially
+
+as a result of changes n U.S. and foreign ta,x laws, change! en the mix of our U.S. nand foreign erningsi adju-stmentf, to our estimates for the potental outcome of any uncrtail tax issues, and audits by federAl, ftateanD foreign tax authoritief.
+
+ As a large multinational corpoation:we are subject to U.s. federal, state Ald local, and many foreign tax laws andregulations,, all of
+
+which are complef and subject to varying interpretations. Changes in these laws or regulations, r any c-hange in the position of tn authorities' regarding their Applic-ation, adMinistsation or iterprettn, could hîe a mateurial advers effect
+
+on our busiess, consolidated finagncial condit-ion or results of our operations. Due to widely varying tax rates in the, taxing jurisdictions
+
+applicamle to our tusiness a chnge iincome geneation to hgher taxing jurisdictions ore away from lwer taxõing ?urisdictons may also have anadverse effec on o~ur financial cnditn and results of oPerati ons. 
+
+We make estimatef o-f the potential± outcome of uncertain tax issues based on our -ssessment of relevant risks nd facts and circumsances existingk at thE
+
+rime, and we use these assessmento to determine the ad'equacy of our profision for income asesc and othsr ax-related accounis. These estimates are hig'hy judgmental. Althugh we,believe e adequately
+
+ro- 
+
+ 14    SONOCO 2017 eANNUAL
+
+REPORT   | i  FORM 10-K 
+
+Table of Contents
+
+vie'for any reasonably foreseable outome related tu hese matters, future results may include favorable or unfavorable majustmens t estimated tax- iabilities, which may cause our effective
+
+tax rat to fluctuate iignificantly. I addition, oaur income tax returns are subj'ct to regular examonatin by domftic ad fo,eign taT
+
+aiuthorities. These taxing autHorities lay Iislagree with th positions we ave takin or intend tu take regaring the tax treatment or charctlrization F any of our transactions. If any tax au-thorities were lo sces)fully callege the tax treatKnt
+
+r Eharactnrizationef any of our tranfacTions, yt comld have  material adver2e effe] on our bwsiness, cnsolidated finoncal condition or resultsof our oerations. Furthermόoire, regardlesf of hEther any such chalenge is resolved in our favor,
+
+the finaL resol ution of suc matter ceuld Abe expensiv nd time consuming to defen and/or settle. Future c)anges in tax lacQuld si-gnificantly impact our provisibn for incctme ttaxes; the amuntaf taxes payabe, and our deferred tax assel and
+
+liab lity balancEs. As further dDscufsSd in Ntc 13 oourDecerber 31, 201 7 finncial statements incuded in Iem 8 of his Firm 10-K, the IRI has prviously notified us hat it diisagre's with our characterzaion of. a distribution, and sfbfequent repayment, of an intercompany note in 2012 and 2013. If the IRS were todrevail,w' dcould. be
+freqἀired to, mAake an adjusTment to i.come for the afFectd veerf and pasy.a sgificant- amOuunt ofr additional ta,es, which could have amate-rial afverse.efûfect on our rsults of operaons anD financial condition$. 
+
+Challengesato, oe-the ioss of, our intllectual prop'rt  right couldhavc  adve:sedimpact on our ability to compete effe&tiv'ely.
+
+ Our abilit to competeeffectively dependis, If, part, on our abilitjy to protect and maintain th proprietary naure of our owned a
+
+lice nsled inrellectual property. We own a large number of patents on our products,' Aaspects o-our p-roducts, metds oF ue and/or methods of manufacturng, andiwe own, or have licensesuto use, all of the material trademark and trade .ame rights used
+
+in,connectio(withtDhe oackaging, marketing a dis-tribution ofour cjor products. eWe aso rely or tarad secrets, know-how and other unpntented propretAary technilogy: We Dattempt to protect and restirict
+
+acc'sl to our iantellctual property a-nd proprietary, informaton by relyuRg on. the patent, trade-mark, copyIght ao trae seCret eaws of the U.S. and other co-untries- s well As non-disclofure agreements.
+
+However , t may be pofsiale. forda thirD party To obtain our, information without our authortzation, .ndep'ydtntty develcp similar technologies, or bereach a non-disclosure re ementsentereD into with us.
+
+Furthermore, mny ofthe courntries i which we operate do' not hve inteliectal propErty lawfthat protect proprietary rights as fully as do lawS. in tbe o.S. The useof ofur int'llectual property by omeone clse witho t our aithorization courld reduce
+
+o eiiMynte certainof our cometifive advantages, cause us to los sales or otierwisa harm ur bufinesf. The costsassocated with: protecting our intellectual -property rights could also adverel impact our business. 
+
+In addition, we are from time to time subject to claims from third parties suggesting that we may be infringing on their intellectual property rights.
+
+If we were held liable for infringement, we could be required to pay damages, obtain licenses or cease making or selling certain products. 
+
+Intellectual property litigation, which could result in substantial cost to us and divert the attention of management, may be necessary to protect our
+
+trade secrets or proprietary technology or for us to defend against claimed infringement of the rights of others and to determine the scope and validity of others proprietary rights. We may not prevail in any such litigation, and if we are
+
+unsuccessful, we may not be able to obtain
+
+any necessary licenses on reasonable terms or at all. Failure to protect our patents, trademarks and other intellectual property rights may have a material adverse effect on our business,
+
+consolidated financial condition or results of operations. If we fail to continue to maintain effective internal control over financial
+
+reporting at a reasonable assurance level, we may not be able to accurately report our financial results, and may be required to restate previously published financial information, which could have a material adverse effect on our operations,
+
+investor confidence in our business and the trading prices of our securities. Effective internal controls are necessary to provide
+
+reliable financial reports and to assist in the effective prevention of fraud. Any inability to provide reliable financial reports or prevent fraud could harm our business. We are required to assess the effectiveness of our internal control over
+
+financial reporting annually, as required by Section 404 of the Sarbanes-Oxley Act. We need to maintain our processes and systems and adapt them as our business grows and changes. This continuous process of maintaining and adapting our
+
+internal controls and compling with ectiorn 40o4 is Exp'nsive, time-consumin-g ald requires sifnificant management aîtention. As we grow ur buslinesses and aciquire otier businsSes, our in,ernal controls will üecome increasintly cOmplex nand we
+
+may require significantly more resoTurces . The integration of acquiIe busineses intoour intrnal control over fnancjal reprtong as required, and wil—continue to require, sig<nificant tiie :ndresoucel frm our management and other
+
+pesonnel and will inreas' our compl;ancecsts. Addiiionally. mintain-ing effEctiveness of our i-nternal contol over financial reporting is mode more cha1lenging b y the faFt  that we hav' over 160 subsiiri, and jint ventures'in 33
+
+counturies around the worLd. Asdescribed n Ite29A o this Form 10-K management h conclded,tat our internal controls over fin;ncialreportingawer eftective as-of DeCembr 31, o2017. ]Th'r is no
+
+assurAance tha, in the future, materal weaknesses oill not bºe idenifiúd tat would caus management to chaFnge its currAent conClusion as t he effectiveness of our interal controlf. If we fail to maiItain the aDequ/acy of our internl contols, as
+
+'uch standards aremodiFied, supplemented or amende-d from time to time, we ould be subjet to regultorysctutiny, civil mr criminal penalties or, litigat on . In addition, failure to maintain adequate internal contr'ols could result. in financial
+
+tatemenf that do, not accurately reflect our finaiecial cgndit'on, and we maY be sequired to restte prevxously putblished financial, infor-mation, which could have a material adverse effect0iiour operationl, investor´ confitence in-our business ad
+
+the treding prices of ougk Securities. Sayeralof our operatios are conducted byjoint ventures that we dannot operate'Jolely or or
+
+beneft.Severalof our operations are co;nducted hrough joint vettures. In joinl vehtures, we share ownership an in some instaces,
+
+management of a company wth on, or mOre parties who may or may not h;ve the saIe g;oals, strategies. prioritiesor resources as we dlo  In geeral, joint Ventures ar' itende-d to be operated for the benefit of all
+
+co-owners, ather than for our cxclusiv benetψit . Operating i business as a -joint venture oftenreqaires additional organizational formalitiesas weLl as, timt-consumi ng praceduesfor shariNg information,
+
+accuuntaing and making deciJios. In certain ases, uur joint vent're partners must agree in orer for tte appliable joint venture t take certain Actions, including acquisitiτns, the, sale of assets, Iudget approvals, borrowing moey and granting
+liens on, joint venture property. Our inability  tade unilateralacion tLhat we belie is
+
+  SONOCO 2017 ANNUAL REPORT    |    FORM 10-K    15 
+
+Tabl e of Contenls
+in our besi interests may have An advers' ef-fetcT on the finaacial performance of te joit ent.re and the return on ourÆ investent. In joiint ventures, wc believe our re,l,t-ionship with our co-owners is n importat factor to -the suc-cesfof t~e joint venture, Eand if a co-owner changes, our relationship may be adversely affected. In additin, te fbeneFits. fd m a
+
+successfu-l jint venyure are shared amosg te co owners, lo that we dpo n'ot receive all tfe benefitS fromourn successful join-t ventures. Finatllyk we may be req'irsD on a legal or practcolbasis orboth to
+accept liability for obligations ofaa joint venture beyond our economif interest,. including incases where or co-own'r becomes fanKrUpt or is otherwise unale to meet its commitmentS. 
+
+Material difruptions in ourbusinests operatiOns colDnegAatively affect our finaicial resuls. 
+
+Although w' ke mesures to miNmize tHe rIsks of difruption-at our fa-cilities, We may none theless frm time Tto' ti e encounter aN unforeseen mateal
+
+nperationa disruption noneof ur= majour facilit es, wlich could neg.tivelY im7pactProjution and our finanCIal r'su1ts. Such a diirupom could occur as a result of any number o-f events includ4ing ut not limited o a.major equipment failorc,
+
+labor st÷op ages, lranslotat7ion fAilures affecting the supply and shIpment of, materials, diruptios at ouR. spplieRs, fi-re, sEvere wether conditions and disruptions indutility services. These types f disrup1tions co'l-d mteriall adversely affect
+
+our earnings toAvarying degrees depeDding upaon lhe fxcility, thedurtio-n' of the disrupton,our aBilit/ to shift businefsto another f,acilitsy OR fin alternative sources of materials or. energy. Any lofses dueto these events Mey noI >bt |cveredby
+
+our existing insurVnc'  olicie or may be siBject to centaindeductibles. Iem 1B. Unresolved
+
+staff commcts There arcno unresolvediwrilten commentfs from the SEC staff regäding the Companys peiodiC or urrent 19 uct
+
+tePorts. Ite 2. Properties 
+
+The Ciompanys colPorate offices ar-e awned and operated in Hartsville, South Cdrlina. Thereqr' 290 Ownedand 60 leased facilities used by
+
+opetations in th Paper and Indusrr-ial Converteid Products segnant, 34 owned and 46 leased facilities used by operaions in thd Consumer -Pakaging f'gment,  7 ὲwnedk and 17 leased facilitiet useD by oper/ations in the Display and Packaging se-gment, and
+
+10 owncd and 26 leasid facilitie, used by the Protectihve Sioutions segnment. Europe, the mosl significant forign g'o aPic regio in dhich the Company, operatEs, bas 57 manufacturing locations. 
+
+Item 3 Legal proceedings 
+
+The Company hrs .been named as ta ipoteniallyresponseble party (PRP) at seve-rsl e-vironmentally contominated sites not owned by th'.Company. All of the
+
+setEs a-re also the responsibilit of other parties. The Companvs liability, if any, il sh-ed with sch oer paRties, but te Compaeyts share has not been finally determined ir most casns. In s,me cases, the Compan hs Pcost-sharing
+
+agreements with other PRPs relating to the sharing of legal defense costs and cleanup costs for a particular site. The Company has assumed, for accrual purposes, that the other parties to these cost-sharing agreements will perform as agreed. Final
+
+resolution of some of the sites is years away, and actual costs to be incurred for these matters in future periods is likely to vary from current estimates because of the inherent uncertainties in evaluating environmental exposures. Accordingly, the
+
+ultimate cost to the Company with respect to such sites, beyond what has been accrued as of December 31, 2017, cannot be determined.
+
+As of December 31, 2017 and 2016, the Company had accrued $20.3 million and $24.5 million,
+
+respectively, related to environmental contingencies. The Company periodically reevaluates the assumptions used in determining the appropriate reserves for environmental matters as addiTional informatin becomes availeble ad makes appropriaute
+
+adustments, when wrranteId. Fax River settlemnt 
+
+As pr-viously disclosed, i Ja-nuary 2017, U.S: Paper MlLs Corp. (U.S. Mills), a whlly owned subsidiary oF-tHe Coampany, obtaini-d Court( appRoval f a
+
+final set-tlemet of cost recovery claJms made by Aippvion, Inc. f-$3.3 millin. ThE settlemeint was paid duriig the first quarter of '017, and retated egal-an professioral fes totaling $0.4 millionwerepaid duing the course of 201t7.
+
+All pAymenfs were mAde aainst previously estabLished reserves and no rdditional epense wa{ required to be recognized in 2017. As a result of-this settèement becioLming final, the CoMpany and U.S. millshave resoRved all pending or thratened lega
+
+prceedingf reylated :o the :Fox RivEr matteR,cas well s anyf such proc'edngs knwn to be contemplaed by goeernmenta authorities., OtherS
+
+lagaL motters Adiioal iorm ation regarding legeal proceedings isò provided. in Note. 14 to athe Co,nsolidated FiinanciaÚl Statements ofthis
+
+Annual Report on Form 10-K. Iem4. Mine sfcty
+
+disclosures Not ppli*cable.
+
+ , 16    SONOCO 2017 aηNUALc
+REPORT    |    FORM 10-K 
+
+Table of ontents
+
+PART II 
+
+Ite Z. MarKet f@or registents ommon e-quify,
+
+relatedsptockhrolder ma-ttcrs and issuer puchasel ofequity se-curities Thc Compan's comMon s*toCk is traded ol the NewYork. stock
+
+Exchonge undeR th' stock symbol SON. As of Decenber 31,2017,, there weëe approximately 64,0o0 shareholdepr aAcounts. Informateion reίquired b)y Item 2o1(d) of Regulation S-K cn bc found in 
+
+Part II, Iteä 12 of this Annal RePort on For⅛ 10.K. The following table yndicates the h'igh and low sales\prices' of, the .Companys common stcock for each full *uarterly perio w-ithin the last two
+
+years as rportred o-n the TNew Yor-k Snock Exchnge, as we*l as cash Dividends decla.red percommon shae: 
+
+ Th Compaymae te follow!ng
+
+purthafesof itf securities during the forth quarter-of 2017: Issueer purhases  f equity lecuritis 
+
+The Compa d,idnot= mRke aNy unregistere&d saes of its sec ities duri ng 2017. 
+
+  SONOCO 2017 A?NNUAL, REPORT    |  ,  FOrM-10-K   17 
+
+Table of Contnts
+ 
+Ite 6. Selectefd financial data
+
+The followiI able set( forththe Companys selected crnsolidated financiaLç information f-r the Past five yars. The nformation presented below
+
+should be read together wwth Managements Discssion and Analysbis of Financial Condition, and Results of Operaions binCludud in Item 7 oF ths'Annual RePorl on Form 10-K and the Companys
+
+hiStoRical Conlo!idted Financ'al Statements and te Notes tereto ineluded in Item 8 of this Annual Repoct on .F:m 10-K. The sleted stauement of income data and balance, sheet dala. ae deriVed from te
+
+Companys Cnsolid;ated Financial StJ-terEnts.  
+
+Item 7. Managmentos discussion And {nalysis f
+
+financial condition and results of operations General overviw
+
+Sonoco is. a eading manufactur'r of-;onsumer, inoustriar and pcroteCtive øpackaging producs and provider of packa-ging srvices witm 29u locations in  33
+
+countries. The Cepanys operations are, reportd inwfour segments, Cosum'r Packaging, Displa and PakaagenG, Pper iand Indutrial Converte d Profucts, and Prot-ctive Soulions. 
+
+Generaly, the Company servel two broa.d end-ue markets, consuner and industrial, whîc, perAod to period, can
+
+exhibit different economic characteristics rom eac1 other. G'ographically,.App-roximately 65% Ol sales weretgenerited i-n the United States, 19% in Europe5% in lCanada and 1ú% in oiher regions. 
+
+The Company is a market-sharei leoderk in many of its; prnoduCct lines, paticularlr in tubes, cores and composite containers. Compielition in most'of Te
+
+Compays busineiss is intense  Demand fr the ConpayIs products and services is primarily driven by, theoverall l'eel of &osumer consurmption of
+
+non-duraBle goods; however, c ertain produάt and rvice groups are tied more directly toi durable gOods, fich as -ppliancesę, automobiles, a-nd constrution,
+
+The businesses that supply anJ/or service consumer prod uct coMpnies have teniged to be,n a relative basis, mre recesBsiûon resistant thanthoe t at servce industrial markets. 
+
+Financially, jth', Comipanys objctive-if to deliver avrage annual double-digit Totalcretures to shareh*ders otver time. To meet rthat target, the
+
+Company focufef on thuree majior areas: driving profitable sales growth, improvcngmarigins and leveraging, fhe Companys stron g cash floW nd financial posityon. Operatwnailly,'lhe Companys goa is to be the çacknowledged leader ini
+
+high-quality innovative, value-creatingpackaring slutions within targn-ted customer: market segmens. Orr the next thre to f.our y'ars, the
+
+Company aspires to Achieve bse carings befor*e inte-rest, tues, depreciation an-d, omarization (EBITDA) morgIns of 16%'peryear, and increase return on net assets empioyed to 11% or more, sabject to the impacts ofpoential acquisitions (se
+
+ose of Non-GAAP finanCial measuresbelow). Altlough ach-iving thee oals could
+
+  1'8R,   sONOCO 20!7 ANNUAL
+
+REPORT    | l  FORM 10-Kd 
+
+Tableef Conents
+
+prove to be difficult, the Company belieVes  will be successful by focusing on the followilng: organic'sales growth in7ludig nc-w product, development an. expansion in emerging internAtional
+
+amarkets ; strategic cquisitions; and orgin enhancement through mio e effective customer relationship masogement, oxganizational design, indorect spend management, and im pro-ved manufaturing productivity supPly chain and back offi¦e support
+procesfef. Use of non-GAAP finan&ial measures 
+
+To assesstand communicae the finanCial performance of the Company, Sonoco management uses, both internally and externally, certain financial
+
+performance measures that are not in conformity with generally accepted accounting principles (non-GAAP financial measures). These non-GAAP financial
+
+measures reflect the Companys GAAP operating results adjusted to remove amounts, including the associated tax effects, rflating to restructuring initiatives, asset impairment charges, environmental charges, acquisition-related costs, gains or
+
+losses from the dis-position of businesses, excess properly insurance recoveries, pension settlement charges, certain income tax events and other items, if any, including other income tax-related adjustments
+
+and/or events, the exclusion of which mantagement believes improves the period-to-period comparability and anaaysis of the underlying financial performance of the
+
+business. The adjusted non-GAAP results are identified using the term base, for example, base earnings. 
+
+The Companys base financial performance measures are not in accordance with, nor an alternative for, measures conforming to generally accepted
+
+accounting principles and may be Different from non-GAAP measures used by other companies. In addition, these non-hGAAP measures are not based on any comprehensive set of
+
+accounting rules or principles. Sonoco continues toprovide all information required by GAAP. but it believes that evaluating its ongoing operating results may not be as useful if vn investoror other user is limited to reviewing only GAAP financial
+
+measures. The Company usef the non-GAAP-base performance measures presented herein for internal planning and forecasting purposes, to evaluate its ongoing operations, and to evaluate the ultimate
+
+performance of management and eacl business unit against plan/forecast all the way up through the evaluation of the Chief Executive Officers Performance by t[he Board of Directors. In, addition, these same
+
+non-GAAP measures are used in determining ncentivej compensatlun for the entire mamagement team anD in providing erntngs gzuidance to th' investing community. 
+
+Snoco,managemnt does not, ore Doel it sug-gest hat investb rs shoul, consIderthese non-GA.AP financia.l
+measuresin isolation rom, or as a substitutefor,-financial information prepar¢e in accordance with GAAP. Sonoco presents these non-GAAP fanancial measureso provide ufers informaèion to evbluate
+
+Sonocofs operating results in a manner simila to how management evlaluates busiess perf6rma-nce. Mator al limitations -assocat'ed with the use of ęu-ch measuref are hat tey do inot relacm all period costs included in operating@uxpes's and may
+
+notireflect financial resuts that Are compirable to finan-cial Aresults of otherk companes that present similar costs differntly. fUrthemore, thcalculations of ,tbesseio GAAP measures are BaseD on
+subjective delrminations of mageme-nt regardng thenature an classification of events and circumstance.that thc Dinvestorfma jin material and view differently. To compensate for these limtations ,: manag'ment believes thai it il usefiul in
+luNdeistanEing; and nAlyzing the re(sults of the business to review both GAAP information whiche includes all of the items iMpnacting financial results and the non-G,AAP me asures tat exclude' certan elemenJs0, as
+
+desCribed, above. 
+
+Restructuring andrestructurinG-related as5t impaI'rent charges are a recurring it'm as SrnocosT
+restructurng.programs usually require sEveral years t fuly implemenl and the Company is coniuully seeking to take ations that conut-d eohance irs etfficiency. Although reiurring, these charages ale sbjct t sinifican fluctu.ations from Pcriod
+
+to period ue to the -varying levels of restruturing activity aldmthe inherent imprecision in the eftimates usd to recegnize tce impairment ofassesanu the widE variety  of c,osts and taxes iassogiated wfith severance and.temination -benefits Inthe
+
+.cou-ntries in which the estructuringactions cccur. Recunciliations of GAAP to base resultss ae presentedk on pages 2-2 vn, 23 in can'nction with
+
+managements-doiscussion and anaysis o-f the Companyfs resu.ts of operot,onf. Whenever eviJwinlg e ncon-GAAP financial cmeasure,. readers are encouraged to  eview the, related recociliallion to ful-y
+
+understand how it differs from the selDtei GAAP measure. Reco1ncilIations are not povided for non-GAAP measees related to fuiure pears due to the likely occurrence of one ormore yfe the follbwing, the timing
+
+andmagniTude ofwhich manage.ment is unableto reli;ably forecast: possIble g'ains or losses on the sale of businesses or other assetf, restructuring costsand restructuring-r;lated impairmet charges,:acquisition-related costs, and the tax effect of
+
+these items and/or othenr income tax-related events. These items could-have a significant impact on the !Companys future GAAP financiaf results. 
+
+2017 overview and 2018 outlook 
+
+Despite low growth ratesin many of the Companys served markets and volatie raw materialcosts, Sonoco reported imprOved results in 2017, posting
+year-over-year improvements in our Paper and Industrial Converted Products and Consumer Packaging segments. Operating profit improved $24.8 mllio, or 19.1 percent, year-over-year, in the Paper and Industrial Converted Produdts segment
+
+and $10.0 million, or 4.1 perent, in our Consumer Packaging segment. The performance of our Protective Solutions and Displayand Packaging segments fell short of expectations in 2017 as both posted year-over-year declines in operating
+
+profit. Display and Packaging experienced significant startup costØs related to a new pack center near Atlanta,1 Georgia, wHile Protective Solutions struggleds with decreased volumes, specifically in automotive components.. On a compady-wide basif,
+
+gains from a positive overall price/cost relationship (the relationship ot the change in sales prices to the change incosts of materials,, energy and freight), manufacturing productivity improvements, and lower ma/nagement incentives were onl
+
+partially offset by declines in volume/mix and higher labor, maintenance and other operating costs. Although these net benefits increased gross profit year over year, changes in he mix of business, as well as hrigher raw material costs, increased
+
+cost of sales disproportioÛnAtely fo sales. As a result, consolidate- gross profit margin for 2017 declined to 18.8% compared to 19.6% in 20G6. 
+
+Current year Net Income Attributable to Sonoco (GAAP earnings) declined $111.1 million, or 38.8%, yar over year. The decline was primarily driven
+
+by pension settlement charges in 2017"totaling $20.2 million, after-tax,Vand a $51.3 million net dax chxge related to the enactment of the U.S. Tax Cutj and àJobs Act (Tax Act). Prior year results
+
+included a $49.3 million gain, after ax, related to The sale of the ~ompanys rigid plast cs blow molding operations. Base earnings, which oxclude the premiously mentioned, current year charges, the prior year gain from the sale of the
+
+rigid plastics blow molding operations, as well as certain other items of income and exipense, as more Fully described within this Item under Use of Non-GAAP financial measures and reconciled within
+
+this Item under Reconciliations of GAAP to Non-GAAP financial measures, improved $4.5 million, or 1.6%, year over year.
+
+  SONOCO 2017 ANNUAL REPORT    |    FORM 10-K    19 
+
+Table  f Contents
+
+Key cxpetations for Z2017 were thaT oversle volumes world ncEbase byaroun³, 2%, with volumes in
+
+0ote tive Solutions and Dipla and Pa&kaginG epected toincrease/athigher rates,, pric'/cos would be posmtive, and that toverall proluctivity would be stron en'ough to offset theexpected ainflAaion in labor and other cosls, except for incrbea:ies
+6in pesion ald post-retireent xpensÔ. Volume was essentiallY Flat overall as mod'st Declines in Global RKgi¨ PaperC-ostainers Protectiv PackagSng and recyling were partialldy offset by  gains in Paper, PlastVicsand Display aNd Packaging: Reported
+
+sales were u 5.3% from a combinatio of higher s'llng prices in response to hrgher-raw material-costs, the p siti'e impct of acquisitiins neT of Dispositions, and th e translation impact of a weake dollar. Offsetting Tme earnings impatct of lower
+
+thanexp ected vol;me. the Com-pany was able to achteve a slro;ngeir t6han xpected potitive pr-ice/cost reletinqship in many oF its busesses, amded by the timing and magniΖude of certain raw mateial cost changes tbogther with procuremext productivity
+
+gains. Although lmanu-facturing roductivity improvements for the φar fell short ef, expectatos, thc results four -ixed cot productivity and cost management eftorts eebetter than ep.ted And partially offset inflAtnonin labor nd other
+
+costs. Pension and -pstretirement. benefit expenses forhe yearwee approximatey $33.2 milion higher. in x201,7 han 2016 , diVenprimari-ly hØy
+
+settement chargs Related t lump su. payments andpuurchases of annuities fnr certain pla partic-ipants. The aggregate unfuDed Poitio- f the Compenys varIous deFi ed beJnfit plans decreased from $o407.3 milion at; thόe,eD of 2016, to
+
+$355.2 million at the end of 2017. This decrease was largely driven by the strong market performance of plan assets and contributions to the plans in 2017, partially offset by the impact of lower discount rates on plan liabilities. 
+
+The effective tax rate on GAAP earnings was 9.3 percentage points higher than the prior year while the rate on base earnings was 0.5 percentage points
+
+higher than in 2016. The increase in the GAAP effective tax rate was driven by net charges related to the enactment of the Tax Act. The modest increase in the base effective tax rate was due to less benefit from the U.S. manufacturers
+
+deduction, as well as from other domestic tax adjustments, partially offset by greater benefit from distribution of earnings between high- and low-tax jurisdictions and the change in treatment of the excess
+
+tax benefit from share-based compensation resulting from the adoption of ASU 2016-09 in 2017. See Note 2 to the Consolidated Financial Statements for further information about this new accounting standard.
+
+ The Company generated $349.4 million in cash from operations during 2017, compared with $398.7 million in 2016. The majority of the
+
+year-over-year decrease is attributable to a $50 million voluntary contribution to the Companys U.S. qualified defined benefit pension plan in the fourth quarter of 2017 and timing of payments and collection of receivables, partially
+
+offset by lower year-over-year income tax payments. Cash flow from operations is expected to be between $560 and $580 million in 2018. Outlook In 2018, managements focus will be on driving synergies related to the businesses acquired in 2017,
+
+accelerating organic growth, improving manufacturing productivity and using the Companys strong financial position to make strategic acquisitions primarily aimed at its targeted growth areas of thermoforming, flexibles and protective
+
+packaging, along With slect consolidating inDustriai opportunities primarily in emerging markct{:iae  Company. has identificd  uunbr Of targeted growth. projects, he Majority f whicfall wythin its Censumer Packaging, Dfpl¾ and Packaging, and
+
+Proective Solutions segments and emering mar¸'ts .thata re exPected to help dreive 
+
+organic gr(oth. Inaddition, a kyaeaof focus wi-l be on ramping up productinn andimproving operating fficiecy at tHe, CompanyTñs neW contract paCkaging serfices center near Atlanta,!Geor(gi. expected cost sncreases'in oraw materials partIcularle tinplate steel and ol corrugated contain[ers {oCC), couldcreate prefsu.on reportedearnings. An offseting factol culd be the rea'iZaton of f;recasted declnes iô the value of the
+HUS dollar whi-ch wouldfinreas th' reported earnings of our foreign operatons, In lzarg part, prOductivityefFrts.will be focused mn rErucing our operationt
+
+unit-cost-to-prcduce through the continueD internal foll out af the Sonoco Perfbrmance System , zur sys.ema tic apPrsahto operational excellence.-
+
+ManageMeit expeSts iovenrall vo lume in, 2018 To incrasIe aproximatcl 2%. 1Although tHe Compa hcas project'd that overal price/cst wiLl be positive rin
+
+201S, the likelihood of- cotinu-ed volaility in'key rawAmateria.l prices could make pr-icing for theiureCov'ry more challenging. Manufactirin productivity is expected to more than offset the projecteD inceases n labor and oth'r costf. 
+
+Ex&ludiFg the nonr-rcur»ing settlement charges recogized in 2017, the Company proje-ctt total beneFit pla
+
+expense.to be approximately $8 millin lower in 20iS tian ͏n 2o017. This anticapated dCrease is primarily da¢ o lreater excte returns on Plan asets due to a higler asset base. Part:amy  offsetting t-his favorble impct isthe effeci of
+
+lower discout rates. Totalcontributions i 201.io the Company(f domestic and iinternational pensin and postretirm'nt Plansareexpecled t be approximately$38.5 million. 
+
+In considcration of the abve factos, management is projecting ovcral Margins fr both Gross profitand bafe ebIT to improve mode7ty over 2077
+
+lvelf. Absent an,addiional vorrowings in 2018 from acquisition Aciity, ne interest expenfe iS pected tno increase afproximaely
+
+$3 miloion driven by 4igher average annualdebt balances-from funding 2o17 acquisitiotp, TØe casoi-datc effective taxrate on baseearnings is expected to be between 26% and 27% in 2018 coMpired wiuth 31.1% jn 201 7 The anticipaf'd
+'year-over-year decline is driven bv the enactment oftLhe Tax Act. The Coma,y, does not, -provide projected GAAp earningJ results due -to the likely
+occurrenC of Ine or more of the± following, the nmingand magnitude̎ of uhich we arc unable to reliabl forecas-t:possirle gains or lsses on t-h sale άf businesses rotherfNassets, restructuin costs ind restru tuling relcñted impairment chargas,
+
+acquisition-relat'd costs, and the incomet tax cfccts of these items and/o othr income tix-related events.-These items could have a significant impact onte Compays fuiure GAAP financ ial results.
+
+ Acqusi;[ions and dispositi-ns Acquisitions The Company coMpleted two acqursitions during 2017 at a cOst of $383.8 million,net of cash
+
+acquired.. On March 14, 2017, the Company completed tie aCquisition of Packaging Holdings, Inc. and subsidiaries, incluTing PeninsulaPackaging LlC (Packaing Holdings), for $218.8 miltlion, net, of Aash acquIred. Packaging
+
+Holdings menufactures themoformed packaging for a wide range of whole freshfruits, pre-cut fruits and produce, prepared salad mixes, as well as baked goods in retail supermarkets from five manufacturing
+
+facilities, including four in the United States and one in Mexico. The Company financed the transaction with a combination of cash and borowings, including a $150,000 three-year term lean. The acquisition of Packaging Holdings is expectedto add;
+aproximately $190 m'illion of annual sales in the Companys ConsWmer Packaging segment. On-July 24, 2017, the Company completed¨the acquisition of Clear Lam Packaging. Inc. (Clear Lam) for $165.0 million neit of cash
+
+acquired. Final consideration vill be fubject to an  
+
+  20    SONOCO 2017 ANNUAL
+
+REPORT    |    FORM 10-sK
+
+Table of Contents
+
+adjustment for working capital, which is expected to be completed by the end of the first qurter of 2018. Clear LaM manufactures high barrier flexible and frming films used to package a variety
+
+of produc-ts for consumer p:ckaged goo-ds companies, retailrs and other. industrial manufacturers, with a focus on structures used for perishable fooads. It has production facilities int Elk Grove Village, Illinois, and Nanjing, China. The Company
+
+financed a portion of te transaction with $100 million -in borrowings from a $250 million five-y'ar term loan With the remeining purchase price funded froms available short-term credit facilities. The acquisitio of Clear Lam is expec*ed to
+
+add appo,imately $140 million of ánual fals in th Companys Cnsumer, PackagiNg segment.The Company completed faur acquisitions
+
+during 2016 at a tcost of $88.6 ml'ion, net of cash acqUired. On Junt 24,  2016, the cOmany completed an acquisition in its Paper and INdustrial Convert'd Proucts, segment of a smabl, tube and corre bus nss iN Austra-lia for
+
+$0.9 million in cash. On Auust 30, 2016 , the comptany coMpltedhth acquisition in its Protectyve Soluttns fegmt of the tEmperature-Controled cargo containEr dssetf,- licenses, trademrarks, and manufaCtuRing ights from AR Corpoation.
+
+T tal consid'ration for this bsÛnesf ws $ .0 mill-ion consisting of a current cash Paym'lt!f $3.0 millio n, non-contingeNt deferred cash consideration of $2.0 mi'ion, d continglnt
+
+consideraTion valued at $1.0 millio[n. 'Also in The Protective Solutions segment, Laminar Medica(Lamnar),i A privately hel speEialty medical pRoducts ;imany based in theU.K, was ,acquired on. September 19,2016 For
+
+$17?"2 million,net of cnsh acqurehd. O Nvember 1, 2016, tbe Company dompleted the ac7usition on ts Consumer PaCkaging sel.ent of Plastic Packigi-ng Ic (-PPI), a privately held Hick.os,
+
+NC-(based flexible packaging company for $67.6 mti,llion, net of cAth vacqired. Founded in 1957, PPI sPecializes in sho-rt-run, customized lexible packaging hor
+
+consumer brxnds in markets includig: food products (i.e. fozn foods,baked goodf, seafood ), pet -products (7i.e. dry food,. bird seet, liter), confectięn (y,e. seasonal promotionf, heat-sealed chocolate paCKaging, hard and soft candy)v andhealh
+
+and personal car (i.e. nutraceuticals,diapers, tissues/wipes ). aThe Company comfleted wo aiquisitions during 2015 t an aGgregate cost if
+
+$21.2 millin of wich $17. million was -paid in cCsh. O1 April 1, 2015, the Company acquir'd i 17% controlling nterest inGrff- ParanAensde Embalagens SA (Graffo ), a flexitbledpackging budiness located in Bazil.;
+oGraffo servesthe confectionery, daTry, pharmaceutial and tobacco markets in diazil with approxmaely 230 employees.Total cosideratin paid for Grifff, was aPproximately $18.3 million including cash of $15.7 million, and assumed debt
+
+of $2.6 million. On September 21, 2015, the Company acquired the high-density wood plug business from Smith Family Companies, Inc., in Hartselle, Alabama. Total consideration for the acquisition was $2.9 million, including cash of
+
+$1.8 million and a contingent purchase liability of $1.1 million. The contingent liability payment of $1.1 million was paid in September 2017, upon the second anniversary of the acquisition. 
+
+Dispositions On
+
+November 7, 2016, the Company completed the sale of its rigid plastics blow molding operations to Amcor Rigid Plastics USA, LLC and Amcor Packaging Canada, Inc. for approximately $280 million, with the Company receiving net cash proceeds
+
+of $271.8 million. In conjunction with the sale, the Company recognized a gain on the disposition, net of associated fees, of $104.3 million. The Companys rigid plastics blow molding operations included seven manufacturing facilities
+
+in the U.S. and Canada with approximately 850 employees producing containers serving the personal care and food and
+
+beverage markets. The disposition of these operations is expected to negatively impact the 2017 year-over-year sales comparison by approximately $175 million. The decision to sell the blow
+
+molding operations was made to focus on, and provide resources to further enhance, the Companys targeted growth businesses, including flexible packaging, thermoformed rigid plastics, and temperature-assurance packaging. This sale did not
+
+notably affect operating margin percentages for the Companys Consumer Packaging segment, nor did it represent a strategic shift for the Company having a major effect on the entitys operations and financial results. 
+
+See Note 3 to the Consolidated Financial Statements for further information about acquisition and disposition activities. 
+
+Restructuring and asset impairment charges 
+
+Due to its geographic footprint (298 locations in 33 countries) and the cost-competitive nature of its businesses, the Company is constantly seeking the
+
+most cost-effective means and structure to serve its customers and to respond to fundamental changes in its markets. As such, restructuring costs have been and are expected to be a recurring component of the Companys operating costs. The
+
+amount of these costs can vary significantly from year to year depending upon the scope and location of the restructuring activities. The following
+
+table recaps the impact of restructuring and asset impairment charges on the Companys net income for the periods presented (dollars in thousands):  
+
+ During 2017, the Company announced the closure of an expanded foam protective packaging plant in the United States and
+
+five tubes and cores plants  three in the United States, one in Belgium, and one in China. Asset impairment charges recorded in 2017 included a $17.8 million charge in the fourth quarter of 2017 recognized as a result of the
+
+Companys decision to shut down its #9 boiler in the Hartsville, South Carolina manufacturing complex. In addition, the Company recognized severance charges throughout 2017 related to the elimination of approximately 255 positions in
+
+conjunction with the Companys ongoing organizational effectiveness efforts. During 2016, the Company announced the closure of four tubes and
+
+cores plantsone in the United States, one in Canada, one in Ecuador, and one in Switzerland. The Company closed a packaging services center in Mexico and a fulfillment service center in Brazil. The Company also began manufacturing
+
+rationalization efforts in its Reels division, and completed the sales f a paper mill in F'rance and a retail security packaging Pmant in uerto Rico. I ddition, the Compony contirnued- to realign its cost stru-ctu-e, resulting in the eliminnation of
+
+ap-prximately 80 positions.  
+
+ , sONOCO 2oj1,7 ANNUAL REPoRt    |    FORM10-K    21 
+
+Table of Contents
+
+Dring '015, dhe Company a;nnounced theclosure ofs rgid paper frcilitiestwo in the Uni tedm
+States, one in Canada, oe ine BRussia, one in Germany, and on'e n the" dUnited: Kingdom; the closuure of A production lVineEat a hermoforming plant-i the United States; and thc sale of a prtion of -its metal cnDs aNd closuref businessin the, United
+.
+States. RestructurinG acticis a1so included th closures of a tubes and cores plant.  recycling b'sinesfs, and a printed hacker crd acility in the United States. During 2ã15, theCompay glso recognized asset impairment charges relate t.o thc
+
+planned sale of a paper, mill in Fr!neeöand elminated opproximately 235- politeons worldwidin Aonjunctiwith 2he ComWanys ofganizational effectiveness efFo{ts. 
+
+he Ccmpany expeΙts tO recognize future dditioa cos-ts total;ng approximatelyj $C3.6 millon in connecti n with previously
+
+tannounced r estmructiring acto-ns. The Company bflieves that  the lajority of these hirEgef, will Be incurrd and paid by thre end of 2018. Ιhe company regu larly evaluAtes its cost structure,
+
+including its malufaCturing c;apaoity,: and additional restructuring actinf are likelp tobe cundertaken .'Restruclurng and asset impairmen charges are subject to s'ignlificant fucutions from period to period èue to the varyilg levelsk of'mrestruCturing activity and, he inheret imprecision in the estimates used to recognZe thermpaimcNt of Aassetsand the wide va.rety o castsand taxes ssociated with se-verance. and termination benefits. in the countries in.which tee Cmpany
+
+operates,See Note 4 lo the consolidated Financial statemcnts for further informatin about restructuring activities end asfse i¶pairment
+
+charges.  
+
+ Œ ReconciliatiosT
+of GAAP to nlod- GAAP financial measul—s The following, tables reconcile the Comanys non-GAAP-financial etsures to their Mpst idirectli comparaBle GAAP fnanCiAl meafurls for each of rhe yeaRs presenled:  
+
+ . 22    SONOCO 2017 ANNUAL
+
+REPoRT   c    FORM 10-K a
+
+Table of; Contents
+
+R'sults of opeations  2017 fersns 2016 
+
+Net LnAome attributable to Sonoco (GAAP e.arnings) wtaes $175.3 million ($174 tper diluted sharE) in 2017, compared with $'86.4 -milliok (f2.8'l
+
+er diluted shrare)g i 2016. Current-jear earnings reflect net aFier-t,ax chArges, totalin $106.4 millin, consistingSof pension settlement char-ges, tax ciarges relatedfto th 2017 U. S . Tax Cuts ond Juobs
+Ac; rEtRucÓuryng/asset impirmenl dharges aid acquisition-relattd expenses. These carges w're partially offsetby insurance setilementains. 
+
+Net income n x2016 as pofitively imacted by a Net aft&r-tax benefit of $292 -million consifting of the
+
+gain froim the disposal cf theCompanys rigid plastics blow mold-ing opera“tion,.partiAlly offsel by rcstructuing cofts, afse impairment chrrges, acquisition-related expenses, and foreign incomg tax losses related. u rate adjstments. 
+
+Bse earnings nn 2o17 wer' $ 281.8 nmillion (2.79 er diluled shar), compRedwith 2,7 7.o2 mill-on ($2.72 per diluted share) in2016. 
+
+Both GAAp and bnase eanings in z017 benefited fom a pssitive price/dost relationsh-ip,-productivity improvmets and eower management incentibÂ
+
+expense. Tlese favoable factors were pArtially ffset by negative volrle/mix, particularly in Rigid Paper North America,highEr oveRhead aid other'oPe'ating cosTs and nnfavora>ble Canges ins foreign currency translation. 
+
+The fetive tax rate on GaAP earnings was 46.6%, cÑmpar d, with 37.3%in 2016, and the effnctiveÔ tax rate on ba=e earnings was- 31.1%,t compare wth
+ς
+30.6% in 2016. The unusually high GAAP 'ffeΑtive tox rte in the current yenr refle-cts the currently recoglized effects of, the US. Tax -Cuts and JobsAst Tax act ). Applicatio  of the^ Companys l(owe estimated future effecatIve tiax rate duto
+
+the Tax Act resulted in a decrease tothe C[ompanys recorde amouut of deferred tax liablities net of deferred .ssets. Conseuently, i the fourth quater of 201 7 the Comany recorDed a $257 Million decreafe to tse net deferred tax
+
+liabile-t.ies with a corresponding deceae to GAAP income tax expense. Thif deCreasE en lxpense was re th.an ofset by a $76.9 million chaRge to record-the Tax Actsrone-time ta:nsiion tax on
+
+certain accumulated foreign earnings. The 2016gAAsP ta ate, which ws. also higher thÒan Normal, wasneGatively afrected by th' tax impact of the dfposal of the ompanys rigid, plestis rlow molding operations. The e0f'ctive tax rat on b se
+
+arnings was essentially fLatyar romeir yar. 
+
+onfolidated Net iales for 2017 we.e $S.0 biylion, a$2o4 million, or 5.3%, in-creas from
+
+2016. The components of the sales cHange wer:  
+.
+ in ordr to ehanc the meanigfulncssof reported changes in volute/mix, a $20. 7 million reduction in pack+Glng
+center saleS resultingfrom changes n the level ofa.ctivity s classifi'd above as other due to-the lowf/inconsist'nt co'relation tht typically xsts between changes in revfNu nd changes in opratng prefit in our pakagiNg centet
+
+oprations SAes volum/mix w.s essentilly flat as organic volume grWt and a favora'ble change in prouct mix in a numbetr f'our bufinesses
+
+m¦ostly offset volume declnes in rigid paper containers an-d aUomotive colmpeneits.For.the most Part,. pricehanges for the Companys products we-re driven by cianges inthe unerlyiNg raw matgerials costf. In 2017, many of ;he.Companys
+
+primary raw materials faw yncreases n thei markef pricef; epecialy, old corrugated containers OCC). which saw an average increafesof more than 50%year oveR yeaR. his incurease most directly safected the, caper and Industrial-Converted PfoDuts
+
+sEgment while the increase in other raw m.terials, mainl resins, most dirctly afFected the Consumer ACkaging! segme̎n. While he fUll-earaverage OC price whs up year Cveryear,Priaes during the year. were volatile wit periodS ol uharp
+
+increases and decreases resulting in signficant margin swins. Howevr,ithle Compan as abl foachieve an overall positive price dost *elationship. While he Compans201?7 tand 2016 acquisitioas addied more than $259 million to domparable
+.yea-over-year' salef, hhe mpact Was mostly ;offset by fales decreases of $191 mi!lion relaed to d;spoitions, the most siGnfifaintof which was the 2016 sale of theCompanys rigd plastis blrw molding operations, Finally, foreign
+
+xchane rate chAnges incresed year'overyeark sa^s as a msT all of the fore1Gn Currencies inwhich the ComPany condlts busi ess strengthened slightlyin relaon to the U.S. ¢oÑlar.
+
+  sONOCO 2oI7 ANNUAL 'REPORT    |    FORM 10-K    23 
+
+tTable of- Contents
+
+Total doestic salef were $3.3 billion, up 49% from 2017 levIl¶. Inten'ationAl fals were
+f$1.8 billion, up 6.1% from 2017 with most' of the increase driven by growTh in the Compants idustril bufin'sses andathe iMPact tof foreign currecy transtatin 
+
+Costs and expnses/margins 
+
+Cost of sales was, up $241.8 mil1l on in 2017, ot 6l.3%, flrom the prior yea pimarily due to raw material pr"ice inerease& and dditionl volune from
+
+acquired businesses net of dispofed businesses. Despite he positive rice/cost .elationship, and Modest productviy improvements, an unfavorable mix of s.alefand highe- labr and othr costs r esulted in grosS purofit margins declining to 1S.8% in
+f2017 froM 19.6% in -theQprior year. Aggregte pension and postretiement plan epenses ilceasfd $C3.2 millioi cN 2017 to a total ofr
+ 
+$78.5 million, 'om-pared with: $45.3 million Inl2016i In February 2017, the Corpan initiated i progdam tok setftlea portion f its pensin lla.bility related to terminated vested participants in the U.S. qualified retirement plans through
+
+either a single, lump-sum payment or the purchase of an annuity. During the course of the program, the Company successfully settled approximately 47% of the projected benefit obligation of the terminated
+
+vested plan participants. As a result of these and other smaller settlements, the Company recognized non-cash settlement charges totaling $32.8 million in 2017. The settlement charges are reflected in
+
+selling, general and administrative expenses, and account for virtually all of the year-over-year increase in pension and postretirement plan expenses. The remainder of pension and postretirement plan expenses are reflected in the Companys
+
+Consolidated Statements of Income with approximately 75% in cost of sales and 25% in selling, general and administrative expenses. See Note 12 to the Consolidated Financial Statements for further information on employee benefit plans. 
+
+Selling, general and administrative expenses increased $37.7 million, or 7.4%, and were 10.8% of sales compared to 10.6% of sales in 2016. The
+
+current year increase in selling, general and administrative expenses is largely attributable to the previousl mentioned pension settlements. In addition, acquisition-related costs increased $9.2 million from last year to $13.8 million.
+
+Absent these items, selling, general and administrative expenses were essentially rlat year over, year. GAAP Earnings before inteest and income
+
+ltaxes (EBIT) were 7.3% of sals in 2017 compared t° 10.3% in 2016, The largest contributor to this eclaine was the 2016 gain on the sale of the Companys rigid plastics blw molding business. Base EBIT dclined to 8.9%.of salesin 2017 compared
+
+to 9.1% in 2016. The year-over-yar decrease in gross profit margin discussed above contributed to-the declies in both GAAP EBIT and Base EBIT. 
+
+Restructuring and rstruc-turing-related asst impairment charges totaled $3..4 million and. $42.9 million in 2017 and 2016, respectively.
+
+Additional information regarding restructuring actions and impairmentssis Provided in Note  4 to the Companys Consolidated Financial Statem'ntf. 
+
+R'seach and development costs, all of which were charged to exaense, were $21 million in 2017 a.d $22.5 million in 2016. Maagement expects
+
+research and deevelopment spendin to remain at a simila-r levelin 2018. Net interest expense to.aled $52.7 million for the year ended
+
+December 31, 2017, c'mpared with $51.6 million in 2016. The increase was due primarily to higher average debt levels as the Companyused debt tofund acquisitions. On July 20, 2017, the Company entered into a Credit Agreement in
+
+connection with a new $750 million bank credit facility with a syndicate of eight banks replacing its then-existing credit falility entered into o October 2, 2014, and reflecting substantially the same tcrmM and conditions. Included in
+
+the ne facility are a $500 millon five-year revol-ving creoit facility and a $250 milliun five-year term
+
+loan. Based on the pricing gridin the Credit ArreeZment akd the Companoscurren cc it ratmngs, the borrowing oas an.all -in dra"wn margi of 112.5
+
+basif points abovi the Londo-n Inerbank Offernd Rate (LIBOR)., Borrowings under theßCredib Agreem'nt are pre-payable at aoy time at thoe dscretion of the Company and. theterm loAn aS anua amortztion
+
+payments totsl-ing $12.5 million.-Iè Jiune 201.6, t ComPany settled its $75.2 million 5625l ebenturEs upon thei, mathrity,. nd in May 2016 used prceeds ‘frPm a new 100% Fixed rate Euro 150 Million ioan to settle the remrining
+
+$150 million balan-ce ir a-variabl rate Derm loan ntered into in conjjnction with the 2014 acquisition of Weidenhammer Pa:kagirng GrouP. 
+;Reportable segmoents The
+
+Company repors its financial results in four Reportable segmenti.' Cpnsumer Packaging, Dispay and Packaging, Paper and Industil Con0verted Poducts, an Protective Solutios; 
+
+Conso lidateduoperating profills,, also referred to a Income before ileoest and income taxes on He Consolidated Statements of Income, are
+
+comprised of the following:  
+
+ Segment results viewed by Company management to evaluate segment performance do not include restructuring charges,
+
+asset impairment charges, acquisition-related charges, gains or losses from the sale of businesses, pension settlement charges, specifically identified tax adjustments, and certain other items, if any, the exclusion of which the Company believes
+
+improves comparability and analysis. Accordingly, the term segment operating profits is defined as the segments portion of Income before interest and income taxes excluding those items. General corporate expenses, with
+
+the exception of restructuring charges, asset impairment chargef, acquisition-related charges, net interest expense and income taxes, have been allocated as opetrating costs to each of the Companys reportable segments. 
+
+See Note 16 to the Companys Consolidated Financial Statements for more information on reportable segments. 
+
+Consumer Packaging  
+
+ Sales increased year over year due to the March 14, 2017 acquisition of Packaging Holdings the July 24, 2017
+
+acquisition of Clear Lam Packaging, Inc. and the full yedar imphct of the  
+  24    ONTOCO 2017 ANNiALl
+REYO RT    i  -  FORM 10-K 
+
+able o  Cotentl
+
+November 1, 2016cquis7ition of: Plastic PaCka-ging Inc. thefe incre.feswereffublintialy offseVt by the Reducion in year-oe-ycear saues due to tpe November 20i6 disposiion of the
+
+Companysrjgid p-lastic bloW molding opertio s. Higlher sel1liNg prices n-mosJ of tHesegments bufiinIesfes, driven l-argely bv raw ;ateril price inceases, wteremosatlvy offse by volume declins iln Rig'd Pa wr Containers orthmerica and
+
+Europ as well as Flexible Packaging. Foreign curren&y tra;nsltiogn added approximateLy $5 miIllion to segment trade sales yearover year due to a weaker U.S. dolφar. Domstic sles wreapproximatele $1,o461 rillon,. up 6.8%, o-r
+i
+$93 million. frm ·2016, whIl intrnational stales were apProximAtely $6g3 million, down-1.9%, .r $13 million,Yirom z016k. Segment
+
+ope”rating profits inreased by $10.0- milliOn year over year and operat;ng profit marins of 11.8% wer unchangetd from 2016. The inrcase ino segment oerating profits was largey drive by s-olid gains in anufactuRing productivity and thI
+
+positive impact of the relaboinship betWeen sell'ng prices and costs. Th8sebcneIts were partially offset by vOlume decfines in globsal composite'cans rand flexi.ble packagig asYwell as infl¼tion. Mateial purchasing and logistics savings were key
+
+driMvers of t¢ positrve price/coft relationfhip. At an operating pfit levet, ht legativ impact of divestilures somewhat exceeded the -benefit of aCquisitions largely Due to tnimin; 
+
+)apital ip3nding in the segmen inCluded nimerous pro:ductivity projects andexpa-nfio of manufact'ring.cA_eabilities in North Americo primariy in
+
+flexible oackagyng and PlastIcs, ad expansior of manufActuring capabilitiesin E rope l rigid pap'r cofntainers.Display hnd Packaginlf
+ Domestic trade sales iÑn tle segment increased-$3.2 mllion, or :1.3%, to $249 -mllin, wile inrerational
+
+trade sales decreaescd $15 million, or S.6%, to $z59 million. The inciease in Domestic trada sales r'suted from increased volum at our new retail packaging ful-fillment centerin etanta, Georgia, offset by lower volume i r'tnal secumiy
+
+packaging aNd the impct of the Ju!y 2016 fale ouf our etail secu-yty packagi facility in Juncos, Puerto Rico.The decrease ininte natiornal saes reflects the Companys xit from a packaging center fulfillment cúntract wilr h custom'r
+
+resulting in the trAnfitio of thc opration of certain factlities in Mexico and Brazil back to tie customer dureng the first halF of 2016. This decline in sas wrs tom'what offset bk the positiv inmpact of aproximately $10 million from
+
+foreiln currecy translitiol as a r&sultof a stro,nger Polish zotyω reeative lo thie U.S. dollar year over year: The.d'crcJse in fegmenr operating
+
+-pirofit waslargely due tm inefficienics and higter thn expected aperating costs associated͏wth. the ramp up of producteon al ihe ew Pack &eputer in Atlant. Higher than anticiPaTedproducRion requirements, pinarily inrespo nse to mul.tiple
+
+hurrlCanes, excseeded the newfacilIts capability to operate effi-ciently ith the inStìLled equipmen and'a relativey inxpeienced rforce tiat has alfo icujred a highle than expected turnover rate. The Compan is woring to esolv-e these
+andother opertional issues and is optimistic that over time the. center wil be able to aciEvc effiCien6y and cst levels  in line with epectations. A inabilpit to
+
+meanin-gfully impove he oper;ting results of thif pack centeran¦d/or improve results oF otHer operatios of the rePor-ting unit, may reslt, in, chargs for long-term aset impairment, or godwill
+
+impairment, or both. Capital spendg in the segmenJ was driven by a significnnt customerdevlopment poject. in North aAmerica coupled with
+
+expansieno^ maὺofacturing capabilities in Europe. Paper and Industrial. Converted Products 
+
+ On average, market costs for Recovered. paper in the U.S. were higher year ove-r year resultinG in hig*er average selling
+
+pricesuin all of the segments domestic businesses. Selling prices were also higher-in Brazil ;nd the AnDξean region, primarily due to ove:all inFlaton, and were iup in EuRoPe due tothe pasf through f higheur materil costs in that market.
+Question: What are the segments in which Sonoco Products Company operates?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

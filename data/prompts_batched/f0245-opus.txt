@@ -1,0 +1,948 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-029-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+v485563_10k.htm
+
+FORM 10-K
+
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 
+
+Form 10-K 
+
+For the fiscal year ended December 31, 2017 
+
+or 
+
+For the transition period from            to            
+
+Commission file number: 814-00967 
+
+WHITEHORSE FINANCE, INC. 
+
+(Exact Name of Registrant as Specified in its Charter) 
+
+(305) 381-6999 
+
+(Registrants Telephone Number, Including Area Code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Securities registered pursuant to Section 12(g) of the Act: None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.Yes o No x 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act.Yes o No x 
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.Yes x No o 
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).Yes o No o 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of the registrants knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. x 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or emerging growth company. See definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. (Check one): 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Securities Exchange Act of 1934).Yes o No x 
+
+The aggregate market value of common stock held by non-affiliates of the registrant on June 30, 2017 based on the closing price on that date of $13.37 on the NASDAQ Global Select Market was approximately $111.0 million. For the purposes of calculating this amount only, all directors and executive officers of the registrant have been treated as affiliates. There were 20,531,948 shares of the registrants common stock outstanding as of March 9, 2018. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+None. 
+
+TABLE OF CONTENTS
+
+WHITEHORSE FINANCE, INC. TABLE OF CONTENTS 
+
+i
+
+TABLE OF CONTENTS
+
+PART I 
+
+In this annual report on Form 10-K, except as otherwise indicated, the terms: 
+
+On December 3, 2012, we converted from a Delaware limited liability company into a Delaware corporation. In this conversion, WhiteHorse Finance, Inc. succeeded to the business of WhiteHorse Finance, LLC, and the members of WhiteHorse Finance, LLC became stockholders of WhiteHorse Finance, Inc. In this annual report on Form 10-K, we refer to these transactions as the BDC Conversion, and, where applicable, shares refer to our units prior to the BDC Conversion and to shares of common stock in our corporation afterward. 
+
+General 
+
+We are an externally managed, non-diversified, closed-end management investment company that has elected to be treated as a business development company under the Investment Company Act of 1940, as amended, or the 1940 Act. In addition, for tax purposes, we have elected to be treated as a regulated investment company, or RIC, under Subchapter M of the Internal Revenue Code of 1986, as amended, or the Code, and intend to qualify annually for such treatment. 
+
+We are a direct lender targeting debt investments in privately held, lower middle market companies located in the United States. We define the lower middle market market as those companies with enterprise values between $50 million and $350 million. Our investment objective is to generate attractive risk-adjusted returns primarily by originating and investing in senior secured loans, including first lien and second lien facilities, to performing lower middle market companies across a broad range of industries that typically carry a floating interest rate based on the London Interbank Offered Rate, or LIBOR, and have a term of
+
+three to six years. While we focus principally on originating senior secured loans to lower middle market companies, we may also make opportunistic investments at other levels of a companys capital structure, including mezzanine loans or equity interests. We also may receive warrants to purchase common stock in connection with our debt investments. We generate current income through the receipt of interest payments, as well as origination and other fees, capital appreciation and dividends. 
+
+We invest primarily in securities that are rated below investment grade by rating agencies or that may be rated below investment grade if they were so rated. Below investment grade securities, which are often referred to as junk bonds, are viewed as speculative investments because of concerns with respect to the issuers capacity to pay interest and repay principal. 
+
+1
+
+TABLE OF CONTENTS
+
+As of December 31, 2017, our investment portfolio consisted primarily of senior secured loans across 43 positions in 32 companies with an aggregate fair value of approximately $440.7 million. As of December 31, 2016, our investment portfolio consisted primarily of senior secured loans across 37 positions in 29 companies with an aggregate fair value of approximately $411.7 million. At both dates, the majority of our portfolio comprised senior secured loans to lower middle market borrowers. 
+
+Available Information 
+
+Our address is 1450 Brickell Avenue, 31st Floor, Miami, Florida 33131. Our phone number is (305) 381-6999, and our internet address is www.whitehorsefinance.com. We make available on our website, free of charge, our proxy statement, annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports as soon as reasonably practicable after we electronically file such material with, or furnish it to, the U.S. Securities and Exchange Commission, or the SEC. We may publish other information on our website which has not been filed with, or furnished to, the SEC.
+
+Information contained on our website is not incorporated by reference into this annual report on Form 10-K, and you should not consider information contained on our website to be part of this annual report on Form 10-K or any other report we file with the SEC. 
+
+The SEC also maintains a website that contains reports, proxy and information statements and other information we file with the SEC at www.sec.gov. Copies of these reports, proxy and information statements and other information may also be obtained, after paying a duplicating fee, by electronic request at publicinfo@sec.gov, or by writing the SECs Public Reference Section, 100 F Street, N.E., Washington, D.C. 20549-0102. Information on the operation of the Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330. 
+
+Our Investment Adviser 
+
+Our investment activities are managed by our investment adviser, WhiteHorse Advisers. WhiteHorse Advisers is an affiliate of H.I.G. Capital and is responsible for sourcing potential investments, conducting research and diligence on prospective investments and equity sponsors, analyzing investment opportunities, structuring our investments and monitoring our investments in portfolio companies on an ongoing basis. WhiteHorse Advisers has also agreed to provide us with access to personnel and its investment committee, or the investment committee. WhiteHorse Advisers is a registered investment adviser under the Investment Advisers
+
+Act of 1940, as amended, or the Advisers Act. Under our investment advisory agreement with WhiteHorse Advisers, or the Investment Advisory Agreement, we pay WhiteHorse Advisers a base management fee and an incentive fee for its services. 
+
+WhiteHorse Advisers entered into a staffing agreement, or the Staffing Agreement, with an affiliate of H.I.G. Capital under which the affiliate has agreed to make experienced investment professionals available to WhiteHorse Advisers and to provide access to its senior investment personnel to enable WhiteHorse Advisers to perform all of its obligations under the Investment Advisory Agreement. The Staffing Agreement provides WhiteHorse Advisers with access to deal flow generated by H.I.G. Capital in the ordinary course of business and commits certain members of H.I.G. Capitals investment committee to serve as members of
+
+WhiteHorse Advisers investment committee. In addition, under the Staffing Agreement, H.I.G. Capital is obligated to allocate investment opportunities among its managed affiliates fairly and equitably over time in accordance with its allocation policy. The Staffing Agreement provides WhiteHorse Advisers with the deal origination, credit underwriting, due diligence, investment structuring, execution, portfolio management and monitoring experience of H.I.G. Capitals senior investment professionals. 
+
+An affiliate of our investment adviser, WhiteHorse Administration, under an administration agreement, or the Administration Agreement, provides the administrative services necessary for us to operate. 
+
+About H.I.G. Capital 
+
+H.I.G. Capital, founded in 1993, is a leading global alternative asset manager focused on the lower middle market. As of December 31, 2017, H.I.G. Capital managed approximately $21 billion of capital (based on regulatory assets under management, as reported on Form ADV) across multiple investment funds supported by approximately 350 dedicated investment professionals. These investment professionals bring a 
+
+2
+
+TABLE OF CONTENTS
+
+depth of experience and skills across a broad range of industries and transaction types, including primary loan originations, secondary debt purchases and special situations and distressed debt investing. 
+
+Investment Strategy 
+
+Our investment strategy is to generate current income and capital appreciation primarily by originating secured loans. We seek to create a broad portfolio consisting of investments generally in the range of $5 million to $25 million primarily in debt securities and loans of U.S. based lower middle market companies. We primarily target borrowers in the United States with enterprise values of $50 million to $350 million across a broad range of industries. The proceeds of our loans are used for a variety of purposes, including refinancings of existing debt, acquisition financing, or working capital to support growth or
+
+realignment. 
+
+While we focus principally on originating senior secured loans to lower middle market companies that we believe have attractive risk adjusted returns, including first lien and second lien facilities, we may also opportunistically make investments at other levels of a companys capital structure, including mezzanine loans or equity interests. We also may receive warrants to purchase common stock in connection with our debt investments. We may also invest in assets consistent with our investment strategy indirectly through the acquisitions of interests in other investment companies. We generate current income through the
+
+receipt of interest payments, origination and other fees, and dividends. Our typical loans carry a floating interest rate based on LIBOR plus a spread, have a term of three to six years, are secured by all tangible and intangible assets of the borrower and include covenants, monitoring and information rights in favor of the lender. 
+
+Target businesses will typically exhibit some or all of the following characteristics: 
+
+None of these investment policies are fundamental and they may be changed without stockholder approval. 
+
+We expect that, from time to time, our investments may include certain non-qualifying assets, including assets of non-U.S. companies, certain publicly traded companies and, to a lesser extent and subject to certain limits under the 1940 Act, registered or unregistered investment companies, to the extent permissible under the 1940 Act. 
+
+Investment Process Overview 
+
+Sourcing.  Our deal flow and idea generation for lower middle market investments primarily originates from H.I.G. Capitals existing and extensive network of informal and unconventional deal sources in the lower middle market business community. Built over the past 24 years, this deal sourcing network includes accountants, attorneys, brokers, insurance agents, consultants and financial advisors who have access to lower middle market companies. The contacts in H.I.G. Capitals network generally operate outside of the structured investment banking infrastructure and typically play a limited
+
+introductory role to the companies and their management teams. In addition, H.I.G. Capital promotes a culture in which sourcing is considered a focus for all of its approximately 350 investment professionals in each of its 18 offices, from analysts to managing directors. Lastly, H.I.G. Capitals in-house business development group of approximately 23 dedicated deal sourcing professionals supplements this effort through an outbound calling program. 
+
+Due Diligence.  We believe that the cornerstone of generating attractive risk-adjusted returns is a thorough due diligence process. We utilize the same methodology to evaluate potential investments that H.I.G. 
+
+3
+
+TABLE OF CONTENTS
+
+Capital has used over the past 24 years, which includes employing a highly analytical, private equity-like framework for rigorously assessing companies, extensive due diligence and a disciplined risk valuation methodology that guides investment decisions. As part of every transaction we consider and analyze the following key target company criteria: (1) cash flow generation, (2) underlying asset valuation, (3) competitive position, (4) industry dynamics and (5) strength of management. In addition, our due diligence process for lower middle market companies will typically entail: 
+
+Structuring Originations.  Our investment advisers team has substantial expertise in structuring and documenting loans originated to lower middle market companies. Our investment adviser works with outside counsel to structure loans with strong creditor protections and contractual controls over borrower operations. Our investment adviser works to obtain extensive operating and financial covenants, detailed reporting requirements, governance rights and board of directors seats to protect our investment while allowing the borrower the necessary flexibility to execute its business plan successfully. We
+
+believe that our investment advisers extensive experience investing in distressed debt and special situations allows it to anticipate the form of potential restructurings in order to maximize our potential recovery in such an event, and to better structure our loan and credit documentation to protect us from risks identified in the due diligence process. Our investment adviser also evaluates the broader capital structure of the borrower to ensure that we have strong rights as compared to other participants in the borrowers capital structure. 
+
+Portfolio Management and Monitoring.  We actively monitor and manage our portfolio with regard to individual company performance as well as general market conditions. Investment decisions on new originations generally include an analysis of the impact of the new loan on our broader portfolio, including a top-down assessment of portfolio diversification and risk exposure. This assessment includes a review of portfolio concentration by issuer, industry, geography and type of credit as well as an evaluation of our portfolios exposure to macroeconomic factors and cyclical trends. 
+
+We believe that consistent, active monitoring of individual companies and the broader market is integral to portfolio management and a critical component of our investment process. Our investment adviser uses several methods to evaluate and monitor the performance and fair value of our investments, which may include the following: 
+
+As part of the monitoring process, our investment adviser regularly assesses the risk profile of each of our investments and, on a quarterly basis, grades each investment on a risk scale of 1 to 5. This risk rating system is intended to identify and assess risks relative to when we initially made the investment and could be 
+
+4
+
+TABLE OF CONTENTS
+
+impacted by such factors as company-specific performance, changes in collateral, changes in potential exit opportunities or macroeconomic conditions. 
+
+All investments are initially assigned a rating of 2, as this grade represents a company that is meeting initial expectations with regard to performance and outlook. A rating may be improved to a 1 if, in the opinion of our investment adviser, a portfolio companys risk of loss has been reduced relative to initial expectations. An investment will be assigned a rating of 3 if the risk of loss has increased relative to initial expectations and will be assigned a rating of 4 if our investment principal is at a material risk of not being fully repaid. A rating of 5 indicates an investment is in payment default and has
+
+significant risk of not receiving full repayment. 
+
+The following table shows the distribution of our investments on the 1 to 5 investment performance rating scale at fair value as of December 31, 2017 and 2016. 
+
+Investment Committee and Decision Process 
+
+The investment committee oversees our investment activities, subject to the oversight of our board of directors, and is led by senior investment professionals of H.I.G. Capital. The investment committee process is intended to bring the experience and perspectives of the various members to the analysis and consideration of each investment. The investment committee process is a highly collaborative effort, typically beginning at the term sheet phase of a transaction and continuing through the close of the transaction. When an opportunity is first discussed, the investment committee assists the investment team in exploring the
+
+key issues requiring due diligence or deal structuring and identifying the available resources within H.I.G. Capital, including other H.I.G. investment professionals or senior managers from current and former portfolio companies with specific industry experience. Throughout the transaction process, the investment team meets regularly with the investment committee in a process which requires all of the investment committees concerns to be appropriately addressed through due diligence and transaction structuring. This collaborative process between the investment team and the investment committee means that, by the time a potential transaction is ready for final approval or rejection, the investment committee members are already deeply familiar with it and have had an opportunity to address any concerns. As a result, investment committee decisions are made by consensus. The investment committee meets regularly, including special meetings on short notice, to approve or discuss
+
+material developments on new or existing investments. 
+
+Competition 
+
+Our primary competitors that provide financing to lower middle market companies include public and private investment funds, including other business development companies, commercial and investment banks, commercial financing companies, specialty finance companies and, to the extent they provide an alternative form of financing, private equity and hedge funds. For additional information concerning the competitive risks we face, see Risk Factors  Risks Relating to our Business and Structure  The highly competitive market for investment opportunities in which we operate may limit our
+
+investment opportunities. 
+
+Administration 
+
+We do not have any direct employees, and our day-to-day investment operations are managed by our investment adviser. We have a chief executive officer, chief financial officer and chief compliance officer and, to the extent necessary, our board of directors may elect to hire additional personnel going forward. Under the 
+
+5
+
+TABLE OF CONTENTS
+
+Investment Advisory Agreement and the Administration Agreement, WhiteHorse Advisers, WhiteHorse Administration and their affiliates, respectively, have agreed to provide us with access to personnel, an investment committee and certain other resources so that we may perform our obligations as portfolio manager. Our officers are employees of an affiliate of WhiteHorse Administration, an affiliate of our investment adviser, and our allocable portion of the cost of our chief financial officer and chief compliance officer along with their respective staffs is paid by us pursuant to the Administration Agreement. Some of our executive
+
+officers are also officers of WhiteHorse Advisers. See Business  Management Agreements  Administration Agreement. 
+
+Investment Advisory Agreement 
+
+WhiteHorse Advisers serves as our investment adviser in accordance with the terms of the Investment Advisory Agreement. Subject to the overall supervision of our board of directors, our investment adviser manages our day-to-day operations and provides investment management services to us. Under the terms of the Investment Advisory Agreement, WhiteHorse Advisers: 
+
+WhiteHorse Advisers services under the Investment Advisory Agreement are not exclusive, and it is free to furnish similar services to other entities so long as its services to us are not impaired. Under the Investment Advisory Agreement, we pay WhiteHorse Advisers a fee for investment management services consisting of a base management fee and an incentive fee. 
+
+Base Management Fee 
+
+The base management fee is calculated at an annual rate of 2.0% of consolidated gross assets, including cash and cash equivalents and assets purchased with borrowed funds, at the end of the two most recently completed calendar quarters, and is payable in arrears. Base management fees for any partial month or quarter is appropriately pro-rated. 
+
+Performance-based Incentive Fee 
+
+The performance-based incentive fee consists of two components that are independent of each other, except as provided by the incentive fee cap and deferral mechanism discussed below. 
+
+The calculations of these two components have been structured to include a fee limitation such that no incentive fee will be paid to our investment adviser for any quarter if, after such payment, the cumulative incentive fees paid to our investment adviser for the period that includes the current fiscal quarter and the 11 full preceding fiscal quarters, referred to as the Incentive Fee Look-back Period, would exceed 20.0% of the Cumulative Pre-Incentive Fee Net Return (as defined below) during the Incentive Fee Look-back Period. Each quarterly incentive fee is subject to the Incentive Fee Cap (as defined below) and
+
+a deferral mechanism through which the Investment Adviser may recapture a portion of such deferred incentive fees, which is referred to together as the Incentive Fee Cap and Deferral Mechanism. 
+
+This limitation is accomplished by subjecting each incentive fee payable to a cap, which is referred to as the Incentive Fee Cap. The Incentive Fee Cap in any quarter is equal to (a) 20.0% of Cumulative Pre-Incentive Fee Net Return (as defined below) during the Incentive Fee Look-back Period less (b) cumulative incentive fees of any kind paid to the Investment Adviser during the Incentive Fee Look-back Period. To the extent the Incentive Fee Cap is zero or a negative value in any quarter, we will pay no incentive fee to our investment adviser in that quarter. WhiteHorse Finance will only pay incentive fees to the
+
+extent allowed by the Incentive Fee Cap and Deferral Mechanism. To the extent that the payment of incentive fees is limited by the Incentive Fee Cap and Deferral Mechanism, the payment of such fees may be deferred 
+
+6
+
+TABLE OF CONTENTS
+
+and paid in subsequent quarters up to three years after their date of deferment, subject to applicable limitations included in the Investment Advisory Agreement. The deferral component of the Incentive Fee Cap and Deferral Mechanism may cause incentive fees that accrued during one fiscal quarter to be paid to our investment adviser at any time during the 11 full fiscal quarters following such initial full fiscal quarter. 
+
+The Incentive Fee Look-back Period commenced on January 1, 2013. Prior to January 1, 2016, the Incentive Fee Look-back Period consisted of fewer than 12 full fiscal quarters. 
+
+The Cumulative Pre-Incentive Fee Net Return refers to the sum of (a) Pre-Incentive Fee Net Investment Income for each period during the Incentive Fee Look-back Period and (b) the sum of cumulative realized capital gains, cumulative realized capital losses, cumulative unrealized capital depreciation and cumulative unrealized capital appreciation during the applicable Incentive Fee Look-back Period. 
+
+The first component, which is income-based, is calculated and payable quarterly in arrears, commencing with the quarter beginning January 1, 2013, based on our Pre-Incentive Fee Net Investment Income, expressed as a rate of return on the value of our net assets at the end of the immediately preceding calendar quarter, subject to the Incentive Fee Cap and Deferral Mechanism. For this purpose, Pre-Incentive Fee Net Investment Income means, in each case on a consolidated basis, interest income, distribution income and any other income (including any other fees (other than fees for providing managerial assistance),
+
+such as commitment, origination, structuring, diligence and consulting fees or other fees that we receive from portfolio companies) accrued during the calendar quarter, minus our operating expenses for the quarter (including the base management fee, expenses payable under the Administration Agreement, any interest expense and any dividends paid on any issued and outstanding preferred stock, but excluding the incentive fee). Pre-Incentive Fee Net Investment Income does not include any realized capital gains, realized capital losses or unrealized capital appreciation or depreciation. 
+
+The operation of the first component of the incentive fee for each quarter is as follows: 
+
+The portion of such incentive fee that is attributable to deferred interest (such as payment-in-kind, or PIK, interest or original issue discount) is paid to our investment adviser, together with interest from the date of deferral to the date of payment, only if and to the extent we actually receive such interest in cash, and any accrual will be reversed if and to the extent such interest is reversed in connection with any write-off or similar treatment of the investment giving rise to any deferred interest accrual. Any reversal of such amounts would reduce net income for the quarter by the net amount of the reversal (after
+
+taking into account the reversal of incentive fees payable) and would result in a reduction and possibly elimination of the incentive fees for such quarter. 
+
+There is no accumulation of amounts on the Hurdle Rate from quarter to quarter and, accordingly, there is no clawback of amounts previously paid if Pre-Incentive Fee Net Investment Income earned in subsequent quarters is below the quarterly Hurdle Rate and there is no delay of payment if Pre-Incentive Fee Net Investment Income earned in prior quarters are below the quarterly Hurdle Rate. Since the Hurdle Rate is 
+
+7
+
+TABLE OF CONTENTS
+
+fixed, as interest rates rise, it will be easier for our investment adviser to surpass the Hurdle Rate and receive an incentive fee based on Pre-Incentive Fee Net Investment Income. 
+
+Net investment income used to calculate this component of the incentive fee is also included in the amount of our consolidated gross assets used to calculate the 2.0% base management fee. This calculation will be appropriately prorated for any period of less than three months and adjusted for any share issuances or repurchases during the current quarter. 
+
+The following is a graphical representation of the calculation of the income-based component of the incentive fee: 
+
+Quarterly Incentive Fee based on Pre-Incentive Fee Net Investment Income (expressed as a percentage of the value of net assets) 
+
+Percentage of Pre-Incentive Fee Net Investment Income allocated to first component of incentive fee 
+
+The second component, the capital gains component of the incentive fee, is determined and payable in arrears as of the end of each calendar year (or upon termination of the Investment Advisory Agreement, as of the termination date), commencing on January 1, 2013, and equals 20% of our cumulative aggregate realized capital gains from the beginning of each calendar year through the end of that calendar year, computed net of our aggregate cumulative realized capital losses and our aggregate cumulative unrealized capital depreciation through the end of such year, less the aggregate amount of any previously paid capital gains
+
+incentive fees and subject to the Incentive Fee Cap and Deferral Mechanism. If such amount is negative, then no capital gains incentive fee will be payable for such year. Additionally, if the Investment Advisory Agreement is terminated as of a date that is not a calendar year end, the termination date will be treated as though it were a calendar year end for purposes of calculating and paying the capital gains incentive fee. The capital gains component of the incentive fee is not subject to any minimum return to stockholders. 
+
+Because of the structure of the incentive fee, it is possible that we may pay an incentive fee in a quarter where we incur a loss subject to the Incentive Fee Cap and Deferral Mechanism. For example, if we receive Pre-Incentive Fee Net Investment Income in excess of the Hurdle Rate, we will pay the applicable incentive fee even if we have incurred a loss in that quarter due to realized and unrealized capital losses. 
+
+Examples of Quarterly Incentive Fee Calculation 
+
+Each of the following examples assumes that the Incentive Fee Cap and Deferral Mechanism is met. 
+
+Example 1: Income Related Portion of Incentive Fee (*) 
+
+Alternative 1 
+
+Assumptions 
+
+Investment income (including interest, distributions, fees, etc.) = 1.25% 
+
+Hurdle Rate(1) = 1.75% 
+
+Base management fee(2) = 0.50% 
+
+Other expenses (legal, accounting, custodian, transfer agent, etc.)(3) = 0.25% 
+
+Pre-Incentive Fee Net Investment Income 
+
+(investment income  (base management fee + other expenses)) = 0.50% 
+
+Pre-Incentive Fee Net Investment Income does not exceed the Hurdle Rate, therefore there is no incentive fee. 
+
+Alternative 2 
+
+Assumptions 
+
+Investment income (including interest, distributions, fees, etc.) = 2.70% 
+
+Hurdle Rate(1) = 1.75% 
+
+Base management fee(2) = 0.50% 
+
+8
+
+TABLE OF CONTENTS
+
+Other expenses (legal, accounting, custodian, transfer agent, etc.)(3) = 0.25% 
+
+Pre-Incentive Fee Net Investment Income 
+
+(investment income  (base management fee + other expenses)) = 1.95% 
+
+Pre-Incentive Fee Net Investment Income exceeds the Hurdle Rate, therefore there is an incentive fee. 
+
+Example 2: Capital Gains Portion of Incentive Fee 
+
+Alternative 1 
+
+Assumptions 
+
+The capital gains portion of the incentive fee would be: 
+
+Alternative 2 
+
+Assumptions 
+
+9
+
+TABLE OF CONTENTS
+
+The capital gains portion of the incentive fee would be: 
+
+Example 3: Application of the Incentive Fee Cap and Deferral Mechanism 
+
+Assumptions 
+
+In each of Years 1 through 4 in this example, as well as in each preceding year, Pre-Incentive Fee Net Investment Income equals $40.0 million per year, which we recognized evenly in each quarter of each year and paid quarterly. This amount exceeds the Hurdle Rate and the requirement of the catch-up in each quarter of such year. As a result, the annual income related portion of the incentive fee, before the application of the Incentive Fee Cap and Deferral Mechanism in any year is $8.0 million ($40.0 million multiplied by 20%), and the cumulative income related portion of the incentive fee before the application of
+
+the Incentive Fee Cap and Deferral Mechanism over any Incentive Fee Look-back Period prior to any payment of incentive fees during such year is $16.0 million ($8.0 million multiplied by two). All income-related incentive fees were paid quarterly in arrears. 
+
+In each year preceding Year 1, we did not generate realized or unrealized capital gains or losses, no capital gain-related incentive fee was paid and there was no deferral of incentive fees 
+
+10
+
+TABLE OF CONTENTS
+
+Payment of Our Expenses 
+
+WhiteHorse Advisers provides and pays for all investment professionals of WhiteHorse Advisers and their respective staffs, when and to the extent engaged in providing investment advisory and management services, and the compensation and routine overhead expenses of such personnel allocable to such services. 
+
+We bear all other costs and expenses of our operations and transactions, including: 
+
+11
+
+TABLE OF CONTENTS
+
+Duration and Termination 
+
+The Investment Advisory Agreement, originally approved on September 18, 2012, was re-approved by our board of directors, including a majority of our directors who are not interested persons of WhiteHorse Finance, on August 3, 2017. Unless terminated earlier as described below, the Investment Advisory Agreement remains in effect from year to year thereafter if approved annually by our board of directors, or by the affirmative vote of the holders of a majority of our outstanding voting securities, including, in either case, approval by a majority of our directors who are not interested persons of WhiteHorse Finance. The
+
+Investment Advisory Agreement will automatically terminate in the event of its assignment. The Investment Advisory Agreement may be terminated by either party without penalty upon not less than 60 days written notice to the other party. Any termination by us must be authorized either by our board of directors or by vote of our stockholders. See Risk Factors  Risks Relating to our Business and Structure  We depend upon key personnel of H.I.G. Capital and its affiliates. 
+
+Limitation of Liability and Indemnification 
+
+The Investment Advisory Agreement provides that, absent willful misfeasance, bad faith or gross negligence in the performance of its duties or by reason of the reckless disregard of its duties and obligations, WhiteHorse Advisers and its officers, managers, agents, employees, controlling persons, members and any other person or entity affiliated with the Investment Adviser, including its general partner and the Administrator are entitled to indemnification from us for any damages, liabilities, costs and expenses (including reasonable attorneys fees and amounts reasonably paid in settlement) arising from WhiteHorse
+
+Advisers performance of its duties and obligations under the Investment Advisory Agreement or otherwise as our investment adviser. 
+
+12
+
+TABLE OF CONTENTS
+
+Board of Directors Approval of the Investment Advisory Agreement 
+
+On August 3, 2017, our board of directors voted unanimously to re-approve the Investment Advisory Agreement. In reaching its decision to re-approve the Investment Advisory Agreement, our board of directors considered information it received relating to: 
+
+In connection with their consideration of the renewal of the Investment Advisory Agreement, the board of directors gave weight to each of the factors described above, but did not identify any one particular factor as controlling its decision. Based on the information that the board of directors reviewed, the considerations detailed above and further discussions, at a meeting held on August 3, 2017, the board of directors, including a majority of our directors who are not interested persons of WhiteHorse Finance or the Investment Adviser, determined that the investment advisory fee rates are reasonable in relation to the
+
+services to be provided and re-approved the Investment Advisory Agreement. We expect that the board of directors will undertake the same or a similar review in connection with any proposed amendment to, or further renewal of, the Investment Advisory Agreement. 
+
+Administration Agreement 
+
+Pursuant to the Administration Agreement, WhiteHorse Administration and its affiliates furnish us with office facilities, equipment and clerical, bookkeeping and record keeping services to enable us to operate. WhiteHorse Administration also provides us with access to the resources necessary for us to perform our obligations as portfolio manager of WhiteHorse Credit, under the Credit Facility and for certain portfolio companies. Under the Administration Agreement, WhiteHorse Administration performs, or oversees the performance of, our required administrative services, which include being responsible for the financial records
+
+which we are required to maintain and preparing reports to our stockholders and reports filed with the SEC. In addition, WhiteHorse Administration assists us in determining and publishing our NAV, oversees the preparation and filing of our tax returns and the printing and dissemination of reports to our stockholders and generally oversees the payment of our expenses and the performance of administrative and professional services rendered to us by others. Payments in respect of the obligations of WhiteHorse Administration and its affiliates under the Administration Agreement equal an amount based upon our allocable portion of WhiteHorse Administrations overhead in performing its obligations under the Administration Agreement, including rent and our allocable portion of the cost of our chief financial officer and chief compliance officer along with their respective staffs. Under the Administration Agreement, WhiteHorse Administration also provides managerial assistance on our
+
+behalf to portfolio companies that request such assistance. The renewal of the Administration Agreement was approved by our board of directors in November 2017. The Administration Agreement may be terminated by either party without penalty upon 60 days written notice to 
+
+13
+
+TABLE OF CONTENTS
+
+the other party. To the extent that our Administrator outsources any of its functions, we will pay the fees associated with such functions on a direct basis, without any profit to WhiteHorse Administration. 
+
+Limitation of Liability and Indemnification 
+
+The Administration Agreement provides that WhiteHorse Administration and its officers, managers, partners, agents, employees, controlling persons, members and any other person or entity affiliated with the Administrator, including its members, are not liable to us or any of our stockholders for any act or omission by it or its officers, managers, partners, agents, employees, controlling persons, members and any other person or entity affiliated with the Administrator, including its members, in connection with the performance of any of the Administrators duties or obligations under the Administration Agreement or
+
+otherwise as our administrator, or for any damages, liabilities, costs and expenses (including reasonable attorneys fees and amounts reasonably paid in settlement) or losses sustained by us or our stockholders, except that the foregoing exculpation does not extend to any act or omission constituting willful misfeasance, bad faith, gross negligence or reckless disregard of its obligations under the Administration Agreement. The Administration Agreement also provides for indemnification by us of WhiteHorse Administration and its officers, managers, partners, agents, employees, controlling persons, members and any other person or entity affiliated with the Administrator for damages, liabilities, costs and expenses (including reasonable attorneys fees and amounts reasonably paid in settlement) incurred by them in or by reason of any pending, threatened or completed action, suit, investigation or other proceeding (including an action or suit by us or our stockholders or in our
+
+or our stockholders right) arising out of or otherwise based on WhiteHorse Administrations duties or obligations under the Administration Agreement or otherwise as our administrator, subject to the same limitations and conditions. 
+
+License Agreement 
+
+We have entered into a trademark license agreement, or the License Agreement, with an affiliate of H.I.G. Capital pursuant to which we have been granted a non-exclusive, royalty-free license to use the WhiteHorse name. Under this agreement, we have a right to use the WhiteHorse name for so long as WhiteHorse Advisers or one of its affiliates remains our investment adviser. The License Agreement is terminable by either party at any time in its sole discretion upon 60 days prior written notice to the other party and is also terminable by the affiliate of H.I.G. Capital in the case of certain events of
+
+non-compliance. Other than with respect to this limited license, we have no legal right to the WhiteHorse name. 
+
+14
+
+TABLE OF CONTENTS
+
+REGULATION 
+
+We have elected to be treated as a business development company under the 1940 Act and as a RIC, under Subchapter M of the Code. The 1940 Act contains prohibitions and restrictions relating to transactions between business development companies and their affiliates (including any investment advisers or sub-advisers), principal underwriters and affiliates of those affiliates or underwriters and requires that a majority of the directors of a business development company be persons other than interested persons, as that term is defined in the 1940 Act. In addition, the 1940 Act provides that we may not change the
+
+nature of our business so as to cease to be, or to withdraw our election as, a business development company unless such change is approved by a majority of our outstanding voting securities. 
+
+Our board of directors may decide to issue common stock to finance our operations rather than issuing debt or other senior securities. As a business development company, we are not generally able to issue and sell our common stock at a price below the then-current NAV per share. We may, however, issue or sell our common stock at a price below the then-current NAV of the common stock, or sell warrants, options or rights to acquire such common stock, at a price below the then-current net asset value of the common stock if our board of directors determines that such sale is in the best interests of us and our stockholders, and if
+
+our stockholders approve such sale within the preceding 12 months. In any such case, the price at which our securities are to be issued and sold may not be less than a price which, in the determination of our board of directors, closely approximates the market value of such securities (less any distributing commission or discount). 
+
+We may invest up to 100% of our assets in securities acquired directly from issuers in privately negotiated transactions. With respect to such securities, we may, for the purpose of public resale, be deemed an underwriter as that term is defined in the Securities Act of 1933, as amended, or the Securities Act. Our intention is to not write (sell) or buy put or call options to manage risks associated with the publicly traded securities of our portfolio companies, except that we may enter into hedging transactions to manage the risks associated with interest rate fluctuations to the extent that we are permitted to
+
+engage in such hedging transactions without registering with the U.S. Commodity Futures Trading Commission, or the CFTC, as a commodity pool operator. However, we may purchase or otherwise receive warrants to purchase the common stock of our portfolio companies in connection with acquisition financing or other investments. Similarly, in connection with an acquisition, we may acquire rights to require the issuers of acquired securities or their affiliates to repurchase them under certain circumstances. We also do not intend to acquire securities issued by any investment company that exceed the limits imposed by the 1940 Act. Under these limits, we generally cannot acquire more than three percent of the voting stock of any registered investment company, invest more than five percent of the value of our total assets in the securities of one investment company or invest more than 10% of the value of our total assets in the securities of one or more investment companies. With regard to that
+
+portion of our portfolio invested in securities issued by investment companies, it should be noted that such investments might subject our stockholders to additional expenses. None of these policies is fundamental, and all may be changed without stockholder approval. 
+
+Qualifying Assets 
+
+Under the 1940 Act, a business development company may not acquire any asset other than assets of the type listed in Section 55(a) of the 1940 Act, which are referred to as qualifying assets, unless at the time the acquisition is made, qualifying assets represent at least 70% of the companys total assets. The principal categories of qualifying assets relevant to our business are the following: 
+
+15
+
+TABLE OF CONTENTS
+
+The regulations defining and interpreting qualifying assets may change over time. We expect to adjust our investment focus as needed to comply with and/or take advantage of any regulatory, legislative, administrative or judicial actions in this area. 
+
+Managerial Assistance to Portfolio Companies 
+
+In addition, a business development company must have been organized and have its principal place of business in the United States and must be operated for the purpose of making investments in the types of securities described in (1), (2) or (3) above; except that, in order to count portfolio securities as qualifying assets for the purpose of the 70% test, the business development company must either control the issuer of the securities or must offer to make available to the issuer of the securities (other than small and solvent companies described above) significant managerial assistance. However, where a business development
+
+company purchases such securities in conjunction with one or more other persons acting together, one of the other persons in the group may make available such managerial assistance. Making available managerial assistance means any arrangement whereby the business development company, through its directors, officers or employees, offers to provide, and, if accepted, does so provide, significant guidance and counsel concerning the management, operations or business objectives and policies of a portfolio company. 
+
+WhiteHorse Administration provides such managerial assistance on our behalf to portfolio companies that request this assistance. We may receive fees for these services and reimburse WhiteHorse Administration for its allocated costs in providing such assistance, subject to review and approval by our board of directors, including our independent directors. 
+
+Temporary Investments 
+
+Pending investment in other types of qualifying assets, as described above, our investments may consist of cash, cash equivalents, U.S. government securities or high-quality debt securities maturing in one year or less from the time of investment, which we refer to, collectively, as temporary investments, so that 70% of 
+
+16
+
+TABLE OF CONTENTS
+
+our assets are qualifying assets. Typically, we will invest in U.S. Treasury bills or in repurchase agreements, so long as such agreements are fully collateralized by cash or securities issued by the U.S. government or its agencies. A repurchase agreement involves the purchase by an investor, such as us, of a specified security and the simultaneous agreement by the seller to repurchase it at an agreed-upon future date and at a price which is greater than the purchase price by an amount that reflects an agreed-upon interest rate. There is no percentage restriction on the proportion of our assets that may be invested in such
+
+repurchase agreements. However, if more than 25% of our total assets constitute repurchase agreements from a single counterparty, we would generally not meet the Diversification Tests (as defined below) in order to qualify as a RIC for U.S. federal income tax purposes. Thus, we do not intend to enter into repurchase agreements with a single counterparty in excess of this limit. Our Investment Adviser monitors the creditworthiness of the counterparties with which we enter into repurchase agreement transactions. 
+
+Senior Securities 
+
+We are permitted, under specified conditions, to issue multiple classes of indebtedness and one class of stock senior to our common stock if our asset coverage, as that term is defined in the 1940 Act, is at least equal to 200% immediately after each such issuance. In addition, while any senior securities remain outstanding, we must make provisions to prohibit any distribution to our stockholders or the repurchase of such securities or shares unless we meet the applicable asset coverage ratios at the time of the distribution or repurchase. We may also borrow amounts up to five percent of the value of our total
+
+assets for temporary or emergency purposes without regard to asset coverage. For a discussion of the risks associated with leverage, see Risk Factors  Risks Relating to our Business and Structure  Regulations governing our operation as a business development company, including those related to the issuance of senior securities, will affect our ability to, and the way in which we, raise additional debt or equity capital. 
+
+Code of Ethics 
+
+We and WhiteHorse Advisers have each adopted a code of ethics pursuant to Rule 17j-1 under the 1940 Act that establishes procedures for personal investments and restricts certain personal securities transactions. For additional information, see Item 10. Directors, Executive Officers and Corporate Governance  Code of Ethics. 
+
+Compliance Policies and Procedures 
+
+We and our Investment Adviser have adopted and implemented written policies and procedures reasonably designed to prevent violation of the federal securities laws and are required to review these compliance policies and procedures annually for their adequacy and the effectiveness of their implementation. Our chief compliance officer is responsible for administering our policies and procedures. 
+
+Proxy Voting Policies and Procedures 
+
+We have delegated our proxy voting responsibility to our Investment Adviser. The Proxy Voting Policies and Procedures of our Investment Adviser are described below. The guidelines are reviewed periodically by our Investment Adviser and our non-interested directors and, accordingly, are subject to change. For purposes of these Proxy Voting Policies and Procedures described below, we, our and us refers to our Investment Adviser. 
+
+Introduction 
+
+As an investment adviser registered under the Advisers Act, we have a fiduciary duty to act solely in the best interests of our clients. As part of this duty, we recognize that we must vote client securities in a timely manner free of conflicts of interest and in the best interests of our clients. 
+
+These policies and procedures for voting proxies for our investment advisory clients are intended to comply with Section 206 of, and Rule 206(4)-6 under, the Advisers Act. 
+
+Proxy Policies 
+
+We vote proxies relating to our clients portfolio securities in what we perceive to be the best interest of our clients stockholders. We review on a case-by-case basis each proposal submitted to a stockholder vote to determine its impact on the portfolio securities held by our clients. In most cases, we will vote in favor of 
+
+17
+
+TABLE OF CONTENTS
+
+proposals that we believe are likely to increase the value of our clients portfolio securities. Although we will generally vote against proposals that may have a negative impact on our clients portfolio securities, we may vote for such a proposal if there exists compelling long-term reasons to do so. 
+
+Our proxy voting decisions are made by the senior officers who are responsible for monitoring each of our clients investments. To ensure that our vote is not the product of a conflict of interest, we require that: (1) anyone involved in the decision making process disclose to our Chief Compliance Officer any potential conflict that he or she is aware of and any contact that he or she has had with any interested party regarding a proxy vote; and (2) employees involved in the decision making process or vote administration are prohibited from revealing how we intend to vote on a proposal in order to reduce any attempted
+
+influence from interested parties. Where conflicts of interest may be present, we will disclose such conflicts, including to us, and may request guidance on how to vote such proxies. 
+
+Proxy Voting Records 
+
+You may obtain information without charge about how we voted proxies during the most recent 12-month period ended June 30 (1) by making a written request for proxy voting information to: Investor Relations, 1450 Brickell Avenue, 31st Floor, Miami, Florida 33131 or by calling us collect at (305) 381-6999; and (2) on the SECS website http://www.sec.gov. 
+
+Privacy Principles 
+
+We are committed to maintaining the privacy of our stockholders and to safeguarding their non-public personal information. The following information is provided to help you understand what personal information we collect, how we protect that information and why, in certain cases, we may share information with select other parties. 
+
+Generally, we do not receive any non-public personal information relating to our stockholders, although certain non-public personal information of our stockholders may become available to us. We do not disclose any non-public personal information about our stockholders or former stockholders to anyone, except as permitted by law or as is necessary in order to service stockholder accounts (for example, to a transfer agent or third party administrator). 
+
+We restrict access to non-public personal information about our stockholders to employees of our Investment Adviser and its affiliates with a legitimate business need for the information. We maintain physical, electronic and procedural safeguards designed to protect the non-public personal information of our stockholders. 
+
+Other Regulatory Considerations 
+
+Under the 1940 Act, we are required to provide and maintain a bond issued by a reputable fidelity insurance company to protect us against larceny and embezzlement. Furthermore, as a business development company, we are prohibited from protecting any director or officer against any liability to us or our stockholders arising from willful misfeasance, bad faith, gross negligence or reckless disregard of the duties involved in the conduct of such persons office. We will be periodically examined by the SEC for compliance with the 1940 Act. 
+
+We and the Investment Adviser are each required to adopt and implement written policies and procedures reasonably designed to prevent violation of the U.S. federal securities laws, review these policies and procedures annually for their adequacy and the effectiveness of their implementation, and designate a chief compliance officer to be responsible for administering the policies and procedures. 
+
+We may also be prohibited under the 1940 Act from knowingly participating in certain transactions with our affiliates, including the Investment Adviser, without the prior approval of our board of directors who are not interested persons and, in some cases, prior approval by the SEC. The SEC has interpreted the prohibition on transactions by business development companies with affiliates to prohibit joint transactions among entities that share a common investment adviser. The staff of the SEC has granted no-action relief permitting purchases of a single class of privately placed securities provided that the
+
+Investment Adviser negotiates no 
+
+18
+
+TABLE OF CONTENTS
+
+term other than price and certain other conditions are met. Except in certain limited circumstances, we will be unable to invest in any issuer in which another account sponsored or managed by our Investment Adviser has previously invested. 
+
+On July 8, 2014, we received an exemptive relief order from the SEC, or the Exemptive Relief Order, which permits us to participate in negotiated investments with our affiliates, subject to certain conditions, and therefore provides stockholders with access to a broader range of investment opportunities. 
+
+We may issue and sell our common stock, or warrants, options or rights to acquire our common stock, at a price below the then-current NAV per share of our common stock if our board determines that such sale is in the best interests of us and our stockholders, and if our stockholders approve such sale within the preceding 12 months. In any such case, the price at which our securities are to be issued and sold may not be less than a price that, in the determination of our board, closely approximates the market value of such securities (less any distributing commission or discount). Our rights offering completed on November 20,
+
+2015 resulted in the issuance of 3,321,033 additional shares of common stock at a price below the then-current NAV per share. 
+
+Sarbanes-Oxley Act of 2002 
+
+The Sarbanes-Oxley Act of 2002, or the Sarbanes-Oxley Act, imposes a wide variety of regulatory requirements on publicly held companies and their insiders. Many of these requirements affect us. For example: 
+
+The Sarbanes-Oxley Act requires us to review our current policies and procedures to determine whether we comply with the Sarbanes-Oxley Act and the regulations promulgated under it. We continue to monitor our compliance with all regulations that are adopted under the Sarbanes-Oxley Act and take actions necessary to ensure that we are in compliance with that act. 
+
+The NASDAQ Global Select Market Corporate Governance Regulations 
+
+The NASDAQ Global Select Market has adopted corporate governance regulations that listed companies must comply with. As of the date of this report, we were in compliance with such corporate governance listing standards applicable to business development companies. 
+
+Election to Be Taxed as a RIC 
+
+As a business development company, we have elected to be treated as a RIC under Subchapter M of the Code, and intend to continue to qualify annually for such treatment. As a RIC, we generally are not subject to corporate-level U.S. federal income taxes on any net ordinary income or capital gains that we timely distribute as dividends for U.S. federal income tax purposes to our stockholders. To qualify as a RIC, we must meet certain source-of-income and asset diversification requirements (as described below). In addition, we must distribute to our stockholders, for each taxable year, dividends of an amount at least equal to 90%
+
+of the sum of our investment company taxable income, which is generally our net ordinary income plus the excess of 
+
+19
+
+TABLE OF CONTENTS
+
+realized net short-term capital gains over realized net long-term capital losses, plus the excess of any gross income exempt from U.S. federal income tax under Section 103(a) of the Code over deductions related to such tax-exempt income determined without regard to any deduction for dividends paid. In this annual report on Form 10-K, we refer to this distribution requirement as the Annual Distribution Requirement. 
+
+Taxation as a RIC 
+
+If we: 
+
+then we will not be subject to U.S. federal income tax on the portion of our investment company taxable income and net capital gain, defined as net long-term capital gains in excess of net short-term capital losses, we distribute as dividends for U.S. federal income tax purposes to our stockholders. We will be subject to U.S. federal income tax at regular corporate rates on any taxable income, including net capital gain, not distributed to our stockholders. 
+
+We will be subject to a 4% nondeductible U.S. federal excise tax on our undistributed income unless we distribute in a timely manner dividends of an amount at least equal to the sum of (1) 98% of our ordinary income (taking into account certain deferrals and elections) for each calendar year, (2) 98.2% of our capital gain net income (adjusted for certain ordinary losses) for the one-year period ending October 31 in that calendar year and (3) any ordinary income and capital gain net income for preceding years that were not distributed during such years on which we did not incur any U.S. federal income tax, or the Excise Tax
+
+Avoidance Requirement. We intend to make sufficient distributions each taxable year to satisfy the Excise Tax Avoidance Requirement. 
+
+In order to qualify as a RIC for U.S. federal income tax purposes, we must: 
+
+We may invest in partnerships, including qualified publicly traded partnerships, which may result in our being subject to state, local or foreign income, franchise or withholding liabilities. 
+
+We may be required to recognize taxable income in circumstances in which we do not receive cash. For example, if we hold debt instruments that are treated under applicable tax rules as having original issue discount (such as debt instruments with PIK interest or, in certain cases, with increasing interest rates or issued with warrants), we must include in income each taxable year a portion of the original issue discount 
+
+20
+
+TABLE OF CONTENTS
+
+that accrues over the life of the instruments, regardless of whether cash representing such income is received by us in the same taxable year. Because any original issue discount accrued will be included in our investment company taxable income for the taxable year of accrual, we may be required to make a distribution to our stockholders in order to satisfy the Annual Distribution Requirement and the Excise Tax Avoidance Requirement, even though we will not have received any corresponding cash amount. Recent tax legislation may, pending further regulatory guidance, require us to reserve market discount currently. 
+
+Certain of our investment practices may be subject to special and complex U.S. federal income tax provisions that may, among other things, (1) treat dividends that would otherwise constitute qualified dividend income as non-qualified dividend income, (2) treat dividends that would otherwise be eligible for the corporate dividends received deduction as ineligible for such treatment, (3) disallow, suspend or otherwise limit the allowance of certain losses or deductions, (4) convert lower-taxed long-term capital gain into higher-taxed short-term capital gain or ordinary income, (5) convert an ordinary loss or a deduction into a
+
+capital loss (the deductibility of which is more limited), (6) cause us to recognize income or gain without a corresponding receipt of cash, (7) adversely affect the time as to when a purchase or sale of stock or securities is deemed to occur, (8) adversely alter the characterization of certain complex financial transactions and (9) produce income that will not be qualifying income for purposes of the 90% Income Test. We intend to monitor our transactions and may make certain tax elections to mitigate the effect of these provisions and prevent our disqualification as a RIC. 
+
+Gain or loss realized by us from warrants acquired by us as well as any loss attributable to the lapse of such warrants generally will be treated as capital gain or loss. Such gain or loss generally will be long term or short term, depending on how long we held a particular warrant. 
+
+Although we do not presently expect to do so, we are authorized to borrow funds and to sell assets in order to satisfy distribution requirements. However, under the 1940 Act, we are not permitted to make distributions to our stockholders while our debt obligations and other senior securities are outstanding unless certain asset coverage tests are met. Moreover, our ability to dispose of assets to meet our distribution requirements may be limited by (1) the illiquid nature of our portfolio and/or (2) other requirements relating to our qualification as a RIC, including the Diversification Tests. If we dispose of
+
+assets in order to meet the Annual Distribution Requirement or the Excise Tax Avoidance Requirement, we may make such dispositions at times that, from an investment standpoint, are not advantageous. 
+
+We generally invest in securities that have been rated below investment grade by independent rating agencies or that would be rated below investment grade if they were rated. Investments in these types of instruments may present special tax issues for us. U.S. federal income tax rules are not entirely clear about issues such as when we may cease to accrue interest, original issue discount or market discount, when and to what extent deductions may be taken for bad debts or worthless instruments, how payments received on obligations in default should be allocated between principal and income and whether exchanges of debt
+
+obligations in a bankruptcy or workout context are taxable. These and other issues will be addressed by us to the extent necessary in order to seek to ensure that we distribute sufficient income in order to avoid the imposition of any material U.S. federal income or excise tax liability. 
+
+If we acquire the equity securities of certain non-U.S. entities classified as corporations for U.S. federal income tax purposes that earn at least 75% of their annual gross income from passive sources (such as interest, dividends, rents, royalties or capital gain) or hold at least 50% of their total assets in investments producing such passive income (passive foreign investment companies, or PFICs), we could be subject to federal income tax and additional interest charges on excess distributions received from such PFICs or gain from the sale of stock in such PFICs, even if all income or gain actually
+
+received by us is timely distributed to our stockholders. We would not be able to pass through to our stockholders any credit or deduction for such a tax. Certain elections may, if available, ameliorate these adverse tax consequences, but any such election could require us to recognize taxable income or gain without the concurrent receipt of cash. We intend to limit and/or manage our holdings in PFICs to minimize our liability for any such taxes and related interest charges. 
+
+If we hold greater than 10% of the interests treated as equity for U.S. federal income tax purposes in a foreign corporation that is treated as a CFC, we may be treated as receiving a deemed distribution (taxable as 
+
+21
+
+TABLE OF CONTENTS
+
+ordinary income) each taxable year from such foreign corporation in an amount equal to our pro rata share of the corporations income for such taxable year (including both ordinary earnings and capital gains), whether or not the corporation makes an actual distribution during such taxable year. We would be required to include the amount of a deemed distribution from a CFC when computing our investment company taxable income as well as in determining whether we satisfy the distribution requirements applicable to RICs, even to the extent the amount of our income deemed recognized from the CFC exceeds the amount of any actual
+
+distributions from the CFC and our proceeds from any sales or other dispositions of CFC stock during a taxable year. In general, a foreign corporation will be considered a CFC if greater than 50% of the shares of the corporation, measured by reference to combined voting power or value, is owned (directly, indirectly or by attribution) by U.S. Shareholders. A U.S. Shareholder, for this purpose, is any U.S. person that possesses (actually or constructively) 10% or more of the combined voting power of all classes of shares of a foreign corporation. 
+
+Under recently proposed Treasury Regulations, certain income derived by us from a CFC or PFIC with respect to which we have made a qualified electing fund, or QEF, election would generally constitute qualifying income for purposes of determining our ability to be subject to tax as a RIC only to the extent the CFC or the PFIC makes distributions of that income to us. As such, we may be restricted in our ability to make QEF elections with respect to our holdings in issuers that could be treated as PFICs or implement certain restrictions with respect to any issuers that could be treated as CFCs in order to limit our tax liability
+
+or maximize our after-tax return from these investments. 
+
+Our functional currency, for U.S. federal income tax purposes, is the U.S. dollar. Under the Code, foreign exchange gains and losses realized by us in connection with certain transactions involving foreign currencies, or payables or receivables denominated in a foreign currency, as well as certain non-U.S. dollar denominated debt securities, certain foreign currency futures contracts, foreign currency option contracts, foreign currency forward contracts, and similar financial instruments are subject to Code provisions that generally treat such gains and losses as ordinary income and losses and may affect the amount, timing and
+
+character of distributions to our stockholders. Any such transactions that are not directly related to our investment in securities (possibly including speculative currency positions or currency derivatives not used for hedging purposes) also could, under future Treasury regulations, produce income not among the types of qualifying income for purposes of the 90% income test.
+
+Some of the income and fees that we may recognize will not satisfy the 90% Income Test. In order to mitigate the risk that such income and fees do not disqualify us as a RIC for a failure to satisfy the 90% Income Test, we may be required to recognize such income and fees indirectly through one or more entities classified as corporations for U.S. federal income tax purposes. Such corporations will be required to incur U.S. corporate income tax on their earnings, which ultimately will reduce our return on such income and fees. 
+
+Failure to Qualify as a RIC 
+
+If we were unable to qualify for continued treatment as a RIC and are unable to cure the failure, for example, by disposing of certain investments quickly or raising additional capital to prevent the loss of RIC status, we would be subject to tax on all of our taxable income at regular corporate rates. The Code provides certain relief from RIC disqualification due to failures of the source of income and asset diversification requirements, although there may be additional taxes due in such cases. We cannot assure you that we would qualify for any such relief should we fail the 90% Income Test or the Diversification Tests. 
+
+Should failure occur, not only would all our taxable income be subject to tax at regular corporate rates, we would not be able to deduct distributions to stockholders in computing our taxable income, nor would they be required to be made. Distributions, including distributions of net long-term capital gain, would generally be taxable to our stockholders as ordinary dividend income to the extent of our current and accumulated earnings and profits. Subject to certain limitations under the Code, certain corporate stockholders would be eligible to claim a dividends received deduction with respect to such dividends, and
+
+non-corporate stockholders would generally be eligible to treat such dividends as qualified dividend income, which is subject to reduced rates of U.S. federal income tax. Distributions in excess of our current and accumulated earnings and profits would be treated first as a return of capital to the extent of a stockholders tax basis in our shares, and any remaining distributions would be treated as a capital gain. If we fail to qualify as a RIC for a period greater than two taxable years, to qualify as a RIC in a subsequent taxable year we may be subject to regular corporate tax on 
+
+22
+
+TABLE OF CONTENTS
+
+any net built-in gains with respect to certain of our assets (i.e., the excess of the aggregate gains, including items of income, over aggregate losses that would have been realized with respect to such assets if we had been liquidated) that we elect to recognize on requalification or when recognized over the next five taxable years. 
+
+23
+
+TABLE OF CONTENTS
+
+You should carefully consider these risk factors, together with all of the other information included in this annual report on Form 10-K, including our consolidated financial statements and the related notes thereto, before you decide whether to make an investment in our securities. The risks set out below are not the only risks we face. If any of the following events occur, our business, financial condition and results of operations could be materially and adversely affected. In such case, the NAV of our common stock and the trading price of our securities could decline, and you may lose all or part of your investment.
+
+Risks Relating to Economic Conditions 
+
+Global economic, political and market conditions may adversely affect our business, results of operations and financial condition, including our revenue growth and profitability. 
+
+The current worldwide financial market situation, as well as various social and political tensions in the United States and around the world, may contribute to increased market volatility, may have long-term effects on the United States and worldwide financial markets, and may cause economic uncertainties or deterioration in the United States and worldwide. Since 2010, several European Union, or EU, countries, including Greece, Ireland, Italy, Spain, and Portugal, have faced budget issues, some of which may have negative long-term effects for the economies of those countries and other EU countries. In June 2016, the United
+
+Kingdom held a referendum in which voters approved an exit from the European Union, which is expected to occur on March 29, 2019. The implications of the United Kingdoms pending withdrawal from the European Union are unclear at present. There is continued concern about national-level support for the Euro and the accompanying coordination of fiscal and wage policy among European Economic and Monetary Union member countries. In addition, the fiscal policy of foreign nations, such as China, may have a severe impact on the worldwide and United States financial markets. In addition, the policies of the current U.S. presidential administration, and the impact of such policies on us, are unclear at present. We do not know how long the financial markets will be affected by these events and cannot predict the effects of these or similar events in the future on the U.S. economy and securities markets or on our investments. We monitor developments and seek to manage our investments in a
+
+manner consistent with achieving our investment objective, but there can be no assurance that we will be successful in doing so. 
+
+Risks Relating to Our Business and Structure 
+
+The constraints imposed on us as a business development company and RIC may hinder the achievement of our investment objective. 
+
+The 1940 Act and the Code impose numerous constraints on the operations of business development companies and RICs that do not apply to other investment vehicles managed by H.I.G. Capital and its affiliates. For example, business development companies are required, for example, to invest at least 70% of their total assets in qualifying assets, including U.S. private or thinly-traded public companies, cash, cash equivalents, U.S. government securities and other high-quality debt instruments that mature in one year or less from the date of investment. Subject to certain exceptions for follow-on investments and distressed
+
+companies, an investment in an issuer that has outstanding securities listed on a national securities exchange may be treated as a qualifying asset only if such issuer has a common equity market capitalization that is less than $250 million at the time of such investment. Moreover, qualification for taxation as a RIC requires satisfaction of source-of-income, asset diversification and distribution requirements. These constraints may hinder our and our Investment Advisers ability to take advantage of attractive investment opportunities and to achieve our investment objective. Any failure to operate under these constraints could subject us to enforcement action by the SEC, cause us to fail to satisfy the requirements associated with RIC status, cause us to fail the 70% test described above or otherwise have a material adverse effect on our business, financial condition or results of operations. 
+
+We may be precluded from investing in what we believe are attractive investments if such investments are not qualifying assets for purposes of the 1940 Act. If we do not invest a sufficient portion of our assets in qualifying assets, we could be found to be in violation of the 1940 Act provisions applicable to business development companies and possibly lose our status as a business development company, which would have a 
+
+24
+
+TABLE OF CONTENTS
+
+material adverse effect on our business, financial condition and results of operations. Similarly, the rules applicable to business development companies could prevent us from making follow-on investments in existing portfolio companies (which could result in the dilution of our position) or could require us to dispose of investments at inopportune times in order to comply with the 1940 Act. If we need to dispose of such investments quickly, it may be difficult to dispose of such investments on favorable terms, or at all. For example, we may have difficulty in finding a buyer and, even if we do find a buyer, we may have to sell
+
+the investments at a substantial loss or otherwise for less than we could have received if we were able to sell them at a later time. 
+
+We depend upon key personnel of H.I.G. Capital and its affiliates. 
+
+We are an externally managed business development company, and therefore we do not have any internal management capacity or employees. We depend on the diligence, skill and network of business contacts of our Investment Adviser to achieve our investment objective. We expect that our Investment Adviser will evaluate, negotiate, structure, close and monitor our investments in accordance with the terms of the Investment Advisory Agreement. 
+
+Our Investment Adviser is an affiliate of H.I.G. Capital and depends upon access to the investment professionals and other resources of H.I.G. Capital and its affiliates to fulfill its obligations to us under the Investment Advisory Agreement. WhiteHorse Advisers also depends upon H.I.G. Capital to obtain access to deal flow generated by the professionals of H.I.G. Capital. Under the Staffing Agreement, an affiliate of H.I.G. Capital has agreed to provide our Investment Adviser with the resources necessary to fulfill these obligations. The Staffing Agreement provides that the affiliate will make available to WhiteHorse
+
+Advisers experienced investment professionals and access to the senior investment personnel of H.I.G. Capital for purposes of evaluating, negotiating, structuring, closing and monitoring our investments. We are not a party to the Staffing Agreement and cannot assure you that the affiliate will fulfill its obligations under the agreement. If the affiliate fails to perform, we cannot assure you that WhiteHorse Advisers will enforce the Staffing Agreement, that such agreement will not be terminated by either party or that we will continue to have access to the investment professionals of H.I.G. Capital and its affiliates or their market knowledge and deal flow. 
+
+We depend upon the senior professionals of H.I.G. Capital to maintain relationships with potential sources of lending opportunities, and we intend to rely to a significant extent upon these relationships to provide us with potential investment opportunities. We cannot assure you that these individuals will continue to indirectly provide investment advice to us. If these individuals, including the members of our investment committee, do not maintain their existing relationships with H.I.G. Capital, maintain existing relationships or develop new relationships with other sources of investment opportunities, we may not be able to
+
+grow our investment portfolio. In addition, individuals with whom the senior professionals of H.I.G. Capital have relationships are not obligated to provide us with investment opportunities. Therefore, we cannot assure you that such relationships will generate investment opportunities for us. 
+
+Our business model depends to a significant extent upon H.I.G. Capitals proprietary deal-flow network of informal and unconventional potential deal sources in the lower middle market business community. Any inability of H.I.G. Capital to maintain or develop this network, or the failure of this network to generate investment opportunities, could adversely affect our business. 
+
+We depend upon H.I.G. Capital to maintain its extensive, proprietary lower middle market deal sourcing network, and we expect to rely to a significant extent upon this network to provide us with investment opportunities. This network of informal and unconventional deal sources in the lower middle market business community includes accountants, attorneys, brokers, insurance agents, consultants and financial advisors who have access to lower middle market companies. If H.I.G. Capital fails to maintain such sourcing network, or to develop new relationships with other sources of investment opportunities, we will not be able to
+
+grow our investment portfolio. In addition, individuals with whom H.I.G. Capital has relationships are not obligated to provide us with investment opportunities, and we can offer no assurance that these relationships will generate investment opportunities for us in the future. 
+
+25
+
+TABLE OF CONTENTS
+
+If our Investment Adviser is unable to manage our investments effectively, we may be unable to achieve our investment objective. 
+
+Our ability to achieve our investment objective depends on our ability to manage our business and to grow our business. This depends, in turn, on our Investment Advisers ability to identify, invest in and monitor companies that meet our investment criteria. This, in turn, depends on the ability of H.I.G. Capitals investment professionals to identify, invest in and monitor companies that meet our investment criteria. The achievement of our investment objective on a cost-effective basis will depend upon our Investment Advisers execution of our investment process, its ability to provide competent, attentive and
+
+efficient services to us and our access to financing on acceptable terms. Our Investment Adviser has substantial responsibilities under the Investment Advisory Agreement. The personnel of H.I.G. Capital who are made available to our Investment Adviser under the Staffing Agreement are engaged in other business activities and may be called upon to provide managerial assistance to our portfolio companies. These and other demands on their time could distract them, divert their time and attention or otherwise cause them not to dedicate a significant portion of their time to our businesses which could slow our rate of investment. Any failure to manage our business could have a material adverse effect on our business, financial condition, results of operations and cash flows. 
+
+We may not replicate the historical results achieved by other entities managed or sponsored by members of our investment committee or by H.I.G. Capital or its affiliates. 
+
+Our primary focus in making investments generally differs from that of many of the investment funds, accounts or other investment vehicles that are or have been managed by members of our investment committee or sponsored by H.I.G. Capital or its affiliates. In addition, investors in our common stock do not acquire an interest in any such investment funds, accounts or other investment vehicles that are or have been managed by members of our investment committee or sponsored by H.I.G. Capital or its affiliates. We cannot assure you that we will replicate the historical results achieved by members of the investment committee, and
+
+we caution you that our investment returns could be substantially lower than the returns achieved by them in prior periods. Additionally, all or a portion of the prior results may have been achieved in particular market conditions which may never be repeated. Moreover, current or future market volatility and regulatory uncertainty may have an adverse impact on our future performance. 
+
+The highly competitive market for investment opportunities in which we operate may limit our investment opportunities. 
+
+A number of entities continue to compete with us to make investments in lower middle market companies. We compete with public and private funds, including other business development companies, commercial and investment banks, commercial financing companies, specialty finance companies, hedge funds and, to the extent they provide an alternative form of financing, private equity funds. Additionally, as competition for investment opportunities has increased, alternative investment vehicles, such as hedge funds and collateralized loan obligations, have invested in lower middle market companies. As a result of these new entrants,
+
+competition for investment opportunities in lower middle market companies has intensified. Many of our potential competitors are substantially larger and have considerably greater financial, technical and marketing resources than we do. For example, some competitors may have a lower cost of funds and access to funding sources that are not available to us. In addition, some of our competitors have higher risk tolerances or different risk assessments, which could allow them to consider a wider variety of investments and establish more relationships than us. Furthermore, many of our competitors are not subject to the regulatory restrictions that the 1940 Act imposes on us as a business development company. We cannot assure you that the competitive pressures we face will not have a material adverse effect on our business, financial condition and results of operations. Also, as a result of this competition, we may not be able to take advantage of attractive investment opportunities from
+
+time to time, and we cannot assure you that we will be able to identify and make investments that are consistent with our investment objective. 
+
+Participants in our industry compete on several factors, including price, flexibility in transaction structuring, customer service, reputation, market knowledge and speed in decision-making. We do not intend to compete primarily based on the interest rates we offer, and we believe that some of our competitors may make loans with interest rates that are lower than the rates we offer. We may lose investment opportunities if 
+
+26
+
+TABLE OF CONTENTS
+
+we do not match our competitors pricing, terms and structure. However, if we match our competitors pricing, terms and structure, we may reduce our net investment income and increase our risk of credit loss. 
+
+We have elected to be treated as a RIC and intend to qualify annually for such treatment. If we are unable to qualify as a RIC, we will be subject to corporate-level income tax. 
+
+We have elected to be treated as a RIC under the Code and intend to qualify annually for such treatment. To qualify as a RIC under the Code, we must meet certain income source, asset diversification and annual distribution requirements. The Annual Distribution Requirement for a RIC is satisfied if we distribute 90% of our ordinary income and realized net short term capital gains in excess of realized net short term capital losses, if any, each taxable year as dividends for U.S. federal income tax purposes to our stockholders. To the extent we use preferred stock or debt financing in the future, we may be subject to certain
+
+asset coverage ratio requirements under the 1940 Act and financial covenants that could, under certain circumstances, restrict us from making distributions necessary to be subject to tax as a RIC. If we fail to make sufficient distributions, as a result of contractual restrictions in the Credit Facility or otherwise, we may fail to qualify to be subject to tax as a RIC and, thus, may be subject to corporate-level income tax. To qualify as a RIC, we must also meet certain asset diversification requirements at the end of each calendar quarter. Failure to meet these requirements may result in our having to dispose of certain investments quickly in order to prevent the loss of our RIC status. Because we anticipate that most of our investments will be in the debt of relatively illiquid lower middle market private companies, any such dispositions could be made at disadvantageous prices and may result in substantial losses. If we fail to qualify as a RIC for any reason and remain or become
+
+subject to corporate-level income tax, the resulting corporate taxes could substantially reduce our net assets, the amount of income available for distribution and the amount of our distributions. Such a failure would have a material adverse effect on us and our stockholders. 
+
+Our returns will be reduced by any corporate income tax that our subsidiaries pay. 
+
+We may be required to recognize certain income and fees indirectly through one or more entities treated as corporations for U.S. federal income tax purposes. Such corporations will be required to incur corporate income tax on their earnings, which ultimately will reduce our return on such income and fees. In addition, we may invest in partnerships, including qualified publicly traded partnerships and limited liability companies treated as partnerships for tax purposes, which may result in our being subject to additional state, local or foreign income, franchise, withholding or other tax liabilities. 
+
+We may have difficulty paying our required distributions if we recognize income before or without receiving cash representing such income. 
+
+For U.S. federal income tax purposes, we include in income certain amounts that we have not yet received in cash, such as original issue discount, which may arise if we receive warrants in connection with the making of a loan or possibly in other circumstances, or PIK interest, which represents contractual interest added to the loan balance and due at the end of the loan term. Such original issue discount, which could be significant relative to our overall investment assets, and increases in loan balances as a result of PIK interest will be included in income before we receive any corresponding cash payments. 
+
+We also may be required to include in income certain other amounts that we do not receive in cash. In addition, after the expiration of the reinvestment period under the Credit Facility on December 29, 2020, we must use asset sales and repayment proceeds, if any (including any realized gains), to pay down any outstanding debt and certain other amounts prior to distributing cash from WhiteHorse Credit to us. Also, if we do not meet certain coverage tests under the Credit Facility or if an event of default and acceleration occurs under the Credit Facility, then income and capital gains which would otherwise be distributable by
+
+us to our stockholders could be diverted to pay down debt or other amounts due under the Credit Facility. 
+
+As a result, we may have difficulty meeting the annual distribution requirement to distribute at least 90% of our ordinary income and realized net short-term capital gains in excess of realized net long-term capital losses, if any, in order to be subject to tax as a RIC. Accordingly, we may have to sell some of our investments at times we would not consider advantageous, raise additional debt or equity capital or reduce 
+
+27
+
+TABLE OF CONTENTS
+
+new investment originations to meet these distribution requirements. If we are not able to obtain cash from other sources, we may fail to qualify to be subject to tax as a RIC and thus be subject to corporate level income tax. 
+
+PIK interest payments we receive will increase our assets under management and, as a result, will increase the amount of base management fees payable by us to our Investment Adviser. 
+
+Certain of our debt investments contain provisions providing for the payment of PIK interest, which increases the loan balance of the underlying loan in lieu of receiving cash interest, causing interest to compound on such higher loan balance. PIK interest increases our assets under management and, because the base management fee that we pay to our Investment Adviser is based on the value of our consolidated gross assets, PIK interest increases the base management fee we pay. This increase in interest income from the higher loan balance increases our pre-incentive fee net investment income and the incentive fees that we pay to
+
+our Investment Adviser. 
+
+Regulations governing our operation as a business development company, including those related to the issuance of senior securities, will affect our ability to, and the way in which we, raise additional debt or equity capital. 
+
+We expect that we will require a substantial amount of capital. We may issue debt securities or preferred stock and/or borrow money from banks or other financial institutions, which we refer to collectively as senior securities, up to the maximum amount permitted by the 1940 Act. Under the current provisions of the 1940 Act, we are permitted as a business development company to issue senior securities only in amounts such that our asset coverage, as defined in the 1940 Act, equals at least 200% after each issuance of senior securities. If the value of our assets declines, we may be unable to satisfy this ratio. If
+
+that happens, we may be required to sell a portion of our investments at a time when such sales may be disadvantageous and, depending on the nature of our leverage, repay a portion of our indebtedness. If we issue senior securities, we will be exposed to typical risks associated with leverage, including an increased risk of loss. If we issue preferred stock, such securities would rank senior to common stock in our capital structure, and preferred stockholders would have separate voting rights, dividend and liquidation rights and possibly other rights, preferences or privileges more favorable than those granted to holders of our common stock. Furthermore, the issuance of preferred stock could have the effect of delaying, deferring or preventing a transaction or a change of control that might otherwise result in your receiving a premium price for your common stock or otherwise be in your best interest. 
+
+Our board of directors may decide to issue common stock to finance our operations rather than issuing debt or other senior securities. As a business development company, we are not generally able to issue and sell our common stock at a price below the then-current NAV per share. We may, however, issue or sell our common stock, at a price below the then-current NAV of the common stock, or sell warrants, options or rights to acquire such common stock, at a price below the then-current NAV of the common stock if our board of directors determines that such sale is in the best interests of us and our stockholders, and if our
+
+stockholders approve such sale within the preceding 12 months. In any such case, the price at which our securities are to be issued and sold may not be less than a price which, in the determination of our board of directors, closely approximates the market value of such securities (less any distributing commission or discount). We may also conduct rights offerings at prices per share less than the NAV per share, subject to the requirements of the 1940 Act. If we raise additional funds by issuing additional common stock or senior securities convertible into, or exchangeable for, our common stock, the percentage ownership of our stockholders at that time would decrease, and our stockholders may experience dilution. 
+
+In addition to issuing securities to raise capital as described above, we have securitized, and may in the future seek to securitize, our loans to generate cash for funding new investments. To securitize loans, we may create one or more wholly owned subsidiaries and sell and contribute a pool of loans to such subsidiaries. This could include the sale or other issuance of debt by such subsidiaries on a non-recourse basis to purchasers who we would expect to be willing to accept a lower interest rate to invest in investment grade-rated debt secured by such loan pools, and we would retain all or a portion of the equity in any
+
+such subsidiary. An inability to securitize part of our loan portfolio could limit our ability to grow our business, fully execute our business strategy and increase our earnings. Moreover, the successful securitization of part 
+
+28
+
+TABLE OF CONTENTS
+
+of our loan portfolio might expose us to losses as the loans we are not able to securitize will tend to be those that are riskier and more apt to generate losses. 
+
+Any failure on our part to maintain our status as a business development company would reduce our operating flexibility. 
+
+If we do not remain a business development company, we might be regulated as a closed-end investment company under the 1940 Act, which would subject us to substantially more regulatory restrictions under the 1940 Act and, correspondingly, decrease our operating flexibility. 
+
+We intend to continue to finance our investments with borrowed money, which will magnify the potential for gain or loss on amounts invested and may increase the risk of investing in us. 
+
+The use of leverage, including through the issuance of senior securities, magnifies the potential for gain or loss on amounts invested. We have incurred leverage in the past and currently incur leverage through the Credit Facility and the Senior Notes and, from time to time, intend to incur additional leverage to the extent permitted under the 1940 Act. The use of leverage is generally considered a speculative investment technique and increases the risks associated with investing in our securities. In the future, we may borrow from, and issue senior securities, to banks, insurance companies and other lenders. Holders of these
+
+senior securities will have fixed dollar claims on our assets that are superior to the claims of our common stockholders, and we would expect such holders to seek recovery against our assets in the event of a default. 
+
+WhiteHorse Credit has pledged, and expects to continue to pledge, all or substantially all of its assets. WhiteHorse Credit has granted, and may in the future grant, a security interest in all or a portion of its assets under the Credit Facility. In addition, under the terms of the Credit Facility, we must use the net proceeds of any investments that we sell to repay amounts then due with respect to our debt and certain other amounts owing under the Credit Facility before applying such net proceeds to other uses, such as distributing them to our stockholders. 
+
+We may pledge up to 100% of our assets and may grant a security interest in all of our assets under the terms of any debt instruments into which we may enter. In addition, under the terms of any credit facility or other debt instrument we enter into, we are likely to be required by its terms to use the net proceeds of any investments that we sell to repay a portion of the amount borrowed under such facility or instrument before applying such net proceeds to any other uses. 
+
+If the value of our assets decreases, leverage would cause NAV to decline more sharply than it otherwise would have had we not leveraged, thereby magnifying losses or eliminating our equity stake in a leveraged investment. Similarly, any decrease in our revenue or income will cause our net income to decline more sharply than it would have had we not borrowed. Such a decline would also negatively affect our ability to make distributions on our common stock or preferred stock. Our ability to service our debt will depend largely on our financial performance and will be subject to prevailing economic conditions and competitive
+
+pressures. In addition, our common stockholders will bear the burden of any increase in our expenses as a result of our use of leverage, including interest expenses and any increase in the management fee payable to our Investment Adviser. 
+
+As a business development company, we generally are required to meet a coverage ratio of total assets to total borrowings and other senior securities, which include all of our borrowings and any preferred stock that we may issue in the future, of at least 200% or such other percentage as is specified in the 1940 Act. If this ratio declines below 200%, we cannot incur additional debt and could be required to sell a portion of our investments to repay some debt when it is disadvantageous to do so. This could have a material adverse effect on our operations, and we may not be able to make distributions. The amount of leverage
+
+that we employ will depend on our Investment Advisers and our board of directors assessment of market and other factors at the time of any proposed borrowing. We cannot assure you that we will be able to maintain our borrowings under the Credit Facility and the Senior Notes or obtain other credit at all or on terms acceptable to us. 
+
+In addition, the terms governing the Credit Facility and the Senior Notes and any indebtedness that we incur in the future could impose financial and operating covenants that restrict our business activities, including limitations that may hinder our ability to finance additional loans and investments or make the distributions required to maintain our ability to be subject to tax as a RIC. 
+
+29
+
+TABLE OF CONTENTS
+
+The following table illustrates the effect of leverage on returns from an investment in our common stock as of December 31, 2017, assuming various annual returns, net of expenses. The purpose of this table is to assist investors in understanding the effects of leverage. The calculations in the table below are hypothetical and actual returns may be higher or lower than those appearing in the table below. 
+
+Based on our outstanding indebtedness of $185.0 million as of December 31, 2017 and an average cost of funds of 4.01% and 6.5%, which were the effective annualized interest rates of the Credit Facility and Senior Notes, respectively, as of that date, our investment portfolio must experience an annual return of at least 1.9% to cover annual interest payments on our outstanding indebtedness. 
+
+We are subject to the risk of an event of default and acceleration under our unsecured debt agreements, which would have a material adverse effect on us. 
+
+On July 23, 2013, we completed the public offering of the Senior Notes. There are several circumstances under which an event of default may occur under the debt agreement for the Senior Notes, such as failure to make scheduled principal or interest payments and certain events of bankruptcy, insolvency or reorganization. 
+
+Upon the occurrence of an event of default, our lenders may exercise customary remedies, including declaring all amounts due and payable. Any of these developments would have a material adverse effect on our business, financial condition and results of operations. 
+
+Because we expect to distribute substantially all of our ordinary income and net realized capital gains to our stockholders, we will need additional capital to finance our growth and such capital may not be available on favorable terms, or at all. 
+
+We will need additional capital to fund growth in our investment portfolio. We may issue debt or equity securities or borrow from financial institutions in order to obtain this additional capital. A reduction in the availability of new capital could limit our ability to grow. We are required to distribute at least 90% of our ordinary income and realized net short-term capital gains in excess of realized net long-term capital losses, if any, each taxable year to our stockholders to maintain our ability to be subject to tax as a RIC. As a result, these earnings will not be available to fund new investments. If we fail to obtain
+
+additional capital to fund new investments, this could limit our ability to grow, which may have an adverse effect on the value of our securities. 
+
+We may apply, but may not be approved, for an SBIC license. 
+
+We may apply for a license to form a SBIC. If such an application is made and approved and the Small Business Administration, or SBA, so permits, we anticipate that the SBIC license would be transferred to a wholly-owned subsidiary of ours that would be formed just prior to such transfer. Following such transfer, we anticipate that the SBIC subsidiary would be allowed to issue SBA-guaranteed debentures, subject to the required capitalization of the SBIC subsidiary. SBA guaranteed debentures carry long-term fixed rates that are generally lower than rates on comparable bank and other debt. We cannot assure you that we will make
+
+an application for an SBIC license, be successful in receiving an SBIC license from the SBA or that the SBA will permit such license to be transferred to us. If we do receive an SBIC license, there is no minimum amount of SBA-guaranteed debentures that must be allocated to us. 
+
+Since we are using debt to finance our investments, and we may use additional debt or preferred stock financing going forward, changes in interest rates may affect our cost of capital, net investment income, value of our common stock and our rate of return on invested capital. 
+
+Since we are using debt to finance investments, our net investment income will depend, in part, upon the difference between the rate at which we borrow funds and the rate at which we invest those funds. As a result, 
+
+30
+
+TABLE OF CONTENTS
+
+a significant change in market interest rates may have a material adverse effect on our net investment income. In periods of rising interest rates when we have debt outstanding, our cost of funds will increase, which could reduce our net investment income. 
+
+Conversely, in periods of falling interest rates, the probability that our loans and other investments in portfolio companies will be pre-paid increases. In such event, we can offer no assurance that we will be able to make new loans on the same terms, or at all. If we cannot make new loans on terms that are the same or better than the investments that are repaid, then our results of operations and financial condition will be adversely affected. We expect that our investments will be financed primarily with equity and medium to long-term debt or preferred stock. We may use interest rate risk management techniques in an effort
+
+to limit our exposure to interest rate fluctuations. These techniques may include various interest rate hedging activities to the extent permitted by the 1940 Act. These activities may limit our ability to benefit from lower interest rates with respect to the hedged portfolio. Adverse developments resulting from changes in interest rates or hedging transactions could have a material adverse effect on our business, financial condition and results of operations. Additionally, our ability to engage in hedging transactions may also be adversely affected by recent rules adopted by the CFTC, unless we register with the CFTC as a commodity pool operator. 
+
+You should also be aware that a rise in the general level of interest rates can be expected to lead to higher interest rates applicable to our debt investments. Accordingly, an increase in interest rates would make it easier for us to meet or exceed the incentive fee Hurdle Rate and may result in a substantial increase in the amount of incentive fees payable to our Investment Adviser with respect to Pre-Incentive Fee Net Investment Income. An increase in interest rates may decrease the value of any investments we hold which earn fixed interest rates and also may increase our interest expense, thereby decreasing our net income,
+
+and also may make investments in our common stock less attractive if we are not able to increase our distribution rate, which may reduce the market value of our common stock. 
+
+In July 2017, the head of the United Kingdom Financial Conduct Authority, or the FCA, announced that it will no longer persuade or compel banks to submit rates for the calculation of LIBOR after 2021. In December 2017, following consideration of public comments, the Federal Reserve Board concluded that the public would benefit if the Federal Reserve Bank of New York published three proposed reference rates as alternatives to LIBOR. The Federal Reserve Bank of New York said that the publication of these alternative rates is targeted to commence by mid-2018. At this time, it is not possible to predict the effect of the
+
+FCAs announcement, the Federal Reserve Boards notice, other regulatory changes or announcements, any establishment of alternative reference rates or any other reforms to LIBOR that may be enacted in the United Kingdom, the United States or elsewhere. As such, the potential effect of any such event on our net investment income cannot yet be determined. 
+
+There are significant potential conflicts of interest that could affect our investment returns. 
+
+As a result of our arrangements with H.I.G. Capital and our investment committee, there may be times when H.I.G. Capital or our investment committee have interests that differ from those of our stockholders, giving rise to a conflict of interest. 
+
+There may be conflicts related to obligations our investment committee, our Investment Adviser or its affiliates have to other clients. 
+
+The members of our investment committee serve or may serve as officers, directors or principals of entities that operate in the same or a related line of business as we do, or of investment funds managed by our Investment Adviser or its affiliates. Similarly, our Investment Adviser or its affiliates may have other clients with similar, different or competing investment objectives. In serving in these multiple capacities, they may have obligations to other clients or investors in those entities, the fulfillment of which may not be in the best interests of us or our stockholders. For example, the members of our investment
+
+committee have, and will continue to have, management responsibilities for other investment funds, accounts or other investment vehicles managed or sponsored by our Investment Adviser and its affiliates, including entities that may raise additional capital from time to time. These other investment funds, accounts or investment vehicles may have different fee and expense arrangements, including requirements to share or offset certain fees from portfolio companies, than those paid by us to the Investment Adviser. Our investment objective overlaps or may overlap 
+
+31
+
+TABLE OF CONTENTS
+
+with the investment objectives of such affiliated investment funds, accounts or other investment vehicles. As a result, those individuals may face conflicts in the allocation of investment opportunities among us and other investment funds or accounts advised by or affiliated with our Investment Adviser. Our Investment Adviser will seek to allocate investment opportunities among eligible accounts in a manner that is fair and equitable over time and consistent with its allocation policy. However, we cannot assure you that such opportunities will be allocated to us fairly or equitably in the short-term or over time. Where we are
+
+able to co-invest consistent with the requirements of the 1940 Act, including the Exemptive Relief Order, if sufficient securities or loan amounts are available to satisfy our and each such accounts proposed demand, we expect that the opportunity will be allocated in accordance with our Investment Advisers pre-transaction determination. If there is an insufficient amount of an investment opportunity to satisfy our demand and that of other accounts sponsored or managed by our Investment Adviser or its affiliates, the allocation policy further provides that allocations among us and such other accounts will generally be made pro rata based on each accounts available capital in the asset class being allocated, up to the amount proposed to be invested by each account. However, there can be no assurance that we will be able to participate in all suitable investment opportunities. Where we are unable to co-invest consistent with the requirements of the 1940 Act, our
+
+Investment Advisers allocation policy provides for investments to be allocated on a rotational basis to assure that all clients have fair and equitable access to such investment opportunities. 
+
+Our investment committee, our Investment Adviser or its affiliates may, from time to time, possess material non-public information, limiting our investment discretion. 
+
+Principals of our Investment Adviser and its affiliates and members of our investment committee may serve as directors of, or in a similar capacity with, companies in which we invest, the securities of which are purchased or sold on our behalf. If we obtain material nonpublic information with respect to such companies, or we become subject to trading restrictions under the internal trading policies of those companies or as a result of applicable law or regulations, we could be prohibited for a period of time from purchasing or selling the securities of such companies, and this prohibition may have an adverse effect on us. 
+
+Our incentive fee structure may create incentives for our Investment Adviser that are not fully aligned with the interests of our stockholders and may induce our Investment Adviser to make speculative investments. 
+
+In the course of our investing activities, we pay management and incentive fees to our Investment Adviser. The incentive fee payable by us to our Investment Adviser may create an incentive for our Investment Adviser to make investments on our behalf that are risky or more speculative than would be the case in the absence of such compensation arrangement. The management fee is based on our consolidated gross assets. As a result, investors in our common stock will invest on a gross basis and receive distributions on a net basis after expenses, resulting in a lower rate of return than one might achieve
+
+through direct investments. Because the management fee is based on our consolidated gross assets, our Investment Adviser will benefit when we incur debt or use leverage. The use of leverage increases the likelihood of default, which disfavors the holders of our common stock. 
+
+Additionally, under the incentive fee structure, our Investment Adviser may benefit when capital gains are recognized and, because our Investment Adviser determines when a holding is sold, our Investment Adviser controls the timing of the recognition of such capital gains. Our board of directors is charged with protecting our interests by monitoring how our Investment Adviser addresses these and other conflicts of interest associated with its management services and compensation. While they are not expected to review or approve each investment or realization, our independent directors will periodically review our Investment
+
+Advisers services and fees as well as its portfolio management decisions and portfolio performance. In connection with these reviews, our independent directors will consider whether such fees and our expenses (including those related to leverage) remain appropriate. As a result of this arrangement, our Investment Adviser or its affiliates may from time to time have interests that differ from those of our stockholders, giving rise to a conflict. 
+
+Unlike that portion of the incentive fee based on income, there is no Hurdle Rate applicable to the incentive fee based on net capital gains. As a result, our Investment Adviser may seek to invest more capital in investments that are likely to result in capital gains as compared to income producing securities. This practice could result in our investing in more speculative securities than would otherwise be the case, which could result in higher investment losses, particularly during economic downturns. 
+
+32
+
+TABLE OF CONTENTS
+
+In addition, under the terms of the Incentive Fee Cap and Deferral Mechanism, the amount of incentive fees earned by our Investment Adviser will depend, in part, upon the timing of capital gains or losses in our investment portfolio, as well as the timing of our recognition of income. Depending on the circumstances, there may be a lag of as long as 12 fiscal quarters between the occurrence of an event giving rise to an obligation to pay incentive fees to the Investment Adviser and the payment of such incentive fees. Therefore, investors who acquire shares of our common stock may pay indirectly to our Investment Adviser
+
+incentive fees in respect of income or capital gains that were received by or paid to us prior to such investor becoming a stockholder. As a result, such investors may not participate in the income or capital gains giving rise to such indirect expense. 
+
+The valuation process for certain of our portfolio holdings creates a conflict of interest. 
+
+We expect to make many portfolio investments in the form of securities that are not publicly traded. As a result, our board of directors determines the fair value of these securities in good faith under our valuation policies and procedures. In connection with that determination, investment professionals from our Investment Adviser provide our board of directors with portfolio company valuations based upon the most recent portfolio company financial statements available and projected financial results of each portfolio company. In addition, certain members of our board of directors have an indirect pecuniary interest in our
+
+Investment Adviser. The participation of our Investment Advisers investment professionals in our valuation process, and the indirect pecuniary interest in our Investment Adviser by certain members of our board of directors, could result in a conflict of interest as the management fee paid to our Investment Adviser is based, in part, on our consolidated gross assets. 
+
+We have conflicts related to other arrangements with our Investment Adviser or its affiliates. 
+
+We have entered into the License Agreement with an affiliate of H.I.G. Capital under which H.I.G. Capital has granted us a non-exclusive, royalty-free license to use the name WhiteHorse. In addition, we pay to WhiteHorse Administration our allocable portion of overhead and other expenses incurred by WhiteHorse Administration in performing its obligations under the Administration Agreement, such as rent and our allocable portion of the cost of our chief financial officer and chief compliance officer and their respective staffs. These arrangements create conflicts of interest that our board of directors must monitor.
+
+Our Investment Adviser may be paid incentive compensation even if we incur a net loss, and we cannot recover any portion of the incentive fee previously paid. 
+
+Our Investment Adviser is entitled to incentive compensation for each fiscal quarter in an amount equal to a percentage of our Pre-Incentive Fee Net Investment Income, subject to the Hurdle Rate, a catch-up provision and the Incentive Fee Cap and Deferral Mechanism. Our Pre-Incentive Fee Net Investment Income excludes realized and unrealized capital losses that we may incur in the fiscal quarter, even if such capital losses result in a net loss for that quarter. Thus, we may be required to pay our Investment Adviser incentive compensation for a fiscal quarter even if we incur a net loss. In addition, if we pay the capital
+
+gains portion of the incentive fee and thereafter experience additional realized capital losses or unrealized capital depreciation, we will not be able to recover any portion of the incentive fee previously paid. 
+
+The Investment Advisory Agreement with WhiteHorse Advisers and the Administration Agreement with WhiteHorse Administration were not negotiated on an arms length basis and may not be as favorable to us as if they had been negotiated with an unaffiliated third party. 
+
+The Investment Advisory Agreement and the Administration Agreement were negotiated between related parties. Consequently, their terms, including fees payable to our Investment Adviser, may not be as favorable to us as if they had been negotiated with an unaffiliated third party. In addition, we may choose not to enforce, or to enforce less vigorously, our rights and remedies under these agreements because of our desire to maintain our ongoing relationship with our Investment Adviser, our Administrator and their respective affiliates. Any such decision, however, would breach our fiduciary obligations to our stockholders. 
+
+Our ability to enter into transactions with our affiliates is restricted, which may limit the scope of investments available to us. 
+
+We are prohibited under the 1940 Act from participating in certain transactions with our affiliates without the prior approval of our independent directors and, in some cases, of the SEC. The Exemptive Relief Order 
+
+33
+
+TABLE OF CONTENTS
+
+permits us to participate in negotiated investments with our affiliates that would otherwise be prohibited by the 1940 Act, subject to certain conditions. Any person that owns, directly or indirectly, five percent or more of our outstanding voting securities will be our affiliate for purposes of the 1940 Act, and we are generally prohibited from buying or selling any security from or to, or entering into certain joint transactions (which could include investments in the same portfolio company) with such affiliates, absent the prior approval of our independent directors. Our Investment Adviser and its affiliates,
+
+including persons that control, or are under common control with, us or our Investment Adviser, are also considered to be our affiliates under the 1940 Act. 
+
+We may invest alongside other clients of our Investment Adviser and its affiliates in certain circumstances where doing so is consistent with applicable law, the terms of our Exemptive Relief Order, SEC staff interpretations and/or exemptive relief issued by the SEC. For example, we may invest alongside such accounts consistent with guidance promulgated by the staff of the SEC permitting us and such other accounts to purchase interests in a single class of privately placed securities so long as certain conditions are met, including that our Investment Adviser, acting on our behalf and on behalf of other clients, negotiates no
+
+term other than price. We may also invest alongside our Investment Advisers other clients as otherwise permissible under regulatory guidance, applicable regulations and the allocation policy of H.I.G. Capital and our Investment Adviser. Under this allocation policy, a fixed calculation, based on the type of investment, will be applied to determine the amount of each opportunity to be allocated to us. This allocation policy will be periodically approved by our Investment Adviser and reviewed by our independent directors. We expect that these determinations will be made similarly for other accounts sponsored or managed by our Investment Adviser and its affiliates. If sufficient securities or loan amounts are available to satisfy our and each such accounts proposed demand, we expect that the opportunity will be allocated in accordance with our Investment Advisers pre-transaction determination. Where there is an insufficient amount of an investment opportunity to satisfy
+
+us and other accounts sponsored or managed by our Investment Adviser or its affiliates, the allocation policy further provides that, except as may otherwise be provided by the Exemptive Relief Order, allocations among us and such other accounts will generally be made pro rata based on the amount that each such party would have invested if sufficient securities or loan amounts were available. However, we can offer no assurance that investment opportunities will be allocated to us fairly or equitably in the short-term or over time. 
+
+The Exemptive Relief Order permits greater flexibility to negotiate the terms of co-investments and requires our board of directors to determine that it would be advantageous for us to co-invest with other accounts sponsored or managed by our Investment Adviser or its affiliates in a manner consistent with our investment objective, positions, policies, strategies and restrictions, as well as regulatory requirements and other relevant factors. See Certain Relationships and Related Transactions, and Director Independence. We cannot assure you, however, that we will continue to develop opportunities that comply with
+
+such limitations. 
+
+In situations where co-investment with other accounts managed by our Investment Adviser or its affiliates is not permitted or appropriate, H.I.G. Capital and our Investment Adviser will need to decide which client will proceed with the investment. Our Investment Advisers allocation policy provides, in such circumstances, for investments to be allocated on a rotational basis to assure that all clients of our Investment Adviser and its affiliates have fair and equitable access to such investment opportunities. Moreover, except in certain circumstances, we will be unable to invest in any issuer in which a fund managed by
+
+our Investment Adviser or its affiliates has previously invested. Similar restrictions limit our ability to transact business with our officers or directors or their affiliates. These restrictions may limit the scope of investment opportunities that would otherwise be available to us. 
+
+Our portfolio investments will be recorded at fair value as determined in good faith by our board of directors. As a result, there will be uncertainty as to the value of our portfolio investments. 
+
+Many of our portfolio investments will take the form of securities that are not publicly traded. The fair value of securities and other investments that are not publicly traded may not be readily determinable, and we value these securities at fair value as determined in good faith by our board of directors, including to reflect significant events affecting the value of our securities. As discussed in more detail under Managements Discussion and Analysis of Financial Condition and Results of Operations  Critical Accounting Policies, all of our investments (other than cash and cash equivalents)
+
+are classified as Level 3 under Financial Accounting 
+
+34
+
+TABLE OF CONTENTS
+
+Standards Board, or FASB, Accounting Standards Codification, or ASC, Topic 820, Fair Value Measurements and Disclosures, or ASC Topic 820. This means that our portfolio valuations are based on unobservable inputs and our own assumptions about how market participants would price the asset or liability in question. Inputs into the determination of fair value of our portfolio investments require significant management judgment or estimation. Even if observable market data are available, such information may be the result of consensus pricing information or broker quotes, which include a disclaimer that the broker would not
+
+be held to such a price in an actual transaction. Consensus pricing is a methodology for the determination of fair value based on quotations from market makers. These quotations include a disclaimer that the market maker would not be held to such a price in an actual transaction. The non-binding nature of consensus pricing and/or quotes accompanied by disclaimers materially reduces the reliability of such information. We have retained the services of several independent service providers to periodically review the valuation of these securities. The types of factors that the board of directors may take into account in determining the fair value of our investments generally include, as appropriate, comparison to publicly traded securities, including such factors as yield, maturity and measures of credit quality, the enterprise value of a portfolio company, the nature and realizable value of any collateral, the portfolio companys ability to make payments and its earnings and
+
+discounted cash flow, the markets in which the portfolio company does business and other relevant factors. Because such valuations, and particularly valuations of private securities and private companies, are inherently uncertain, may fluctuate over short periods of time and may be based on estimates, our determinations of fair value may differ materially from the values that would have been used if a ready market for these securities existed. In addition, the determination of fair value and thus the amount of unrealized losses we may incur in any year, is, to a degree, subjective, in that it is based on unobservable inputs and certain assumptions. Our NAV could be adversely affected if our determinations regarding the fair value of our investments were materially higher than the values that we ultimately realize upon the disposal of such securities. 
+
+We adjust quarterly the valuation of our portfolio to reflect our board of directors determination of the fair value of each investment in our portfolio. Any changes in fair value are recorded in our consolidated statements of operations as net change in unrealized appreciation or depreciation. 
+
+The lack of liquidity in our investments may adversely affect our business. 
+Question: What are the primary reasons for Surna’s engineering services?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

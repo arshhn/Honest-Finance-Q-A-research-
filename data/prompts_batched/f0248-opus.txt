@@ -1,0 +1,1666 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-093-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+d506004d10k.htm
+
+FORM 10-K
+
+Form 10-K
+
+Table of Contents
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 
+
+F O R M 1 0  K ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+
+1934  
+
+ CNB FINANCIAL CORPORATION (Exact name of registrant as specified in its charter)  
+
+ 1 South Second Street P.O. Box 42 Clearfield, Pennsylvania 16830 
+
+(Address of principal executive office) Registrants telephone number, including area code (814) 765-9621 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+ Securities registered pursuant to Section 12 (g) of the Act: 
+
+None Indicate by
+
+check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+☐  Yes  ☒  No Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. ☐  Yes  ☒  No Indicate by check mark
+
+whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such
+
+reports), and (2) has been subject to such filing requirements for the past 90 days. ☒  Yes  ☐  No Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule
+
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). ☒  Yes  ☐  No 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will
+
+not be contained, to the best of registrants knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.  ☒ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller
+
+reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange
+
+Act. (Check one):  
+
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition
+
+period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). ☐  Yes  ☒  No 
+
+Aggregate market value of the common stock held by nonaffiliates of the registrant as of June 30, 2017: 
+
+$344,353,260 The number of shares outstanding of the registrants common stock as of March 5, 2018: 15,284,339 shares DOCUMENTS INCORPORATED BY REFERENCE 
+
+Portions of the proxy statement for the annual shareholders meeting to be held on April 17, 2018 are incorporated by reference
+
+into Part III. 
+
+Table of Contents
+
+TABLE OF CONTENTS 
+
+Table of Contents
+
+PART I. ITEM 1.  BUSINESS CNB Financial
+
+Corporation (the Corporation) is a financial holding company registered under the Bank Holding Company Act of 1956, as amended (the BHC Act). It was incorporated under the laws of the Commonwealth of Pennsylvania in 1983 for
+
+the purpose of engaging in the business of a financial holding company. On April 26, 1984, the Corporation acquired all of the outstanding capital stock of County National Bank, a national banking chartered institution. In December 2006, County
+
+National Bank changed its name to CNB Bank, referred to herein as the Bank, and became a state bank chartered in Pennsylvania and subject to regulation by the Pennsylvania Department of Banking and the Federal Deposit Insurance Corporation. In
+
+October 2013, the Corporation acquired FC Banc Corp. and its subsidiary, The Farmers Citizens Bank. In July 2016, the Corporation acquired Lake National Bank. In addition to the Bank, the Corporation has three other subsidiaries. CNB Securities Corporation is incorporated in Delaware and currently maintains investments in debt and equity securities. CNB
+
+Insurance Agency, incorporated in Pennsylvania, provides for the sale of nonproprietary annuities and other insurance products. Holiday Financial Services Corporation, incorporated in Pennsylvania, offers small balance unsecured loans and secured
+
+loans, primarily collateralized by automobiles and equipment, to borrowers with higher risk characteristics. CNB Bank 
+
+CNB Bank (the Bank) was originally chartered as a national bank in 1934 and is now a a Pennsylvania-chartered bank. In
+
+February 2017, the Bank completed construction of a full service branch location in Duncansville, Pennsylvania and concurrently closed its loan production office in Hollidaysburg, Pennsylvania. The full service branch is being operated as part of
+
+the CNB Bank franchise. ERIEBANK, a division of CNB Bank, began operations in 2005. In July 2016, the Corporation acquired
+
+Lake National Bank, which operated two full service branches in Mentor, Ohio, approximately 20 miles east of Cleveland, Ohio. The Bank is continuing to operate these 2 branch locations within its ERIEBANK franchise. In February 2017, the Corporation
+
+completed construction of a full service branch location in Ashtabula, Ohio, which is also operating within the ERIEBANK franchise. In October 2013, the Corporation acquired FC Banc Corp. and its subsidiary, Farmers Citizens Bank. In 2017, the Bank sold its Mount Hope branch of FCBank to First Federal Community Bank of Dover, Ohio.
+
+The Bank currently operates seven branch locations and one loan production office as FCBank, a division of CNB Bank, with its headquarters in Worthington, Ohio. In 2016, the Bank received regulatory approval to conduct business in the state of New York as BankOnBuffalo, a division of CNB Bank. The Bank opened a loan production office in Buffalo, New York in May
+
+2016, which was closed in February 2017 with the concurrent opening of a full service location in downtown Buffalo in February 2017. Full service locations in Williamsville, New York and Orchard Park, New York were opened in the fourth quarter of
+
+2017. The Bank has 41 full service branch offices and one loan production offices located in various communities in its
+
+market area. CNB Banks primary market area includes the Pennsylvania counties 
+
+  1 
+
+Table of Contents
+
+of Blair, Cambria, Cameron, Centre, Clearfield, Crawford, Elk, Indiana, Jefferson, and McKean. As ERIEBANK, a division of CNB Bank, the Bank operates in the Pennsylvania counties of Crawford,
+
+Erie, and Warren and the Ohio counties of Ashtabula and Lake. As FCBank, a division of CNB Bank, the Bank operates in the Ohio counties of Crawford, Richland, Ashland, Wayne, Marion, Morrow, Knox, Delaware, and Franklin. As BankOnBuffalo, a division
+
+of CNB Bank, the Bank operates in Erie and Niagara counties, New York. The Bank is a full service bank engaging in a full
+
+range of banking activities and services for individual, business, governmental and institutional customers. These activities and services principally include checking, savings, and time deposit accounts; real estate, commercial, industrial,
+
+residential and consumer loans; and a variety of other specialized financial services. The Banks Private Client Solutions division offers a full range of client services, including private banking and wealth and asset management. 
+
+Holiday Financial Services Corporation In 2005, the Corporation entered the consumer discount loan and finance business, which is conducted through a wholly owned subsidiary, Holiday Financial Services Corporation. Holiday currently has ten
+
+offices within the Corporations footprint. Competition The financial services industry in the Corporations service area continues to be extremely competitive, both among commercial banks and with other financial service providers such as consumer
+
+finance companies, thrifts, investment firms, mutual funds and credit unions. The increased competition has resulted from changes in the legal and regulatory guidelines as well as from economic conditions. Mortgage banking firms, leasing companies,
+
+financial affiliates of industrial companies, brokerage firms, retirement fund management firms, and even government agencies provide additional competition for loans and other financial services. Some of the financial service providers operating in
+
+the Corporations market area operate on a large-scale regional or national basis and possess resources greater than those of the Corporation. The Corporation is generally competitive with all competing financial institutions in its service
+
+area with respect to interest rates paid on time and savings deposits, service charges on deposit accounts and interest rates charged on loans. 
+
+Supervision and Regulation The Corporation is a bank holding company that has elected financial holding company status, and the Bank is a Pennsylvania state-chartered bank that is not a member of the Federal Reserve System.
+
+Accordingly, the Corporation is subject to the oversight of the Board of Governors of the Federal Reserve System (Federal Reserve Board) and the Pennsylvania Department of Banking and is regulated under the Bank Holding Company Act of 1956, as
+
+amended (the BHC Act), and the Bank is subject to the oversight of the Pennsylvania Department of Banking and Federal Deposit Insurance Corporation (FDIC), as its primary federal regulator. The Corporation and Bank are also
+
+subject to various requirements and restrictions under federal and state law, such as requirements to maintain reserves against deposits, restrictions on the types, amounts and terms and conditions of loans that may be granted, and limitations on
+
+the types of investments that may be made and the types of services that may be offered. Various consumer financial protection laws and regulations also affect the operation of the Bank and, pursuant to the Dodd-Frank Wall Street Reform and Consumer
+
+Protection Act (the 
+
+  2 
+
+Table of Contents
+
+Dodd-Frank Act), the Consumer Financial Protection Bureau (CFPB) is authorized to write rules on consumer financial products and services which could affect the operations
+
+of the Bank and Holiday Financial Services Corporation. In addition to the impact of regulation, commercial banks are significantly affected by the actions of the Federal Reserve Board, including actions taken with respect to interest rates, as the
+
+Federal Reserve Board attempts to control the money supply and credit availability in the U.S. in order to influence the economy. The following summary sets forth certain of the material elements of the regulatory framework applicable to bank holding companies and their subsidiaries and provides certain specific information about us
+
+and our subsidiaries. It does not describe all of the provisions of the statutes, regulations and policies that are identified. To the extent that the following information describes statutory and regulatory provisions, it is qualified in its
+
+entirety by express reference to each of the particular statutory and regulatory provisions. A change in applicable statutes, regulations or regulatory policy may have a material effect on our business. 
+
+Bank Holding Company Regulation As a bank holding company that controls a Pennsylvania state-chartered bank, the Corporation is subject to regulation and examination by the Pennsylvania Department of Banking and the Federal Reserve
+
+Board. We are required to file with the Federal Reserve Board an annual report and such additional information as the Federal Reserve Board may require pursuant to the BHC Act, and applicable regulations. For instance, the BHC Act requires each bank
+
+holding company to obtain the approval of the Federal Reserve Board before it may acquire substantially all the assets of any bank, or before it may acquire ownership or control of any voting shares of any bank if, after such acquisition, it would
+
+own or control, directly or indirectly, more than five percent of any class of voting shares of such bank. Such a transaction may also require approval of the Pennsylvania Department of Banking.
+
+Pursuant to provisions of the BHC Act and regulations promulgated by the Federal Reserve Board thereunder, the Corporation may only
+
+engage in, or own companies that engage in, activities deemed by the Federal Reserve Board to be permissible for bank holding companies or financial holding companies. Activities permissible for bank holding companies are those that are so closely
+
+related to the business of banking or managing or controlling banks as to be a proper incident thereto. Permissible activities for financial holding companies include those so closely related to banking as to be a proper incident thereto
+
+as well as certain additional activities deemed financial in nature or incidental to such financial activity or complementary to a financial activity and that does not pose a substantial risk to the safety and soundness of the depository
+
+institution or the financial system. The Corporation must obtain permission from or provide notice to the Federal Reserve Board prior to engaging in most new business activities. Regulation of CNB Bank CNB Bank is a Pennsylvania-chartered bank and is
+
+subject to regulation, supervision and regular examination by the Pennsylvania Department of Banking and the FDIC, as its primary federal regulator. Federal and state banking laws and regulations govern, among other things, the scope of a
+
+banks business, the investments a bank may make, the reserves against deposits a bank must maintain, the loans a bank makes and collateral it takes, the activities of a bank with respect to mergers and acquisitions, the establishment of
+
+branches, management practices, and numerous other aspects of banking operations. 
+
+  3 
+
+Table of Contents
+
+Source of Strength Doctrine Under Section 616 of the Dodd-Frank Act, a bank holding company is required to serve as a source of financial strength to its subsidiary banks and may not conduct its operations in an unsafe or
+
+unsound manner. In addition, it is the Federal Reserve Boards policy that in serving as a source of financial and managerial strength to its subsidiary banks, a bank holding company should stand ready to use available resources to provide
+
+adequate capital funds to its subsidiary banks during periods of financial stress or adversity and should maintain the financial flexibility and capital-raising capacity to obtain additional resources for assisting its subsidiary banks. A bank
+
+holding companys failure to meet its obligations to serve as a source of strength to its subsidiary banks will generally be considered by the Federal Reserve Board to be an unsafe and unsound banking practice or a violation of the Federal
+
+Reserve Board regulations or both. This doctrine is commonly known as the source of strength doctrine. Identity Theft
+
+ The Securities and Exchange Commission and the Commodity Futures Trading Commission (together, the
+
+Commissions) jointly issued final rules and guidelines to require certain regulated entities to establish programs to address risks of identity theft. The rules and guidelines implement provisions of the Dodd-Frank Act. These provisions
+
+amend Section 615(e) of the Fair Credit Reporting Act and directed the Commissions to adopt rules requiring entities that are subject to the Commissions jurisdiction to address identity theft in two ways. First, the rules require
+
+financial institutions and creditors to develop and implement a written identity theft prevention program that is designed to detect, prevent, and mitigate identity theft in connection with certain existing accounts or the opening of new accounts.
+
+The rules include guidelines to assist entities in the formulation and maintenance of programs that would satisfy the requirements of the rules. Second, the rules establish special requirements for any credit and debit card issuers that are subject
+
+to the Commissions jurisdiction, to assess the validity of notifications of changes of address under certain circumstances. Capital
+
+Adequacy The Capital Rules of the Federal Reserve Board, the FDIC, and the Office of the Comptroller of the Currency,
+
+generally implement the Basel Committee on Banking Supervisions capital framework, referred to as Basel III, for strengthening international capital standards. The Capital Rules revise the definitions and components of regulatory capital,
+
+increase risk-based capital requirements, and make selected changes to the calculation of risk-weighted assets. The Capital
+
+Rules, among other things:  
+
+  4 
+
+Table of Contents
+
+ Compliance with the Capital Rules was required beginning January 1, 2015, for most banking
+
+organizations including the Corporation, subject to a transition period for several aspects of the final rules, including the new minimum capital ratio requirements, the capital conservation buffer, and the regulatory capital adjustments and
+
+deductions. The Corporation implemented the Capital Rules on January 1, 2015, and continues to exceed all estimated well-capitalized regulatory requirements on a fully phased-in basis. 
+
+In November 2017, the FRB finalized a rule extending the currently applicable capital rules for non-advanced approaches institutions,
+
+including the treatment of mortgage servicing assets. This rule is in effect pending the comment period and review of the general proposal to simplify the Capital Rules for non-advanced approaches institutions. 
+
+Dividend Restrictions 
+
+The Corporation is a legal entity separate and distinct from the Bank. Declaration and payment of cash dividends depends upon cash
+
+dividend payments to the Corporation by the Bank, which is our primary source of revenue and cash flow. Accordingly, the right of the Corporation, and consequently the right of our creditors and shareholders, to participate in any distribution of
+
+the assets or earnings of any subsidiary is necessarily subject to the prior claims of creditors of the Bank, except to the extent that claims of the Corporation in its capacity as a creditor may be recognized. 
+
+As a Pennsylvania state-chartered bank, the Bank is subject to regulatory restrictions on the payment and amounts of dividends under the
+
+Pennsylvania Banking Code. Further, the ability of banking subsidiaries to pay dividends is also subject to their profitability, financial condition, capital expenditures and other cash flow requirements. 
+
+The payment of dividends by the Bank and the Corporation may also be affected by other factors, such as the requirement to maintain
+
+adequate capital above regulatory requirements. The federal banking agencies have indicated that paying dividends that deplete a depository institutions capital base to an inadequate level would be an unsafe and unsound banking practice. A
+
+depository institution may not pay any dividend if payment would cause it to become undercapitalized or if it already is undercapitalized. Moreover, the federal banking agencies have issued policy statements that provide
+
+  5 
+
+Table of Contents
+
+that bank holding companies and insured banks should generally only pay dividends out of current operating earnings. Federal banking regulators have the authority to prohibit banks and bank
+
+holding companies from paying a dividend if the regulators deem such payment to be an unsafe or unsound practice. Prompt Corrective Action
+
+and Safety and Soundness Under applicable prompt corrective action (PCA) statutes and
+
+regulations, depository institutions are placed into one of five capital categories, ranging from well capitalized to critically undercapitalized. The PCA statute and regulations provide for progressively more stringent
+
+supervisory measures as an insured depository institutions capital category declines. An institution that is not well capitalized is generally prohibited from accepting brokered deposits and offering interest rates on deposits higher than the
+
+prevailing rate in its market. An undercapitalized depository institution must submit an acceptable restoration plan to the appropriate federal banking agency. One requisite element of such a plan is that the institutions parent holding
+
+company must guarantee compliance by the institution with the plan, subject to certain limitations. At December 31, 2017,
+
+the Bank qualified as well capitalized under applicable regulatory capital standards. Bank holding companies and
+
+insured depository institutions may also be subject to potential enforcement actions of varying levels of severity by the federal banking agencies for unsafe or unsound practices in conducting their business, or for violation of any law, rule,
+
+regulation, condition imposed in writing by the agency or term of a written agreement with the agency. In more serious cases, enforcement actions may include the issuance of directives to increase capital; the issuance of formal and informal
+
+agreements; the imposition of civil monetary penalties; the issuance of a cease and desist order that can be judicially enforced; the issuance of removal and prohibition orders against officers, directors, and other institution affiliated parties;
+
+the termination of the insured depository institutions deposit insurance; the appointment of a conservator or receiver for the insured depository institution; and the enforcement of such actions through injunctions or restraining orders based
+
+upon a judicial determination that the FDIC, as receiver, would be harmed if such equitable relief was not granted. Community Reinvestment
+
+Act Under the Community Reinvestment Act of 1977 (CRA), the FDIC is required to assess the record of all
+
+financial institutions it supervises to determine if these institutions are meeting the credit needs of the community (including low and moderate income neighborhoods) which they serve. CRA performance evaluations are based on a four-tiered rating
+
+system: Outstanding, Satisfactory, Needs to Improve and Substantial Noncompliance. CRA performance evaluations are considered in evaluating applications for such things as mergers, acquisitions and applications to open branches. The Bank received a
+
+CRA rating of Satisfactory at its most recent CRA exam. Restrictions on Transactions with Affiliates and Insiders
+
+ The Bank and Corporation are subject to the restrictions of Sections 23A and 23B of the Federal Reserve Act and their
+
+implementing Regulation W. Section 23A requires that loans or extensions of credit by the Bank to an affiliate, purchases by the Bank of securities issued by an affiliate, purchases by the Bank of assets from an affiliate (except as may be
+
+exempted by order or regulation), the Banks 
+
+  6 
+
+Table of Contents
+
+acceptance of securities issued by an affiliate as collateral and the Banks acceptance of a guarantee, the Banks acceptance of letters of credit on behalf of an affiliate
+
+(collectively, Covered Transactions) be on terms and conditions consistent with safe and sound banking practices. Section 23A also imposes quantitative restrictions on the amount of and collateralization requirements on such
+
+transactions. Section 23B requires that all Covered Transactions and certain other transactions, including the sale of securities or other assets by the Bank to an affiliate and the payment of money or the furnishing of services by the Bank to
+
+an affiliate, be on terms comparable to those prevailing for similar transactions with nonaffiliates. The Bank is also
+
+subject to Sections 22(g) and 22(h) of the Federal Reserve Act, and their implementing Regulation O issued by the Federal Reserve Board. These provisions impose limitations on loans and extensions of credit by the Bank to its executive officers,
+
+directors and principal shareholders and their related interests as well as to the Corporation and any subsidiary of the Corporation. The limitations restrict the terms and aggregate amount of such transactions. Regulation O also imposes certain
+
+recordkeeping and reporting requirements. Deposit Insurance and Premiums 
+
+The deposits of the Bank are insured up to applicable limits per insured depositor by the FDIC. The standard maximum deposit insurance
+
+amount is $250,000 per depositor per insured depository institution. The FDIC uses a risk-based assessment system that
+
+imposes insurance premiums based on a risk matrix that takes into account the banks capital level and supervisory rating. The base for insurance assessments is the average consolidated total assets less tangible equity capital of a financial
+
+institution. Assessment rates are calculated using formulas that take into account the risk of the institution being assessed. FDIC deposit insurance expense also includes deposit insurance assessments and FICO assessments related to outstanding
+
+FICO bonds. Financial Privacy and Data Security The Corporation is subject to federal laws, including the Gramm-Leach-Bliley Act and certain state laws containing consumer privacy protection provisions. These provisions limit the ability of banks and
+
+other financial institutions to disclose nonpublic information about consumers to affiliated and non-affiliated third parties and limit the reuse of certain consumer information received from non-affiliated financial institutions. These provisions
+
+require notice of privacy policies to consumers and, in some circumstances, allow consumers to prevent disclosure of certain nonpublic personal information to affiliates or non-affiliated third parties by means of opt-out or opt-in authorizations.
+
+ The Gramm-Leach-Bliley Act requires that financial institutions implement comprehensive written information security programs
+
+that include administrative, technical, and physical safeguards to protect consumer information. Federal banking agencies have also adopted guidelines for establishing information security standards and programs to protect such information. Further,
+
+pursuant to interpretive guidance issued under the Gramm-Leach-Bliley Act and certain state laws, financial institutions are required to notify customers of security breaches that result in unauthorized access to their nonpublic personal
+
+information. 
+
+  7 
+
+Table of Contents
+
+Incentive Compensation The Dodd-Frank Act requires the federal banking agencies and the SEC to establish joint regulations or guidelines prohibiting incentive-based payment arrangements at specified regulated entities,
+
+including the Corporation and the Bank, with at least $1 billion in total consolidated assets that encourage inappropriate risks by providing an executive officer, employee, director or principal shareholder with excessive compensation, fees, or
+
+benefits that could lead to material financial loss to the entity. The federal banking agencies and the SEC most recently proposed such regulations in 2016, but the regulations have not yet been finalized. If the regulations are adopted in the form
+
+initially proposed, they will restrict the manner in which executive compensation is structured. The Dodd-Frank Act also
+
+requires publicly traded companies to give stockholders a non-binding vote on executive compensation at their first annual meeting taking place six months after the date of enactment and at least every three years thereafter and on so-called
+
+golden parachute payments in connection with approvals of mergers and acquisitions. USA PATRIOT Act 
+
+Under Title III of the USA PATRIOT Act, all financial institutions are required to take certain measures to identify their customers,
+
+prevent money laundering, monitor customer transactions, and report suspicious activity to U.S. law enforcement agencies. Financial institutions also are required to respond to requests for information from federal banking agencies and law
+
+enforcement agencies. Information sharing among financial institutions for the above purposes is encouraged by an exemption granted to complying financial institutions from the privacy provisions of the Gramm-Leach-Bliley Act and other privacy laws.
+
+Financial institutions that hold correspondent accounts for foreign banks or provide private banking services to foreign individuals are required to take measures to avoid dealing with certain foreign individuals or entities, including foreign banks
+
+with profiles that raise money laundering concerns, and are prohibited from dealing with foreign shell banks and persons from jurisdictions of particular concern. The primary federal banking agencies and the Secretary of the Treasury
+
+have adopted regulations to implement several of these provisions. All financial institutions also are required to establish internal anti-money laundering programs. The effectiveness of a financial institution in combating money laundering
+
+activities is a factor to be considered in any application submitted by the financial institution under the Bank Merger Act. The Bank has in place a Bank Secrecy Act and USA PATRIOT Act compliance program and engages in very few transactions of any
+
+kind with foreign financial institutions or foreign persons. Office of Foreign Assets Control Regulation 
+
+The United States government has imposed economic sanctions that affect transactions with designated foreign countries, nationals, and
+
+others. These are typically known as the OFAC rules based on their administration by the U.S. Treasury Department Office of Foreign Assets Control. The Office of Foreign Assets Control-administered sanctions targeting countries take many
+
+different forms. Generally, they contain one or more of the following elements: (i) restrictions on trade with or investment in a sanctioned country, including prohibitions against direct or indirect imports from and exports to a sanctioned
+
+country and prohibitions on U.S. persons engaging in financial transactions relating to making investments in, or providing investment-related advice or assistance to, a sanctioned country; and (ii) a blocking of assets in which the government
+
+or specially designated nationals of the sanctioned country have an interest, by prohibiting transfers of property subject to U.S. jurisdiction 
+
+  8 
+
+Table of Contents
+
+(including property in the possession or control of U.S. persons). Blocked assets (property and bank deposits) cannot be paid out, withdrawn, set off, or transferred in any manner without a
+
+license from the Office of Foreign Assets Control. Failure to comply with these sanctions could have serious legal and reputational consequences. Other Federal Laws and Regulations State usury and other credit laws
+
+limit the amount of interest and various other charges collected or contracted by a bank on loans. The Bank is also subject to lending limits on loans to one borrower and regulatory guidance on concentrations of credit. The Banks loans and
+
+other products and services are also subject to numerous federal and state consumer financial protection laws, including, but not limited to, the following:  
+
+ Sarbanes-Oxley Act of 2002 The Sarbanes-Oxley Act is applicable to all companies with equity securities registered or that file reports under the Securities Exchange Act of 1934, as amended, including publicly-held financial
+
+holding companies such as the Corporation. In particular, the Sarbanes-Oxley Act establishes: (i) requirements for audit committees, including independence, expertise, and responsibilities; (ii) additional responsibilities regarding
+
+financial statements for the Chief Executive Officer and Chief Financial Officer of the reporting company; (iii) standards for auditors and regulation of audits; (iv) increased disclosure and reporting obligations for the reporting company
+
+and its directors and executive officers; and (v) new and increased civil and criminal penalties for violations of the securities laws.
+
+  9 
+
+Table of Contents
+
+Governmental Policies Our earnings are significantly affected by the monetary and fiscal policies of governmental authorities, including the Federal Reserve Board. Among the instruments of monetary policy used by the Federal
+
+Reserve Board to implement these objectives are open-market operations in U.S. Government securities and federal funds, changes in the discount rate on member bank borrowings and changes in reserve requirements against member bank deposits.
+
+These instruments of monetary policy are used in varying combinations to influence the overall level of bank loans, investments and deposits, and the interest rates charged on loans and paid for deposits. The Federal Reserve Board frequently uses
+
+these instruments of monetary policy, especially its open-market operations and the discount rate, to influence the level of interest rates and to affect the strength of the economy, the level of inflation or the price of the dollar in foreign
+
+exchange markets. The monetary policies of the Federal Reserve Board have had a significant effect on the operating results of banking institutions in the past and are expected to continue to do so in the future. It is not possible to predict the
+
+nature of future changes in monetary and fiscal policies, or the effect which they may have on our business and earnings. Other
+
+Legislative Initiatives Proposals may be introduced in the United States Congress, in the Pennsylvania Legislature,
+
+and/or by various bank regulatory authorities that could alter the powers of, and restrictions on, different types of banking organizations and which could restructure part or all of the existing regulatory framework for banks, bank and financial
+
+holding companies and other providers of financial services. Moreover, other bills may be introduced in Congress which would further regulate, deregulate or restructure the financial services industry, including proposals to substantially reform the
+
+regulatory framework. It is not possible to predict whether any such proposals will be enacted into law or, even if enacted, what effect such action may have on our business and earnings. Employees As of December 31, 2017, the Corporation had a total of 528 employees of
+
+which 481 were full time and 47 were part time. 
+
+  10 
+
+Table of Contents
+
+Executive Officers The Corporations named executive officers, their ages, and their principal occupations are as follows:  
+
+ Officers are elected annually at the reorganization meeting of the Board of Directors. There are no
+
+arrangements or understandings between any officer and any other persons pursuant to which he was selected as an officer. 
+
+  11 
+
+Table of Contents
+
+Available Information The Corporation makes available free of charge on its website (www.cnbbank.bank) its Annual Report on Form 10-K, its quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those
+
+reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as practicable after it electronically files such material with, or furnishes it to, the Securities and Exchange
+
+Commission, the SEC. Information on the Corporations website is not incorporated by reference into this report. 
+
+Shareholders may obtain a copy of the Corporations Annual Report on Form 10-K free of charge by writing to: CNB Financial
+
+Corporation, 1 South Second Street, PO Box 42, Clearfield, PA 16830, Attn: Shareholder Relations. Interested persons may also
+
+read and copy materials the Corporation files with, or furnishes to, the SEC at the SECs Public Reference Room at 100 F Street, NE Washington, DC 20549. Information concerning the operation of the Public Reference Room may be obtained by
+
+calling the SEC at 1-800-SEC-0330. The SEC also maintains an internet site that contains reports, proxy statements and other information about electronic filers such as
+
+the Corporation. The site is available at http://www.sec.gov. Statistical Disclosure 
+
+The following tables set forth statistical information relating to the Corporation and its wholly owned subsidiaries. The tables should
+
+be read in conjunction with the consolidated financial statements of the Corporation. 
+
+  12 
+
+Table of Contents
+
+Average Balances and Net Interest Margin (Dollars in thousands)  
+
+  13 
+
+Table of Contents
+
+  14 
+
+Table of Contents
+
+Securities 
+
+ Maturity Distribution of Investment Securities 
+
+(Dollars In Thousands) December 31, 2017  
+
+  15 
+
+Table of Contents
+
+LOAN PORTFOLIO (Dollars in thousands) A. TYPE OF LOAN 
+
+ B. LOAN MATURITIES AND INTEREST SENSITIVITY 
+
+ C. RISK ELEMENTS  
+
+ Interest income recorded on the nonaccrual loans for the year ended December 31, 2017 was $660.
+
+Additional interest income which would have been recorded on nonaccrual loans had they been on accrual status was $198 for the year ended December 31, 2017. Loans are placed in nonaccrual status when the interest or principal is 90 days past due, unless the loan is in collection, well secured and it is believed that there will be no loss of interest or
+
+principal. 
+
+  16 
+
+Table of Contents
+
+At December 31, 2017, there were $20,795 in special mention loans, $33,325 in
+
+substandard loans, and $0 in doubtful loans which are considered problem loans. These loans are not included in the table above. In the opinion of management, these loans are adequately secured and losses are believed to be minimal. 
+
+SUMMARY OF LOAN LOSS EXPERIENCE 
+
+(Dollars in Thousands)  
+
+ The provision for loan losses reflects the amount deemed appropriate by management to establish an
+
+adequate reserve for probable incurred losses. Managements judgment is based on the evaluation of individual loans, the overall risk characteristics of various portfolio segments, past experience with losses, the impact of economic conditions
+
+on borrowers, and other relevant factors. ALLOCATION OF THE ALLOWANCE FOR LOAN LOSSES 
+
+(Dollars In Thousands)  
+
+  17 
+
+Table of Contents
+
+In determining the allocation of the allowance for loan losses, the Corporation considers
+
+economic trends, historical patterns and specific credit reviews. With regard to the credit reviews, a watchlist
+
+is evaluated on a monthly basis to determine potential commercial losses. Consumer and mortgage loans are allocated using historical loss experience. DEPOSITS (Dollars In Thousands) 
+
+ RETURN ON EQUITY AND ASSETS  
+
+  18 
+
+Table of Contents
+
+ITEM 1A. RISK FACTORS 
+
+The Corporations financial condition and results of operations are subject to various risks inherent in its business. The material
+
+risks and uncertainties that management believes affect the Corporation are described below. If any of these risks actually occur, the Corporations business, financial condition, liquidity, results of operations and prospects could be
+
+materially and adversely affected. The following risks together with all of the other information in this Annual Report on Form 10-K should be considered. The possibility of the economys return to recessionary conditions and the possibility of further turmoil or volatility in the financial markets would likely have an adverse effect on the
+
+Corporations business, financial position and results of operations. The Corporation continues to face risks
+
+resulting from the aftermath of the severe recession generally and the moderate pace of the current recovery. A slowing or failure of the economic recovery would likely aggravate the adverse effects of these difficult economic and market conditions
+
+on the Corporation and on others in the financial services industry. In particular, the Corporation may face the following risks in connection with the economic or market environment: 
+
+ The Banks allowance for loan losses may not be
+
+adequate to cover loan losses which could have a material adverse effect on the Corporations business, financial condition and results of operations. A significant source of risk for the Corporation arises from the possibility that losses will be sustained because borrowers, guarantors and related parties may fail to perform in accordance with the
+
+terms of their loan agreements. Most loans originated by the Bank are secured, but some loans are unsecured based upon managements evaluation of the creditworthiness of the borrowers. With respect to secured loans, the collateral securing the
+
+repayment of these loans principally includes a wide variety of real estate, and to a lesser extent personal property, either of which may be insufficient to cover the obligations owed under such loans. 
+
+Collateral values and the financial performance of borrowers may be adversely affected by changes in prevailing economic, environmental
+
+and other conditions, including declines in the value of real estate, changes in interest rates and debt service levels, changes in oil and gas prices, changes in monetary and fiscal policies of the federal government, widespread disease, terrorist
+
+activity, environmental 
+
+  19 
+
+Table of Contents
+
+contamination and other external events, which are beyond the control of the Bank. In addition, collateral appraisals that are out of date or that do not meet industry recognized standards might
+
+create the impression that a loan is adequately collateralized when in fact it is not. Although the Bank may acquire any real estate or other assets that secure defaulted loans through foreclosures or other similar remedies, the amounts owed under
+
+the defaulted loans may exceed the value of the assets acquired. The allowance for loan losses is subject to a formal
+
+analysis by the Credit Administration and Finance Departments of the Corporation using a methodology whereby loan pools are segregated into special mention, substandard, doubtful and unclassified categories and the pools are evaluated based on
+
+historical loss factors. The Bank monitors delinquencies and losses on a monthly basis. The Bank has adopted underwriting and credit monitoring policies and procedures, including the review of borrower financial statements and collateral appraisals,
+
+which management believes are appropriate to mitigate the risk of loss by assessing the likelihood of borrower nonperformance and the value of available collateral. The Bank also manages credit risk by diversifying its loan portfolio. An ongoing
+
+independent review, subsequent to managements review, of individual credits is performed by an independent loan review function, which reports to the Loan Committee of the Corporations Board of Directors. However, such policies and
+
+procedures have limitations, including judgment errors in managements risk analysis, and may not prevent unexpected losses that could have a material adverse effect on the Corporations business, financial condition and results of
+
+operations. Interest rate volatility could significantly reduce the Corporations profitability.
+
+ The Corporations earnings largely depend on the relationship between the yield on its earning assets, primarily
+
+loans and investment securities, and the cost of funds, primarily deposits and borrowings. This relationship, commonly known as the net interest margin, is susceptible to significant fluctuation and is affected by economic and competitive factors
+
+that influence the yields and rates, and the volume and mix of the Banks interest earning assets and interest bearing liabilities. Interest rate risk can be defined as the sensitivity of net interest income and of the market value of financial instruments to the direction and frequency of changes in interest rates. Interest rate risk
+
+arises from the imbalance in the re-pricing, maturity and/or cash flow characteristics of assets and liabilities. The Corporation is subject to interest rate risk to the degree that its interest bearing liabilities re-price or mature more slowly or
+
+more rapidly or on a different basis than its interest earning assets. Changes in interest rates, including those due to federal monetary policy, will affect the levels of income and expense recorded on a large portion of the Banks assets and
+
+liabilities, and fluctuations in interest rates will impact the market value of all interest sensitive assets. Significant fluctuations in interest rates could have a material adverse impact on the Corporations business, financial condition,
+
+results of operations, or liquidity. The Banks interest rate risk measurement and management techniques incorporate the
+
+re-pricing and cash flow attributes of its balance sheet and off-balance sheet instruments as they relate to current and potential changes in interest rates. The level of interest rate risk, measured in terms of the potential future effect on
+
+earnings, is determined through the use of static gap analysis and earnings simulation modeling under multiple interest rate scenarios. Managements objectives are to measure, monitor and develop strategies in response to the interest rate risk
+
+profile inherent in the Banks balance sheet in order to preserve the sensitivity of net interest income to actual or potential changes in interest rates. At December 31, 2017, the interest rate sensitivity position was asset sensitive in
+
+the short-term. For further information on risk relating to interest rates, refer to Part I, Item 7a, Quantitative and Qualitative Disclosures about Market Risk, herein. 
+
+  20 
+
+Table of Contents
+
+The Banks loans are principally concentrated in certain areas of Pennsylvania
+
+and Ohio, and adverse economic conditions in those markets could adversely affect the Corporations business, financial condition and results of operations. The Corporations success is dependent to a significant extent upon general economic conditions in the United States and, in particular, the local economies in central and northwest Pennsylvania,
+
+central and northeast Ohio, and western New York the primary markets served by the Bank. The Bank is particularly exposed to real estate and economic factors in these geographic areas, as most of its loan portfolio is concentrated among borrowers in
+
+these markets. Furthermore, because a substantial portion of the Banks loan portfolio is secured by real estate in these areas, the value of the associated collateral is also subject to regional real estate market conditions. 
+
+The Bank is not immune to negative consequences arising from overall economic weakness and, in particular, a sharp downturn in the local
+
+real estate markets served by the Bank. While the Banks loan portfolio has not shown significant signs of credit quality deterioration despite continued challenges in the U.S. economy, we cannot assure you that no deterioration will occur. An
+
+economic recession in the markets served by the Bank, and the nation as a whole, could negatively impact household and corporate incomes. This impact could lead to decreased loan demand and increase the number of borrowers who fail to pay the Bank
+
+interest or principal on their loans, and accordingly, could have a material adverse effect on the Corporations business, financial condition, results of operations, or liquidity. 
+
+The Corporations investment securities portfolio is subject to credit risk, market risk, and liquidity risk, and declines in
+
+value in its investment securities portfolio may require it to record other-than-temporary impairment charges that could have a material adverse effect on its results of operations and financial condition. 
+
+The Corporations investment securities portfolio has risks beyond its control that can significantly influence the portfolios
+
+fair value. These factors include, but are not limited to, rating agency downgrades of the securities, defaults of the issuers of the securities, lack of market pricing of the securities, and continued instability in the credit markets. Recent lack
+
+of market activity with respect to certain of the securities has, in certain circumstances, required the Corporation to base its fair market valuation on unobservable inputs. The Corporation has engaged valuation experts to price these certain
+
+securities using proprietary models, which incorporate assumptions that market participants would use in pricing the securities, including bid/ask spreads and liquidity and credit premiums. Any change in current accounting principles or
+
+interpretations of these principles could impact the Corporations assessment of fair value and thus its determination of other-than-temporary impairment of the securities in its investment securities portfolio. 
+
+The Bank may be required to record other-than-temporary impairment charges on its investment securities if they suffer declines in value
+
+that are considered other-than-temporary. Numerous factors, including collateral deterioration underlying certain private label mortgage-backed securities, lack of liquidity for re-sales of certain investment securities, absence of reliable pricing
+
+information for certain investment securities, adverse changes in business climate, adverse actions by regulators, or unanticipated changes in the competitive environment could negatively effect the Banks securities portfolio in future
+
+periods. An other-than-temporary impairment charge could have a material adverse effect on the Corporations results of operations and financial condition. 
+
+  21 
+
+Table of Contents
+
+The Corporation is subject to extensive government regulation and supervision, which
+
+may interfere with its ability to conduct its business and may negatively impact its financial results. The
+
+Corporation, primarily through the Bank and its non-bank subsidiary, is subject to extensive federal and state regulation and supervision. Banking regulations are primarily intended to protect depositors funds, the Federal Deposit Insurance
+
+Fund and the safety and soundness of the banking system as a whole, not stockholders. These regulations affect the Corporations lending practices, capital structure, investment practices, dividend policy and growth, among other things.
+
+Congress and federal regulatory agencies continually review banking laws, regulations and policies for possible changes. Changes to statutes, regulations or regulatory policies, including changes in interpretation or implementation of statutes,
+
+regulations or policies, could affect the Corporation in substantial and unpredictable ways. Such changes could subject it to additional costs, limit the types of financial services and products the Corporation may offer, and/or limit the pricing it
+
+may charge on certain banking services, among other things. Additionally, the Dodd-Frank Act has and will continue to change the current bank regulatory structure and affect the lending, investment, trading and operating activities of financial
+
+institutions and their holding companies. In addition to the self-implementing provisions of the statute, the Dodd-Frank Act calls for many administrative rulemakings by various federal agencies to implement various parts of the legislation, some of
+
+which have yet to be implemented. The Corporation cannot be certain when final rules affecting it will be issued through such rulemakings and what the specific content of such rules will be. The financial reform legislation and any implementing
+
+rules that are ultimately issued could have adverse implications on the financial industry, the competitive environment, and the Corporations ability to conduct business. The Corporation will have to apply resources to ensure that it is in
+
+compliance with all applicable provisions of the Dodd-Frank Act and any implementing rules, which may increase its costs of operations and adversely impact its earnings. Additionally, revised capital adequacy guidelines and prompt corrective action
+
+rules applicable to it became effective January 1, 2015. Compliance with these rules have imposed additional costs on the Corporation. Failure to comply with laws, including the Bank Secrecy Act and USA Patriot Act, regulations or policies could result in sanctions by regulatory agencies, restrictions, civil money penalties and/or
+
+reputation damage, which could have a material adverse effect on the Corporations business, financial condition and results of operations and/or cause the Corporation to lose its financial holding company status. While the Corporation has
+
+policies and procedures designed to prevent any such violations, there can be no assurance that such violations will not occur. See the section captioned Supervision and Regulation in Part I, Item 1 of this report for further
+
+information. The Corporation relies on its management and other key personnel, and the loss of any of them may
+
+adversely affect its operations. The Corporation is and will continue to be dependent upon the services of its
+
+executive management team. In addition, it will continue to depend on its ability to retain and recruit key client relationship managers. The unexpected loss of services of any key management personnel, or the inability to recruit and retain
+
+qualified personnel in the future, could have an adverse effect on its business and financial condition. Strong
+
+competition within the Corporations markets and technological change may have a material adverse impact on its profitability. The Corporation competes with an ever-increasing array of financial service providers. As noted above, as a financial holding company and state-chartered financial institution, respectively, the
+
+  22 
+
+Table of Contents
+
+Corporation and the Bank are subject to extensive regulation and supervision, including, in many cases, regulations that limit the type and scope of activities. The non-bank financial service
+
+providers that compete with the Corporation and the Bank may not be subject to such extensive regulation, supervision, and tax burden. Competition from nationwide banks, as well as local institutions, is strong in the Corporations markets.
+
+ The financial services industry is undergoing rapid technological change and technological advances are likely to intensify
+
+competition. In addition to improving customer services, effective use of technology increases efficiency and enables financial institutions to reduce costs. Accordingly, the Corporations future success will depend in part on its ability to
+
+address customer needs by using technology. The Corporation cannot assure you that it will be able to successfully take advantage of technological changes or advances or develop and market new technology driven products and services to its
+
+customers. Many regional, national and international competitors have far greater assets and capitalization than the
+
+Corporation has and greater resources to invest in technology and access to capital markets and can consequently offer a broader array of financial services than it can. We cannot assure you that we will continue to be able to compete effectively
+
+with other financial institutions in the future. Furthermore, developments increasing the nature or level of competition could have a material adverse effect on the Corporations business, financial condition, results of operations, or
+
+liquidity. For further information on competition, refer to Part I, Item 1, Competition herein. A
+
+failure in or breach of the Corporations or any of its subsidiaries operational or security systems or infrastructure, or those of third party vendors and other service providers, including as a result of cyber attacks, could disrupt the
+
+Corporations or any of its subsidiaries businesses, result in the disclosure or misuse of confidential or proprietary information, damage its reputation, increase its costs and cause losses. 
+
+The Corporation, primarily through the Bank, depends on its ability to continuously process, record and monitor a large number of
+
+customer transactions and customer, public and regulatory expectations regarding operational and information security have increased over time. Accordingly, its and its subsidiaries operational systems and infrastructure must continue to be
+
+safeguarded and monitored for potential failures, disruptions and breakdowns. Although the Corporation has business continuity plans and other safeguards in place, disruptions or failures in the physical infrastructure or operating systems that
+
+support its businesses and customers, or cyber attacks or security breaches of the networks, systems or devices on which customers personal information is stored and that customers use to access the Corporations and its subsidiaries
+
+products and services could result in customer attrition, regulatory fines, penalties or intervention, reputational damage, reimbursement or other compensation costs, and/or additional compliance costs, any of which could materially adversely affect
+
+the Corporations results of operations or financial condition. Although to date the Corporation has not experienced any
+
+material losses relating to cyber attacks or other information security breaches, there can be no assurance that it or its subsidiaries will not suffer such losses in the future. The Corporations risk and exposure to these matters remains
+
+heightened because of, among other things, the evolving nature of these threats, our plans to continue to implement our Internet banking and mobile banking channel strategies and develop additional remote connectivity solutions to serve our
+
+customers when and how they want to be served. As a result, cybersecurity and the continued development and enhancement of the Corporations controls, processes and practices designed to protect its and its subsidiaries systems, computers,
+
+software, data and networks from attack, damage or unauthorized access remain a priority for the Corporation. As 
+
+  23 
+
+Table of Contents
+
+cyber threats continue to evolve, the Corporation may be required to expend significant additional resources to continue to modify or enhance its protective measures or to investigate and
+
+remediate any information security vulnerabilities. The Corporation may not be able to meet its cash flow needs on a
+
+timely basis at a reasonable cost, and the Corporations cost of funds for banking operations may significantly increase as a result of general economic conditions, interest rates and competitive pressures. 
+
+Liquidity is the ability to meet cash flow obligations as they come due and cash flow needs on a timely basis and at a reasonable cost.
+
+The liquidity of the Bank is used to make loans and to repay deposit and borrowing liabilities as they become due, or are demanded by customers and creditors. Many factors affect the Banks ability to meet liquidity needs, including variations
+
+in the markets served by its network of offices, its mix of assets and liabilities, reputation and standing in the marketplace, and general economic conditions. The Banks primary source of funding is retail deposits, gathered throughout its network of banking offices. Periodically, the Corporation utilizes term borrowings from the Federal Home Loan Bank of
+
+Pittsburgh, or FHLB, of which the Bank is a member, and other lenders to meet funding obligations. The Banks securities and loan portfolios provide a source of contingent liquidity that could be accessed in a reasonable time period through
+
+sales. Significant changes in general economic conditions, market interest rates, competitive pressures or otherwise, could
+
+cause the Banks deposits to decrease relative to overall banking operations, and it would have to rely more heavily on brokered funds and borrowings in the future, which are typically more expensive than deposits. 
+
+Management and the Board of Directors of the Corporation, through its Asset/Liability Committee, or the ALCO, monitor liquidity and the
+
+ALCO establishes and monitors acceptable liquidity ranges. The Bank actively manages its liquidity position through target ratios. Continual monitoring of these ratios, both historical and through forecasts under multiple rate scenarios, allows the
+
+Bank to employ strategies necessary to maintain adequate liquidity. Changes in economic conditions, including consumer
+
+savings habits and availability of or access to capital, could potentially have a significant impact on the Banks liquidity position, which in turn could materially impact the Corporations financial condition, results of operations and
+
+cash flows. A substantial decline in the value of the Banks FHLB common stock may adversely affect the
+
+Corporations results of operations, liquidity and financial condition. As a requirement of membership in the
+
+FHLB of Pittsburgh, the Bank must own a minimum required amount of FHLB stock, calculated periodically based primarily on its level of borrowings from the FHLB. Borrowings from the FHLB represent the Banks primary source of short-term and
+
+long-term wholesale funding. In an extreme situation, it is possible that the capitalization of an FHLB, including the FHLB
+
+of Pittsburgh, could be substantially diminished or reduced to zero. Consequently, given that there is no trading market for the Banks FHLB common stock, the Corporations management believes that there is a risk that the
+
+Corporations investment could be deemed impaired at some time in the future. If this occurs, it may adversely affect the Corporations results of operations and financial condition. 
+
+  24 
+
+Table of Contents
+
+In addition, if the capitalization of the FHLB of Pittsburgh is substantially diminished,
+
+the Banks liquidity may be adversely impacted if it is not able to obtain alternative sources of funding. There are 12
+
+banks of the FHLB, including Pittsburgh. The 12 FHLB banks are jointly liable for the consolidated obligations of the FHLB system. To the extent that one FHLB bank cannot meet its obligations to pay its share of the systems debt, other FHLB
+
+banks can be called upon to make the payment. The Corporation cannot assure you, however, that the FHLB system will be able to meet these obligations. The Bank could be held responsible for environmental liabilities relating to properties acquired through foreclosure, resulting in significant financial loss. 
+
+In the event the Bank forecloses on a defaulted commercial or residential mortgage loan to recover its investment, it may be subject to
+
+environmental liabilities in connection with the underlying real property, which could significantly exceed the value of the real property. Although the Bank exercises due diligence to discover potential environmental liabilities prior to acquiring
+
+any property through foreclosure, hazardous substances or wastes, contaminants, pollutants, or their sources may be discovered on properties during its ownership or after a sale to a third party. The Corporation cannot assure you that the Bank would
+
+not incur full recourse liability for the entire cost of any removal and cleanup on an acquired property, that the cost of removal and cleanup would not exceed the value of the property, or that the Bank could recover any of the costs from any third
+
+party. Losses arising from environmental liabilities could have a material adverse impact on the Corporations business, financial condition, results of operations, or liquidity. 
+
+Federal and state governments could pass legislation responsive to current credit conditions which could cause the Corporation to
+
+experience higher credit losses. The Corporation could experience higher credit losses because of federal or state
+
+legislation or regulatory action that reduces the amount the Banks borrowers are otherwise contractually required to pay under existing loan contracts. Also, the Corporation could experience higher credit losses because of federal or state
+
+legislation or regulatory action that limits the Banks ability to foreclose on property or other collateral or makes foreclosure less economically feasible. The Corporation cannot assure you that future legislation will not significantly and
+
+adversely impact its ability to collect on its current loans or foreclose on collateral. The preparation of the
+
+Corporations financial statements requires the use of estimates that could significantly vary from actual results, which could have a material adverse effect on the Corporations business, financial condition, results of operations or
+
+liquidity. The preparation of the consolidated financial statements in conformity with accounting principles
+
+generally accepted in the U.S. requires management to make significant estimates that affect the financial statements. For example, one of these significant estimates is the allowance for loan losses. Due to the inherent nature of estimates, the
+
+Corporation cannot provide absolute assurance that it will not significantly increase the allowance for loan losses and/or sustain credit losses that are significantly higher than the provided allowance, which could have a material adverse effect on
+
+the Corporations business, financial condition, results of operations or liquidity. The Corporations
+
+financial results may be subject to the impact of changes in accounting standards or interpretation in new or existing standards. From time to time the Financial Accounting Standards Board, or FASB, and the SEC change accounting regulations and reporting standards that govern the preparation of the Corporations
+
+  25 
+
+Table of Contents
+
+financial statements. In addition, the FASB, SEC, and bank regulators may revise their previous interpretations regarding existing accounting regulations and the application of these accounting
+
+standards. These revisions in their interpretations are out of the Corporations control and may have a material impact on its financial statements. The unsoundness of other financial institutions with which the Corporation does business could adversely affect the Corporations business, financial condition or results of operations.
+
+ Our ability to engage in routine funding transactions could be adversely affected by the actions and commercial
+
+soundness of other financial institutions. Financial institutions are interrelated as a result of trading, clearing, counterparty, investment or other relationships. The Corporation routinely executes transactions with counterparties in the
+
+financial services industry such as commercial banks, brokers and dealers, investment banks and other institutional clients for a range of transactions including loan participations, derivatives and hedging transactions. In addition, the Corporation
+
+invests in securities or loans originated or issued by financial institutions or supported by the loans they originate. As a result, defaults by, or even rumors or questions about, one or more financial institutions, or the financial industry
+
+generally, have led to market-wide liquidity problems and could lead to losses or defaults by us or other institutions. Many of these transactions expose the Corporation to credit or investment risk in the event of default by the Corporations
+
+counterparty. In addition, the Corporations credit risk may be exacerbated if the collateral it holds cannot be realized or is liquidated at prices not sufficient to recover the full amount of the loan or other exposure to the Corporation. The
+
+Corporation could incur losses to its securities portfolio as a result of these issues. These types of losses may have a material adverse effect on the Corporations business, financial condition or results of operation. 
+
+Some provisions contained in the Corporations articles of incorporation and its bylaws and under Pennsylvania law could deter
+
+a takeover attempt or delay changes in control or management of the Corporation. Certain anti-takeover provisions of
+
+the Pennsylvania Business Corporation Law of 1988, as amended, apply to Pennsylvania registered corporations (e.g., publicly traded companies) including, but not limited to, those relating to (1) control share acquisitions,
+
+(2) disgorgement of profits by certain controlling persons, (3) business combination transactions with interested shareholders, and (4) the rights of shareholders to demand fair value for their stock following a control transaction.
+
+Pennsylvania law permits corporations to opt-out of these anti-takeover provisions, but the Corporation has not done so. Such provisions could have the effect of deterring takeovers or delaying changes in control or management of the Corporation.
+
+Additionally, such provisions could limit the price that some investors might be willing to pay in the future for shares of the Corporations common stock. For example, the Corporations amended and restated articles of incorporation require the affirmative vote of 66% of the outstanding shares entitled to vote to effect a business combination. In
+
+addition, the Corporations amended and restated articles of incorporation, subject to the limitations prescribed in such
+
+articles and subject to limitations prescribed by Pennsylvania law, authorize the Corporations board of directors, from time to time by resolution and without further shareholder action, to provide for the issuance of shares of preferred
+
+stock, in one or more series, and to fix the designation, powers, preferences and other rights of the shares and to fix the qualifications, limitations and restrictions thereof. As a result of its broad discretion with respect to the creation and
+
+issuance of preferred stock without shareholder approval, the board of directors could adversely affect the voting power and other rights of the holders of common stock and, by issuing shares of preferred stock with certain voting, conversion and/or
+
+redemption rights, could discourage any attempt to obtain control of the Corporation. 
+
+  26 
+
+Table of Contents
+
+The Corporations bylaws, as amended and restated, provide for the division of the
+
+Corporations board of directors into three classes of directors, with each serving staggered terms. In addition, any amendment to the Corporations bylaws must be approved by the affirmative vote of a majority of the votes cast by all
+
+shareholders entitled to vote thereon and, if any shareholders are entitled to vote thereon as a class, upon receiving the affirmative vote of a majority of the votes cast by the shareholders entitled to vote as a class. 
+
+Any of the foregoing provisions may have the effect of deterring takeovers or delaying changes in control or management of the
+
+Corporation. The price of the Corporations common stock may fluctuate significantly, and this may make it
+
+difficult for you to resell shares of common stock owned by you at times or at prices you find attractive. The price
+
+of the Corporations common stock on the NASDAQ constantly changes. The Corporation expects that the market price of its common stock will continue to fluctuate, and the Corporation cannot give you any assurances regarding any trends in the
+
+market prices for its common stock. The Corporations stock price may fluctuate as a result of a variety of factors,
+
+many of which are beyond its control. These factors include the Corporations:  
+
+ The Corporations ability to pay dividends is limited by law and regulations. The future declaration of dividends by the Corporations Board of Directors will depend on a number of factors, including capital requirements, regulatory limitations, the Corporations
+
+operating results and financial condition and general economic conditions. The Corporations ability to pay dividends depends primarily on the receipt of dividends from the Bank. Dividend payments from the Bank are subject to legal and
+
+regulatory limitations, generally based on retained earnings, imposed by bank regulatory agencies. The ability of the Bank to pay dividends is also subject to financial condition, regulatory capital requirements, capital expenditures and other cash
+
+flow requirements. The Corporation cannot assure you that the Bank will be able to pay dividends to the Corporation in the 
+
+  27 
+
+Table of Contents
+
+future. The Corporation may decide to limit the payment of dividends to its stockholders even when the Corporation has the legal ability to pay them in order to retain earnings for use in the
+
+Corporations business. The risks presented by acquisitions could adversely affect our financial condition and
+
+results of operations. Any acquisitions will be accompanied by the risks commonly encountered in acquisitions
+
+including, among other things: our ability to realize anticipated cost savings and avoid unanticipated costs relating to the merger, the difficulty of integrating operations and personnel, the potential disruption of our or the acquired
+
+companys ongoing business, the inability of our management to maximize our financial and strategic position, the inability to maintain uniform standards, controls, procedures and policies, and the impairment of relationships with the acquired
+
+companys employees and customers as a result of changes in ownership and management. These risks may prevent the Corporation from fully realizing the anticipated benefits of an acquisition or cause the realization of such benefits to take
+
+longer than expected. ITEM 1B.  UNRESOLVED STAFF COMMENTS 
+
+None 
+
+ITEM 2.  PROPERTIES The headquarters of the Corporation and the Bank are located at 1 South Second Street, Clearfield, Pennsylvania, in a building owned by the Corporation. The Bank operates 41 full-service offices and one
+
+loan production office. Of these 42 offices, 24 are owned and 18 are leased from independent owners. Holiday Financial Services Corporation has ten full-service offices which nine are leased from independent owners and one is leased from the Bank.
+
+There are no encumbrances on the offices owned and the rental expense on the leased property is immaterial in relation to operating expenses. The initial lease terms range from one to twenty years. 
+
+ITEM 3.  LEGAL PROCEEDINGS There are no material pending legal proceedings to which the Corporation or any of its subsidiaries is a party, or of which any of their property is the subject, except ordinary routine proceedings which
+
+are incidental to the business. ITEM 4.  MINE SAFETY DISCLOSURES 
+
+None 
+
+  28 
+
+Table of Contents
+
+PART II. ITEM 5.  MARKET FOR REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Quarterly Share Data; Holders Our common stock is traded on the Global Select Market of The NASDAQ Stock Market LLC under the symbol CCNE. The following tables set forth, for the periods indicated, the quarterly high and low sales
+
+price of the Corporations common stock as reported by the NASDAQ Global Select Market and actual cash dividends paid per share. As of December 31, 2017, the approximate number of shareholders of record of the Corporations common
+
+stock was 4,087. Price Range of Common Stock  
+
+ Cash Dividends Paid  
+
+ See Note 18 to the consolidated financial statements in Item 8 and Supervision and
+
+RegulationDividend Restrictions in Part I, Item 1 for a discussion of dividend restrictions. Issuer Purchases of Equity
+
+Securities The following table provides information with respect to any purchase of shares of the Corporations
+
+common stock made by or on behalf of the Corporation for the quarter ended December 31, 2017.  
+
+  29 
+
+Table of Contents
+
+Performance Graph Set
+
+forth below is a chart comparing the Corporations cumulative return to stockholders against the cumulative return of the NASDAQ Composite Index and a Peer Group Index of banking organizations for the five-year period commencing
+
+December 31, 2012 and ending December 31, 2017.   
+
+  30 
+
+Table of Contents
+
+ITEM 6.  SELECTED FINANCIAL DATA 
+
+  31 
+
+Table of Contents
+
+ITEM 7.  MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL
+
+CONDITION AND RESULTS OF OPERATIONS The following discussion and analysis of the consolidated financial statements of CNB
+
+Financial Corporation (the Corporation) is presented to provide insight into managements assessment of financial results. The Corporations subsidiary, CNB Bank (the Bank), provides financial services to
+
+individuals and businesses primarily within its primary market area of the Pennsylvania counties of Blair, Cambria, Cameron, Centre, Clearfield, Crawford, Elk, Indiana, Jefferson, and McKean. As ERIEBANK, a division of CNB Bank, the Bank operates in
+
+the Pennsylvania counties of Crawford, Erie, and Warren and in the Ohio counties of Ashtabula and Lake. As FCBank, a division of CNB Bank, the Bank operates in the Ohio counties of Crawford, Richland, Ashland, Wayne, Marion, Morrow, Knox, Delaware,
+
+and Franklin. As BankOnBuffalo, a division of CNB Bank, the Bank operates in Erie and Niagara counties, New York. The Bank is subject to regulation, supervision and examination by the Pennsylvania State Department of Banking as well as the Federal
+
+Deposit Insurance Corporation. CNB Securities Corporation is incorporated in Delaware and currently maintains investments in
+
+debt and equity securities. CNB Insurance Agency, incorporated in Pennsylvania, provides for the sale of nonproprietary annuities and other insurance products. Holiday Financial Services Corporation (Holiday), incorporated in
+
+Pennsylvania, offers small balance unsecured loans and secured loans, primarily collateralized by automobiles and equipment, to borrowers with higher risk characteristics. The financial condition and results of operations of the Corporation and its consolidated subsidiaries are not necessarily indicative of future performance. Managements discussion and analysis
+
+should be read in conjunction with the audited consolidated financial statements and related notes. Risk identification and
+
+management are essential elements for the successful management of the Corporation. In the normal course of business, the Corporation is subject to various types of risk, including interest rate, credit, and liquidity risk. These risks are
+
+controlled through policies and procedures established by the Corporation. Interest rate risk is the sensitivity of net
+
+interest income and the market value of financial instruments to the direction and frequency of changes in interest rates. Interest rate risk results from various repricing frequencies and the maturity structure of the financial instruments owned by
+
+the Corporation. The Corporation uses its asset/liability management policy and systems to control, monitor and manage interest rate risk. Credit risk represents the possibility that a customer may not perform in accordance with contractual terms. Credit risk results from loans to customers and the purchase of securities. The Corporation
+
+manages credit risk by following an established credit policy and using a disciplined evaluation of the adequacy of the allowance for loan losses. Also, the investment policy limits the amount of credit risk that may be taken in the securities
+
+portfolio. Liquidity risk represents the inability to generate or otherwise obtain funds at reasonable rates to satisfy
+
+commitments to borrowers and obligations to depositors. The Corporation has established guidelines within its asset-liability management policy to manage liquidity risk. These guidelines include contingent funding alternatives. 
+
+  32 
+
+Table of Contents
+
+Forward-Looking Statements The information below includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as
+
+amended, with respect to the financial condition, liquidity, results of operations, future performance and our business. These forward-looking statements are intended to be covered by the safe harbor for forward-looking statements
+
+provided by the Private Securities Litigation Reform Act of 1995. Forward-looking statements are those that are not historical facts. Forward-looking statements include statements with respect to beliefs, plans, objectives, goals, expectations,
+
+anticipations, estimates and intentions that are subject to significant risks and uncertainties and are subject to change based on various factors (some of which are beyond our control). Forward-looking statements often include the words
+
+believes, expects, anticipates, estimates, forecasts, intends, plans, targets, potentially, probably, projects,
+
+outlook or similar expressions or future conditional verbs such as may, will, should, would and could. Such known and unknown risks, uncertainties and other factors that could
+
+cause the actual results to differ materially from the statements, include, but are not limited to, (i) changes in general business, industry or economic conditions or competition; (ii) changes in any applicable law, rule, regulation,
+
+policy, guideline or practice governing or affecting financial holding companies and their subsidiaries or with respect to tax or accounting principals or otherwise; (iii) adverse changes or conditions in capital and financial markets;
+
+(iv) changes in interest rates; (v) higher than expected costs or other difficulties related to integration of combined or merged businesses; (vi) the inability to realize expected cost savings or achieve other anticipated benefits in
+
+connection with business combinations and other acquisitions; (vii) changes in the quality or composition of our loan and investment portfolios; (viii) adequacy of loan loss reserves; (ix) increased competition; (x) loss of
+
+certain key officers; (xi) deposit attrition; (xii) rapidly changing technology; (xiii) unanticipated regulatory or judicial proceedings and liabilities and other costs; (xiv) changes in the cost of funds, demand for loan
+
+products or demand for financial services; and (xv) other economic, competitive, governmental or technological factors affecting our operations, markets, products, services and prices. Such developments could have an adverse impact on our
+
+financial position and our results of operations. The forward-looking statements contained herein are based upon
+
+managements beliefs and assumptions. Any forward-looking statement made herein speaks only as of the date on which it is made. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible
+
+for us to predict all of them. We undertake no obligation to publicly update any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by law. 
+
+General Overview 
+
+Management concentrates on return on average equity, earnings per share, asset quality, and other metrics to measure the performance of
+
+the Corporation. The interest rate environment will continue to play an important role in the future earnings of the Corporation. During the past several years, in order to address the historic lows on interest rates that are primarily tied to
+
+short-term rates, such as the Prime Rate, the Corporation has taken a variety of measures including instituting rate floors on our commercial lines of credit and home equity lines. 
+
+Non-interest costs are expected to increase with the growth of the Corporation; however, managements growth strategies are expected
+
+to also result in an increase in earning assets as well as 
+
+  33 
+
+Table of Contents
+
+enhanced non-interest income which is expected to more than offset increases in non-interest expenses in 2018 and beyond. While past results are not an indication of future earnings, management
+
+believes the Corporation is well positioned to sustain core earnings during 2018. Financial Condition 
+
+The following table presents ending balances, growth, and the percentage change of certain measures of our financial condition for
+
+specified years (dollars in millions):  
+
+ Cash and Cash Equivalents Cash and cash equivalents totaled $35.3 million at December 31, 2017 compared to $29.2 million at December 31, 2016. Cash and cash equivalents fluctuate based on the timing and amount of
+
+liquidity events that occur in the normal course of business. We believe the liquidity needs of the Corporation are satisfied
+
+by the current balance of cash and cash equivalents, readily available access to traditional funding sources, Federal Home Loan Bank financing, and the portion of the securities and loan portfolios that matures within one year. These sources of
+
+funds will enable the Corporation to meet cash obligations and off-balance sheet commitments as they come due. Securities 
+
+Securities available for sale and trading securities totaled $416.9 million and $500.7 million at December 31, 2017 and 2016,
+
+respectively. Note 4 to the consolidated financial statements provides more detail concerning the composition of the Corporations securities portfolio, the process for evaluating securities for other-than-temporary impairment, and for
+
+valuation of structured pooled trust preferred securities. The Corporation generally buys into the market over time and does
+
+not attempt to time its transactions. In doing this, the highs and lows of the market are averaged into the portfolio and the overall effect of different rate environments is minimized. The Corporation monitors the earnings performance
+
+and the effectiveness of the liquidity of the securities portfolio on a regular basis through meetings of the Asset/Liability Committee of the Corporations Board of Directors (ALCO). The ALCO also reviews and manages interest rate
+
+risk for the Corporation. Through active balance sheet management and analysis of the securities portfolio, we maintain a sufficient level of liquidity to satisfy depositor requirements and various credit needs of our customers. 
+
+  34 
+
+Table of Contents
+
+Loans As detailed in the table below, at December 31, 2017, the Corporation had $2.1 billion in loans outstanding, net of unearned discount, an increase of $272.4 million, or 14.5%, since December 31,
+
+2016.  
+
+ The Corporation has not underwritten any hybrid loans, payment option loans, or low documentation/no
+
+documentation loans. Variable rate loans are generally underwritten at the fully indexed rate. Loan underwriting policies and procedures have not changed materially between any periods presented. 
+
+The Corporation expects strong loan growth in 2018 as it expands within the Buffalo, New York market and expands commercial lending
+
+relationships in its Pennsylvania and Ohio markets. Loan Concentration 
+
+The Corporation monitors loan concentrations by individual industries in order to track potential risk exposures resulting from industry
+
+related downturns. At December 31, 2017, no concentration existed within our commercial or real estate loan portfolio that exceeded 10% of the total loans. Loan Quality The Corporation has established written lending policies and
+
+procedures that require underwriting standards, loan documentation, and credit analysis standards to be met prior to funding a loan. Subsequent to the funding of a loan, ongoing review of credits is required. Credit reviews are performed annually on
+
+approximately 65% of the commercial loan portfolio by an outsourced loan review firm. In addition, classified assets, past due loans and nonaccrual loans are reviewed by the loan review partner semiannually by our credit administration staff.
+
+  35 
+
+Table of Contents
+
+The following table presents information concerning loan delinquency and other nonperforming
+
+assets at December 31, 2017, 2016, and 2015 (dollars in thousands):  
+
+ * - Nonperforming TDR loans are also included in the balance of nonaccrual loans in the previous table. Management continues to closely monitor nonperforming loans, and the Corporations nonperforming loans to total loans ratio continues to be favorable compared to peer institutions. See the
+
+Allowance for Loan Losses section for further discussion of credit review procedures and changes in nonperforming loans. 
+
+Allowance for Loan Losses The allowance for loan losses is established by provisions for losses in the loan portfolio as well as overdrafts in deposit accounts. These provisions are charged against current income. Loans and
+
+overdrafts deemed not collectible are charged off against the allowance while any subsequent collections are recorded as recoveries and increase the allowance. 
+
+  36 
+
+Table of Contents
+
+The following table presents activity within the allowance for loan losses during the years
+
+ended December 31, 2017, 2016, and 2015 (dollars in thousands):  
+
+ The adequacy of the allowance for loan losses is subject to a formal analysis by the Credit
+
+Administration and Finance Departments of the Corporation. As part of the formal analysis, delinquencies and losses are monitored monthly. The loan portfolio is divided into several categories in order to better analyze the entire pool. First,
+
+impaired loans are selected and that group of loans is given a specific reserve. The remaining loans are pooled, by category, into these segments: Reviewed 
+
+ Homogeneous 
+
+ The reviewed loan pools are further segregated into three categories: special mention, substandard, and doubtful. Historical loss factors are calculated for each reviewed pool, excluding overdrafts, based
+
+on the previous eight quarters of experience. The homogeneous pools are evaluated by analyzing the historical loss factors from the most previous quarter end and the two most recent year ends. 
+
+  37 
+
+Table of Contents
+
+The historical loss factors for both the reviewed and homogeneous pools are adjusted based
+
+on these six qualitative factors:  
+
+ The methodology described above was created using the experience of our Credit Administration and Finance Departments, guidance from the regulatory agencies, expertise of our third party loan review
+
+provider, and discussions with our peers. The resulting factors are applied to the pool balances in order to estimate the probable risk of loss within each pool. As a result of the application of these procedures, the allocation of the allowance for loan losses was as follows at December 31, 2017, 2016, and 2015 (in thousands): 
+
+ Throughout 2017, the Corporation evaluated its provision and allowance for loan losses in light of
+
+changes in reserves required for impaired loans, changes in nonperforming loans, and growth in loans outstanding. Note 5 to the consolidated financial statements provides further disclosure of loan balances by portfolio segment as of
+
+December 31, 2017 and 2016, as well as the nature and scope of loans modified in a troubled debt restructuring during 2017 and 2016 and the related effect on the provision and allowance for loan losses. 
+
+During the year ended December 31, 2017, the Corporation recorded a provision for loan losses of $6.7 million, as compared to a
+
+provision for loan losses of $4.1 million for the year ended December 31, 2016. Net chargeoffs during the year ended December 31, 2017 were $3.3 million, compared to net chargeoffs of $4.6 million during the year ended December 31,
+
+2016, and the ratio of net chargeoffs to average loans was 0.16% and 0.27% for the years ended December 31, 2017 and 2016, respectively. CNB Bank net chargeoffs totaled $2.2 million and $1.7 million during the years ended December 31, 2017 and 2016, or 0.06% and 0.10%, respectively, of average CNB Bank loans. Holiday Financial
+
+Services Corporation, CNBs consumer discount company, recorded net chargeoffs totaling $1.1 million and $2.9 million during the years ended December 31, 2017 and 2016, respectively. 
+
+In 2017, one commercial real estate loan that was impaired at year end 2016 but still on accrual status was placed on nonaccrual status
+
+as a result of further deterioration in the financial condition of the 
+
+  38 
+
+Table of Contents
+
+borrower. The additional provision for loan losses recorded in 2017 related to this loan was $2.9 million, including $1.6 million in the fourth quarter of 2017, which was based on the most
+
+current financial information available from the borrower. In 2017, CNB also increased its provision for loan losses as a result of stronger organic loan growth compared to 2016. 
+
+Prudent business practices dictate that the level of the allowance, as well as corresponding charges to the provision for loan losses,
+
+should be commensurate with identified areas of risk within the loan portfolio and the attendant risks inherent therein. The quality of the credit risk management function and the overall administration of this vital segment of the
+
+Corporations assets are critical to the ongoing success of the Corporation. The previously mentioned analysis
+
+considered numerous historical and other factors to analyze the adequacy of the allowance and charges against the provision for loan losses. Management paid special attention to a section of the analysis that compared and plotted the actual level of
+
+the allowance against the aggregate amount of loans adversely classified in order to compute the estimated probable losses associated with those loans. By noting the spread at that time, as well as prior periods, management can evaluate
+
+the current adequacy of the allowance as well as evaluate trends that may be developing. The volume and composition of the Corporations loan portfolio continue to reflect growth in commercial credits including commercial real estate loans.
+
+ As mentioned in the Loans section of this analysis, management continues to focus on commercial lending as part
+
+of its strategic growth initiatives. However, management must also consider the fact that the inherent risk is more pronounced in these types of credits and is also driven by the economic environment of its market areas. 
+
+Management believes that both its 2017 provision and allowance for loan losses were reasonable and adequate to absorb probable incurred
+
+losses in its portfolio at December 31, 2017. Premises and Equipment 
+
+During the years ended December 31, 2017 and 2016, the Corporation invested $5.2 million and $10.1 million, respectively, in its
+
+physical infrastructure through the purchase of land, buildings, and equipment. The Corporation completed the construction of a full-service banking facility in Worthington, Ohio in 2016 that also houses the FCBank leadership and administrative
+
+teams. In addition, the construction of full-service branches in Altoona, Pennsylvania and Ashtabula, Ohio were substantially complete by December 31, 2016, and both locations opened for business in February 2017. Premises and equipment with a
+
+fair value of $3.2 million were recorded in 2016 in conjunction with the acquisition of Lake National Bank. Bank Owned Life Insurance
+
+ The Corporation has periodically purchased Bank Owned Life Insurance (BOLI). The policies cover executive
+
+officers and a select group of other employees with the Bank being named as beneficiary. Earnings from BOLI assist the Corporation in offsetting its benefit costs. Additional BOLI of $10.0 million was purchased during the year ended
+
+December 31, 2017, no BOLI was purchased during the year ended December 31, 2016, and BOLI with a fair value of $2.2 million was acquired from Lake National Bank during the year ended December 31, 2016. 
+
+  39 
+
+Table of Contents
+
+Funding Sources Although the Corporation considers short-term borrowings and long-term debt when evaluating funding sources, traditional deposits continue to be the main source for funding. 
+
+ During the year of 2017, the Corporation ran time deposit specials resulting in the both new deposit
+
+inflow and a transfer from savings balances. Organic deposit growth in 2016 was 3.2%, and the Corporation acquired deposits from Lake National Bank in 2016 totaling $139.8 million. 
+
+Periodically, the Corporation utilizes term borrowings from the Federal Home Loan Bank (FHLB) and other lenders to meet funding
+
+obligations or match fund certain loan assets. The terms of these borrowings are detailed in Note 11 to the consolidated financial statements. During the year of 2016, the Corporation repaid FHLB long-term borrowings totaling $40.0 million which carried interest rates ranging from 3.97% to 4.60% and incurred an early repayment penalty of $1.5
+
+million. Resulting interest expense savings for 2016 and 2017 totaled an aggregate of $1.9 million. In September 2016, the
+
+Corporation completed a private placement of $50 million in aggregate principal amount of fixed-to-floating rate subordinated notes. The notes will mature in October 2026, and will initially bear interest at a fixed rate of 5.75% per annum,
+
+payable semi-annually in arrears, to, but excluding, October 15, 2021, and thereafter to, but excluding, the maturity date or earlier redemption, the interest rate shall reset quarterly to an interest rate per annum equal to the then current
+
+three-month LIBOR rate plus 455 basis points. These subordinated notes were designed to qualify as Tier 2 capital under the Federal Reserves capital guidelines and were given an investment grade rating of BBB- by Kroll Bond Rating Agency. The
+
+Corporation injected the net proceeds from the subordinated notes into its bank subsidiary, CNB Bank, and intends to use the capital for general corporate purposes, including loan growth, additional liquidity, and working capital. 
+
+Shareholders Equity and Capital Ratios and Metrics The Corporations capital continues to provide a base for profitable growth. In 2017, the Corporation earned $23.9 million and declared dividends of $10.1 million, resulting in a dividend payout
+
+ratio of 42.3% of net income. In February 2017, the Corporation completed an at-the-market common stock issuance. A total of
+
+834,896 shares of the Corporations common stock were sold at a weighted average price of approximately $23.96, representing gross proceeds to the Corporation of $20.0 million. Net proceeds from the transaction, after the sales commission and
+
+other expenses, were $19.3 million, which will be used for general corporate purposes, including loan growth, additional liquidity, and working capital. 
+
+  40 
+
+Table of Contents
+
+The Corporation has complied with the standards of capital adequacy mandated by government
+
+regulations. Bank regulators have established risk-based capital requirements designed to measure capital adequacy. Risk-based capital ratios reflect the relative risks of various assets banks hold in their portfolios. A weight category
+
+of 0% (lowest risk assets), 20%, 50%, 100% or 150% (highest risk assets), is assigned to each asset on the balance sheet. The
+
+Corporations capital ratios and book value per common share at December 31, 2017 and 2016 are as follows:  
+
+ Liquidity Liquidity measures an organizations ability to meet its cash obligations as they come due. The consolidated statements of cash flows included in the accompanying financial statements provide
+
+  41 
+
+Table of Contents
+
+analysis of the Corporations cash and cash equivalents and the sources and uses of cash. Additionally, the portion of the loan portfolio that matures within one year and securities with
+
+maturities within one year in the investment portfolio are considered part of the Corporations liquid assets. Liquidity is monitored by both management and the Boards ALCO, which establishes and monitors ranges of acceptable liquidity.
+
+Also, the Bank is a member of FHLB which provides the Bank with a total borrowing line of approximately $790 million with approximately $533 million available at December 31, 2017. Management believes that the Corporations current
+
+liquidity position is acceptable. Year Ended December 31, 2017 vs. Year Ended December 31, 2016 
+
+Overview of the Income Statement The Corporation had net income of $23.9 million for 2017 compared to $20.5 million for 2016. Net interest income increased $10.2 million, or 12.6%, and non-interest income increased $3.7 million, or
+
+21.2%. The provision for loan losses increased by $2.5 million, or 60.4%, and non-interest expenses increased by $2.9 million, or 4.3%. The earnings per diluted share were $1.57 in 2017 and $1.42 in 2016. The return on assets and the return on
+
+equity for 2017 were 0.89% and 9.97% as compared to 0.85% and 9.69% for 2016. Interest Income and Expense 
+
+Net interest margin on a fully tax equivalent basis was 3.82% and 3.78% for the years ended December 31, 2017 and 2016,
+
+respectively. As described in the Funding Sources section of Managements Discussion and Analysis, the Corporation
+
+issued $50 million of subordinated debt on September 30, 2016. The interest expense on this subordinated debt was $3.2 million for the 2017 compared to $783 thousand for 2016. Provision for Loan Losses The Corporation recorded a provision for loan
+
+losses of $6.7 million in 2017 compared to $4.1 million in 2016. Net loan charge-offs were $3.3 million during the year ended December 31, 2017 compared to $4.6 million during the year ended December 31, 2016. As disclosed in the Allowance
+
+for Loan Losses section of Managements Discussion and Analysis, the Corporation recorded the provision for loan losses based on managements evaluation of impaired loans and consideration of trends in criticized and classified loans and
+
+historical loan losses. Management believes the charges to the provision in 2017 are appropriate and the allowance for loan
+
+losses is adequate to absorb probable incurred losses in our portfolio as of December 31, 2017. Non-Interest Income 
+
+Excluding the effects of securities transactions, non-interest income was $19.0 million for the year ended December 31, 2017,
+
+compared to $16.2 million for the year ended December 31, 2016. Net realized gains on available-for-sale securities were $1.5 million during the year ended December 31, 2017, compared to $1.0 million during the year ended December 31,
+
+2016. Net realized and unrealized gains on trading securities were $881 thousand during the year ended December 31, 2017, compared to net realized and unrealized gains of $503 thousand during the year ended December 31, 2016. 
+
+  42 
+
+Table of Contents
+
+As a result of CNBs continued focus on growing its Private Client Solutions division,
+
+wealth and asset management revenues were $3.7 million in 2017, an increase of 20.6% from $3.1 million in 2016. During 2017, CNB recorded $1.7 million in income from bank owned life insurance policies, including $387 thousand representing the death
+
+proceeds on life insurance policies in excess of the cash surrender value, compared to $1.1 million in 2016. On May 19,
+
+2017, CNB completed its previously announced sale of the Mt. Hope, Ohio branch to First Federal Community Bank. CNB transferred loans totaling $7,800, fixed assets totaling $100, and deposits totaling $7,400 in conjunction with the sale of the
+
+branch and realized a gain of $536 based on the 8% deposit premium paid by First Federal Community Bank. Non-Interest Expense
+
+ Throughout 2017 and 2016, CNB made numerous infrastructure, personnel, and technology investments to facilitate its
+
+continued growth. Total non-interest expenses were $70.0 million during the year ended December 31, 2017, compared to $67.1 million during the year ended December 31, 2016. In order to better serve our customers and improve operational
+
+efficiencies, CNB completed a core processing system upgrade in May 2016. Included in non-interest expenses in 2016 are $3.7 million of non-recurring items, with costs associated with our core processing system upgrade of $1.7 million, merger
+
+related expenses of $486 thousand, and a prepayment penalty associated with the early payoff of long-term borrowings of $1.5 million. Salaries and benefits expense increased $3.8 million, or 11.9%, during the year ended December 31, 2017 compared to the year ended December 31, 2016. As of December 31, 2017, the
+
+Corporation had 512 full-time equivalent staff, compared to 486 full-time equivalent staff as of December 31, 2016. The staff added during this period included both customer-facing personnel such as business development and wealth management
+
+officers, as well as support department personnel. Year Ended December 31, 2016 vs. Year Ended December 31, 2015 
+
+Overview of the Income Statement The Corporation had net income of $20.5 million for 2016 compared to $22.2 million for 2015. Net interest income increased $6.6 million, or 8.8%, and non-interest income increased $597 thousand, or 3.5%.
+
+The provision for loan losses increased by $1.6 million, or 62.1%, and non-interest expenses increased by $8.4 million, or 14.2%. The earnings per diluted share were $1.42 in 2016 and $1.54 in 2015. The return on assets and the return on equity for
+
+2016 were 0.85% and 9.69% as compared to 0.99% and 11.23% for 2015. As described in Note 2 to the consolidated financial statements, Lake National Banks results of operations were included in the Corporations results beginning
+
+July 16, 2016. Interest Income and Expense Net interest margin on a fully tax equivalent basis was 3.78% and 3.73% for the years ended December 31, 2016 and 2015, respectively. Net accretion included in loan interest income in 2016 was $1.8
+
+million, resulting in an increase in the net interest margin of 8 basis points. Net accretion included in loan interest income in 2015 was $2.2 million, resulting in an increase in the net interest margin of 11 basis points. 
+
+  43 
+
+Table of Contents
+
+As described in the Funding Sources section of Managements Discussion and Analysis,
+
+the Corporation issued $50 million of subordinated debt on September 30, 2016. The interest expense on this subordinated debt was $783 thousand for the year ended December 31, 2016. 
+
+Changes in average earning assets, interest bearing liabilities, and resulting net interest income in 2016 compared to 2015 were a result
+
+of organic growth, the issuance of the subordinated debt described previously, and the acquisition of Lake National Bank in the third quarter of 2016. Provision for Loan Losses The Corporation recorded a provision for loan
+
+losses of $4.1 million in 2016 compared to $2.6 million in 2015. Net loan charge-offs were $4.6 million during the year ended December 31, 2016 compared to $3.2 million during the year ended December 31, 2015. As disclosed in the Allowance
+
+for Loan Losses section of Managements Discussion and Analysis, the Corporation recorded the provision for loan losses based on managements evaluation of impaired loans and consideration of trends in criticized and classified loans and
+
+historical loan losses. Management believes the charges to the provision in 2016 are appropriate and the allowance for loan
+
+losses are adequate to absorb probable incurred losses in our portfolio as of December 31, 2016. Non-Interest Income 
+
+Excluding the effects of securities transactions, non-interest income was $16.2 million for the year ended December 31, 2016,
+
+compared to $16.6 million for the year ended December 31, 2015. Net realized gains on available-for-sale securities were $1.0 million during the year ended December 31, 2016, compared to $666 thousand during the year ended
+
+December 31, 2015. Net realized and unrealized gains on trading securities were $503 thousand during the year ended December 31, 2016, compared to net realized and unrealized losses of $213 thousand during the year ended December 31,
+
+2015. Mortgage banking fees increased to $1.1 million for the year ended December 31, 2016, from $746 thousand
+
+during the year ended December 31, 2015 as the Corporation focused on selling an increased volume of mortgage loans in the secondary market, while retaining the servicing of the mortgages and resulting customer relationships. 
+
+Non-Interest Expense 
+
+Throughout 2016 and 2015, CNB made numerous infrastructure, personnel, and technology investments to facilitate its continued growth.
+
+Total non-interest expenses were $67.1 million during the year ended December 31, 2016, compared to $58.8 million during the year ended December 31, 2015. In order to better serve our customers and improve operational efficiencies, CNB
+
+completed a core processing system upgrade in May 2016. Included in non-interest expenses in 2016 are $3.7 million of non-recurring items, with costs associated with our core processing system upgrade of $1.7 million, merger related expenses of $486
+
+thousand, and a prepayment penalty associated with the early payoff of long-term borrowings of $1.5 million. Costs for similar items in 2015 totaled $416 thousand in the aggregate. 
+
+Salaries and benefits expense increased $2.6 million, or 8.9%, during the year ended December 31, 2016 compared to the year ended
+
+December 31, 2015. As of December 31, 2016, the Corporation had 486 full-time equivalent staff, compared to 436 full-time equivalent staff as of December 31, 2015. The staff added during this period included both customer-facing
+
+personnel such as business development 
+
+  44 
+
+Table of Contents
+
+and wealth management officers, as well as support department personnel. In addition, the Corporation retained 20 employees in connection with its acquisition of Lake National Bank. 
+
+Income Tax Expense 
+
+Income taxes were $12.4 million in 2017, compared to $7.2 million in 2016 and $8.3 million in 2015. The effective tax rates were 34.2%,
+
+25.9%, and 27.2% for 2017, 2016, and 2015, respectively. The effective tax rate for the periods differed from the federal statutory rate of 35.0% principally as a result of tax-exempt income from securities and loans as well as earnings from bank
+
+owned life insurance. In addition, the impact of the recent reduction in the federal corporate income tax rate to 21%, effective January 1, 2018, resulted in a $3.01 million income tax expense in 2017 related to the reduction in the carrying
+
+value of the net deferred tax asset. Contractual Obligations and Commitments 
+
+The Corporation has various financial obligations, including contractual obligations and commitments that may require future cash
+
+payments. The following table presents, as of December 31, 2017, significant fixed and determinable contractual obligations to third parties by payment date. Further discussion of the nature of each obligation is included in the referenced note to the consolidated financial statements. 
+
+ The Corporations operating lease obligations represent short and long-term lease and rental payment
+
+for facilities. The Corporations sale-leaseback obligation represents a long-term real estate lease associated with one of the Corporations branch office locations. 
+
+The Corporation also has obligations under its postretirement plan for health care and supplemental executive retirement plan as
+
+described in Note 14 to the consolidated financial statements. The postretirement benefit payments represent actuarially determined future benefit payments to eligible plan participants. The supplemental executive retirement plan allocates expenses
+
+over the participants service period. The Corporation reserves the right to terminate these plans at any time. Off-Balance Sheet
+
+Arrangements See Note 19 to the consolidated financial statements for information about our off-balance sheet arrangements. 
+
+Applications of Critical Accounting Policies The Corporations consolidated financial statements are prepared in accordance with accounting principles generally accepted in the U.S. and follow general practices within the industries in which
+
+the 
+
+  45 
+
+Table of Contents
+
+Corporation operates. Application of these principles requires management to make estimates or judgments that affect the amounts reported in the financial statements and accompanying notes. These
+
+estimates are based on information available as of the date of the financial statements; accordingly, as this information changes, the financial statements could reflect different estimates or judgments. Certain policies inherently have a greater
+
+reliance on the use of estimates, and as such have a greater possibility of producing results that could be materially different than originally reported. Estimates or judgments are necessary when assets and liabilities are required to be recorded
+
+at fair value, when a decline in the value of an asset not carried on the financial statements at fair value warrants an impairment write-down or valuation reserve to be established, or when an asset or liability needs to be recorded contingent upon
+
+a future event. Carrying assets and liabilities at fair value inherently results in more financial statement volatility. The fair values and the information used to record valuation adjustments for certain assets and liabilities are based either on
+
+quoted market prices or are provided by other third party sources, when available. When third-party information is not available, valuation adjustments are estimated in good faith by management primarily through the use of internal cash flow
+
+modeling techniques. The most significant accounting policies used by the Corporation are presented in Note 1 to the
+
+consolidated financial statements. These policies, along with the disclosures presented in the other financial statement notes and in this financial review, provide information on how significant assets and liabilities are valued in the financial
+
+statements and how those values are determined. Management views critical accounting policies to be those which are highly dependent on subjective or complex judgments, estimates and assumptions, and where changes in those estimates and assumptions
+
+could have a significant impact on the financial statements. A material estimate that is susceptible to significant change is
+
+the determination of the allowance for loan losses. The Corporations methodology for determining the allowance for loan losses is described previously in Managements Discussion and Analysis. Given the subjective nature of identifying and
+
+valuing loan losses, it is likely that well-informed individuals could make materially different assumptions and could therefore calculate a materially different allowance value. While management uses available information to recognize losses on
+
+loans, changes in economic conditions may necessitate revisions in future years. In addition, various regulatory agencies, as an integral part of their examination process, periodically review the Corporations allowance for loan losses. Such
+
+agencies may require the Corporation to recognize adjustments to the allowance based on their judgments of information available to them at the time of their examination. Another material estimate is the calculation of fair values of the Corporations debt securities. For most of the Corporations debt securities, the Corporation receives estimated fair values
+
+from an independent valuation service or from brokers. In developing fair values, the valuation service and the brokers use estimates of cash flows, based on historical performance of similar instruments in similar interest rate environments. Based
+
+on experience, management is aware that estimated fair values of debt securities tend to vary among brokers and other valuation services. Finally, the fair value of assets acquired and liabilities assumed in connection with the acquisition of FC Banc Corp. and Lake National Bank, including the associated goodwill that was recorded, required
+
+the use of material estimates. Specifically, the fair values of loans, the core deposit intangible asset, premises and equipment, and time deposits were susceptible to estimation and managements judgment about real estate and equipment values,
+
+as well as the amount and timing of future cash flows associated with loans and deposits. 
+
+  46 
+
+Table of Contents
+
+ As a financial institution, the Corporations primary source of market risk is interest rate risk, which is the exposure to fluctuations in the Corporations future earnings resulting from
+
+changes in interest rates. This exposure is correlated to the repricing characteristics of the Corporations portfolio of assets and liabilities. Each asset or liability reprices either at maturity or during the life of the instrument.
+
+ The principal purpose of asset/liability management is to maximize current and future net interest income within acceptable
+
+levels of interest rate risk while satisfying liquidity and capital requirements. Net interest income is enhanced by increasing the net interest margin and by the growth in earning assets. As a result, the primary goal of interest rate risk
+
+management is to maintain a balance between risk and reward such that net interest income is maximized while risk is maintained at an acceptable level. The Corporation uses an asset-liability management model to measure the effect of interest rate changes on its net interest income. The Corporations management also reviews asset-liability maturity
+
+gap and repricing analyses regularly. The Corporation does not always attempt to achieve a precise match between interest sensitive assets and liabilities because it believes that an actively managed amount of interest rate risk is inherent and
+
+appropriate in the management of the Corporations profitability. Asset-liability modeling techniques and simulation
+
+involve assumptions and estimates that inherently cannot be measured with precision. Key assumptions in these analyses include maturity and repricing characteristics of assets and liabilities, prepayments on amortizing assets, non-maturing deposit
+
+sensitivity, and loan and deposit pricing. These assumptions are inherently uncertain due to the timing, magnitude, and frequency of rate changes and changes in market conditions and management strategies, among other factors. However, the analyses
+
+are useful in quantifying risk and provide a relative gauge of the Corporations interest rate risk position over time. 
+
+Management reviews interest rate risk on a quarterly basis and reports to the ALCO. This review includes earnings shock scenarios whereby
+
+interest rates are immediately increased and decreased by 100, 300, and 400 basis points. These scenarios, detailed in the table below, indicate that there would not be a significant variance in net interest income over a one-year period due to
+
+interest rate changes; however, actual results could vary significantly. At December 31, 2017 and 2016, all interest rate risk levels according to the model were within the tolerance limits of ALCO approved policy. In addition, the table does
+
+not take into consideration changes that management would make to realign its assets and liabilities in the event of an unexpected changing interest rate environment. Due to the historically low interest rate environment, the 300 and 400 basis point
+
+declining interest rate scenarios have been excluded from the table.  
+
+  47 
+
+Table of Contents
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+ CONSOLIDATED BALANCE SHEETS Dollars in thousands, except share data  
+
+See Notes to Consolidated Financial Statements 
+
+  48 
+
+Table of Contents
+
+CONSOLIDATED STATEMENTS OF INCOME AND COMPREHENSIVE INCOME 
+
+Dollars in thousands, except per share data  
+
+  See Notes to Consolidated
+
+Financial Statements 
+
+  49 
+
+Table of Contents
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+Dollars in thousands  
+
+  See Notes to Consolidated
+
+Financial Statements 
+
+  50 
+
+Table of Contents
+
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS EQUITY 
+
+FOR THE YEARS ENDED DECEMBER 31, 2017, 2016 AND 2015 Dollars in thousands, except share and per share data  
+
+See Notes to Consolidated Financial Statements 
+
+  51 
+
+Table of Contents
+
+Notes to Consolidated Financial Statements 
+
+(Dollars in thousands, except per share data) 1.  Summary of Significant Accounting Policies Unless otherwise
+
+indicated, dollar amounts are in thousands, except per share data. Business and Organization 
+
+CNB Financial Corporation (the Corporation) is headquartered in Clearfield, Pennsylvania, and provides a full range of
+
+banking and related services through its wholly owned subsidiary, CNB Bank (the Bank). In addition, the Bank provides trust and asset management services, including the administration of trusts and estates, retirement plans, and other
+
+employee benefit plans as well as a full range of wealth management services. The Bank serves individual and corporate customers and is subject to competition from other financial institutions and intermediaries with respect to these services. In
+
+addition to the Bank, the Corporation also operates a consumer discount loan and finance business through its wholly owned subsidiary, Holiday Financial Services Corporation (Holiday). The Corporation and these and its other subsidiaries
+
+are subject to examination by federal and state regulators. The Corporations market area is primarily concentrated in the central and northwest regions of the Commonwealth of Pennsylvania, the central and northeast regions of the state of Ohio
+
+and western New York. Basis of Financial Presentation The financial statements are consolidated to include the accounts of the Corporation and the Bank, CNB Securities Corporation, Holiday, and CNB Insurance Agency. All significant intercompany accounts and
+
+transactions have been eliminated in the consolidated financial statements. Certain prior period amounts have been reclassified to conform to the current period presentation. Reclassifications had no effect on prior year net income or
+
+shareholders equity. Use of Estimates To prepare financial statements in conformity with accounting principles generally accepted in the U.S., management makes estimates and assumptions based on available information. These estimates and
+
+assumptions affect the amounts reported in the financial statements and the disclosures provided, and actual results could differ. 
+
+Operating Segments 
+
+While the chief decision-makers monitor the revenue streams of the various products and services, operations are managed and financial
+
+performance is evaluated on a Corporation-wide basis, and operating segments are aggregated into one as operating results for all segments are similar. Accordingly, all of the financial service operations are considered by management to be
+
+aggregated in one reportable operating segment. Securities When purchased, securities are classified as held to maturity, trading or available for sale. Debt securities are classified as held to maturity when the Corporation has the positive intent and ability to
+
+  52 
+
+Table of Contents
+
+hold the securities to maturity. Held to maturity securities are carried at amortized cost. Debt or equity securities are classified as trading when purchased principally for the purpose of
+
+selling them in the near term, or when the fair value option has been elected. Trading securities are recorded at fair value with changes in fair value included in earnings in non-interest income. Available for sale securities are those securities
+
+not classified as held to maturity or trading and are carried at their fair value. Unrealized gains and losses, net of deferred tax, on securities classified as available for sale are recorded as other comprehensive income. Management has not
+
+classified any debt securities as held to maturity. The amortized cost of debt securities classified as held to maturity or
+
+available for sale is adjusted for the amortization of premiums and the accretion of discounts over the period through contractual maturity or, in the case of mortgage-backed securities and collateralized mortgage obligations, over the estimated
+
+life of the security. Such amortization is included in interest income from securities. Gains and losses on securities sold are recorded on the trade date and based on the specific identification method. 
+
+Declines in the fair value of debt securities below their cost that are other-than-temporary and attributable to credit losses are
+
+reflected in earnings. Other-than-temporary impairment losses that are not attributable to credit losses are reported as a component of accumulated other comprehensive income. In estimating other-than-temporary losses, management considers: the
+
+length of time and extent that fair value has been less than cost, the financial condition and near term prospects of the issuer, and the Corporations intent to sell, or whether it is more likely than not that it will be required to sell a
+
+security in an unrealized loss position before recovery of its amortized cost basis. If the Corporation intends to sell a security or it is more likely than not it will be required to sell a security before recovery of its amortized cost basis, the
+
+entire difference between amortized cost and fair value is recognized as impairment through earnings. Loans 
+
+Loans that management has the intent and ability to hold for the foreseeable future or until maturity or payoff are reported at the
+
+principal balance outstanding. Interest income is reported on the interest method and includes amortization of net deferred
+
+loan fees and costs over the loan term. Interest income on commercial, industrial, and agricultural loans, commercial mortgage loans, and residential real estate loans is discontinued at the time the loan is 90 days delinquent unless the credit
+
+is well-secured and in process of collection. Consumer loans are typically charged off no later than 180 days past due. Past due status is based on the contractual terms of the loan. Loans, including loans modified in a troubled debt restructuring,
+
+are placed on nonaccrual or charged off at an earlier date if collection of principal or interest is considered doubtful. Nonaccrual loans and loans past due 90 days still on accrual include both smaller balance homogeneous loans that are
+
+collectively evaluated for impairment and individually classified impaired loans. All interest accrued but not received on
+
+loans placed on nonaccrual is reversed against interest income. Interest received on such loans is accounted for on the cash-basis or cost-recovery method, until qualifying for return to accrual. Under the cost-recovery method, interest income is
+
+not recognized until the loan balance is reduced to zero. Under the cash-basis method, interest income is recorded when the payment is received in cash. For all portfolio segments, loans are returned to accrual status when all the principal and
+
+interest amounts contractually due are brought current and future payments are reasonably assured. 
+
+  53 
+
+Table of Contents
+
+Concentration of Credit Risk 
+
+Most of the Corporations business activity is with customers located within the Commonwealth of Pennsylvania and the states of Ohio
+
+and New York. Therefore, the Corporations exposure to credit risk is significantly affected by changes in the economies of Pennsylvania, Ohio, and New York. Purchased Loans The Corporation purchased loans in connection with its
+
+acquisition of FC Banc Corp. in 2013 and Lake National Bank in 2016, some of which had, at the acquisition date, shown evidence of credit deterioration since origination. These purchased credit impaired loans were recorded at the amount paid, such
+
+that there was no carryover of the sellers allowance for loan losses. Such purchased credit impaired loans are
+
+accounted for individually, and the Corporation estimates the amount and timing of expected cash flows for each loan. The expected cash flows in excess of the amount paid is recorded as interest income over the remaining life of the loan (accretable
+
+yield). The excess of the loans contractual principal and interest over expected cash flows is not recorded (nonaccretable difference). Over the life of the loan, expected cash flows continue to be estimated. If the present value of expected cash flows is less than the carrying amount, a loss is recorded. If the present value of the
+
+expected cash flows is greater than the carrying amount, it is recognized as part of future interest income. For loans
+
+purchased that did not show evidence of credit deterioration, the difference between the fair value of the loan at the acquisition date and the loans face value is being amortized as a yield adjustment over the estimated remaining life of the
+
+loan using the effective interest method. Loans Held for Sale 
+
+Loans originated and intended for sale in the secondary market are carried at the lower of aggregate cost or fair value, as determined by
+
+outstanding commitments from investors. Net unrealized losses, if any, are recorded as a valuation allowance and charged to earnings. Mortgage loans held for sale are generally sold with servicing rights retained. The carrying value of the mortgage loan sold is reduced by the amount allocated to the servicing right. Gains and losses on
+
+sales of mortgage loans are based on the difference between the selling price and the carrying value of the related loan sold. Allowance
+
+for Loan Losses The allowance for loan losses is a valuation allowance for probable incurred credit losses. Loan losses
+
+are charged against the allowance when management believes the uncollectibility of a loan balance is confirmed. Subsequent recoveries, if any, are credited to the allowance account. 
+
+Management determines the adequacy of the allowance based on historical patterns of charge-offs and recoveries, the nature and volume of
+
+the portfolio, information about specific borrower situations and estimated collateral values, industry experience, economic conditions, and other qualitative factors relevant to the collectability of the loan portfolio. While management believes
+
+that the allowance is adequate to absorb probable loan losses incurred at the balance sheet date, future adjustments may be necessary due to circumstances that differ substantially from the assumptions used in evaluating the adequacy of the
+
+allowance for loan losses. 
+
+  54 
+
+Table of Contents
+
+The allowance consists of specific and general components. The specific component relates to
+
+loans that are individually classified as impaired. A loan is impaired when, based on current information and events, it is probable that the Corporation will be unable to collect all amounts due according to the contractual terms of the loan
+
+agreement. Loans for which the terms have been modified, and for which the borrower is experiencing financial difficulties, are considered troubled debt restructurings and classified as impaired. 
+Question: What was the acquisition of PowerBoss by Minuteman in 1998?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

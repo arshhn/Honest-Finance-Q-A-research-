@@ -1,0 +1,43 @@
+You are sitting an exam made of 4 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-008-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: What are the top two risks mentioned in the context?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fsq-004-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: What types of securities has Brightcove registered?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fsq-080-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: What caused the high effective tax rate in 2017?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fsq-014-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: What is the fiscal year end date for PCM, Inc.?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

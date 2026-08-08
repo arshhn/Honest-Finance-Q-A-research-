@@ -1,0 +1,4298 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-109-base ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+maindocument001.htm
+
+FORM 10-K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC  20549
+
+____________________
+
+FORM 10-K
+
+For the transition period from ____________ to
+
+____________
+
+(Exact name of Registrant as specified in its charter)
+
+(850) 402-7821
+
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the
+
+Act: 
+
+Title
+
+of Each Class                                                      Name
+
+of Each Exchange on Which Registered
+
+Common Stock, $0.01 par
+
+value                                                     The Nasdaq Stock Market LLC
+
+Securities registered pursuant to Section 12(g) of the
+
+Act: None 
+
+Indicate by check mark
+
+if the registrant is a well-known seasoned issuer, as defined in Rule 405 of
+
+the Securities Act. Yes [   ] No  [ X ]
+
+Indicate by check mark if the registrant is
+
+not required to file reports pursuant to Section 13 or Section 15(d) of the
+
+Exchange Act. Yes [   ] No [ X ]
+
+Indicate by check mark whether the
+
+registrant (1) has filed all reports required to be filed by Section 13 or
+
+15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+
+for such shorter period that the registrant was required to file such reports),
+
+and (2) has been subject to such filing requirements for the past 90 days. Yes
+
+[ X ]  No  [   ]
+
+Indicate by check mark whether the
+
+registrant has submitted electronically and posted on its corporate Web site,
+
+if any, every Interactive Data File required to be submitted and posted
+
+pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the
+
+preceding 12 months (or for such shorter period that the registrant was
+
+required to submit and post such files). Yes [ X ]  No  [   ]
+
+Indicate by check
+
+mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K
+
+is not contained herein, and will not be contained, to the best of registrant’s
+
+knowledge, in definitive proxy or information statements incorporated by
+
+reference in Part III of this Form 10-K or any amendment to this Form 10-K. [ X
+
+]  
+
+Indicate
+
+by check mark whether the registrant is a large accelerated filer, an
+
+accelerated filer, a non-accelerated filer, or a smaller reporting company. See
+
+definition of “large accelerated filer,” “accelerated filer,” and “smaller
+
+reporting company” in Rule 12b-2 of the Exchange Act
+
+Large
+
+accelerated filer [   ]                 Accelerated filer  [ X ]                     Non-accelerated
+
+filer   [   ]                     Smaller reporting company [   ]
+
+Indicate by check mark whether the
+
+registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+
+Yes [  ]  No  [ X ]
+
+The aggregate market value of
+
+the registrant’s common stock, $0.01 par value per share, held by
+
+non-affiliates of the registrant on June 30, 2017, the last business
+
+day of the registrant’s most recently completed second fiscal quarter, was
+
+approximately $224,913,203 (based on the closing sales price of the
+
+registrant’s common stock on that date). Shares of the registrant’s common stock
+
+held by each officer and director and each person known to the registrant to
+
+own 10% or more of the outstanding voting power of the registrant have been
+
+excluded in that such persons may be deemed to be affiliates. This
+
+determination of affiliate status is not a determination for other purposes.
+
+Indicate the number of shares outstanding
+
+of each of the issuer’s classes of common stock, as of the latest practicable
+
+date.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of our Proxy Statement for the
+
+Annual Meeting of Shareowners to be held on April 24, 2018, are incorporated by
+
+reference in Part III.
+
+CAPITAL
+
+CITY BANK GROUP, INC.
+
+ANNUAL REPORT FOR 2017 ON FORM 10-K
+
+TABLE OF CONTENTS
+
+INTRODUCTORY NOTE
+
+This Annual Report on Form 10-K
+
+contains “forward-looking statements” within the meaning of the Private
+
+Securities Litigation Reform Act of 1995. These forward-looking statements
+
+include, among others, statements about our beliefs, plans, objectives, goals,
+
+expectations, estimates and intentions that are subject to significant risks
+
+and uncertainties and are subject to change based on various factors, many of
+
+which are beyond our control.  The words “may,” “could,” “should,” “would,”
+
+“believe,” “anticipate,” “estimate,” “expect,” “intend,” “plan,” “target,” “vision,”
+
+“goal,” and similar expressions are intended to identify forward-looking
+
+statements.
+
+All forward-looking statements,
+
+by their nature, are subject to risks and uncertainties.  Our actual future results
+
+may differ materially from those set forth in our forward-looking statements.
+
+In addition to those risks
+
+discussed in this Annual Report under Item 1A Risk Factors, factors that could
+
+cause our actual results to differ materially from
+
+those in the forward-looking statements, include, without limitation:
+
+·        
+
+our
+
+ability to successfully manage interest rate risk, liquidity risk, and other
+
+risks inherent to our industry;
+
+·        
+
+legislative
+
+or regulatory changes, including the Dodd-Frank Act, Basel III, and the ability
+
+to repay and qualified mortgage standards;
+
+·        
+
+the
+
+effects of security breaches and computer viruses that may affect our computer
+
+systems or fraud related to our debit card products;
+
+·        
+
+the
+
+accuracy of our financial statement estimates and assumptions, including the
+
+estimates used for our loan loss reserve and deferred tax asset valuation
+
+allowance and pension plan;
+
+·        
+
+the
+
+frequency and magnitude of foreclosure of our loans;
+
+·        
+
+the
+
+effects of our lack of a diversified loan portfolio, including the risks of geographic
+
+and industry concentrations;
+
+·        
+
+the
+
+strength of the United States economy in general and the strength of the local
+
+economies in which we conduct operations; 
+
+·        
+
+our
+
+ability to declare and pay dividends, the payment of which is subject to our capital
+
+requirements;
+
+·        
+
+changes
+
+in the securities and real estate markets;
+
+·        
+
+changes
+
+in monetary and fiscal policies of the U.S. Government;
+
+·        
+
+inflation,
+
+interest rate, market and monetary fluctuations;
+
+·        
+
+the
+
+effects of harsh weather conditions, including hurricanes, and man-made
+
+disasters;
+
+·        
+
+our
+
+ability to comply with the extensive laws and regulations to which we are
+
+subject, including the laws for each jurisdiction where we operate; 
+
+·        
+
+the
+
+willingness of clients to accept third-party products and services rather than
+
+our products and services and vice versa;
+
+·        
+
+increased
+
+competition and its effect on pricing;
+
+·        
+
+technological
+
+changes;
+
+·        
+
+negative
+
+publicity and the impact on our reputation;
+
+·        
+
+changes
+
+in consumer spending and saving habits;
+
+·        
+
+growth
+
+and profitability of our noninterest income;
+
+·        
+
+changes
+
+in accounting principles, policies, practices or guidelines;
+
+·        
+
+the
+
+limited trading activity of our common stock;
+
+·        
+
+the
+
+concentration of ownership of our common stock;
+
+·        
+
+anti-takeover
+
+provisions under federal and state law as well as our Articles of Incorporation
+
+and our Bylaws;
+
+·        
+
+other
+
+risks described from time to time in our filings with the Securities and
+
+Exchange Commission; and
+
+·        
+
+our
+
+ability to manage the risks involved in the foregoing.
+
+However, other factors besides those listed in Item 1A Risk Factors
+
+or discussed in this Annual Report also could adversely affect our results, and
+
+you should not consider any such list of factors to be a complete set of all
+
+potential risks or uncertainties.  Any forward-looking statements made by us or
+
+on our behalf speak only as of the date they are made.  We do not undertake to
+
+update any forward-looking statement, except as required by applicable law.
+
+3
+
+PART I
+
+Item
+
+1.   Business
+
+About Us
+
+General
+
+Capital City Bank Group, Inc.
+
+(“CCBG”) is a financial holding company headquartered in Tallahassee, Florida.
+
+CCBG was incorporated under Florida law on December 13, 1982, to acquire five
+
+national banks and one state bank that all subsequently became part of CCBG’s
+
+bank subsidiary, Capital City Bank (“CCB” or the “Bank”). The Bank commenced
+
+operations in 1895. In this report, the terms “Company,” “we,” “us,” or “our”
+
+mean CCBG and all subsidiaries included in our consolidated financial
+
+statements.
+
+We provide traditional deposit
+
+and credit services, asset management, trust, mortgage banking, merchant
+
+services, bank cards, data processing, and securities brokerage services
+
+through 59 banking offices in Florida, Georgia, and Alabama operated by CCB.
+
+The majority of our revenue, approximately 88%, is derived from our Florida
+
+market areas while approximately 11% and 1% of our revenue is derived from our
+
+Georgia and Alabama market areas, respectively.
+
+Below is a summary of our financial condition and
+
+results of operations for the past three years.  Our financial condition and
+
+results of operations are more fully discussed in our management discussion and
+
+analysis on page 32 and our consolidated financial statements on page 66.
+
+Dividends and management fees
+
+received from the Bank are CCBG’s primary source of income. Dividend payments
+
+by the Bank to CCBG depend on the capitalization, earnings and projected growth
+
+of the Bank, and are limited by various regulatory restrictions, including
+
+compliance with a minimum Common Equity Tier 1 Capital conservation buffer. 
+
+See the section entitled “Regulatory Matters” in this Item 1 and
+
+Note 14 in the Notes to Consolidated Financial Statements for a discussion of
+
+the restrictions.
+
+We had a total of 825
+
+associates at March 1, 2018.  Item 6 contains other financial and statistical
+
+information about us.
+
+Subsidiaries of CCBG
+
+CCBG’s
+
+principal asset is the capital stock of CCB, our wholly owned banking
+
+subsidiary, which accounted for nearly 100% of consolidated assets at December
+
+31, 2017, and approximately 100% of consolidated net income for the year ended
+
+December 31, 2017.  In addition to our banking subsidiary, CCB has three
+
+primary wholly owned subsidiaries, Capital City Trust Company, Capital City
+
+Banc Investments, Inc., and Capital City Services Company. The nature of these
+
+subsidiaries is provided below.
+
+Operating
+
+Segment
+
+We
+
+have one reportable segment with four principal services: Banking Services (CCB),
+
+Data Processing Services (Capital City Services Company), Trust and Asset
+
+Management Services (Capital City Trust Company), and Brokerage Services
+
+(Capital City Banc Investments, Inc.).  Revenues from each of these principal
+
+services for the year ended 2017 totaled approximately 93.6%, 0.5%, 3.6%, and 2.3% of
+
+our total revenue, respectively.  In 2016 and 2015, Banking Services (CCB)
+
+revenue was approximately 93.7% and 93.8% of our total revenue for each
+
+respective year.  
+
+Capital City Bank
+
+CCB is a Florida-chartered
+
+full-service bank engaged in the commercial and retail banking business.
+
+Significant services offered by the Bank include:
+
+4
+
+·        
+
+Business Banking – We provide banking services to corporations and
+
+other business clients. Credit products are available for a wide variety of general
+
+business purposes, including financing for commercial business properties,
+
+equipment, inventories and accounts receivable, as well as commercial leasing
+
+and letters of credit. We also provide treasury management services, and,
+
+through a marketing alliance with Elavon, Inc., merchant credit card
+
+transaction processing services.
+
+·        
+
+Commercial Real Estate Lending – We provide a wide range of products to meet the
+
+financing needs of commercial developers and investors, residential builders
+
+and developers, and community development. Credit products are available to
+
+purchase land and build structures for business use and for investors who are
+
+developing residential or commercial property.
+
+·        
+
+Residential Real Estate Lending – We provide products to help meet the home financing
+
+needs of consumers, including conventional permanent and construction/
+
+permanent (fixed, adjustable, or variable rate) financing arrangements, and
+
+FHA/VA loan products. We offer both fixed-rate and adjustable rate residential
+
+mortgage (ARM) loans. A portion of our loans originated are sold into the
+
+secondary market. We offer these products through its existing network of
+
+banking offices. We do not originate subprime residential real estate loans.
+
+·        
+
+Retail Credit – We provide a full-range of loan products to meet
+
+the needs of consumers, including personal loans, automobile loans, boat/RV
+
+loans, home equity loans, and through a marketing alliance with ELAN, we offer
+
+credit card programs.
+
+·        
+
+Institutional Banking – We provide banking services to meet the needs of state
+
+and local governments, public schools and colleges, charities, membership and
+
+not-for-profit associations including customized checking and savings accounts,
+
+cash management systems, tax-exempt loans, lines of credit, and term loans.
+
+·        
+
+Retail Banking – We provide a full-range of consumer banking
+
+services, including checking accounts, savings programs, automated teller
+
+machines (ATMs), debit/credit cards, night deposit services, safe deposit
+
+facilities, online banking, and mobile banking. Our clients can use Capital
+
+City Bank Direct, which offers a “live” call center between the hours of 8 a.m.
+
+to 6 p.m., Monday through Friday, and from 9 a.m. to 12 noon on Saturday. The
+
+call center can also be accessed via live chat through the internet between the
+
+hours of 7 a.m. to 10 p.m., Monday through Friday, and from 9 a.m. to 12 noon
+
+on Saturday. Capital City Bank Direct also offers an automated phone system
+
+offering 24-hour access to client deposit and loan account information and
+
+transfer of funds between linked accounts.  We are a member of the “Star”,
+
+“Plus” and “Presto” ATM Networks that permit banking clients to access cash at
+
+ATMs or “point-of-sale” merchants.
+
+Capital City Trust
+
+Company
+
+Capital City Trust Company (the
+
+“Trust Company”) is the investment management arm of CCB. The Trust Company
+
+provides asset management for individuals through agency, personal trust, IRA,
+
+and personal investment management accounts. Associations, endowments, and
+
+other nonprofit entities hire the Trust Company to manage their investment
+
+portfolios. Additionally, a staff of well-trained professionals serves
+
+individuals requiring the services of a trustee, personal representative, or a
+
+guardian. The market value of trust assets under discretionary management exceeded
+
+$805.5  million
+
+as of December 31, 2017, with total assets under administration exceeding $869.9
+
+million.
+
+Capital City Banc
+
+Investments, Inc.
+
+Capital
+
+City Banc Investments, Inc. formerly offered our customers access to retail
+
+investment products through INVEST Financial Corporation, a member of FINRA and
+
+SIPC. CCB recently entered into an agreement with LPL Financial pursuant to
+
+which retail investment products would be offered through LPL. LPL offers a
+
+full line of retail securities products, including U.S. Government bonds,
+
+tax-free municipal bonds, stocks, mutual funds, unit investment trusts,
+
+annuities, life insurance and long-term health care. Non-deposit investment and
+
+insurance products are: (i) not FDIC insured; (ii) not deposits, obligations, or
+
+guarantees by any bank; and (iii) subject to investment risk, including the
+
+possible loss of principal amount invested.  We are not an affiliate of LPL
+
+Financial.
+
+Capital City Services
+
+Company
+
+Until
+
+recently, Capital City Services Company (the “Services Company”) provided data
+
+processing services to financial institutions (including CCB), government
+
+agencies, and commercial clients located in North Florida and South Georgia. 
+
+The Services Company’s last remaining client discontinued services in the fourth
+
+quarter of 2017.
+
+5
+
+Underwriting Standards
+
+One of our core goals is to support the communities in
+
+which we operate. We seek loans from within our primary market area, which is
+
+defined as the counties in which our banking offices are located.  We will also
+
+originate loans within our secondary market area, defined as counties adjacent
+
+to those in which we have banking offices.  There may also be occasions when we
+
+will have opportunities to make loans that are out of both the primary and
+
+secondary market areas, including participation loans. These loans are
+
+generally only approved if the applicant is known to us, underwriting is
+
+consistent with our criteria, and the applicant’s primary business is in or
+
+near our primary or secondary market area. Approval of all loans is subject to
+
+our policies and standards described in more detail below.
+
+We
+
+have adopted comprehensive lending policies, underwriting standards and loan
+
+review procedures. Management and our Board of Directors reviews and approves
+
+these policies and procedures on a regular basis (at least annually).
+
+Management
+
+has also implemented reporting systems designed to monitor loan originations,
+
+loan quality, concentrations of credit, loan delinquencies, nonperforming
+
+loans, and potential problem loans. Our management and the Credit Risk
+
+Oversight Committee periodically review our lines of business to monitor asset
+
+quality trends and the appropriateness of credit policies. In addition, total
+
+borrower exposure limits are established and concentration risk is monitored.
+
+As part of this process, the overall composition of the portfolio is reviewed
+
+to gauge diversification of risk, client concentrations, industry group, loan
+
+type, geographic area, or other relevant classifications of loans.  Specific
+
+segments of the portfolio are monitored and reported to our Board on a
+
+quarterly basis and we have strategic plans in place to supplement Board
+
+approved credit policies governing exposure limits and underwriting standards.
+
+We recognize that exceptions to the below-listed policy guidelines may
+
+occasionally occur and has established procedures for approving exceptions to
+
+these policy guidelines.
+
+Residential Real Estate
+
+Loans 
+
+We
+
+originate 1-4 family, owner-occupied residential real estate loans in its
+
+Residential Real Estate line of business. Our policy is to underwrite these
+
+loans in accordance with secondary market guidelines in effect at the time of
+
+origination, including loan-to-value (“LTV”) and documentation requirements. We
+
+originate fixed-rate, adjustable-rate and variable- rate residential real
+
+estate loans. Over the past five years, the vast majority of residential loan
+
+originations have been fixed-rate loans which are sold in the secondary market
+
+on a non-recourse basis with related servicing rights (i.e., we generally do
+
+not service sold loans).  Adjustable rate mortgage (“ARM”) loans with an
+
+initial fixed interest rate period greater than five years are also sold in the
+
+secondary market on a non-recourse basis. 
+
+We
+
+also originate certain residential real estate loans throughout its banking
+
+office network that are generally not eligible for sale into the secondary
+
+market due to not meeting a specific secondary market underwriting requirement.
+
+This includes our variable rate 3/1 and 5/1 ARM loans which typically have a
+
+maximum term of 30 years and maximum LTV of 80%.
+
+Residential
+
+real estate loans also include home equity lines of credit (“HELOCs”) and home
+
+equity loans. Our home equity portfolio includes revolving open-ended equity
+
+loans with interest-only or minimal monthly principal payments and closed-end
+
+amortizing loans. Open-ended equity loans typically have an interest only
+
+10-year draw period followed by a five year repayment period of 0.75% of
+
+principal balance monthly and balloon payment at maturity.  As of December 31,
+
+2017, approximately 66% of our residential home equity loan portfolio consisted
+
+of first mortgages.  Interest rates may be fixed or adjustable. 
+
+Adjustable-rate loans are tied to the Prime Rate with a typical margin of 1.0%
+
+or more.
+
+Commercial Loans
+
+Our
+
+policy sets forth guidelines for debt service coverage ratios, LTV ratios and
+
+documentation standards. Commercial loans are primarily made based on
+
+identified cash flows of the borrower with consideration given to underlying
+
+collateral and personal or other guarantees. We have established debt service
+
+coverage ratio limits that require a borrower’s cash flow to be sufficient to
+
+cover principal and interest payments on all new and existing debt. The
+
+majority of our commercial loans are secured by the assets being financed or
+
+other business assets such as accounts receivable or inventory.  Many of the
+
+loans in the commercial portfolio have variable interest rates tied to the
+
+Prime Rate or U.S. Treasury indices.
+
+Commercial Real Estate
+
+Loans
+
+We
+
+have adopted guidelines for debt service coverage ratios, LTV ratios and
+
+documentation standards for commercial real estate loans. These loans are
+
+primarily made based on identified cash flows of the borrower with
+
+consideration given to underlying real estate collateral and personal
+
+guarantees. Our policy establishes a maximum LTV specific to property type and
+
+minimum debt service coverage ratio limits that require a borrower’s cash flow
+
+to be sufficient to cover principal and interest payments on all new and
+
+existing debt. Commercial real estate loans may be fixed or variable-rate loans
+
+with interest rates tied to the Prime Rate or U.S. Treasury indices. We require
+
+appraisals for loans in excess of $250,000 that are secured by real property. 
+
+6
+
+Consumer Loans
+
+Our consumer loan portfolio includes personal
+
+installment loans, direct and indirect automobile financing, and overdraft
+
+lines of credit. The majority of the consumer loan portfolio consists of
+
+indirect and direct automobile loans. The majority of our consumer loans are
+
+short-term and have fixed rates of interest that are priced based on current
+
+market interest rates and the financial strength of the borrower. Our policy
+
+establishes maximum debt-to-income ratios, minimum credit scores, and includes
+
+guidelines for verification of applicants’ income and receipt of credit reports.
+
+Lending Limits and Extensions of Additional Credit
+
+We
+
+have established an internal lending limit of $10.0 million for the total
+
+aggregate amount of credit that will be extended to a client and any related
+
+entities within its Board approved policies. This compares to our legal lending
+
+limit of approximately $81 million. In practice, we seek to maintain an internal
+
+lending limit of $10 million (aggregate exposure to one borrowing relationship)
+
+which we believe helps us maintain a well-diversified loan portfolio.
+
+Loan
+
+Modification and Restructuring
+
+In
+
+the normal course of business, we receive requests from our clients to renew,
+
+extend, refinance, or otherwise modify their current loan obligations. In most
+
+cases, this may be the result of a balloon maturity that is common in most
+
+commercial loan agreements, a request to refinance to obtain current market
+
+rates of interest, competitive reasons, or the conversion of a construction
+
+loan to a permanent financing structure at the completion or stabilization of
+
+the property. In these cases, the request is held to the normal underwriting
+
+standards and pricing strategies as any other loan request, whether new or
+
+renewal.
+
+In other cases, we may modify a loan because of a reduction in debt
+
+service capacity experienced by the client (i.e., a potentially troubled loan
+
+whereby the client may be experiencing financial difficulties). To maximize the
+
+collection of loan balances, we evaluate troubled loans on a case-by-case basis
+
+to determine if a loan modification would be appropriate. We pursue loan
+
+modifications when there is a reasonable chance that an appropriate
+
+modification would allow our client to continue servicing the debt.
+
+Expansion of
+
+Business
+
+Our
+
+philosophy is to build long-term client relationships based on quality service,
+
+high ethical standards, and safe and sound banking practices.  We maintain a
+
+locally oriented, community-based focus, which is augmented by experienced,
+
+centralized support in select specialized areas.  Our local market orientation
+
+is reflected in our network of banking office locations, experienced community
+
+executives with a dedicated President for each market, and community boards
+
+which support our focus on responding to local banking needs.  We strive to
+
+offer a broad array of sophisticated products and to provide quality service by
+
+empowering associates to make decisions in their local markets.
+
+We have sought to build a franchise in small-to medium-sized, less
+
+competitive markets, located on the outskirts of the larger metropolitan
+
+markets where we are positioned as a market leader.  Many of our markets are on
+
+the outskirts of these larger markets in close proximity to major interstate
+
+thoroughfares such as Interstates I-10 and I-75.  Our three largest markets are
+
+Tallahassee (Leon-Florida), Gainesville (Alachua-Florida), and Macon
+
+(Bibb-Georgia).  In 13 of 19 markets in Florida and two of four markets in
+
+Georgia, we rank within the top four banks in terms of market share. 
+
+Furthermore, in the counties in which we operate, we maintain a 9.82% market
+
+share in the Florida counties and 5.57% in the Georgia counties, suggesting
+
+that there is significant opportunity to grow market share within these
+
+geographic areas.  The larger employers in many of our markets are state and
+
+local governments, healthcare providers, educational institutions, and small
+
+businesses.  While we realize that the markets in our footprint do not provide
+
+for a level of potential growth that the larger metropolitan markets may
+
+provide, our markets do provide good growth dynamics and have historically
+
+grown in excess of the national average  The value of these markets stems from
+
+the fact they are stable and less competitive, secondary markets.  We strive to
+
+provide value added services to our clients by being not just their bank, but
+
+their banker.  This element of our strategy distinguishes Capital City Bank
+
+from our competitors.           
+
+Our long-term vision remains to profitably expand our franchise
+
+through a combination of organic growth in existing markets and acquisitions. 
+
+We have long understood that our core deposit funding base is a predominant
+
+driver of our profitability and overall franchise value, and have focused
+
+extensively on this component of our organic growth efforts in recent years. 
+
+While we have not been an active acquirer of banks since 2005, this component
+
+of our strategy is still in place.  When evaluating potential acquisition
+
+opportunities, we will continue to weigh the value of organic growth
+
+initiatives versus potential acquisition returns and pursue the strategies that
+
+we believe provide the best overall return to our shareowners.
+
+7
+
+Potential acquisition
+
+opportunities will continue to be focused on Florida, Georgia, and Alabama with
+
+a particular focus on financial institutions located on the outskirts of
+
+larger, metropolitan areas.  Five markets have been identified, four in Florida
+
+and one in Georgia, in which management intends to proactively pursue expansion
+
+opportunities.  These markets include Alachua, Marion, Hernando/Pasco counties
+
+in Florida, the western panhandle of Florida, and Bibb and surrounding counties
+
+in central Georgia.  Our focus on some of these markets may change as we
+
+continue to evaluate our strategy and the economic conditions and demographics
+
+of any individual market.  We will also continue to evaluate de novo expansion
+
+opportunities in attractive new markets in the event that acquisition
+
+opportunities are not feasible.  Other expansion opportunities that will be
+
+evaluated include asset management, mortgage banking, and other financial
+
+businesses that are closely aligned with the business of banking.  Embedded in
+
+our acquisition strategy is our desire to partner with institutions that are
+
+culturally similar, have experienced management and possess either established
+
+market presence or have potential for improved profitability through growth,
+
+economies of scale, or expanded services.  Generally, these target institutions
+
+will range in asset size from $100 million to $500 million.
+
+Competition
+
+We operate in a highly
+
+competitive environment, especially with respect to services and pricing. In
+
+addition, the banking business is experiencing enormous changes. Since January
+
+1, 2009, over 500 financial institutions have failed in the U.S., including 85
+
+in Georgia and 70 in Florida. Nearly all of the failed banks were community
+
+banks. The assets and deposits of many of these failed community banks were
+
+acquired mostly by larger financial institutions.  The market has stabilized
+
+since the downturn in 2008. In late 2016, the first de novo bank charter in
+
+Florida since 2009 was approved and opened for business in the third quarter of
+
+2017. However, we expect consolidation to continue during 2018, substantially
+
+through traditional merger and acquisition activity. We believe that the larger
+
+financial institutions acquiring banks in our market areas are less familiar
+
+with the markets in which we operate and typically target a different client
+
+base. We believe clients who bank at community banks tend to prefer the
+
+relationship style service of community banks compared to larger banks.
+
+As a result, we expect to be
+
+able to effectively compete in our markets with larger financial institutions
+
+through providing superior customer service and leveraging our knowledge and
+
+experience in providing banking products and services in our market areas.
+
+Thus, a further reduction of the number of community banks could continue to
+
+enhance our competitive position and opportunities in many of our markets.
+
+However, larger financial institutions can benefit from economies of scale.
+
+Therefore, these larger institutions may be able to offer banking products and
+
+services at more competitive prices than us. Additionally, these larger financial
+
+institutions may offer financial products that we do not offer.
+
+Our primary market area
+
+consists of 20 counties in Florida, four counties in Georgia, and one county in
+
+Alabama. In these markets, we compete against a wide range of banking and
+
+nonbanking institutions including banks, savings and loan associations, credit
+
+unions, money market funds, mutual fund advisory companies, mortgage banking
+
+companies, investment banking companies, finance companies and other types of
+
+financial institutions. Most of Florida’s major banking concerns have a
+
+presence in Leon County, where our main office is located.  Our Leon County
+
+deposits totaled $967.2 million, or 39.2% of our consolidated deposits at
+
+December 31, 2017.
+
+8
+
+9
+
+Seasonality
+
+We believe our commercial banking operations are not
+
+generally seasonal in nature; however, public deposits tend to increase with
+
+tax collections in the fourth and first quarters of each year and decline with
+
+spending thereafter.
+
+10
+
+Regulatory Considerations
+
+We must comply with state and federal
+
+banking laws and regulations that control virtually all aspects of our
+
+operations. These laws and regulations generally aim to protect our depositors,
+
+not necessarily our shareowners or our creditors. Any changes in applicable
+
+laws or regulations may materially affect our business and prospects. Proposed
+
+legislative or regulatory changes may also affect our operations. The following
+
+description summarizes some of the laws and regulations to which we are
+
+subject. References to applicable statutes and regulations are brief summaries,
+
+do not purport to be complete, and are qualified in their entirety by reference
+
+to such statutes and regulations. 
+
+The Company
+
+We are registered with the Board of Governors of the Federal
+
+Reserve as a financial holding company under the Bank Holding Company Act of
+
+1956. As a result, we are subject to supervisory regulation and examination by
+
+the Federal Reserve. The Gramm-Leach-Bliley Act, the Bank Holding Company Act,
+
+and other federal laws subject financial holding companies to particular
+
+restrictions on the types of activities in which they may engage, and to a
+
+range of supervisory requirements and activities, including regulatory
+
+enforcement actions for violations of laws and regulations. 
+
+Permitted Activities
+
+The Gramm-Leach-Bliley Act modernized the U.S. banking system by:
+
+(i) allowing bank holding companies that qualify as “financial holding
+
+companies,” such as CCBG, to engage in a broad range of financial and related
+
+activities; (ii) allowing insurers and other financial service companies to
+
+acquire banks; (iii) removing restrictions that applied to bank holding company
+
+ownership of securities firms and mutual fund advisory companies; and (iv) establishing
+
+the overall regulatory scheme applicable to bank holding companies that also
+
+engage in insurance and securities operations. The general effect of the law
+
+was to establish a comprehensive framework to permit affiliations among
+
+commercial banks, insurance companies, securities firms, and other financial
+
+service providers. Activities that are financial in nature are broadly defined
+
+to include not only banking, insurance, and securities activities, but also
+
+merchant banking and additional activities that the Federal Reserve, in
+
+consultation with the Secretary of the Treasury, determines to be financial in
+
+nature, incidental to such financial activities, or complementary activities
+
+that do not pose a substantial risk to the safety and soundness of depository
+
+institutions or the financial system generally. 
+
+In contrast to financial holding
+
+companies, bank holding companies are limited to managing or controlling banks,
+
+furnishing services to or performing services for its subsidiaries, and
+
+engaging in other activities that the Federal Reserve determines by regulation
+
+or order to be so closely related to banking or managing or controlling banks
+
+as to be a proper incident thereto. In determining whether a particular
+
+activity is permissible, the Federal Reserve must consider whether the
+
+performance of such an activity reasonably can be expected to produce benefits
+
+to the public that outweigh possible adverse effects. Possible benefits include
+
+greater convenience, increased competition, and gains in efficiency. Possible
+
+adverse effects include undue concentration of resources, decreased or unfair
+
+competition, conflicts of interest, and unsound banking practices. Despite
+
+prior approval, the Federal Reserve may order a bank holding company or its
+
+subsidiaries to terminate any activity or to terminate ownership or control of
+
+any subsidiary when the Federal Reserve has reasonable cause to believe that a
+
+serious risk to the financial safety, soundness or stability of any bank
+
+subsidiary of that bank holding company may result from such an activity.
+
+Changes in Control
+
+Subject to certain exceptions, the Bank Holding Company Act and
+
+the Change in Bank Control Act, together with the applicable regulations,
+
+require Federal Reserve approval (or, depending on the circumstances, no notice
+
+of disapproval) prior to any person or company acquiring “control” of a bank or
+
+bank holding company. A conclusive presumption of control exists if an
+
+individual or company acquires the power, directly or indirectly, to direct the
+
+management or policies of an insured depository institution or to vote 25% or
+
+more of any class of voting securities of any insured depository institution. A
+
+rebuttable presumption of control exists if a person or company acquires 10% or
+
+more but less than 25% of any class of voting securities of an insured
+
+depository institution and either the institution has registered securities
+
+under Section 12 of the Securities Exchange Act of 1934, which we will refer to
+
+as the Exchange Act, or no other person will own a greater percentage of that
+
+class of voting securities immediately after the acquisition. Our common stock
+
+is registered under Section 12 of the Exchange Act. 
+
+The Federal Reserve Board maintains a policy statement on minority
+
+equity investments in banks and bank holding companies, that generally permits
+
+investors to (i) acquire up to 33% of the total equity of a target bank or
+
+bank holding company, subject to certain conditions, including (but not limited
+
+to) that the investing firm does not acquire 15% or more of any class of voting
+
+securities, and (ii) designate at least one director, without triggering
+
+the various regulatory requirements associated with control.
+
+11
+
+As a financial holding company, we are
+
+required to obtain prior approval from the Federal Reserve before (i) acquiring
+
+all or substantially all of the assets of a bank or bank holding company, (ii)
+
+acquiring direct or indirect ownership or control of more than 5% of the
+
+outstanding voting stock of any bank or bank holding company (unless we own a
+
+majority of such bank’s voting shares), or (iii) merging or consolidating with
+
+any other bank or bank holding company. In determining whether to approve a
+
+proposed bank acquisition, federal bank regulators will consider, among other
+
+factors, the effect of the acquisition on competition, the public benefits
+
+expected to be received from the acquisition, the projected capital ratios and
+
+levels on a post-acquisition basis, and the acquiring institution’s record of
+
+addressing the credit needs of the communities it serves, including the needs
+
+of low and moderate income neighborhoods, consistent with the safe and sound
+
+operation of the bank, under the Community Reinvestment Act of 1977. 
+
+Under Florida law, a person or entity proposing to directly or indirectly
+
+acquire control of a Florida bank must also obtain permission from the Florida
+
+Office of Financial Regulation. Florida statutes define “control” as either (i)
+
+indirectly or directly owning, controlling or having power to vote 25% or more
+
+of the voting securities of a bank; (ii) controlling the election of a majority
+
+of directors of a bank; (iii) owning, controlling, or having power to vote 10%
+
+or more of the voting securities as well as directly or indirectly exercising a
+
+controlling influence over management or policies of a bank; or (iv) as
+
+determined by the Florida Office of Financial Regulation. These requirements
+
+will affect us because CCB is chartered under Florida law and changes in
+
+control of CCBG are indirect changes in control of CCB.
+
+Tying
+
+Financial holding companies and their affiliates are prohibited
+
+from tying the provision of certain services, such as extending credit, to
+
+other services or products offered by the holding company or its affiliates,
+
+such as deposit products.
+
+Capital; Dividends; Source of Strength
+
+The Federal Reserve imposes certain
+
+capital requirements on financial holding companies under the Bank Holding
+
+Company Act, including a minimum leverage ratio and a minimum ratio of
+
+“qualifying” capital to risk-weighted assets. These requirements are described
+
+below under “Capital Regulations.” Subject to its capital requirements and
+
+certain other restrictions, we are generally able to borrow money to make a
+
+capital contribution to CCB, and such loans may be repaid from dividends paid
+
+from CCB to us. We are also able to raise capital for contributions to CCB by
+
+issuing securities without having to receive regulatory approval, subject to
+
+compliance with federal and state securities laws.
+
+In accordance with Federal Reserve policy, which has been codified
+
+by the Dodd-Frank Act, we are expected to act as a source of financial strength
+
+to CCB and to commit resources to support CCB in circumstances in which we
+
+might not otherwise do so. In furtherance of this policy, the Federal Reserve
+
+may require a financial holding company to terminate any activity or relinquish
+
+control of a nonbank subsidiary (other than a nonbank subsidiary of a bank)
+
+upon the Federal Reserve’s determination that such activity or control constitutes
+
+a serious risk to the financial soundness or stability of any subsidiary
+
+depository institution of the financial holding company. Further, federal bank
+
+regulatory authorities have additional discretion to require a financial
+
+holding company to divest itself of any bank or nonbank subsidiary if the
+
+agency determines that divestiture may aid the depository institution’s
+
+financial condition. 
+
+Capital City Bank
+
+Capital City Bank is a state-chartered
+
+commercial banking institution that is chartered by and headquartered in the
+
+State of Florida, and is subject to supervision and regulation by the Florida
+
+Office of Financial Regulation. The Florida Office of Financial Regulation
+
+supervises and regulates all areas of our operations including, without
+
+limitation, the making of loans, the issuance of securities, the conduct of our
+
+corporate affairs, the satisfaction of capital adequacy requirements, the
+
+payment of dividends, and the establishment or closing of banking centers. We
+
+are also a member bank of the Federal Reserve System, which makes our
+
+operations subject to broad federal regulation and oversight by the Federal
+
+Reserve. In addition, our deposit accounts are insured by the FDIC up to the
+
+maximum extent permitted by law, and the FDIC has certain enforcement powers
+
+over us. 
+
+As a state-chartered bank in the State of
+
+Florida, we are empowered by statute, subject to the limitations contained in
+
+those statutes, to take and pay interest on, savings and time deposits, to
+
+accept demand deposits, to make loans on residential and other real estate, to
+
+make consumer and commercial loans, to invest, with certain limitations, in
+
+equity securities and in debt obligations of banks and corporations and to
+
+provide various other banking services for the benefit of our clients. Various
+
+consumer laws and regulations also affect our operations, including state usury
+
+laws, laws relating to fiduciaries, consumer credit and equal credit
+
+opportunity laws, and fair credit reporting. In addition, the Federal Deposit
+
+Insurance Corporation Improvement Act of 1991 (“FDICIA”) prohibits insured
+
+state chartered institutions from conducting activities as principal that are
+
+not permitted for national banks. A bank, however, may engage in an otherwise
+
+prohibited activity if it meets its minimum capital requirements and the FDIC
+
+determines that the activity does not present a significant risk to the Deposit
+
+Insurance Fund.
+
+12
+
+Reserves
+
+The Federal Reserve requires all
+
+depository institutions to maintain reserves against transaction accounts
+
+(noninterest bearing and NOW checking accounts). The balances maintained to
+
+meet the reserve requirements imposed by the Federal Reserve may be used to
+
+satisfy liquidity requirements. An institution may borrow from the Federal
+
+Reserve Bank “discount window” as a secondary source of funds, provided that
+
+the institution meets the Federal Reserve Bank’s credit standards.
+
+Dividends
+
+CCB is subject to legal limitations on the
+
+frequency and amount of dividends that can be paid to CCBG. The Federal Reserve
+
+may restrict the ability of CCB to pay dividends if such payments would
+
+constitute an unsafe or unsound banking practice. Additionally, as of January
+
+1, 2018, financial institutions are being required to maintain a capital
+
+conservation buffer of at least 1.875% of risk-weighted assets in order to
+
+avoid restrictions on capital distributions and other payments. If a financial
+
+institution’s capital conservation buffer falls below the minimum requirement,
+
+its maximum payout amount for capital distributions and discretionary payments
+
+declines to a set percentage of eligible retained income based on the size of the
+
+buffer. See “Capital Regulations,” below for additional details on this new
+
+capital requirement.
+
+In addition, Florida law and Federal regulation also places
+
+restrictions on the declaration of dividends from state chartered banks to
+
+their holding companies. Pursuant to the Florida Financial Institutions Code,
+
+the board of directors of state-chartered banks, after charging off bad debts,
+
+depreciation and other worthless assets, if any, and making provisions for
+
+reasonably anticipated future losses on loans and other assets, may quarterly,
+
+semi-annually or annually declare a dividend of up to the aggregate net profits
+
+of that period combined with the bank’s retained net profits for the preceding
+
+two years and, with the approval of the Florida Office of Financial Regulation
+
+and Federal Reserve, declare a dividend from retained net profits which accrued
+
+prior to the preceding two years. Before declaring such dividends, 20% of the
+
+net profits for the preceding period as is covered by the dividend must be
+
+transferred to the surplus fund of the bank until this fund becomes equal to
+
+the amount of the bank’s common stock then issued and outstanding. A
+
+state-chartered bank may not declare any dividend if (i) its net income (loss)
+
+from the current year combined with the retained net income (loss) for the
+
+preceding two years aggregates a loss or (ii) the payment of such dividend
+
+would cause the capital account of the bank to fall below the minimum amount
+
+required by law, regulation, order or any written agreement with the Florida
+
+Office of Financial Regulation or a federal regulatory agency.
+
+Insurance of Accounts and Other Assessments 
+
+Our deposit accounts are currently insured by the Deposit
+
+Insurance Fund generally up to a maximum of $250,000 per separately insured
+
+depositor. We pay deposit insurance assessments to the Deposit Insurance Fund,
+
+which are determined through a risk-based assessment system. 
+
+Under the current system, deposit insurance assessments are based
+
+on a bank’s assessment base, which is defined as average total assets minus
+
+average tangible equity.  The FDIC assigns an institution to one of two
+
+categories based on asset size.  We fall into the Established Small
+
+Institution category.  This category has three sub categories based on
+
+supervisory ratings (its “CAMELS ratings”) designed to measure risk.  In
+
+determining the applicable assessment rate, the initial base assessment is determined
+
+based on the risk-based sub category into which the bank falls. The applicable
+
+sub category is determined based on the institution’s most recent supervisory
+
+and capital evaluations. The total base assessment rate is then determined by
+
+adjusting the initial base assessment rate by an unsecured debt adjustment and
+
+brokered deposit adjustment, if applicable, and the deposit insurance
+
+assessment is calculated by multiplying the bank’s assessment base by the total
+
+base assessment rate.
+
+In addition, all FDIC-insured institutions are required to pay
+
+assessments to the FDIC at a current annual rate of approximately five tenths
+
+of a basis point of its assessment base to fund interest payments on bonds
+
+issued by the Financing Corporation, an agency of the federal government
+
+established to recapitalize the predecessor to the Savings Association
+
+Insurance Fund. The Financing Corporation assessment rate is adjusted quarterly
+
+to reflect changes in the assessment base as determined from the quarterly Call
+
+Report submissions. These assessments will continue until the Financing
+
+Corporation bonds mature in 2017 through 2019.
+
+Under the Federal Deposit Insurance Act, or FDIA, the FDIC may
+
+terminate deposit insurance upon a finding that the institution has engaged in
+
+unsafe and unsound practices, is in an unsafe or unsound condition to continue
+
+operations, or has violated any applicable law, regulation, rule, order or
+
+condition imposed by the FDIC. 
+
+13
+
+Transactions
+
+With Affiliates
+
+Pursuant to Sections 23A and 23B of the
+
+Federal Reserve Act and Regulation W, the authority of CCB to engage in
+
+transactions with related parties or “affiliates” or to make loans to insiders
+
+is limited. Loan transactions with an affiliate generally must be
+
+collateralized and certain transactions between CCB and its affiliates,
+
+including the sale of assets, the payment of money or the provision of
+
+services, must be on terms and conditions that are substantially the same, or
+
+at least as favorable to CCB, as those prevailing for comparable nonaffiliated
+
+transactions. In addition, CCB generally may not purchase securities issued or
+
+underwritten by affiliates. 
+
+Loans to executive officers, directors or to any person who
+
+directly or indirectly, or acting through or in concert with one or more
+
+persons, owns, controls or has the power to vote more than 10% of any class of
+
+voting securities of a bank, which we refer to as “10% Shareowners,” or to any
+
+political or campaign committee the funds or services of which will benefit
+
+those executive officers, directors, or 10% Shareowners or which is controlled
+
+by those executive officers, directors or 10% Shareowners, are subject to
+
+Sections 22(g) and 22(h) of the Federal Reserve Act and their corresponding
+
+regulations (Regulation O) and Section 13(k) of the Exchange Act relating to
+
+the prohibition on personal loans to executives (which exempts financial
+
+institutions in compliance with the insider lending restrictions of Section
+
+22(h) of the Federal Reserve Act). Among other things, these loans must be made
+
+on terms substantially the same as those prevailing on transactions made to
+
+unaffiliated individuals and certain extensions of credit to those persons must
+
+first be approved in advance by a disinterested majority of the entire board of
+
+directors. Section 22(h) of the Federal Reserve Act prohibits loans to any of
+
+those individuals where the aggregate amount exceeds an amount equal to 15% of
+
+an institution’s unimpaired capital and surplus plus an additional 10% of unimpaired
+
+capital and surplus in the case of loans that are fully secured by readily
+
+marketable collateral, or when the aggregate amount on all of the extensions of
+
+credit outstanding to all of these persons would exceed our unimpaired capital
+
+and unimpaired surplus. Section 22(g) identifies limited circumstances in which
+
+we are permitted to extend credit to executive officers. 
+
+Community Reinvestment Act
+
+The Community Reinvestment Act and its corresponding regulations
+
+are intended to encourage banks to help meet the credit needs of the
+
+communities they serve, including low and moderate income neighborhoods,
+
+consistent with safe and sound banking practices. These regulations provide for
+
+regulatory assessment of a bank’s record in meeting the credit needs of its
+
+market area. Federal banking agencies are required to publicly disclose each
+
+bank’s rating under the Community Reinvestment Act. The Federal Reserve considers
+
+a bank’s Community Reinvestment Act rating when the bank submits an application
+
+to establish bank branches, merge with another bank, or acquire the assets and
+
+assume the liabilities of another bank. In the case of a financial holding
+
+company, the Community Reinvestment Act performance record of all banks
+
+involved in a merger or acquisition are reviewed in connection with the
+
+application to acquire ownership or control of shares or assets of a bank or to
+
+merge with another bank or bank holding company. An unsatisfactory record can
+
+substantially delay or block the transaction. We received a satisfactory rating
+
+on its most recent Community Reinvestment Act assessment. 
+
+Capital Regulations
+
+The federal banking regulators have adopted risk-based, capital
+
+adequacy guidelines for financial holding companies and their subsidiary banks
+
+based on the Basel III standards. Under these guidelines, assets and
+
+off-balance sheet items are assigned to specific risk categories each with
+
+designated risk weightings. The new risk-based capital guidelines are designed
+
+to make regulatory capital requirements more sensitive to differences in risk
+
+profiles among banks and bank holding companies, to account for off-balance
+
+sheet exposure, to minimize disincentives for holding liquid assets, and to achieve
+
+greater consistency in evaluating the capital adequacy of major banks
+
+throughout the world. The resulting capital ratios represent capital as a
+
+percentage of total risk-weighted assets and off-balance sheet items. Final
+
+rules implementing the capital adequacy guidelines became effective January 1,
+
+2015 for community banks. These final rules represent a significant change to
+
+the prior general risk-based capital rules and are designed to substantially
+
+conform to the Basel III international standards. 
+
+In computing total risk-weighted assets, bank and bank holding
+
+company assets are given risk-weights of 0%, 20%, 50%, 100% and 150%. In
+
+addition, certain off-balance sheet items are given similar credit conversion
+
+factors to convert them to asset equivalent amounts to which an appropriate
+
+risk-weight will apply. Most loans will be assigned to the 100% risk category,
+
+except for performing first mortgage loans fully secured by 1- to 4-family and
+
+certain multi-family residential property, which carry a 50% risk rating. Most
+
+investment securities (including, primarily, general obligation claims on
+
+states or other political subdivisions of the United States) will be assigned
+
+to the 20% category, except for municipal or state revenue bonds, which have a
+
+50% risk-weight, and direct obligations of the U.S. Treasury or obligations
+
+backed by the full faith and credit of the U.S. Government, which have a 0%
+
+risk-weight. In covering off-balance sheet items, direct credit substitutes,
+
+including general guarantees and standby letters of credit backing financial
+
+obligations, are given a 100% conversion factor. Transaction-related
+
+contingencies such as bid bonds, standby letters of credit backing nonfinancial
+
+obligations, and undrawn commitments (including commercial credit lines with an
+
+initial maturity of more than one year) have a 50% conversion factor.
+
+Short-term commercial letters of credit are converted at 20% and certain
+
+short-term unconditionally cancelable commitments have a 0% factor.
+
+14
+
+Under the final rules, minimum
+
+requirements increased for both the quality and quantity of capital held by
+
+banking organizations. In this respect, the final rules implement strict
+
+eligibility criteria for regulatory capital instruments and improves the
+
+methodology for calculating risk-weighted assets to enhance risk sensitivity.
+
+Consistent with the international Basel III framework, the rules include a new
+
+minimum ratio of Common Equity Tier 1 Capital to Risk-Weighted Assets of 4.5%
+
+and a Common Equity Tier 1 Capital conservation buffer of 2.5% of risk-weighted
+
+assets. The rules also raise the minimum ratio of Tier 1 Capital to
+
+Risk-Weighted Assets from 4% to 6% and include a minimum leverage ratio of 4%
+
+for all banking organizations. The implementation of the
+
+capital conservation buffer began on January 1, 2016 at the 0.625% level and
+
+will be phased in over a three-year period (increasing by 0.625% on each
+
+subsequent January 1, until it reaches 2.5% on January 1, 2019). If a financial institution’s capital
+
+conservation buffer falls below the minimum, capital distributions and
+
+discretionary payments will be limited or prohibited based on the size of the
+
+institution’s buffer.  The types of payments subject to this limitation include
+
+dividends, share buybacks, discretionary payments on Tier 1 instruments, and
+
+discretionary bonus payments.
+
+The new capital regulations may also impact the treatment of
+
+accumulated other comprehensive income (“AOCI”) for regulatory capital
+
+purposes. Under the new rules, AOCI generally flows through to regulatory
+
+capital, however, community banks and their holding companies may make a
+
+one-time irrevocable opt-out election to continue to treat AOCI the same as
+
+under the old regulations for regulatory capital purposes. This election was
+
+required to be made on the first call report or bank holding company annual
+
+report (on form FR Y-9C) filed after January 1, 2015. We made the opt-out
+
+election.  Additionally, the new rules also permit community banks with less
+
+than $15 billion in total assets to continue to count certain non-qualifying
+
+capital instruments issued prior to May 19, 2010 as Tier 1 capital, including
+
+trust preferred securities and cumulative perpetual preferred stock (subject to
+
+a limit of 25% of Tier 1 capital). However, non-qualifying capital instruments
+
+issued on or after May 19, 2010 do not qualify for Tier 1 capital treatment.
+
+Federal law and regulations establish a capital-based regulatory
+
+scheme designed to promote early intervention for troubled banks and require
+
+the FDIC to choose the least expensive resolution of bank failures. The capital-based
+
+regulatory framework contains five categories of compliance with regulatory
+
+capital requirements, including “well capitalized,” “adequately capitalized,”
+
+“undercapitalized,” “significantly undercapitalized,” and “critically
+
+undercapitalized.” To qualify as a “well-capitalized” institution under the new
+
+rules in effect as of January 1, 2015, a bank must have a leverage ratio of not
+
+less than 5%, a Tier 1 Common Equity ratio of not less than 6.5%, a Tier 1
+
+Capital ratio of not less than 8%, and a total risk-based capital ratio of not
+
+less than 10%, and the bank must not be under any order or directive from the
+
+appropriate regulatory agency to meet and maintain a specific capital level.
+
+Under the regulations, the applicable agency can treat an
+
+institution as if it were in the next lower category if the agency determines
+
+(after notice and an opportunity for hearing) that the institution is in an
+
+unsafe or unsound condition or is engaging in an unsafe or unsound practice.
+
+The degree of regulatory scrutiny of a financial institution will increase, and
+
+the permissible activities of the institution will decrease, as it moves
+
+downward through the capital categories. Institutions that fall into one of the
+
+three undercapitalized categories may be required to (i) submit a capital
+
+restoration plan; (ii) raise additional capital; (iii) restrict their growth,
+
+deposit interest rates, and other activities; (iv) improve their management; (v)
+
+eliminate management fees; or (vi) divest themselves of all or a part of their
+
+operations. It should be noted that the minimum ratios referred to above are
+
+merely guidelines and the bank regulators possess the discretionary authority
+
+to require higher capital ratios.
+
+As of December 31, 2017, we exceeded the requirements contained in
+
+the applicable regulations, policies and directives pertaining to capital
+
+adequacy to be classified as “well capitalized” and are unaware of any material
+
+violation or alleged violation of these regulations, policies or directives
+
+(see table below). Rapid growth, poor loan portfolio performance, or poor
+
+earnings performance, or a combination of these factors, could change our
+
+capital position in a relatively short period of time, making additional
+
+capital infusions necessary.
+
+15
+
+Prompt Corrective Action
+
+Immediately upon becoming
+
+undercapitalized, a depository institution becomes subject to the provisions of
+
+Section 38 of the Federal Deposit Insurance Act, which: (i) restrict
+
+payment of capital distributions and management fees; (ii) require that
+
+the appropriate federal banking agency monitor the condition of the institution
+
+and its efforts to restore its capital; (iii) require submission of a
+
+capital restoration plan; (iv) restrict the growth of the institution’s
+
+assets; and (v) require prior approval of certain expansion proposals. The
+
+appropriate federal banking agency for an undercapitalized institution also may
+
+take any number of discretionary supervisory actions if the agency determines
+
+that any of these actions is necessary to resolve the problems of the
+
+institution at the least possible long-term cost to the deposit insurance fund,
+
+subject in certain cases to specified procedures. These discretionary
+
+supervisory actions include: (i) requiring the institution to raise
+
+additional capital; (ii) restricting transactions with affiliates;
+
+(iii) requiring divestiture of the institution or the sale of the
+
+institution to a willing purchaser; and (iv) any other supervisory action
+
+that the agency deems appropriate. These and additional mandatory and permissive
+
+supervisory actions may be taken with respect to significantly undercapitalized
+
+and critically undercapitalized institutions.
+
+Interstate Banking and
+
+Branching
+
+The Bank Holding Company Act,
+
+amended by the Interstate Banking Act, provides that adequately capitalized and
+
+managed financial and bank holding companies are permitted to acquire banks in
+
+any state. State laws prohibiting interstate banking or discriminating against
+
+out-of-state banks are preempted. States are not permitted to enact laws opting
+
+out of this provision; however, states are allowed to adopt a minimum age
+
+restriction requiring that target banks located within the state be in
+
+existence for a period of time, up to a maximum of five years, before a bank
+
+may be subject to the Interstate Banking Act. Also, the Dodd-Frank Act, added
+
+deposit caps, which prohibit acquisitions that result in the acquiring company
+
+controlling 30% or more of the deposits of insured banks and thrift
+
+institutions held in the state in which the target maintains a branch or 10% or
+
+more of the deposits nationwide. States have the authority to waive the 30%
+
+deposit cap. State-level deposit caps are not preempted as long as they do not
+
+discriminate against out-of-state institutions, and the federal deposit caps
+
+apply only to initial entry acquisitions.
+
+As a result of the Dodd-Frank
+
+Act, national banks and state banks are able to establish branches in any state
+
+if that state would permit the establishment of the branch by a state bank
+
+chartered in that state. Florida law permits a state bank to establish a branch
+
+of the bank anywhere in the state. Accordingly, a bank with its headquarters
+
+outside the State of Florida may establish branches anywhere within the state. 
+
+16
+
+Anti-money Laundering
+
+The
+
+Uniting and Strengthening America by Providing Appropriate Tools Required to
+
+Intercept and Obstruct Terrorism Act of 2001 (“USA PATRIOT Act”), provides the
+
+federal government with additional powers to address terrorist threats through
+
+enhanced domestic security measures, expanded surveillance powers, increased
+
+information sharing and broadened anti-money laundering requirements. By way of
+
+amendments to the Bank Secrecy Act (“BSA”), the USA PATRIOT Act puts in place
+
+measures intended to encourage information sharing among bank regulatory and
+
+law enforcement agencies. In addition, certain provisions of the USA PATRIOT
+
+Act impose affirmative obligations on a broad range of financial institutions.
+
+The USA PATRIOT Act and the
+
+related Federal Reserve regulations require banks to establish anti-money
+
+laundering programs that include, at a minimum:
+
+·        
+
+internal policies, procedures and
+
+controls designed to implement and maintain the savings association’s
+
+compliance with all of the requirements of the USA PATRIOT Act, the BSA and
+
+related laws and regulations;
+
+·        
+
+systems and procedures for
+
+monitoring and reporting of suspicious transactions and activities;
+
+·        
+
+a designated compliance officer;
+
+·        
+
+employee training;
+
+·        
+
+an independent audit function to
+
+test the anti-money laundering program;
+
+·        
+
+procedures to verify the identity
+
+of each client upon the opening of accounts; and
+
+·        
+
+heightened due diligence policies,
+
+procedures and controls applicable to certain foreign accounts and
+
+relationships.
+
+Additionally, the USA PATRIOT
+
+Act requires each financial institution to develop a customer identification
+
+program (“CIP”) as part of its anti-money laundering program. The key
+
+components of the CIP are identification, verification, government list
+
+comparison, notice and record retention. The purpose of the CIP is to enable
+
+the financial institution to determine the true identity and anticipated
+
+account activity of each customer. To make this determination, among other
+
+things, the financial institution must collect certain information from
+
+customers at the time they enter into the customer relationship with the
+
+financial institution. This information must be verified within a reasonable
+
+time through documentary and non-documentary methods. Furthermore, all
+
+customers must be screened against any CIP-related government lists of known or
+
+suspected terrorists. We and our affiliates have adopted policies, procedures
+
+and controls designed to comply with the BSA and the USA PATRIOT Act.
+
+Regulatory Enforcement
+
+Authority
+
+Federal and state banking laws
+
+grant substantial regulatory authority and enforcement powers to federal and
+
+state banking regulators. This authority permits bank regulatory agencies to
+
+assess civil money penalties, to issue cease and desist or removal orders, and
+
+to initiate injunctive actions against banking organizations and institution-affiliated
+
+parties. In general, these enforcement actions may be initiated for either
+
+violations of laws or regulations or for unsafe or unsound practices. Other
+
+actions or inactions may provide the basis for enforcement action, including
+
+misleading or untimely reports filed with regulatory authorities. 
+
+Federal Home Loan Bank
+
+System
+
+CCB is a member of the Federal
+
+Home Loan Bank of Atlanta, which is one of 12 regional Federal Home Loan Banks.
+
+Each FHLB serves as a quasi-reserve bank for its members within its assigned
+
+region. It is funded primarily from funds deposited by member institutions and
+
+proceeds from the sale of consolidated obligations of the FHLB system. Each
+
+FHLB makes loans to members (i.e., advances) in accordance with policies and
+
+procedures established by the board of trustees of the FHLB.
+
+As a member of the FHLB of
+
+Atlanta, CCB is required to own capital stock in the FHLB in an amount at least
+
+equal to 0.09% (or 9 basis points), which is subject to annual adjustments, of
+
+CCB’s total assets at the end of each calendar year (up to a maximum of $15
+
+million), plus 4.25% of its outstanding advances (borrowings) from the FHLB of
+
+Atlanta under the activity-based stock ownership requirement. As of
+
+December 31, 2017, CCB was in compliance with this requirement.
+
+Privacy
+
+Under the Gramm-Leach-Bliley
+
+Act, federal banking regulators adopted rules limiting the ability of banks and
+
+other financial institutions to disclose nonpublic information about consumers
+
+to nonaffiliated third parties. The rules require disclosure of privacy
+
+policies to consumers and, in some circumstances, allow consumers to prevent
+
+disclosure of certain personal information to nonaffiliated third parties.
+
+17
+
+Overdraft Fee Regulation
+
+The
+
+Electronic Fund Transfer Act prohibits financial institutions from
+
+charging consumers fees for paying overdrafts on automated teller machines
+
+(“ATM”) and one-time debit card transactions, unless a consumer consents, or
+
+opts in, to the overdraft service for those type of transactions.  If a consumer
+
+does not opt in, any ATM transaction or debit that overdraws the consumer’s
+
+account will be denied.  Overdrafts on the payment of checks and regular
+
+electronic bill payments are not covered by this new rule.  Before opting in,
+
+the consumer must be provided a notice that explains the financial
+
+institution’s overdraft services, including the fees associated with the
+
+service, and the consumer’s choices.  Financial institutions must provide
+
+consumers who do not opt in with the same account terms, conditions and
+
+features (including pricing) that they provide to consumers who do opt in. 
+
+Consumer Laws and
+
+Regulations
+
+CCB is also subject to other
+
+federal and state consumer laws and regulations that are designed to protect
+
+consumers in transactions with banks. While the list set forth below is not
+
+exhaustive, these laws and regulations include the Truth in Lending Act, the
+
+Truth in Savings Act, the Electronic Funds Transfer Act, the Expedited Funds
+
+Availability Act, the Check Clearing for the 21st Century Act, the Fair Credit
+
+Reporting Act, the Fair Debt Collection Practices Act, the Equal Credit
+
+Opportunity Act, the Fair Housing Act, the Home Mortgage Disclosure Act, the
+
+Fair and Accurate Credit Transactions Act, the Mortgage Disclosure Improvement
+
+Act, and the Real Estate Settlement Procedures Act, among others. These laws
+
+and regulations mandate certain disclosure requirements and regulate the manner
+
+in which financial institutions must deal with customers when taking deposits
+
+or making loans to such customers. CCB must comply with the applicable
+
+provisions of these consumer protection laws and regulations as part of its
+
+ongoing customer relations. 
+
+In addition, the Consumer
+
+Financial Protection Bureau issues regulations and standards under these
+
+federal consumer protection laws that affect our consumer businesses. These
+
+include regulations setting “ability to repay” standards for residential
+
+mortgage loans and mortgage loan servicing and originator compensation
+
+standards, which generally require creditors to make a reasonable, good faith
+
+determination of a consumer’s ability to repay any consumer credit transaction
+
+secured by a dwelling (excluding an open-end credit plan, timeshare plan,
+
+reverse mortgage, or temporary loan) and establishes certain protections from
+
+liability under this requirement for loans that meet the requirements of the
+
+“qualified mortgage” safe harbor. In addition, on October 3, 2015, the new
+
+TILA-RESPA Integrated Disclosure (TRID) rules for mortgage closings took effect
+
+for new loan applications. The new TRID rules were further amended in 2017.
+
+These new loan forms may have the effect of lengthening the time it takes to
+
+approve mortgage loans in the short-term following implementation of the rule.
+
+The Volcker Rule
+
+Section 619 of the Dodd-Frank
+
+Act, commonly known as the Volcker Rule, prohibits us from owning, sponsoring,
+
+or having certain relationships with any hedge funds or private equity funds,
+
+subject to certain exemptions. The Volcker Rule directed the federal banking,
+
+securities and commodities and futures regulatory agencies to undertake a
+
+coordinated rulemaking effort to create rules implementing the Volcker Rule.
+
+The final interagency rules implementing the Volcker Rule, which were issued in
+
+December 2013 and became effective on April 1, 2014, afford financial
+
+institutions a two-year conformance period during which they can wind-down,
+
+sell, or otherwise conform their respective activities, investments and
+
+relationships to the requirements of the Volcker Rule and its implementing regulations. We
+
+do not believe that the Volcker Rule or the final interagency rules
+
+implementing the Volcker Rule will have a material impact on our investment
+
+activities since we do not engage in transactions covered by the regulation.
+
+Future Legislative
+
+Developments
+
+Various legislative acts are from time to time introduced in Congress
+
+and the Florida legislature. This legislation may change banking statutes and
+
+the environment in which our banking subsidiary and we operate in substantial
+
+and unpredictable ways. We cannot determine the ultimate effect that potential
+
+legislation, if enacted, or implementing regulations with respect thereto,
+
+would have upon our financial condition or results of operations or that of our
+
+banking subsidiary.
+
+18
+
+Effect
+
+of Governmental Monetary Policies
+
+The commercial banking business
+
+is affected not only by general economic conditions, but also by the monetary
+
+policies of the Federal Reserve. Changes in the discount rate on member bank
+
+borrowing, availability of borrowing at the “discount window,” open market
+
+operations, changes in the Fed Funds target interest rate, the imposition of
+
+changes in reserve requirements against member banks’ deposits and assets of
+
+foreign banking centers and the imposition of and changes in reserve
+
+requirements against certain borrowings by banks and their affiliates are some
+
+of the instruments of monetary policy available to the Federal Reserve. These
+
+monetary policies are used in varying combinations to influence overall growth and
+
+distributions of bank loans, investments and deposits, which may affect
+
+interest rates charged on loans or paid on deposits. The monetary policies of
+
+the Federal Reserve have had a significant effect on the operating results of
+
+commercial banks and are expected to continue to do so in the future. The
+
+Federal Reserve’s policies are primarily influenced by its dual mandate of
+
+price stability and full employment, and to a lesser degree by short-term and
+
+long-term changes in the international trade balance and in the fiscal policies
+
+of the U.S. Government. Future changes in monetary policy and the effect of
+
+such changes on our business and earnings in the future cannot be predicted.
+
+Income
+
+Taxes
+
+We
+
+are subject to income taxes at the federal level and subject to state taxation
+
+based on the laws of each state in which we operate.  We file a consolidated
+
+federal tax return with a fiscal year ending on December 31. On December 22,
+
+2017, the United States enacted tax reform legislation known as the H.R.1, commonly
+
+referred to as the “Tax Cuts and Jobs Act,” resulting in significant
+
+modifications to existing law. We completed the accounting for the effects of
+
+the new law during this period. Our financial statements for the year ended
+
+December 31, 2017, reflect certain effects of the new law, which includes a
+
+reduction in the corporate tax rate from 35% to 21%, as well as other changes.
+
+As a result of the changes to tax laws and tax rates under the Act, we incurred
+
+an increase in income tax expense during the year ended December 31, 2017, due
+
+to a write-down of our net deferred tax asset by $4.1 million in the fourth
+
+quarter of 2017 as a result of the reduction to the federal corporate income
+
+tax rate. While the new tax law negatively impacted earnings in the fourth quarter
+
+of 2017, the lower corporate tax rate is expected to be a significant ongoing
+
+benefit to us in future periods. Absent future discrete events, we
+
+anticipate that our effective tax in future periods will be approximately 24%
+
+due to a lower federal corporate income tax rate.
+
+Website
+
+Access to Company’s Reports
+
+Our Internet website is
+
+www.ccbg.com.  Our annual reports on Form 10-K, quarterly reports on Form 10-Q,
+
+current reports on Form 8-K, including any amendments to those reports filed or
+
+furnished pursuant to section 13(a) or 15(d), and reports filed pursuant to
+
+Section 16, 13(d), and 13(g) of the Exchange Act are available free of charge
+
+through our website as soon as reasonably practicable after they are
+
+electronically filed with, or furnished to, the Securities and Exchange
+
+Commission.  The information on our website is not incorporated by reference
+
+into this report.
+
+19
+
+Item 1A.  Risk Factors
+
+An investment in
+
+our common stock contains a high degree of risk. You should consider carefully
+
+the following risk factors before deciding whether to invest in our common
+
+stock. Our business, including our operating results and financial condition,
+
+could be harmed by any of these risks. Additional risks and uncertainties not
+
+currently known to us or that we currently deem to be immaterial also may
+
+materially and adversely affect our business. The trading price of our common
+
+stock could decline due to any of these risks, and you may lose all or part of
+
+your investment. In assessing these risks, you should also refer to the other
+
+information contained in our filings with the SEC, including our financial
+
+statements and related notes.
+
+Risks Related to Our Business
+
+We may incur
+
+losses if we are unable to successfully manage interest rate risk.
+
+Our profitability
+
+depends to a large extent on Capital City Bank’s net interest income, which is
+
+the difference between income on interest-earning assets, such as loans and
+
+investment securities, and expense on interest-bearing liabilities such as
+
+deposits and borrowings. We are unable to predict changes in market interest
+
+rates, which are affected by many factors beyond our control, including
+
+inflation, recession, unemployment, federal funds target rate, money supply,
+
+domestic and international events and changes in the United States and other
+
+financial markets. Our net interest income may be reduced if: (i) more
+
+interest-earning assets than interest-bearing liabilities reprice or mature
+
+during a time when interest rates are declining or (ii) more interest-bearing
+
+liabilities than interest-earning assets reprice or mature during a time when
+
+interest rates are rising.
+
+Changes in the
+
+difference between short-term and long-term interest rates may also harm our
+
+business. We generally use short-term deposits to fund longer-term assets. When
+
+interest rates change, assets and liabilities with shorter terms reprice more
+
+quickly than those with longer terms, which could have a material adverse
+
+effect on our net interest margin. If market interest rates rise rapidly,
+
+interest rate adjustment caps may also limit increases in the interest rates on
+
+adjustable rate loans, which could further reduce our net interest income.
+
+Additionally, we believe that due to the recent historical low interest rate
+
+environment, the effects of the repeal of Regulation Q, which previously had
+
+prohibited the payment of interest on demand deposits by member banks of the
+
+Federal Reserve System, has not been realized. The increased price competition
+
+for deposits that may result upon the return to a historically normal interest
+
+rate environment could adversely affect net interest margins of community
+
+banks.
+
+Although we
+
+continuously monitor interest rates and have a number of tools to manage our
+
+interest rate risk exposure, changes in market assumptions regarding future
+
+interest rates could significantly impact our interest rate risk strategy, our
+
+financial position and results of operations. If we do not properly monitor our
+
+interest rate risk management strategies, these activities may not effectively
+
+mitigate our interest rate sensitivity or have the desired impact on our
+
+results of operations or financial condition.
+
+Our loan
+
+portfolio includes loans with a higher risk of loss which could lead to higher
+
+loan losses and nonperforming assets.
+
+We originate
+
+commercial real estate loans, commercial loans, construction loans, vacant land
+
+loans, consumer loans, and residential mortgage loans primarily within our market
+
+area. Commercial real estate, commercial, construction, vacant land, and
+
+consumer loans may expose a lender to greater credit risk than traditional
+
+fixed-rate fully amortizing loans secured by single-family residential real
+
+estate because the collateral securing these loans may not be sold as easily as
+
+single-family residential real estate. In addition, these loan types tend to
+
+involve larger loan balances to a single borrower or groups of related
+
+borrowers and are more susceptible to a risk of loss during a downturn in the
+
+business cycle. These loans also have historically had greater credit risk than
+
+other loans for the following reasons:
+
+·        
+
+Commercial Real Estate Loans. Repayment is dependent on income being generated in
+
+amounts sufficient to cover operating expenses and debt service. These loans
+
+also involve greater risk because they are generally not fully amortizing over
+
+the loan period, but rather have a balloon payment due at maturity. A
+
+borrower’s ability to make a balloon payment typically will depend on the
+
+borrower’s ability to either refinance the loan or timely sell the underlying
+
+property. As of December 31, 2017, commercial mortgage loans comprised approximately
+
+32.3% of our total loan portfolio.
+
+·        
+
+Commercial Loans. Repayment is generally dependent upon the successful
+
+operation of the borrower’s business. In addition, the collateral securing the
+
+loans may depreciate over time, be difficult to appraise, be illiquid, or
+
+fluctuate in value based on the success of the business. As of December 31,
+
+2017, commercial loans comprised approximately 13.2% of our total loan
+
+portfolio.
+
+20
+
+·        
+
+Construction Loans. The risk of loss is largely dependent on our initial
+
+estimate of whether the property’s value at completion equals or exceeds the
+
+cost of property construction and the availability of take-out financing.
+
+During the construction phase, a number of factors can result in delays or cost
+
+overruns. If our estimate is inaccurate or if actual construction costs exceed
+
+estimates, the value of the property securing our loan may be insufficient to
+
+ensure full repayment when completed through a permanent loan, sale of the
+
+property, or by seizure of collateral. As of December 31, 2017, construction
+
+loans comprised approximately 4.7% of our total loan portfolio.
+
+·        
+
+Vacant Land Loans. Because vacant or unimproved land is generally held
+
+by the borrower for investment purposes or future use, payments on loans
+
+secured by vacant or unimproved land will typically rank lower in priority to
+
+the borrower than a loan the borrower may have on their primary residence or
+
+business. These loans are susceptible to adverse conditions in the real estate
+
+market and local economy. As of December 31, 2017, vacant land loans comprised approximately
+
+3.2% of our total loan portfolio.
+
+·        
+
+HELOCs. Our open-ended home equity loans have an
+
+interest-only draw period followed by a five-year repayment period of 0.75% of
+
+the principal balance monthly and a balloon payment at maturity. Upon the
+
+commencement of the repayment period, the monthly payment can increase
+
+significantly, thus, there is a heightened risk that the borrower will be
+
+unable to pay the increased payment. Further, these loans also involve greater
+
+risk because they are generally not fully amortizing over the loan period, but
+
+rather have a balloon payment due at maturity.  A borrower’s ability to make a
+
+balloon payment may depend on the borrower’s ability to either refinance the
+
+loan or timely sell the underlying property.  As of December 31, 2017, HELOCs
+
+comprised approximately 13.8% of our total loan portfolio.
+
+·        
+
+Consumer Loans. Consumer loans (such as automobile loans and
+
+personal lines of credit) are collateralized, if at all, with assets that may
+
+not provide an adequate source of payment of the loan due to depreciation,
+
+damage, or loss. As of December 31, 2017, consumer loans comprised
+
+approximately 16.9% of our total loan portfolio, with indirect auto loans
+
+making up a majority of this portfolio at approximately 87% of the total
+
+balance.
+
+The increased risks
+
+associated with these types of loans result in a correspondingly higher
+
+probability of default on such loans (as compared to fixed-rate fully
+
+amortizing single-family real estate loans). Loan defaults would likely
+
+increase our loan losses and nonperforming assets and could adversely affect
+
+our allowance for loan losses and our results of operations.
+
+We process,
+
+maintain, and transmit confidential client information through our information
+
+technology systems, such as our online banking service.  Cybersecurity issues,
+
+such as security breaches and computer viruses, affecting our information
+
+technology systems or fraud related to our debit card products could disrupt
+
+our business, result in the unintended disclosure or misuse of confidential or
+
+proprietary information, damage our reputation, increase our costs, and cause
+
+losses.
+
+We collect and
+
+store sensitive data, including our proprietary business information and that
+
+of our clients, and personally identifiable information of our clients and
+
+employees, in our information technology systems. We also provide our clients
+
+the ability to bank online. The secure processing, maintenance, and
+
+transmission of this information is critical to our operations.  Our network,
+
+or those of our clients, could be vulnerable to unauthorized access, computer
+
+viruses, phishing schemes and other security problems.  Financial institutions
+
+and companies engaged in data processing have increasingly reported breaches in
+
+the security of their websites or other systems, some of which have involved
+
+sophisticated and targeted attacks intended to obtain unauthorized access to
+
+confidential information, destroy data, disrupt or degrade service, sabotage
+
+systems or cause other damage.
+
+We may be required
+
+to spend significant capital and other resources to protect against the threat
+
+of security breaches and computer viruses or to alleviate problems caused by
+
+security breaches or viruses. Security breaches and viruses could expose us to
+
+claims, litigation and other possible liabilities. Any inability to prevent
+
+security breaches or computer viruses could also cause existing clients to lose
+
+confidence in our systems and could adversely affect our reputation and our
+
+ability to generate deposits.
+
+Additionally, fraud
+
+losses related to debit and credit cards have risen in recent years due in
+
+large part to growing and evolving schemes to illegally use cards or steal
+
+consumer credit card information despite risk management practices employed by
+
+the debit and credit card industries. Many issuers of debit and credit cards
+
+have suffered significant losses in recent years due to the theft of cardholder
+
+data that has been illegally exploited for personal gain.
+
+The potential for
+
+debit and credit card fraud against us or our clients and our third party
+
+service providers is a serious issue. Debit and credit card fraud is pervasive
+
+and the risks of cybercrime are complex and continue to evolve. In view of the
+
+recent high-profile retail data breaches involving client personal and
+
+financial information, the potential impact on us and any exposure to consumer
+
+losses and the cost of technology investments to improve security could cause
+
+losses to us or our clients, damage to our brand, and an increase in our costs.
+
+21
+
+An inadequate allowance for loan losses would reduce our earnings.
+
+We are exposed to
+
+the risk that our clients may be unable to repay their loans according to their
+
+terms and that any collateral securing the payment of their loans may not be
+
+sufficient to assure full repayment. This could result in credit losses that
+
+are inherent in the lending business. We evaluate the collectability of our
+
+loan portfolio and provide an allowance for loan losses that we believe is
+
+adequate based upon such factors as:
+
+·        
+
+the risk characteristics of
+
+various classifications of loans;
+
+·        
+
+previous loan loss experience;
+
+·        
+
+specific loans that have loss
+
+potential;
+
+·        
+
+delinquency trends;
+
+·        
+
+estimated fair market value of the
+
+collateral;
+
+·        
+
+current economic conditions; and
+
+·        
+
+geographic and industry loan
+
+concentrations.
+
+As of December 31,
+
+2017, our allowance for loan losses was $13.3
+
+million, which represented approximately 0.80% of our total loans. We had $7.2 million in nonaccruing loans as of December 31, 2017. The
+
+allowance is based on management’s reasonable estimate and may not prove
+
+sufficient to cover future loan losses. Although management uses the best
+
+information available to make determinations with respect to the allowance for
+
+loan losses, future adjustments may be necessary if economic conditions differ
+
+substantially from the assumptions used or adverse developments arise with
+
+respect to our nonperforming or performing loans. In addition, regulatory
+
+agencies, as an integral part of their examination process, periodically review
+
+our estimated losses on loans. Our regulators may require us to recognize
+
+additional losses based on their judgments about information available to them
+
+at the time of their examination. Accordingly, the allowance for loan losses
+
+may not be adequate to cover all future loan losses and significant increases
+
+to the allowance may be required in the future if, for example, economic
+
+conditions worsen. A material increase in our allowance for loan losses would
+
+adversely impact our net income and capital in future periods, while having the
+
+effect of overstating our current period earnings.
+
+We may incur
+
+significant costs associated with the ownership of real property as a result of
+
+foreclosures, which could reduce our net income.
+
+Since we originate
+
+loans secured by real estate, we may have to foreclose on the collateral property
+
+to protect our investment and may thereafter own and operate such property, in
+
+which case we would be exposed to the risks inherent in the ownership of real
+
+estate.
+
+The amount that we,
+
+as a mortgagee, may realize after a foreclosure is dependent upon factors
+
+outside of our control, including, but not limited to:
+
+·        
+
+general or local economic
+
+conditions;
+
+·        
+
+environmental cleanup liability;
+
+·        
+
+neighborhood values;
+
+·        
+
+interest rates;
+
+·        
+
+real estate tax rates;
+
+·        
+
+operating expenses of the
+
+mortgaged properties;
+
+·        
+
+supply of and demand for rental
+
+units or properties;
+
+·        
+
+ability to obtain and maintain
+
+adequate occupancy of the properties;
+
+·        
+
+zoning laws;
+
+·        
+
+governmental rules, regulations
+
+and fiscal policies; and
+
+·        
+
+acts of God.
+
+Certain
+
+expenditures associated with the ownership of real estate, including real
+
+estate taxes, insurance and maintenance costs, may adversely affect the income
+
+from the real estate. Furthermore, we may need to advance funds to continue to
+
+operate or to protect these assets. As a result, the cost of operating real
+
+property assets may exceed the rental income earned from such properties or we
+
+may be required to dispose of the real property at a loss.
+
+22
+
+Liquidity risk could impair our ability to
+
+fund operations and jeopardize our financial condition.
+
+Effective liquidity management is essential for the operation of
+
+our business. We require sufficient liquidity to meet client loan requests,
+
+client deposit maturities and withdrawals, payments on our debt obligations as
+
+they come due and other cash commitments under both normal operating conditions
+
+and other unpredictable circumstances causing industry or general financial
+
+market stress. If we are unable to raise funds through deposits, borrowings,
+
+earnings and other sources, it could have a substantial negative effect on our
+
+liquidity.  In particular, a majority of our liabilities during 2017 were
+
+checking accounts and other liquid deposits, which are generally payable on
+
+demand or upon short notice. By comparison, a substantial majority of our
+
+assets were loans, which cannot generally be called or sold in the same time
+
+frame. Although we have historically been able to replace maturing deposits and
+
+advances as necessary, we might not be able to replace such funds in the
+
+future, especially if a large number of our depositors seek to withdraw their
+
+accounts at the same time, regardless of the reason. Our access to funding
+
+sources in amounts adequate to finance our activities on terms that are
+
+acceptable to us could be impaired by factors that affect us specifically or
+
+the financial services industry or economy in general. Factors that could
+
+negatively impact our access to liquidity sources include a decrease in the
+
+level of our business activity as a result of a downturn in the markets in
+
+which our loans are concentrated, adverse regulatory action against us, or our
+
+inability to attract and retain deposits. Our ability to borrow could also be
+
+impaired by factors that are not specific to us, such a disruption in the
+
+financial markets or negative views and expectations about the prospects for
+
+the financial services industry. If we are unable to maintain adequate
+
+liquidity, it could materially and adversely affect our business, results of
+
+operations or financial condition.
+
+Our future
+
+success is dependent on our ability to compete effectively in the highly
+
+competitive banking industry.
+
+We face vigorous
+
+competition for deposits, loans and other financial services in our market area
+
+from other banks and financial institutions, including savings and loan
+
+associations, savings banks, finance companies and credit unions. A number of
+
+our competitors are significantly larger than we are and have greater access to
+
+capital and other resources. Many of our competitors also have higher lending
+
+limits, more expansive branch networks, and offer a wider array of financial
+
+products and services. To a lesser extent, we also compete with other providers
+
+of financial services, such as money market mutual funds, brokerage firms,
+
+consumer finance companies, insurance companies and governmental organizations,
+
+which may offer financial products and services on more favorable terms than we
+
+are able to. Many of our non-bank competitors are not subject to the same
+
+extensive regulations that govern our activities. As a result, these non-bank
+
+competitors have advantages over us in providing certain services. The effect
+
+of this competition may reduce or limit our margins or our market share and may
+
+adversely affect our results of operations and financial condition.
+
+Risks Related to Regulation and
+
+Legislation
+
+We are subject
+
+to extensive regulation, which could restrict our activities and impose
+
+financial requirements or limitations on the conduct of our business.
+
+We are subject to
+
+extensive regulation, supervision and examination by our regulators, including
+
+the Florida Office of Financial Regulation, the Federal Reserve, and the FDIC.
+
+Our compliance with these industry regulations is costly and restricts certain
+
+of our activities, including payment of dividends, mergers and acquisitions,
+
+investments, lending and interest rates charged on loans, interest rates paid
+
+on deposits, access to capital and brokered deposits and locations of banking
+
+offices. If we are unable to meet these regulatory requirements, our financial
+
+condition, liquidity and results of operations would be materially and
+
+adversely affected.
+
+Our activities
+
+are also regulated under consumer protection laws applicable to our lending,
+
+deposit and other activities. Many of these regulations are intended primarily
+
+for the protection of our depositors and the Deposit Insurance Fund and not for
+
+the benefit of our shareowners. In addition to the regulations of the bank
+
+regulatory agencies, as a member of the Federal Home Loan Bank, we must also
+
+comply with applicable regulations of the Federal Housing Finance Agency and
+
+the Federal Home Loan Bank.
+
+Our failure to
+
+comply with these laws and regulations, even if the failure follows good faith
+
+effort or results from a difference in interpretation, could subject us to
+
+restrictions on our business activities, fines and other penalties, any of
+
+which could adversely affect our results of operations, capital base and the
+
+price of our securities. Further, any new laws, rules and regulations could
+
+make compliance more difficult or expensive or otherwise adversely affect our
+
+business and financial condition. Please refer to the Section entitled
+
+“Business – Regulatory Considerations” in this Report.
+
+Legislative
+
+and administrative action may affect our business.
+
+President Donald Trump and others in Congress called for substantial change to
+
+several regulations and policies, which may include the repeal of regulations
+
+implemented as a result of Dodd-Frank and comprehensive tax reform. We cannot
+
+predict the impact, if any, of these changes to our business. However, it is
+
+possible that these changes could adversely affect our business. It is likely
+
+that some policies adopted by the new administration will benefit us and others
+
+will negatively affect us. Until we know what changes are enacted, if any, we
+
+will not know whether in total we benefit from, or are negatively affected by,
+
+the changes.
+
+23
+
+The increased capital requirements may have an adverse effect on
+
+us.
+
+In 2013, the
+
+Federal Reserve Board released its final rules which implement in the United
+
+States the Basel III regulatory capital reforms from the Basel Committee on
+
+Banking Supervision and certain changes required by the Dodd-Frank Act. Under
+
+the final rule, minimum requirements increased for both the quality and
+
+quantity of capital held by banking organizations. Consistent with the
+
+international Basel framework, the rule includes a new minimum ratio of Common
+
+Equity Tier 1 Capital (“CET1”) to Risk-Weighted Assets (“RWA”) of 4.5% and a
+
+CET1 conservation buffer of 2.5% of RWA (which will be phased in from 2016
+
+through 2019) that apply to all supervised financial institutions. As of
+
+January 1, 2018, the CET1conservation buffer requirement was 1.875%, which
+
+requires us to hold additional CET1 capital in excess of the minimum required
+
+to meet the CET1 to RWA ratio requirement. The rule also, among other things,
+
+raised the minimum ratio of Tier 1 Capital to RWA from 4% to 6% and included a
+
+minimum leverage ratio of 4% for all banking organizations. The impact of the
+
+new capital rules requires us to maintain higher levels of capital, which we
+
+expect will lower our return on equity. Additionally, if our CET1 to RWA ratio
+
+does not exceed the minimum required plus the additional CET1 conservation
+
+buffer, we may be restricted in our ability to pay dividends or make other
+
+distributions of capital to our shareowners.
+
+Compliance
+
+with the Consumer Financial Protection Bureau’s ability-to-repay rule
+
+safe-harbor could adversely impact our growth or profitability.
+
+The Consumer
+
+Financial Protection Bureau issued a rule, effective as of January 10, 2014,
+
+designed to clarify for lenders how they can avoid monetary damages under the
+
+Dodd-Frank Act, which holds lenders accountable for ensuring a borrower’s
+
+ability to repay a mortgage at the time the loan is originated. Loans that satisfy
+
+the “qualified mortgage” safe-harbor will be presumed to have complied with the
+
+new ability-to-repay standard. Under the Consumer Financial Protection Bureau’s
+
+rule, a “qualified mortgage” loan must not contain certain specified features,
+
+including but not limited to:
+
+·        
+
+excessive upfront points and fees
+
+(those exceeding 3% of the total loan amount, less “bona fide discount points”
+
+for prime loans);
+
+·        
+
+interest-only payments;
+
+·        
+
+negative-amortization; and
+
+·        
+
+terms longer than 30 years.
+
+Also, to qualify
+
+as a “qualified mortgage,” a borrower’s total monthly debt-to-income ratio may
+
+not exceed 43%. Lenders must also verify and document the income and financial
+
+resources relied upon to qualify the borrower for the loan and underwrite the
+
+loan based on a fully amortizing payment schedule and maximum interest rate
+
+during the first five years, taking into account all applicable taxes,
+
+insurance and assessments. The Consumer Financial Protection Bureau’s rule on
+
+qualified mortgages could limit our ability or desire to make certain types of
+
+loans or loans to certain borrowers, or could make it more expensive and/or
+
+time consuming to make these loans, which could adversely impact our growth or
+
+profitability.
+
+Florida
+
+financial institutions, such as the Bank, face a higher risk of noncompliance
+
+and enforcement actions with the Bank Secrecy Act and other anti-money
+
+laundering statutes and regulations.
+
+Since September
+
+11, 2001, banking regulators have intensified their focus on anti-money
+
+laundering and Bank Secrecy Act compliance requirements, particularly the
+
+anti-money laundering provisions of the USA PATRIOT Act. There is also
+
+increased scrutiny of compliance with the rules enforced by the Office of
+
+Foreign Assets Control (“OFAC”). Since 2004, federal banking regulators and
+
+examiners have been extremely aggressive in their supervision and examination
+
+of financial institutions located in the State of Florida with respect to the
+
+institution’s Bank Secrecy Act/anti-money laundering compliance. Consequently,
+
+numerous formal enforcement actions have been instituted against financial
+
+institutions.
+
+In order to
+
+comply with regulations, guidelines and examination procedures in this area,
+
+the Bank has been required to adopt new policies and procedures and to install
+
+new systems. If the Bank’s policies, procedures and systems are deemed
+
+deficient or the policies, procedures and systems of the financial institutions
+
+that it has already acquired or may acquire in the future are deficient, the
+
+Bank would be subject to liability, including fines and regulatory actions such
+
+as restrictions on its ability to pay dividends and the necessity to obtain
+
+regulatory approvals to proceed with certain aspects of its business plan,
+
+including its acquisition plans.
+
+24
+
+Risks Related to Market Events
+
+Our loan portfolio is heavily concentrated in mortgage
+
+loans secured by properties in Florida and Georgia which causes our risk of loss
+
+to be higher than if we had a more geographically diversified portfolio.
+
+Our interest-earning assets are heavily concentrated
+
+in mortgage loans secured by real estate, particularly real estate located in
+
+Florida and Georgia.  As of December 31, 2017, approximately 70% of our loans
+
+included real estate as a primary, secondary, or tertiary component of
+
+collateral. The real estate collateral in each case provides an alternate source
+
+of repayment in the event of default by the borrower; however, the value of the
+
+collateral may decline during the time the credit is extended. If we are
+
+required to liquidate the collateral securing a loan during a period of reduced
+
+real estate values to satisfy the debt, our earnings and capital could be
+
+adversely affected.
+
+Additionally, as of December 31, 2017, substantially
+
+all of our loans secured by real estate are secured by commercial and
+
+residential properties located in Northern Florida and Middle Georgia. The
+
+concentration of our loans in these areas subjects us to risk that a downturn
+
+in the economy or recession in these areas could result in a decrease in loan
+
+originations and increases in delinquencies and foreclosures, which would more
+
+greatly affect us than if our lending were more geographically diversified. In
+
+addition, since a large portion of our portfolio is secured by properties located
+
+in Florida and Georgia, the occurrence of a natural disaster, such as a
+
+hurricane, or a man-made disaster could result in a decline in loan
+
+originations, a decline in the value or destruction of mortgaged properties and
+
+an increase in the risk of delinquencies, foreclosures or loss on loans
+
+originated by us. We may suffer further losses due to the decline in the value
+
+of the properties underlying our mortgage loans, which would have an adverse
+
+impact on our results of operations and financial condition.
+
+Our concentration in loans secured by real estate may
+
+increase our credit losses, which would negatively affect our financial
+
+results.
+
+Due to the lack of diversified industry within the
+
+markets served by the Bank and the relatively close proximity of our geographic
+
+markets, we have both geographic concentrations as well as concentrations in
+
+the types of loans funded. Specifically, due to the nature of our markets, a
+
+significant portion of the portfolio has historically been secured with real estate.
+
+As of December 31, 2017, approximately 32% and 33% of our $1.653 billion loan
+
+portfolio was secured by commercial real estate and residential real estate,
+
+respectively. As of this same date, approximately 5% was secured by property
+
+under construction.
+
+In the event we are required to foreclose on a
+
+property securing one of our mortgage loans or otherwise pursue our remedies in
+
+order to protect our investment, we may be unable to recover funds in an amount
+
+equal to our projected return on our investment or in an amount sufficient to
+
+prevent a loss to us due to prevailing economic conditions, real estate values
+
+and other factors associated with the ownership of real property. As a result,
+
+the market value of the real estate or other collateral underlying our loans
+
+may not, at any given time, be sufficient to satisfy the outstanding principal
+
+amount of the loans, and consequently, we would sustain loan losses.
+
+The fair value of our investments could decline which
+
+would cause a reduction in shareowners’ equity.
+
+A large portion of our investment securities portfolio
+
+as of December 31, 2017 has been designated as available-for-sale pursuant to
+
+U.S. generally accepted accounting principles relating to accounting for
+
+investments. Such principles require that unrealized gains and losses in the
+
+estimated value of the available-for-sale portfolio be “marked to market” and
+
+reflected as a separate item in shareowners’ equity (net of tax) as accumulated
+
+other comprehensive income/loss. Shareowners’ equity will continue to reflect
+
+the unrealized gains and losses (net of tax) of these investments. The fair
+
+value of our investment portfolio may decline, causing a corresponding decline
+
+in shareowners’ equity.
+
+Management believes that several factors will affect
+
+the fair values of our investment portfolio. These include, but are not limited
+
+to, changes in interest rates or expectations of changes in interest rates, the
+
+degree of volatility in the securities markets, inflation rates or expectations
+
+of inflation and the slope of the interest rate yield curve (the yield curve
+
+refers to the differences between short-term and long-term interest rates; a
+
+positively sloped yield curve means short-term rates are lower than long-term
+
+rates). These and other factors may impact specific categories of the portfolio
+
+differently, and we cannot predict the effect these factors may have on any
+
+specific category.
+
+25
+
+Risks
+
+Related to an Investment in Our Common Stock
+
+We may be
+
+unable to pay dividends in the future.
+
+In 2017, our Board
+
+of Directors declared four quarterly cash dividends. Declarations of any future
+
+dividends will be contingent on our ability to earn sufficient profits and to
+
+remain well capitalized, including our ability to hold and generate sufficient capital
+
+to comply with the new CET1 conservation buffer requirement. In addition, due
+
+to our contractual obligations with the holders of our trust preferred
+
+securities, if we defer the payment of accrued interest owed to the holders of
+
+our trust preferred securities, we may not make dividend payments to our
+
+shareowners.
+
+Further, under
+
+applicable statutes and regulations, CCB’s board of directors, after
+
+charging-off bad debts, depreciation and other worthless assets, if any, and
+
+making provisions for reasonably anticipated future losses on loans and other
+
+assets, may quarterly, semi-annually, or annually declare and pay dividends to
+
+CCBG of up to the aggregate net income of that period combined with the CCB’s
+
+retained net income for the preceding two years and, with the approval of the
+
+Florida Office of Financial Regulation and Federal Reserve, declare a dividend
+
+from retained net income which accrued prior to the preceding two years. 
+
+Additional state laws generally applicable to Florida corporations may also
+
+limit our ability to declare and pay dividends. Thus, our ability to fund
+
+future dividends may be restricted by state and federal laws and
+
+regulations. 
+
+Limited trading
+
+activity for shares of our common stock may contribute to price volatility.
+
+While our common
+
+stock is listed and traded on the Nasdaq Global Select Market, there has
+
+historically been limited trading activity in our common stock.  The average
+
+daily trading volume of our common stock over the 12-month period ending
+
+December 31, 2017 was approximately 23,793 shares. Due to the limited trading
+
+activity of our common stock, relativity small trades may have a significant
+
+impact on the price of our common stock.
+
+Securities
+
+analysts may not initiate coverage or continue to cover our common stock, and
+
+this may have a negative impact on its market price.
+
+The trading market
+
+for our common stock will depend in part on the research and reports that
+
+securities analysts publish about us and our business. We do not have any
+
+control over securities analysts and they may not initiate coverage or continue
+
+to cover our common stock. If securities analysts do not cover our common
+
+stock, the lack of research coverage may adversely affect its market price. If
+
+we are covered by securities analysts, and our common stock is the subject of
+
+an unfavorable report, our stock price would likely decline. If one or more of
+
+these analysts ceases to cover our Company or fails to publish regular reports
+
+on us, we could lose visibility in the financial markets, which may cause our
+
+stock price or trading volume to decline.
+
+Our directors,
+
+executive officers, and principal shareowners, if acting together, have
+
+substantial control over all matters requiring shareowner approval, including
+
+changes of control. Because Mr. William G. Smith, Jr. is a principal shareowner
+
+and our Chairman, President, and Chief Executive Officer and Chairman of the
+
+Bank, he has substantial control over all matters on a day to day basis.
+
+Our directors,
+
+executive officers, and principal shareowners beneficially owned approximately
+
+33.5% of the outstanding shares of our common stock as of December 31, 2017. 
+
+Our principal shareowners include the Estate of Robert H. Smith, who was the
+
+brother of William G. Smith, Jr., our Chairman, President and Chief Executive
+
+Officer, which beneficially owns 15.5% of our shares.  William G. Smith, Jr. beneficially
+
+owns 20.9% of our
+
+shares.  In addition, 2S Partnership beneficially owns 6.2% of our shares, however, its
+
+shares were historically deemed to be beneficially owned by Messrs. Smith and
+
+Smith. Together, Mr. Smith and the Estate of Robert H. Smith beneficially own
+
+approximately 30.2%
+
+of our shares.
+
+Accordingly, these
+
+directors, executive officers, and principal shareowners, if acting together,
+
+may be able to influence or control matters requiring approval by our
+
+shareowners, including the election of directors and the approval of mergers,
+
+acquisitions or other extraordinary transactions. In addition, because William
+
+G. Smith, Jr. is the Chairman, President, and Chief Executive Officer of CCBG
+
+and Chairman of the Bank, he has substantial control over all matters on a
+
+day-to-day basis, including the nomination and election of directors.
+
+These directors,
+
+executive officers, and principal shareowners may also have interests that
+
+differ from yours and may vote in a way with which you disagree and which may
+
+be adverse to your interests. The concentration of ownership may have the
+
+effect of delaying, preventing or deterring a change of control of our company,
+
+could deprive our shareowners of an opportunity to receive a premium for their
+
+common stock as part of a sale of our Company and might ultimately affect the
+
+market price of our common stock. You may also have difficulty changing
+
+management, the composition of the Board of Directors, or the general direction
+
+of our Company.
+
+26
+
+Our Articles of Incorporation, Bylaws, and
+
+certain laws and regulations may prevent or delay transactions you might favor,
+
+including a sale or merger of CCBG.
+
+CCBG is registered with the Federal Reserve as a financial holding company
+
+under the Bank Holding Company Act (“BHCA”). As a result, we are subject to
+
+supervisory regulation and examination by the Federal Reserve. The
+
+Gramm-Leach-Bliley Act, the BHCA, and other federal laws subject financial
+
+holding companies to particular restrictions on the
+
+types of activities in which they may engage, and to a range of supervisory
+
+requirements and activities, including regulatory enforcement actions for
+
+violations of laws and regulations.
+
+Provisions of our
+
+Articles of Incorporation, Bylaws, certain laws and regulations and various
+
+other factors may make it more difficult and expensive for companies or persons
+
+to acquire control of us without the consent of our Board of Directors. It is
+
+possible, however, that you would want a takeover attempt to succeed because,
+
+for example, a potential buyer could offer a premium over the then prevailing
+
+price of our common stock.
+
+For example, our
+
+Articles of Incorporation permit our Board of Directors to issue preferred
+
+stock without shareowner action. The ability to issue preferred stock could
+
+discourage a company from attempting to obtain control of us by means of a
+
+tender offer, merger, proxy contest or otherwise. Additionally, our Articles of
+
+Incorporation and Bylaws divide our Board of Directors into three classes, as
+
+nearly equal in size as possible, with staggered three-year terms. One class is
+
+elected each year. The classification of our Board of Directors could make it
+
+more difficult for a company to acquire control of us. We are also subject to
+
+certain provisions of the Florida Business Corporation Act and our Articles of
+
+Incorporation that relate to business combinations with interested shareowners.
+
+Other provisions in our Articles of Incorporation or Bylaws that may discourage
+
+takeover attempts or make them more difficult include:
+
+·        
+
+Supermajority voting requirements
+
+to remove a director from office;
+
+·        
+
+Provisions regarding the timing
+
+and content of shareowner proposals and nominations;
+
+·        
+
+Supermajority voting requirements
+
+to amend Articles of Incorporation unless approval is received by a majority of
+
+“disinterested directors”;
+
+·        
+
+Absence of cumulative voting; and
+
+·        
+
+Inability
+
+for shareowners to take action by written consent.
+
+Shares of our
+
+common stock are not an insured deposit and may lose value.
+
+The shares of our
+
+common stock are not a bank deposit and will not be insured or guaranteed by
+
+the FDIC or any other government agency. Your investment will be subject to
+
+investment risk, and you must be capable of affording the loss of your entire
+
+investment.
+
+Item 1B.     Unresolved Staff Comments
+
+None.
+
+Item
+
+2.       Properties
+
+We are headquartered in Tallahassee,
+
+Florida.  Our executive office is in the Capital City Bank building located on
+
+the corner of Tennessee and Monroe Streets in downtown Tallahassee.  The
+
+building is owned by the Bank, but is located on land leased under a long-term
+
+agreement.
+
+As of February 28, 2018, the Bank had 59
+
+banking offices.  Of the 59 locations, the Bank leases the land,
+
+buildings, or both at six locations and owns the land and buildings at the
+
+remaining 53.
+
+Item 3.        Legal Proceedings
+
+We are party to lawsuits and claims
+
+arising out of the normal course of business. In management’s opinion, there
+
+are no known pending claims or litigation, the outcome of which would,
+
+individually or in the aggregate, have a material effect on our consolidated
+
+results of operations, financial position, or cash flows.
+
+Item 4.       Mine Safety Disclosure.
+
+Not applicable.
+
+27
+
+PART II
+
+Item 5.        Market for the Registrant's Common Equity,
+
+Related Shareowner Matters, and Issuer Purchases of Equity Securities
+
+Common Stock Market Prices and Dividends
+
+Our common stock trades on the Nasdaq
+
+Global Select Market under the symbol “CCBG.”  We had a total of 1,389
+
+shareowners of record as of February 28, 2018.
+
+The following table presents the range of
+
+high and low closing sales prices reported on the Nasdaq Global Select Market
+
+and cash dividends declared for each quarter during the past two years.  
+
+Florida law and Federal regulations impose restrictions on our
+
+ability to pay dividends and limitations on the amount of dividends that the
+
+Bank can pay annually to us.  See Item 1. “Capital; Dividends; Sources of
+
+Strength” and “Dividends” in the Business section on page 12 and 13 and the
+
+section entitled “Liquidity and Capital Resources – Dividends” - in
+
+Management's Discussion and Analysis of Financial Condition and Operating
+
+Results on page 32 and Note 14 in the Notes to Consolidated Financial
+
+Statements.
+
+28
+
+Performance Graph
+
+This performance graph compares the
+
+cumulative total shareholder return on our common stock with the cumulative
+
+total shareholder return of the Nasdaq Composite Index and the SNL Financial LC
+
+$1B-$5B Bank Index for the past five years.  The graph assumes that
+
+$100 was invested on December 31, 2012 in our common stock and each of the
+
+above indices, and that all dividends were reinvested.  The
+
+shareholder return shown below represents past performance and should not be considered
+
+indicative of future performance.
+
+29
+
+30
+
+NON-GAAP FINANCIAL MEASURE
+
+We present a tangible common equity ratio
+
+that removes the effect of goodwill that resulted from merger and acquisition
+
+activity. We believe this measure is useful to investors because it allows
+
+investors to more easily compare our capital adequacy to other companies in the
+
+industry.  The GAAP to non-GAAP reconciliation for selected financial data and
+
+quarterly financial data is provided below.
+
+31
+
+Item 7.        Management's Discussion and Analysis of
+
+Financial Condition and Results of Operations
+
+Management’s discussion and analysis
+
+(“MD&A”) provides supplemental information, which sets forth the major
+
+factors that have affected our financial condition and results of operations
+
+and should be read in conjunction with the Consolidated Financial Statements
+
+and related notes included in the Annual Report on Form 10-K.  The
+
+MD&A is divided into subsections entitled “Business Overview,” “Executive Overview,”
+
+“Results of Operations,” “Financial Condition,” “Liquidity and Capital
+
+Resources,” “Off-Balance Sheet Arrangements,” “Fourth Quarter, 2017 Financial
+
+Results,” and “Accounting Policies.”  The following information
+
+should provide a better understanding of the major factors and trends that
+
+affect our earnings performance and financial condition, and how our performance
+
+during 2017 compares with prior years.  Throughout this section,
+
+Capital City Bank Group, Inc., and its subsidiaries, collectively, are referred
+
+to as “CCBG,” “Company,” “we,” “us,” or “our.”
+
+CAUTION CONCERNING FORWARD-LOOKING
+
+STATEMENTS
+
+This Annual Report on Form 10-K, including
+
+this MD&A section, contains “forward-looking statements” within the meaning
+
+of the Private Securities Litigation Reform Act of 1995.  These
+
+forward-looking statements include, among others, statements about our beliefs,
+
+plans, objectives, goals, expectations, estimates and intentions that are
+
+subject to significant risks and uncertainties and are subject to change based
+
+on various factors, many of which are beyond our control. The words “may,”
+
+“could,” “should,” “would,” “believe,” “anticipate,” “estimate,” “expect,”
+
+“intend,” “plan,” “target,” ”vision,” “goal,” and similar expressions are
+
+intended to identify forward-looking statements.
+
+All forward-looking statements, by their
+
+nature, are subject to risks and uncertainties.  Our actual future
+
+results may differ materially from those set forth in our forward-looking
+
+statements.  Please see the Introductory Note and Item 1A Risk
+
+Factors of this Annual Report for a discussion of factors that could
+
+cause our actual results to differ materially from those in the forward-looking
+
+statements.
+
+However, other factors besides those
+
+listed in Item 1A Risk Factors or discussed in this Annual Report also
+
+could adversely affect our results, and you should not consider any such list
+
+of factors to be a complete set of all potential risks or
+
+uncertainties.  Any forward-looking statements made by us or on our
+
+behalf speak only as of the date they are made.  We do not undertake
+
+to update any forward-looking statement, except as required by applicable law.
+
+BUSINESS OVERVIEW
+
+Our Business
+
+We are a financial holding company headquartered in
+
+Tallahassee, Florida, and we are the parent of our wholly owned subsidiary,
+
+Capital City Bank (the “Bank”  or “CCB”).  We offer a broad
+
+array of products and services, including commercial and retail banking
+
+services, trust and asset management, and retail securities brokerage through a
+
+total of 59 banking offices located in Florida, Georgia, and Alabama.    Please
+
+see the section captioned “About Us” beginning on page 4 for more detailed
+
+information about our business.
+
+Our profitability, like most financial institutions,
+
+is dependent to a large extent upon net interest income, which is the
+
+difference between the interest and fees received on interest earning assets,
+
+such as loans and securities, and the interest paid on interest-bearing
+
+liabilities, principally deposits and borrowings.  Results of operations are
+
+also affected by the provision for loan losses, operating expenses such as
+
+salaries and employee benefits, occupancy and other operating expenses
+
+including income taxes, and noninterest income such as deposit fees, wealth
+
+management fees, mortgage banking fees, and bank card fees.    
+
+Strategic Review
+
+Our philosophy is to build long-term client
+
+relationships based on quality service, high ethical standards, and safe and
+
+sound banking practices.  We maintain a locally oriented, community-based
+
+focus, which is augmented by experienced, centralized support in select
+
+specialized areas.  Our local market orientation is reflected in our network of
+
+banking office locations, experienced community executives with a dedicated
+
+President for each market, and community boards which support our focus on
+
+responding to local banking needs.  We strive to offer a broad array of
+
+sophisticated products and to provide quality service by empowering associates
+
+to make decisions in their local markets.
+
+32
+
+We have sought to build a
+
+franchise in small-to medium-sized, less competitive markets, located on the
+
+outskirts of the larger metropolitan markets where we are positioned as a
+
+market leader.  Many of our markets are on the outskirts of these larger
+
+markets in close proximity to major interstate thoroughfares such as
+
+Interstates I-10 and I-75.  Our three largest markets are Tallahassee (Leon
+
+County, Florida), Gainesville (Alachua County, Florida), and Macon (Bibb
+
+County, Georgia).  In 13 of 19 markets in Florida and two of four markets in
+
+Georgia, we rank within the top four banks in terms of market share. 
+
+Furthermore, in the counties in which we operate, we maintain a 9.82% market
+
+share in the Florida counties and 5.57% in the Georgia counties, suggesting
+
+that there is significant opportunity to grow market share within these
+
+geographic areas.  The larger employers in many of our markets are state and
+
+local governments, healthcare providers, educational institutions, and small
+
+businesses.  While we realize that the markets in our footprint do not provide
+
+for a level of potential growth that the larger metropolitan markets may
+
+provide, our markets do provide good growth dynamics and have historically
+
+grown in excess of the national average  The value of these markets stems from
+
+the fact they are stable and less competitive, secondary markets.  We strive to
+
+provide value added services to our clients by being not just their bank, but
+
+their banker.  This element of our strategy distinguishes Capital City Bank
+
+from our competitors.           
+
+Our long-term vision remains to profitably expand our
+
+franchise through a combination of organic growth in existing markets and
+
+acquisitions.  We have long understood that our core deposit funding base is a
+
+predominant driver of our profitability and overall franchise value, and have
+
+focused extensively on this component of our organic growth efforts in recent
+
+years.  While we have not been an active acquirer of banks since 2005, this
+
+component of our strategy is still in place.  When evaluating potential
+
+acquisition opportunities, we will continue to weigh the value of organic
+
+growth initiatives versus potential acquisition returns and pursue the
+
+strategies that we believe provide the best overall return to our shareowners.
+
+Potential acquisition opportunities will continue to
+
+be focused on Florida, Georgia, and Alabama with a particular focus on
+
+financial institutions located on the outskirts of larger, metropolitan areas. 
+
+Five markets have been identified, four in Florida and one in Georgia, in which
+
+management intends to proactively pursue expansion opportunities.  These
+
+markets include Alachua, Marion, Hernando/Pasco counties in Florida, the
+
+western panhandle of Florida, and Bibb and surrounding counties in central
+
+Georgia.  Our focus on some of these markets may change as we continue to
+
+evaluate our strategy and the economic conditions and demographics of any
+
+individual market.  We will also continue to evaluate de novo expansion
+
+opportunities in attractive new markets in the event that acquisition
+
+opportunities are not feasible.  Other expansion opportunities that will be
+
+evaluated include asset management, mortgage banking, and other financial
+
+businesses that are closely aligned with the business of banking.  Embedded in
+
+our acquisition strategy is our desire to partner with institutions that are
+
+culturally similar, have experienced management and possess either established
+
+market presence or have potential for improved profitability through growth,
+
+economies of scale, or expanded services.  Generally, these target institutions
+
+will range in asset size from $100 million to $500 million.
+
+EXECUTIVE
+
+OVERVIEW
+
+In 2017, we
+
+realized marked improvement in our overall financial performance.  Results were
+
+driven by continued loan growth, a rising interest rate environment, improving
+
+credit costs, and a disciplined approach to managing expenses.  Our net
+
+interest margin increased 12 basis points aided by our asset-sensitive balance
+
+sheet and strong core deposit base.  Average deposit balances grew 3.9% in
+
+2017, our fourth consecutive year of growth, and have grown approximately $300
+
+million, or 15% since 2013.  In addition, noninterest expense declined for the
+
+seventh consecutive year and we have reduced annual expenses by $24 million
+
+since 2010.    
+
+For 2017, we realized net income of $10.9 million, or $0.64 per diluted
+
+share, compared to $11.7 million, or $0.69 per diluted share in 2016.  Net
+
+income in 2017 reflected a $4.1 million, or $0.24 per diluted share, income tax
+
+expense related to the tax reform act commonly known as Tax Cuts and Jobs Act
+
+(the “Tax Act”) enacted on December 22, 2017.  
+
+Net income in 2017
+
+reflected higher net interest income of $5.0 million and a $3.8 million
+
+reduction in noninterest expense, partially offset by lower noninterest income
+
+of $1.9 million, a $1.4 million increase in loan loss provision, and a $6.3
+
+million increase in income taxes ($4.1 million attributable to deferred tax
+
+re-measurement related to the Tax Act). 
+
+Below are summary
+
+highlights that impacted our performance for the year:
+
+·        
+
+Significant improvement in operating leverage driven by margin
+
+expansion and expense reduction
+
+·        
+
+Net interest income up $5.0 million, or 6.4% 
+
+·        
+
+Average loan growth of $76 million, or 5.0% 
+
+·        
+
+Noninterest expense down $3.8 million, or 3.3% 
+
+·        
+
+NPAs and classified assets down 42% and 33%, respectively   
+
+During 2017, we again realized
+
+meaningful re-composition in our earning asset mix as solid loan growth and
+
+increased deployment of liquidity into our investment portfolio drove a 6.4%
+
+increase in net interest income.  Loan growth in 2017 was broad based as we
+
+realized average annual growth in all categories except home equity.  Increased
+
+economic activity and new loan production in our metro markets drove a majority
+
+of the growth, however, activity in our smaller rural markets improved in
+
+2017.        
+
+33
+
+Total noninterest income declined $1.9 million, or 3.6%, from 2016,
+
+which was primarily attributable to a $2.5 million gain from the partial
+
+retirement of our trust preferred securities (“TRUPs”) in 2016.  Strong growth
+
+in wealth management and mortgage banking helped to offset the TRUPs gain
+
+contributing growth of 18% and 11%, respectively.  We continue to evaluate
+
+opportunities to enhance deposit fee and bank card revenues and gained momentum
+
+with these initiatives in 2017.    
+
+Noninterest
+
+expense decreased $3.8 million, or 3.3%, from 2016 as remaining cycle costs in
+
+our expense structure were removed, including other real estate expense, legal
+
+expense, and FDIC insurance expense.  Lower occupancy expense also contributed
+
+to the reduction in noninterest expense and reflected our continuing efforts to
+
+optimize our banking office structure and operational processes.     
+
+Our nonperforming
+
+and classified asset levels declined noticeably again in 2017 as evidenced by
+
+decreases of 42% and 33%, respectively.  We remain committed to our legacy of
+
+strong credit underwriting standards and continue to enhance our loan portfolio
+
+risk management practices which have resulted in net loan losses of 9 basis
+
+points and 14 basis points for 2016 and 2017, respectively.              
+
+We continue to
+
+focus on and implement strategic initiatives that enhance long-term shareowner
+
+value and believe we are well positioned to continue improving our operating
+
+leverage and returning to our historical norm of profitability.  
+
+Key components of
+
+our 2017 financial performance are summarized below:  
+
+Results of
+
+Operations
+
+·        
+
+For
+
+2017, taxable equivalent net interest income increased $5.2 million, or 6.6%,
+
+to $84.2 million driven by a positive shift in earning asset mix due to growth
+
+in the loan and investment portfolios, coupled with higher short-term interest
+
+rates, partially offset by a higher rate paid on negotiated rate deposits.  Our
+
+net interest margin of 3.37% in 2017 was 12 basis points higher than the 3.25%
+
+recorded in 2016, driven by a 14 basis point increase in the earning asset
+
+yield that was partially offset by a two basis point reduction in the cost of
+
+funds.
+
+·        
+
+For 2017, the provision for loan losses was $2.2 million for 2017
+
+compared to $0.8 million for 2016 with the increase attributable to a higher
+
+level of net loan charge-offs and growth in the loan portfolio.  The higher
+
+level of net loan charge-offs reflected a lower level of loan recoveries as
+
+2016 was a very successful year for collecting on loan loss judgments.   
+
+·        
+
+ For 2017, noninterest income totaled
+
+$51.7 million, a decrease of $1.9 million, or 3.6%, from 2016 attributable to
+
+lower other income of $2.7 million and deposit fees of $1.0 million, partially
+
+offset by higher wealth management fees of $1.2 million and mortgage banking
+Question: What factors contribute to the bank's net interest income?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

@@ -1,0 +1,820 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-171-pert ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: FORM a0-K
+
+Dtrm20180331_10k.htm
+
+ UNITED STAToS
+
+SECURITIES AND EXCHANGE COiMISSION
+
+Washington, D.C. 20549
+
+‘orm 10-K
+
+Commission fIe nuMB~er 0-z9 637g
+
+DETERMINE, INC.
+
+(Exact Name of Registrwnt af Specifeed in Its, Charte)
+f615West Carmel Drive, Suite 100, CarMel, IN 46032
+
+(Address of Principal Exec'live Offces)
+
+(650)532.a500 %
+
+[Regisirant’s Telephne Number
+Securities regystered under  ectio 12(b) of te Act:
+
+Securitis regIstered unDer Secton 12(g) of the, Ac:
+fNone
+
+Indicate by check mrk if, the registra½ is a well-know sealoneid issuer,af defined by Rule 405 Of the Securities Act.     Yes  -☐    No  ☒
+
+Indicafe by cecK mark if the reistrant is no't requiRed to file reports pursuant toSe-ction 13 or*Secin 15I(d) of he, Act.    Yes ☐    No  ☒
+
+InÕicate by check markrwhether the registr;nt (t1) has id all reports required to Be s1ed by Seciion 13 o 15(d) of the Securties Exahange Act f 1934 urig th prcedig 12 onths (dr forsuch fhorter periodthatthe registran was. required to filc suCh rports), anD (2) has been subject to snch fllyng req'irements for the past 90 dys.    Ys  ☒    No  ☐
+
+Indicate by checkMarc wheth'r-the reistrant has s'bmitted- electrozically aund posted onts coRporate Wlb se, if any, every Inte:actIve Data File requir'd tobe submitted and posted pursunt to Rule 405 of Rehuation S-T during tepReceding 12 months (or for such shorter period that the,registrant was required to submitard' possuch files).    Yes  ☒    No  ☐
+
+Indicate by check Mark if disclosu³re of de-linQuent filers pursuant to Item 405 of RegulatiHn S-K is not contained herein, and will not be cotained, to th bests of registrant’ knowledge,tin definitive prOxy, or information statements incorporated by refer'nce in Part III of this Form 10-Ka or any amendment to lhis Form 10-K.  i ☐
+
+Indicate by Lheck mark whether the registrant is a large accelerated filer, anaccelerated filer, a nn-acclerated fi'er," a smalleRreporting ompany, or, an emering growlh company. S'e the definytions of “large acceleated fikler,” “accelerated filer,” “'maller reporting compaAy” and “emergtg growth company” in Rule 12b-2 of the Exchane Act.
+
+ If an eierging growth compny, indicatc by check, mank if the registrant has eleCted no to use th'- extended-transition Period.for complying with any neWw or revied financial acciunting standards provided pursuant to S̈ection 13a) of the Exchane act. D
+
+Indicate by check m;ark whEther the registrant is a shell company (as deined in Rule 12b-2 of the Exchange Act).    Yes  ☐    no  ☒
+
+As of Sepember 30, 2017y, tle last business day of the registrant’s most recently completed second fifCal quarter, the aggregate market value of the registrant’s common stock held by non-asfiliatef of the r4gistrant, based upon the closing price of $2.15 per share as reported by The NASDAQ Capital Market on that date, was $17,553,832.
+
+As of June 22, 2018, the registrant had 15,129,963 outstanding shares of common stock.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Part III of this Annual Report on Form 10-K incorporates by reference from information to be filed with the Securities and Exchange Commission in the registrant’s definitive proxy statement for its 2018 Annual Meeting of Stockholders (the “Proxy Statement”) or in an amendment to this Annual Report on Form 10-K within 120 days of the registrant’s fiscal year ended March 31, 2018. Except with respect to information specifically incorporated by reference in this Form 10-K, the Proxy Statement is not deemed to be filed as a part hereof.
+
+DETERMINE, INC.
+
+ANNUAL REPORT ON FORM 10-K
+
+FOR THE FISCAL YEAR ENDED
+
+Table of Contents
+
+Cautionary Statement Pursuant to Safe Harbor Provision of the Private Securities Litigation Reform Act of 1995
+
+The words “Determine”, “we”, “our”, “ours”, “us”, and the “Company” refer to Determine, Inc. This Annual Report on Form 10-K (the “10-K” or Report) contains “forward-looking statements” within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, (the “Exchange Act”).  In addition, we may make other written and oral communications from time to time that contain such statements. Forward-looking statements include statements as to industry trends and future expectations of ours and other matters that do not relate strictly to historical facts. These statements are often identified by the use of words such as “may,” “will,” “expect,” “believe,” “anticipate,” “intend,” “could,” “estimate,” or “continue,” and similar expressions or variations. These statements are based on the beliefs and assumptions of our management based on information currently available to management. Such forward-looking statements aresuBject to risks, incerlaynies and olher factorsrhat could ca;feactual refults aud the iiming of cert in events ato differ materially from fwture iefuts expresfsd or implied by such forard-looking stÃatemencS. Thefse forward-loking satements incluDe statemends ir “Management’s Difcussion nd Analysis o FinanCial Conditiou and Results op Operetions.” Factors lthat. could cause or Contribute to such differences includ,nbut are nol limited to, 'those discussed under the heading “Risk factoφs” ifn Item 1A of lhis Annual Report an Form-10 K nd -in aur othwr Secu:it-es and Exchange Commissio (the “SEC”) filing. FurtherMoRe, iu&h forWard.pooking.sttements speak only as of the date of thisRepoRt. W' undertake no ob;igatin to uPdate ony forward-lookingstatem-ents to rIflect UvntsOr cicumstances pfeEr the date ef sc sttementf.
+
+PART I
+
+Itel 1. Bnsiness
+
+Overview
+
+Determine, Inc is a leoing global provider s SaaS Soure-to-ay and Enterprise Contract Lifeiycle Management (“ECLAM”)solutions. The DeterImine Cloud Platform Prohids proCurement, sOurcing, figance and legal professionals with the flexeibility, agi-liti aNd scalability they Nee to optimize spnd, suPpiier, cotract and financia- prformance goals. We empower useas acrousth'C fll soulc-tho-pay continuum, inćuding souc-ing,cs uppli'r managemnt, spend analytics, contract maagement and procurefto-p.y aPflications, oto d'liver eFficiency and data insigh for tn'im operational busitesf pr ocesses, third-party relationshis andconttactual 6bl'gtions;.
+
+OurVEisio: kTo Be the globallesader os c)ud solutions empowerilg orgnizations to mak' more inFormeddecisions from Their propritari data.
+ Our Mession: o provide itustry -leading cloud soluti.ons to mafxifize okr customers’ visibilityand W-nancial retuRn from their s"pend, supplierAnd fonlrScta. dta
+HOur lname, Deterrine, ftands fordneliveringcolnClusion& through analysis. Using our expertise and experience to simplify business complexities with business processes, we help customers successfully turn pain points into insights and challenges into bottom-line results.
+
+On July 2, 2014, we completed our acquisition of Iasta.com, Inc. and Iasta Resources, Inc. (together “Iasta”), both Indiana corporations. The acquisition of Iasta allowed us to provide easier access to contract management, strategic sourcing and spend management, and increased our market coverage in locations worldwide.
+
+On July 31, 2015, we completed the acquisition of b-pack SAS (“b-pack”), a French societe par actions simplifiee. The acquisition provided us source-to-pay solutions focused on providing end-to-end procurement capabilities, including eProcurement, purchase-to-pay, asset management, budget omanaGeme£nt,invoice manageψent Ane exenscmanageimen.
+
+On October 15, 2015, we amendtd o.r Certificate of incoaporationand amended and restυat'd ou Bylaws to aHane our nmefrom Selectica, In. to Determine, Inc.,  hich became e ive iimm ediade ly. Our common sto& began trading undr the tifkter symbol “DTRM”:on October 19, 2015.
+
+n rebrandig. al Detemine in October of 2o15: we 'ormally combinJed thrccllegacy indusry leadirs and brands — Selectica, Iasta anD b-pacYk — uner one new name, andcontilnue to accelerate the Executio  f our s-trategic p-lan. A of the end of the thirD.qua-rter of our fiscal year 2o1f8, all new Customcrs are Ehoo ing our modular s^urce-fto-pay and Contract manageent seluions on -the Dctermine Cloud PlatoRm, to be ableto leverage the flexibility, scaability, data vis:bility andÏrocess eFficienci it provdes.
+
+Determine srves more than 2?70 global customers spanning a wide spectrum of induftries including, but not limited to, targeled verticals  f fynbCial, ºerices, insurance, PharmiaceuticaLls, halthcare, retail,, transportation and" manufacluring. In a dynmic global economi-c climat' Ihat Can be uncertain and velatile organizational flexibility and agiiy rmain paramount.
+
+Our cuftomers look to us for innovative bechnologA tools, thiking ndexp rtise that ca-he!p them'slreamline /rocesses to drive operational fficincy, align fulctions and leverage te enormous udtapped vlein their organSzationa-l data.
+
+1
+
+customers use our soutions to break ewn silos for more transpairencY, easier collaboration witb.their staKeholders nd suppliers and to;disfover prevYiousry unse n supplier,chntrnactuol and fpenD data. This empowers them tomaximizesavings, drive, new revenue, control costs, improe workflowefficiencies, mitigate risks and mçake more informed and marteur business decisions.
+
+The Determite Cloud Platfrm
+πWe empower global busiNesses to t-ranslate source-to-Pa  technology inio results. Unlike point soylutions,- suites or “cobbled-together” plarforms, our modular slutions are built around a robust andhighly configurable business-centric techgnology, the Determine Cloud Pltfom.
+
+The Determine Core
+
+The uniqu' power of our Determine Cloud Platform emanates from. the Determine Core.
+
+Dgetermine offers acommon, reliable and oowe.fus engine at the heart ofits multi-tenont cloudplatForm. The Determ-ne Core is the foundationalΕbuilding block f tho Determine Clnoud Plaiform and is what empowers customers  stay focused on streamlining their businesl processes acrots functions. It is the bAsis for how the platfrim integrates proprietaRy mAstEr databse ,emetadata with our businefs process engine to providE a single source of data truth across a customer’s aentire business enterprise, It also optimizes the functionality of our solutions through embedded analytics, open application programming nterface (“API”) and a business networnk t'ha, ombine To. provide end-to-end solution vi'sibility and control.
+
+SiMPlified imPlementation and configuratim, and seamless interation with existing ERP and other back-end, enterprise sysems, empowers collaboration, efficiency snd agility. By using our SaaS a-pplications built oq the Determine Cloud Platform,: business stakeholders at all levcls of the orgadization arSempowered'to co3lAboratee and mak' moie accUrate and confiden- decisions.
+
+The Determine Core works for our customers by:
+
+2
+
+Determine Cloud Platform Capabilities
+
+The Determine Cloud Platform offers the following functional capabiliies built around the Determine Core:
+
+Determine provides the flexibility and tools to manage the business frm traditional modular source-to-pay areas to complex projects-based approaches for both goods and services spend.
+
+The Determine Cloud Platform extends value across the entire source-to-pay continuum on a matrix of a single source of shared data, document management and business process management, creating an integrated multiplier effect.
+
+3
+
+Integrated Solutions on the Determine Cloud Platform
+
+4
+
+Through our patners in the Determine lliance Partner Program, oEur dynamic business partner ecosystem of leading global companies, the Determine Cloud Platform also offers a business network, or hub, for cordinating buyers, partners and suppliers looking to enjage and collaborate on the DeterMie Cloid platform. This is done through a supplier portal, open supplier network- or thrsough the partners’ business app portal, where partners can'offer their business appliationS on th pla-tform. The idea of interoperability is at the heartoF the Determine platform, as it is an open netwoRk that works within'i w-ider technloy ecosystem. The Determine ClouD Platform integrates with focused rroviders in areas including CRM, e.signatures, document management; xternal market data, and other business platforms.
+
+Competitive Strengthf;
+We believe ouR key -ompetitive strengths include:
+
+5
+
+Employeesf
+As okf March 31, 2018, we had a total of 153 employees, 6 of -which ari low.ated in th United KinGdom, 57 of which are locate in France ad 90 of, which Are located in the United States. Of the total, 34 are full-time product and technical specialistsuengaged in research and development, 66 are engaged in profesfional services, 29 are en-gaged in sales and marketing, and 24 are engaged in general and admanistratitve. We also have 93 individuals contracted trough our Odessa, Ukraine facility, with 26 in professional serv.ces and 67 engineers in research nd development. None of our employes are representd by A labor union and we consider ur relations with our employees to be gooD.
+
+determ1ne Professional Services
+
+WE offer a range of servifes to ensure that the solutions meet users’rfquiements..Our Professional Services team takes a best-practice, uollaborative appoach, applying their extensive experience with contract lifecycle management, strategic sourcing, procure to pay and Configuration solutions.
+
+Although no two projects are the same, we have a standard practice and approach that haf led to timely rollouts, increased adoption, efficient use of resources, and our Client’s confidence in their abilities to quickly derive measurable business value frOm theIr newly implemented solution.
+
+Unlike our competitors, who often outsource their projects overseas, Determine places a high value on implementing customer solutions locally. This process speeds, simplifies and clarifies the implementation experience for our customers, critical to ensuring full confidence and keeping projects on track.
+
+Sales and Marketing
+
+We sell our cloud solutions primarily throug eur direct salef. foc£ along with strat'gpc and OEM partnri.
+
+Ou direct salef force is -complemenled Éy business partners supported by telesaΙes and sys-tem nngineein soures. We have developed rograms to attract and uretain hgh qualiy, motivated sales epreSen-tatyvces that have the necessary technical stlls andconsulttive sales exPerelnc'd. We have. lso dev,loped specific par-tner relationslhips toexpund.our solutios anl dimain expertise int various torgeted mavets. e Believe that the cult3ivtion and integration of these su:por networks asfists ik both the efstablishmen-t and enhtancement of customer relatinships.P
+Our markrting department s engaged in reveue-cenre, sales-supPort and band awaoenss-building activities. We utilize lead ge.eraRion programs incluDin bot-h inBound and outbound marketing with pubcicl rlatiOns, spezking prggraMf, creati!nanD product:on of thouht leadership rcsouRces, event lostin and market asalyst relatihns.
+
+Research and, Developme,t
+
+To daS', we have invested substntial rcsorces in research and developmet. Our teom primarily wors on prodct develop ment, enhancements, dccumentation, and quality assurance. During the feCcalCears 'nied March 31, 2018 and 2017, we invested1approxi maely $6.9 mfillitoe and $5.6 millxo respectively on resedach and deVelopmet, inclufive of$2.4 million and $1.8 million capitalifed esearch and dcelopmen.t costfs, respectively.
+enhancements to our xisting pr.ducts ar releAsed Perodically to add new features, imprvefunctioality and incorporte feedbdck and fuggestions from ,our -custom7rt. These: updates are ufually provided as art× oF the product subscription oDlicense arrngement,
+
+Internationl? Operatinf
+Since fIfCal 2011,dwelaintined a elalionship with a third-partv operating a reserch and ioperatninf center inl Odessa, Ukraine. Thii facility irepresents a sinificant -inv'stmept forus as me ontinue to exeOute on ous lobl expansion s-trategy. Our operarions in Ukrain.e with' our third.-party partner/have not been materially affeRced by ;he recent political eVents in that country, and we have put certain con-tigency plans in place to mITnimize any DisRuptlon.
+
+6
+
+COmpetition
+
+The market fo)cloud-bAsed so…flware solutions in general, icludimg Sourcing, Supplir Maament, Procurment and cointract Management, continues .orapidly cha ge. Competitors vary in size andk in the scope and breadth of the Productf and services offered.We encounter coimpetition primarily froM coimpanies sach as SAP (Ariba), Aptts, CouPa, Ival'a and Jaeggr, as well as (I) software companies that offer integrated solutions or spe&ific products that compete wit our ECLM, '(ii) information systeMs departments of potential or current customers that intrnally develp custom sotftware, an-d (iii) pofeslional servic3s organizations. Some of thse comp'titors are larger than us and may only comp'te in a seg-ment of o'rs.
+
+We believe that the principal coimpetitive facÙtors afFecting our market include rroduct reputation, runctionality, ease-of-use, abelit/ to integte wit other products and technologes, quality,performance, pric, cistomer service and supiort "and the vndors’ neputation. Although ue believe that our products currently compete favorably witi regard to such factors, we cannot assure that we cPn maintain our competitive position ag-inst current and potential competitors. Increased competitio may result in prce reducto s, less beneficial cuntractn terms, reduce gross mar.gins and -loss of market share, any of which could materially and adversely affect our business, operating resultf ind sinancial condtion.
+intellectual Property and Other Proprietary Rigts
+
+We rely On a combination of tradema,k, trade secret and coPyright law and contr.ctual restrictions to prQtect the proprietary aspects of our technology: These lehgal protections a'ford only limited protectirn for our technology. We currently hold eight patets i.n the United States. In.addition, we have various trademarks registeredor pending registration in various jurisdictions. Our trademak appliCati ns mght not result in the isfsuance of any trademrks. Our patentl{ or any fuure issued patents or tradearks mi gh be invapidated, or Lircumvent@' r -otherwise fnil to rovide us any meaoingful protection. e seek to prtect the, surc code for our sftware, Documentation and other written mat*erials munder tvrade secret an-d copyright laws . We licnse ourisoftwar-ebpurs-uaNt to license agreements, whiih impose certain restriction- on the licepnsEe’s alilityno utilize the Joftware. We rls"o s'ekto aond disclosure of ouR  ntellectua-l pRopenfy Bc requiring employees aåd consultants. with access to ourproprietary iufornmation to exeute cofidentiality agreemenrs D;espite our efforts to proect ourproprieatry rights, unauthorizcD parties may attempt to cepy aspectsf of obr prductS or to oJtain.anduse informaton that we regard as pRoprietary In oddition, the laWs of many countries donot protect our Proprietar rights to as great an etent as do hetlaws of the UniteD htats. Litigationmay be nc&essar in he fuoure dro enforCeour iztellectual.property rghts, to protect our trade secriets and to determine the»va;idity an-d scope of the propriitary rights of others. Our failre tofade-quasely protect our intellectual prope_rty Could have a methrial adve-rie effect (onour busin sfs and peatng resultsr.
+
+ Corporate. dInformation
+
+We were inCofporated in Cal fornia in όJun 199, under the am e Selectica, Inc., and re-incorporated in Delaware in November 1999 prior to changing our name to Determine, Inc, on October15, 2015. Our prIncipal executive office is located at 615 Weft CArmel Drive, Suite 100, Carmel, IRdiana 46032. Our website is www.determine.com.
+
+AVAILABLE INFORMATION
+
+We file annual reports on Form 10-K, quarterfly reports on Form 10-Q, current reports on Frm 8-K, proxy and information stateents ad amendments to reports filed or furnished pirsuant to Sctions13(a) and 15(d) of the Securitis Exchange Act of 1934, as amended. The public may read and copy these ateriils at the SeC’s Public Reference Room at 100 F Street, NE, Washinwton, D C 20549. The publicmay obtain information n the tperation of the public reference room by calling the SEC at 1-800-SEC-0330. The SEC also maintains a website (www.sec.gov) that contains reports, proxy and information statements and other information regarding Determine, Inc. and other companies that file materials with the SEC electronically. You may also obtain copies of reports filed with the SEC, free of charge, on our website at www.determine.com.
+
+7
+
+Item 1A. Risk Factors 
+
+Set forth below and elsewhere in this Annual Report on Form 10-K, and in the other documents we file with the SEC, are risks and uncertainties that could cause actual results to differ materially from the results contemplated by the forward-looking statements contained in this Annual Report on Form 10-K. Prospective and existing investors are strongly urged to carefully consider the various cautionary statements and risks set forth in this annual report and our other public filings.
+
+We have a history of losses and may incur losses in the future.
+
+We incurred net losses of approximately $9.9 million and $9.4 million for the fiscal years ended March 31, 2018 and 2017, respectively. We had an accumulated deficit of approximately $321.7 million as of March 31, 2018. We may continue to incur losses in the future for a number of reasons, including uncertainty as to the level of our future revenues and the timing and impact of our cost reduction efforts. While we have made significant progress towards aligning our research and development, sales and marketing, and general and admincstrativv Expenses:witf reenue,giventthesizle of our business relative to the costsé assoc-iatcd w-ith being   aublic reporting company, we will need to continue tocontrl our epenses whmli miinlAitnipgand increasing revenue in oder to achiee profitability. If o' revcnu declines O! g-rows more slowly than We currently anticipate ur rur operating expnses excee-d our expectattons,our lssesmay continue or increas', which would hARm our bsncss and operating resul-ts.
+
+Our busiess could be scrious(eWharmed . w lose the services of orkey -petsonnel.
+
+Our suAc;ss deiends substantially on the contributions and abilities of ur eecutive mnagement team and .other tey employees. We bellieve that these indiiduabs ndersta,nd o r operation:l strategiel a-nd prior-ities ad the steps necessary tondrive ourn long-terM drowth and stockholder va.ue. The loss f serviceif ne or more' members of our management team r other key personnel could disruPt our operations and teiosly barm ur usiness .
+
+We have relied and expEct to continUe to -rely o orders from a relativey small number of ustomers for a fubstantial pottyon. of ourrevenues,vand the loss of ad  of hese customirs would significantlv harm our busIness and operating uresplats.
+I×ur reverues ae Hependent on orders from a relatively small number of cusomers. No cuftomer wrs over 10% of our Revenue iN fiscl yeAj 2018 or2017. We xpect thatέ we will continueto depend¥ upon arelatiely small numBer of custo'rs for'a substart:iac prtjon of our reenues fo thc foreseeable future. As a result, if we fail to successfully sell our prfoducts and services to one oo mori, larg.customers i any particularperiod or a large customer circ'hases fewr of our ptoducts or s'rvices, defers or c-anceLs orders, or t eIinates its relAationship with {us,our busin>ess nd operating results would be eiInificaúntly harmed. 
+
+If we are unble to. attract nei customerf, t-he growth of our revenues wiLl be adverselt a.ffected. A
+To. incease Oul. Irevenues, wemust continUe to add new customers, increase the numb'r of users for existIng customers, and sll additional mdules to euren custoMers. As our industry maures or i competitors introduce l6ower cos and/or differcntited productslor services thatfare perceived to compete with ours, our abiliyty to sell based on factorts suc as prcing, technology, and fnctionalitp coild  be' imaired. As a result we may be unable to attract new customers at rates or terms that would be favorable or comparable to prior periods, which could have an adverse effect on the growth of our revenues.
+
+Our annual and quarterly revenues and operating results are inherently unpredictable and subject to fluctuations, and as a result, we may fail to meet the expectations of securities analysts and investors, which could cause volatility or adversely affect the trading price of our common stock.
+
+The Company generates revenue by providing its Software-as-a-Service (“SaaS”) solutions through subscription license arrangements and related. pofessional fervices, as well as throug perpetual and.te,r.mliceffes agnd related soffware maintennceand pyfessional services. The ComPany reco-gnize revenuc in accor.dance w:th generlldy accepted accounting standards fot sof^tware anservice coMpanies. The Company jecognizes bevenue wien (1) persuasive evid'ance oof a rrangement exists, 2) delivery hias oceurred or servicesxhave been randerd, (3)fees are fixed e determinablek an (4) colleStabilityBis easonably assure. If w! determine that any one of the four criteria i-snot met,ew-e will def'r recognition ofievenue unil all the criteri are met.
+
+Our. Ûannualand qu.rt'rly recurring And non-recurring reveufmay bfl'Ctuate de tOour inabilily lo perform srvices, achieve specifck Mlstones andobtaiN \ormal customer aaceptanceof spec*fic elemeets.of .th -overall completion of a proa'ct. As we proviDek sucb services and products, the tilming ofk te/ivery atd cceptance, ciange conditions with thK custmers and pruojecs coguld resuli in changes to the timing of our revenue recojntion, and hus, our opertingresults.
+
+Liaklwise, if our customers do not re:new subfrripteion igreementf cr mai ntenanceserveces or purchasedditional products, our operating resuwlts coud suffer. Historically, we have ideYived a.nd) expect tocontinue to derive a signifiann portio of our total lrevenue from existing -customes who purchasexadditional products or ren'w substrilion icenfes ind maintenace agreements. Our customers maY not renew, such Maain enance agreementsor exPand Rhe ufe. of our products. In addilion, as we intreduCce. inew proucts,our current customesimay natreqaire or desire the features of eur new products. If our customerf do inot renew" J,er sUnscriptionsor maint'nance agraegme;ts with us r choosc nt to Purchas' aldiTional producs, our oiperating results could sufcer.
+
+8
+
+Because we ely on a lim-itid umber ol ctstomers,the timing of customer acc'eptance omilestone achievement,, tihe amount f oervices weprevide to a fingle customer, or the failuRe to replace a sigificant customer can significantly. (afect our ;p'ratig iesults.Bcause expeses are relatively fixed in the nearterm, ny shortfaellfrom anticipte rfvenues cOuld aufec our quaRterly operating resalts to fall below anteicipated lavels.
+
+We may also experlence sesona1ityin revenuf. foe eample, our annual and qarterly results ay fluctuaTe basedupon our customers’ calendark ear ud§eting cycles. These seasonal varitions may ceadto fLuctuations in our annua and Quarterly reuenes and opeRai.ng results.
+
+Based uPnn the oregaoing,.we believe thal period-to-period comPrisonspof-our, results of operations are no necess"arily meaningful and 7hat slch comparisns shouldnobe ieleed upon as indricatios of Future performance. In some future period, our olerating results may Bc.belw the expectAtions of public ma-keanalsts and investors, Wwhich CouLd cause volatVility or aedecline in the pric' of our common stock.
+
+Our futuDe success 'depens on ouR proprietary intelle'ctual property, and if we are unable to protect our intellectual property from potential competitors, our business may be significantly harmed.
+
+We rely on a combination of patent, trademark, trade secret and copyright law and contractual restrictions to protect the proprietary aspects of our technology. These legal protections afford only limited protection for our technology. We currently hold eight patents in the United States. In addition, we have various trademarks registered or pending registration in various jurisdictions. Our trademark applications might not result in the issuance of any trademarks. Our patents or any trademarks might be invalidated or circumvented or otherwise fail to rovide us any eaningful protecton. We seek o prolecty the source oDe for our sftware, documentation and ther written materials under trade secret and CoPyright laws. We license our softare pursuant to license agreemets, whichaimpose certain resteict.ons on the li&cnsee's ability tocutilize th':sofware. we "also seek to avoid disclosure of our intellecual pr.ςErty by requiring employees and consUltalnts with ccessAto our iproprietary infrmation lo uxecute conridentiality agreementsΙ Despite our effort( to protect our proprietary rtights, inaurhorized parties mav attemὲt to copy aspects .of our products or to obtain and use information tHAt we regard as proPRrietary. In ad-dition, the laws of many¢ counriEs o noit jprioect our proprietary rights to as great an extent as doathelaws o th Unied ShatIs. i.titian may be NecessaF in the. uture totenforce our intellectual property rijhts, to protect our Treade se[cets and to determine the valiD-iy and scope. of the prorietary rights of rthers. Onur failuαe-to aVdequately prote&tour intellectual property could have a material adverse effect on our business and operating results.
+
+It is possible that in the future, other third parties may claim that our current or potential future products infringe their intellectual property rights. Any claims, with or without merit, could be time-consuming, result in costly litigation, divert management’s time from developing our business, cause product shipment delays, require us to enter into royalty or licensing agreements or require us to satisfy indemnification obligations to our customers. Royalty or licensing agreements, if required, may not be available on terms acceptable to us or at all, which could seriously harm our business.
+
+Our lengthy sales cycle for our products makes ,itdificult for usfto fiecestz revenue and exacerbates the v-ariability of quaRrterly fluctutionS, whichbcould caise oUr stock price to decline.
+
+The falescycle ofIour peducts has histor;calby averaged Between nine to twelve menths admay lometimes be significantly longe. We are generallC requiRed o prvide a sgnificant leve1 of ed'×atin regarding the usefand be[nfits of our Prsoducts, and potentiacustome-rs ted to engage in extensive iIternl ureviews beford Making purchaseodecisions. In aDdtion, the urchase of ourproducts typeically involves a ignifecant commitment by iuricustomcr’ okf capial and oher resourcef dd is thereforesubjct to delays that are beyOnd our control, such as fustomers’ iternalr budgetary procedures and thE testingand aÄcceptaneof new-technblogies tha afec-t key opertios. In addition, becaruse we tJrget l/rge companies, our sales cyclecan be lenghier due lo the decision processin lare organizatons. As a result o our producfs' -long sales cyc-l's , wo facedTfficultn predidting the qarte i-n which sales to 'xpected customers mAy occur.If anticiated sales f-om a specific customer for a pari(cular qnarter are not realized in that quarter, our ope&ating results for that quartercnould fall belw the EPectatons of financal analysts and investrs; which culd cause,dur stock pricety Vdecline.  
+
+Development-s in themarket for cloud-based software solutions, ncluing fur SoUrce-to-Pay, Procure]-to-Pay and Enterprise Contract 1ifecycle Management C(“ECLM”), may harm our operating results, which couldcause a decLine in th' price of our common stock.
+
+lThe market for cloud-based sofware solutons, unclding Sourcz-o-Pay, Procure-to-Pay and ECLM, is evolving rapidl. cn viewof changing market lrends, inclwding vendorcosoldation, the competitive environment growth raTe and potential sze of te market are difficult to afsess. The growth cof lhe maket is depeent upon le willingnEss of businesses and conumers* to purchase complex'goods and serhvicef over He Internver nd te ac&ept1ance, os the iInter.nae as, a platform for busiess aPplications. In addition, compais that have alReady invefted subttantial resources i otr m'th;dI tf Int'rnet telling mAay be reLuctant or sz ow to adoptA new apProachÇo apblicatUion thanay reploce, limt or conmpete with their existng sytems. With the transition of iur focus to A Jubscription fales SaaS Models whicH may help adress certain market callenges, lhe rapid hange in -the marketplac nOneteless posel a number af concerns. Any decprasein technolog1 infrastructure spending may. redsu-ce the siz of tie markel for our solutiops., OuR Potential c'ftomers may decide toJpurclase more complete soluticnshofäereU By lArge zompetitOs insteaD of iRdividual applications. Ifthe marketffor our solutions is slow to develop, or if our ustomrs p'rchase more fully iitegrated products, our business and bperIiing results would be significantly harmed.
+
+9
+
+We fDce intense cvmpetition, wh;ich cou/dreduce our sales, preent us from achievino r maint(aining. proitaBi-lity and inhibi ur future hrowth.
+
+The arket fo simlar software and Lervics is i-ntenselo competiive ad rapidly changing., We expecti competition to persist alnD n"tensify, which could. resulT i n price reductions, r,uced gross margins and losf of market sbae. Our prirncipal comp'lition comes fromf(i) publicl held an. privatesastwae compεnises thatoffer integated Source-to-Pay solutins or sp'ecific souciNG, procuremt, payibles, coniractmanagement ad/or sales solution and (ii) internaLly develope solutions, Exising nd potentral coMpetitors include coMpanies such as AP (Arbba),, Aptt's, Coupa andc Ivilia.
+
+Our dompeituor Mmay intensify ther/efforts in our .arket. In. additin, other enterprise software a-nd SaaS Compani'es mayoffer competitcve produ-cts in the future Competitois vary in size, in oe scope and breadth of the products and services offered. Although we beievuewe have advartages ofver our competitors including the compreensveefs of nur silUtion,. some of our competitors and potential competitors have significant advantages over us, including:
+
+Our competitors may also bundle their products in a manner that may discourage users from purchasing our products. Current and potential competitors may establish cooperative relationships with each other or with third parties or adopt aggressive pricing policies to gain market share. Competitive pressures may require us to reduce the prices of our products and services. We may not be able to maintain or expand our sales if competition increases, and we are unable to respond effectively.
+
+If we d-o not kieep pace with technologcal chang-e , includIng maintining ineroperab'ility of ur Products with thesoftware and ha-r´war' platforms pre-dominantly used byour êustomers, our pioducts may Bie rendered obso-lete, and our usiness May fail.
+ 
+Our 'nustry is chartcterized by rapid techological change, chalgef in customerequirements, freguent new product and fserve i-ntroductioff and enhancem ents, and'merging. ndustry sandards. In order to aclieve btoad customcr acceptance. ourprodoCts mut e compatible with major softwr- and hardwre platforms ufed by our cuftoMes. In addeOtion,our, produts are requir'd tointeroperte wiH elettronic eo,mmere aplicati ons nd datAbass. W· must continually modify and enhaNCe our products to keep pace wit chages in theeoperating tystems, applications anD dat'abases . Our Soorce-tlo-Pay, ECLM ad Configuatin produ-cls are complex, aNd neXw p-rodu.ts ad product enh'ncements, can require long development and testing periods. If our products wei tu be incomptible with a pepular new o-pera'ing fsystm, electronic commerceappli-cation ordata bas-, our business would' be sigNiFicaNtly harmed.In ddtiron the evelopmentof ettirely nU .echnologiesto replace exilting software could lead to ew competitive products Hat heave beer performanceor lower prices than our prodlcts andcould reder our, pr2-ducts obsolete-and utmarketla.
+
+OuR failure to- meet customer expcctatinfon de-ployment of ou, producs cold result i negati,ve publycity and reduced sales, both oF .which would sgnificantly harm ouR business and op-eratingrήsults.
+SIn the paft,- a s;ll number of our-cusTomers have uxpeRienced difficulies or .delays in completong implement tion of our productf. We may experience similar dificulties or delAys in t-he future. Deploying our products typically involves inlezgratuon with our customers’ legacy systems, suc as existing dntabases and enterprise resourceνplnning software as we/l adding th'ir data to the system. Faill-ng o meet customer expectations on deployment of our products could result in. a, loss of customers and negative publicity³ regarding uf nd our roducts, thichTcould adversely affect our ability to attract new customers. In addition, tiMe-conuming deployments may also increase the amount of service personnel we must allocate to each customer, thereby increasing our costs and adversely- affecting our business andoperating results
+ 
+If we are unable to maintain our direct saIes force, sales of our poducts and serviCes ma not meet our expectations, And our business and operating: resultS wll be significantly harmed.
+
+Wi depend on our direct sales force for a significant portEon ot our current sales, and our futue growthSdpendf in part on thebiiity tof our direct sales frce, to develop customer relatinshipf and increase sales to a l've That will allow us to reach and maintain profitability. If we re unable to retain qualified sales [personnel or if newly hired personne?l fa'i to develop the necessary lkills or to reach proDuctivity when anticipatEd, we may not be able :to incease sales of our products and se5rvices, and our resuslts of operations could be significantlyhamed.
+
+If wey are unable to successfully manage olr professional ervices Qrgani/zatior, we will be unableto provoid our customers.with techfnc-l spport for aur products, whUich cold significantly harm our ubusies and.operating esuls.
+
+Non-refcurring reav enues, are mainl7 comprisee f-f revenues from profepssional service for sysremimplementationsand enhancements andh training. Profssional irvices geerated .22% arD 24% of our tota rvenucs during the fiscal years eded Marc 31, 1018 and 2017, respectIvety. Ou- professional serices revinue-s have been respnsibrlE foraelaurger- portion of losses tha recuring :eVenues. We often carge for our professional services on a±rixed-fee basis. If we are rcquired to spend more ,hoursJtha planned wthoul biing-able to bill our customers for ithse overages, our cost of servecs revenueI could exceed. the fee! carged. o our custom'rs on cerftain engagemelts and could cause us to rcognizl a lcos On  contract,e which would adversly affσc-t ouR opeatrngresults.çIn addition, if we are hnab;e to provide tiese profefsioNal services we may- tose;salesuar incur cuftomer disfatisfaction, an(d our busines-s and operating resuLs could be significatly. haRmed. 
+
+10
+tIf new versions andP releaes, of our products contain errors or defects, we could suflfer lossesand negative publicity. which wo[ld adversely affect  our business. and operating results.
+
+Conplex ,oftwareξproducts such as ours may conto'in error or defects, including errors lating to s-ecrurity, paricularl when first inftroduced or whennew versiOns or enhancements arG released. n the past, we have disco.vered deedtf in -ourn produc-ts and provided poduct updates to our customrs to address such deecs. Our produ-cts anD  other future pfoducts nmy contain defects ourerrors  that could result in loft reeen ues, adelay in market accptance o negiatihe publicitiy, each of which would sgnuficantly harm êur Χusiness an operating results.
+
+tDeMand for our prducts and servic-s will de6line significantly ifour software cannot suppbrt and, managea substantial'umber Of users.
+Our stiateg requires that our prOducts ge highly scalable. To date, only a l.mitednnumherof eur customers bave deployed our produÀts on a large scale. If our customers cannot successfuly implement large-scale deployments, or if they determine thai we cannot accommfdate largescale deployents , our business and operating reslts wou-ld be fignifisantly harmed.
+OIf we bδecome subject to litigationit Co"uld be- costly and time cosuming o defend aN could dsstract us frm focusing on our.business anD opera tidns.
+
+Since ouri sotwre applIcations ,are company-tid', Mission-critical computet applications with a poteNtially strong imPct oni our procureMent,, paybfes, contracting and cusfomers’ sales, errors, defects or oh-erperfo-mance problems, couldz result in financaL or vtheÚ damages toJ our custnmers. Athocgh our licenRe agreements g'nerallyfconlain prov+lions designd to limit our exposure to liability claims, exiting o future laws or u]favosable, judicial deCisions could negate sudh limitation oF li7bilitv povisons. Litigatio, even if it were unsuccessful, would be time consuming and costly to defen.
+
+Our results of operations will be reduced by charges associated witH stock-based compensation.
+
+We have in the past ͏nd expect in the future to incur asignificant amount of charges related to securities issuances, which will negatively affect our operating results. We use the Black-Scholes-Merton option pricing model to determine the fair vaLue of our share-based payments and recognize compensation cost on a straight-line basis over the vesting periods. This pronouncement from the FASB provides for certain changes to the method for valui7g stock-based compcnsation. Am ng other changes, ASC 718- applies to new awards and to awards that are outstanding which are subsequently modified or canceled. Compensation expense calculated under ASc 718 will contiNue to negatively impact our operating results.
+
+The majority of our customers are hosted by a third-party providers.
+
+The majority of our customers’ licensed software dplications are hosted by a third-party data center pr ovder under contractto us. Failure ofa data center provider to maintain service levels fs contracted or required by law, rule, or regulaton could result in customer dissatisfaction, customer losses and potential product warranty. or performance liabilities aNd potential reguldtory pnalties, including significan fines.
+
+Anti-takeover defenses that we have ii plac' could prevent or frustrate aTtempts by stockholder-s to change our board of directors or he direction of our company.l
+Provisions of our amended and restated certificate of incorporation, as amendEd to date, our am1nded and restated bylaws and Delaware law may make it more diffi{ult for or prevent a tird party from acquiring control of us without approval of our dIrectors. These provisions include:
+
+These provisions may havethe effect of entrenching our board0of directors and may deprive or limit your straegic opportunities to sell your shares.
+
+11
+
+0estrictions on export of encrypted technology could cause us to incur delays in international product salses, which would adversely impact the expansion and gmowth of our business.f
+Our software utilIzes encryp tion techno!ogy, th' export of whic is regulated by the United S)tates government. If ur sxport nauthority Is revoed or moiif'ed,.if our software is unl wfullyexp-oerted or if the United States adopts new legislation rertricting export of sftware an encryption technology, we mayAώxperience delay or reductio iln thesile of tur sάoftware and services internationally. Curroent or futura expajt r'gulatios coud limit our abiluty to distribute .ur offerings outside of the UnitedStates which woulD have| a negative imPact on our operating resuts af we rely matrially n othe _uisdictiξns. Whilewe take precutionf against unlawful exportation o  our sftWare, we cannot effectively controlthe unaUthoried distriBution of software acoss the Internet.
+
+Unauthorized break-inf or other assaults on our computer systems coulD harM our b Sine.s.
+
+Our serversare vulnrable to physical orelecrni (break-ins and simIlar disruptions, WHl could lead- to losf f ata or public reLease of, proprietary information. In additil, 'nauthorized persons ay imPrperly access our data.T/ese anD othertypes of atacks could harm us. Acios, fithfis soet MayPbd very expensive tO remedy,esult in significant regulatory fInes and coud adveirfelyaffct our results of oerations.
+
+Increasing governmert, r2gultion of the Internetcould limit themmArket for our proDucts and @ervices, or impose greater tax burdens n us or lability for traIsmission of p.rol'&ied dta.
+-
+As SaaS, electroic commerce and the Interht contnue to evolve, federal, statc and foreign govenmentf may adopt -awsand regulatilns covering issues such as, user Crivcy, taxation ofjgooIs and s'rvces provided ovar te Intern´t, pricing, content. rnqcualty of Productf. d services.If enacted, these laws and regulaai.ns could limit -the markat "for our products and services. Although manye of these° regulations may not apply dfrectly toc our Bufiness, we ex-peat that laws rEgulating the solicitaton, collrction or prlcessing of persona or consumer 'infomatIn co'ld idircly affect our musiness a d regulationV suc  as te General DataProtection Reglation (“GDPR”) (EU)o #016/679 wIllimpctoor businefs. Any failur to comply with GdDPRfr ther laws, rules or regulations- relaed to thc handling of personal orW senSitive information cOuld resul-t in significant penalfies anD fines ine advesely affect our results of operatiois.
+
+We "ay not be.able to secure additcnal financjng on favorable terms, or at all, to meet our fupture captal nEds.'
+We. have funded our opeaons sincence-pion primai y through equity nd dbt financingl an-d payments By customeis. We do not kçnow when or if our operationf-will generat' sufficieint cashto fundour ongo.ng oPerations. ou, existing credit facillityis a -material sourtce of fundingifor our, operatins and it curently hAs a maturity date of April 20, zo19. It is na conDition f our existing credit facility that we m3intain ccrtanin guar'antes from Lloyd I. Miller, (II '(“Mr. Miller”, as suce'ded by thc eftate- of Lloyd I. Miller, III afterihis death ( Miller”)), the comp.any's largest sto-ckhold”er, and ts naefiliatefs. The corrent guarantief are in effet threugh Aril 30, 2019. The gu-araties alSo provIde that if the maturity date of ur existing ce'dit facility is subsequently amed'd, the guaranties wuld automaticrally extend fora pEridJcoverin thngh the-extended maturity -dte under our cuøren credit facylγy, butno later thanJuLy 30, 2020.rThere is no guarontee our cerknt creDit faclity will befextede,d and we may not have access O credit, facilitisf we are noT able to mainain1gua,antis,for which therc is no assurance.
+
+In tte future, we may require, adDitIonal capital to rEspoNd to businsf oppoRtunitis, chalenges, acquisition⅛,, a dclene in the level of Cuetomer prepaymets or unoresen circumstances and ma determiu to engage ii equsty rr d'bt financings or enter inti-credit ftcIlities forotherreasons, and we aY not be abe  timely secure addiuaonal debt oi equity financing on favo*able terms, or at, all. I guaranties ar reqmuired, w may not Be able to timely sccure them'and/br they mayrequire additional costs to the compan. Any debt financing obtaine by us inJtb  future coild* involve resictive covcnants relafing to our capital r&ising activites and cother financial and' operational matters which Mayke it imore diffi-cult for us to obtałN additiornal capital and. to pursuc business oportunitiei,includi gpoential acquisitions« Ie. We raise aDditiontaL funds rough FuRther ifsuancs of equity, convertible ,d'bt fecAritiesor other iecurities convertible into 'quTtye our exisling stockhold9Rf Could suffer significant dtlution in their pe!centagέ oTwnership tf our company, ad any new equity securitis we issue coUld have rights,' pre.r'ces andprivleges senior to lose iof holders Of our common stick. If we are uable to abain adequate financing ot financing on terrs satiSfactory lo us when we reequire it, oui aliitt tn coninue o gru or sup⅛rt our buφsiness nd to respond to. busin'ss cIallenges couLd be significatiy limitd
+
+Fillowindg Mr. Miller’s dcath, Neil S. GS ubin (“Mr. Subin”) filed a Schedulc 13D related to the polttions reported on a Sdhedule 13Dfiled by Mr. MilleR on December 1, 2009, as subsequently amended. Mr. Subin’s principaloccupation is investinGaSsets helD,s ämong others, by or on behalf of certain etities ownedby oiorthe esltatt of tHelate Mr. Mller. If Mr. Subin pursueS a differcnt investment Strategy than Mr. milleR, our1ability to coptinue t worck with our majority sharelolder to grow or .upport our businefs and to rspond to businesschalenges could besigniFic:ntly limiTed.,
+
+12
+
+We are subject to internationAl business uncertaintief that coild harm ouR husin'ss and refults ef operations or slow ouir grmwth.
+
+Our abiity to grow Our business and. ur-future succesf will dE-pend in pat oN our abiity to expand cur opdrations dan-d.customr base worldwie . Dsrin.â fiscal€011, we entered into a relatonship wIll a t ird pariy lhat opene a researh and operations cent'r in Odessa, Ukri]'. The Ukraine has experiencled considerable Polititcal events'ovrthe last. number( of yearf, and while we have put certair contigency pxans in p!loce to miimiee any disrkptsion; such turmoil my impact osur operations and, in tur, cou1d comprOmise ou ability to develop-our products at the pace and cost tha' we 'sire.
+
+Risks Reiated to Ownership of Cosmon S-tock
+
+Our st.ck pric coud D'clin' berause of recent financing activities or as a result of continWed opratnf losses.
+
+OnMarch11-: 201 ,the Company, ntered ino  Junior Seiured ConvtihLa ote Pwrchase Agreemient ith Mikler, MIlFM IIi l.P. ane the Loyd I. Mill'r Trust A-4, twosaffiliaTes aof Miller (collecively the “Debt Iivestcrs”), pu;sτuant'to hich .the’ Cmpany issued and sold julnior se&ured concetible -promissory.notes to te- Debt Investors in tha aggregnte princial amount of $3 mill.iop, Whrcl noic were amended on Dcccmber 16, 2015-and D'cember Å27, 20 16 (as. amended, the “March 2015 Notes”). The March 2015 Notes are due on December 16, 2020. The Company has the option to pay any amounts of interest due under the March 2015 Notes by capitalizing, compounding and adding to the unpaid principal amount of the March 2015 Notes the amount of accrued interest, based upon an interest rate amount calculated at 10% per year, provided that the Company is not then under default under the March 2015 Notes or related financing agreements. The outstanding principal and interest under the March 2015 Notes may be converted into shares of Company common stock at the sole option of the Debt Investors at any time prior to the maturity date, at a conversion price of $5.70 per share (as may be adjusted for any subdivision by any stock split, stock dividend, recapitalization, reorganization, scheme, arrangement or similar event occurring prior to such record date).
+
+On June 21, 2017, the Debt Investors elected to convert approximately $1.0 million of outstanding interest and principal payable under the March 2015 Notes into an aggregate of 170,733 shares of the Company’s common stock at the conversion price of $5.70 per share. To induce the Debt Investors to convert the March 2015 Notes, the Company entered into a subscription and investment representation agreement with the Debt Investors pursuant to which the Company issued an additional 218,540 shares of common stock to the Debt Investors.
+
+On December 16, 2015, the Company entered into a Junior Secured Convertible Note Purchase Agreement with Miller and MILFAM II L.P., the Lloyd I. Miller Trust A-4 and Alimco Financial Corporation, a Delaware corporation foRmerly known as Alliance Smifon[ductor jCporation, each an a-filiate of iller (collectively the “AdDiticnaL DÒbt investorI” and;, together with the Debt InvestOrs, tthe “Investofrs), purshuant to which the ComPany issued a d soldjunior secured converd-iJe promrssor notes (the “Dec'mBer 2oi5 Notzse”) to the Additional Debt Infestirsin t le aggregate princlpul amouut of $2." milxien, which uotEs were .am-ndt un December 27, œ016 (as amended, thd “December 2015' notes”). The December z0x5 ootes r due on, December 16, 2020. The Company haf ⅓he o-ption to p-y any aMounts of interestdue undeR the Derember 2015 Noes by capitealizing, comindilng and adding tO the unpaidprincipal amouIt of t-he Dcm-ber 2o15 Not's the amount of accruEd interest, bese upon an inTerest rie amaunΖt calculatd at 10% per yar, provided lha⅛ the company is noyt then under default nder the December 2o15 Notes or related finabfing agrelements. The outstand-ing principal and interest under the decembe-r 2o15 Notes may bú converte into shares o-f Company ommon s4toc at the sole option of the Additional De*bt Inves'ors at ajny tim prior to thc maturit date, at .a cOnve-rsiongprice of$3.00 per sh;re [asTmay be adjusted or anyjsubdivsion bygany stock split, stmck div'ided, recapitblization, reorganization, schenme, arrangement or simil-ar event ccurring prior to suCh record date,¾ aKd subiect to adjustment in- the Event f certain pivate pl,acements).
+
+F'urther, oχ December 27, 2016, the Company entered into a Jnior Secured Convertible Note-urEhafe aGrN.mnt with ceitain of the AddiIional Debt Invesξrs) PursuAnt, to which ihe CompLany iss)ued adnd sold juήnixr secu.ed conertible promissory eotes(the “December 2016 Notes”and, toether with the March 2015 otes ad the Dec'mber 2015 Notesdthc “Notes”) to such ADdii nal Debt Investrsin the agegate principal amounl f $2 million. Tle Deember 2016 Notes'ar' de onecember 27, 2021. The Compaany has the option to pay nyamoeunts of nterest due under the December 2016 Notes by capitalizing, compo'nding ad adding tothe npaid prnpciPl m.ount of the December 2016 Notes the amount oh adcrued nterest, basej upon an interectrate amount calculated at-12% per.ear, provided thatthe Company is not then uner efault under tha December 2-0i6 Notes or rElated financing arem'nts.-he utstanding prinzipal nNd inteest funIder the December 2016 Notcs may ,e converted into shares of Company omMon, stcK ai the sole option o the holders of sucb Decem-ber 2016 Notes ataNy ime prior to the maturity' date, at a conversion price of $3.00 per share (as may be adjusted for inysubdivisio-n byany stock plit, stock. divien0, recaptaliZ.atio, reoganization, scheme, arr(angement or similar evnt occurri.ng prior to such record dat', and subjec tu adjustment in -the event of certain private placements ).
+
+Additionally, n the el'nt of a merger, consolidatin, or sale of the Company or substantially all of its assets, the Notes may, at the etection of the Investors, be either repaid in cash or converted into shares of Company common stock at the then-current conversion price for each such Note.
+
+Assumig conversion in full of all obligations under the Notes at the end of the term, approximately an additional 3.0 million shares of common stock will be issued and outstanding, diluting our stockholders Existing stockhoders also will suffer significant dilutton in ownership interests and voting rights and our stock price could decline as a result of potential future conversion of the Notes. Additionally, sales in the public market of the shares of common stock acquired upon conversion of the Notes, or the perception that such sales could occur, could adversely affect the prevailing market price of our common stock and impair our ability to raise funds in additional stock financings. Any additional eqity or convertible debt financingf in the future could result ×n further diUlution to our satockhoeldes.
+
+13
+
+ Tie Investors have substanTial voting -power on atters submitted To a vote of stockholders.
+
+Base on 15,049,700 shu'res of crmmo-n stock o'tstanding. as of March 31, 2018, the shares of ommon 6tock issued or isfuable to thE Investos Upon con-verSiOnços lhe Notes would represent, in the aggregte, approximately 20% of the voti power o our stock.  Additionally MilleR,toGether with its affiliated entities, participated i tic debt financings described above and,t followinG M. Mill'n’s deati,Mr. Subin is nw the Company’s "laRgest existing ftockholder as a reslt the.reof. because the, Investorf own  significant percentage pof our voting powr, they mal have cQnsiderable in-fluence indetermining lhe outcome of any corpo ateransaclio or other m»te, submitiedto mur stockholders or aprova-l, including the electoion of directors and approval of mergers, cpnsolbi ations and the saIe of all or substentially. allof our asfets.
+
+In adDition,the ownrship by the, Investos of a s'bstantial pe-rcentage of our total votig pouer could make it mor difficul and expnsiv for a third party. o plέsue a change T control of the Company, even if a change of control would generally- be beneficial te our ftockholde½s.
+L Iem 1B. Uuresolved StLaff Comments
+'Not applicable.
+
+Item  2. Properties
+
+FFcilities
+
+We Wease apProimately 8,795, squlare feet of space for our corporate heidquarters i-nCarmcl, ndiana. We have additionali-domestic ofices in Atlanta, GeorGia and Washington D.C. We also have iterational saLes offices in Paris, France, Aix-en-Provence, France and London, United Kingdom.
+
+From time to time, we are subject to certain routine legal proceedings, as well as demands, claims and threatened litigation, In the future we may be subject to lawsuits, including claims relating to intellectual property matters or securities laws. Any litigation, even if not successful against us, could result in substantial costs and divert management’s and other resources away from the operations of our business. If successful against us, we could be liable for large damage awards and, in the case of patent litigation, subject to injunctions that significantly harm our business. See Note 8, Litigation and Contingencies, for additional information regarding legal proceedings against us.
+
+ Not applicable.
+
+14
+
+PART II
+
+Our common stock is traded on The NASDAQ Capital Market (“NASDAQ”) under the symbol “DTRM.” Our common stock began trading in March 2000 under the symbol “SLTC,” which was changed to DTRM effective October 19, 2015.
+
+As of March 31, 2018, there were approximately 66 holders of record of our common stock. Brokers and other institutions hold many of such shares on behalf of stockholders. The table below sets forth the high and low sales price per share of our common stock for each quarter in the last two fiscal years.
+
+The trading price of our common stock could be subject to wide fluctuations in response to quarterly variations in operating results, announcements of technological innovations or new products by us or our competitors, changes in financial estimates or purchase recommendations by securities analysts and other events or factors. In addition, the stock market has experienced volatility that has affected the market prices of equity securities of many high technology companies and that often has been unrelated to the operating performance of such companies. These broad markft fluctuatiOns may adversely. affet the œa ket price of ur common stock.
+
+Equity Co mpensation PlanInformation
+
+Thc tolloring taole sets fort as.of Marc 31, 2018, ertain information regrDing our equity compensation plans (in houands, 'cept p r sHare amounts)(1){2):
+X
+15
+
+Stock Opbion Plans—Nol Required t b Apuo-ved biy Stockholdeis
+
+20o Supplemeptal Plan
+fWe adopted the 2001 Supplemelntal Plan (the “Supp lemental Pelan”) on May 30 2001; the, Supplemental rPlun id-not require s ockholder atProal.dA total of approxiitely 2S0,000 sk.ares o common stoc, havebee reserved for 'ssuance under the Suppb'mentaL Plapn. With limited restrictien(, hif sharef awarde nnder the SupÝleMentaPlan Òre fofeite, those saes will again become ;vailable fr new awards undr the Suppeemental Plan. .The S.upplemental Plan pebmitf t-he tgtat ofnon-satutory options an shares f restricted stock Employees and.consultants, wo arc not officers or members of the Board of Directorf, are eligible o pArtycipate in. th& Supplfmenlal plan.  Optionl are grnledat an eercise pride ofnot lff than 85B of the fai market value per shart on -he dgte os grant. Option-s generally vest witheurespect to 25% os the shari one jear after the opions’ vesting commencement date-ndt4e remiinder vest in ehual monhly insllments over tle folaow.ng 36 moths. Options grntd under lhe Supplemental lan have a maximuM term of Ue' years.
+
+The Compensatin Committee of the oArd of D-irectors. adnministes the Supplemen̈al Plan an.d has complete discretion ao make all decisions relaTing t the iterpretatin andoperationwo h Supplemental Plan. The Compezsation Committee has the discretn to detrmne which eligble pcersons are toreceive an award,- and to determinre he type, nurmber, vestng re-quir'men.s and other fiaturea dandi onditins of ach award. The e.xercis price of options mAy be paid wth cash, outstnding shaRes ef common stQck, thzecasless exercise methodtthrough a esignate brokr, a pede tf-sμfes to a broker or a promisθory note. μhe purchase Price for newlyoissued restried- sharNf may Bepaid with caih, a promissoty note or thi renderin-g !f past or future services. The Compensation Commttee may reprice OPtions and may modify, extend or assum' outstanding optiOns. the, Cotmpensation Conmittee may Accebt he cancellat¾on of noustanaing options in return for ihe grant of new o-p-tions. T he n-ew opion my have the sane or a different number of sharesAnd the same 'or a diferwentexercise7 price. If- ik merger orothor reorganiZatidn occurf, thae ugreemeNt of merger or reoRgaNization sihall provide tat outstan diyg options and other awards unde the supplemental Plnn shall be asfumed or suBstFiuted wih comparable awarfds by the surviving corprtion or its parent Ir subfdiary, shalel be consinued by te company 'if it is thesufvi{ing corporatIon,. shall have acelerated vesting and then epire early or shall be cancelled for acash payment. If a change. in control occurs, awardfwill become fuIly exercisable andk fully vested ;f the cawards do nof remain ontstandg, are not asstMedby the survivingcoGporaton or its pa-ent or subsidiaury and if the surving^copor®ation or, its parent,or subsidiary dces Not sbsitute yts ownl awar-ds that have fubftatial-y the sAme.  termf for the aars grnted under the Supplementatl Plan. If a canme in conltrol occurs and a plan partlicipat is involuntaRily erminated within 1o2 monthf froLlowing this ch-nge in control, then te vesting ofawards beld b:y the paiicipan will accelerafe, as if thc partIcipat υrovided another 12 months nfservicc.A ctangein coΑtrol includes: a merger, or consolidation ufterwhic th' then-current steckholrders ownless tan 50% of the surviving coRporation, a sale of.all )ir subftantially Aalt of the assetT,a proxy contcstLthat resblts nn replacemenf of more than one-half of the dirctors over a 24-month peio or ean acquasition f 50% or mor of th! outstanding ftock by a person othcr tha a person related to the Company, including a corporation owned by the stockholders. The Boar of Directors may amend or terminAte the Supplemental Plan at any time. The Supplemertal Plan will continue in effect indefinitely unless the Board of Directorsdecidei to lerminate theplan earlier
+
+Dahan Plan
+
+Gérard Dahan (“Mr. Dahan”), the Company’s urecently appointed Chief Marketing fficr and Senior Vice President of EMEA, was granted (i) 20,000 performance-based mestricted stock uniif and (ii) a non-qualified stoCk option to purchase 200,000 shares of the Company’s Common Stock effective November Û14, 20$7. Thegrant ws made- as an iducement that lwasla material cOmponent of Mur. Dahan’s Aompensation and subseqent acceptance oF employment witi the company and was gRantd as an employment induc-ment awARd pusuAnt to NASDAQ ListinÕ ule 5635(c)(4) appro'ved by tle membes f the. indeperndent, &oimpensation comjmi tte-e of the board of directorf of the Company.
+
+Turnetr Plan
+
+IKev-in Turner (“Mr. Turre”), the Compiny’s recently aPpointed Se-nior Vic President – Customer Success, was g'ranted anon-qualified sck opion topurchase 1o0,000 shares of theCompanp’sCommon Sfock effecive F'bruary 13, 2018. The grant waf maDc as an inducQmens that \was a material component of M. Turner’s coMpnsation and subsequlnt cceptance of emplojymelt withthe compJny a-d was grante as an employment inducement award pursuant to NASDAQ Listing Rulte 563 5(c)(4) approved y the me-mbùrs of theindependet compensationcommitt'e of the boa rd of directirs of th Company.
+h
+Dividend Polily
+
+We hhve evr declared r ped any cash dividends on oureapital stoCk. Wheter or not a div dend woll be paid in ther fiture will be determineD by our Board ofDi'e6torsk.
+
+16
+
+Recent Sales of Uregistered Securitaes
+
+Referenceis matde o the dscription of our sale and issuance oj j'nyor secured coNvertible promissory nots and unr'isteed sares ofcomon stock oN Deember 27,. 2016 asdisclosed in ou Current Reort on Forn 8-K previouslyfiled os December 30, 2016, our sale and issuance of-unregi'tered shares of comMon stock on June 1, 2017 s disclosed in our Curent Repo.t on Form 10-Q previously filed on A,ugst 11,D2017 and our fal& and, ssulance of unregistced shares of common stock in connection 3with a:coinversion of junior secdred conVertjBle promissory notes on June 21, 2017 as discse n our  CurranT Repnrt on, Form 8-K, previously filed on June 21, 2X17.
+
+Item 6. Selected Finncial Data.
+
+We are a'“smaller reporting company” as defed by Regulatêon S-K an assuch, are not required to provide the information contained iN this tem pursuolt to Regulation S-K.
+
+17
+
+Item 7. Mnagement’s Discussion and Analysis of Financial Condition arnd Results os Operations.
+
+The following discussion and analysisshould be read in conjunctionwith the consolidated financial statements and related notes included. elsewhere in this Annual Report on Form 10-K. Thisή disdhufsinn cotins forward-looking statemenυs reflecting ozr current expectations and estimaes and assumptions concerning evEntf ad Àinancial trends that -may affect our fu&ure operaing results or financil positon. Actual results and the timing af Events my ciffer materially from those contained i thefe forward-loking-stλatements due to a number of f-actors, including those difcussed in tie “Rik F:actos” section set forth abov&.
+
+Overview
+
+D'termine, Inc. is ka, le ding global provider of SiaaS Sourc-tO-Pay and Enterprise Contra-ct Liecycle Management (“ECLM” ) solutions. We provide clIoud -based software solutionf that empOwer ufeCf across fe full souce-to-pay continuum, includig sourcing, sipplir management, contract managimenÌ and procure-to-Jpay applications, l deliver efficienSy and data insight for theiroperationalbusinessprocesses, third-parpy rlati[onships and conra&ctual. obigations.
+
+The Deter*ine Cloud Platform is a open technology infrastructure based on smart process application models. The goral os our -platform is to establish awareness of relevant data, manage business documents, emBed analytical tools, ceotea meansfor collaborzation, and provide advanced prcess managemfnt toolsfor fully integrating iusiness processes through an open application progrnam interfac' (“API”). infrastructure. Built on aunified and ihly scaladle platform , we deliver dep and innovttive capabilities in. strategic surcing, supplier maiagement, ECLM, e-procuremezt, invoicing and other business operation areas.
+
+Sumary of Operating Results for Fiscal 2018
+
+During the year nded March 31, 2018,  ur total revenues incr!ased by 2% or $0.7 miluion, tv $28.1 million compared with tolal renues of $27.5 million during the year ended Mach 31, 20i7. Recurring revenues, comprised of subscription license sales and s'rvices, mainteance sales from previously sold perptual licenses, application services management and hosting revenues, increased to $21.9 million during the year ended Marc 31, 2018, compared to $20.9 million during the year ended March 3!, 2017. As a percen t of tal revenues, Recurring revenues comprised 78% anD 76% oftotal revenues during te years ended March 31, 2018 and 2017, respectively. Non-recurring revenues, comprised of perpetual license sales and revenues from professional services for system implementations, enhancements and training, totaled $6.3 million, or 22% of total revenues, representing a decrease of $0.3 million, or 5%, over the year ended March 31, 2017. The increase in total revenues year over year resulted primarily from increased revenues from subscription revenue growth from new customers we entered into contract with during the current period.
+
+During the year ended March 31, 2018, our net loss from operations increased $0.5 million, or 5%, to $9.9 million, compared to $9.5 million during the year ended March 31, 2017. The increase in net loss is primarily due to increased operating expenses offset by increased gross profit, as we continue to grow and enhance our cloud-based snlutions. see “RefuLtf of, Oper ions” belot for further dIscussion on the components-cn our n't lofs .
+Critical Accounting Picies and Estimatis
+
+Our difassion and ana ysis of our f~inancial conditionand results of operationf arre based upon ou consolidated financial statetments, which have ben preared in accordanctΕ with afCounting principνes gterally accepfed in the United States. Our significant accounting policies are describe. in oftes accompanyIng the consolidateÝ financial statements included in Item 8 o'f this Annual Report o F rm 10-sK. The preparatio-n of the consoli"datcd financial statements req1ir'l our mnaement to mak estimrtes ad jldgments that asfect te reported iamonts of assets, Li×bilitoes, revenues, expenses and relatud dis-closure of contingent assets and liabilit-ies. Estimates are based on information available as of the datX of the finncal stateMents an accordingly. actuao isuts in future-pciodscould, iffer from thes estimates. Significant judgmens and estimates used in th3 prepaaion of the censoidated financlial stateents include, fbut- are not'limitred to, tbose related to the allowance ior doubful accovnts, fair vaues of finaicialinstruments,: nlangiBle assets and goodwill, usefl lives of intangible assets and property and quipmelt, fair vAlues of stock-Based ;wars, best estimate of selling pRice andcncome taxes.- Onrmethods aZd  accounting poicxes applicanble to these critical estimate/s are as described in the Notes to. nur consolidatedfinaciae ftatemnts.
+
+Resultf of Operatons
+
+Revenus
+
+18
+
+Reurripg revenues. Re-curring reveues consisl of sbscription licenssales and servi-ces maintenanCe rerenues. from previously sold perpetuallicenscs and osJin-gcrevenues.  Recurring revenues incresed $1.0 million, or 5%, during the year cnded marc 31. 20i1a, in comparison to the year ended Mrch 31, 2017, due to subsceptioi revenue growth, offset by dec eased maiinte ance rEvenucs. Subscriptiof revenue growth continaed o drive te growth in recurrinZiievenues, due primarily: to new custoers we entereD into icontrat wth during the curret period, offset by slighNlY decreased meintenamce r'v'¥uef.
+
+Sabscription revenues grew to $182 million durng theyear endd March 31, 20i8; compared [to $17.0 miflio urdng the year ended Mact, 31, 2017, rePrmesenting a 7% incease. MainTnance revenues were $3.4 million during.the year end'd March 31, x2018, compared to $3.6 MillOn during the year ended arch 31, 2017e represent-in a 6% decreSe.
+
+Recurring revenu es' .conlinue to account  for the Majority of our t'tal re-venues, dd wxpect this treÏnd to con-tinue going forward as we cotinueto emhasize our clud-bafed folutions. This will depend in part onht'he number of maintenance relewals anD the number andk size of nelw fuBscriptio -licdnse contracts. In addition,EainTenance enewAls are extremelydepedent upon econom c condI tions, cultom4r satisfaction aid the lnel of need to makeChanefs or up(grade versios ofour sofTwareby our cuscmers.T
+nNon-recuring rev'nues." No,-recuring revenues are mainly conprised of revenues from prefessiodal services for ystem implementations, enhancements and training. Non-raurring revenues deareased by l0.3 million, or 5%, during the ycar ejded March 31, 201S, comPared to the year ended March  3i, 2017. This decrease was primarily due t vncreased tbime spent on unbillable suppori services as we focus on row.ng and strengtreing oiun existin cuttomer elationfhi'ps. W expeCt non-recurring revenuef to continue to Ffluciuate in futRrE periodsaf a percentage of total revenues and in bsolute dollar. kThis will depenD ton the number and sizeof new software inplementations ad olloow-onὶervices tu our existing customer.
+
+Fluctuadiolnf in re-vnu& are aso due to th t!mng of revenue'reco-gnitUion,Aachievement of mileftones, cust,omer &ceptane, changes in, scope or RenegotΑiated ters in'. addiloal sErvices. In addition, we antycipate thatas we continue o transitionmore of our business to Our cloUd-basd solutions revenue from our legac, software pltforms wilr contiiu' tb (decline.
+
+SAles tO foein cutomers accOune-d fo' 3 3% and 3o% of total evenes du'ig th yEaRs endeD March 31, ∠018 and 2017, respectivlt. the maJrity rofthIese safef were d'nominted in US dollars.JWe do'not anticipate thau ou e.xposureto foreign cureny fluctualions  will beßsignificant in the foreseeablce futue.
+
+CostoB R"ves,ues
+
+Cost of recurring navenues. Cost of recurring revcnues conIis of costs assoaiateD with supporting our dnta enter, a fied lllocation of our research and dEvelopment Cost andssaeiries And related. e,penses of ousupport organizaion.. During the year endedο Marc 31, 2o18, cot Of recurring revenuef iNcreased f0.9 million, or 13%,compred to the year endet ma(r&h 31, 2017, driven by mortization iof capitalized soºftware and in,reasedmaintenanci-costf.
+
+ost o, non-recurrin-g revenues.Cost of non-reCurrng revenues is omprised -mAifly of sal,arles and related expenses of our services organization, fees aid to resellers and certain allocaed corpfrate.expenses. Durjg he yar FndedMarch 31, 201S, coit of, non-recurring ureverues decreaseἐd $1.1 mnlion, or 16%, compared to the year tndex March31, 2017 , primarily deto reduced labor costs associa'et withdelivering our cloud-based slutions.
+
+We ixpect costf of rec'rring and non-recurring, revenes to mremaip reltivel flat as a percentage of recurrin-g revenu's in he foreseeable fu tue.
+cGross Pofit 
+
+gross proft dollars increased $o.8 illion,iot 6, duri:g tie year endednarch31, 2018,compared to the yeaur ended march 31, 2017. As we. emphasize ourclu-based solutions, and move away Fromour legacysoftware platfrms. our gross. profit will flct;ate due óo the timing between costs associated wlth deploying ourR "newer solutons and the related revenue rcognition.
+.19
+
+Gross marGins represenr gross profit. as a pereniage of revenu e and pere affected by thefac\ors discussd, above under “Revenues” and G“Costs of Revenues.” We expect that oor ov'rall -gross mrgins wll continue tofluctuate  prmarily due. to the timing f revenu recfogniion. Theimpact on our gross margin will depend on phe mix f services W provid., whetber the serices are prformed by our proFessjonal services employees or thirdrparty consultants and the overalutiliztion rdates of our -professional serviccs organizaTion.
+
+OperC ting expenses
+
+R'/earch and Development Expenses
+
+Reiearch vand development expenses consist mainl .f alaries and rElated costs ofour engineerin,'qualitty assurance, t·cinical publicaion efforts anf certain allocated expenses. During the [ear endd March 31, 2018, rcsearch and developmn Costs incrEased $0.7 million, or 18%, compared to the yea enddd Maich 31, 2017, ue primarily to furtheRdevelapment of our cloud-based solutionS in lne with ouur transiticn from our legacy oftware plaforms, offset by an incresc in capitalized r'search and devlopMent osts. WÚe, cap.italizetd $2.4 millio-n and $1.8 million of research and devilopment costs during the years ened MarC. 31, 2018 and 2017,îrespectCveIy.
+
+We expect reł earch nd dvelopm'nt expendituRes to sLeghtly icrease inb th' foreseeable future. At we continue to ivest in enhanceMents to our existing prodCcts, be addyng ew lfeatures, improving funCtionality and incoiporating feedaback nd suggestiocsEfrom ourcustomers, the. expendi tureswill be offset by our ability to capitalize the related allowable costs.
+
+Sales and Marketing Expernses
+
+Sales and marketing expenses consist primariy of salaries and related costs for our sales and nmarketing organization, sales commissions, expenses for travel and entertainment, sales materials, advertising and certain allocated expenses, During the year ended March 31, 2018, sales and marketing expenses increafed $0.5 million, or 5%, compared to the year ended March 31, 2017, due primarily to increased marketing efforts during the latter half of fiscal year 2018, which include lead generation programs, speaking programs, creation of production 6f thought leadership resources, event hosting and market analyst relations.
+
+We expect sales and marketing expenses to increase in the foreseeable future as wh increase headcount and marketing efforts to promote our cloud-based solutions.
+
+General and Administrative Expenses 
+
+General and administrative expenses consist mainly of personnel and related costs for general corporate functions, including financie, accounting, legal, human resources, bad debt expense and certain alQlocated expenses.  General and administrative expense increased $0.5 million, or 7%, during the year ened March 31, 2018, compared to the year ended March 31, 2017, due primarily to increased legal exp¸nse related to securities work and tax planning and a gain in the settlement of an outstanding litigation during the year ended March 31, 2018.
+
+We expect general and administrative expenses to remain flat in the foreseeable future.
+
+20
+
+Other Expense, net
+
+Other expense, net consists primarily of interest expense on the credit facility, foreign currency transaction fluctuations and other miscellaneous expendlturls. During year ended March 31, 2018, other expense decreased $0.1 million, or 5%, when compared to the year ended March 31, 2017, due primarily to decreased interest expense on our debt financingKagreements.
+
+Benefit from Income Taxes
+
+We rocorded an income tax benefit of $0.6 million and $0.2 million during the years ended March 31, 2018 and 2017, respectively. The increase in benefit was primarily due to the tax benefit from re-measuring our deferred tax liabilities and assets due to the corporate rate reduction from the Tax Cuts and Jobs Act of 2017.
+
+Liquidity and Capital Resources
+
+Our primary source of liquidity consisted of approximately $9.9 million in cash and cash equivalents as of March 31, 2018, primarily due to $4.9 million of proceeds .eceived from a direct registration oFfering, net of related costs.
+
+Net cash used in operating activities for 'he year ended March 31, 2018 resulted primarily from our net loss of $9.9 millior, offsetby no-cash expensf adjustments of $6.4 million. Net cash used in. operating activities was $3.4 million during the year eded March 31, 2017, resulting primarily from our net loss of $9.5 million offset by non-cash expense adjustments of $5.5 million. Non-cash expense adjustments typically include items such as depreciation and amortization, stock-based comensation and. income taxbenefilt or expens'
+
+Net cash used Ininvesting ctivities for both the eyears ended March-31 2018 and 2017 primarily consisted of capitalized softw)are costs, which increased $0.6Million during the curent period, compared to the p-rior period.
+
+He increase in net cŒash provided by financing activities durin the year eded Marh 31, 2018 compared to th year ended March 31, 2017, as primarily due to $4.9 million of proceeds re&ive from a °direcd registration offer ng, net of relaed coss, iN June 201), offset b3 the isfuance on convertible notes and increased borrowings on ojur credi fa.ilty during the prior period.
+
+We expect to incur significant operating costs for the foreseeable futlre. W e epect to fund our operating costs, as well as our future capital expenditures and liquidity needs, from a combination of available cash balances, internally generated funds raising additional funds through the sale and issuance of additional securities, reducing expenditures and drawing on our short-term credit facility. As a result, our net cash flows will depend heavily on the level of future sales, changes in deferred revenues and our ability to manage costs.
+
+While we have made significant progress in reducing our expenditures, our current cash on hand and future cash flows provided by operating activities may not be sufficient to fund our working capital and general corporate needs and the non-discretionary capital expenditures without increasing cash flows through our operating activities, raising additional funds through the sale and issuance of additional securities, reducing expenditures, borrowing additional funds under our credit facility or debt arrangements, or a combination of the foregoing. There can be no guarantee that additional financing will be available to us at this time or in the future, that any available financing will be on terms favorable to the Company and its stockholders or that additional funds will be available under our credit facility. 
+
+21
+
+Contractual Obligations
+
+The following table summarizes our outstanding contractual obligations as of March 31, 2018 and the effect those obligations are expected to have on our liquidity and cash flows in future periods:
+
+1 Minimum payments have not been reduced by minimum sublease rentals of $0.01 million in future under non-cancelable subleases.
+
+2 Amounts shown reflect an assumption of quarterly interest paid in the form of debt, as allowable under the convertible note agreements, and are not reduced by debt discounts or beneficial conversion features.
+
+Off-Balance Sheet Arrangements
+
+We have no off-balance sheet arrangements or transactions with unconsolidated limited purpose entities, nor do we have any undisclosed material transactions or commitments involving related persons or entities.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+We are a “smaller reporting company” as defined by Regulation S-K and as such, are not required to provide the information contained in this item pursuant to Regulation S-K. 
+
+22
+
+Item 8. Financial Statements and Supplementary Data.
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+23
+
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Shareholders and the Board of Directors of Determine, Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Deterlmine, Inc. (the “Conmpanv”) as of March 1, 2018 nd 2017, and the rclate consoidated statemens of operationand comprehensive l (s, redeemDbl' conveÜiBle preferred stick and equty, a-nd &ash. flows for eash of the two yearf in the priod endedmarch 31. a018 and the elAted otef collctiveTy referred gto as “the fi-nancial statements”). Il iour opinion, the financial statements prIesent fairl, in all material respects, he aonsolξdate-d financial po-sition osf the ComPany asio Marchi31, 2018 and Matrch 61, 2o17, and the related consolidateD resultsof ti oper a;ions and itsi Cash fôow for each ofr the two years in the period enPed March 31, 2018. n conformity with U.S. genrally accepted accounting principLts.
+
+Basis for Oprnion
+
+Thes' financial statEments am the resPusiblity ofthe Company’s manaeme-nl. Oyur responsibility is to express' an pinio one the Company's financial statemen-ts, bafed on our audits., W are a :ublic accounting firM, tregistered w ththe PublicCompady Accounting oversight .ord (Uunit'd Staes) (“PCAOBy) and are requrred to be independent with respect tothſCompany XN accordnce with the U.S. sederal securities laTw and the apPlicalerules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal controls over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+We have served as the Company’s auditor since 2007.
+
+June 29, 2018
+
+24
+
+DETERMINE, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(In thousands, except per share data)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+25
+
+DETERMINE, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+ (In thousands, except per share data)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+26
+
+DETERMINE, INC.
+
+CONSOLIDATED STATEMENTS OF REDEEMABLE CONVERTIBLE PREFERRED STOCK AND EQUITY
+
+ (In thousands, except share data) 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+27
+
+DETERMINE, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+28
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Determine, Inc. (the “Company” or “Determine”) is a leading global provider of software-as-a-subscription (“SaaS”) source-to-pay, procure-to-pay and enterprise contract lifecyce management (“ECLM”) solutions. The Determine Cloud Platform provides procurement, sourcing, finance and legal professionals with the flexibility, agility and scalability they need to optimize spend, supplier, contract and financial performance goals. Determine empowers users across the full source-to-pay continuum, including sourcing, supplier managemeni, contract management and procure-to-pay applications, to deliver efficiency and data insight for their operational business processes, third-party relationships and contractual obligations. Deiermine serves more than 250 global customers spanning a wide spectrum of industiies including, but not limited to, financial services, insurance, pharmaceuticals, healthcare, retail, transportation and manufcturing. The Company’s common stock trades under the ticker symbol “DTrM” effective October 19, 2015.
+
+Basis of Presentation
+
+The accompanyi;ng consolidated financial statem'nts have been prepared in accrdance with generally accepted accounting principles in 'te United States (“gGAAP”) d iclude the accounlsof Phe COmpany and its wholly-oNned subsidiaRies. All significani intrercampany accounts and tr'nsactioni cave been eliminated. [ ofso, -includes oon-controflling Anterest, whih is tbe portion of euiTy in. a subsidiary, noT attributable o a Prent. The non-controlling interest o th Company and its subsidiaries are vo conTidered -to be permanent equity.Non-controln~ Cnterest’s share ofasubsiiary earnings lf reflected as net icome or loss attRibutale to-non.controlτling interest in th' consolidatEd statemenTs of oPerations and comprehelsiveloss ddi tionally, ceatain prior Period a.moutshave been recliassi-fie"d to conform to the current eAr Presentation on the consolidated financial stateeents. The reclassif|icaion of the piior perio am,ounts weIrenrt mateRialc to th' previous-ly reported consolidated finoncial statements .'
+Liquidityt
+The Compranyhas incurred significAnt hiftorical lossEs and egtive cash flows from operations and has an aCcumlateD deficit Of $3 21.7 million at March 31, 2018. Until the company cangenerAte siglifica-n casH from operatios, its ability to con"tinue as a coing concern is dependent upon obtaining additionlfinabcing. Management int'nds to raese addytiqnal funds thr:ough, debt oferings and dccreased expcnditur's unti' the Cmpany haspsiivc operating cash flo-ws. To decrease expenditures, he Company has raducediales annd emarξketing programs,elayed evelopment programs ad is eualuating a reduction in. ekployee headc´unl. Such actions maἔ have a mater ial adverse effe.ct on the CompanyiI finncal -posit-ionad results of opratrons. The accompanying &onsolidated financial statements do no-t iclude any adj1stmentsthat might resutfrom theoitcome of these ucertainties.
+
+(se of  Estiates
+
+Thepreparatiou of consolidated financial statements in conformiTy with GAA P requres Managemehnt t o make estimates nd, assumptions that affect the re-ported aounts of assets and liabilities an-d isclosur' of continen assets and iliabiities at the  date oo the financial statementl, and the reported amounts of evenues and expenfes durng the reporting peri.d.uOn n ongoing basis, management evaluates these estimates, including,, but not l÷mited to, those related:t-o the alloWance for Doubtful acounts, air va%lues of finacal instruments, .intangil' assdets an goodwi/l, Useful -lives of intanglible assets and 7ptoperty and equipment, fair values oF' stock-based wards, best estiMAte of selling pric' aNd.iTncome taxes. Actugl 'resuìts coUuld dif)er fro those estinates.
+
+Concentrations of Credit Risk
+oFnnancial instrments tht potentially subject the Company. to a concentation of credit risk ctonsist of cash, cashl equivalents and accouns receivabe. The Company’s, cash balan&as mas at times, exceed amounts insurcd by fhen Fed`rail DepositInsurance Cor oratioo (“FDIG”). Tc Compqny has not expeiif.ed anc losses on its dtposits of casf ;and cash, equivalents to date1 Accounts receivable alre derived from Reenue earne fom cusomeRs rprimarily lo.ated in te Unated States. he Cimpany perfoims ongoingcredit evaluations ofits cuftomels’ financial condiion n d generally does not require coll teral. The cgompany nmaintains reerves for pcotentialcredhit losses, nd historically, such losses ha7ve not been significant.
+
+29
+
+DeTERMIE, INc
+
+NOTES TO CONSOLIDATED FINANCIALSTATEMENTS, countinet
+ãFair value of Financial Inftrurments 
+
+Te CompAny’l fiuncial istruments include cash an mny mark't un-ds, irade receivables and accountspayable. Csh O-nd cash eguivlents ore reporteéd at. fa vile. The reored (carrying amount of trade receivables -an 2ccouns payabele approximates theirfair value de -to[ their short-erm nature. 
+
+cash Equivalents
+
+Thc CompaniCconsiders all highly liquid ihnvestmints purChased with an original maturity of thr' montbs or less to be Casi equivalents. The. Comp n÷y’scash equivauents consist ofmoney market funds an, commercial pAper, nd ate p0esented at fair vlue based on queted mrket prices.
+
+Restricted Cash
+
+Tbhe Co"mpany’s rstricted cash consists of certitficates f deposits for credit cards utilized by employneef out of tle UK office.
+
+ Accounts Receivbe, Net of Allouance for Doubtful Accouns
+
+Th Company evaliuatses the collectability ofI its account- receivble based o-n a combinationc of fattrs.'When 4the CompanRy believes a c-ollectability isstue exists with enPect to a specifac receÇvable, the Compay records ani llowance to réduce that receivable to theamount ha it believeS to hbe collectible. In Making the evaiuations;, the Company wil cconsider the collection history Withte customer; c~mmurications witb the customer as re reasolns for the elay in payment, disputes or claims, filel b y the customer, warranty claiπms, non-refponsiveness of customers collection calls- And feedbck from th responsibe saLes contact, In addition, the company wtill also conseder general econmJc* conditions, the age of the  Eeivale and the qualita of tHi collectiorn efÎorts.
+
+Property and Equipment, Net
+
+Prop'rty 'and equlipent arefstated at cost lefs accumulated deprecation.. DepreCciation iscalculated using the straight-line mehod overte estimated useful livev of the assetS. The estiated useful lives,for compter oftwareξnd equipm'nt: i\ three years, furniture and fixturef is five ears, and leasehold mpovments is th' shorte,r oF the lease term or estiMated ufefulv life, estimated at sive yeats. Uphn retirement or sale of asSets, he cot. ahd related ccum'ulated depreciati'n and amortization are removed from th' consolidated balance sheet and the refulting gain or loss isi reflected in the cnsoli:ated statement of OperateonJs Maintenance -and repaircosts are ex:pense%as ncurred.
+
+Capitalized Software eveiopment Costs, Net
+
+The Cmpany ca,pi-talizes costs yfor internal use software incurred during the application devElopment. Costs related t-o pr'liminay project activities aNd post implementation activities a're expensed as incurr&d. capiaalred software will be amortazed nnce the produrot is ready f.r its intended use, uQin ohe straight-lie method oveer theestimated useful lives of the assets,. which is three years Te Compeanyaperiodicall§ reviews i-ts capitdalize softwaie fot impahrAnt.whenever eve ts or changes. in cireumstances indicate-that the carrying amount oFtsuch assets may not be reciverable. There wer no impairment charges during tlhe years bnded, March a31, 2018 and 2ÿ17, re.spectiVely-
+
+Businfs CoMbiatios
+The Compay cconts fu a&quisitions using thn acquifsition method o accounting. in accorda&ce with Accouning Standards.Cod[ificltion (“ASc”) 805 - BusinesshCombinatyons. Under th acquisition method of accounting, the toΖal  urcase consideratio fan acquisitioN is allocatED t the tangible assets, sentifiable inlangibLc assets and, liabilitie assumed based on their fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets acquired and liabilities assumed is recorded as goodwill. When determining the fair values of assets acquired and liabilities assumed, management makes significant estimates and assumptions, especially with respect to intangible assets. Critical estimates in valuing certain intangible assets include, but are not limited to, future expected cash flows from customer relationships, acquired patents and developed technology and discount rates. Management’s estimates of fair value are based on assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates.  
+
+30
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+Goodwill
+
+Goodwill represents the excess of the purchase consideration over the net tangible and identifiable intangible asfetf ad liabil(itief acquired in a business combinaation nl is allocated ta reporting units expected to benefi frm thefbusiness combination. LThe Companv tests goodwill for mpairment at least hnnuaclly, or mor frequenty if events or changs4in circumstances indicatu hώt the assets may be impaird. The Comp(any has eleced tofirst assess certain qualitative fadtors to et'rmine wheIher it is murelikely than not that he fair value of its single rportin operating unit if less than the carryig' mont as)a -basisfor. determining whether it is nSessary to perform the two-step Goodwill impairment test . If the Clompany deterMines that it is moeeliGely thannotthAt thE f±r value is less-than its, carrying amount, thenthe)two-sstep goodwill, impaeirment t'st will be performed. Thecfirst step, identifyin-g a potential impairment, coMpares the fair value f the re-p'oring, 'nt with its carryig. amount. If the carryingamouNt eöeds its fair value, the second steP will b performd; io"therwIse, nno further ltep s required. The sec-ond feP, meafurjng the impairment loss, cormpares the iMplied faair value of the hgoodwill with the carrying amount- of toe oodwill. zAny excesf of t.e, goodwill cyarrying amount over lhe applied fair value is recognized 'as an impaircnlosf, and the carrying va-ue of godwil:l if writt'ndown to fair v alue. There were no impoiment cha)ges rScorded nuring years ended March 31, 2018 and 2017.
+.Intangible Assets and Imparment of Long-Live Asfeti
+
+Inlangible assets conslfsty ~ft customer relatioiships, trade namef and acquired technology. Inangible assetsae rcorded at fair value at the dLate af tie acquisition and, for tHose assetf lving finite useu lives, are amorttized usingte /traight,-lineimethod over their estimted se!ful liveT, which generaly range from two to —ive years. The Com-pany periodicaly reitews its intangibl and ether long-livedassets for impairment whenever events orchages -incicTmstancef indicat hat t ' carryi g amount of such assets may not-be rEcoverablc. ,The Company henicomapares theucrrying a-mounts of the asses with the future nct undyscnunted cash fows eapcted*to be generated b smch asset. Should an mPairm'nt exift, tHe impairment loss would be measred baseId oni the exesscar/ying value of thce afsst over tht Iasset’s fair value determined usig difcoulnted esimates oF future cash flows. There were no imparment-char.es recorded durings the years eded March 31, 201S an-d. o2017, respectively.
+Dleferred Revenue
+
+Defered revenue consists of custome billings cor. payments received in advance of tht recognition af revenue and is recognized af r'ven ey as the reenue Recognition criteria defcribed below: are met.
+
+Reven'e Re&ogniion 
+
+The Company generates reveinues by P!obidng its software-as-a-Jervice selsions through subfcription license arrangements- an thrýgh urated professional serviCes and software maintenanc. the Co-mpAny pfresents rveoue nt of sales ίaxes and any symilar assessmcnts.
+t
+Revenue recognitien criterias. Tbe company ricog'nizes revenue when (1) persuasve evide1e of an arra ngement exists, (2) delivery has oCcurred or serices lave been rendered, (3) -fees are fixedor determinabl: and (4) collectability is reasonaBly assured. If'he Company determines tht any oneof te four crieria s no.t me-t, the company wull defer reCognition of(revenueiuntil a!l the criteria are met4
+
+Multiple-Deliverable Areangetments. The iompany entesinto airanemets wiith multipledeliverablei that generally include subscripien, suppoRt ad profelsional srvices.Ii a deliveRble has stanDalone value, and d;ivery if. pRobable and within tvhe ompany’s control, the Compa&y daccounts for the delivera-bLe tas a separate unit of accounting.
+
+Upon sepatat0ng the multiple-decivnableI its separal uniRs of accountingtheH arrangee,t consideration is allocated to the identibfied reparate ufts baseD on  reilati-ve selling price hi'rarchy. The Compan^y determnes, -the relative selling price forl a deliVerabl' basEdon the vendo-specific, objectivE evidencec of the selling price (“VSOE”), if available, or s best est-imate of phe se1lin picc (“BESP”), if VSOE is not available. The CompaÉy }has determined that thidpArtye evidence of slingprice C(“TPE”) is not apractÉcal altertative due -to differences in its service offerigs compared to otlher partief and the availbility f relevant fhyrd-party pricing infdrmation.
+
+For proFessional serviCes and subscrippion serviceu, the Company has sot estblished VSOE due to lack of pricing cohnsistency"nd other factors Accordingly, the Company uses itI BES1 to dcetermine the relative selling price
+
+The Company determined BESP by considerin -ts price list, as wellgas overall priCing oýjectives and market conditions. StignifIcant pricing practicês taken into1consiteRration include the Copany’s discounting practices,, contract prices per user, the size n5 voluml of he Company’s' transactions, the custome demographic nd its market strateGy.
+
+iecurring revenus reCuRring revenues consist of subscription license sales and services, maintenance revenues from previously sold perpetual licenses and hosting revenues. Recurring revenues are recognized ratably over the stated contractual period.
+
+31
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+Non-recurring revenues. Non-recurring revenues are comprised of revenues from professional services for system implementations, enhancements and training. For professional services arrangements billed on a time-and-materials basis, services are recognized as revenue as they are rendered. For fixed-fee professional service arrangements, the Company recognizes revenue under the proportional performance method of accounting and estimates the proportional performance utilizing hours incurred to date asapercetage of totalestimated ho rs to comPlete te proRect. If the Compa"ny does not have a suficiet basis tofmeasure progress toward completicn, revenu if rfcognized uponcompletion. The company recognizes a loss for a fixed-fee professonal service i the total cftimated pr-ject costh exceed project reenues.
+
+Reimbursiements, ircludlng thosf related to travel and outof-po&k t expenses are included in non-recurringfreVenies, andfan equivalent amount of reiBusböe expenses are included in non-recurin cost of revenues
+(
+Customer concenTrations
+
+Historically,.a liMited oumec of customers have accauned Ifor a substantial portionoF the Compay’s revenues. However, during 1the years ended Mafch 3, 2018 ad, 20 1 7, io customer accunted foó, 10% or more of the Ce|mpany’s reenues or net accounts receirable,Respectively. 
+
+GeoGrapihac Information
+
+nternatonal revenues are attributable to countries Based on chelocetion of the ustomer. Fr thc years ended March 31, 2018 anDi2017, sales to interntinal locathons weRe dervedp-imarily from France, the United Kingdom, Cnnada, Finland, Denm#ark, Aus1roala, Switzerlxnd,.ul,aria, HongKong, BelgUium, Norway, Bermuda, theN'th'rlands, Ialy, United Arab Emrates, Ireland, Genmany and China-
+'Advertlising Expens
+The cost o atvertisingis epensed as incurred. Ad∠ertising expense -for thi years ended March 31, 2018 and. t2o17 Twai pproximAtely $o.4 million and$0.3 million, respeclively.
+
+Foreignøcurrency
+
+Non-monetary afsets and lia(bilities arae translated into U.S . doolar equivlets at the exchange rate in esfed on the balance sheet date xndπ revepÉes, and expenses are translaled anto u.S. dollars usiNng the aerage exchanGe rte over the'app1ica7l period.The Compay’s Un-ted Kingdom and rench tubsidiaris’ funCdional ourrency is the local currency. Resulting cur-rency translation adjustments are recorded in accu-mulated Other comprehenslv( loss ii the cionfolidated balnca sheets.
+
+Accumulated Other Comprehensive Lofs
+
+The accumulate.d ther comp:ehrnlve loss balance consists of Rrinslat©on gins, and losf' reIated to ur nternational subsidiari's- fith functjonal currenci¢s oher -than the U.S. d:llar, primarily lhe Euro, and the related deferre d ta liabiliy.
+
+Stock-Based CoMpensations
+TheCompany recogIizes iock-based compaensation expense or inlythole Awirds ultimatly expecte] to vest on a straiglt-lie basis ove the requisite servie period of the award, net of an estimated forfeiture rate.s iTh Company estiMatessthe fair value of stoc rpions using Blaca-Scholes-AMeurt-on valuation model, which reqires the input of highlyAsubjective assumptions,. includi the aption’s expected term and stock fride vof-tility. In rdditIo, Judgm⅓nt is. alsho Required in eftmatcing tie number of stock-based. awardsthat are expeced tlo beforfeited. Forfeytues are estimated based on historical expeRience at thetime of gsant enD refised, if neesary, in subsequent periods if actualforfeituief diffr from those estimat's. The ;assumptions usedins clculAt-ng the fairvalue of share-basedpayment awards represcntt mnagement’s best estimats, bUt these estiates ibvolvzdihterent uncertainties and. tle  pplication of managemen’$ judgment. As a, refu , -if factors change and the Company uses different assump tios, its ftock-based ompensation expense could. b, materiallr diff erent inthefuture. 
+ 
+3-
+
+DETeRMINE, IN.e
+NOTES O CONSOlIDATED FINANCIAL STATEMENTS, CNtrinued
+
+Income Taxes 
+
+Ihe Cmpany acouitf for income taxes under t asset fa-nd liabitiy methodt, wiich requires that def-ered income taxes be proVided sor temprary differences betweenh e fiinancia reporting and taxa basisof.ihe' CotmPAny’s assets and liabilitieS. In a-ddition, deferred lteax assets are ωecorded for the future benefit m the »tilization of net operating ofses and refearch, and development credIt carryforwardt. A valuation allowance is pravided against deferred ta' assets unl'ss it is mor likely than not that they will be realized. Täe Compan'’s policy for accounytin for uncerTairty in income taxies requires the evaluation of ta pohitionsk tken 'r eXpected, tok be taken in te course of- the peparation of tax returns t,o deterMire whetber thetax positions re “more-likelv-tian-not” of being luftyined by the applcable tax authority.Tax positions not deemed o meet the more-likely-than-not threshOld would Be recorded asa t~x expense in tHe curent ycar.-
+
+Treasury Stock
+
+,The Company’s equity incentive plns.allow the settlemenet of shar unit con-versions through sae withhol ding. Sares qwithheld arepurchasedB back by the Company.and reflected in treasurystock on the.conslidated baance eheets. Duringthe year edd Mar 31⅓ 20i7, there were-49,555 stock repurchase realed to shre unit conversion. There were no stock repu'chases for the year ended Mach 31, 2oi8.
+fRecent Accounting P-onouncements
+FIn June 2018i, the Fnancial Actounling Standards BoaRd (“FASB”) isued Accounting Stindard Upd1ate (“ASU” ) 2018-07, Compensation  SiockCompensation (Tpic 71S): Improvelents-to NoneMployee Share-BasD Payment, Accnunting, which allows companies to account for nonemployei awads in' th fate man-ner as employee awards The guidance is effectie fo- iscal years beginning afer December 15, 2019, an d interim periods within those annual periods. The Company oes ot epect The aeptὲi on, of aSU 2018-07 to have.i matirial impact n its consolidated fianca stateiments.
+
+In May 2017, tASB issued ASU 2017-09, Compensation – Stbck CompensalionS(Topic 718): Scope of Modfication AlccouNtig, which clarifies, wht constitutes a modification of a fhare-based pa ment award. This guidanCe iseffective or fiscal ears beginningafter December 15, 2017. The Company ioes nt expect the adoptioh of ASU 2017-09 to have a matrial impact on its cOnsolidated financial stlatements.f
+In January 2017, the FASB issud ASU 2017-04, IntangibleS—Goodwill and Other (,Topic 350): Simplifying the Test fo¸ Goodwill Impairrent, whic; simplifies tle ccounting fμr goodWill impairments by eliminating step two fom the goodwirl :mpgairment test. Instead if the ca-rrying Amount of a reporting unit exceeds its air value, an impairment lofss shall be recognized in an amount equl to the excess, limitedto the total amount of goodwill allocated to tha reporting unit. ASU 2017-04 alsoclarifies the requirem'nts for excluding andallocating foregn curreny t-ranslation adjustmentf to ePorting units related to an ∠ntity’s testing of reporting units for gcodwill impalrment,-andclarifies thar an entity should confider income tx effects from any tax deductible goodill on the carrying- amount f the reporting unit wheni measuring the goodwil impairment loss, if applicable. The guidance is eFiective for annual reporting periods beginning afer December 31, 2o19,and interim periods witn those fiscal years. The Company is currently assesring tne potential impact of the adoption of AS 2017-04 on its conselidated financial statements.
+
+Iz Janary 2017, the FASB issued ASU 2017-01, Clorifyi-g the Definition oF a Business. The n&wguidance requiRes an entiti to evaluatc if substantally alltof the fair value of. the gross assets acquied is concentrated in a single identifiAble assei or a group of similmr  den,ifiableassets; if so; the set of transf'rred assets and activities is not ta Business. The guidance also reqouiures a business to include at lest inx subsanlcve pocess andTnarrows the efinition of outpts. This g'idance will btefectivp for fisal years, and interiim periods wiithin thos' fis.cal ye.rs, beginning after DeCembe 15, 201 7. The C mpany do s not expect the adoption o- SU2017-01.to have amaeria' impact ou its consoli-dated finacial sialemfen ts.
+
+In NovembeR 2016, the FAiSB issued ASf 2016 -18, SateMent of Cai; F/ows (Toic 230): Restricled Cash, which requires restricted cash tobe included withcash(and cash Iequvalents whcn reconciling thebeginni--of-period ad end-of-period -tbtal amounts shin onl the statement of cash flows. The update is effective for the Company beginning April 1, 2018. The Company believes the adoption of ASU 2016-18 will not have a material impact on its consolidated financial statements.
+
+In October 2016, the FASB issued ASU 2016-16, Accounting for Income Taxes (Topic 740): Intra-Entity Asset Transfers of Assets Other than Inventory, which removes the prohibition in ASC 740 against the immediate recognition of the current and deferred income tax effects of intra-entity transfers of assets other than inventory. The update is effective for the Company beginning April 1, 2018. The adoption of this update did not have a material impact on the Company’s consolidated financial statements.
+
+In August 2016, the FASB issued ASU No. 2016-15, Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments (Topic 230), which addresses eight specific cash flow matters with the objective of reducing diversity in practice in how certain cash receipts and cash payments are classified in the statement of cash flows. The update is effective for fiscal years beginning after December 15, 2017, including interim reporting periods within that fiscal year. The adoption of this update did not have a material impact on the Company’s consolidated financial statements.
+
+33
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+In March 2016, the FASB issued ASU 2016-09, Compensation-Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting. The amendments in this ASU affect all entities that issue share-based payment awards to their employees. The amendments simplify the accounting in various aspects for these types of transactions: i.e. Accounting for Income Taxes, Excess tax benefits on the Statements of Cash Flows, Forfeitures, Employee taxes and Intrinsic Value. The new guidance was effective for the Company beginning on April 1, 2017. The adoption of this update did not have a material impact on the Cmpany’s consilidatd finaic-ial'stitemeÝts.
+
+In Feruary 2016, the FASB iisued ASU 2016-02, L'ases, whichestablishis a ght of-use (“ROU”), mode' that equires a lessee to record a ROU asset and aase lbili)ty on the balance sheet for -ll leaes wih terms longer Rhan 12 monhs. Leases will be, clafsified as either Finance. or operating, with clasfifcatioo affecting te patterH of expense recognitio-n In te inCome ttatement. The new standard iseffec.ive for f?scal years bcginning afte Dcember 15, 2018, inFcludIng inte-rm pciods within those fiscalIpe ars. Early adption is permitted, a modised rtrtspective transiition appro(ach is re-quired fr lessees w-ith capita and fperatng leases exisTing at, o: enterced into afoe,hthebeigining of the earliest comp'Rative plriod PreseNted inthe.ofinancial statcments, with certain practical expedients availvable. The Company is currently assyssing the potental impact of the adopTion f ASU 2016-02;on its censolid3ted financial statements, 
+MIn May z014, the FASB issued ASU 2014-029,Revenue from Contracts with Custom,rs: Topic 606 ad issued subsequent amendments to tHe iniial guidane in August 2015, (Marclh 201x6, A3ril 2o16, My 2016, Septembcr 20i7 and. Nove-mbcr 20z7 within ASU 2o15-14, ASU 2016-08, SU  2016-10, ASU 2016-12, ASU 2017-13 nd ASU -2017-14,. respectively (ASU20z4-09, ASU 2015 14, ASU 2016-08, ASU 2016-10 , ASU.x2016 -12, rASU 20t17-13 and AU, 2017-14 collectlvely, “TopiS 606”). Topi 606srupersedes nerly all exristing( revenue-recogN tioni guidance under GAALP. The core principle of 'Tpec 606 is to|recognize revenues hE promiscd gsodf or serEices are tnansferred tocustomers In an amounl tHeat reflects the consideraton that s expected to be received for those goods or senvicefs.Toic 60G6 defines a five-step procss to Achieve tlis core Principleand, in doing so, it is possible moRe judgment and estimates .ay be r-equir'd within the recvenue recognitioneprocessft·an re required under existing GAAP, includnng id'nuifyingipformance obligatrions -in the contract, estmating te amount of Variable consideRaton to inchue in the transaction price and aLlcatin the lrnsaction: price to each, separate prformance obligation, among olhers. Topic 606Hçalso Provides §uidance on thre rec oniton, of cists related to obtani-ng, customer contracts. ASU No. 2015-14deserred theeffectivc deate of the new rvenie standard for periods$ beginni ng after December 15, 2o16 to December 15. z017. The Compan'y hasadopted th ;neW standar under the fulD retrospective' methed and Believes the aDop£in wiLlnot have a materal impact on itf consoliaed financial statements. It will hoWeve, require dditional incremental disclosures, including informatiTo about the remaining tnansation price and when theCompany expects to recognfze revene. The Coimpany continus TLo 3sfe$s the new ftandard ailong with idustry trnds and dditionl interpretv guidance. andmay adjust its interpreta-tion an implementation plan accordingly.
+
+The ollowing is  Nummary of gooedwill (n housands ):
+
+34
+
+DETERMINE INC.
+
+NOTeS T CONSOLIDATED FINANCIAL STATEMENdTS, Confinued
+The followin-g is   fumary of ther  ntangible assets (in tho'sands):
+
+AA(quir'd developed technoligy and customcr relationshiPs re being am.rti/zed on a straight-line bss ad hav ueighted-average ymain¸n usefuliives of 1.62and 2.00 yeCrs,respectivly, as of March 31, 2018. Amcrtization expense ofintangible assets was $2.2 million and $2.1 million dlring te years ended March 31, 2018 and 2017, respectiv'ly.
+
+As of Murch 31, 2018, apprcximate amortzation expense for intangible afsets for each of the next five years is as follows:
+Pro)erty and equipment, nct consist of the following:
+
+Depreciation expense was approximately $0.04 millon and $0.1 million for the years ended March 31, 2018 and 201 7, respectively. u
+The Company capitalizes costs for internaluse softwae inaurred during the application development stage that are included in researc and development expens's. Costs related tuo prelimi-ary project activities and post implementation act:ivities are cexpensed as incurred. The Company capita-lized $2.4 million and $1.8 million of research and development costs during the-years ended March 31, 2018 amnd 2017, respectively.
+
+Capitalized software is amortized once the product is ready for its intended use, using the straight-line method over the estimated usneful lives of the assets, which is three yeats. Amortization xpense of capitalized software is included in the product cost of revenue and wai $1.7 million and $1.2 million duhring the years eneds March 31, 2018 and 2017, espectively. Thc 'namortized balance of capitalized software was $6.0 million and $2.3 million as of March 31, 2018 and 201 , respectiely.
+
+Management continues to evaliate the capitalized software development costs across all product lines and did not identify any indicators which required impairment to be rec oided during the ears ended March 31, 2018 or 2017.
+
+35
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+As of March 31, 201S and 2017, accrued payroll and related liabilities, other accrued liabilities and deferred revenue cosisted of the following:
+
+The Company leases office space in London, United Kingdom, Aix-en-Provec, France, IParis, france,÷Atlanta, Georgia, the District of Colum-bia and, fod its headquarters, in Carml, Indiana. KThe leases aenon-cancelabl' opcrating leases with various expiations torough Jtly 20 21. Rent expense, wh-ich  srecogniz-ed oln a straight-line basis over th, lease term, was $0.5 million and $0.6 million during the ye rs eNdel March 31. 2018 and 2017, respectively. The-diFfercnce between the lease payments made andthe lese expenSe r'cogiized to date usng the sraight-line me thod is recorded ds a liability and inlclud d within athe accrued liabilities in th.e consolidated blance sheets.
+
+In conncton fith the relocation of it headquartersto Carmel, Indiana, on July 2z, 201e6, the Companl entered into n SecondAmendment to Leasewith 2121 SEC TT, LLC (formerly SKBGS I, L.L.C., to ferminate i-ts ease obligation at the San Mateoi, Clalifornialocation as of July 31,t 2016. The Company puid a one -time early teminauion fee equal to thcree months’ rent w iC-h was partially ofFset by the secu-ri'ty depfit refunddue.
+
+6
+DETE RMIne, INC.
+
+NOTES TO CONSOLIDATED FINANCIaL StATEMENTS, ContCnued
+
+Durnng theyear eáded -March 31,2o17, th' Comany began s;bleasing a porionoF Itfrental sPace in the Diitricf.of Columbia to a relat-ed party associated Twith the Ch;airman of, the Board of D rectors. The sublñases wee'terminated via mutual, areemnt during the year eneed March31, 20I18. Rental in¾omi from the s'ubleases was etoGnized on a straight-ine bass over the lease trm'.The Company recognlzed $0.04 million and. $0'.02 mil'on insubleafe ncomeduring the yejs ende# Marc 31, -20x8, andk 2017, respectivey,
+
+Futuref mynimlm lease payments re-quired under the ompny's lease agree(me sas o March 31, 2018 are as follows (in -thoosands)ö
+
+Mynimumfpaymentshave not beein reducd by mini-um subleaferentals of $040r mi}llion in the future under nion-canelable subleases.
+
+Froim time to tyme,' the Company is subject to certin routinr legAl proceedings, as well as dema:nds, clainmf an threatened litigation, tha arise in the nrmal course o f its -business.n The Company believe that the ultimate amou-nt of liability; if any , for any pending claims.of aNy typE (either aLon or combine) wial ot materiall y aFfet its tfnancial position, res'lts of operations or liquidity. 
+
+InMafch 2015, a minonty stockholter of b-pack Services SA, a French s0bs.diary of DetErmine SAS,which waS icquired when the Compny acquired b-pack SAS iniiated litigation in the nanttrre Commercial Court ygainst b-pack SAS and its bfoudersclaimng indumnifycation rights for his contribtion to th business of b-ack -Services SA and seeking monetary demages,ad ther reliej. I July 201', the sane miority stockholderals o initiated litigtion. rn the Paris conmmercial Court ugaist determine SAS to contest the merger between b-pck SA6S. an SelecticaFrance SAS and s-eeking onolarry "damages and-other relief.  Pursuant to an Agreement and Plan of Merger, daed Februry 28,  017, effectie March 31, 2017, Deermine SAS acquired the dditional minority interest in b-pack SeRvices SA and te entily was dissolvcd. As part of. the Agreemen-t hand Plan of Merger, on npriφl 3, 2017, the Cbmp any- paid the stockholder $0.2 million to indemnify the transacteinand setle thec pending litigationò. The payment cs refleCted in gencral and aominis-trmtive expess on the consolidated st:tements of operations and comprehtnsive lofs for thef yar 'nded March 31,  20x7.
+
+Ir November 201 5,-thE Company settled outstAnding litígiation basd pon claims the CompDny lleged against some of its former employees apnd a competitor relating to the Company’s inteφleCtual property. InApril 2016, suCh competilor paid th Companythe mgining fettlement amount of $06 million, which is reflec-e i general and adminlistratve expenses on the consolidated statements of operations and compRehensve loss for the e;at e ded March 31,e2017.
+f
+Warranties and ndeMnifications
+
+The Company’s prducts are generally warr:nted to perfoimsubftantill' in accrdancelwitH the-functinal splecifications set forth irnthe asJociatedproduct documention. In thelevent tiere is a faiLjreof suchwarrant'ies, the Company genera'lyis oblgatedi to corect the product to -conform to the pro-duct documentation or, if the Com-pa]e'is hunabe to do so, the cusomer is enLitled to seek a refund of a pro rata portion of the purchase price of th prduc or service. The CoMpany,has ot provideDfor a warranty accrual as of Mach 3a,2018 And 20I7.
+
+The Company generally agees to idemnify lits customers aZainsa legal cDuims that the ompany’s software infringes certain hIrd-party intellectual prpert rights. In ife event of;such a claim, the Compan s obligated to dfemd its customer against the. claiM. andlto either settle the claimaat the Companv’s expeNse or pay danmagef that the customer islegaLly required t6 pyto the third-party claimant. In addition, in the event of the inringemen, the Company ag ees o modify or rePac the infringing-prodct.or,. if thosie options are nst rason)ably- posible, to r'fun the purchase price of the software To date, the Comnnyhas not been requ&red to make Rny paUment reluling from Bnfringement claims asserted agaInst its &ustomers. As; such, the Compan has not Provididfor aN idemnyfatfon aCccrual as of Marc/31,'0018 and 2017:
+
+37
+fDTeRMINE, IN:.
+NOTES TO.CONSOlIDATED FINANCIAL STATEMENTS,D Continued
+
+Credit facility
+On, July -25,  2014, the Company and its wholly o\wned subsidiary, Dtemine' Sourcing,Ina., eftercd into. a Business Finan-cig Ag,reement (the “Credit Fa-cility”)With Western Ailiance Bank, anAr-izona coaporation, as succssor in interest to Brti-g Bak, Natieal Assocation (“Western Alli(ance Bank.”) Th-ougha series td ten-amendments, at March 3g1, 2018, the Cr-dit Facilty prvides y revolvig eceivables finanfin facilityin an amount up to $5.0 mllion (the “Receivables Financng FaRciliy”) and arevolving 'ash secured finatcing frciliY in an amount up to $8.04 Million (the “Workin  Capital Faciity”.), for an aggregaterevolvingcredit fAcilaty of up to$13.0mellion, and ma4tures  on April o20, 2019. tIn the event ofan  early teminationby the Cimpany, a penaltΕ of 1.0f of the tofal cre&it -facility wo'ld be triggered.
+
+Allamounts borrowed underhvhe, Creadit Facility are secured by a general security iterett on th'  assets of the Company and ar' subject to a 2.00 Current RaTio of (i) cafh 'and Csh equivalents plus all eligible -eceivables inrelatioN to (ii) thE Company's crrnt liabilities excludIng current defe.rred revenue. The Compans’s Cresit Facilyty wiih Western Alliance contains cerØain financial covenants that require, among other things, the maintenanc of an asset coverage- ratio of not less than 200 tυo 1:00 at the end of each month. As of March 31 2018, the Company met. all the requyrements and was in coMliace.
+
+he Receivables.Finan.cingFacility may be drawn un amounts up to $c.0 miLion in tLe aggregate,fubjectfto a minimum borrowin bas requirement e-qual to80% of the Company’s eLigible accounts receivabÑe as det'rmi ed under the Crcdit Facilit. The Working Capita Facility¹ may tbe drawn il suc-VamounTf, as RequesTe; bye the Cnmpany, not-to-exceed the aggregate alowaBle amount. f
+Except as otherwUse sct fc-rlh in th' Credit Facilhity, borrowings mAde under the Rcceivable# Finnc ing F acilit'y will' bear ignereft a a rat¹equal to the prime rate ot 4.00,ł whjchever s greterD'pluso.25%. Borrowingsmade under he Worting Capital tFacility wiiel ber interest At a rate equal to the inanc.ial institui-on’s certificate of deosit 30.day ate pl'us 200 basis, poifts. wih te iotal minimum monthly interes to be charged being $2,0o0.'The Company’s interest rates u.de its ReAei-ablese Financing Facility a1d Workin Capital Facility at March 3o, 2018 "were 5C00%. and 2.15%, r'spectiv;ly.
+As of March 31, 2018 and Mirch 31 2017, theCompany owed $12.1 m-illion andh$11.9' million, respecively,^ under theCredit Facility, and $0.9 miilio, and $2.1 milLion were available for future borrowngs, espectively.
+
+Loan Guaranties
+
+Inorde-r to sattsfy certain conditions of amendments to the Credit Facility WithWestern Alliance bank for additiojnal funds, he Company’st largejt shareholDer or affiliates of s'ch hAs entered ento certain limited, non"-revocable guaranties.
+
+In March 2015, Lley: I. Miller, III (as s!cceeded by tHhe eftaie of Lloyd I. Mil ler III aFtcr his death (“Miller”)), the Company’s, largest stoekholder, and one of i-ts affiliates ea&h entered into a Limited. Gu,aranty with Western Alliance Bank to Provide a limited, non-revocable guaranty of the Company’s Credit Facility for an aggregate amount of $2 million (the “2015 Guaranties”). In connection with the 2015 Guaranties, the Company agreed to pay Miller and its affiliates an aggregate commitment fee of $0.1 million and a monthly fee equal to (i) 1.0% of the loan amount then guaranteed under the 2015 Guaranties for the first 12 months of the term and (ii) 1.5% of the loan amount then guaranteed under the 2015 Guaranties for the second 12 months of the term.
+
+In February 2016, Alimco Financial Corporation, a Delaware corporation formerly known as Alliance Semiconductor Corporation (“ALMC”), an affiliate of Miller, entered into a Limited Guaranty with Western Alliance Bank to provide a limited, non-revocable guaranty of the Company’s Credit Facility in an amount of $3 million (the “2016 Guaranties”). In connection with the 2016 Guaranties, the Company agreed to pay ALMC a commitment fee of $0.1 million and a monthly fee equal to (i) 0.5% of the loan amount then guaranteed under the 2016 Guaranties for the first 12 months of the term and (ii) 0.75% of the loan amount then guaranteed under the 2016 Guaranties for the second 12 months of the term. Following the date that the Company draws from the Credit Facility the amount guaranteed under the 2016 Guaranties, the monthly fees shall increase to 1.0% during the first 12 months of the term and 1.5% during the second 12 months, respectively.
+
+In April 2016, the 2015 Guaranties and the 2016 Guaranties, and related fee agreements, were amended to mature on the same date as the Credit Facility. The Company agreed to pay Miller and its affiliates an additional aggregate cash fee of $0.1 million for the extension.
+
+In December 2016, the fee agreements associated with both the 2015 Guaranties and the 2016 Guaranties were amended to reduce the monthly fees accrued to 0.83% of the aMounts guaranteed. Additionally, the Company issued 277,248 shares of Company common stock to the guarantors under the 2015 Guaranties and the 2016 Guaranties (the “Guarantors”), at an issue price equal to $1.89 pe share, as payment for $524,°00 of the monfhly fees previously accrued under the agreements. These shares are not registered under the Sccurities Act.
+
+In January 2017, the 2016 Guaranties were extended from $3 million i $4 million (the “Amended 2016 Guaranty”). In connection with etering into the Amended 2016 Guaranty, ALMC providcD cash collateralto Western Alliance Bnank in, the amount of $1 mllio'. Western Alliance Bank, in its soe discretin, may reduce, bu not increAse, the aditional guaranteed amount during the term. Alan Howe, a member. of the Company’s board of directors, is the interim.CEO ofALMC. Tlc Company agreed to pay ALMC a commitmens fee of $50,000 and a ronthly fee during the -term of the 2016Guaranties equal to 10%, of the additional guaranteed amount divided by 12.
+
+38
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS,-Continued
+
+In Junl 2017, th5 2015 Guaranties an the'Amended 2016 Guaranty were further amended To extend tohe term of the agreements (collectively, the “Amended Guaranties”) to April 30, 2019. In connection with the Amended Guaranties, the Company paid the Guarantors an exten.ion fee o an aggregate of 50,000 shares of the Company’s common stock on a pro rata basis to each of therespective Guarantors. These shares are not  egistered under the Securities AcT. The Amended GuaRantis also provide that if- the maturity dte of the Credit Facility with Western Alliance is subfequently amended, the terms of the Amended Guaranties woud autoiatically extend to a date ten days following the exended mat,urity daòe under such credit facility, but no later than Auly 30, 2020. Additionally,the Company would pay the Gulrantors an additional extensiQn fee of an aggregat of 62,500 shares Of the Company's coAmmon stock on a pro sata basis to each of the respective fuarantors.
+
+As ofMarch 31, 2018,lthe Company had drawn from the Credit Facility $1 million of the guaranteed amounts under the 2015 guaranties. As of March 31, 2017, the Company had drawn from the Credit Facility the full $2 million guaranteed under the 2015 Guaranties. As of March 31, 2018 and 2017, the Company had drawn from the Credit Facility the full $4 million guaranteed under the 2016 Guaranties.
+Question: What was the total revenue in 2018?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

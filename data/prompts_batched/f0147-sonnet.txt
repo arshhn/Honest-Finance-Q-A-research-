@@ -1,0 +1,872 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-171-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: FORM 10-K
+
+dtrm20180331_10k.htm
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+Form 10-K
+
+Commission file number: 0-29637
+
+DETERMINE, INC.
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+615 West Carmel Drive, Suite 100, Carmel, IN 46032
+
+(Address of Principal Executive Offices)
+
+(650) 532-1500 
+
+(Registrant’s Telephone Number)
+
+Securities registered under Section 12(b) of the Act:
+
+Securities registered under Section 12(g) of the Act:
+
+None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined by Rule 405 of the Securities Act.     Yes  ☐    No  ☒
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes  ☐    No  ☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  ☒    No  ☐
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.    ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No  ☒
+
+As of September 30, 2017, the last business day of the registrant’s most recently completed second fiscal quarter, the aggregate market value of the registrant’s common stock held by non-affiliates of the registrant, based upon the closing price of $2.15 per share as reported by The NASDAQ Capital Market on that date, was $17,553,832.
+
+As of June 22, 2018, the registrant had 15,129,963 outstanding shares of common stock.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Part III of this Annual Report on Form 10-K incorporates by reference from information to be filed with the Securities and Exchange Commission in the registrant’s definitive proxy statement for its 2018 Annual Meeting of Stockholders (the “Proxy Statement”) or in an amendment to this Annual Report on Form 10-K within 120 days of the registrant’s fiscal year ended March 31, 2018. Except with respect to information specifically incorporated by reference in this Form 10-K, the Proxy Statement is not deemed to be filed as a part hereof.
+
+DETERMINE, INC.
+
+ANNUAL REPORT ON FORM 10-K
+
+FOR THE FISCAL YEAR ENDED
+
+Table of Contents
+
+Cautionary Statement Pursuant to Safe Harbor Provision of the Private Securities Litigation Reform Act of 1995
+
+The words “Determine”, “we”, “our”, “ours”, “us”, and the “Company” refer to Determine, Inc. This Annual Report on Form 10-K (the “10-K” or Report) contains “forward-looking statements” within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, (the “Exchange Act”).  In addition, we may make other written and oral communications from time to time that contain such statements. Forward-looking statements include statements as to industry trends and future expectations of ours and other matters that do not relate strictly to historical facts. These statements are often identified by the use of words such as “may,” “will,” “expect,” “believe,” “anticipate,” “intend,” “could,” “estimate,” or “continue,” and similar expressions or variations. These statements are based on the beliefs and assumptions of our management based on information currently available to management. Such forward-looking statements are subject to risks, uncertainties and other factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by such forward-looking statements. These forward-looking statements include statements in “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Factors that could cause or contribute to such differences include, but are not limited to, those discussed under the heading “Risk Factors” in Item 1A of this Annual Report on Form 10-K and in our other Securities and Exchange Commission (the “SEC”) filings. Furthermore, such forward-looking statements speak only as of the date of this Report. We undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements.
+
+PART I
+
+Item 1. Business
+
+Overview
+
+Determine, Inc. is a leading global provider of SaaS Source-to-Pay and Enterprise Contract Lifecycle Management (“ECLM”) solutions. The Determine Cloud Platform provides procurement, sourcing, finance and legal professionals with the flexibility, agility and scalability they need to optimize spend, supplier, contract and financial performance goals. We empower users across the full source-to-pay continuum, including sourcing, supplier management, spend analytics, contract management and procure-to-pay applications, to deliver efficiency and data insight for their operational business processes, third-party relationships and contractual obligations.
+
+Our Vision: To be the global leader of cloud solutions empowering organizations to make more informed decisions from their proprietary data.
+
+Our Mission: To provide industry leading cloud solutions to maximize our customers’ visibility and financial return from their spend, supplier and contractual data.
+
+Our name, Determine, stands for delivering conclusions through analysis. Using our expertise and experience to simplify business complexities with business processes, we help customers successfully turn pain points into insights and challenges into bottom-line results.
+
+On July 2, 2014, we completed our acquisition of Iasta.com, Inc. and Iasta Resources, Inc. (together “Iasta”), both Indiana corporations. The acquisition of Iasta allowed us to provide easier access to contract management, strategic sourcing and spend management, and increased our market coverage in locations worldwide.
+
+On July 31, 2015, we completed the acquisition of b-pack SAS (“b-pack”), a French societe par actions simplifiee. The acquisition provided us source-to-pay solutions focused on providing end-to-end procurement capabilities, including eProcurement, purchase-to-pay, asset management, budget management, invoice management and expense management.
+
+On October 15, 2015, we amended our Certificate of Incorporation and amended and restated our Bylaws to change our name from Selectica, Inc. to Determine, Inc., which became effective immediately. Our common stock began trading under the ticker symbol “DTRM” on October 19, 2015.
+
+In rebranding as Determine in October of 2015, we formally combined three legacy industry leaders and brands — Selectica, Iasta and b-pack — under one new name, and continue to accelerate the execution of our strategic plan. As of the end of the third quarter of our fiscal year 2018, all new customers are choosing our modular source-to-pay and contract management solutions on the Determine Cloud Platform, to be able to leverage the flexibility, scalability, data visibility and process efficiency it provides.
+
+Determine serves more than 270 global customers spanning a wide spectrum of industries including, but not limited to, targeted verticals of financial services, insurance, pharmaceuticals, healthcare, retail, transportation and manufacturing. In a dynamic global economic climate that can be uncertain and volatile, organizational flexibility and agility remain paramount.
+
+Our customers look to us for innovative technology tools, thinking and expertise that can help them streamline processes to drive operational efficiency, align functions and leverage the enormous untapped value in their organizational data.
+
+1
+
+Customers use our solutions to break down silos for more transparency, easier collaboration with their stakeholders and suppliers and to discover previously unseen supplier, contractual and spend data. This empowers them to maximize savings, drive new revenue, control costs, improve workflow efficiencies, mitigate risks and make more informed and smarter business decisions.
+
+The Determine Cloud Platform
+
+We empower global businesses to translate source-to-pay technology into results. Unlike point solutions, suites or “cobbled-together” platforms, our modular solutions are built around a robust and highly configurable business-centric technology, the Determine Cloud Platform.
+
+The Determine Core
+
+The unique power of our Determine Cloud Platform emanates from the Determine Core.
+
+Determine offers a common, reliable and powerful engine at the heart of its multi-tenant cloud platform. The Determine Core is the foundational building block of the Determine Cloud Platform and is what empowers customers to stay focused on streamlining their business processes across functions. It is the basis for how the platform integrates proprietary master database, metadata with our business process engine to provide a single source of data truth across a customer’s entire business enterprise. It also optimizes the functionality of our solutions through embedded analytics, open application programming interface (“API”) and a business network that combine to provide end-to-end solution visibility and control.
+
+Simplified implementation and configuration, and seamless integration with existing ERP and other back-end enterprise systems, empowers collaboration, efficiency and agility. By using our SaaS applications built on the Determine Cloud Platform, business stakeholders at all levels of the organization are empowered to collaborate and make more accurate and confident decisions.
+
+The Determine Core works for our customers by:
+
+2
+
+Determine Cloud Platform Capabilities
+
+The Determine Cloud Platform offers the following functional capabilities built around the Determine Core:
+
+Determine provides the flexibility and tools to manage the business from traditional modular source-to-pay areas to complex projects-based approaches for both goods and services spend.
+
+The Determine Cloud Platform extends value across the entire source-to-pay continuum on a matrix of a single source of shared data, document management and business process management, creating an integrated multiplier effect.
+
+3
+
+Integrated Solutions on the Determine Cloud Platform
+
+4
+
+Through our partners in the Determine Alliance Partner Program, our dynamic business partner ecosystem of leading global companies, the Determine Cloud Platform also offers a business network, or hub, for coordinating buyers, partners and suppliers looking to engage and collaborate on the Determine Cloud platform. This is done through a supplier portal, open supplier network or through the partners’ business app portal, where partners can offer their business applications on the platform. The idea of interoperability is at the heart of the Determine platform, as it is an open network that works within a wider technology ecosystem. The Determine Cloud Platform integrates with focused providers in areas including CRM, e-signatures, document management, external market data, and other business platforms.
+
+Competitive Strengths
+
+We believe our key competitive strengths include:
+
+5
+
+Employees
+
+As of March 31, 2018, we had a total of 153 employees, 6 of which are located in the United Kingdom, 57 of which are located in France and 90 of which are located in the United States. Of the total, 34 are full-time product and technical specialists engaged in research and development, 66 are engaged in professional services, 29 are engaged in sales and marketing, and 24 are engaged in general and administrative. We also have 93 individuals contracted through our Odessa, Ukraine facility, with 26 in professional services and 67 engineers in research and development. None of our employees are represented by a labor union and we consider our relations with our employees to be good.
+
+Determine Professional Services
+
+We offer a range of services to ensure that the solutions meet users’ requirements. Our Professional Services team takes a best-practice, collaborative approach, applying their extensive experience with contract lifecycle management, strategic sourcing, procure to pay and Configuration solutions.
+
+Although no two projects are the same, we have a standard practice and approach that has led to timely rollouts, increased adoption, efficient use of resources, and our Client’s confidence in their abilities to quickly derive measurable business value from their newly implemented solution.
+
+Unlike our competitors, who often outsource their projects overseas, Determine places a high value on implementing customer solutions locally. This process speeds, simplifies and clarifies the implementation experience for our customers, critical to ensuring full confidence and keeping projects on track.
+
+Sales and Marketing
+
+We sell our cloud solutions primarily through our direct sales force along with strategic and OEM partners.
+
+Our direct sales force is complemented by business partners, supported by telesales and system engineering resources. We have developed programs to attract and retain high quality, motivated sales representatives that have the necessary technical skills and consultative sales experience. We have also developed specific partner relationships to expand our solutions and domain expertise into various targeted markets. We believe that the cultivation and integration of these support networks assists in both the establishment and enhancement of customer relationships.
+
+Our marketing department is engaged in revenue-centered, sales-support and brand awareness-building activities. We utilize lead generation programs including both inbound and outbound marketing with public relations, speaking programs, creation and production of thought leadership resources, event hosting and market analyst relations.
+
+Research and Development
+
+To date, we have invested substantial resources in research and development. Our team primarily works on product development, enhancements, documentation, and quality assurance. During the fiscal years ended March 31, 2018 and 2017, we invested approximately $6.9 million and $5.6 million, respectively, on research and development, inclusive of $2.4 million and $1.8 million capitalized research and development costs, respectively.
+
+Enhancements to our existing products are released periodically to add new features, improve functionality and incorporate feedback and suggestions from our customers. These updates are usually provided as part of the product subscription or license arrangement.
+
+International Operations
+
+Since fiscal 2011, we maintained a relationship with a third-party operating a research and operations center in Odessa, Ukraine. This facility represents a significant investment for us as we continue to execute on our global expansion strategy. Our operations in Ukraine with our third-party partner have not been materially affected by the recent political events in that country, and we have put certain contingency plans in place to minimize any disruption.
+
+6
+
+Competition
+
+The market for cloud-based software solutions in general, including Sourcing, Supplier Management, Procurement and Contract Management, continues to rapidly change. Competitors vary in size and in the scope and breadth of the products and services offered. We encounter competition primarily from companies such as SAP (Ariba), Apttus, Coupa, Ivalua and Jaegger, as well as (i) software companies that offer integrated solutions or specific products that compete with our ECLM, (ii) information systems departments of potential or current customers that internally develop custom software, and (iii) professional services organizations. Some of these competitors are larger than us and may only compete in a segment of ours.
+
+We believe that the principal competitive factors affecting our market include product reputation, functionality, ease-of-use, ability to integrate with other products and technologies, quality, performance, price, customer service and support, and the vendors’ reputation. Although we believe that our products currently compete favorably with regard to such factors, we cannot assure that we can maintain our competitive position against current and potential competitors. Increased competition may result in price reductions, less beneficial contract terms, reduced gross margins and loss of market share, any of which could materially and adversely affect our business, operating results and financial condition.
+
+Intellectual Property and Other Proprietary Rights
+
+We rely on a combination of trademark, trade secret and copyright law and contractual restrictions to protect the proprietary aspects of our technology. These legal protections afford only limited protection for our technology. We currently hold eight patents in the United States. In addition, we have various trademarks registered or pending registration in various jurisdictions. Our trademark applications might not result in the issuance of any trademarks. Our patents or any future issued patents or trademarks might be invalidated or circumvented or otherwise fail to provide us any meaningful protection. We seek to protect the source code for our software, documentation and other written materials under trade secret and copyright laws. We license our software pursuant to license agreements, which impose certain restrictions on the licensee’s ability to utilize the software. We also seek to avoid disclosure of our intellectual property by requiring employees and consultants with access to our proprietary information to execute confidentiality agreements. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or to obtain and use information that we regard as proprietary. In addition, the laws of many countries do not protect our proprietary rights to as great an extent as do the laws of the United States. Litigation may be necessary in the future to enforce our intellectual property rights, to protect our trade secrets and to determine the validity and scope of the proprietary rights of others. Our failure to adequately protect our intellectual property could have a material adverse effect on our business and operating results.
+
+ Corporate Information
+
+We were incorporated in California in June 1996, under the name Selectica, Inc., and re-incorporated in Delaware in November 1999 prior to changing our name to Determine, Inc. on October 15, 2015. Our principal executive office is located at 615 West Carmel Drive, Suite 100, Carmel, Indiana 46032. Our website is www.determine.com.
+
+AVAILABLE INFORMATION
+
+We file annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy and information statements and amendments to reports filed or furnished pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended. The public may read and copy these materials at the SEC’s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain information on the operation of the public reference room by calling the SEC at 1-800-SEC-0330. The SEC also maintains a website (www.sec.gov) that contains reports, proxy and information statements and other information regarding Determine, Inc. and other companies that file materials with the SEC electronically. You may also obtain copies of reports filed with the SEC, free of charge, on our website at www.determine.com.
+
+7
+
+Item 1A. Risk Factors 
+
+Set forth below and elsewhere in this Annual Report on Form 10-K, and in the other documents we file with the SEC, are risks and uncertainties that could cause actual results to differ materially from the results contemplated by the forward-looking statements contained in this Annual Report on Form 10-K. Prospective and existing investors are strongly urged to carefully consider the various cautionary statements and risks set forth in this annual report and our other public filings.
+
+We have a history of losses and may incur losses in the future.
+
+We incurred net losses of approximately $9.9 million and $9.4 million for the fiscal years ended March 31, 2018 and 2017, respectively. We had an accumulated deficit of approximately $321.7 million as of March 31, 2018. We may continue to incur losses in the future for a number of reasons, including uncertainty as to the level of our future revenues and the timing and impact of our cost reduction efforts. While we have made significant progress towards aligning our research and development, sales and marketing, and general and administrative expenses with revenue, given the size of our business relative to the costs associated with being a public reporting company, we will need to continue to control our expenses while maintaining and increasing revenue in order to achieve profitability. If our revenue declines or grows more slowly than we currently anticipate or our operating expenses exceed our expectations, our losses may continue or increase, which would harm our business and operating results.
+
+Our business could be seriously harmed if we lose the services of our key personnel.
+
+Our success depends substantially on the contributions and abilities of our executive management team and other key employees. We believe that these individuals understand our operational strategies and priorities and the steps necessary to drive our long-term growth and stockholder value. The loss of services of one or more members of our management team or other key personnel could disrupt our operations and seriously harm our business.
+
+We have relied and expect to continue to rely on orders from a relatively small number of customers for a substantial portion of our revenues, and the loss of any of these customers would significantly harm our business and operating results.
+
+Our revenues are dependent on orders from a relatively small number of customers. No customer was over 10% of our revenue in fiscal year 2018 or 2017. We expect that we will continue to depend upon a relatively small number of customers for a substantial portion of our revenues for the foreseeable future. As a result, if we fail to successfully sell our products and services to one or more large customers in any particular period or a large customer purchases fewer of our products or services, defers or cancels orders, or terminates its relationship with us, our business and operating results would be significantly harmed. 
+
+If we are unable to attract new customers, the growth of our revenues will be adversely affected. 
+
+To increase our revenues, we must continue to add new customers, increase the number of users for existing customers, and sell additional modules to current customers. As our industry matures or if competitors introduce lower cost and/or differentiated products or services that are perceived to compete with ours, our ability to sell based on factors such as pricing, technology, and functionality could be impaired. As a result, we may be unable to attract new customers at rates or terms that would be favorable or comparable to prior periods, which could have an adverse effect on the growth of our revenues.
+
+Our annual and quarterly revenues and operating results are inherently unpredictable and subject to fluctuations, and as a result, we may fail to meet the expectations of securities analysts and investors, which could cause volatility or adversely affect the trading price of our common stock.
+
+The Company generates revenue by providing its Software-as-a-Service (“SaaS”) solutions through subscription license arrangements and related professional services, as well as through perpetual and term licenses and related software maintenance and professional services. The Company recognizes revenue in accordance with generally accepted accounting standards for software and service companies. The Company recognizes revenue when (1) persuasive evidence of an arrangement exists, (2) delivery has occurred or services have been rendered, (3) fees are fixed or determinable and (4) collectability is reasonably assured. If we determine that any one of the four criteria is not met, we will defer recognition of revenue until all the criteria are met.
+
+Our annual and quarterly recurring and non-recurring revenues may fluctuate due to our inability to perform services, achieve specific milestones and obtain formal customer acceptance of specific elements of the overall completion of a project. As we provide such services and products, the timing of delivery and acceptance, changed conditions with the customers and projects could result in changes to the timing of our revenue recognition, and thus, our operating results.
+
+Likewise, if our customers do not renew subscription agreements or maintenance services or purchase additional products, our operating results could suffer. Historically, we have derived and expect to continue to derive a significant portion of our total revenue from existing customers who purchase additional products or renew subscription licenses and maintenance agreements. Our customers may not renew such maintenance agreements or expand the use of our products. In addition, as we introduce new products, our current customers may not require or desire the features of our new products. If our customers do not renew their subscriptions or maintenance agreements with us or choose not to purchase additional products, our operating results could suffer.
+
+8
+
+Because we rely on a limited number of customers, the timing of customer acceptance or milestone achievement, the amount of services we provide to a single customer, or the failure to replace a significant customer can significantly affect our operating results. Because expenses are relatively fixed in the near term, any shortfall from anticipated revenues could cause our quarterly operating results to fall below anticipated levels.
+
+We may also experience seasonality in revenues. For example, our annual and quarterly results may fluctuate based upon our customers’ calendar year budgeting cycles. These seasonal variations may lead to fluctuations in our annual and quarterly revenues and operating results.
+
+Based upon the foregoing, we believe that period-to-period comparisons of our results of operations are not necessarily meaningful and that such comparisons should not be relied upon as indications of future performance. In some future period, our operating results may be below the expectations of public market analysts and investors, which could cause volatility or a decline in the price of our common stock.
+
+Our future success depends on our proprietary intellectual property, and if we are unable to protect our intellectual property from potential competitors, our business may be significantly harmed.
+
+We rely on a combination of patent, trademark, trade secret and copyright law and contractual restrictions to protect the proprietary aspects of our technology. These legal protections afford only limited protection for our technology. We currently hold eight patents in the United States. In addition, we have various trademarks registered or pending registration in various jurisdictions. Our trademark applications might not result in the issuance of any trademarks. Our patents or any trademarks might be invalidated or circumvented or otherwise fail to provide us any meaningful protection. We seek to protect the source code for our software, documentation and other written materials under trade secret and copyright laws. We license our software pursuant to license agreements, which impose certain restrictions on the licensee’s ability to utilize the software. We also seek to avoid disclosure of our intellectual property by requiring employees and consultants with access to our proprietary information to execute confidentiality agreements. Despite our efforts to protect our proprietary rights, unauthorized parties may attempt to copy aspects of our products or to obtain and use information that we regard as proprietary. In addition, the laws of many countries do not protect our proprietary rights to as great an extent as do the laws of the United States. Litigation may be necessary in the future to enforce our intellectual property rights, to protect our trade secrets and to determine the validity and scope of the proprietary rights of others. Our failure to adequately protect our intellectual property could have a material adverse effect on our business and operating results.
+
+It is possible that in the future, other third parties may claim that our current or potential future products infringe their intellectual property rights. Any claims, with or without merit, could be time-consuming, result in costly litigation, divert management’s time from developing our business, cause product shipment delays, require us to enter into royalty or licensing agreements or require us to satisfy indemnification obligations to our customers. Royalty or licensing agreements, if required, may not be available on terms acceptable to us or at all, which could seriously harm our business.
+
+Our lengthy sales cycle for our products makes it difficult for us to forecast revenue and exacerbates the variability of quarterly fluctuations, which could cause our stock price to decline.
+
+The sales cycle of our products has historically averaged between nine to twelve months and may sometimes be significantly longer. We are generally required to provide a significant level of education regarding the use and benefits of our products, and potential customers tend to engage in extensive internal reviews before making purchase decisions. In addition, the purchase of our products typically involves a significant commitment by our customers of capital and other resources and is therefore subject to delays that are beyond our control, such as customers’ internal budgetary procedures and the testing and acceptance of new technologies that affect key operations. In addition, because we target large companies, our sales cycle can be lengthier due to the decision process in large organizations. As a result of our products’ long sales cycles, we face difficulty predicting the quarter in which sales to expected customers may occur. If anticipated sales from a specific customer for a particular quarter are not realized in that quarter, our operating results for that quarter could fall below the expectations of financial analysts and investors, which could cause our stock price to decline.  
+
+Developments in the market for cloud-based software solutions, including our Source-to-Pay, Procure-to-Pay and Enterprise Contract Lifecycle Management (“ECLM”), may harm our operating results, which could cause a decline in the price of our common stock.
+
+The market for cloud-based software solutions, including Source-to-Pay, Procure-to-Pay and ECLM, is evolving rapidly. In view of changing market trends, including vendor consolidation, the competitive environment growth rate and potential size of the market are difficult to assess. The growth of the market is dependent upon the willingness of businesses and consumers to purchase complex goods and services over the Internet and the acceptance of the Internet as a platform for business applications. In addition, companies that have already invested substantial resources in other methods of Internet selling may be reluctant or slow to adopt a new approach or application that may replace, limit or compete with their existing systems. With the transition of our focus to a subscription sales SaaS model, which may help address certain market challenges, the rapid change in the marketplace nonetheless poses a number of concerns. Any decrease in technology infrastructure spending may reduce the size of the market for our solutions. Our potential customers may decide to purchase more complete solutions offered by larger competitors instead of individual applications. If the market for our solutions is slow to develop, or if our customers purchase more fully integrated products, our business and operating results would be significantly harmed.
+
+9
+
+We face intense competition, which could reduce our sales, prevent us from achieving or maintaining profitability and inhibit our future growth.
+
+The market for similar software and services is intensely competitive and rapidly changing. We expect competition to persist and intensify, which could result in price reductions, reduced gross margins and loss of market share. Our principal competition comes from (i) publicly held and private software companies that offer integrated Source-to-Pay solutions or specific sourcing, procurement, payables, contract management and/or sales solutions and (ii) internally developed solutions. Existing and potential competitors include companies such as SAP (Ariba), Apttus, Coupa and Ivalua.
+
+Our competitors may intensify their efforts in our market. In addition, other enterprise software and SaaS companies may offer competitive products in the future. Competitors vary in size, in the scope and breadth of the products and services offered. Although we believe we have advantages over our competitors including the comprehensiveness of our solution, some of our competitors and potential competitors have significant advantages over us, including:
+
+Our competitors may also bundle their products in a manner that may discourage users from purchasing our products. Current and potential competitors may establish cooperative relationships with each other or with third parties or adopt aggressive pricing policies to gain market share. Competitive pressures may require us to reduce the prices of our products and services. We may not be able to maintain or expand our sales if competition increases, and we are unable to respond effectively.
+
+If we do not keep pace with technological change, including maintaining interoperability of our products with the software and hardware platforms predominantly used by our customers, our products may be rendered obsolete, and our business may fail.
+
+Our industry is characterized by rapid technological change, changes in customer requirements, frequent new product and service introductions and enhancements, and emerging industry standards. In order to achieve broad customer acceptance, our products must be compatible with major software and hardware platforms used by our customers. In addition, our products are required to interoperate with electronic commerce applications and databases. We must continually modify and enhance our products to keep pace with changes in these operating systems, applications and databases. Our Source-to-Pay, ECLM and Configuration products are complex, and new products and product enhancements can require long development and testing periods. If our products were to be incompatible with a popular new operating system, electronic commerce application or database, our business would be significantly harmed. In addition, the development of entirely new technologies to replace existing software could lead to new competitive products that have better performance or lower prices than our products and could render our products obsolete and unmarketable.
+
+Our failure to meet customer expectations on deployment of our products could result in negative publicity and reduced sales, both of which would significantly harm our business and operating results.
+
+In the past, a small number of our customers have experienced difficulties or delays in completing implementation of our products. We may experience similar difficulties or delays in the future. Deploying our products typically involves integration with our customers’ legacy systems, such as existing databases and enterprise resource planning software as well adding their data to the system. Failing to meet customer expectations on deployment of our products could result in a loss of customers and negative publicity regarding us and our products, which could adversely affect our ability to attract new customers. In addition, time-consuming deployments may also increase the amount of service personnel we must allocate to each customer, thereby increasing our costs and adversely affecting our business and operating results.
+
+If we are unable to maintain our direct sales force, sales of our products and services may not meet our expectations, and our business and operating results will be significantly harmed.
+
+We depend on our direct sales force for a significant portion of our current sales, and our future growth depends in part on the ability of our direct sales force to develop customer relationships and increase sales to a level that will allow us to reach and maintain profitability. If we are unable to retain qualified sales personnel or if newly hired personnel fail to develop the necessary skills or to reach productivity when anticipated, we may not be able to increase sales of our products and services, and our results of operations could be significantly harmed.
+
+If we are unable to successfully manage our professional services organization, we will be unable to provide our customers with technical support for our products, which could significantly harm our business and operating results.
+
+Non-recurring revenues are mainly comprised of revenues from professional services for system implementations and enhancements and training. Professional services generated 22% and 24% of our total revenues during the fiscal years ended March 31, 2018 and 2017, respectively. Our professional services revenues have been responsible for a larger portion of losses than recurring revenues. We often charge for our professional services on a fixed-fee basis. If we are required to spend more hours than planned without being able to bill our customers for these overages, our cost of services revenues could exceed the fees charged to our customers on certain engagements and could cause us to recognize a loss on a contract, which would adversely affect our operating results. In addition, if we are unable to provide these professional services, we may lose sales or incur customer dissatisfaction, and our business and operating results could be significantly harmed. 
+
+10
+
+If new versions and releases of our products contain errors or defects, we could suffer losses and negative publicity, which would adversely affect our business and operating results.
+
+Complex software products such as ours may contain errors or defects, including errors relating to security, particularly when first introduced or when new versions or enhancements are released. In the past, we have discovered defects in our products and provided product updates to our customers to address such defects. Our products and other future products may contain defects or errors that could result in lost revenues, a delay in market acceptance or negative publicity, each of which would significantly harm our business and operating results.
+
+Demand for our products and services will decline significantly if our software cannot support and manage a substantial number of users.
+
+Our strategy requires that our products be highly scalable. To date, only a limited number of our customers have deployed our products on a large scale. If our customers cannot successfully implement large-scale deployments, or if they determine that we cannot accommodate large-scale deployments, our business and operating results would be significantly harmed.
+
+If we become subject to litigation, it could be costly and time consuming to defend and could distract us from focusing on our business and operations.
+
+Since our software applications are company-wide, mission-critical computer applications with a potentially strong impact on our procurement, payables, contracting and customers’ sales, errors, defects or other performance problems could result in financial or other damages to our customers. Although our license agreements generally contain provisions designed to limit our exposure to liability claims, existing or future laws or unfavorable judicial decisions could negate such limitation of liability provisions. Litigation, even if it were unsuccessful, would be time consuming and costly to defend.
+
+Our results of operations will be reduced by charges associated with stock-based compensation.
+
+We have in the past and expect in the future to incur a significant amount of charges related to securities issuances, which will negatively affect our operating results. We use the Black-Scholes-Merton option pricing model to determine the fair value of our share-based payments and recognize compensation cost on a straight-line basis over the vesting periods. This pronouncement from the FASB provides for certain changes to the method for valuing stock-based compensation. Among other changes, ASC 718 applies to new awards and to awards that are outstanding which are subsequently modified or cancelled. Compensation expense calculated under ASC 718 will continue to negatively impact our operating results.
+
+The majority of our customers are hosted by a third-party providers.
+
+The majority of our customers’ licensed software applications are hosted by a third-party data center provider under contract to us. Failure of a data center provider to maintain service levels as contracted or required by law, rule, or regulation could result in customer dissatisfaction, customer losses and potential product warranty or performance liabilities and potential regulatory penalties, including significant fines.
+
+Anti-takeover defenses that we have in place could prevent or frustrate attempts by stockholders to change our board of directors or the direction of our company.
+
+Provisions of our amended and restated certificate of incorporation, as amended to date, our amended and restated bylaws and Delaware law may make it more difficult for or prevent a third party from acquiring control of us without approval of our directors. These provisions include:
+
+These provisions may have the effect of entrenching our board of directors and may deprive or limit your strategic opportunities to sell your shares.
+
+11
+
+Restrictions on export of encrypted technology could cause us to incur delays in international product sales, which would adversely impact the expansion and growth of our business.
+
+Our software utilizes encryption technology, the export of which is regulated by the United States government. If our export authority is revoked or modified, if our software is unlawfully exported or if the United States adopts new legislation restricting export of software and encryption technology, we may experience delay or reduction in the sale of our software and services internationally. Current or future export regulations could limit our ability to distribute our offerings outside of the United States which would have a negative impact on our operating results as we rely materially on other jurisdictions. While we take precautions against unlawful exportation of our software, we cannot effectively control the unauthorized distribution of software across the Internet.
+
+Unauthorized break-ins or other assaults on our computer systems could harm our business.
+
+Our servers are vulnerable to physical or electronic break-ins and similar disruptions, which could lead to loss of data or public release of proprietary information. In addition, unauthorized persons may improperly access our data. These and other types of attacks could harm us. Actions of this sort may be very expensive to remedy, result in significant regulatory fines and could adversely affect our results of operations.
+
+Increasing government regulation of the Internet could limit the market for our products and services, or impose greater tax burdens on us or liability for transmission of protected data.
+
+As SaaS, electronic commerce and the Internet continue to evolve, federal, state and foreign governments may adopt laws and regulations covering issues such as user privacy, taxation of goods and services provided over the Internet, pricing, content and quality of products and services. If enacted, these laws and regulations could limit the market for our products and services. Although many of these regulations may not apply directly to our business, we expect that laws regulating the solicitation, collection or processing of personal or consumer information could indirectly affect our business and regulations such as the General Data Protection Regulation (“GDPR”) (EU) 2016/679 will impact our business. Any failure to comply with GDPR or other laws, rules or regulations related to the handling of personal or sensitive information could result in significant penalties and fines and adversely affect our results of operations.
+
+We may not be able to secure additional financing on favorable terms, or at all, to meet our future capital needs.
+
+We have funded our operations since inception primarily through equity and debt financings and payments by customers. We do not know when or if our operations will generate sufficient cash to fund our ongoing operations. Our existing credit facility is a material source of funding for our operations and it currently has a maturity date of April 20, 2019. It is a condition of our existing credit facility that we maintain certain guarantees from Lloyd I. Miller, III (“Mr. Miller”, as succeeded by the estate of Lloyd I. Miller, III after his death ( Miller”)), the company’s largest stockholder, and its affiliates. The current guaranties are in effect through April 30, 2019. The guaranties also provide that if the maturity date of our existing credit facility is subsequently amended, the guaranties would automatically extend for a period covering through the extended maturity date under our current credit facility, but no later than July 30, 2020. There is no guarantee our current credit facility will be extended and we may not have access to credit facilities if we are not able to maintain guaranties, for which there is no assurance.
+
+In the future, we may require additional capital to respond to business opportunities, challenges, acquisitions, a decline in the level of customer prepayments or unforeseen circumstances and may determine to engage in equity or debt financings or enter into credit facilities for other reasons, and we may not be able to timely secure additional debt or equity financing on favorable terms, or at all. If guaranties are required, we may not be able to timely secure them and/or they may require additional costs to the company. Any debt financing obtained by us in the future could involve restrictive covenants relating to our capital raising activities and other financial and operational matters, which may make it more difficult for us to obtain additional capital and to pursue business opportunities, including potential acquisitions. If we raise additional funds through further issuances of equity, convertible debt securities or other securities convertible into equity, our existing stockholders could suffer significant dilution in their percentage ownership of our company, and any new equity securities we issue could have rights, preferences and privileges senior to those of holders of our common stock. If we are unable to obtain adequate financing or financing on terms satisfactory to us when we require it, our ability to continue to grow or support our business and to respond to business challenges could be significantly limited.
+
+Following Mr. Miller’s death, Neil S. Subin (“Mr. Subin”) filed a Schedule 13D related to the positions reported on a Schedule 13D filed by Mr. Miller on December 1, 2009, as subsequently amended. Mr. Subin’s principal occupation is investing assets held, among others, by or on behalf of certain entities owned by or for the estate of the late Mr. Miller. If Mr. Subin pursues a different investment strategy than Mr. Miller, our ability to continue to work with our majority shareholder to grow or support our business and to respond to business challenges could be significantly limited.
+
+12
+
+We are subject to international business uncertainties that could harm our business and results of operations or slow our growth.
+
+Our ability to grow our business and our future success will depend in part on our ability to expand our operations and customer base worldwide. During fiscal 2011, we entered into a relationship with a third party that opened a research and operations center in Odessa, Ukraine. The Ukraine has experienced considerable political events over the last number of years, and while we have put certain contingency plans in place to minimize any disruption, such turmoil may impact our operations and, in turn, could compromise our ability to develop our products at the pace and cost that we desire.
+
+Risks Related to Ownership of Common Stock
+
+Our stock price could decline because of recent financing activities or as a result of continued operating losses.
+
+On March 11, 2015, the Company entered into a Junior Secured Convertible Note Purchase Agreement with Miller, MILFAM II L.P. and the Lloyd I. Miller Trust A-4, two affiliates of Miller (collectively the “Debt Investors”), pursuant to which the Company issued and sold junior secured convertible promissory notes to the Debt Investors in the aggregate principal amount of $3 million, which notes were amended on December 16, 2015 and December 27, 2016 (as amended, the “March 2015 Notes”). The March 2015 Notes are due on December 16, 2020. The Company has the option to pay any amounts of interest due under the March 2015 Notes by capitalizing, compounding and adding to the unpaid principal amount of the March 2015 Notes the amount of accrued interest, based upon an interest rate amount calculated at 10% per year, provided that the Company is not then under default under the March 2015 Notes or related financing agreements. The outstanding principal and interest under the March 2015 Notes may be converted into shares of Company common stock at the sole option of the Debt Investors at any time prior to the maturity date, at a conversion price of $5.70 per share (as may be adjusted for any subdivision by any stock split, stock dividend, recapitalization, reorganization, scheme, arrangement or similar event occurring prior to such record date).
+
+On June 21, 2017, the Debt Investors elected to convert approximately $1.0 million of outstanding interest and principal payable under the March 2015 Notes into an aggregate of 170,733 shares of the Company’s common stock at the conversion price of $5.70 per share. To induce the Debt Investors to convert the March 2015 Notes, the Company entered into a subscription and investment representation agreement with the Debt Investors pursuant to which the Company issued an additional 218,540 shares of common stock to the Debt Investors.
+
+On December 16, 2015, the Company entered into a Junior Secured Convertible Note Purchase Agreement with Miller and MILFAM II L.P., the Lloyd I. Miller Trust A-4 and Alimco Financial Corporation, a Delaware corporation formerly known as Alliance Semiconductor Corporation, each an affiliate of Miller (collectively the “Additional Debt Investors” and, together with the Debt Investors, the “Investors”), pursuant to which the Company issued and sold junior secured convertible promissory notes (the “December 2015 Notes”) to the Additional Debt Investors in the aggregate principal amount of $2.5 million, which notes were amended on December 27, 2016 (as amended, the “December 2015 Notes”). The December 2015 Notes are due on December 16, 2020. The Company has the option to pay any amounts of interest due under the December 2015 Notes by capitalizing, compounding and adding to the unpaid principal amount of the December 2015 Notes the amount of accrued interest, based upon an interest rate amount calculated at 10% per year, provided that the Company is not then under default under the December 2015 Notes or related financing agreements. The outstanding principal and interest under the December 2015 Notes may be converted into shares of Company common stock at the sole option of the Additional Debt Investors at any time prior to the maturity date, at a conversion price of $3.00 per share (as may be adjusted for any subdivision by any stock split, stock dividend, recapitalization, reorganization, scheme, arrangement or similar event occurring prior to such record date, and subject to adjustment in the event of certain private placements).
+
+Further, on December 27, 2016, the Company entered into a Junior Secured Convertible Note Purchase agreement with certain of the Additional Debt Investors) pursuant to which the Company issued and sold junior secured convertible promissory notes (the “December 2016 Notes” and, together with the March 2015 Notes and the December 2015 Notes, the “Notes”) to such Additional Debt Investors in the aggregate principal amount of $2 million. The December 2016 Notes are due on December 27, 2021. The Company has the option to pay any amounts of interest due under the December 2016 Notes by capitalizing, compounding and adding to the unpaid principal amount of the December 2016 Notes the amount of accrued interest, based upon an interest rate amount calculated at 12% per year, provided that the Company is not then under default under the December 2016 Notes or related financing agreements. The outstanding principal and interest under the December 2016 Notes may be converted into shares of Company common stock at the sole option of the holders of such December 2016 Notes at any time prior to the maturity date, at a conversion price of $3.00 per share (as may be adjusted for any subdivision by any stock split, stock dividend, recapitalization, reorganization, scheme, arrangement or similar event occurring prior to such record date, and subject to adjustment in the event of certain private placements).
+
+Additionally, in the event of a merger, consolidation, or sale of the Company or substantially all of its assets, the Notes may, at the election of the Investors, be either repaid in cash or converted into shares of Company common stock at the then-current conversion price for each such Note.
+
+Assuming conversion in full of all obligations under the Notes at the end of the term, approximately an additional 3.0 million shares of common stock will be issued and outstanding, diluting our stockholders. Existing stockholders also will suffer significant dilution in ownership interests and voting rights and our stock price could decline as a result of potential future conversion of the Notes. Additionally, sales in the public market of the shares of common stock acquired upon conversion of the Notes, or the perception that such sales could occur, could adversely affect the prevailing market price of our common stock and impair our ability to raise funds in additional stock financings. Any additional equity or convertible debt financings in the future could result in further dilution to our stockholders.
+
+13
+
+ The Investors have substantial voting power on matters submitted to a vote of stockholders.
+
+Based on 15,049,700 shares of common stock outstanding as of March 31, 2018, the shares of common stock issued or issuable to the Investors upon conversion of the Notes would represent, in the aggregate, approximately 20% of the voting power of our stock.  Additionally, Miller, together with its affiliated entities, participated in the debt financings described above and, following Mr. Miller’s death, Mr. Subin is now the Company’s largest existing stockholder as a result thereof. Because the Investors own a significant percentage of our voting power, they may have considerable influence in determining the outcome of any corporate transaction or other matter submitted to our stockholders for approval, including the election of directors and approval of mergers, consolidations and the sale of all or substantially all of our assets.
+
+In addition, the ownership by the Investors of a substantial percentage of our total voting power could make it more difficult and expensive for a third party to pursue a change of control of the Company, even if a change of control would generally be beneficial to our stockholders.
+
+ Item 1B. Unresolved Staff Comments
+
+Not applicable.
+
+Item 2. Properties
+
+Facilities
+
+We lease approximately 8,795 square feet of space for our corporate headquarters in Carmel, Indiana. We have additional domestic offices in Atlanta, Georgia and Washington D.C. We also have international sales offices in Paris, France, Aix-en-Provence, France and London, United Kingdom.
+
+From time to time, we are subject to certain routine legal proceedings, as well as demands, claims and threatened litigation, In the future we may be subject to lawsuits, including claims relating to intellectual property matters or securities laws. Any litigation, even if not successful against us, could result in substantial costs and divert management’s and other resources away from the operations of our business. If successful against us, we could be liable for large damage awards and, in the case of patent litigation, subject to injunctions that significantly harm our business. See Note 8, Litigation and Contingencies, for additional information regarding legal proceedings against us.
+
+ Not applicable.
+
+14
+
+PART II
+
+Our common stock is traded on The NASDAQ Capital Market (“NASDAQ”) under the symbol “DTRM.” Our common stock began trading in March 2000 under the symbol “SLTC,” which was changed to DTRM effective October 19, 2015.
+
+As of March 31, 2018, there were approximately 66 holders of record of our common stock. Brokers and other institutions hold many of such shares on behalf of stockholders. The table below sets forth the high and low sales price per share of our common stock for each quarter in the last two fiscal years.
+
+The trading price of our common stock could be subject to wide fluctuations in response to quarterly variations in operating results, announcements of technological innovations or new products by us or our competitors, changes in financial estimates or purchase recommendations by securities analysts and other events or factors. In addition, the stock market has experienced volatility that has affected the market prices of equity securities of many high technology companies and that often has been unrelated to the operating performance of such companies. These broad market fluctuations may adversely affect the market price of our common stock.
+
+Equity Compensation Plan Information
+
+The following table sets forth as of March 31, 2018, certain information regarding our equity compensation plans (in thousands, except per share amounts)(1)(2):
+
+15
+
+Stock Option Plans—Not Required to be Approved by Stockholders
+
+2001 Supplemental Plan
+
+We adopted the 2001 Supplemental Plan (the “Supplemental Plan”) on May 30, 2001; the Supplemental Plan did not require stockholder approval. A total of approximately 250,000 shares of common stock have been reserved for issuance under the Supplemental Plan. With limited restrictions, if shares awarded under the Supplemental Plan are forfeited, those shares will again become available for new awards under the Supplemental Plan. The Supplemental Plan permits the grant of non-statutory options and shares of restricted stock. Employees and consultants, who are not officers or members of the Board of Directors, are eligible to participate in the Supplemental Plan. Options are granted at an exercise price of not less than 85% of the fair market value per share on the date of grant. Options generally vest with respect to 25% of the shares one year after the options’ vesting commencement date and the remainder vest in equal monthly installments over the following 36 months. Options granted under the Supplemental Plan have a maximum term of ten years.
+
+The Compensation Committee of the Board of Directors administers the Supplemental Plan and has complete discretion to make all decisions relating to the interpretation and operation of the Supplemental Plan. The Compensation Committee has the discretion to determine which eligible persons are to receive an award, and to determine the type, number, vesting requirements and other features and conditions of each award. The exercise price of options may be paid with cash, outstanding shares of common stock, the cashless exercise method through a designated broker, a pledge of shares to a broker or a promissory note. The purchase price for newly issued restricted shares may be paid with cash, a promissory note or the rendering of past or future services. The Compensation Committee may reprice options and may modify, extend or assume outstanding options. The Compensation Committee may accept the cancellation of outstanding options in return for the grant of new options. The new option may have the same or a different number of shares and the same or a different exercise price. If a merger or other reorganization occurs, the agreement of merger or reorganization shall provide that outstanding options and other awards under the Supplemental Plan shall be assumed or substituted with comparable awards by the surviving corporation or its parent or subsidiary, shall be continued by the Company if it is the surviving corporation, shall have accelerated vesting and then expire early or shall be cancelled for a cash payment. If a change in control occurs, awards will become fully exercisable and fully vested if the awards do not remain outstanding, are not assumed by the surviving corporation or its parent or subsidiary and if the surviving corporation or its parent or subsidiary does not substitute its own awards that have substantially the same terms for the awards granted under the Supplemental Plan. If a change in control occurs and a plan participant is involuntarily terminated within 12 months following this change in control, then the vesting of awards held by the participant will accelerate, as if the participant provided another 12 months of service. A change in control includes: a merger or consolidation after which the then-current stockholders own less than 50% of the surviving corporation, a sale of all or substantially all of the assets, a proxy contest that results in replacement of more than one-half of the directors over a 24-month period or an acquisition of 50% or more of the outstanding stock by a person other than a person related to the Company, including a corporation owned by the stockholders. The Board of Directors may amend or terminate the Supplemental Plan at any time. The Supplemental Plan will continue in effect indefinitely unless the Board of Directors decides to terminate the plan earlier.
+
+Dahan Plan
+
+Gérard Dahan (“Mr. Dahan”), the Company’s recently appointed Chief Marketing Officer and Senior Vice President of EMEA, was granted (i) 20,000 performance-based restricted stock units and (ii) a non-qualified stock option to purchase 200,000 shares of the Company’s Common Stock effective November 14, 2017. The grant was made as an inducement that was a material component of Mr. Dahan’s compensation and subsequent acceptance of employment with the company and was granted as an employment inducement award pursuant to NASDAQ Listing Rule 5635(c)(4) approved by the members of the independent compensation committee of the board of directors of the Company.
+
+Turner Plan
+
+Kevin Turner (“Mr. Turner”), the Company’s recently appointed Senior Vice President – Customer Success, was granted a non-qualified stock option to purchase 100,000 shares of the Company’s Common Stock effective February 13, 2018. The grant was made as an inducement that was a material component of Mr. Turner’s compensation and subsequent acceptance of employment with the company and was granted as an employment inducement award pursuant to NASDAQ Listing Rule 5635(c)(4) approved by the members of the independent compensation committee of the board of directors of the Company.
+
+Dividend Policy
+
+We have never declared or paid any cash dividends on our capital stock. Whether or not a dividend will be paid in the future will be determined by our Board of Directors.
+
+16
+
+Recent Sales of Unregistered Securities
+
+Reference is made to the description of our sale and issuance of junior secured convertible promissory notes and unregistered shares of common stock on December 27, 2016 as disclosed in our Current Report on Form 8-K previously filed on December 30, 2016, our sale and issuance of unregistered shares of common stock on June 1, 2017 as disclosed in our Current Report on Form 10-Q previously filed on August 11, 2017 and our sale and issuance of unregistered shares of common stock in connection with a conversion of junior secured convertible promissory notes on June 21, 2017 as disclosed in our Current Report on Form 8-K previously filed on June 21, 2017.
+
+Item 6. Selected Financial Data.
+
+We are a “smaller reporting company” as defined by Regulation S-K and as such, are not required to provide the information contained in this item pursuant to Regulation S-K.
+
+17
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The following discussion and analysis should be read in conjunction with the consolidated financial statements and related notes included elsewhere in this Annual Report on Form 10-K. This discussion contains forward-looking statements reflecting our current expectations and estimates and assumptions concerning events and financial trends that may affect our future operating results or financial position. Actual results and the timing of events may differ materially from those contained in these forward-looking statements due to a number of factors, including those discussed in the “Risk Factors” section set forth above.
+
+Overview
+
+Determine, Inc. is a leading global provider of SaaS Source-to-Pay and Enterprise Contract Lifecycle Management (“ECLM”) solutions. We provide cloud-based software solutions that empower users across the full source-to-pay continuum, including sourcing, supplier management, contract management and procure-to-pay applications, to deliver efficiency and data insight for their operational business processes, third-party relationships and contractual obligations.
+
+The Determine Cloud Platform is an open technology infrastructure based on smart process application models. The goal of our platform is to establish awareness of relevant data, manage business documents, embed analytical tools, create a means for collaboration, and provide advanced process management tools for fully integrating business processes through an open application program interface (“API”) infrastructure. Built on a unified and highly scalable platform, we deliver deep and innovative capabilities in strategic sourcing, supplier management, ECLM, e-procurement, invoicing and other business operation areas.
+
+Summary of Operating Results for Fiscal 2018
+
+During the year ended March 31, 2018, our total revenues increased by 2% or $0.7 million, to $28.1 million compared with total revenues of $27.5 million during the year ended March 31, 2017. Recurring revenues, comprised of subscription license sales and services, maintenance sales from previously sold perpetual licenses, application services management and hosting revenues, increased to $21.9 million during the year ended March 31, 2018, compared to $20.9 million during the year ended March 31, 2017. As a percent of total revenues, recurring revenues comprised 78% and 76% of total revenues during the years ended March 31, 2018 and 2017, respectively. Non-recurring revenues, comprised of perpetual license sales and revenues from professional services for system implementations, enhancements and training, totaled $6.3 million, or 22% of total revenues, representing a decrease of $0.3 million, or 5%, over the year ended March 31, 2017. The increase in total revenues year over year resulted primarily from increased revenues from subscription revenue growth from new customers we entered into contract with during the current period.
+
+During the year ended March 31, 2018, our net loss from operations increased $0.5 million, or 5%, to $9.9 million, compared to $9.5 million during the year ended March 31, 2017. The increase in net loss is primarily due to increased operating expenses offset by increased gross profit, as we continue to grow and enhance our cloud-based solutions. See “Results of Operations” below for further discussion on the components on our net loss.
+
+Critical Accounting Policies and Estimates
+
+Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. Our significant accounting policies are described in notes accompanying the consolidated financial statements included in Item 8 of this Annual Report on Form 10-K. The preparation of the consolidated financial statements requires our management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues, expenses and related disclosure of contingent assets and liabilities. Estimates are based on information available as of the date of the financial statements, and accordingly, actual results in future periods could differ from these estimates. Significant judgments and estimates used in the preparation of the consolidated financial statements include, but are not limited to, those related to the allowance for doubtful accounts, fair values of financial instruments, intangible assets and goodwill, useful lives of intangible assets and property and equipment, fair values of stock-based awards, best estimate of selling price and income taxes. Our methods and accounting policies applicable to these critical estimates are as described in the notes to our consolidated financial statements.
+
+Results of Operations
+
+Revenues
+
+18
+
+Recurring revenues. Recurring revenues consist of subscription license sales and services, maintenance revenues from previously sold perpetual licenses and hosting revenues.  Recurring revenues increased $1.0 million, or 5%, during the year ended March 31, 2018, in comparison to the year ended March 31, 2017, due to subscription revenue growth, offset by decreased maintenance revenues. Subscription revenue growth continued to drive the growth in recurring revenues, due primarily to new customers we entered into contract with during the current period, offset by slightly decreased maintenance revenues.
+
+Subscription revenues grew to $18.2 million during the year ended March 31, 2018, compared to $17.0 million during the year ended March 31, 2017, representing a 7% increase. Maintenance revenues were $3.4 million during the year ended March 31, 2018, compared to $3.6 million during the year ended March 31, 2017, representing a 6% decrease.
+
+Recurring revenues continue to account for the majority of our total revenues, and we expect this trend to continue going forward as we continue to emphasize our cloud-based solutions. This will depend in part on the number of maintenance renewals and the number and size of new subscription license contracts. In addition, maintenance renewals are extremely dependent upon economic conditions, customer satisfaction and the level of need to make changes or upgrade versions of our software by our customers.
+
+Non-recurring revenues. Non-recurring revenues are mainly comprised of revenues from professional services for system implementations, enhancements and training. Non-recurring revenues decreased by $0.3 million, or 5%, during the year ended March 31, 2018, compared to the year ended March 31, 2017. This decrease was primarily due to increased time spent on unbillable support services as we focus on growing and strengthening our existing customer relationships. We expect non-recurring revenues to continue to fluctuate in future periods as a percentage of total revenues and in absolute dollars. This will depend on the number and size of new software implementations and follow-on services to our existing customers.
+
+Fluctuations in revenue are also due to the timing of revenue recognition, achievement of milestones, customer acceptance, changes in scope or renegotiated terms and additional services. In addition, we anticipate that as we continue to transition more of our business to our cloud-based solutions, revenue from our legacy software platforms will continue to decline.
+
+Sales to foreign customers accounted for 33% and 30% of total revenues during the years ended March 31, 2018 and 2017, respectively. The majority of these sales were denominated in US dollars. We do not anticipate that our exposure to foreign currency fluctuations will be significant in the foreseeable future.
+
+Cost of Revenues
+
+Cost of recurring revenues. Cost of recurring revenues consists of costs associated with supporting our data center, a fixed allocation of our research and development costs and salaries and related expenses of our support organization. During the year ended March 31, 2018, cost of recurring revenues increased $0.9 million, or 13%, compared to the year ended March 31, 2017, driven by amortization of capitalized software and increased maintenance costs.
+
+Cost of non-recurring revenues. Cost of non-recurring revenues is comprised mainly of salaries and related expenses of our services organization, fees paid to resellers and certain allocated corporate expenses. During the year ended March 31, 2018, cost of non-recurring revenues decreased $1.1 million, or 16%, compared to the year ended March 31, 2017, primarily due to reduced labor costs associated with delivering our cloud-based solutions.
+
+We expect costs of recurring and non-recurring revenues to remain relatively flat as a percentage of recurring revenues in the foreseeable future.
+
+Gross Profit 
+
+Gross profit dollars increased $0.8 million, or 6%, during the year ended March 31, 2018, compared to the year ended March 31, 2017. As we emphasize our cloud-based solutions, and move away from our legacy software platforms, our gross profit will fluctuate due to the timing between costs associated with deploying our newer solutions and the related revenue recognition.
+
+19
+
+Gross margins represent gross profit as a percentage of revenue and were affected by the factors discussed above under “Revenues” and “Costs of Revenues.” We expect that our overall gross margins will continue to fluctuate primarily due to the timing of revenue recognition. The impact on our gross margin will depend on the mix of services we provide, whether the services are performed by our professional services employees or third-party consultants and the overall utilization rates of our professional services organization.
+
+Operating Expenses
+
+Research and Development Expenses
+
+Research and development expenses consist mainly of salaries and related costs of our engineering, quality assurance, technical publication efforts and certain allocated expenses. During the year ended March 31, 2018, research and development costs increased $0.7 million, or 18%, compared to the year ended March 31, 2017, due primarily to further development of our cloud-based solutions in line with our transition from our legacy software platforms, offset by an increase in capitalized research and development costs. We capitalized $2.4 million and $1.8 million of research and development costs during the years ended March 31, 2018 and 2017, respectively.
+
+We expect research and development expenditures to slightly increase in the foreseeable future. As we continue to invest in enhancements to our existing products, by adding new features, improving functionality and incorporating feedback and suggestions from our customers, the expenditures will be offset by our ability to capitalize the related allowable costs.
+
+Sales and Marketing Expenses
+
+Sales and marketing expenses consist primarily of salaries and related costs for our sales and marketing organization, sales commissions, expenses for travel and entertainment, sales materials, advertising and certain allocated expenses. During the year ended March 31, 2018, sales and marketing expenses increased $0.5 million, or 5%, compared to the year ended March 31, 2017, due primarily to increased marketing efforts during the latter half of fiscal year 2018, which include lead generation programs, speaking programs, creation of production of thought leadership resources, event hosting and market analyst relations.
+
+We expect sales and marketing expenses to increase in the foreseeable future as we increase headcount and marketing efforts to promote our cloud-based solutions.
+
+General and Administrative Expenses 
+
+General and administrative expenses consist mainly of personnel and related costs for general corporate functions, including finance, accounting, legal, human resources, bad debt expense and certain allocated expenses.  General and administrative expense increased $0.5 million, or 7%, during the year ended March 31, 2018, compared to the year ended March 31, 2017, due primarily to increased legal expense related to securities work and tax planning and a gain in the settlement of an outstanding litigation during the year ended March 31, 2018.
+
+We expect general and administrative expenses to remain flat in the foreseeable future.
+
+20
+
+Other Expense, net
+
+Other expense, net consists primarily of interest expense on the credit facility, foreign currency transaction fluctuations and other miscellaneous expenditures. During year ended March 31, 2018, other expense decreased $0.1 million, or 5%, when compared to the year ended March 31, 2017, due primarily to decreased interest expense on our debt financing agreements.
+
+Benefit from Income Taxes
+
+We recorded an income tax benefit of $0.6 million and $0.2 million during the years ended March 31, 2018 and 2017, respectively. The increase in benefit was primarily due to the tax benefit from re-measuring our deferred tax liabilities and assets due to the corporate rate reduction from the Tax Cuts and Jobs Act of 2017.
+
+Liquidity and Capital Resources
+
+Our primary source of liquidity consisted of approximately $9.9 million in cash and cash equivalents as of March 31, 2018, primarily due to $4.9 million of proceeds received from a direct registration offering, net of related costs.
+
+Net cash used in operating activities for the year ended March 31, 2018 resulted primarily from our net loss of $9.9 million, offset by non-cash expense adjustments of $6.4 million. Net cash used in operating activities was $3.4 million during the year ended March 31, 2017, resulting primarily from our net loss of $9.5 million offset by non-cash expense adjustments of $5.5 million. Non-cash expense adjustments typically include items such as depreciation and amortization, stock-based compensation and income tax benefit or expense.
+
+Net cash used in investing activities for both the years ended March 31, 2018 and 2017 primarily consisted of capitalized software costs, which increased $0.6 million during the current period, compared to the prior period.
+
+The increase in net cash provided by financing activities during the year ended March 31, 2018, compared to the year ended March 31, 2017, was primarily due to $4.9 million of proceeds received from a direct registration offering, net of related costs, in June 2017, offset by the issuance of convertible notes and increased borrowings on our credit facility during the prior period.
+
+We expect to incur significant operating costs for the foreseeable future. We expect to fund our operating costs, as well as our future capital expenditures and liquidity needs, from a combination of available cash balances, internally generated funds raising additional funds through the sale and issuance of additional securities, reducing expenditures and drawing on our short-term credit facility. As a result, our net cash flows will depend heavily on the level of future sales, changes in deferred revenues and our ability to manage costs.
+
+While we have made significant progress in reducing our expenditures, our current cash on hand and future cash flows provided by operating activities may not be sufficient to fund our working capital and general corporate needs and the non-discretionary capital expenditures without increasing cash flows through our operating activities, raising additional funds through the sale and issuance of additional securities, reducing expenditures, borrowing additional funds under our credit facility or debt arrangements, or a combination of the foregoing. There can be no guarantee that additional financing will be available to us at this time or in the future, that any available financing will be on terms favorable to the Company and its stockholders or that additional funds will be available under our credit facility. 
+
+21
+
+Contractual Obligations
+
+The following table summarizes our outstanding contractual obligations as of March 31, 2018 and the effect those obligations are expected to have on our liquidity and cash flows in future periods:
+
+1 Minimum payments have not been reduced by minimum sublease rentals of $0.01 million in future under non-cancelable subleases.
+
+2 Amounts shown reflect an assumption of quarterly interest paid in the form of debt, as allowable under the convertible note agreements, and are not reduced by debt discounts or beneficial conversion features.
+
+Off-Balance Sheet Arrangements
+
+We have no off-balance sheet arrangements or transactions with unconsolidated limited purpose entities, nor do we have any undisclosed material transactions or commitments involving related persons or entities.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+We are a “smaller reporting company” as defined by Regulation S-K and as such, are not required to provide the information contained in this item pursuant to Regulation S-K. 
+
+22
+
+Item 8. Financial Statements and Supplementary Data.
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+23
+
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Shareholders and the Board of Directors of Determine, Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying consolidated balance sheets of Determine, Inc. (the “Company”) as of March 31, 2018 and 2017, and the related consolidated statements of operation and comprehensive loss, redeemable convertible preferred stock and equity, and cash flows for each of the two years in the period ended March 31, 2018, and the related notes (collectively referred to as “the financial statements”). In our opinion, the financial statements present fairly, in all material respects, the consolidated financial position of the Company as of March 31, 2018 and March 31, 2017, and the related consolidated results of its operations and its cash flows for each of the two years in the period ended March 31, 2018, in conformity with U.S. generally accepted accounting principles.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company in accordance with the U.S. federal securities law and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal controls over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+We have served as the Company’s auditor since 2007.
+
+June 29, 2018
+
+24
+
+DETERMINE, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(In thousands, except per share data)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+25
+
+DETERMINE, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+
+ (In thousands, except per share data)
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+26
+
+DETERMINE, INC.
+
+CONSOLIDATED STATEMENTS OF REDEEMABLE CONVERTIBLE PREFERRED STOCK AND EQUITY
+
+ (In thousands, except share data) 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+27
+
+DETERMINE, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+28
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Determine, Inc. (the “Company” or “Determine”) is a leading global provider of software-as-a-subscription (“SaaS”) source-to-pay, procure-to-pay and enterprise contract lifecycle management (“ECLM”) solutions. The Determine Cloud Platform provides procurement, sourcing, finance and legal professionals with the flexibility, agility and scalability they need to optimize spend, supplier, contract and financial performance goals. Determine empowers users across the full source-to-pay continuum, including sourcing, supplier management, contract management and procure-to-pay applications, to deliver efficiency and data insight for their operational business processes, third-party relationships and contractual obligations. Determine serves more than 250 global customers spanning a wide spectrum of industries including, but not limited to, financial services, insurance, pharmaceuticals, healthcare, retail, transportation and manufacturing. The Company’s common stock trades under the ticker symbol “DTRM” effective October 19, 2015.
+
+Basis of Presentation
+
+The accompanying consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States (“GAAP”) and include the accounts of the Company and its wholly-owned subsidiaries. All significant intercompany accounts and transactions have been eliminated. It also includes non-controlling interest, which is the portion of equity in a subsidiary not attributable to a parent. The non-controlling interest of the Company and its subsidiaries are not considered to be permanent equity. Non-controlling interest’s share of subsidiary earnings is reflected as net income or loss attributable to non-controlling interest in the consolidated statements of operations and comprehensive loss. Additionally, certain prior period amounts have been reclassified to conform to the current year presentation on the consolidated financial statements. The reclassification of the prior period amounts were not material to the previously reported consolidated financial statements.
+
+Liquidity
+
+The Company has incurred significant historical losses and negative cash flows from operations and has an accumulated deficit of $321.7 million at March 31, 2018. Until the Company can generate significant cash from operations, its ability to continue as a going concern is dependent upon obtaining additional financing. Management intends to raise additional funds through debt offerings and decreased expenditures until the Company has positive operating cash flows. To decrease expenditures, the Company has reduced sales and marketing programs, delayed development programs and is evaluating a reduction in employee headcount. Such actions may have a material adverse effect on the Company's financial position and results of operations. The accompanying consolidated financial statements do not include any adjustments that might result from the outcome of these uncertainties.
+
+Use of Estimates
+
+The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. On an ongoing basis, management evaluates these estimates, including, but not limited to, those related to the allowance for doubtful accounts, fair values of financial instruments, intangible assets and goodwill, useful lives of intangible assets and property and equipment, fair values of stock-based awards, best estimate of selling price and income taxes. Actual results could differ from those estimates.
+
+Concentrations of Credit Risk
+
+Financial instruments that potentially subject the Company to a concentration of credit risk consist of cash, cash equivalents and accounts receivable. The Company’s cash balances may, at times, exceed amounts insured by the Federal Deposit Insurance Corporation (“FDIC”). The Company has not experienced any losses on its deposits of cash and cash equivalents to date. Accounts receivable are derived from revenue earned from customers primarily located in the United States. The Company performs ongoing credit evaluations of its customers’ financial condition and generally does not require collateral. The Company maintains reserves for potential credit losses, and historically, such losses have not been significant.
+
+29
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+Fair Value of Financial Instruments 
+
+The Company’s financial instruments include cash and money market funds, trade receivables and accounts payable. Cash and cash equivalents are reported at fair value. The recorded carrying amount of trade receivables and accounts payable approximates their fair value due to their short-term nature. 
+
+Cash Equivalents
+
+The Company considers all highly liquid investments purchased with an original maturity of three months or less to be cash equivalents. The Company’s cash equivalents consist of money market funds and commercial paper, and are presented at fair value based on quoted market prices.
+
+Restricted Cash
+
+The Company’s restricted cash consists of certificates of deposits for credit cards utilized by employees out of the UK office.
+
+Accounts Receivable, Net of Allowance for Doubtful Accounts
+
+The Company evaluates the collectability of its accounts receivable based on a combination of factors. When the Company believes a collectability issue exists with respect to a specific receivable, the Company records an allowance to reduce that receivable to the amount that it believes to be collectible. In making the evaluations, the Company will consider the collection history with the customer, communications with the customer as to reasons for the delay in payment, disputes or claims filed by the customer, warranty claims, non-responsiveness of customers to collection calls and feedback from the responsible sales contact. In addition, the Company will also consider general economic conditions, the age of the receivable and the quality of the collection efforts.
+
+Property and Equipment, Net
+
+Property and equipment are stated at cost less accumulated depreciation. Depreciation is calculated using the straight-line method over the estimated useful lives of the assets. The estimated useful lives for computer software and equipment is three years, furniture and fixtures is five years, and leasehold improvements is the shorter of the lease term or estimated useful life, estimated at five years. Upon retirement or sale of assets, the cost and related accumulated depreciation and amortization are removed from the consolidated balance sheet and the resulting gain or loss is reflected in the consolidated statement of operations. Maintenance and repair costs are expensed as incurred.
+
+Capitalized Software Development Costs, Net
+
+The Company capitalizes costs for internal use software incurred during the application development. Costs related to preliminary project activities and post implementation activities are expensed as incurred. Capitalized software will be amortized once the product is ready for its intended use, using the straight-line method over the estimated useful lives of the assets, which is three years. The Company periodically reviews its capitalized software for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. There were no impairment charges during the years ended March 31, 2018 and 2017, respectively.
+
+Business Combinations
+
+The Company accounts for acquisitions using the acquisition method of accounting in accordance with Accounting Standards Codification (“ASC”) 805 - Business Combinations. Under the acquisition method of accounting, the total purchase consideration of an acquisition is allocated to the tangible assets, identifiable intangible assets and liabilities assumed based on their fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable assets acquired and liabilities assumed is recorded as goodwill. When determining the fair values of assets acquired and liabilities assumed, management makes significant estimates and assumptions, especially with respect to intangible assets. Critical estimates in valuing certain intangible assets include, but are not limited to, future expected cash flows from customer relationships, acquired patents and developed technology and discount rates. Management’s estimates of fair value are based on assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates.  
+
+30
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+Goodwill
+
+Goodwill represents the excess of the purchase consideration over the net tangible and identifiable intangible assets and liabilities acquired in a business combination and is allocated to reporting units expected to benefit from the business combination. The Company tests goodwill for impairment at least annually, or more frequently if events or changes in circumstances indicate that the assets may be impaired. The Company has elected to first assess certain qualitative factors to determine whether it is more likely than not that the fair value of its single reporting operating unit is less than the carrying amount as a basis for determining whether it is necessary to perform the two-step goodwill impairment test. If the Company determines that it is more likely than not that the fair value is less than its carrying amount, then the two-step goodwill impairment test will be performed. The first step, identifying a potential impairment, compares the fair value of the reporting unit with its carrying amount. If the carrying amount exceeds its fair value, the second step will be performed; otherwise, no further step is required. The second step, measuring the impairment loss, compares the implied fair value of the goodwill with the carrying amount of the goodwill. Any excess of the goodwill carrying amount over the applied fair value is recognized as an impairment loss, and the carrying value of goodwill is written down to fair value. There were no impairment charges recorded during years ended March 31, 2018 and 2017.
+
+Intangible Assets and Impairment of Long-Lived Assets
+
+Intangible assets consist of customer relationships, trade names and acquired technology. Intangible assets are recorded at fair value at the date of the acquisition and, for those assets having finite useful lives, are amortized using the straight-line method over their estimated useful lives, which generally range from two to five years. The Company periodically reviews its intangible and other long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. The Company then compares the carrying amounts of the assets with the future net undiscounted cash flows expected to be generated by such asset. Should an impairment exist, the impairment loss would be measured based on the excess carrying value of the asset over the asset’s fair value determined using discounted estimates of future cash flows. There were no impairment charges recorded during the years ended March 31, 2018 and 2017, respectively.
+
+Deferred Revenue
+
+Deferred revenue consists of customer billings or payments received in advance of the recognition of revenue and is recognized as revenue as the revenue recognition criteria described below are met.
+
+Revenue Recognition 
+
+The Company generates revenues by providing its software-as-a-service solutions through subscription license arrangements, and through related professional services and software maintenance. The Company presents revenue net of sales taxes and any similar assessments.
+
+Revenue recognition criteria. The Company recognizes revenue when (1) persuasive evidence of an arrangement exists, (2) delivery has occurred or services have been rendered, (3) fees are fixed or determinable and (4) collectability is reasonably assured. If the Company determines that any one of the four criteria is not met, the Company will defer recognition of revenue until all the criteria are met.
+
+Multiple-Deliverable Arrangements. The Company enters into arrangements with multiple-deliverables that generally include subscription, support and professional services. If a deliverable has standalone value, and delivery is probable and within the Company’s control, the Company accounts for the deliverable as a separate unit of accounting.
+
+Upon separating the multiple-deliverables into separate units of accounting, the arrangement consideration is allocated to the identified separate units based on a relative selling price hierarchy. The Company determines the relative selling price for a deliverable based on the vendor-specific objective evidence of the selling price (“VSOE”), if available, or its best estimate of the selling price (“BESP”), if VSOE is not available. The Company has determined that third-party evidence of selling price (“TPE”) is not a practical alternative due to differences in its service offerings compared to other parties and the availability of relevant third-party pricing information.
+
+For professional services and subscription services, the Company has not established VSOE due to lack of pricing consistency and other factors. Accordingly, the Company uses its BESP to determine the relative selling price.
+
+The Company determined BESP by considering its price list, as well as overall pricing objectives and market conditions. Significant pricing practices taken into consideration include the Company’s discounting practices, contract prices per user, the size and volume of the Company’s transactions, the customer demographic and its market strategy.
+
+Recurring revenues. Recurring revenues consist of subscription license sales and services, maintenance revenues from previously sold perpetual licenses and hosting revenues. Recurring revenues are recognized ratably over the stated contractual period.
+
+31
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+Non-recurring revenues. Non-recurring revenues are comprised of revenues from professional services for system implementations, enhancements and training. For professional services arrangements billed on a time-and-materials basis, services are recognized as revenue as they are rendered. For fixed-fee professional service arrangements, the Company recognizes revenue under the proportional performance method of accounting and estimates the proportional performance utilizing hours incurred to date as a percentage of total estimated hours to complete the project. If the Company does not have a sufficient basis to measure progress toward completion, revenue is recognized upon completion. The Company recognizes a loss for a fixed-fee professional service if the total estimated project costs exceed project revenues.
+
+Reimbursements, including those related to travel and out-of-pocket expenses are included in non-recurring revenues, and an equivalent amount of reimbursable expenses are included in non-recurring cost of revenues.
+
+Customer Concentrations
+
+Historically, a limited number of customers have accounted for a substantial portion of the Company’s revenues. However, during the years ended March 31, 2018 and 2017, no customer accounted for 10% or more of the Company’s revenues or net accounts receivable, respectively. 
+
+Geographic Information
+
+International revenues are attributable to countries based on the location of the customer. For the years ended March 31, 2018 and 2017, sales to international locations were derived primarily from France, the United Kingdom, Canada, Finland, Denmark, Australia, Switzerland, Bulgaria, Hong Kong, Belgium, Norway, Bermuda, the Netherlands, Italy, United Arab Emirates, Ireland, Germany and China.
+
+Advertising Expense
+
+The cost of advertising is expensed as incurred. Advertising expense for the years ended March 31, 2018 and 2017 was approximately $0.4 million and $0.3 million, respectively.
+
+Foreign Currency
+
+Non-monetary assets and liabilities are translated into U.S. dollar equivalents at the exchange rate in effect on the balance sheet date and revenues and expenses are translated into U.S. dollars using the average exchange rate over the applicable period. The Company’s United Kingdom and French subsidiaries’ functional currency is the local currency. Resulting currency translation adjustments are recorded in accumulated other comprehensive loss in the consolidated balance sheets.
+
+Accumulated Other Comprehensive Loss
+
+The accumulated other comprehensive loss balance consists of translation gains and losses related to our international subsidiaries with functional currencies other than the U.S. dollar, primarily the Euro, and the related deferred tax liability.
+
+Stock-Based Compensation
+
+The Company recognizes stock-based compensation expense for only those awards ultimately expected to vest on a straight-line basis over the requisite service period of the award, net of an estimated forfeiture rate. The Company estimates the fair value of stock options using a Black-Scholes-Merton valuation model, which requires the input of highly subjective assumptions, including the option’s expected term and stock price volatility. In addition, judgment is also required in estimating the number of stock-based awards that are expected to be forfeited. Forfeitures are estimated based on historical experience at the time of grant and revised, if necessary, in subsequent periods if actual forfeitures differ from those estimates. The assumptions used in calculating the fair value of share-based payment awards represent management’s best estimates, but these estimates involve inherent uncertainties and the application of management’s judgment. As a result, if factors change and the Company uses different assumptions, its stock-based compensation expense could be materially different in the future. 
+
+32
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+Income Taxes 
+
+The Company accounts for income taxes under the asset and liability method, which requires that deferred income taxes be provided for temporary differences between the financial reporting and tax basis of the Company’s assets and liabilities. In addition, deferred tax assets are recorded for the future benefit from the utilization of net operating losses and research and development credit carryforwards. A valuation allowance is provided against deferred tax assets unless it is more likely than not that they will be realized. The Company’s policy for accounting for uncertainty in income taxes requires the evaluation of tax positions taken or expected to be taken in the course of the preparation of tax returns to determine whether the tax positions are “more-likely-than-not” of being sustained by the applicable tax authority. Tax positions not deemed to meet the more-likely-than-not threshold would be recorded as a tax expense in the current year.
+
+Treasury Stock
+
+The Company’s equity incentive plans allow the settlement of share unit conversions through share withholding. Shares withheld are purchased back by the Company and reflected in treasury stock on the consolidated balance sheets. During the year ended March 31, 2017, there were 49,555 stock repurchases related to share unit conversions. There were no stock repurchases for the year ended March 31, 2018.
+
+Recent Accounting Pronouncements
+
+In June 2018, the Financial Accounting Standards Board (“FASB”) issued Accounting Standard Update (“ASU”) 2018-07, Compensation – Stock Compensation (Topic 718): Improvements to Nonemployee Share-Based Payment Accounting, which allows companies to account for nonemployee awards in the same manner as employee awards. The guidance is effective for fiscal years beginning after December 15, 2019, and interim periods within those annual periods. The Company does not expect the adoption of ASU 2018-07 to have a material impact on its consolidated financial statements.
+
+In May 2017, FASB issued ASU 2017-09, Compensation – Stock Compensation (Topic 718): Scope of Modification Accounting, which clarifies what constitutes a modification of a share-based payment award. This guidance is effective for fiscal years beginning after December 15, 2017. The Company does not expect the adoption of ASU 2017-09 to have a material impact on its consolidated financial statements.
+
+In January 2017, the FASB issued ASU 2017-04, Intangibles—Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment, which simplifies the accounting for goodwill impairments by eliminating step two from the goodwill impairment test. Instead, if the carrying amount of a reporting unit exceeds its fair value, an impairment loss shall be recognized in an amount equal to the excess, limited to the total amount of goodwill allocated to that reporting unit. ASU 2017-04 also clarifies the requirements for excluding and allocating foreign currency translation adjustments to reporting units related to an entity’s testing of reporting units for goodwill impairment, and clarifies that an entity should consider income tax effects from any tax deductible goodwill on the carrying amount of the reporting unit when measuring the goodwill impairment loss, if applicable. The guidance is effective for annual reporting periods beginning after December 31, 2019 and interim periods within those fiscal years. The Company is currently assessing the potential impact of the adoption of ASU 2017-04 on its consolidated financial statements.
+
+In January 2017, the FASB issued ASU 2017-01, Clarifying the Definition of a Business. The new guidance requires an entity to evaluate if substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or a group of similar identifiable assets; if so, the set of transferred assets and activities is not a business. The guidance also requires a business to include at least one substantive process and narrows the definition of outputs. This guidance will be effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2017. The Company does not expect the adoption of ASU 2017-01 to have a material impact on its consolidated financial statements.
+
+In November 2016, the FASB issued ASU 2016-18, Statement of Cash Flows (Topic 230): Restricted Cash, which requires restricted cash to be included with cash and cash equivalents when reconciling the beginning-of-period and end-of-period total amounts shown on the statement of cash flows. The update is effective for the Company beginning April 1, 2018. The Company believes the adoption of ASU 2016-18 will not have a material impact on its consolidated financial statements.
+
+In October 2016, the FASB issued ASU 2016-16, Accounting for Income Taxes (Topic 740): Intra-Entity Asset Transfers of Assets Other than Inventory, which removes the prohibition in ASC 740 against the immediate recognition of the current and deferred income tax effects of intra-entity transfers of assets other than inventory. The update is effective for the Company beginning April 1, 2018. The adoption of this update did not have a material impact on the Company’s consolidated financial statements.
+
+In August 2016, the FASB issued ASU No. 2016-15, Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments (Topic 230), which addresses eight specific cash flow matters with the objective of reducing diversity in practice in how certain cash receipts and cash payments are classified in the statement of cash flows. The update is effective for fiscal years beginning after December 15, 2017, including interim reporting periods within that fiscal year. The adoption of this update did not have a material impact on the Company’s consolidated financial statements.
+
+33
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+In March 2016, the FASB issued ASU 2016-09, Compensation-Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting. The amendments in this ASU affect all entities that issue share-based payment awards to their employees. The amendments simplify the accounting in various aspects for these types of transactions: i.e. Accounting for Income Taxes, Excess tax benefits on the Statements of Cash Flows, Forfeitures, Employee taxes and Intrinsic Value. The new guidance was effective for the Company beginning on April 1, 2017. The adoption of this update did not have a material impact on the Company’s consolidated financial statements.
+
+In February 2016, the FASB issued ASU 2016-02, Leases, which establishes a right-of-use (“ROU”) model that requires a lessee to record a ROU asset and a lease liability on the balance sheet for all leases with terms longer than 12 months. Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the income statement. The new standard is effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. Early adoption is permitted. A modified retrospective transition approach is required for lessees with capital and operating leases existing at, or entered into after, the beginning of the earliest comparative period presented in the financial statements, with certain practical expedients available. The Company is currently assessing the potential impact of the adoption of ASU 2016-02 on its consolidated financial statements. 
+
+In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers: Topic 606 and issued subsequent amendments to the initial guidance in August 2015,  March 2016, April 2016, May 2016, September 2017 and November 2017 within ASU 2015-14, ASU 2016-08, ASU 2016-10, ASU 2016-12, ASU 2017-13 and ASU 2017-14, respectively (ASU 2014-09, ASU 2015-14, ASU 2016-08, ASU 2016-10, ASU 2016-12, ASU 2017-13 and ASU 2017-14 collectively, “Topic 606”). Topic 606 supersedes nearly all existing revenue recognition guidance under GAAP. The core principle of Topic 606 is to recognize revenues when promised goods or services are transferred to customers in an amount that reflects the consideration that is expected to be received for those goods or services. Topic 606 defines a five-step process to achieve this core principle and, in doing so, it is possible more judgment and estimates may be required within the revenue recognition process than are required under existing GAAP, including identifying performance obligations in the contract, estimating the amount of variable consideration to include in the transaction price and allocating the transaction price to each separate performance obligation, among others. Topic 606 also provides guidance on the recognition of costs related to obtaining customer contracts. ASU No. 2015-14 deferred the effective date of the new revenue standard for periods beginning after December 15, 2016 to December 15, 2017. The Company has adopted the new standard under the full retrospective method and believes the adoption will not have a material impact on its consolidated financial statements. It will, however, require additional incremental disclosures, including information about the remaining transaction price and when the Company expects to recognize revenue. The Company continues to assess the new standard along with industry trends and additional interpretive guidance and may adjust its interpretation and implementation plan accordingly.
+
+The following is a summary of goodwill (in thousands):
+
+34
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+The following is a summary of other intangible assets (in thousands):
+
+Acquired developed technology and customer relationships are being amortized on a straight-line basis and have weighted-average remaining useful lives of 1.62 and 2.00 years, respectively, as of March 31, 2018. Amortization expense of intangible assets was $2.2 million and $2.1 million during the years ended March 31, 2018 and 2017, respectively.
+
+As of March 31, 2018, approximate amortization expense for intangible assets for each of the next five years is as follows:
+
+Property and equipment, net consist of the following:
+
+Depreciation expense was approximately $0.04 million and $0.1 million for the years ended March 31, 2018 and 2017, respectively. 
+
+The Company capitalizes costs for internal use software incurred during the application development stage that are included in research and development expenses. Costs related to preliminary project activities and post implementation activities are expensed as incurred. The Company capitalized $2.4 million and $1.8 million of research and development costs during the years ended March 31, 2018 and 2017, respectively.
+
+Capitalized software is amortized once the product is ready for its intended use, using the straight-line method over the estimated useful lives of the assets, which is three years. Amortization expense of capitalized software is included in the product cost of revenue and was $1.7 million and $1.2 million during the years ended March 31, 2018 and 2017, respectively. The unamortized balance of capitalized software was $3.0 million and $2.3 million as of March 31, 2018 and 2017, respectively.
+
+Management continues to evaluate the capitalized software development costs across all product lines and did not identify any indicators which required impairment to be recorded during the years ended March 31, 2018 or 2017.
+
+35
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+As of March 31, 2018 and 2017, accrued payroll and related liabilities, other accrued liabilities and deferred revenue consisted of the following:
+
+The Company leases office space in London, United Kingdom, Aix-en-Provence, France, Paris, France, Atlanta, Georgia, the District of Columbia and, for its headquarters, in Carmel, Indiana. The leases are non-cancelable operating leases with various expirations through July 2021. Rent expense, which is recognized on a straight-line basis over the lease term, was $0.5 million and $0.6 million during the years ended March 31, 2018 and 2017, respectively. The difference between the lease payments made and the lease expense recognized to date using the straight-line method is recorded as a liability and included within other accrued liabilities in the consolidated balance sheets.
+
+In connection with the relocation of its headquarters to Carmel, Indiana, on July 22, 2016, the Company entered into a Second Amendment to Lease with 2121 SEC TT, LLC (formerly SKBGS I, L.L.C.) to terminate its lease obligation at the San Mateo, California location as of July 31, 2016. The Company paid a one-time early termination fee equal to three months’ rent which was partially offset by the security deposit refund due.
+
+36
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+During the year ended March 31, 2017, the Company began subleasing a portion of its rental space in the District of Columbia to a related party associated with the Chairman of the Board of Directors. The subleases were terminated via mutual agreement during the year ended March 31, 2018. Rental income from the subleases was recognized on a straight-line basis over the lease term. The Company recognized $0.04 million and $0.02 million in sublease income during the years ended March 31, 2018 and 2017, respectively.
+
+Future minimum lease payments required under the Company’s lease agreements as of March 31, 2018 are as follows (in thousands):
+
+Minimum payments have not been reduced by minimum sublease rentals of $0.01 million in the future under non-cancelable subleases.
+
+From time to time, the Company is subject to certain routine legal proceedings, as well as demands, claims and threatened litigation, that arise in the normal course of its business. The Company believes that the ultimate amount of liability, if any, for any pending claims of any type (either alone or combined) will not materially affect its financial position, results of operations or liquidity. 
+
+In March 2015, a minority stockholder of b-pack Services SA, a French subsidiary of Determine SAS, which was acquired when the Company acquired b-pack SAS, initiated litigation in the Nanterre Commercial Court against b-pack SAS and its founders claiming indemnification rights for his contribution to the business of b-pack Services SA and seeking monetary damages and other relief. In July 2015, the same minority stockholder also initiated litigation in the Paris Commercial Court against Determine SAS to contest the merger between b-pack SAS and Selectica France SAS and seeking monetary damages and other relief.  Pursuant to an Agreement and Plan of Merger, dated February 28, 2017, effective March 31, 2017, Determine SAS acquired the additional minority interest in b-pack Services SA and the entity was dissolved. As part of the Agreement and Plan of Merger, on April 3, 2017, the Company paid the stockholder $0.2 million to indemnify the transaction and settle the pending litigations. The payment is reflected in general and administrative expenses on the consolidated statements of operations and comprehensive loss for the year ended March 31, 2017.
+
+In November 2015, the Company settled outstanding litigation based upon claims the Company alleged against some of its former employees and a competitor relating to the Company’s intellectual property. In April 2016, such competitor paid the Company the remaining settlement amount of $0.6 million, which is reflected in general and administrative expenses on the consolidated statements of operations and comprehensive loss for the year ended March 31, 2017.
+
+Warranties and Indemnifications
+
+The Company’s products are generally warranted to perform substantially in accordance with the functional specifications set forth in the associated product documentation. In the event there is a failure of such warranties, the Company generally is obligated to correct the product to conform to the product documentation or, if the Company is unable to do so, the customer is entitled to seek a refund of a pro rata portion of the purchase price of the product or service. The Company has not provided for a warranty accrual as of March 31, 2018 and 2017.
+
+The Company generally agrees to indemnify its customers against legal claims that the Company’s software infringes certain third-party intellectual property rights. In the event of such a claim, the Company is obligated to defend its customer against the claim and to either settle the claim at the Company’s expense or pay damages that the customer is legally required to pay to the third-party claimant. In addition, in the event of the infringement, the Company agrees to modify or replace the infringing product, or, if those options are not reasonably possible, to refund the purchase price of the software. To date, the Company has not been required to make any payment resulting from infringement claims asserted against its customers. As such, the Company has not provided for an indemnification accrual as of March 31, 2018 and 2017.
+
+37
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+Credit Facility
+
+On July 25, 2014, the Company and its wholly owned subsidiary, Determine Sourcing, Inc., entered into a Business Financing Agreement (the “Credit Facility”) with Western Alliance Bank, an Arizona corporation, as successor in interest to Bridge Bank, National Association (“Western Alliance Bank”). Through a series of ten amendments, at March 31, 2018, the Credit Facility provides a revolving receivables financing facility in an amount up to $5.0 million (the “Receivables Financing Facility”) and a revolving cash secured financing facility in an amount up to $8.0 million (the “Working Capital Facility”), for an aggregate revolving credit facility of up to $13.0 million, and matures on April 20, 2019. In the event of an early termination by the Company, a penalty of 1.0% of the total credit facility would be triggered.
+
+All amounts borrowed under the Credit Facility are secured by a general security interest on the assets of the Company and are subject to a 2.00 Current Ratio of (i) cash and cash equivalents plus all eligible receivables in relation to (ii) the Company’s current liabilities excluding current deferred revenue. The Company’s Credit Facility with Western Alliance contains certain financial covenants that require, among other things, the maintenance of an asset coverage ratio of not less than 2:00 to 1:00 at the end of each month. As of March 31, 2018, the Company met all the requirements and was in compliance.
+
+The Receivables Financing Facility may be drawn in amounts up to $5.0 million in the aggregate, subject to a minimum borrowing base requirement equal to 80% of the Company’s eligible accounts receivable as determined under the Credit Facility. The Working Capital Facility may be drawn in such amounts as requested by the Company, not to exceed the aggregate allowable amount. 
+
+Except as otherwise set forth in the Credit Facility, borrowings made under the Receivables Financing Facility will bear interest at a rate equal to the prime rate or 4.00%, whichever is greater, plus 0.25%. Borrowings made under the Working Capital Facility will bear interest at a rate equal to the financial institution’s certificate of deposit 30-day rate plus 200 basis points, with the total minimum monthly interest to be charged being $2,000. The Company’s interest rates under its Receivables Financing Facility and Working Capital Facility at March 31, 2018 were 5.00% and 2.15%, respectively.
+
+As of March 31, 2018 and March 31, 2017, the Company owed $12.1 million and $11.9 million, respectively, under the Credit Facility, and $0.9 million and $2.1 million were available for future borrowings, respectively.
+
+Loan Guaranties
+
+In order to satisfy certain conditions of amendments to the Credit Facility with Western Alliance Bank for additional funds, the Company’s largest shareholder or affiliates of such has entered into certain limited, non-revocable guaranties.
+
+In March 2015, Lloyd I. Miller, III (as succeeded by the estate of Lloyd I. Miller III after his death (“Miller”)), the Company’s largest stockholder, and one of its affiliates each entered into a Limited Guaranty with Western Alliance Bank to provide a limited, non-revocable guaranty of the Company’s Credit Facility for an aggregate amount of $2 million (the “2015 Guaranties”). In connection with the 2015 Guaranties, the Company agreed to pay Miller and its affiliates an aggregate commitment fee of $0.1 million and a monthly fee equal to (i) 1.0% of the loan amount then guaranteed under the 2015 Guaranties for the first 12 months of the term and (ii) 1.5% of the loan amount then guaranteed under the 2015 Guaranties for the second 12 months of the term.
+
+In February 2016, Alimco Financial Corporation, a Delaware corporation formerly known as Alliance Semiconductor Corporation (“ALMC”), an affiliate of Miller, entered into a Limited Guaranty with Western Alliance Bank to provide a limited, non-revocable guaranty of the Company’s Credit Facility in an amount of $3 million (the “2016 Guaranties”). In connection with the 2016 Guaranties, the Company agreed to pay ALMC a commitment fee of $0.1 million and a monthly fee equal to (i) 0.5% of the loan amount then guaranteed under the 2016 Guaranties for the first 12 months of the term and (ii) 0.75% of the loan amount then guaranteed under the 2016 Guaranties for the second 12 months of the term. Following the date that the Company draws from the Credit Facility the amount guaranteed under the 2016 Guaranties, the monthly fees shall increase to 1.0% during the first 12 months of the term and 1.5% during the second 12 months, respectively.
+
+In April 2016, the 2015 Guaranties and the 2016 Guaranties, and related fee agreements, were amended to mature on the same date as the Credit Facility. The Company agreed to pay Miller and its affiliates an additional aggregate cash fee of $0.1 million for the extension.
+
+In December 2016, the fee agreements associated with both the 2015 Guaranties and the 2016 Guaranties were amended to reduce the monthly fees accrued to 0.83% of the amounts guaranteed. Additionally, the Company issued 277,248 shares of Company common stock to the guarantors under the 2015 Guaranties and the 2016 Guaranties (the “Guarantors”), at an issue price equal to $1.89 per share, as payment for $524,000 of the monthly fees previously accrued under the agreements. These shares are not registered under the Securities Act.
+
+In January 2017, the 2016 Guaranties were extended from $3 million to $4 million (the “Amended 2016 Guaranty”). In connection with entering into the Amended 2016 Guaranty, ALMC provided cash collateral to Western Alliance Bank in the amount of $1 million. Western Alliance Bank, in its sole discretion, may reduce, but not increase, the additional guaranteed amount during the term. Alan Howe, a member of the Company’s board of directors, is the interim CEO of ALMC. The Company agreed to pay ALMC a commitment fee of $50,000 and a monthly fee during the term of the 2016 Guaranties equal to 10% of the additional guaranteed amount divided by 12.
+
+38
+
+DETERMINE, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, Continued
+
+In June 2017, the 2015 Guaranties and the Amended 2016 Guaranty were further amended to extend the term of the agreements (collectively, the “Amended Guaranties”) to April 30, 2019. In connection with the Amended Guaranties, the Company paid the Guarantors an extension fee of an aggregate of 50,000 shares of the Company’s common stock on a pro rata basis to each of the respective Guarantors. These shares are not registered under the Securities Act. The Amended Guaranties also provide that if the maturity date of the Credit Facility with Western Alliance is subsequently amended, the terms of the Amended Guaranties would automatically extend to a date ten days following the extended maturity date under such credit facility, but no later than July 30, 2020. Additionally, the Company would pay the Guarantors an additional extension fee of an aggregate of 62,500 shares of the Company’s common stock on a pro rata basis to each of the respective Guarantors.
+
+As of March 31, 2018, the Company had drawn from the Credit Facility $1 million of the guaranteed amounts under the 2015 guaranties. As of March 31, 2017, the Company had drawn from the Credit Facility the full $2 million guaranteed under the 2015 Guaranties. As of March 31, 2018 and 2017, the Company had drawn from the Credit Facility the full $4 million guaranteed under the 2016 Guaranties.
+Question: What types of securities has Brightcove registered?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

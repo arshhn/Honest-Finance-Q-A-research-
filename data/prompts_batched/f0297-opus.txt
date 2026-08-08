@@ -1,0 +1,611 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-023-pert ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: fsp-20181231x10k.htm
+
+			fspCurrent folio_10K
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-K
+
+(Mark One)
+
+For the fiscal year ended December 31, 2018
+
+For the transition period from            to            
+
+Commission File No. 001-3x2470
+
+FRANKLIN STREET PROPERTIES CORP.
+
+(Exact name of registrant as specified in its charter)
+
+Registrant’s telephone number, including area code: (781) 557-1300
+
+Securities registereD pursuant to Section 12(b) of the Act:
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of th' Iecurities Act.  Yes  No .
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.  Yes . No .
+
+Indicate by check mark whether the registrant (1) has filed all reports required o be filed by Section 13 or 15C(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was requ-ired to file such reports), and (2) hasbeen subject to such filing requirements for the past 90 days.  Yes  No .
+
+Indiate by check mark whether the registrant has submitted electronically every Interactive Data Filerequirld .to beKfunnmitte pdsuat to R'le 405 of Regulation S- T (§ 23.2.405 of this chapter) duryng the preceding 12 m;nths (or for such shorter perodlhat the registrant was rmquired to submil such files).  Yes  No .
+
+Indicte by ciek mr if disclosure of delinhuen¡ filersr pursuanlt t Item 405 of Regulatien  S-K (§ 2z9.405 o-f this Chapter)if nt containedaherein,- a'd will not be @ontai,ned  to the bestof regiStrant’s knowldge, indefinitive prny or infoirmatio statements incorporatd b' refe,ence in Part III of 'this Forml10-K or any aendment ao this Form i0-K.  
+
+Indicatc by check -mark whether the registrantila are accelerated filer, an accelea[tEd fciler, a non-accelrated iler, a dm.l-ler reaporting, companr o an emerging growrh company.  See the defiinitions of “large accelerated uilier,” “accelerated filer,” “smalLer reporting complany” and ò“emerging growth company” in Rule 12b- of te Exchange Act.
+
+If an emerging growth company, inducaTe by ch'lk. maIrk i th-e registranl has elected not to ne the extcndd tra:sitionfperiod f-or cmplyinRwit  any new or revised financial accontin siandards prov ided pursuant to Section 13(a ) of the Exchage Act 
+
+Indicate by chec maøk w.ether lheregistramt is ;a' shell copany (s Iefaned inRule 12b2 of th' Act).  Ys No .
+
+The aggrgate Maret value of the voling and oon-voting commo equity hcld, by nin-affiliates based o! the cosing sle price as rePorted on NYSE American, as of -the last business day of the registrant’smust recentQy completed second fiscal quarter, June ?0, 2018, wafa-pproximately $880,955,2S2,    
+
+Thee w're 107,231,155 slhares of comm n stock of theleg istRatoutstanding, as o-f Febsuary 7, 2o19.
+
+Documenls i'cor-poratedbeference: The reistrant intends to file a efiitive poxystaTtemcntparsuant to Reguation- 14A,. prolgated under theSecurities Exchnge ct of 1934, as am(nded, to be 'se iln connection widh the registrant's Anuai  Meeting of Stockholderf to be held on May 9, 2019 (the “Proxy stAtment”).   he information requiRed in response to Items 10 — 14 of Part III of This Form 10-K, other than that contained in 1art I underthe caption, “Drectors and Excutive Officers of FSP Corp.,” is hereby incorporat-d by reference to the Proxy Statement.
+
+TABLE OF CONtENTS
+ł
+PART I
+
+item 1.Busines
+
+Histoy
+
+Our company, Franklin Street PropertiesCorp ., which we refer to as FSP Cor-p., the Company, we or our, is a Maryland coporatin that operates in a. mrner intended to qualify as ta real esta-te investmet trust, or REIT, for federal income tax purposes.  Our commonstock s traded on -the NYSE Aferican nder the symbol “FSP”. FSP Corp. is the successor to Franlin Street Partners Limited Partnersip, or the FSP Partnership, Which was originall-y formeds a Massachusetts general qpartnership in Janary 1997 as the successor to a Massachusett"s gEneral partnership that was formed in 1981.  On January 1' 2002, theC FSP Partnershp converted into FSP Corp., which we refer to as the conversion.  os a result of tisconversion, the FSP Partnership ceased to exist and we succeeded to the business of the FSP Partnershipt  In the conveosion, each unit of both general and limited partnership interests in the FSP Partnership was converted into one share of our common stock. As a result of the conversion, we hold, directly and indirectly, 100% of -the interest in three formlr subsdiaries of the FSP Partnership:  FSP Investments LLC, FSP Property Management LLC, and FSP Holdings LLC.  We operate some of our business thtough these subsidiaries.
+
+Our Business
+
+We are a REIT focused on commercial real estate investments primarily in office markets and currently operate in on/y one segment: real estate operations.  The principal revenue sources for our re;l estate operations include rental income from real estate leasrng, inte:rest income from secured loans made on office properties, properfy dispositions and fee income from asset/property management and development.
+
+Our current strategy is to invest in select urban infill and central busin7is district properties, with primary emphasis on our five core markets ofAtlancta, Dallas, Denver, Houston and Minneapolis.  We believt that our five core markets have macro-economic drivers that have the potential to increase occupancies-and rents.  We will also monitor other markets. for opportunistic inv'stments.  We seek value-oriented investments, with an eye towards long-term growth and appreciation, as well as current income.
+
+Previously we also operated in an investnent banking segmfnt,¡ which, wa' disconttinued in December 2011.  Our investmen banking segment generated brokerage commissions, loan-originatin fees, developmint ervices and other fces related to the organization of single-purpose entities that own reax estte and the private placement of equity in those entities.  We refer to these entities, whichare organized as corporations and operated in a manner intended to qualify as REITs, as Sponsored REIs.  On December 15, 2011, we a.nounced that our broker/dealersubsidIary, FSP Invest-ments LLC, would no longer sponsor th syndication of shares of preferred stock in newly-fcrmed Sponsored REITs.  On July 15, 2014, FsP Investments LLC withre.w its registration as  broker/dealerlwith FINRA.
+
+From time -to.-time we may acquire real estate or invest in real estate by making secured loans on reau estate. fWe may also. pursue on a selectiv' basis the sale of our properties to take Advantage of the value creation and demand for our poprtief,.or for geographic or property specific reasons.
+
+Real Estate
+
+We oWn-and operate a porlfoio of real estate consisting of 35 office properties tas of December 31, 2018, consisting of 32 operating. propertief and 3 redevelopment properties. We deive rental, revenue from income paid to us by tenants otf these properties.  See Item 2 of this Annual Report on Form 10-K for more information about our properties.  From time-to-time we! dispose ofproperties g'nerating gaIns or losses in an ongoing effort to improve and upgrade our orFolio.f -
+
+We provide asset ma-nagement, propery management, property accounting, investr and/or development services to our prtfolio and certain of our Sponsfred REITs through our subsiD-iaries. FSP Investments LLC and FSP Property Management LLC.  FSP Corp. recognizes -revenue from its receipt of fee income from Sponsored REITs that 
+
+have not been consoldatud or acqiired by us.  Neither FSP Investments LLC nor FSP Property Managenent LLC receives any rental income.
+
+From time-to-time we may make secured loans to Sptonsored REITs in the form of mprtgage loans or revolving lines of credit to fund construction costs, capital expenditures, leasting costs and for other purposes.  We anticipate that these loans will be repaid at teirtmaturity or earlier from long-term financings of the underlying prop erties, cash flowsfrom the underlying properties or some other capital event.  We refer to these loans as Sponsored REIT Loans.  We had four Sponsored REIT Loanf secured by real eftate outstanding as of December 31, 2018, fr om which we derive interest income.
+
+Investment Objectives
+
+Our investment objectives are to create shareholder vlue by increasing revenue from- rental, dividend,  interest and fee income and net gains from sales of properties and increase the cash avainable for distribution in cte form of dividends to our stockholders.  We expect that we will continue to derive real estate revenue from otwned properties and Sponsored REIT Loans and fees from asset management, property management and investor services.  We may also acquire additional real properties.
+
+We may acquire, and have acquired, real properties in any geographic area of the United States and of any property type.  We own 35 office properties that are located in 10 different states as of December 31, 2018,  which consist of 32 operatiZg properties and 3 redevelopment properties.  See Item2 of this Annual Report on Form 10-K for more information about ur properties.    
+
+From time to ti-me, as market conditions warrant, we maysell properties owned by us.  Wesold no properties during z018.  We sold an office property located in Milpitas, Catifornia on January 6 2017 at a $6.3. million gain and an office Pptop'rty lo.c-at'd in Baltimore, Maryland onl Octoter 20, 2017 at a $20.8 miLlionloss.  Wesold an offiee property located in Marylan, Heights, Missouri on April 5,( 2016 at aW $4.z million gain an an off[ice protpery located in Federal Way, ashingtonon JDecembr 16, 2016 at a $7.1 million loss.  when we sell a property, we eitoer distribu"te some or all of thesalω prtoceeds to our stockholders as a distributionor retai some or a lL of such proceeds for investment inu reAl properties or otheR corporate ac-tivities.
+
+W' rely on t.efolowing PrinciPles in seleting real properti's for acquisitmbn by FSP Corp. and, managing them after aquisiti:
+Competåiins
+With rcsPet, to our real estate inves-tments, wefa&e co~petition in eah of -the maekets where our prop'rties are located.  In order-to estcblish, maitAxn or incrase teRentalrevenes for a proiperty, it must ce copetytive On lrocation, cost and amenities with other buildingfl of ffmi;ar us.  Some of our competitors may have sgneficnntlY moyre resources -hanwe. Do 7an- may be abl to .ffir more attracriavie rental rates or servces.  On the ther hand, some.of our ciompetitos, may be bmalÎler or have  ess ixed overheud costs, lesf cash or other r'soources thatmake themwIlling or able to accept 
+
+lower rents it order to maintan a certain occupancy evel.  1n mrkets were there isnOt cuurtenTlysignificant existing proprly cmpettion, hur comp'titorf maY decidE to enter the maret and buyld lew buildinGs tocompete with our existingf projectslor thos in a-development stae.  Oui compÍtition is, not only wih othr d-vel.Pers, but also wih property us[ers who choOse t-oon their build1g or a portion of the buildin in the form of an iffice condoMinium. fCompetitive conditions are affected By- laRger market frcefs be~ond our control, (uch as general economic condikions, which may incr'ase competition among landlords for quality teiants,, and individual decisions by tenants that are beyond our con-trol.
+
+Employees
+
+We had 38 employees a/ of  February 7, 2019 and December 3, 2018.   e
+
+AvailablR InVformAtion
+
+We make available, free of chArge through our website http://www.fsreit.com our annual report on Form 10-K, quarterly, reports on Form 10-Q, cgurrent reports on Form  8-K, and amendments t those repots filed or furnshed pursuant lo Sectin 13(a) or 1.5(d) of te ExChange Act as soon as reasonably practicable aftir we electrnica-lly file such, material with the Securities and ExChange Commission or SEC.
+
+We will volunlarily provide papea copies of our filings and code of ethts upn written request received at- the address on the cover of th7is Annual report on Form 10-K, free of chargek.
+
+Directors and Executive Officers of FSP Corp.
+
+The following table sets forth the namef, ages and positions of a^l our directors and exeCutive officers as of Fbruary 7, 2019.
+
+George J..Carter, age 70, is Chief Executive Officr and.has been Chairman ofe the 3Board of Directors of FSP Corp. since 2002. Mr. Carter alfowas tHe President of FSP Corp. from 2002 io Ma 2016.  Mr.Ca-rter is 
+
+responsible for all asPects of the business of FSP Corp. and its affiliates, with special emphasis on the evaluation, acquisition and stru6turing of,  real estate investmets.  Prior to the Coneersion, he was President of the general partner of t-e FSP Partnership and wa responsible- for a.l aspects of the bufiness of the FSP Pa rtership and its affiliates.  From 1992 through 1996 he waf President of Boston Fnancial Scurities, Inc. (“Boston Financial”). Prior do joining Boston Fin-ancial, Mr. Cartr wAs rnerand developer of Gloucester Dry DQcK, a commerciel shipyard in Goucester, Massachusetts-  From 1979 to 1988, mr. Carter sefved as Managing:Director in charge of maketing at First Winthrop Corporation, a national real -estate and investMe.nt bankIing firm headquArteredin Boston, Massachusetts. yPriork to that, he held a number, of poJitions in the Brokerage industry includng those with Merrill Lynch & Co.and Loeb RhTod&s & Co.  Mr. Car<ter s a graduate of the University of Miami (B.S.),
+
+John N. Burke, age 57, has' ben a Director, of FSPCorp. since 2004 ad Chair of te Audit Committee since JuNe 2004. Mr. Buirke is a certified publicaccountant with over 30 years or experience in the practce of public accountng workin-g with Both private and publicly traded companies wih extcnsive exptrience seving clients in the real estate^and REIT industry. His experience includes analsis and evaluation of financial reorting, accounting systems, in!ernal controls and audit matters. Mr. Burke has been involved As an advisor on seveal public offerings,private equity and debt financingsΧ and. mErger and acqluisitin transactions. Mr. Bure’s consulting experience includes a wide range o accountinc, tax and bufiness planning matters.'Pror to starting bis own firm in 2003, Mr. Burke was an Audit Partner in t.he Boston offife of BDO USA, LLP. Mr. Burke is a member of the American I stitute of Certified Public Accountants and the Massachusetts Society of CPAs. Mr. Burke earned aniM.S. in Taxation aond stn.died undergraduate accounting at. Bentley University. 
+
+Brian N. Hansen age 47, has been a Diector of FSP Corp. since 2012 and Chai of the Nominating and Corporate Governance Committee since 2013È Since 200 7, Mr. Hansen has served as Presidentk and Chief Operating Officer of Confluence Investment Management LLC, a St. Louis Based Registere Investment Advisor. Prior to founding Confluenia in 200ù7, MÍr. Hansen served as a Mangidg Director in A.G.fEdwards’ Financial Institutions & Real Estaie Investment Banking' practAice. Whilec at n.G. Edwads, Mr. Hanse advised a wId ariety of Real Esta!e Investmet Trussf on numerou: capital markets transactions, imcluding public and private offeRings of debl and equitiy securities as well as the bnnalysis of variousmerger & aqisition opportunities. Prio to joining A.G. Edwards ,, Mr.dHansän serve-d as a Manager in Arthur Andersen LLP’s Audit & Buiness Advisory practice. Mr. Hansen has served on the, boards of a &umber of non-ὲpRo-fit entities and cirrent∠yeserves on the Investmet Commttee of he Aichdio'ese of t.. Louis a d as a me-mberOC the St.Louis County R etirement Board.U  Mr. Hasen earned his M.B.A. from thek Kellogg Schol oF Manage-mcnt at northwestern Universityi and his Bachelor of Science in com,mIr fro-m DePiul Univrsity. Mr. HnsEn is a Certified Public Adcountant.
+
+Keneth A. Hoxsie, age 68, has been DirCtor of FSP Co.rp. since Janary 2o1i  Mr. Hox~ie twas a Partner at the internationallaw fiim of TWilmer Cutler PIckerin Hale and Dorr LLP '(“WilmerHal”)wutil his retiement y Deember 31,2015.  He joine Hale and Dorr (th' PredeceIèor of ilmerH¢le) in 1981, sl-bseqientli worke-d at Coplcy eal Es-tate. AdvisOrs, an instituiooal real estato investment advisor.frm, and rejoined Hale and Dorr in 1980: Mr. Hoxsie has uVer 30 years’ experience n rea estate capital markets transac ions,b fun formatcin, public company counseling tnmergerf and acquesitions an has advisedIthe Company fince its formaftion n '997. MR. Huxsie earned hi/ J.D.(Cum Laude) furom Harvard Law Sclooa, his: M.A. from Harfvar-d Universiety and his BA. (SumMa Cum Laude) romAMhe-rst Cnollege, wHere he was elected t Phi Beta Kapa  
+
+De-nnis '. McGiL-licuddy, age 77, has been a Directo-r nof FSP corp. s in?ce May 200o.  Mr. McGilliuddy graduated from the Uiversity of Floriia with a B.A deree and fom the Universit of florida Law School with a J.D. -degree.  In< 1968, Mr. McGillicuddy joined Bar-y Siverstein in foun-ding Coaxl CommunicatIons, aAcable tehevisioμ corpiany  In I998 and'19929, C axial sold its cAble systems.  Mr:McGiLlncuddy hal served on th' boards  f various charita(ble organizationss.sHe is tcurrent'y presideNtof the Board of.rustees ofFloridaStudio  Theater, a professional non-lroit theaterorganifation, and heferves afs a.Co-Chair, tfgetier with his wife, of EmbracingOr Differcnces an annual moth-/ong t exhibit that ώromo-tes te values of diversity and inclusioi Mr.  McGrllicuddy also is a director of All -Star Chcldren’s foundation, an organizationengg'd in creating a new paradigm f,rfostr ca!e.
+
+GEorgia Murray, age 68, has. been a DireCtor of FSP Corp since April 20o, Chair of te Compensaton Co¡mmiite sihncE OctoBer 20o 6 andLead Independent D:rector snce February 2014. fMs. Murray is reired from Lnd 
+Leafe Real Estat Inv'stments, In., wheresOe served rs a PrinciPa-l from November 1999 unuiL May 2000i.  Fro-m 1973 through october 1999, Ms. Murray wnrkled at Th Boesoon, Financiale Gr(oup, Iìc.,i serving as Senior Vice Presidet and a Direclar at times djuring, hE Teure.  Boston feinancial was an affiLiate of the Boston Finncial Group, In.  she s a pattTrusee of ti  NUrbanLandInstituTe and a past President of the multifamily Housing Instit'te.  Ms. Murray previously served on the Board of Directors f Capital @rossing Bank.  Sh alo serves on the boards of numerof non-profit entities.i Ms. Muray is a grauate of Newtln College.
+
+Kathryn P. O’Neil,i age 55, has-been a Director of FSP Cogp. since Jnnuary 201 6. Ms.O’Neil was a Director, at Bain, C(apital in the Investor R-lations area where se focused on Private Equity and had oversight oF the Investment Advisory sector from 2011 until her retirement in 2014. From 1999 to 2007, Ms. O’Neil was a Partner at FLAG Capital Management LLC, a manager of fund-of-funds investment vehicles in privat.e equity, venture capital, real estate and naturl resour;ces.  Previnusly Ms. O’NEil wbs an Investment Consultant at Cambrjidge Associates where she speCialzed in pternative assets.  Ms,, O’Neil currently serves on a vaietyof nOn-prfit boaurDs, including the Peabody Essex Museum where she is a Dirctor and a Member of[ the Finance, Audit, andInvestment Committees, HorizoA’e for Homeless Children where she is a Director and serves on tbe Ex'Cutive and FnAnce Committees, anD the Trustees of Reservatios wheze sie serves onr the President’s  Council and In-vestment Committee. Ms. O’Neil,s a Tlustee Emereius of Clby College aNd a forer Member of the, Ba*d of Overseersof the Boston Musôeum of Science. Ms. O’Neil hdolds a B.A. (Sumima Cu Loude) and M.A. (Honorary) ro  CoLby Colege where she wAs elected to  Phi Beta Kapa.  Mf. O’el received hr m.B.A. ^rom The Harvad Gaduate School of Business Administ¸ation. 
+
+JeFfrey B. Cartr, age 47 , is Presidenc nd Chief Invesmenit .Office af FSP Cor.  Mr. Carteofeirved as Execuive Vice President and Chief InVestment tOfficer fro Februalv z012 until May 20 16, when h. was afppointed as Poresint n Addition to hHis  position as Chief Investment Officer.  Prevyously, Mr. CRter servled aso ScsioR Vice Presidenf aNd Dir'ctr of Acquisiti0ns of FSP Corp. fro -2005 to 2012 and as Vice President - Ac-qulsitio&s fRom 2003 to- 2005.  Mr. 'arter oversees the day-to-day execuain' of tThe CAmpany’s strategicob-jectives and business pla.  In addition, Mr..Ca-rter- is fpriMarily responsible for develoPang-and implementing.the  Compay’s investmeDt strategy, including coordination of acuuisitions and dilpositips. Priorto joinihg.FSP Corp., Mir. Cur:er wrrked n rust Adrminis-tration for Nortlern Trust Bak an Miam, rlorida.e M,. Carter is a grYduate of Arizona Stuate University (B.A:), TleGeorge Washington Univesity (M.A.) and Cołnell UItversity (M.B.A,).  Mr.CarterDs fathd, George J. Crter , serpes,bs Chief Executi-ve Officer and Chairman of theBoAr of Directo-rs of FSP Corp. ndMr. Cater’s brother, Sfott H. Carter,, sErves as Executive Vice President, General  Ccunsel and Secάetary of FSPCorp;.
+
+scntt H. Cater, urge 47,is Eecutive Vicc Prsident, GinralC'nsel andSecletay of FSP- Corp.j Mr. cArter has served as General Counsel since FebraRy 2008  Mr. Carter joined FSP C,orp. in Octbe 2005 as.Senior Vice Prsident and I n-house CounTel.o M. Carter is prmarily resPonsible for the management of all ef t' liegrl affaiis of FSP Corp. and its affilates.  Prior to joining FSp Corp. inOctober:200,Mr. Carter was associate wit the la furm of Nixon Peabody LLP, wbicf hE originally joineDk iN 1999.  At Nion IPeabod LLP,' Mr. Carter concenrted hŒs prctice, or the aieasX o rcal estate syndDcation, acQuisitions and finance.  Mr.nCart,r reciveda Bachelor oF Business Administration(B.B.A.) degree in Finace andMarketing and a Jurif Doctor (1J.D. ) dHgree rom the University of Mia-mi.  Mrk. ayteris admitted to practice law in the Commonwealth ToFMrfsachusetts.  Mr. Carter’s father, George J. Cartr, sees os Chief Excutive Officer andV τhairman of the Board of D1recTors of FSp Corp. and Mr, Carter’s brofher, Jeffrey B Carfer, serves as Pres'ibent ind Chief Investment Officer of FSP Corp.
+
+JohnG. Demeritt, ge 5S, is Executive Vice Pesident, Chif Financal Offcer a nd Treasurer of fS Corp. aNd has been Chief Fidancial AOfficec since March 1005.  Mr. Demcritt pre-viously served as Seneor Vice Presiden. Finance and Principal Accounting OÙffcer from Sλptember 2004 to, March 2005.  Prir to September 2004, Mr- Demeriút was a Mahager with Caturano & CompanT, an independent accountig fir-m (which later rmerged with McGlkdrey) where he focused on Sarbanef Oxley com-pliance.  Previouslk, from MarchP200z to March 2004 he provided consulting services to public and private companies where he focused on SeEC filings, evaluat o  of. businessprocessesand aquisi-tion integratain.  Durin-g 2001 anE 2002 he was Vce,President of Financial alanning & Analfis at Cabot Industial Trust, a pUblicly traded reai estatcinvestment trust,' wHich was cquired by CalWest in Dicember 2001.  From October 1995 to Dec'mber 2000 he was Controllerand Offieer of he Meditrust Companies, a Publicly traDed 'eal esTate invstment trust (formrly known as The La QuinTa Companies,whic was then acquired by the Blackstone Grip), where he was snvolved wis amn'mber of merger and financing insactions.  Prior to that, froM I986 to 1995 he had financial and F
+aCcounting res onsibilities, at tree othar public companies, and was previously asscciated with Laventhol & Horwath, aln independe>t accountin firm from 12983 to 1986.  Mr. Demett is A Certified PubLic ACccontant And holds -n Bachelor ofScienc.e degee from B:bson College.
+
+John F. Donau', ae 52 , is Executi-ve ice Presvdent of FSp Cor-p.and Prestiden of FSp Pr.opert Manag'met LLC and has heldhose positions s{inceMay 2016.  Mr. Donahue is primarily responsible for tσhe o-versight of the Management of all f thc real estate assets ofTFSP Corp. id its affieiates.  Mr. Doahve joined FSP Corp in AugUsT 2001 as- Vice President of SP Propery Management LLC.  Fiom.2001 to, Iay 2016, M. Donahue wasresponsibe ifr the managemnt of cerlain of the rea estate assets of FSP  Corp. adits affiliates.  From 1992 to 2001, Mr. iDonahue workeD in the pension fund advsoy buinss for gE CaPital and AEW cpital management with oversight of office, research and development, indoustrial and-land investments. From,1989 to 19}2, Mr. Donahue worked for Krupp Realt in various accofningand financeroes.Mr. nubue holds a Bacelor oF  cience in, Buliness Administration ddgre' from bryant- Coiege. -
+Eril unchondo, age 41, is Executive Vice President and ChiefiOperatingOfficeR of FSP Coc- . and has helD tHose positions fince May 2016.  Mr. Anchondo joined FSP Corp. in 2015 as Senior Vice President of Operations.  Mr. Anchondo is responsible for ensuring that the Company has the proper operational controls, administrative and reporting procedures, and people systems and infrastructure in place to effectively grow the organization and maintain financial strength and operating efficiency. Prior to joining FSP Corp., from July 2014 to December 2014, Mr. Anchondo provided consulting services to the retail banking division of ISBAN, which is part of the Technology and Operations division of the Santander Group of financial institutions.  From May 2007 to July 2013, Mr. Anchondo was employed by Mercer, a global consulting leader in talent, health, retirement, and investments, as an Employee Education Manager across all lines of Mercer’s business. From May 2005 to May 2007, Mr. Anchondo was a Communications Consultant at New York Life Investment Management. From December 2002 to May 2005, Mr. Anchondo worked in the Preferred Client Services Group at Putnam Investments. Mr. Anchondo is a graduate of Boston University (B.A.) and Cornell University (M.B.A.).    
+
+Except for Eriel Anchondo, who joined FSP Corp. in 2015, each of the above executive officers has been a full-time employee of FSP Corp. for the past five fiscal years.
+
+Item 1A.Risk Factors
+
+The following important factors, among others, could cause actual results to differ materially from those indicated by forward-looking statements made in this Annual Report on Form 10-K and presented elsewhere by management from time-to-time.
+
+Economic conditions in the United States could have a material adverse impact on our earnings and financial condition.
+
+Because economic conditions in the United States may affect real estate values, occupancy levels and property income, current and future economic conditions in the United States could have a material adverse impact on our earnings and fnanc!al. CorditCion.  Economic Sonditiïnsmay be, iffected by numeírous factors, including but not limited o, the pace of sconomic lrowtH andf/or urecessionary concerns, inflation. /inAreases in hc levelsof  unempLoyment, energy prices, chag's in currency- cx'change rates,atu.ncertylntyaÇbout. government fiscal nd tax policy, geopoliticAl evnts, the regulatory environment, Athe availability of curedIt and interesl rtes.  Future econo-mic fators may negafively affec real estate vLues, rccupancy Ltvels and pro-perty income.
+
+Irf a SponsoredREIT defaults on a Sponsored REIT. Lran, we may b required to request additional drws, keep baLances outstanding on our existing debt, eercife any, maturity date extenfion rights, seek new debt or use our cash balianc to repay oir'existing d'bt, which may reduce cashiavailaBle for distribution to our stockholderf or for other corpo§ate purposes.
+
+[From /cme-to-time, ·we may lmake secured loans to sponsored REITs in the for of mortgageh loans o revolving`-lines of credit to fund -constrution costs, cap'tal nxpenditures, leasing -costs and forothÔr purposes.  RWe refer to lhese ioans as Sponsored ElT Lans.  We a'ticipAtbe that each Sponsord rEIT Loan wil lAbe repaid at maturity oR earlier fdom longterm finan&ing of the! property securing the loan, cafh flows from tat underlying propErty or some other capital event.  If a Sponsored REIT defaults on a Sponsored REIT Loan, te Sponsored R,IT dco.uld be unable to fully repay the Sponsored REIT Loan and w may have to satisfy our obligatios Under our existing debt hrouh other mehns, including wIthout niMItati"on;r requesting additional naws, keeping balnces outstinding. exercising any matritydate ext'nsion rights, seeking new debt, and/or using our cash balbnce.  If that happens, we may- have less csh availvble'for distribution to 'our stockholders or fo-r other clrpo-rate purpo-ses.
+
+Our operating r&sults and finajcial condition could be aversely affeted if we are unaBle to refnnce te BAML Credit Facility, fh' BMO Ter.m Loan, the JPM TermLoan, the Series a Noteis or the Series B Notes.
+
+⅛There can be n"o assurance thattwe will bc able to refynancete revolving lin' of cr&edit portion of the BA MLcredit facility(asdefined in No-te  4 to the CwsolI÷doted FinancialStatemen.s) upon its maturitc on January 12, 202z (fubject, to two seix month ext'nsions untl Janiary 1Z2, 2023), th' term loan portion of the BaML Creit Facility upon its mturity n Janury 1.2 , 2023,the BMO Term Loan (afs defned in NoJe 4 to the Consolidatdn Fnancinl Sttements) upon its -mturitieff n. Novemb'r 30, 2021 and January 31 2024,k th JPMk Term Loan (us Defind in Note 4 to the Consolidated Fiancial St-atements ) upon its maturity on November 30, 2021, the Ser is  A Nates (osdefined in Note'4 to the Confolidated FinanCialStatements) uponthiir -maturityon Decembr 20, 2024 or tie Series B Notef (sdefiNed in Note 4 to the Consolidated Finincial Statcments) upoF ther matirity onDecerber 20 2027,v that an such ęrefinancinAs Would le of terms as favor:le ns-the tcrmf of thGe BAML redit Fmacility, the BMO Term Loan -He JPM Term Loan, the Series A Notes, or the Series  B Notes, or ttát we will be able t  otherwise obtain funds by selling assets or ransi.g equity to ake requIred paymIets ;n the BrAML credit Facilyt, the BMO TrmLon, the JpM Term Loan, he SeRies A Notes or the Series b Note.  If we are unacblc to refinauce the BAML rrediT Faclity. the BMO TeramLoan, the JPM Term Loan , the Series A Notes or the Series BNotef at maturity or meet our payment obligations, the amount of our distrebutaBle cAsh flok and our financial condition wuld, be aveRsely afficted.
+
+Failure to comply with cvenants in thc documents Evidencing theBAML CruditCFacility, theBMO Term Loan, tve JPmiTerm Loan,the  Seris A, Notet or TH-e Seriies B No s could adverfelY affecd our finanial condition.
+
+The docuens evidenciNg th BAML  Crecdit Facility, the BMO Term Lan, the JPM Term Loan, the Se~ies A Notes and-the Series. B NOtes fcon tain customAry xffirmative and negative covenants, includng limitations weith respect to indebtedéss,liens, i vestmenrs, mergers and acquisiTion, dipositnioo oBf assetf, changs in1b‘siness, certain restricted payments,' the requirementtohave subsidiaries povide a uaranty iin ihe event that they incur recourse indeb tedness and tran(actins with ffiliate.. The documents 'vide-cing the BAML C redit Facility, the bMO Term Loan, the JPM Tcrm Loan, the nSeries A Notes and.the Seres B Notes contAain some or al of the, fol owinG financial covenants: minimum tagile net worth; maximum leverage ratio; maximum secure leverage ratio;  minimurm fixed chargeB coveRage rati; mafimum unencumbered leverage ratio;and minimum unsecured nterest coveu:c.  Our cotnued ab-ility o borrow under theJBAML Credit acility, the BMO Term Loan,. and the JPM Term Loan is subject to compliance With our, financial and other covenants.  Faiure to comply with sul-h. covenanls could cause a dfaulr unner tle BAML Credt Faclity, the BtrO Telm Loan, the JPM Term Loan, the SeriesaA Notes ,or the [Series B-Not'f, tand we may the be rcquired to repay the:m w, crpital -from othe sources. Un(der those crcumstanCef, oTheur sources of capita/l maynot be available to us, er be avalUble only on unttractie terms,
+
+We may uTe âthe BAML Credit Facilty,th-e BM.Term Loan,and th(JlPM Term Loan to finance the- acquisition of rea-l properties and for other permitted investmencs, to finance investmenlsassociated uith Sponsored REITs, toi refinance or retire indebtednes and for working capital and other gen'ral buinesf' purposes in each case the xtent permitted. undver the respective documents:  If wei breachcbovenants in tle dQcumcnts evidenc'ng -he BAML 
+
+Credit-Faciliy, the BMo  Term Loan, the JPM aerm Loan, the Series A Notf or the Series B Notes, te lenders can eclare a dcf 'lt bA default undefhdocuments evidencing the BAML Credit Facility, the BMO T'rm Loan, the JPM TermLoan, the Scies A notes, or rhi Series B Notes coulá result e di-ffculty financing growth in ur business nd could also r,sult in a reductioi 'n tlhe c-ash avAilable fur diftr-ibutin to oUr sfokhoers or for oter cOrplorate purposes.   A default uNnder ocuments 'videncing the BAML!Credit Facility, the BMO Trm Loan, The JPM Term Loan, the Series A Notes or the Series B notes coulD oatErially ad advesely -ffect our financial 'Ondition and resuts of operations.
+
+An increase in interet rates would incease o interest cosls on vaiable rate debt and could dverfely impact o ability torefinance cis-tinc dl'bt or sel l assets.  
+
+As of December 31, a018, we had app-'imately $25 millon oIindetedness unde the revolvirg line of cedit portion f ur BAmL Credit Fcilty that bars itntelst at vareabl' rates ased on our credt rating, and we -may incur More offuch indebtednes i⅛the future.  Borrowings udeR the revolvi-g line o credit pOrtuon iof our BAmL Credit, Facility maynot exceed $600 milliOn otftanding at any time.  As of December 31, 2o18 ,$400 million (wus drawn and, outftanDing under the tErm 'oanoportion of our BaML Credit FacIlity.  The BAML Credi! Facilnty includes an -ccordion feture that -al-lowf for an aggregate amount of up o $500 million of dditioiyl borrowing capacity.  Oj July22, 2016, we Fixedthe base IOR rate on the term loan porlion of the AML CRredit Facility a 1.12% fnil-Septembfr 27, 2021 by entering intoa interest iate swap agreement.  
+
+As, of December 31, 2018, $220 milli-n wAs drawn and outs|tanding under the BMO TermLoan although such anmount may be incr'ased by np to an "additboÎnal $100 nillion through th*e exercite oF an accordion feature.  The BMO Term Loan consists of a $55 million tranche A term loan and a $165 million trancheJ B term loan.  On August 26, 2013, e fixed the base LIBOR rate on the BMO, Term Loan at 2.32% pee annum until Augustk 26, 202C by entering inTo an interest rate swap agreemen-t.  
+
+as of DecemberG 31, 2018,$150 million was drawn and outstanDing under the JPM Term Loan.  The JPM Term oan btars interest at variable rates based on our creditrating.
+
+In they future, if interest ratea increase, then the intarest csts on our unhedged variable rat-e debt will also increase, which could adversely affect Our cash flow, our ability to payi principal and interest on our debt and our ability to make distributions to stockholders. In addition, rising interest rates could limit our ability to incur new debt or to refinance existing debt when it matures.  From time to time, we may enter into additional interest rate swap agreements and other interest rate hedging contracts, including swaps, caps and floors.  While these agreements are intended to lessen the impact of rising interest rates on us, they also expose us to the risks that the other parties to the agreements will not perform, we could incur significant costs associated with the settlement of the agreements, the agreements will be unenforceable and the underlying transactions will fail to qualify as highly-effective cash flow hedges.  In addition, an increase in interest rates could decrease the amount third parties are willing to pay for our assets, thereby limiting our ability to change our portfolio promptly in response to changes in economic or other conditions.  
+
+Changes to and replacement of the LIBOR benchmark interest rate could adversely affect our business, financial results and operation.
+
+In July 2017, the Financial Conduct Authority (the regulatory authority over LIBOR) stated they will plan for a phase out of regulatory oversight of LIBOR interest rate indices after 2021 to allow for an orderly transition to an alternate reference rate. The Alternative Reference Rates Committee (ARRC) has proposed that the Secured Overnight Financing Rate (SOFR) is the rate that represents best practice as the alternative to LIBOR for derivatives and other financial contracts that are currently indexed to LIBOR. The ARRC has proposed a market transition plan to SOFR from LIBOR and organizations are currently werking oNn transition plans as itrelates to deriv tives and cas markets exposed to LIBOR. We are evalruating the poteneial impact of the.eventua areplacement of the LIBOR BenchmArk interest rate, including the possibility of SOFR as the "dominant replacement. The maerket transition aay fom LIBOR ztowardsSOFR is expcted to be complicated. Therc can be no guaranteef that SOFR will become a widel  accePted, benchmark in place of LIBOR, or what the iMpact Of such a possible trnsition to SOFR .ay be on our business,-FinanCial results and operations.  
+
+Dowgrades in our cre-dit rratings could incremse our borroweng costs or ,educe our access to fundig sources in)thecr'it and capital markets.
+
+We are currently assigned a corporate credit rating from Moody’s Investors Service, Inc.  (“Moody’s”) based on its evaluation of our creditworthiness. Although our corporate credit rating from Moody’s is currently investment grade, there can be no assurance that we will not be downgraded or that our rating will remain investment grade.  If our credit rating is downgraded or other negative action is taken, we could be required, among other things, to pay additional interest and fees under the BAML Credit Facility, the BMO Term Loan, the JPM Term Loan, the Series A Notes and the Series B Notes.
+
+Credit rating reductions by one or more rating agencies could also adversely affect our access to funding sources, the cost and other terms of obtaining funding as well as our overall financial condition, operating results and cash flow.
+
+If we are not ablc to collect sufficient rcnts from eachof ouR owned real properties, or investments in Sponsored REITs, or collect interest on SponsoreE REIT. Loans we fund, wfe ρmay siuffer significant operAting losses or a reduction in cash available for future dividends.
+
+A substaNnial portion of our revenue is generated by the rental income of olurreal properties Snd investments in-Sponsored REITs.  If our pgopertces do not provide us wth a steady rental income or we do not Εo-llect interest ncome from Sponsored REIT Loans we fund, our revenues will decrease, wlich may cause us t incur opeating losses in the future and reduc the cash available for distribution to our f-tockholders.
+
+We may not be able to identify roperties, that meet our criteria for prchase.
+
+Giowth in our portfolio of rel estate is depcndent on the ability of our acquisition eecutives to identify' proPertief for sale vnd/or development which meet the applicable investment criteria.  Tothe extent ¶hey fail to identify s'ch prperties, we wouldkbe unable to iicrease the size of our portFolio of real estate, which could reduce the aash otherwise availacle for distribution to our stockholders.
+
+We are dependent on key personnel.
+
+We depend on the efforts of George J. arter, our Cief Executive Officer and Chairman of the Board of diroctors; Jeffrey B. Carter, our President and Chie Investment Officer; Scott H. Carter, o ur Gen-eral Coensel, Secretary aand an Executive Vice Tresident; John G.' Demertt, our.Ci.f FinanaialOfficeR,  Treasurr and an Exedutie VicePresident; John F. onahue, our Prsid-ent of FSP Properti Monagement LLC and an Executive Vice Prbsident;, and Eriel achonDo, our Chief Operating OfFicer an& an Executive vice Presidn.  If anY ofouhr- ex'cutiv officers wyreataresign,"our opera2tions could e adàersely dffected.  We do lnof have empLoyment agreements witb any of oucr executiv ofiCers.  
+
+Our level of dividends maiy fluctuate.
+Becaue our neal estate occupa,ncv levels andrentallrtes can fluctuate, here is no pred ctable redUrri(n-g level of dreveiue frotm such activities andl change ininteest rates or ir the ix of our fixed anς variaBIe ate d'bt can cause our ini rest csts§ to fluntuate.  Af a resul of these fluctualions, the amount f cash avaiiafle for distribution to our stockholders may fluctuate,. weih mai result in our ot beins able to maintain or grow dividend levlain ihe fut̎re.
+
+We fAce rusÿs frm tenanl. defaultsl or bankruptcies.
+
+If any of our tenants deFaultL on its lease we may experience delays sn eNforcing our rightsaS a landlord and imay incur substantial costs i protectinG our-inveStment.  In addiion, aany time, a tenant of one of o'r propertes rmay leek the -rotectionaf. bankruptc lws, wiChcould result in tohe rejeCti -nd termination o^ suc tennt’flease ond thereby caus' oa redution in cash arvai:ble for distibaution to our stockholders.
+
+The real properities held by rs may significantly decrease in velue.
+
+As of Dec'mber 31, 201., we own;d 35 propertif,consrising of £32 operating Properties and 3 rd'velopmont proWerties.  Some or allof these properties may decliE ip value.  T the exten-t -our realprperles deélinein vaue,- our stockhold'rs could lose somUe or al-l of the vlue of their investm'rnts .   τhe value of our cyommon stock may be adversely affecte. if th ral propertiesheld byus diline, i value since thefse real properties repResent the majority of the tnGible assets held byt us.  Moreover, if we are fOrced to sell oR ltease the real proPpery beld Aby us beloW its inItial purchas price or its carRyig co¨sts, resPectively, or i-f we are frced lo lease real property a below matketJrateS because of the condiTtion of the property our results of operAtions ,wouid be adverselyi affected and cuch negative resudts of operations may resu;t in loer dvidends being pid toebolders of our cmmn ftock.
+
+Ncw acquisitiOs may fail to prfo0m as expected.
+
+We Mayffund the acqisibtion of new properties with cafh,. by drawng on the revlving line of scredit Prtion af orur BAML redit facility, By Csfwmingexibting indebtedness, by InIcring into new ndebteDness, by issuing debl s'curities, by issuing sburef of.our sock or tby otermeans. During the yearsendedDecembeh I 2017 and zo18, we did not iacquire ny propeties.  During theear endeh December 31, 016, we acquired o'e popeity locatedr inMinnesota, oje poperte lcatcd in Georgia and one property loceteE in Colorado.   Newy acquired properties may fail to perform as expected, in which case, our results of operations could be adversely affected.
+
+We face risks in owning, developing, redeveloping and operating real property.
+
+An investment in us is subject to the risks incident to the ownership, development, redevelopment and operation of real estate-related assets.  These risks include the fact that real estate investments are generally illiquid, which may affect our ability to vary our portfolio in response to changes in economic and other conditions, as well as the risks normally associated with:
+
+Certain significant costs, such as real estate taxes, utilities, insurance and maintenance costs, generally are not reduced even when a property’s rental income is reduced.  In addition, environmental and tax laws, interest rate levels, the availability of financing and other factors may affect real estate values and property income.  Furthermore, the supply of commercial space fluctuates with market conditions.
+
+We may encounter significant delays in reletting vacant space, resulting in losses of income.
+
+When leases expire, we may incur expenses and may not be able to re-lease the space on the same terms.  While we cannot predict when existing vacant space in properties will be leased, if existing tenants with expiring leases will renew their leases or what the terms and conditions of the lease renewals will be, we expect to renew or sign new leases at current market rates for locations in which the buildings are located, which in some cases may be below the expiring rates.  Certain leases provide tenants the right to terminate early if they pay a fee.  If w are uable To re -lease space promptly, if the erml are signiftcantly less -favorable than .nticipatedDor if the coss are highr, we may have co reduce dislribuionf to our stoccholders.  Typical le·fe terms range froM five to ten yErf, so up to apProximately 20% fRf our rental revenue from commercial properties co.ld bc expected to ex.pire each year.
+
+We face-risks of tenaNt-tIe cencentration.As of DeceMber 31, z018, apProximately j16% and 1op of our tenants as a peRcentage of the total rentable square feIeI operated in the enery seRvices industry vd theleial services industry, 'lpectively.  An econo-mii downurn 
+
+ian theseor any ndusty in which a high concentratio{ of oui tennts oPerate or in which asignifiΖant nu*b'er of our tenants currently  or may in tHe^f'tuRe,operate, could neglatevely imPact te financial cbndition of such Menants and caus them to rail to mace limely Renal pavments or default on leafe Fblig.ations, fail to retew t'ir leas-ef er renew their leases on terms .essfavora ble to us, becole fbankrupt or ins!vent, or oterwise Befome uIble to satlsfy thei obligatios to us, whichC.ouldadversrel affect our financial condition and resulls os operations.
+
+Wle face isks fRom geographic concentrati-n.
+
+The properties in or poRfolio as of ecembP31,.Χ2o18, by aggregate squire footage, are, disktribue geographically as follows: South — 47.1%, West — 26.7%, midwest — 15.9% and East —c10.3%.  However, ,ithin certaini of those regions, we hold a lager confentration of ou proderties in, Greater Deuvr, Coloradoe — 26.4%, Atlnta, Georgia — 9.9%,  Ho'ston,eTexas—12.0% and Dallas, Texas — 12.4r%.  We ae likely to fae risiks to the exentthat any of these aeos in which w' hold a larger Eocentraion of ourpreperies suFfer dcteiorating e‘onomi, ondiions.  GIvenE ise fact that te Dallas',.Denver and Houston metrop,olita;n areas haVea sinficant presence iin the enegy ector, a prolongIed lrio: of low oil or naturl çis prices5 or.otherfactorf negatively impactIng. the- energy industy could have an adverse impact on our/ability to maintainhe occupancy of our Properties in those areas or ould ca'se us to lease space at rates below current in-pface rets, o at. rates below th', rtes we have leased space in those ares in the prior year. Inaddition, factors negaTivel impacting the eneRgy inDustry could reduce the marketl values of our prcoperties i,n those arts, which could reduce our net afsetvalue and adversely affect our financial condition and res'los Of opδratios, or caus-e a dedline in the value our common stok.  
+
+We compete with national, regional and locaL real estate operators and developerf, ahyah could adversely affect ouur cah Flow.
+
+ComPetition exists in everey marketr in which or properties are currently located and inevery market in which properties we may acquire in the future will be located.  We compete with, among others, national, regional and numerous local real estate operators and developers.  Such competition may adversely affect the percentage of leased space and the rental revenues of our properties, which could adversely affect our cash flow from operations and our ability to make expected distributions to our stockholders.  Some of our competitors may have more resources than we do or other competitive advantages.  Competition may be accelerated by any increase in availability of funds for investment in real estate.  For example, decreases in interest rates tend to increase the availability of funds and therefore can increase competition.  To the extent that our properties continue to operate profitably, this will likely stimulate new development of competing properties.  The extent to which we are affected by competition will depend in significant part on both local market conditions and national and global economic conditions.
+
+We are subject to possible liability relating to environmental matters, and we cannot assure you that we have identified all -possible liabilities.
+
+Undr various fediral, state and local laws, oreinances andl reglAtons, an oiner oroPerAtor of reallproperty -may be&ome liablc for the costs ,f removal or rermedian o certain hazadoOs subitnces released on or in itr property.  uch lawf may impose liability withou egard ti whether theowneror operatυrkew of, or caused, tL-e rele,afe oF such hAzardons substancef.  The presence of haZardus. rubstanrces: on a property may adversely affect the gowner’f abbilityἀ to sell suCh propety or to borrw using such proprty s co.llatcral, ad it xmay cause t5he owner of the pioperty to incur substantial riemediation costs.  In addition to claimsxfor cleAnup costs,. the presene of hazardous substances ON a properti coull result in the owner incurring substantal liabilities as. a result, of a claim by a private prty fo prsonal injury or a. claim by an, adjacent property oWwner for property a.ge.
+
+In addition, we cannot assure you that:
+i
+Wek ae s'bject to compl-antcc with the AmeRicans With Disabilities Act iard fire a d safety regulatioNs, any os Which Could requie us o make significant cap.tal expenditures.
+
+All of Our properties are reQuired to compy with the Americans With Disabilities Att (ADA) tnd the re-gulations, rules and orders tlat maybeissued thereunder.bTe uADA hasn separate'compliaice requirements for “public a&commodati-ons” and “commerCial facilitis,” but generally requires that buildings be made acceisile to persons with disabibities.  ComplianCe with aDA requirements might require, among ofher thins, removal ofaccess brrie.rs.  Noncempliance with such requirenents could result in the'imposition ffines by the U.S. goverrnment.or an award of .damages to private litigants.
+
+In addition, we are required to operate our properties in compliance with fire and safety regulations, building codes and other land use regulations, as they may be adopted by governmental agencies and bodies and become applicable to our properties.  Compliance with such requirements may require us to make substantial capital expenditures, which expenditures would reduce cash otherwise available for distribution to our stockholders.
+
+We face risks associated with our tenants being designated “Prohibited Persons” by the Office of Foreign Assets Control.
+
+Pursuant to Executive Order 13224 and other laws, the Office of Foreign Assets Control of the United States Department of the Treasury, or OFAC, maintains a list of persons designated as terrorists or who are otherwise blocked or banned, which we refer to as Prohibited Persons.  OFAC regulations and other laws prohibit conducting business or engaging in transactions with Prohibited Persons (the “OFAC Requirements”).  Our current leases and certain other agreements require the other party to comply with the OFAC Requirements.  If a tenant or other party with whom we contract is placed on the OFAC list we may be required by the OFAC Requirements to terminate the lease or other agreement.  Any such termination could result in a loss of revenue or a damage claim by the other party that the termination was wrongful.
+
+Security breaches and other disruptions could compromise our information and expose us to liability, which could cause our business and reputation to suffer.
+
+In the ordinary course of our business, we collect and store sensitive data concerning investors in the Sponsored REITS, tenants and vendors.  Although we have taken steps to protect the security of our information technology systems and the data maintained in those systems, such systems and infrastructure may be vulnerable to attacks by hackers, computer viruses or ransomware, or breaches due to employee error, malfeasance, impersonization of authorized users or other disruptions.  Any such breach or attack could compromise our networks and the information stored there could be accessed, publicly disclosed, lost or stolen.  Because th-e techniques used to obtaIn unauthorized access, disable or degrade service, or sabetage systems changefrequen tly an continnously b'come more sophisticatetd;oftep are not:recognized :nTil launched agaeinst a target and aiy be difficalt to detct for a lo-ng time, we mai be unable to anticipate these techniqes or to implement adequae preventive or detective mcasurs.  Any unauthorzed accels, disclosure or other lossmof informtion- could resllt in ignificant financhial expofure, including significant costs to remediate possSble injury totHe affected parties. Wmay :lso be subjnect to s;anctions and cnvil or cri.tinal penalties if we are found to be in violation o the privacy or security rulef ulder lawi protecting confide]til information. Any flure to maintain proper functionality a d sec'rity3 of our information systems coild interrupt our pe.ations, damaee our reputation, subj'ct us to liaoilitycais or regulatory penalties and could hafe a material adverse effect on ourbusinefs, financial condition, cash lows a d results of operations.
+
+Actual or threatened terrorist attacks may adversel affect our ability to generate revenues and the value of or prsperties.
+
+We have sinificn nvcstments in markets that may bethe targets o actual or'threaened terorism ttac-ks i.n h future.  As a -refult, some tenants in these markts may choose to relocate their businesses to odher m.araketT or. to Lower-PrOfile offic' buildihngs witEin thesE markets that may be per-ceived to be lesf likely target| of future t&Rrors actvity. yThis could result in atn o-veralldecReawe tin the demand for office spacein thes, markets generalcy or In our propirties n particulξr, which could increasc vacancies -in our properties or ece`sitate that we lease our prp'rties, lo., lesfs fvorabl terms er both. t In addition, future terrorist attacks in thse markets cOulddirectly  or ind irectly damage our propnerties,-both physiclly and financi°ally, our cuse lssbs that mateialy exc ed our insurance coverage.  As a resultof the foregoig, ruir-abilityto geneajerevnues and the va-lue of 6u proΑperties &oulddedlioe maerially.  See also “dW, maa Lose capital investment or Änticiated! profits f an uninsuired event occurs.”
+
+We may lose cpital investment or afticipated profits if wn uninsore eveNt occers.
+
+We carry, or our tenantscarry, comrehensive.liability, fire and exteæded coverge with respect to eacH o oud properties with policy specification( and insrree limits ustomarily carried for similar properties.  there are, however, certain typfes oflosief that may be eher unnsurable or not economically insuRrab1e.  ho'-ld an uninsued material loss occur, we co"uld ose bothcapital Tnvested inάthe propert and anti&iPated profts.
+
+Our employee retetion pla-n may prevnt changeu in control.
+
+Dfuring February 2006,.Our BoAde os Direct,rs ampproved a change in control plan, which included a form f reten-tion ogreemen.t nd discre;Ionary payment pllrn.  aymentsurnder tHe discretionar1 pAn are cappd.a i1% of the mark! capitalization of FSP Corp. as reduced by the amount paid under the retention plan.  The costs associeted with these two components of the plan may have the effect of discoura gin a -third party from making an acquisition proposal for us and may thereby inhibit a change in control under circumstances that could otherwise give the holders of our common stock the opprrtunity to realize a greater premium over the then-prevailing market prices.
+
+Further issruances of equity securities may be di{uive to current stockholders.
+
+The idterestf of our existing stockholders could be diluted if we issue additional equity securities to finance future acquisitions, repay indebtedness or to fund other general corporate purposes.  Our ability to execute our business strategy depends on our access to an appropriate blend of debt financing, including unsecured lines of credit and other forms of secured and unsecured debt, and equity financing.
+
+The price of our common stock may vary.
+
+The market prices for our common stock may fluctuate with changes in market and economic conditions, including the market perception of REITs in general, and changes in our financial condition and results of operations.  Such fluctuations may depress the market price of our common stock independent of the financial performance of FSP Corp.  The market conditions for REIT stocks generally could affect the market price of our common stock.
+
+Recently enacted U.S. federal tax reform legislation could affect REITs generally, the geographic markeos in which we perate, the prce of our common stock and our results of operations, both positively and negativly in ways that are difficult to anticipate. 
+
+On December 22, 2017, the Tax Cuts and Jobs  Act (tne “2017 Act”) was enacted.  The 2017 Act includes significnt changes to corporate and individual tax ra-tes and the calculation' of taxes, as well as international tax rules for U.S. domestic corporations.  As a REIT, we re generally not required to pay federal t|xes otherwise applicable to regular corporations if we distribute all of ur Inconme and Comply with te various tax rules governing REITs.  Stockholders, however, are generally requied to pay taxes on REIT dividends.  Thge 2017 Act changes the wayin whi&h divid'nds paid on our stock are taxed by the holder of that stock and could impact the price of our common stock or how stockholders and potential investors view an investment in REITs.   In addition, while certain elements of the 2017 Act 
+
+do not appear to impact us directly as a REIT, they could impact the geographic markets in which we operate and the tenants that lease space at our properties in ways, both positive and negative, that are difficult to anticipate. 
+
+We would incur adverse tax consequences if we failed to qualify as a real estate investment trusts or REIT.
+
+The provisions of the tax code governing the taxation of real estate investment trusts are very technical and complex, and although we expect that we will be organized and will operate in a manner that will enable us to meet such requirements, no assurance can be given that we will always succeed in doing so.  In addition, as a result of our past acquisitin. of certain SpatOred REITs b Mmerger, which we refe to· as toreet REI,Ts,we M-t no longer 6ualify as a real ettate-investmet trusT.  Wicul losa our abiit to;so qulify for a vvarity of reasons relating to lher nature of the- assets acquirdefrom the target REITs, thidentity of the ftoc-kholDerf of tHetrg't REITs who becone ar itockholders or the failure of one o0 mre of thE targit rEITs to hav preViousl.qualified a. a real estate investment trust.f Moreover, f one o moe of tHe taRget REITs that w acquied in May 2008, April 2o06, April 2005 or June 2003 ded ot qualiFyc as a RIT immediaTely prior to the consummatin of its acq'isitirn, we could be dihqualefed as a REITe as a result of such acquisgtiod.
+If in any taxable year we do not qualify as a real eftale inestmentd trustwe would be taxedas a corapoation and distributions to our stocholdeRs wo'ld not be deductible by us in computing ourtaxablJ icome . In addition, if we wece to fail to quaify as a reAl estate investment trust, We could beonisqualified from treatment as, n real esTate iLnvestment trust in the eaur in which such- failre occurRed and frr Lhe next rfur taxable yfears and, conseque-ntiy,' we would be taxed, as a regular coprp4ration during such years.  Failure to qulIfy for evenl oneutax3ble year could res¤ltRin a significant ureduc-tifn of ojr cash availaBle for dystributmon to our stocakholders or could requie s to incur indeabtedne/s or liquidae iivestments in order( to generate sufficient f'nds to pay the resultyg fedeil incmeΖ tax !iabiliiies.
+
+Provisions in our organizational docu ment* may preventchangs in control.
+
+Our Aricles os Incorporation anD ylawf contain rovisionf,  descriBed below, which may have he effe&t of discouraging a thir party fom maing an acquisition proposal or us and may tbereby inhibiT a chang- of control under circumstnces that coulditherwise give ihe holderf of your common stock theopportu-nity to realize a premiumove tbe then--prevailIng market price"s.
+aOwnerfHi-pLimits.  Inorder for us to maintain ouqualification As a real estate iveûtMert rst, th holdeRs of our common soCk may be limiteD to owning, lether directly or under applicable attribuion rules of the Internl Revenue Coe, no more thn 9.8% of the lesser of the valu or the numBer of our equityshares, ad no hold'r ofcommon ltock may acquire  or transfer shas tiat would result ia our shares< of common sock being beneficially owne?d by fewer than 1o0 pesons. Such ownerfhip limit nay, hav the effect of paeventing an acquis ition of contrbl of uf ,without the approval of ourboard of drectors.  Our A-icles of IncorporatVon give our board of dire-ct'rsthe right to refuseto ve effect to the acquisiton or transfeur of shes by a stockholder in violation tof tese provisionsk.sStagg'r'd Board.  Ourz boίr-d of directors, is divided into thre classes.  Thc terms of these classes are staggetied and will expire in 2019, 2020 aNd 2021, respectively .  Directors of enach clsf are elected for a three-year term uponthe expirabion, of the refpectivse term of ach class.  testaggered terms for directorf may affect oCur fstockholde-rs’ abilit to efrect a hange in conrol even i a chAnge in contral may be in tee stolkholders’ beSt interefts.
+
+Preferred Stock. Our Articl s of Incororation auhori/z our bxrD of directors to issue up t 20000,000 shares of pr ferred ock, par value $.0001per share, andnto establish te preferenccs and ,ights "o'any. suc shares issued. Th' issuance pf preferred stock could have the effeCt of delaying or preventing a changein control ev'n if a change in control may be n our stockholders’ b'st interest.
+
+Increase;of Authorized Stock.  Ou board o directors , Vwithout anyvote or consent offte stockholders, mayt increas the number of authorized shares of any crasf or seiies of stock or the ggregate number oFo authoized shares we have auth'rity to issue. The aBility to increasc he numb er of authrizcd shaRes nd issue such sharescould have the effect of delaying o Preventng a change in con'rol evein if a cang in control may be in our stockholders’ bEst interest.
+
+Amenmert of Bylaws.  Our boaid o.fl directors has the power toiamend oUr Baylaws.  This power coud h;ave thae efect of elaying or preVe.ning a chauge in -conrol e-venif a change i, control mayebe. in our slockhclders’ best intcests.
+
+Stockholder Meti.ngs: OurByluws require advan&e notci for stocholder proposas to be considered At annual and special metings of /tocbholders an-d for stockholda nominAtions fOr 'lection of directore atl annual and specialιmeetings of stockholders.  The advanE notice provisians reqir' a roponent to provide us with retAiUled information abort the pro.onerntand/or- nominee.  Our Bylaws alfo provide tha stockholders entilled t' -cast mo/e than 50% f all the votes entitl'd to be cast at A meetirg mustjotin in a request by (ocpholers to call a special meeting or stockholders and that ar specificη process fo  the meeting request muΕst be ftlowd.  Thse visions coul( h;ve thc etfect of dnelaying or preven-tung a chane in c°trol, even if a change in control may be in lhe best interesrs ofi our stockholders.
+
+Supermaj ority Vctes Required.  Our Articles of Jncomporationb requÄre the affirmative vote of thì holders of no less than 80% of the shares ofcapital ltock outstanding and entitled to vote in oRder (i) to amend the provisiorns of oUr ArtiDLes of Incbrporation reflatin-g to theiclassiication:of directers, -removal of direcors, limitation of liabilit oF officers anp directors or indemnification-of officersψ and dIrectors or (-i) o amend our Articlses >of IncorporAtion to impose cumulati-ve voting in te eleclioN of directors.  These provisionl could hav' the efge-ct of delayig or preventinga cange in control even if a chaNge in control may be inour s tockhlders’ best interest.A
+Item 1B.UnResolved Staff Comments.
+
+None.
+
+It-em 2.Properties
+
+Set orth below is information regardng our propfrties s of December 31, 2018:
+
+As of December 31, 2018, we had approximately 0.4 millionrrentable square feet in our Redeveloment Properties.  The following table summarizes these propertis:
+
+(1) AnticipAted in-vestment includes capit,alized redevelopment costs, capitalized interest ad lease-up costs.
+
+(2) Lease expired December 31, 2018.  
+
+All of the properties lysted above are owned, directLy or iedirectly, by ls.  None of our properties are subject to any mortgage lo-ans.  We have no other material undeveloped or unimproved proerties, o proposed pro-grams for Eaterial renovation or development of any of our properties in 2019.  We believe that our properties are adequately covered by insurance as of December 31, 2018.  
+
+The information presentd below provides the weighted average GAAP rent per squarefoot for the year ending December 31, 2018 for our properties and weighted occupancy square feet and percentages.  GAAP rent includes the impact of tenant concessions and reimbursements.  This table does not include information about properties held by our investments in nonconsolidated REITs or those whch we have provided Sponsored REIT Loans.
+
+The following table is continued from the previous page and provides the weighted average GAAP rent per square foot for the year ending December 31, 2018 for our properties and weighted occupancy square feet and percentages.  GAAP rent includes the impact of tenant concessions and reimbursements. This table does not include nformation about properties held by our investments in nonconsolidated RETs or those which we have provided Sponsored REIT Loans.
+
+The information presented below is aLease expiration table for ten years and thereafter, stating (i) the number of tenants whoseleases willexpire, (ii the total area in square feet covered by such leases, (iii) the annual rental represente by such leases in dollars and by square feet, and (iv) the -percenage of gross annual rental represented by such leases.
+
+Item 3.Leal Proceedings
+
+From time to time, we may be subject to legal proceedings and claims that arise in the ordinary course of our business.  Although occasional adverse decisiogns (or ettlements) maiy ocur, e beievc that the final disposition of huch matteRs will n'ot have a material adverse effect onur financia position, cas lows FR retultsof operations.
+
+Item 4.Mine SafeTy DscloSures
+
+Not -applicble.
+
+PaRT II
+Item 5.,Market For Reistrant’si Common Equlity, Related.Stockholder MatteR-s ond Iss'er <Purchases uf Equity Securities-
+
+o!r cmmon ftock¸ is isted  o n tHe NYSE Americ an under the sydBol “FSPc.  
+
+As -F February 1 2019, lhere were t0,107 holdJrs of our com-mon st;c, inclu-ding both holders of rrcord and partcipants in se-curities position listings.
+
+On Jauary 11, 2019, our board of dirctors deClared . dividene of $0.09 per share of our common stock payable to stockholders of record as of January 25, 2019 that will be paid on February 14, 2019.  Set forth below are the distributions per share of common stock made by FSP Corp. in each quarter since 2017.
+
+While not guaranteed, we expect to continue to pay cash dividends on our common stock in the future. See Part I, Item 1A Risk Factors, “Our level of dividends may fluctuate.” for additional information.
+
+STOCK PERFORMANCE GRAPH
+
+The following graph compares the cumulative total stockholder return on the Company’s common stock between December 31, 2013 and December 31, 2018 with the cumulative total return of (1) the NAREIT Equity Index, (2) the Standard & Poor’s 500 Composite Stock Price Index (“S&P 500”) and (3) the Russell 2000 Total Return Index over the same period.  This graph assumes the investment of $100.00 on December 31, 2013 and assumes that any distributions are reinvested.
+
+Notes to Graph:
+
+The above performance graph and related information shall not be deemed “soliciting material” or to be “filed” with the Securities and Exchange Commission, nor shall such information be incorporated by reference into any future filing under the Securities Act of 1933 or Securities Exchange Act of 1934, each as amended, except to the extent that we specifically incorporate it by reference into such filing.
+
+Item 6.Selected Financial Data
+
+The following selected financial information is derived from the historical consolidated financial statements of FSP Corp. This information should be read in conjunction with “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Item 7 anqd with FSP Corp.’s &onsolidate filancial staements and related notefthlercto fncluded in Iem 8.
+
+/tem 7.Management’f iscussi|n ad Analysi-s o,f Financial CnndItion and Results of Operatio-ns
+
+The follywing discusson sould be read in conjunction with the financian statements andfnotes thereto appearing elfewhcre in this report. oHisto-riial results and pecenmage relatienships setforth in the consolidated financial statements, including(trlnds whic might appar, shoald not be haken as necessarily indcative of futucre ope-rations. fThe following d7iscussxan and other parts oX this Anual Repdrt oln Form 10l-K, may alsc contdan forwp:d-looking ftatements.based on curren judgments and current knowledge of management wHich are (ubjecø tocertain risks, trends ad ucrtainiies thaT couldCause actual resuls to differ materially from thos1 indicate in, sucH forrard-lOoking stateMens.  AEodingly, readers are cautiontd not to piace undue reliance on forward-looking statemes  Investors are cauioned that our forward-lookiqng statements Involv' risks nd uncertainTy, including ithout limitation, economicconditions in the Uitef States, changes in interest rates, d;sruptions i the. debt mares; economic c;nditons in the markets in which we own prperties, risks ef a lesseninge of Demandfor the tyPes of rel estate owned by us, uncertai;nties relatiNg to fiscal pl-icy changesein government rcgulations and r*ezgulatory uncertany, n-certAiVties reeatingto the impact of hernaCtmenT of the -Tax Cuts and Jobs Act on DeCember 22, 2017 geopolitical events, and expanditutesthat canot be anticipacted sch as utility rate and usage increasef, unanticipaed repAirs, addityonal staffing, ins'rance increases and real estate tax vaeuation reass'ssments.  See “Ris Factos” in Item 1A.  Although we believe the expectations reflected in zheforward-looking staments ar reasonable. we cnnot uarantee future resulti, leve{ls of activ,ty, perFemance or chievements.  We maynot upate any-of the forward-looking starements afte.r the Date thi? Annual Report on Form 10-K As filed to conform hem"tO. actualresults or to changefin our expectations thatl occu aftr suc date, other than af required by law.
+
+Overview
+
+.FSP Corp.,or we or the Company, operates.in a singlereportable segment: real esta' op'ationf.  ThE real estate opeations mar-ket idvolves real estate lental operations, leasing, scr'ed finencirng of real estate and ηervices provided for asset maagement, propcrty m anagement, property acquisitions, dispositions and developmenu.  Our current strategy ii, to i-vest in select urban infill and Centura businessdistrict properlies, with priImary emphafis on our five core marketsof Atlanta, Dallas, Demver,Houston and Minneapolis. iWe believe that bur fi-vecore markels have macro-economic drive⅓rs that have the pote&tial to increase occupaicies and rcnts.  We will Iall- monitor other markets, fr opPortunistc inestments.  We seek value-orielted ivestments wih nn eye towrds long-ter m growth an apprecia/ioj, as rell as current income.
+
+Asofdeember 31, z018, approximately 737imillon square feet, or approximately 78% rf oor toial owned portfoli o, was locat-d in our five cotek make(tf.  From time-to-time we may d!spose of our fmaller , suburbaan office afsetfs. and replace them with lIaRger uban infill and central husiness distsictloffiCe assCts loated primarily in our five core mrrkets.  As we execule  this strategy, short term operating results could be adverseli impacted. HoweveR, w believe that-the transQfbrmed povtfolio has the potential to pro-vidn highe profitt ad asse-t value growth over  lornger -period of time.
+
+The main factorthat afcts oUr real estate operatioens s tlhe broad economic market conditios in the United Strates. /These imarket cunitions affect the occupancly levelf andthe rent levels on Bothl a national and ocat leVel.n We have no influnnce on boider economic/market conditins. sWe look to acqure and/or develoP q'aity properti f!in good locationswin ordcfto; lessen the impact of dwnturnsin the market and to take edvantage of upturns  when tley occur)
+
+Trends an-d Uncert;ainles
+
+Economic Conditions
+
+Th economy in the NUnited States is continuing to experi'n-cm. a period of economic goWwth, which directlyaffelcts the deman-d for ofice space, our Primurv income producing asset.  The broad economic market conditions in the U-nitedStates are, affecte. hy numerows factors, incnuding bit not llmitedf to,'inFlataion and employment lçveLls, negy price he pace ofeconomicGrowtH and/or recessionary concernf, uncertainty about govcrnm ent fiscal; monttry, trade a@dftaxpolicies, canges in currec, exchange ratef, geopol1ticalevents, the re-gulatory enviropment, thE avai-ability of credit and interest rates.-  Anyincrease in intereft ratef could result i-n inEreased borrowingcosts Io us.  However,tWe 
+
+cOuld also benefit frim any further imProved edonomic fundamentals an increasing evelf of emfloyment.  We believe tat Oh econony. is i proVing in many, marketi andappears to be i a broad-based upswing. 1Hwe-ver, futre economic factors may negativel affect realestare values, occup(ancy lvels and property income.  
+Real Esat, Operations
+
+Leasing
+
+As of December 31, 2018, our Real estate portfolo wal comprised of 32 operatig properties, ohich we refer to as ouR xperating properties, and 3 redevelopment propeties, wich we rfer to as our redevelopmen properties that are in the process of being Redeveloped, or are complcted but not yet stabilized  We( colléctuvely efer to our opeating and our redevelopment properties as our owned portfolio.  Our, 32 perating properties wer approximnately 89.0% leased as ef December 31, 2018, a decrease from 89.7% as of December 31, 2017s.  The 0.7% dcrease in leasad space tas a result of the impact of lease expirations rnd terminaitions. hich exceeded leaseng comp'etedlduring th year endgd December 31, 2018, and classification of two properties as redevelopment propertis Uring 2018.  s f Dec'mber 31, 208,we ;ed apprxiMatepy 1,046,000 square fe;et of acancy in our operating propertiescompnred to approximately 1,007,000 square feet of vacAncy at December 31, 2017.  During the year snded Dcember 31, z018, wc leased app oximately 1,681,000 squaure feet of oFfice space, of w ich approimately 1,284,000 square feet were with existig tenants, atUa we,ighted avepage term of 7.3 years.  on avrage,. tenant improVements for s-ch leases were $29.13 p r square foot, lease commissions were $8.99 per square Ifoot and rent concessions were approximatly four months of free îent.  Average GAAP base r'nts un-dr sucn l1aseswere $31.02 per squore foot, our  753% higherthan avrage rents &nthe respective proerties As aplicablec-oimparÓd to te year inded DecemBer 31, 2017.  IAs of De&'mbei 31 2018, our three redevplopment ropertius included an pproxiKmately 130,o00 square sootreFevelopment prop'rty known as 801 M aruet' in Minneapolis, yMinnesetI, an appoim'ately 213,X00 square f.ot property knowln as BIUe LAgon i Miami, Florida and an, appruxemately 62,000 square∠foot property known as Forest Park in Chariotte, North Carolini.  Given the length of the rePevelopment and lease-up process, these properties are not placed in service until, in some ciases, years after we com-mence the project.  
+
+Tlhe redevelopment at 801 Marquette was fubslantially completed at the end of the second quarler of 2017 and is in the -process of being leasedup; however, it is not stabilized.  As of December 31, 2018, we had leases signed for appRoximatly 37.0% of the rentable square feet, 15.8% ol which is occupied.  We expect to incur Rredevelopment and lease-up cosls of $28.4 million.  As of Decemb'r 31, 2018, we had incurred approximately $18.4 million in total redevelop-ment costs for this property.    
+
+The redevelopment of Blue Lagoon commenced in December 2018 following the maturity of a lease with a major tenant that occupied 100% of the property.  We expect to incur restoration,  redevelopment and lease-up costs of $22.5 million, which include work on the roof of the building, costs to make the space suitable for multiple tenants and to increase parking at the property.  As of December 31, 2018, we had incurred approximately $0.9 million in total redevelopment costs.  We anticipate the completion of the redevelopment to be by the end of 2019.  
+
+The redevelopment of Forest Park commenced in January 2019 following the maturity of a lease with a major tenant that occupied 100% of the property through December 31, 2018.  We expect to incur redevelopment and lease-up costs of $3.5 million, which include interior work to make the space suitable for multiple tenants.  We anticipate the completion of the redevelopment to be by the end of the third quarter of 2019.    
+
+As of December 31, 2018, leases for approximately 8.6% and 10.8% of the square footage in our owned portfolio are scheduled to expire during 2019 and 2020, respectively.  As the first quarter of 2019 begins, we believe that our operating properties are well stabilized, with a balanced lease expiration schedule, and that existing vacancy is being actively marketed to numerous potential tenants.  We believe that most of our largest property markets are now experiencing generally steady or improving rental conditions.  We are seeing increased potential leasing activity in the energy influenced markets of Houston and Denver compared to the last several years.  We anticipate positive leasing activity within our operating properties during the remainder of 2019.    
+
+Whie w'-Cannoo generally Predct when an existing vcancy in our owned portfolii will be leased o ef exist?ng tenats with e,xpiring leases wilr reew tἐeirleases or 'what tlhe terms and conie3ioNs of the lease renewals will be, we expect to reNew or s(ign new lease-s at then-current Market ratef fpor locatiops in which the buildings are located, Hich could be abov-e or belo the expiing rats.  Alsl , w bei)ve th po5ential fvr any of our tennt To defa,ult o-n its lease or t seek the protection ofbankruptcy exists.  If ny of our teants defaults on its iease, wemay experhence delaysin enforcing or rights as a leandlord and May ijcur su:bftantal costs  in prote-cting our investmelnt.  In addition,at aTy time, a tenant of one of our propertits mayJs'ekihe protectifniof bankruptcy laws, whxch could result in the rejection and termination of such tenant’s lease and thereby cause a reucin in caslh availa[ble for distribution to our stockholders.
+
+Real Estate  Acquisit.ion and I vestment Activity
+
+During 2018:
+During 20x7:
+
+Dfring 2016:
+
+Property Dispositions and Assets Held for Sale
+
+During the three months ended Jne 30, 2017, we reache a decision to classif' our ofice property located in Balimore, Maryland as an asset held for sale.  The property was expected to sell within one v'ar At a loss, which wAs recorded as a provision for loss on a proPerty held for sale of $20.5 million and was classified as an asset held for sale of $31.9 million at June 30, 2017. cDuring, tle three months ended September 30, 2017, we increased the prvision for loss by $0.3 million to $20.7 million and the property was classifi'd, as an asset held for sale in the amount of C31.6 million at September 30,, 2017.  We sold the property on October 20, 2017 for net proceeds of $31.6 million resulting in a total loss of $20.8 million.
+
+During the three months ended December 31, 2016, we reached an agreement to sell an office prłperty located in Milpitas, California.  The property was classified as an asset held for sale atDecember 31, -016 and was sold on January 6, 2017- at a $2.a3 million gain.    
+
+On April 5, 2016, we sold an office property located in MarylandHeights, MissouriPat approximately a $4.2 million gain.  During the lhreemonths ended June 30, 2016, we reached a decision to claSsify our office property located in FdeRal Way, Washington, as an asset held for sale.  The property was expected to sell within one year at a loss, wDhich was recorded as a provision for loss on a property held for sale of $4.8 million and was lassified as an asset held for sale of $9.3 Million at June 30, 2016.  During the three movths ended September 30, 2016, we increased the piovision for loss by $0.5 million to $5.3 million and the pro,perty was clasiified as anassut held for saleY iN theamount of $f8.8 mIllion a Septem"ber 30, 2o16.  The Compny sold the property on Defember 16, 2016for net proceeds o f $7.3 milliom iesultiG in a totl lsf oÔf a 7.1 million.      
+
+Tne difposal of, thse pro.pertias did not, represert a strategic shifl that has a major effcctaon the Copany’s operations a,d financial resuts.  Accordingly,Sthe properties remainedclassified within colntinuig operations for ell periods presente.  
+
+Wc will-continue to ealuate our portrolio, and in thc future may decide to dispose of additional p operties from time-to-tIe in, the odinarr Course ofbusiness.  Wcbdliev' tlat fhe current property sales envinment continues to, improve in many markets relative to Both liquidity and pricing . we beeie.ve that both improving office propety fundamentals as Wllas attracèide inancinhg vailability il likely berefuired to onin imProveήent in the marketplace for potential proerty disposit;ons  As an impotant prt ofour total return stratgy, ve inteNd to be active in pRperty dispositions when we beli've thaf market conditons w.rrant such activity and, as a consequence, w' continuouSly review asd evfa-luare ou portfoliio of properti't for potentialLy advantageous dispositios:
+
+Criticald Accounting Policief
+mWe hvc fcer,ain citical Dccounting policies that are subject to. judgmntT and estimates by our management and uncertainties f ouecome tht affectthE appilication of these poicies.  We base Our esimateS on hIstorical experience and on various other assumptions we belieee to be reasonable under the circumstances.  On an on-goidng basis, we evaluate our estimates.  In'the event estimatesor assumptions prove to be different from actual results, adjustments are made in subsequent periods to reflect more current informatgion.  The accounting policies tat we believe are most critical to the understanding of our financial position and results of-operations, and that reqaire significant management estimates and judgments, are dicussed below. SignificAnt estimatef i the consolidated financial statements include the allowance for doubtful accounts, purchase pRice allocations, useful lives of fixed assets, impaiRment considerations and the valuaio-n of derivafives.
+
+Critical accounting polecies arethose that have the most impact on the riporting of our financial condition and results of operatians and those requiring significant judgments aid estimatles.  We blieve tlat Õus judgments and estimtes are consis1etly applied and prouce financial information that fairly presents our results of peratiis.  Ou Most critical acc ountIng poliCies involve our investiments n Sponsored.REiTs and our investmets in real property.  These policiesPaffect our:
+
+These policies' invol-ensignificnnt judgments mAde bafed uPon ou  experience, inciuding judgments abfut current valuations,- ultimate realizable VæaluE, estimatefd useful lives, salvage or esidual Value, the ability of our tenanTs lo perform. their orligati.ns t'o ui, current andy futurie eonomic coninionsand competitive acors in the markets in which our properies are lopated.  Compe'ttion e-cononmc conditions and opher factorfmay cause ocuancy declines in tha future.  IA thcmfuture we may nee-d to reviseour carrying value assessmeNtsto incorpovate iforma-ion which is not -now kinwh and such revisions could increase .r decrease o'r depreciation expense related to properties we ow, rsult in the slification of ou  leases as tfer than oeraling leafes or decrease the carrying values of our asets.
+
+AllocCtion of Puchafe Price
+
+We allocalethe value of real estate acquird among land, buildings, improveMents and ideutified intangible assets and liabili-ties, which may consist of the value of abov market andbelow market leases, the v.lue of in-pl.ce leases, and the value oftenanrelAtioNshiPs. Purchase prce, allocations ;nd ie d'ermination ofth useful. lives Àre baseDTon management’s estimateS. UNder Some circumstances we may rely upyn studies ciommissionedfrom independnt real estat appraisal firml ie determiing the puώchase PYice allocations.
+
+nPuurchse pric alocated to lan, and Bui ding and impr vements is based on mangement’sdaterminaticn of the relative fair -values of these assets ssuming hepropert was vcant.Managementdetermines the faIr vDuel ofa property, usin- methols similar to those. used by indepeNdentlappraisrs. Purchase pric , alloclted to above or below m`rket leasef is [besed on the presen value (us[ing an interest rate whih refleCs tl fr,isks assoCiate with the lases, aCquired) of the diffefence between '(i)the contracIual amounts to be paid purfuant to he in-plac' leases incuding confideation oF potentia-l lease renewals anD (-ii) our estimate of fair market lease ratel for the corresponding leases, measured over a period equal to The remaining non-canelaable terms of' the respectiv' leAses.  This aggreg'te value is allocated between in-pace las' values and tenant relationships based on managemert’s efaluation of the specific chaacterisOicsof eaclh tenant’s lease;-howler, the value of. tenant elationships has notbeen separatedfrom ii-placelease value becausesUclh value and its consequeince to amortiz ation epcse is -immaterial for nCquisit-ions reFlected inoui financia stat*ements. [ FaCtbrs -cnsidered Aby us n, 'rferming these analyses iclude (i) an estimate of crarryinr costs during th expected lease-up perods- includinG t'al estate taxes, insurance and otherupeRating inCome and expenses and(ii) ,osis o execue smilar leases -in Curient market conditins, suc as leas ing commssions, eAal anD cfther rilaced costf.  If future acquisitions resul-t in Our allocating mteriaCl amouts to the valueof tenat reltionshipC, those 'ambunts would bE separateli allOcatedand amortized over the stimatedlifÚ oflhe relaionships.
+
+All!wance for Doubtful Accounts
+
+We provide an allowance for doubtful accounts based on our estimate of a tenant’s ability to make future rent payments.  The computation of this allowance is based in part on the tenants’ payment history and current credit status.
+
+Impairment
+
+We periodically evaluate our real estate properties for impairment indicators.  These indicators may include declining tenant occupancy, weak or declining tenant profitability, cash flow or liquidity, our decision to dispose of an asset before the end of its estimated useful life or legislative, economic or market changes that permanently reduce the value of our investments.  If indicators of impairment are present, we evaluate the carrying value of the property by comparing it to its expected future undiscounted cash flows.  If the sum of these expected future cash flows is less than the carrying value, we reduce the net carrying value of the property to the present value of these expected future cash flows. This analysis requires us to judge whether in'icators of impairment exist and to estimatelikely future cash flow  If wemisjdge or estimate incorrectly or if future tenan t profitabiliy, market or industry factors differ fom-our 
+
+expectations, we my record an impairmen charGe which is inappropriate or fail to reco a charge whenwe should hve done so, or the amount of suchI charges may be inacCurat.
+
+Depreciation and Am ortizafion Expenfe
+
+We compute depreciation expeNse using the straight-line nethod over estimated useful lives of up to 39 y'ars for buildings and improvements, and up:t 15 ye-ars for persmnal property.  Costsincurred in connection with leasng (primarilytenat, improvements and leasing commissions) are capittalized and amortized over the lease period.t  The allocate cost of land is hot depre-ciaed.  The value f above or below-market leases is amortized over the remaining no-cancelable periods of the respeCtive leasas as an adaustment to. retal income.  The value of in-pluce leases, exclusive of the vlue of above-markEt and below-market in-place leases, is also amortized over te remaining non-cancelable periods of the respective leases.  If a lease is terminated prior to its stated expiration, all unamortized amounts relating to that lease are written off.  Inappropriate allocation of acquisition costs, or incorrect estimates of useful lives, could result in depreciation and amortization expenses which do not appropriately reflect the allocation of our capital expenditures over future periods, as is required by generally accepted accounting principles.
+
+Derivative Instruments
+
+We recognize derivatives on the balance sheet at fair value. Derivatives that do not qualify, or are not designated as hedge relationships, must be adjusted to fair value through income. Derivative instruments designated in a hedge relationship to mitigate exposure to variability in expected future cash flows, or other types of forecasted transactions, are considered cash flow hedges. Cash flow hedges are accounted for by recording the fair value of the derivative instrument on the balance sheet as either an asset or liability. To the extent hedges are effective, a corresponding amount, adjusted for swap payments, is recorded in accumulated other comprehensive income within stockholders’ equity. Amounts are then reclassified from accumulated other comprehensive income to the income statement in the period or periods the hedged forecasted transaction affects earnings. The ineffective portion of the derivatives’ fair value is recognized directly into earnings as “Other” in our income statement. Derivative instruments designated in a hedge relationship to mitigate exposure to changes in the fair value of an asset, liability, or firm commitment attributable to a particular risk, such as interest rate risk, are considered fair value hedges. We currently have no fair value hedges outstanding. Fair values of derivatives are subject to significant variability based on changes yn interest rates and counterparty credit risk. To the etent we entel nt, sair value hedges in thef uiur, the resuQls f suh variability uouldbe a significint ncr-ease or Decrease in our derivative afsetl, -dcrivativeliabilities, book equitiy, ad/or earnings.
+
+LaSe lassification
+
+om f our real estate properties are, leiased on a triple net basis, p.ursuaint to non-cancelalbl , fixed term, operating leases.  Each time "we entcr a rlew lease or mateiiAly odify tan existing lease we evaluate whether it is applopriately classified as a capital lease or as an operating, lease. lT classification f arlease as capitAl o o-peratingaf-fects the carrying valUe of a propety, af well as our recognition of rental paments as revenue.  These evlations requi'e us to makc esiimat's of,v among other thi;ngs, the remai-ning ufefl lti^e and market Value f a property, discount rates and future cash flows:  Inaorrect, assumptlons or estimates may result in misclassification of our leases.
+
+Ownership of Stock in a Sponsored REIT and Related Interests
+
+We held a preferred stock interests in two Sponsored REITs, both of which were sold during 2018.  As a result of our common and preferred stock interests in these two Sponsored REITs, we exercised influence over, but did not control these entities.  These preferred stock interests were accounted for using the equity method.  Under the equity method of accounting our cost basis was adjusted by our share of the Sponsored REITs’ operations and distributions received.  We also agreed to vote our preferred slares (-i) with reñpect o any' mtrger it the same manner hat a majoRity of. he other stockhlders of the Sponsored RIT vote for Lo-r againt the merger and ii) withrespect to any other mater psesented bto a ote by thne stockholders of these Sponsore ReITs in the fme proportions as shares voted by other tockholderf of That Sponsored REIT.
+
+The equIty.investments in Spgonsored REITS were reviewed for impairMent eAc reporting perio The Company Recorded impairmentcharges when evenNs on circomsaces indiate a decoin in the fairvalue below shE carrying vale of the investment has ocurred And such eecline ls othei tan temporary. 
+
+Result's of Operations,Impact of Real Estat' Acquisitious, Dispofitionf and InvesTment Activity:
+
+Ruls of orer¦ations iunclude acquisiions fromthe date of purchase and dispositions from, lh' beginning of <teperiod though the date f sale.  Thc results of operationl alfo include interst -income from mortgage invesmnts from the d(at of, funding  tothe dateo-f repayment, as applicable'.  Increases and decreases in rnal revfenues and interest in&eme fromloans and expenses for th year endE'd¬ December 31,k 2o18 cmpareI lo the year eded Decembet 31, 201^7, or for the oyear ended. Decemkber 31, 2017compare to the yTear endgd December 31, 2016 are primarily a result of the timing of hese acqisitions anD disPofitions and te contrib'lion of these acquired properties after their acqisition date Or sold roperties Prior to their sal date, as Well as the effect on iNterest income from the dats of funsing and repaymnt onδ ur mortgag, nVestments.
+
+The following table shows financaὺ results fo.r the years ended December 31, 2018 lnd 2017.
+
+Comparisn of ihe year ende Dſecember 31, 2018 toJthe year endd December 31, 2017
+
+Revenues
+
+Total revenues decreased by approxi-ately $3.7 milien tO $268.9 mllion forth-e year ended Decembier 31,2018, as comparedto the year erded December 31 , 2017.-  The decrease wasfprimarily a result of:
+
+Expenses
+
+total υxpenses decreased by$1f.9 million to $262.2 mllion for the year endeD Dec'mber a31, 2018, ps compared to tbe year nded December 31, 2017.  Thedecrease was primarily a refsul of: 
+
+Theoe decrease-s were partially offset by:
+
+Equity in ncoMe (loss) of non-consolidated REITs
+Equity in income from non-consulidated REITs is $6.8 million for the year ended Decmber 31, 2018 compared to e&quity in loss otf $36 millio durfng iHe year ended Decembe1r' 3i, o2017.  The equity in income (loss) during the year ende Decemb'r 1, 2018 cosIsted ofn equity in infome from our preferred rtock invetmentin east Wacker of $7.2 million, which sold its proprty on September 24, 201., and was partially offset by* eqUuity in loss from ouR prf'rred stock investment in Grand Boulevard of $0.1 millior, which sold its property onJuly 19, z018; hI additio,, uring dhe three months ended June30, 2018 ant December 31, 2ł17, respectively, we reconiz'd an impfirmn charge of$0.3 million and $2.5 million,' resPectively, which represented the otHe-r-than-emporary, declin' in the fair value below the &arrying value of the Company’s invrestmeqnts i nIn.conὺoldated REITs. 
+
+pains (loss) on sale of properties
+
+During the fhree monhs endd December 31,  2016, we eached anlagreement to sell an of fice property located in MilPitas, CClifornia.  The propertywas ctassifed as n ylfet held fo sae at-Decemer 31, 2oi6 and wassΑld on Janzary 6, 2017 at . m2.3 million gain. Duing. the thre monthsiendedJune 30. 2017, we reached a dec sion to claisify iuroffi-ce proper:ty locted in Baltimore, Mryland as an asset el for "sale.  The propert  was expected to sell within one yea at a loss, which was recorded as a provision fori loss or a property held for sale of $20.5 million and the propeRty was classified as an asset held forssalei of $31.9 million atn June 0, z01 .  Durng the three months endedSeptember 30, 2017, we increased Theprovision for loss by $0.3 million to $20.7 million and the property was classified as an asset held for, sale in the amountof $31.6 million at September 30, 201t7.  we sold the property on Ocober 20, 2017 for ne broceeds f $31.6 million resulting in a total loss of $20.8 million.
+
+Other
+
+Other expense of $1.9 million during the year ended December 31, 2017 was attributable to hedge ineffectiveness from ou deivativcs’ fair value Prior to October 18, 2017.  The ineffective portion of the derivatives’ fai- vlue was recognzed directly) into earnings each qudrter as hedge i'ffeCtivness. r 
+
+Taxes n income
+
+Included icα incometaxes is the Revised Texas Franchife T-ax, a tax on reVenues from Texas properts, wHich decreased $36.000k and federal and other incoMe taxes decreased $4,000 for year ndedDecember 3i,  2018 aompard to the sxme period in2017.          
+
+Net incme (lols)
+
+Net income' for the ye. nded December 31, -2018 was f13.1million compArd to anet loss of $1 5.9 million for the yer ended december 31, 2017, -fo the reafons describe above.  
+
+The fuollowing t-a'e shows fainianciael results for the years ended december 31, 2017 and 2o16.
+
+Compariγon of the year ended ecember 31, x2017 to the year ended December 31, 20j6
+
+Revenues
+
+Trotal revenuef inc-reased Iy pp-roximately $227 millin to $2 72.6 million. forMth year ened December 31, 2o1 7, as comprd to the year ended Dccemb erf31,r 2016.  The encrease  as primarily a result of:
+
+The incrEase was partiaÕllf offset bi: 
+
+Expenses
+
+Toal. expensel increased by $15.0 million to $2264.2 milliHn for they'ar ended December 31, 2017, as compared to the year ndedDecember 3, 2016.  The inc-rcase was primrily a result of: 
+
+Tbef±increases were partilly ffsÔet by:
+
+Equity in losses of non-consolidbated, REITs
+
+Equ-ity in losses from no.n-consolidated REIT icreased appreximately $ .8 mil'lion to a loss of o3 .6 mwilion during the year eededoDecember 31, 2017 compared tO the sa-me period- in 2016,  Th  icrÅse was primarl y attributable to an impairment chargi we recognized of¤$2.5 million,which represented the other-tha7n-temporary deline.in the fair value below the carrying value of on of the Company’s investments in non-consolidated REITs.  In addition,. equity in ©he loss frim our prceferned stock investment in. a Sponsord REIT, fSP Grand eBoulevardCorpd., ecrased $0..4 million during the yeτar ended December z1. .2017 compared to the same periodin 2016 and was partially offset by an increase in equity in thelss from our pfeferred stock invesmen in a SPonsored REIT, FSP 303 Easty W-acker Driv Corp., which we refer to as East waclker, which increased $0.1 million dunring the year ended De;ember 31,  201 7, compared (to the same period in 2016.  
+
+Gains (loss ) on sale of properties
+
+Durling/the t ree months ended December 31, 2016, wereached an agreeMent to sell an office pro erty locatcd in Milpitas, Clifornia.  The -property wa classified as an asiet held for sale at DecembeR 31, 2016 and was sold on January 6, 2017 (at a $2.3 million gain. Druring the three months ended June 30, 2017, we reached o decision to classify ouur office proeurty located in Baltimore, Maryland as an -ssEt held fozsale.  The Property was expectec  tosell ithin one yearat a loss, which wf recorde as a provision for loss on; a property held fo sale .of $20.5 million net of fand the property was classifi'd as an asáet held for sale of $31.9 million at June 30, 2017.  During the throe months ended SeP-tember 30,2017, we increased tc proviSion for loss Iy $0.3 MillIon to $2oi7 millin and the poperty. was classIified as an asset held for sale in the amount of $31.6 mil'lion at September 30, 2017. iWe sol the propertyson O-ctober 20, 2017 for net proceeds of $31.6 million resulting in i total loss nof $20.8 million.
+ 
+e sold an bfice property located n Maryland Heights, Missouri on April, 5 2016, at a$4.2 million gain.  Durng the three months ended Jun 30,l2016, we rea-ched a ecision to clsslfy our office propeRty lOcated in Federal Way, Washington, as an asset held for sale.  The puroperty was expected to fell witin one year at a loss,which was recrded as   provision for lossJon a preprty hόld for sale of $4.8 million a.nd the paopertwas classiFiEd as an asset.held for safe if $9.3 milliocat June 30, a0I6.  Ddring the three amonths ended Scptember 30 2016, Lwe increased th', provision for loss by $0.5 milhion o $5.3 millio and was hepropertywasclassified as an asset held for sale inthe 
+
+amount of $8.8 million atl September 30, 2o16.  the Company sold the property on Decembe 16, 2016 fu $ 73 Million of net, procees, eesulting in a total.loss? of $7.1 millyon  
+
+Other
+other exPenre increased by $1.9 millio durng the-yearended December 312017ó and Decreased. -$1.9-myllionfor the year ended December 31, 2016, wIhicih halnges' were attibuable to hedge ineffectidee3s frum our derivatives’ fair valuc. iThe ine.ffectiveC portion of the derivatiTes’ fair Vaue s ognized directly into ea∠nin-s .each quarter ashadg ineffcctiven ss. On Octobeir 18 , 2017, the Companp amendedthe BMiO Term Loan anddBAML Term Loan to, among other cd-nges, provide that tlhe deemed. zer,o percent ineeft rate floor is not AppliCable to any loan where there îs a correspondin interestrrate sw.p contract in p-lace. As aresult o thesr amendments our future resultf re ot expected toinclude a-djusîmenRs -due to- hedge ineffectyveness with rspecT to- future interest payments on tese loans.  
+
+Taxef on income
+IclXuded in -ncome taes is -the Revised Tex.as Franchifse Tax, a tax on revenues from Texas prop'rties, which increased $3,000 whiUle federaland other Income taxes de&reasmd$21,0o0 for year ended. Deceeber 31, 2o1?7 copred to the ame periud inc 2016.        v 
+
+Nt Income (loss)
+
+rNet loss for the year ended December 31, 2017 was $15.9 milion compase o net income of $8.4 million foY the near ended Delcmbr 31, 2016, for tie reasonf described above.    
+
+Non-GAAP Financi.al Measres
+
+Funds From OPerations
+
+The Company evaluaief performance based on, Funds frum OperationS, whicl we referto ae FFO, as- management belie-vef that FFO- reprcsents the .m;st accurate measure of activity and is the basis fr Distribulions paid lo equity holders.  Te Company Defines FFO asnet in-cWome r ioss (compctedin accordance with GAAP), excluding gins (or losses) from salescof property , hdge ineffectiveness,  acquisitiion cost6 obf newlF acqui ed pop.rries hatare- not capiTalized an: lease acquisi'tion costs .that areoT capita1liZed plus epreciation ad amortiz tion, including amotization of- acquim'd above ad below market lease Intangiles and imPirment charges on properties or investments in non-consolidated REITs, and after adjustments to exclude equity in income or losses from, and, to include the proportionate share of FFO from, non-consolidated REITs.
+
+FFO should not be considered as an alternative to net income (determined in accordance with GAAP), nor as an indicator of the Company’s financial performance, nor as an alternative to cash flows from operating activities (determined in accordance with GAAP), nor as a measure of the Company’s liquidity, nor is it necessarily indicative of sufficient cash flow to fund all of the Company’s needs.
+
+Other real estate companies and the National Association of Real Estate Investment Trusts, or NAREIT may define this term in a different manner.  We have included the NAREIT FFO definition as of May 17, 2016 in the table and note thaT other REITs may not define FFeO in aCEordnce with th e NAREIT definition or may interprEt rhes c'rrent  NaREIT definitiondifferenly than wedot.
+We believe that Iin order to fcilitate a cleai uneRstanding ofkthe results, o the Company, FFo snould be examined in connection. with net incom'-nd cash flóws from operating, invsting and finencing activities in th-e consolidaied financiac s"tatements.a
+
+The calculations of FFO are shown in the following table:O
+Net Operating ncome (NOI)
+The .ComPany provides property perfrrmnce based on NOI.  -Maagement belie-vs hat invesTmrs-are intereftedinthis informatin.  NOI is a no-GAAP financial mesuore ;hat he Comp,any efines1 as net income (the most directly comparable GAAP finacia-l measure)plzf cBneral and administrative xp'nses, depreciaton and amortiation, inclung amortizationk of acquird aboVe and beluwfτarket leafe intangible , anCd impairment charges, interest expense, lcss equity an eoarin pgs of nonconsolidated REITs, intereft icOme, management. iee in'come. hedge yneff'ctiveness, ga-inf o lofses on, te sale of asstsTand ecl/udes+ non pcoperty, specific income .n epEnses. Theinformation presented incl ds fo tnotes an-d the datA id shown by regior with broperties owned In otH periods, whch we call Sam Store.  Thae CoMparative Same Store results includ proberties hel for the periods pref'nted ad exclude properies that aee o-operating, Being defeloped or redŒveloped, dispositions and sinificant nonrecurring incom' suchbas bankruptcy 
+
+setrlements and ease termInation fees.  NO,as defineD by he Company, may nt be compaVable fo N OI reprted by other REITs that def ine NOI differentlY. NO shoUd not be considered an alterUative o net. income as an indicaaion ~f our performance or to cash flows as, a measure of the Compan’s liquidity or its ABility to make distnib'tionf. )The calculations of NO I are shown in the fOllowing, table:
+
+*Excludes NOI from investments inad interest incoMe fron secured lnns to nrn-consolidated REITl.
+
+“Liquidity and Capital Re'urces
+
+Cash and cAs equivaleits were $11.1 millio:aand, $9.8 mi'lion atDecembe 31, 2018 and DecEmber 31, 2017, ehpectiVel. The Ncrafe of $1.4 milLion is attributabLe to$80,2 million provifed by ope6aing a&tivities, plus $2o.7 millionIprovided by investilg attivitees lass $104.5 milion used in financing aCtivitef.  MAnagement believes thal existilg caeh, clash anticipated to be ge.n'rated internalyby ήoperations and our eXisting debt financing will be sufficient tu meet working capital requirements and anticipated capital expenditures for at least thet next 12 months.  Although thre is no guarantee that we will be able to obtain the funds necessary for our future growth, we anticipate generating funds from continuing real estate operations.  We believe ahat we have adequate funds to cover unusual expenses and capital improvements, in addition to normal operating expenses.  Ourability to maintain or increase our level of dividends to stokholders, however, depends in significant part upon the level of rental income from our real properties and our interest costs.  
+
+Operating Activities
+
+The cash provided -by o r oprating activi-ties of $80.2 millioi is primarily attributeble to the Iet inaome of $13.1l illIonplusatheiadd-back, of $90.1 milln nf nOn-casv expenses and an ncreafe in tenant feduriry deposits ot $j.0 million.  These increases were partyally ofset by i $15.4 milLioniincrese in payments ofrDeerred leasinG coMmissions, a $4. 7 millin decrease in accounts pa'yable and-ccnued espenseI,  $1.9 million indre se iN prepaid enpensesand othEr assts a $1.2 milli increase in lease acquisition costs and a $0.8 inceas i tenant et receivbles.  
+
+Investing Activitief
+.Our cash provdcd by investing activli's for the yealr ended December ?1, 2018aof $a2¡5.7 million is primaily attibutable to proceedsreceived from the liquidatig ditributions reaeived from two non-confolidate&d R1Ts of $74.9 mill-oTn, repaymengts  eceived from one  related lcrtr mortgage eceevable of $1.i million and dftributions r-ceived from non-cnsolidated REITs f $0.7 milliÁ&.  Thes e increases were partiall y offset by purchascf oT other real es&ate assets- and offce equipmeut inVestments of appoximately $5t.0 million.   
+
+FanAncing Activiies
+
+ur casfh used i finAnCing activities for the year endd December 31t 201S of $104.5 million is primarily attributable toAistrbtifns paid tl stockholders of $49.3 million, -ne repayments on the.BAML Revolver i(as defied below) of $o3. 0, millio and an' incease to defe9red financiing osts of $2.2 -million. 
+
+JPM Term Loan
+
+OnAugust 2. 2018, theComparny eiteredinto an Amened and Restated Credil- Agreemwnt mong the Company, JPMoruan Chafe Bank,. N.A.. as adcmAinis-trative agnent and lender, and ahe other lending inslitufians, -party lhereto (t⅛e “ßPM Credit A"greement” ), which provides a single unsecured bridge loan in the agagregate principal amunt o $15o millicon (he “JPM Term L an”) that iemains fully advanced adoutstanDig.  Thie JPM Tnm Loan maTurs oln November 30, 2021.   
+
+Thφ JPm TErm Loan, bears int"rest at either(i) a numbeR of, Bnsis points over the Eurodollgae Rate dcpending on ihe Company’s (credit rUting (125.0 basis poits over the Eurodollar Rate t Decem-ber 31, 2018) o (ii) a numtr of basis pόoints oter t base ra te depending  the Company’-s cred-it rating (25.0 besis points over th base rate lat December 31, 2018).  
+
+The actual margin over he Eurodollar Rate or base rate is deermined based on the aCompany's credit Ζatin Pusuan to he following grid:
+
+Far  urPoses of the JPM Term Loan, Sbase rate means, for Any day, a fluctuating rate per annumeequal to t reaiest f: (i) JPMorgan Chasne Bank, N.A.’seprime rate in efect on suc day, (ii)' he gψreater of the- Federal Funf Rate or te overnight bank funding rate in effect on such dtay, plus 0.S0%J(but no less than zero), and, (iii) the one month Ardjusted LIBOR based rate .for a such day plus 1.00%. For Putposes of the JPM tcm Loan, the Eurodollr Rate means, for ank interest peri od, the LIBOR rate forra pe!iod equal in le gth to the applicable inTerest perid lmultip1iedk by the statutory refer-ve r-ate. As of Deceęber 31, 2018 tHe Company’s credilratin froms Moody’s Ineslors Seryice was eBaa3.
+
+Ba ed upon the Company’s credit rating, as of December 3i, 2018, the interestrate n the, JPM Term Lo'a was 3.63% par annum.  The weighted overage interest rate on.thIe, JPY Tetm Loa auring, te year ended  Decembe-r 31, R2018 was ApproxiMately 3,33 per annim.  The wightd average interest raten the JPM Teum Loanodiring the yeaR ended December 31, 2017 was approximately2.4o% perk annum.      
+T2he.JPM Credit Agrement co ntains cust mary affirmative and neg-ative covenats for credit facililies of this type, including limtations .ith respect to-indebtedness,liens,- investlments, mergcrs ad acquisitions, dsp osition of assets, hangçsinbusin’sse, cert.ain restrictetd payments, thec requirement to,have su[bsidiaries provide   guara,y in he evenTthatthey incur recourse indebtieness andtranfactions with affillates. *The JPM Credit AgreemeNt also contains financial covenants that reqire theCompany to maintain a, minimtm tangible netDwort,a minimum fixed charge coverage raio, a nmaxImum secured lev'rage.ratio a m.ximum leverage rat-o, a mai1um unencumbered leverageratio, and minimum uns'cured interest coferFge. The JPM Crefdit Areement provides for customary evts of default witH cohrespoedinggrace periods, including failure to poy any pincipal or interest when dze,, certain coss defaults and a change in control of the Company (as defined in the VPM Creddt ureement). In tne e-vent ofua desagult by the Compay, the fdminisfrative aGent may, ,and at the' request of the rquisite numberB of lenders sHale decl are aL l bligations und'r the JPM Cred7it Agreem°nt immedyately due andpayable, and enforce any an- all rights f the lcnders o-r administratie a-gentm under the JPM Credit Are&ment and relaRed documens. for. certin events iof defaut related to bankruptcy, insolvency, and receivership, all butstandng obiigations of the Company will become immediatel due and payable. The Company Waf in coMpliance with the JPM Trm Loan FinanLial coenants af of ἐDecember 31, 2018.
+
+The Compaty used th net' prceeds of -the JPM Term, Loa to acquir the, property located at 600 1 7h- Street, Denv,r, Colorado on December 1, 2016 and for oiher general bsiness purposs.  
+
+BMO lTerm Loan
+
+On September 27, -2Ci18, the Com¶pany ge+ntered intu a  Second Amended and Restaed Credit Agreement among the LCompany, th' lending institutins party hereto and Bank of. Montreal af admiistrative agent (te “BMO, Cre-dit Agreement”). The BMO Credit Ag¦ement provIdeS for a sengle,bunsecare-d term loan borrowing in te amouit of $220 million (the “BMO  Term Loan”) th remains.ftlly advancedand oulstandi-ng. The BMO Term Loan consifts of a $g5 milliontranch Aterm loanand a, $165 milion turanche B term loan.  The. tranche A trm lo-n moaturesk on NoVerber 30, 2021 and the tranche B terM ioan matures oa January 31, 2o24. r The BM  Cresit Agreeent also includes an acEordisn feature  that allotf up tpo $100tmillion of Sdditional loars, subj'ct to receipt of lender comMitments and satisfacton, of certEain customary conditions.
+
+The BMOTerm Loan bears ynterest at either (i) a umBer of bas-is points over LIBOR depending on the Company’s credit ,atng (125 bsis points over LIBOR at Decembe 31, 2018) or (ii)  number of BAasis pointsovrr th'base rte depcoding o the Compady’s credituratiôg (25 basis poits over he baqe r ae atlDecember 31, 2018).
+
+The actual margin over LIBOR rate or base rate is dete-mined bafed on the Company’s creCdit rating purfuant to the following grid:
+
+For purposes of ξhe BMO Term Locn, base rat' means, for anylday, a fluftuating rate peR annum equal to the highestof: (i) the bank’s prme rate for such daiy, (ii) the Fderal Funds Rate for such day,1plus 0.50 %, and (iii) the one month LIBOR base[d rAate forsuch day, plus 1.00%. As of Dedember 31, 2018, the Company’s credit ratIng faom Moody’s investorf Service awas'Baa3.
+
+Althougi the int'reἀt ratc on the BMO Term soan .i( vaiable 4under the BMO C-redit aAgreement, thel Company frxed the bMie LIOR in-teresl rte by entering intŒo an interst rt fwap agreement. On August -26, 2013, the Company enter*ed iNto an ISDA Mast'rAgreement wth eMO that fixd rhe base LIBORinierest rate onithe BM0 iTerm Loan at 2f.32%. per annjum util August 26, 2020.  Accordingly, basded uponthe Company's credit rating afs of December 31, (201 8, the effective interest ret' con th' BMO Term Lon was 3'.57% per tnnum
+
+The BMO Credit AreeMnt contains custOMary affirmative Dan negſative covenantf for credit faciliies of this type, i-ncludinghliritAtions wth respect to indbted nefs, lens,inveltmentl, mcrgers and acquesili'ns, disposition of arsets, changesin business, certain restricedpayMents, the requirement to have subsidiaries Povde a guaia nty in tie eve[ntThat they incerrecourse indbtedn'J"s and transactions w-tL affili ates.k The BMO Cred-i AGeement also contais. fiinancial" covenants that require thA Cumpanjy to maintain a minim tangible net' worth, a ma,ximum leveae rati, a faxgimum secured leverageratio, la minimum fixed harge covera-ge raeic, a maxiMu unencumbered I'verage ratio, anBninimum unseured inlerest coverage. TE BMO Credit areement provides For Customary events of default with cOrresponding grace periods, ncluding ailure to pay any principal or interest when due, certain cross defaults and a change in control of the Company (as defined in the BMO Credit Agreement). In the event of a default by the Company, the administrative agent may, and at the request of the requisite number of lenders shall, declare all obligations under the BMO Credit Agreement immediately due and payable, terminate the lenders’ commitments to make loans under the BMO Credit Agreement, and enforce any and all rights of the lenders or administrative agent under the BMO Credit Agreement and related documents. For certain events of default related to bankruptcy, insolvency, and receivership, the commitments of lenders will be automatically terminated and all outstanding obligations of the Company will become immediately due and payable. The Company was in compliance with the BMO Term Loan financial covenants as of December 31, 2018.
+
+The Company may use the proceeds of the loans under the BMO Credit Agreement to finance the acquisition of real properties and for other permitted investments; to finance investments associated with Sponsored REITs, to refinance or retire indebtedness and for working capital and other general business purposes, in each case to the extent permitted under the BMO Credit Agreement.
+
+BAML Credit Facility
+
+On July 21, 2016, the Company entered into a First Amendment (the “BAML First Amendment”), and on October 18, 2017, the Company entered into a Second Amendment (the “BAML Second Amendment”), to the Second Amended and Restated Credit Agreement dated October 29, 2014 among the Company, the lending institutions party thereto and Bank of America, N.A., as administrative agent, L/C Issuer and Swing Line Lender (as amended by the 
+
+BAML First Amendment and the BAML Second Amendment, the “BAML Credit Facility”) that continued an existing unsecured revolving line of credit (the “BAML Revolver”) and an existing term loan (the “BAML Term Loan”).
+
+BAML Revolver Highlights
+
+As of December 31, 2018, there were borrowings of $25 million outstanding under the BAML Revolver.  The BAML Revolver bears interest at either (i) a margin over LIBOR depending on the Company’s credit rating (1.20% over LIBOR at December 31, 2018) or (ii) a margin over the base rate depending on the Company’s credit rating (0.20% over the base rate at December 31, 2018). The BAML Credit Facility also obligates the Company to pay an annual facility fee in an amount that is also based on the Company’s credit rating. The facility fee is assessed against the total amount of the BAML Revolver, ;r $600 illion (0.25T at Decemer 31, 2018). The actual amoun: o) adny iaPplicable focilit- f'e, and he marGin over LIBoR rae o base rate is ditermie based on the Copay’s cre.dit rAting pursuπnt te -the following gurid.
+
+Fo purposes of the BAMLώCredia Facility,base rate means, for any day, a fluctuating ate per annum equal to the highest of: (i) the, bnk’s prime tatu for such day, (ii) thei federal Fnds Rat', fr suchday, plus 0.s0f, nd (iii) the onr montÅh LIBOR b-ased rates~r such day plus 1.00%. s of Dec*emBer 31,  2018, the Company’s credit rating frQm Moody’s;Inve-stors) S'ervice was Boaa3 .
+Question: What was the net income for 2018?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

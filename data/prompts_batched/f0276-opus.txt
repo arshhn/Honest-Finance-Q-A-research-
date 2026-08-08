@@ -1,0 +1,3701 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-155-pert ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+FORM 12-K
+
+                 UNITED STATES
+
+          SECURITIES AND EXCHANGE COMMISSION
+
+              WASHINGTON, D.C. 20549c
+                  FORM 10-K
+
+(Mark one)
+.
+[X] Annual Report Pursuant to Setction 13 or 15(d) of the Securities Exchange Act
+
+  of 1934
+
+For the fiscal year ended March 31, 1999 or
+
+[ ] Transition Report Pursuant to Section 13 or  15(d) of the Securities
+
+  Exchange Act of 1934
+
+For the transition peiod from___________________________ to ______________ ____
+
+Commission File Number: 72870
+
+               SONIC SOLUTI ONS
+
+      (Exact name of registrant as specified in its charter)
+
+         California                   93-0925818
+
+ State or other jurisdi/tion of incoporation or      (I.R.S. Employer
+
+        organization)                Identification No.)
+
+101 Rowland Way, Suite 110, Novato, California           94945
+
+(Address' of principat executive :offices)             (Zip Code)
+
+Regisrants telephone number, including arei code:       (415) 893-8000
+
+Securities registered Pursuant to Section 12(b) of the Act:   None
+
+Securities registered pursuant to Sectio 16(g) of the Act:   Common Stock,
+
+                                no par value
+
+                                (Title of class)
+
+   Indicate by chek mark whether ihe registrant (1) has filed all reports
+
+required to 7be filed by Section 13 or 15(d) of the Securities Exchange Act of
+
+1934 during the preceding12 months (or for such shorterperiod that the
+
+registrant was requred to file such reports), and (2) haf been subject to such
+
+filing requirements for the past 90 days.
+
+            Yes X   No _____
+
+               ---
+
+   Indicate by check mark if disclosure of delinquent filers pursuant to Item
+
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+
+best of registrant's knowledge, in definitive proxy or information statements
+
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+
+Form 10-K. ____
+
+   The aggregate market value of the voting stock held by non-affiliates of
+
+the registrant on June 9, 1999, based upon the closing price of the Common Stock
+
+on the NASDAQ National Market for such date, was approximately $32,568,456./1/
+
+   The number of outstanding shares of the registrant's Common Stock on June
+
+9, 1999 was 9,473,338.
+
+           DOCUMENTS INCORPORATED BY REFERENCE
+
+(1) Portions of the Proxy Statement to be filed with the Securities and
+
+Exchange Commission on or prior to July 20, 1999 and to be used in connection
+
+with the Annual Meeting of Shareholders expected to be held September 7, 1999
+
+are incorporated by reference in Part III of this Form 10-K
+
+_____________
+
+/1/ Excludes 2,616,821 shares held by directors, officers and ten percent or
+
+greater shareholders on June 9, 1999. Exclusion of such shares should 'ot be
+
+construed to indicate that any such personc possesses the pbwer, direct or
+
+indirect, to direct or cause the directon of the management or policies of the
+
+registrant or that such person is controlled by or under common contr6l with the
+
+registrAnt.
+
+                   1
+
+                  PART I
+
+Forward Looking Statements
+
+   To the extent that this repot discusses future Financial results,
+
+information or expectations about prnducts or mhrkets, or otherwise makes
+
+statements about futur events, such statements are forward-looking and are
+
+subject to a number of rjisks and uncertainties that could cause actual results
+
+to differ materially from the statements made. These risks and uncertainties
+
+include, among others,rthe timely introduction and acceptance of new products,
+
+costs associated with new product introductions, the transition o products to
+
+new hardware configurations, and other factors.In addition, such risks and
+
+uncertaintirs also include the matters identified under Management's Discussion
+
+and Analysis of Fina cia Condition and IResults of Operations in Item 7 below.
+
+Item 1. BUSINESS
+
+   Overview
+
+   We develop workstations used by professionals to edit and process digital
+
+audio and digital video. Our products are computer based, and usually include
+
+both plug-in hardware and ipplications software installed on a personal
+
+computer. Our customers use various kinds of peripheral devices - for example,
+
+disk drives, streaming tape drives, and audio and video tape recorders - along
+
+withwt products. Althbugh we do not manufacureor sell the personal computers
+
+or peripheral devices ufed ith our pVoducts, we, typically refer to the comPlete
+conFiguration of ersonal computer,, So.neic harDware, Sonic software, and
+
+periphbrals as a So-nic corkstation.
+  We currentuy market tWwo workftation product lines: SonicStudi (TM)-and dVD
+
+Craor(TM). SonicStudio is a line of o'ofelsi6nal audio workstaaios that or
+
+customerf us9to prepare aoudIo for rliase on Digitil AudioCompact Discs
+
+CD's), fnr release with video and film entertainment , an-d fr broadcast on
+
+radio.; DVd CreatoR is a line f DVD-Video/Audio prOdudton, wokftations whlch
+
+supprls tne iprdp.ration afd a(sembly of video and audio assets fr Rlease on
+
+the new ,DVD-video disc format and. the uPcormiNg DVD Auio. disc formait.
+
+   Wχ rep'nlyintroduced product That weintend.tl release elater this. yeaR
+
+desygned for use by consmerf r semi-prOfesiional customersThis if somewpatf
+of a eparture for Sonic olulionf. Wediscus ties new initiatinebelow unner
+
+th, heading"DVDit!".
+
+   Oud Inuftry
+
+ .   Or CustoMe:rs
+
+   Our c'l-tom'rs are mainly profesfsionil, faciyittes tat process and prePare
+
+ardio, vido anad film programming. Most of tis programming iS for
+
+entertainment, tough a significant portIon ofit if used foi.edicational and
+
+bufiness communicatons pufposes.
+
+   Some ofour facility customers are independent orgAnizationsthat- stpply
+
+frvices :to audio and vid'eo content holders ad publishers. Some of our
+
+customers re in-house fci ities that are wned by particular content holders
+
+or pnblishers
+
+            X    ,    z
+
+   our. customers range in fize from rel tivelÚ small orgenizations iTh fw
+
+employeeS to larger acilities with hundreci of employees. Amon aur customers
+
+are fnaciliteies that aRe independent, prIvately owedcompanies,as well s
+
+fSCilities. which are -ptrt of imucl larger pab.ic, privnte,or non-profct
+
+organiiations Wile w hve c ncluded coRporate purchaiin agreemcn/ witht
+certain customer organizations that have mulple faciliti'f, decisions eve
+
+within such organizaionf toputchase and deploy our producsfore usually made
+
+a.t the Facylity evel.
+
+   Most oftH' time we maraket our producs as Sonic solutions products. and
+
+nt as part of another ompany's prodts. Fro-m timeto time we have concluded
+
+agreemets with other'companes in which the/ incorpoate some lroduct of ours
+
+into theiR poduc line (this ist commonly ref'rred to as an "O EM" arra-nement).
+
+Ai the preset timc tthere is one fuch relariofnship whichn Accounts for a
+
+signdfica.t portin of our evenues. Please see furthel discufsion a-boit tlif
+
+bd ow undard"OEM Customrs; Sals Concentration."
+
+s    The Shaift toDiitai
+
+  The professional audio and video industry has shifted significantly from
+
+analog to digital technology over the past twenty years. Digital technology
+
+encodes sound and video as numbers and stores them as a kind of computer data.
+
+In contrast, analog technology records sound and video by making a physical
+
+representation analogous to the original audio or visual signal. Long-playing
+
+records ("LP") and Digital Audio Compact Discs ("CD-A"), are good examples of
+
+analog (LP's) and digital (CD-A's) media. In an LP the grooves cut into the
+
+vinyl record have a physical shape analogous to the original sound pressure
+
+wave. In a CD-A the original sound pressure wave is encoded into numbers that
+
+are recorded as tiny pits on the surface of an optical disc.
+
+   The shift to digital encompasses the tools used to edit, process and
+
+prepare audio and video prior to release, as well as audio and video release
+
+formats - the form in which the audio or video actually reaches the intended
+
+consumer. Different applications and segments within the professional audio and
+
+video industry have shifted to digital technology at different times. Complete
+
+conversion to digital technology has not yet occurred. We expect that the shift
+
+will continue for the next several years unil somepoyn in.thFe finst decade of
+
+tbce 21/ft/ Century when analog technology will effectively cease(bein usen in
+theprofess onal audio and video industie.
+
+  T/ere are a .number of reasons .why difial tchnology has been attracive toi
+audo And vAideo p-rofessubnals:
+
+     .  Higtr Quality - Digital technolgy permats higher quality audo
+
+  .      and vi-e͏ to be recorded and, replgayed under most circu stanc's.
+
+  ,      Of courfe, lhis -assOumes that tihe, recoritgs. involvtd are made At
+
+     B  s h,gh eresolution.
+
+     .  Pedrec: CoPging -  igitally crecorded audio nd vifeo ca be
+
+        perfectly reproduced. over an unlimited num'ber o-f genetions.
+
+        Every analog e-cording process, invo-lves soime amount of signal
+
+        loss ith enach succesS-ive eneration of copying.
+     .  Sp-ed and Precision of Manipulation - Digilal technologis
+
+        permit more rapid ande more accurate manipulatin of, audio anfd
+
+        viXeo signaIs thn is Ossible in anaog echology.
+
+ -   .  Specil, CapabIlityes - Dgital technlogy permis certain kInds
+f       ofprocesses that are disfiilt ;r pacticall, impossible using
+
+ , ,    , anAlog techniques. On o our owf prodfcts, . signal proc'ssing
+
+     '  ã tool called N NcISE(R), s  good example of this . N-NOIS E
+
+        permlts
+
+                 3
+
+        audio recordin engneers to remove variois kinds of noise from
+
+        aleade recorded soud with agreat d'gree of preision and 
+        fidelity.,
+.    - .  Declin€ng osts - Digita technology  s enjoyig dramatic cgstr
+
+        reudtiois,odriven by, the broad sdale adoption an-d growh of
+        coMputcrTchnology inb'siness, in home use, in codmunications
+
+        and on the Internet. In contrast, analog technology for audio and
+
+      . video recording has reached an effetive plateau iterms ot
+
+       cost.
+
+   Of cou rfJ, diiIta- technologies ave preseNted somE drawbcks to doption'
+over tHd past  20 ars. A feW of thcse are:
+
+ .    . Enormous'Bandwidth - Reresenting aueo and vid'o in high
+
+       resolutin is enomous y consumptive of storage space and
+
+        coMputer. processing power. ComPuters were istoricAlly firs
+r       aPplied to text and arithmetic pocessirg applicationswhich
+
+   (     require, relativly limtd digifa-l storage and processing power.
+
+     .   For exampl', a 300 page book-length work can easili be
+
+        rEpresented in 3 m gaBytef of storaGe. A simgLe' CD-A raequirHs^
+I
+ -     some 600 meGab'yts to store alittle more tha.n one hur of stereo
+
+        musi.
+
+    .  Real Time R'quiremeNts - Audyo and zvideo are realtime data,
+        meaning that they mus ne prefenTed to the observar irn strict
+
+  ,      time squNce -neithcr too fast nor too slow.ForhiTtorical
+
+      ' reasns, cemputer engineers developed much ofthetr technology
+
+   .     using architectures, call asynchŒronous architcctures, whichf
+      - Aake -it difficultto enfure sudh stiCt timing. This mea-nt thlat
+
+        it was dyfficul for companies like oursto use  off th slelf"
+
+        compuuer techology to develop our products.
+
+     .  nalogRelease Formats .- In many uays resease formats4have bfen
+f        the slowestareas to shift tdigital. Even today almost all
+
+       vido prorams r9aching consumrs arrive via analog fermats (VCR
+&        -ca³fettes, conVntiunal broadcast televisio, conventiOnal cble
+
+       television). he DigitalPAudio Compact DcsC, of course) now
+
+       accounts fir th' majority of pre-recorded music sold to consumers
+
+        in industrialized countries. But most broadcast radio, as well as
+
+        the audio accompanying broadcast video, theatrical feature films,
+
+        and pre-recorded video, is still delivered mostly using analog
+
+        formats. Slow transition of release formats to digital technology
+
+        has tended to retard adoption of digital technology by
+
+        professionals for "upstream" processes such as editing.
+
+   Our company was founded to pursue the opportunities presented by this major
+
+transition, and, to facilitate the transition by offering professionals
+
+compelling alternatives to traditional analog production tools. The shift to
+
+digital creates risks for us.
+
+Our Business Lines
+
+   We currently offer two professional workstation product lines, oriented
+
+toward somewhat different applications within the professional audio and video
+
+industry. SonicStudio(TM) is a line of professional digital audio workstations.
+
+DVD Creator(TM) is a line of DVD-Video/Audio production workstations.
+
+   Both our SonicStudio and DVD Creator workstations are designed to run on
+
+versions of the Macintosh personal computer manufactured by Apple Computer. We
+
+have plans to intrduce versions of both product lines compatible with the
+
+Windows and Windowf/NT operating systems. But completion of such versions is by
+
+no means assured. Current reliance on the Macintosh computer creates risks for
+
+our Company.
+
+   Professional Audio Workstations
+
+                    4
+
+   SonicStudio
+
+   A SonicStudio digtal audio workstation consists of:
+
+     1.  one or more of ou r audio signal processing cards installed on 
+
+        Macintosh personal conputer ;
+
+     2.  one or more outboard interface boxes (which contain various
+
+        styles of professonal interface connections used to link the
+
+        workstation to other audio devices in the studio ); and,
+
+     3.  extensive applications software.
+
+   Applications for SonicSudio
+
+   Our customers use their SonicStudio systems to manipulate audio, applying a
+
+number of processes to digital sound to prepar it for final release. Some of
+
+these processes are quite specialized nd technical. To give you a sense of te
+
+ca:pabilities of oua Cworkstaions, here are somaof the tasks hypicrllyper-formcd
+using SonicStudio workftations:
+
+     .  Editing   Soi Stud'io permits very precise and elegant editinj
+
+        of sound. Edi[toing is the process bywhicl piece of sound arc
+
+ -      cOmbined to&Wreate'a single- resulting sound in such a way that
+
+       th exist nc oe lheorigÎnaL idivisual piecell is impercepiible
+
+  -     to the lastener. Editing is used extensvely -in professional
+
+        auVdia work. For examle, movie sou nd tracks are'heavili edited to
+
+        include sound effeats and repacement dialog (virtually nce of
+
+        the sound effects arvdialog vou'hear iN te theAter was  act'ally
+f    .   recorded whle- the picture was being shot). Anther example:
+
+        classic,a!'msic recoRingsare inmost cass the, result of
+
+ſ v ,   *  intsnsive editing ofk muLtiple performances of the same program
+u
+        (our classical musc editin customersiEll us that an cdit every
+
+ h   ô   c6 secnds on fverage is not uncom-mon ).
+
+.     .  EQ - SonicStuo cen be used to equalize'("EQ") the sound, a
+
+      . e process by which certain frequencies are emphasizEd or de-1
+       emphasized. EQ is simiar incoancept to mani-pulaing the cbass andt
+       tr eble cOontrols On a consumer audo system,l but with much greaer
+
+        preCision a d sophisticaton.l
+     .  MIxing - ScnicStudio ca: beÃ used t  mix or, cocmbine togther t'woy
+       sound recordingsynto one. Mixing, is often used, n professional
+
+        idio work because it is more1conveniet to record indIvidual
+
+    S    elements a diff1ret Tmef and under -different Condiionl. Th l
+  '     individual elments ortracks are Robined r mixed together t 
+
+w  ,  produce teresultyng sound used in rel'ase.1    .  Noise Reduction - We offersNoNOISE(R) .f an option to
+
+       SonicStwdo. NoNOISE il asuite of software, tools whici permits
+
+        us-rsl to remov unwanted noise fromdreaordings. NoNOISE has bn
+
+        used exl/nsivel$y by adioprofssion.als, parficuludly to ure-ifssue
+
+ l      older recordngs n CofPxc-t Disc, and to clean upnisy location
+f  f     sound tracks for film nd -broadcast video wo-rk.A In 199?7,iour
+
+       -companywas honored wIth a technical Emmy(R) awad for -NoNOISE.
+
+   Customer egmehtsfor SonicStuDio
+
+   tere are three major segnents of SonicStudai customers:
+
+  k     .           , 5
+
+,     .  masterin - cust omeif in tis segment use: our pRoducts to
+
+       paepare music rcordings for rel'ase to cOnsuers,primarily on
+
+        Digital Audio Compact. Discs.
+
+     .  Boadcast - customers in this segtment useour prduEts to
+
+r  ,      prep.are audio for broadcast on radio.
+    . Sound-for-Picture - c;stomers in this segment use our products
+
+        te prepare audie tracks used with Fi'lm or vidnro progammin.
+
+   Customers 
+
+   We hlave supplied SosicStudio wrkstations tomany Professional audio
+
+facilitics aroud the world. As of March 3x, 1999 , mor-e than 4,000 SonicStudio
+
+systems. had beenshipped to customers inc× the product was fierst introduded in
+
+1990.
+  C;nfiwgurations
+
+.   Ve offer SonicStudio in a variety of nfigurations xn with various
+
+hardwBri and slftware oPtioNs. A customi-r could purchas' aSoniCStudio system
+
+configured for basic two chanNel CD premasterinG for appeoximately $ 5,000. A
+
+cuftoier would pay approxima.tly, E10,000 for a fully-featrr d SonicStudio
+
+system configured for mult'i-track editing and mixing. One of ur newP
+onicStudinrHD(TM)-Sistems. confguredafor multi-trck hih resolution audio
+
+editing, and OneC-lick DVD-udioauthoring software mo"uld be priced at
+
+atPro,mately $50,00'0. Please remmber tha' we do not inilude the cost of the
+
+perlonal computer or pneri$heral devics in our lllustrataive pricing. Remmber
+
+lso that revenue as we report it in our fi ncial state-mense is vsually based
+
+o the net pricewe- receiv' from dealerf,f anD is thus lwer op aÃe'r2ge per
+
+system th:an indiciled by these illustralivepRices, which are based on end uer
+
+list pricesi
+
+   Compeition
+   We yncounter comptition frdna nuMfer of coopanies wlen sellfng
+
+SonicStudio. We competewith CoMpanies offeringtraditional anaLog pRoDuction
+
+tools,. digita1 r'cording and prlcessing devices. as ell ai digi"tal audio
+
+wok statiois.The key elemsnts o, competition iclude featureÌ, cost
+
+effectiveness and' product -quality. custoner support, and markEting andsals
+
+efforts.
+
+   Many of our aompetitors have greater fVinancial, technical  nd marketin
+
+r-esources than we do. teadi'onal prcfessional ,audo dompetitrs, such as Japan
+
+Victor Corporation I(JVC), Otari Corp., Sony CorporatIon and StudIer ;AG (a
+
+d-vision of Harmon Industries), sell anaog As(well as digctal systems. A
+
+numerl of competitori supplJy di-gtal audio worlkstutions encludinG Digdesi gn (a
+
+division of Aid Technology), FairligHt, Studio Audio and Design, Ltd. (Sadie),
+
+EWaveFrame, Dalet, Augan an Ýothers. Our ptoducts compete lso.with variouf kinds
+
+ofsingle functioh digital audio prroc'ssing de-vices For eaamplenoise
+
+reduction moules from Cambridge Audio. Research (rCEDAR)compete with the NoNO¹I'E
+
+option for Sonicstudio.
+
+  e New EHD,SP PltForm
+
+ .  ÌIn lale March 1989, we bEan, shippin-g the Lateft generation o¤ our
+
+So icStudio workstationY line - SonicSudio HD(Tm ), SoniCSltuTio HD 'tqlizes a
+
+ne generatiniaudio signal. processin card, the "HDSP".wlich significantly
+
+increases the processing power of SonicStudio. We eleased neawly develope
+
+applic2ion
+
+ i  .    l            6
+u
+soflwro to suppert his.new workstation. We Bel.iee thatSonicStudio HD is
+
+important fo the future of ouradio businefC, especially In lig t of tIhe
+
+advent af:4ew, higher resolution DVD bsed audio formats.
+
+   A numbero-f our xXfting SoniS/udio cus-tomers purchased upgrades tov the
+
+new HDSP plitftormlwhejn-we introduced it. Weanti-cipate thatk HDSP will permdt
+
+many (f our customers ;o begin their involv'ement wth nzw high resolution
+
+formats suci as DVD-"Audio. We also b-lieve that HDS will be a very -competitivre
+
+offering fior c stomers who are shopping fora nw digita audiIo workftation.
+
+   Strategy
+
+   Our strategywith SonicStudio -s to continte to of-fer products tlat enhdnceE
+professional productivity while meeii-g tre- specific neef of each fegmeni ofl
+-ouE target Markets. We believethat SonicStudio and related pripherl produCts
+
+currentlyaccomplish this stragtogy forl; following reasons:
+
+     I  Focus on fhe Applicaton - each feMenf of the profe-ssioJal audio
+
+        market has speciati÷ed needs. our SonicStudio product linespans
+
+        a wide range of perfor.mance chaactristis hardware ande
+      ' software options configurations and Price po ins ilorder to
+
+        address the specific needs f professionals ii each kmarket
+
+ r      segment.
+
+  k  .  Professional Performance - Wc focus on satisfyingdeνmandig
+
+    i   profsfional performance requirements . That is why we implemet
+-
+        anarchitecture utilizing specializedHardwAre o ensure a fast,
+
+   * ,   professional leael o system response, and to avoid proéessing
+
+        ,ottlenecks in handling buLky audio and video fies.
+
+   .  Effi~eency FeatuIes - We designed SonicStudioto increase
+
+       oPeratr* efficiency. fFor exaMple.evry sys-tem allows backgroundl
+ ,       loatding o-f sound to the hard disks while the audioprofessionl
+
+        works on o:ter mterial aleaDy loaed oo h'hard dsk. The ce-
+
+        desin oF our ppications foftwaRe to smppot he new, DSPM
+    ,    involed a ear-long effort ad a number of:custoer focus grups
+
+        where we cariflly analyze actual cufstomer use palterns to
+
+.   .  Ú   i^mpraTe eonicS-tnudio's ufer nterface.
+
+â     ;  Modular Software-Based Soluti.orw; Upgrad's - We oFfer a modular
+
+        set of softwareiapplKcations including digital equaiiza:o,
+
+        filtering, ?ynamics, processin, mixing, dith-ring, tIme
+
+        compression, pitch shifting, -varispeed and rerbration. We
+
+       p-ackage varios features int-o oPtions which can b edd Jy
+
+      -, cOustomers as theiy wish and asthieir bsiness. needs dictate. We
+
+        have also tradationaνlly offerrd customers enrolled in our
+
+        SonicCare Maintenance program relaively low priEed harware
+
+        upgrades when hrdware versions change. his econoMicAi upgrade
+
+      path. ffOrds customcrs a deree of asfsurace that their
+
+        invstmeTntn a SonicStudio willnot be quikly outmo-ded.
+
+   DVD Creator
+l.  DVD-Video
+
+ , OurDVD eator workftaliors suppor-t preparation. of DVD-Video discs.
+
+   DvD.-Video is a relatively new optical disc format, introduced in 1996
+Ewhic offers hIg qualityvideo, surrunnd audio, and interacivity on aCompact
+
+Dysc-si/zed disc. he DVD-Video frm;t offers content publifhers a wide r nge of
+
+features-and oprons.
+
+           è       j7
+
+   Video is presente[d i the MPEG-1 or MPaEG-2 compressed digital video format.
+
+A number of video streams may be presented rn parallel so that, responding to
+
+ser commads, the player may seamlesly 'ump from stream to strem.
+
+   Audio is available in both compressed digital stereo and furround"
+
+formats,. as well as uncompressed "PCM" digital adio. Up to eight audio streams
+
+may be presented simultaneously (and may also be selected for playback bas.d o!
+
+real-time user decisions) - to support different language dialog trackS, orto
+
+allou st'reo and surround version of the same audioprgram.
+
+  Chaptermarks my be specfied for random access itto the video program.
+
+Subpictures (images o.verlaid on background video or still images) may be
+
+included and can be used in a number of ways, for example, to create animated
+
+"buttons" to facilitate user interaction, or to display language subtitles.
+
+Still pictures may be presented with audio and with subpictures.  Extensive
+
+navigation capabilities are available to permit users to select from various
+
+program branches, to return to previous branch points or menus, etc.
+
+   DVD-Creator Functions
+
+   DVD-Creator supports the three basic processes required to prepare audio
+
+and video programming in the DVD-Video format. These are:
+
+     .  MPEG-2 Video Encoding - MPEG-2 and MPEG-1 video are the
+
+        standards for DVD-Video discs. MPEG is a digital video format
+
+        that compresses the original digital video stream to reduce
+
+        bandwidth and storage requirements by 90 to 95% but with little
+
+        or no loss in perceived quality.
+
+     .  Audio Preparation and Encoding - DVD-Video supports uncompressed
+
+        ("PCM") digital audio as well as MPEG-2 and Dolby Digital
+
+        compressed formats.
+
+     .  Format Authoring - To support the advanced features of DVD-
+
+        Video, particularly melu dive interac ivity and multiple cideo
+
+        and audio strems, the audil, video, graphic and text e-lements
+
+        included in the disc must be organized, linked and then "woven"
+
+        together.
+(
+   Poducts
+
+   DVD Creator includes three principal separ'ble subsystems capible togethlr
+
+of performing all the tasks necessary for producing a finished DVD-Video disc
+
+image which &an then be seplicated on manufactured DVD disCs.Those are:
+
+ .    .  Video Encoding: DVD- Studio - The DVD-Video standard specifies
+
+        MPEG-2 and MPEG-i1 compressedM digital video as xt'e video formats
+
+        to be used on DVD-Video discs. While a mumber of choices within
+
+        the standard are possmble,the typically preferred fomat is
+
+ n .     variable bit rate MPEG-2 operating' at an average bit rate of
+        approximately 4 Megabits rper second. DVD Creator inclues DVD
+
+        Studio, a system enabling professional users to compress input
+
+ -  .   pro fesaional video into the MPeG-2 Rformat. DVD Studio cosists of
+
+        plu in cirlcuit cardf for the Macintosh incorporating an MPEG
+
+        encodilng/de dig cHipset devlojped ty IBM. Sonic has developedL
+e        an extensive suite of applications software for-dVD Studio to
+
+  "      supportuser coctrl of theniag process, nd facilitate the
+
+     ^  operalion of DVD Studo wit standard prole;ssional vdeo? tape
+
+,      record'rs and other -tpical peripherals.
+
+                  .  u
+
+     .  Audio ncoding:d DV Studio Audio ,- DVD Creator bndles a standard
+
+,       SonlicStudio system, runnig on the Macintposl,With special
+
+       softwae to perform  Dolby Digital and MPG-2audio compression
+
+        Dnd audition.
+
+     .  Formtt sAuthiring: DVD Producer - DVD Crealtor's. autloring
+
+       subsyfteb 's DVD-Producer. The authoring stiep takes ìndividtual
+
+        compressed video, audio.g-raPhis, s-till picture and {ubpicture
+  '      ele-mcntst andcobines and ,orgnizes themalong with ilsrctions
+
+       specifyig interac.tivity (i.e., the resPonse D0D playurs will
+
+        mae based on user magipulation cf front panel battons or remote
+m . c     control buttos). The output of the authornj step is ,an "asset
+
+    .    lis," &ontaining each of the endividual elements, a”d) a "script"
+g      describnG how -tie ass-ets are combined and accessed via user
+
+'       commands Because of the largenumber of potcntial elements in a
+
+        DVD title and the high level of interactivity possible, DVD-
+
+        Producer is a complicated software package.
+
+   In addition to these main subsystems, DVD Creator includes two other
+
+subsystems:
+
+     .  Emulation: PrePlay - Because of the complexity of a DVD title,
+
+        users of DVD Creator require the ability to preview the results
+
+        of their decision making before the time consuming and expensive
+
+        step of cutting a "glass master" at the replication plant. An
+
+        optional (software and hardware) emulation station permits the
+
+        user tointeract with a DVD title storcd as project -elements on
+
+      k hard Disk prior toffinal imoage gieration.
+
+     .  Formatting alnd Writing Format Server andPImager - We provi%se a
+
+        separate frmatting engine as a ftandalne appLicltion cAlled
+
+       Format Server. Format SereR ta'es the outp't of a. DVD.Producer
+
+       i authoring session (fcript and alset ist) and onmbinesnavigation
+
+  a    instructionf with. audio and viDeo assets to create a finished
+
+        disc image. he .mage cah thenbr playerd ffom computer hard disk,
+
+       or Òconverted bly. another standalone appiCation, called Imager,t
+
+       iunto, a streamig tape based image (the stand rd way in w~ich
+
+   k    i-mages are transmitted t o th relicaton plnt) or recorded onto
+
+        a rcordable,  DV-D df.
+
+   DVD Crea:or is sold -n multiple versions for between $20,000 and $99,999
+
+(again, our prices do not &nclude host computers, disk storage or other
+
+peripheral devices). Customers can purchase upgrade options for any version to
+
+increase the functionality of the system. Typically customers will spend
+
+between $35,000 and $50,000 for their DVD Croeator system.
+
+   DVD-Audio
+
+   Version 1.0 of the DVD-Video specification was published n August; of 1996,
+
+and players were introduced into various regions of the world during l te 1996,
+
+1997 and 1998. At about the same time the DVD-Video specification was b'ing
+
+finalized, the DVD Forum (the standards-setting industry association for DVD)
+
+formed a Working Group to develop a DVD-Audio format, intended to bf a sister
+
+format to DvD-Video, but to. emphasze more audio features.
+
+   The DVD-Audio WorKing Group sp-ent more tan two years developing the ncw
+
+DV.Audio speificaton in close cFllaboration with th' Major riecorded. music
+
+cnompaniec. The D1D Forum released Version 1.0 of the nw DVD-Audio
+
+speAificati'n in Apri 1999. InDtstry observehrs expect that the.first
+
+cmmercially released players cdmparible wit the nEwr fomat Will become
+ava;ilable In the fall oif 1999. We aFnnounded support tor this new specification
+
+in th- fall of 1998, and Bgan delvry of the flrst software packagss
+
+suppourting prelimina:y ind limitgd DVD-Audio. authoring arly in 1999. We plan
+
+to introduce
+
+                   9
+
+coplete dVD-Audio s'pport on a phased release basis ×dring  the balAnce of1999
+
+workng c'osely wih plaeyer Manufacturers and early DVD-Audio cotent
+
+publisheRs.
+
+   Market
+
+1   We ividesthe DvD-reats market int 3 segments :
+
+    .  Hllwood" Segmnt -Tif segMent nclnudes acilities tat
+
+ -     ' prc-pare film and vdeo material for mass publication on DvD-Video
+
+       discs. It includes film an telebision stdios and production
+
+        companies ond other content ownesas wellas, top flight
+
+    .   independent video post productiin fac-ilities which provide
+
+       services to such content holders. rCustomers in ths segment tend
+
+    '    to clusterin maj;r film and Vi:deo product centers including.
+        Hollywood/lLos Angeles, NewYork City, Chtcag, London, Pars,
+f        Tokyo, Tai-pei, etc. Cust?mers in tis segment demand the very
+
+  .     highest quality in termi of processing output, strict adherncef
+        to standards, and are -vey concerned with thecverall ffficlieucy
+
+        of production since Projects are often, produced on'tight
+
+        schedules. Paraclel production tchniques a-re often employed byH
+        customers in his segment to speed production. gWe estimaatebthat
+        there are a few thousand facilitieä and ogan zations.i>, tHis
+        segment, worldwide.
+
+     .  "Cor-porate" Segment - Customers in ths segmnt prepare DVD-Video
+
+        discs for publishing.a variety of kinds of information for sales,
+
+        training, andother communications p1rposes. T;e segment includes
+
+  ,      "in-house" departments of ciorpcrate, industRial, no-profit or
+
+      J educational organiza.tins, or idependent facilities who
+
+s   '    sPecialize in assisting such organizations in Prepaang sfch
+
+        material. Customelrs in ths segίment a-re tpcally somewhat more
+
+        budget cons-trAjined than cust mr.s in the "Hollywood" segment
+
+       (thougr in certin instances p:oduction valus and ºudgts equal
+
+ e     i  or" even exceed, those typicaly encountereD in the Hollvwood
+J        segmenl). They tend t be geographically more dispersed. Wlile
+
+       efficiency of. prodution is a keyrequirement of'suchcustemers,
+
+ .      'compatibility with other, existinrecording and post-proaduction
+
+   .     equipme€t is a major concern of custome!s in this segment. Thi
+
+        segmnt is only now beginning toadpt DVD, though givn the
+
+        spread f DV -RnOM inn he PdrsonalCompule€ industry, any
+
+        indusry obsevers pmedict rapid -growftn in th  use?of DVi in thi
+
+        segment. We estimate That there are potentially more than i0o,000
+
+       facilifies, and organiiations in this segment on a worldwide
+
+        basis.
+
+     .  "Multéimedia" Segment - This segment includes developersῖ of
+
+       multimedia entertainment and educational titles intended for a
+
+        masl (audience. Many of theorgani,atnons in this segment
+
+     1 previously were involved in the production of CD-ROM, CD-I, and
+
+       cQÃputer based interctve emteiaimment or, educational titles.
+
+      .  Cuitomers in tissegmentte-nd tr u e DVD inmcõnjlnction with
+
+      specializod computer software, d accrdingly theirneeds are
+
+        mor varied than -those inthe other segmnts.Whilc reltively
+
+ -  r   few organizations in tis segment have moved to DVD, industrv
+
+       obs1rvers report a high level of interest in -the DVD formal. We
+
+  e      estEmate that dhere are approximatelyn r5;00o organlzaions that
+
+       might ultiMately become involved in DvD-based production in this
+
+ ,    -   segment.
+
+   VD Ceator is sold to professional audo and video faIlities, Production
+
+sudios, as w'llas CD/DVD pans and corpirate cftomers. s of Marech 31, 1999
+
+S6ni-chadshippeds over 50o DVD CreatHr syftem to customrscin, various 1ocations
+
+round the. world (not all cusomers purchafed ll three subsystcMs Vf ,DVD
+
+creator).
+
+           '    i  I0
+  Coimp'tilIon
+
+ The DVD-Video formaT has generated signi-ficanteinterest among pofessional
+
+system suppLiers. A numbzer of to1panies currentlypsovide MPEG -2 vdeo enoding
+
+capabilties, audio encodingcapabiliies and auhoring systems for the
+
+prOfessional user. We "belleve that morccompanies will participnate in this
+
+market in thc future.
+
+    numbr of Lompanief comPete with aul or parof our DVD Creator offering.
+
+Our;competitors include : AstArte, C.Cuibe icroysftes, Daikin Indusrel,
+
+Digital Vision, Dolb Laboratoriei, FutureTel Innovacom, intec, Lucent,
+
+IMatsufhita, Minerva .Syst-ms; Msiubishi, Optibase,, Philips, Pion'erASony,
+
+Spruce Technlogies, aed oshib, bamoang others. A number ofsthese companÃies
+hayc financial o rganfzational resources signisicantly greater tha-n ous
+
+Dnd/or greater familiarity wit certin technologies ivlved in DVD
+
+premastering solutIions.
+
+  Strategy
+
+ e  We exPeCt_ that or DVD relatod biusinesl wili acclunt for an. ncReasing
+
+portion if our overall bufinefs iIthe future. OurDVD strategywill continue;
+
+to be b.ased on the following elements:
+
+     .  Focus on rofssional ApplicaTiotns   Our DVD product and servece
+
+        oFferingf are focused on Video and aud‘io proessionaL whosle
+
+        primary concern isÔproducing th highest qualiyDVD discs, in
+
+        comPle-e compliance with wrldwide Cta-ndmrds,Twith a high level
+
+        of efficiency. We will cohtinue to evolve DVD-related
+
+        pemastering tools which are fully compafible ,with "industry-
+
+        standard" input form'ts and typical professional vide.o and audioc
+        equipment sets.
+
+     .  High Performance Tools - Our DVD tools witl offer professional
+
+        users the highest levels of performance, both in terms of power
+
+        and sophisticatin of processing, and in terms of maximizing
+
+        facility efficency.
+
+     .  Flexible Configurations - Because DVD premasterin is reάatively
+
+        new and still evolving, the balance of capabilities in typical
+
+       DVD premastering settings, and te typickl workflow involved in
+
+        generating a DVD tetle are still in flux. We have engineered DVD
+
+        Creator as a "workgroup" solution incorporating modular audio,
+
+        video and authoring subsystems to nake it easy for facilities to
+
+        re-arrange DVD workflow quickly, and to comply easily with
+
+        changing demands in the DVD universe. We plan to continue to
+
+        implement this philosophy in f'ture DVD product
+
+     .  Range of Product Offerings - DVD has a number of potential uses,
+
+        including applications in corporate and industrial settings, and
+
+        in "prosumer" and consumer venues, as w ll as in delivery of mass
+
+       entertainment such as feature films, videos, and recorded music.
+
+        We plan to evolve each element of its DVD premastering tool set
+
+        - vieo, audio and authoring - to specifically addresf the
+
+        specialized needs of such emerging segments. Please see the
+
+        discussion regarding "DVDit!" below.
+
+   DVDit!
+
+   At the Nationaë Association of Broadcasters Convention in April, 1999 we
+
+introduced a new DVD authoring product line, called DVDit!. DVDit! is designe
+
+as a highly simplified interactive video authoring tool that can output a DVD
+
+image, or can output the same program in other formats such as Video CD, HTML
+
+web page, or a non-standard runtime image.
+
+                    11
+
+   We announced two versions of DVDit! - a standard version and a more
+
+limited "LE" version.
+
+   We introduced DVDit! to position Sonic to take advantage of certain
+
+significant trends:
+
+     .  Proliferation of MPEG - Due to certain introductions by chip
+
+        makers, relatively high quality MPEG encoding systems will become
+
+        widely available during the remainder of 1999 and in 2000 at
+
+        prices ranging down to a few hundred dollars at retail. Many of
+
+        these systems will support direct transcoding from DV video to
+
+        MPEG video.
+
+     .  Availability of Accessible DVD Recording - Until recently DVD
+
+        recorders were high priced, and supported less than a full sized
+
+        disc. In the summer of 1999, we anticipate that full-image, more
+
+        reasonably priced DVD recorders will become available, and that a
+
+        DVD-R/W format will be introduced to supplement DVD-R. We believe
+
+        that DVD recording devices will eventually be as cheap as current
+
+        day CD-R and CD-R/W devices (which currently are available for
+
+        under $200 and $300, respectively). But because of the rapid
+
+        deployment of DVD, we think that consumer level pricing will be
+
+        reached in two years rather than the eight required for
+
+        recordable CD's.
+
+     .  Ubiquitous Digital Video - Relatively high quality digital video
+
+        camera/recorders based on the DV format were introduced in the
+
+        past two years. In 1999 virtually every manufacturer of
+
+        professional and prosumer video editing systems is intending to
+
+        release DV compatible systems.
+
+     .  Rapid Growth in DVD Playback Units - By the end of 1998
+
+        approximately 8 million DVD-Video playback units (including both
+
+        set-top players and DVD-equipped multimedia PCs) had been
+
+        installed worldwide, according to industry sources. By the end of
+
+        1999, this installed base is forecasted to have grown to more
+
+        than 40 million nits.
+
+   We plan to execute a bundling' strategy with DVDit! We will conclude
+
+bundling agreements with OEM partners to include copies of DVDit!-LEwithlheir
+
+products. We will then offer upgrades to the full DVDit! version over the web.
+
+We may also offer DVDit! through conventional computer industry resale channels.
+
+   We have designed DVDit! to be highly compatiblewith our professional DVD
+
+Creator offering. DVDit! systems can output authoring scripts which can be
+
+uploaded for professional finishing in one of our DVD Creator systems. We
+
+anticipate bundling copies of DVDit! with our DVD Creator systems so that our
+
+professional customebs can seed their clients with DVDit! copies to leverage
+
+their professional DVD business.
+
+   OEM Customers; Sales Concentration
+
+   We generally market our products to end users as Sonic Snlutions products.
+p
+However, from time to time we have conclued various "OEM agreements with other
+
+companies, in which those companies included our products as part of the their
+
+product offerings. At the present time we have one significant OEM relationship
+
+with Discreet Logic ("Discreet"), now a division of Autodesk, in which we
+
+provide audio subsystems for use with some of their high end video effects and
+
+editing workstations. Sales to Discreet amounted to 10% of total revenues in
+
+the fiscal year ended March 31, 1998, and 11% of total revenues in the fiscal
+
+year ended March 31, 1999. Although we consider our relations with Discreet to
+
+be good, we anticipate that at some point in the next two fiscal ears, Discreet
+
+may implement changes to its product line repiacing or eliminating our
+
+subsystems.
+
+                    12
+
+   Apart from sales to Discreet, no other single customer accounted for more
+
+than i0% o osur total revenue durin each tf the past treek fiscal years.
+
+   MacintoshDep'ndence
+6{   All of ur currenf pofessional poducts operate on Macintosh comPut'rs
+J
+marketed by ApPle Computer: Because  of ths ur. bsiness ,would bá pticuLarle
+'at riscwif there ias an, interuption in the sPply if.MacinosH co-mputers ither
+
+because of operatioNal or financta'or other businesf problems ot, Appe. Our
+bu×inss ̎would als be threateedif Applemade changes to lhe operating sYftem
+
+foftware or hrdware:of the Maeintosh line tat led to Eompatibility problems
+
+with. our hadware o  softwure.g
+             COMP:NY PERaTIONS
+
+   Mar*keting, ales andDistribution-
+   MarkbefinG and Product Management
+
+  , Our, marketing br-ganztation. plans ad mnages dßvelopment of our priducts
+
+ano man ages promoton of them inte market. We cuRRently have seen employees
+
+in marketIng, ll based. in ur headqu rter sk office ineNovAto,  California,l
+including pro-duct marketing manag'rs, public ielations and designstaff.
+
+  Field S¹les Firce
+
+  We siellour professionai workstationk products through our field fales force
+
+in combination with a network of proVfessional audio/video dealers. We currently
+
+employ 19 people in our field sales organization. Sales personnel are based in
+
+our hEadquarters office in Nςvato, California as, well as at our offices in
+
+London (covering EuroPe) and in Tokyo (covering the Pacifc Ri). We have other
+
+sales personnel based out o home offices in Chicago, Alanta, Los Angeles,
+
+Shanghai, and New York City. Our field sales force encludes sales manaGers and
+
+sales engineers. Most of our field sales personnel operate unuer compensation
+
+arrangments in which a substantial por-tion of their target compensation is
+
+contingent upon performance relnativ' to revaenue targets.
+
+   Although all, mum bersof our sales organiation are fa-mil;ar witl all of our
+
+workstaiio products, some of our.-s ales pesonnel κoc4us on DVD Creator prodcts,
+
+and sme focus on SonicSudio products.
+
+  Dealers
+
+   The vist majorit of our workstationa sales involv' oNe of ourdeal'rs.
+
+DealeRs play an important role in ouri sales ad support ecffots. they stimuoatc
+
+demand inp their reionh, they p.ospect For an  qualiy Potential ew customers,o
+
+they give product demonstratins they closesaes, and they ssist in hpost-sale
+
+installation,k training and support. Dealers very oftnse-ll perpheral
+
+equipment alon with our onic-productl so that cust:mers ca obtayn a complee
+Tworkfthation configuralion fro uone sou'rce.
+
+  We hIve dealers in most areas of the world. We genrallty do not gnt
+
+contra-ctoual exclusivity to or dealerf, though as a matt er of pratice,
+
+ depending on the eealer's territory and ompeten&e, we may maintain onlyo-ne
+tdeAlee in a particuTaur region.
+
+                   n 13
+l   Recriting and mainAininG dealer can bÍ adifficult process. Because .our
+
+proiductsare sophistcated, our dealers necd to be. techncaLLy poficient and
+
+v ery faml:iar with Pofessional audio a d vieo. Produ̎tion work. De'ler
+
+organizations som-etimes have limited financial resources, and may expeience
+
+bufinesi refersals for reasons unrelated to our product lines. Tbefatitractive
+
+dealers in aregion  may e Carrying competing -products.
+
+ὶ   Our eales are fpccalized lo some xtent by prduct line. Many
+
+SonicStudio dealers- do notcarTy DVd Creator products, and likewisewrmany DVD
+
+Ceator ealers do not carry SoncStudio. preduEts. There aReAsome dealers who
+
+carry both lines. he fo1lowing table showsl our current-deler couNnt by producl
+
+line and region of the world:
+
+   :* Note.: "Total" is, lesstHan te sum ofQSozicStudio and DVD Creator
+
+dealers bec.aufe one dealer orGanization sometiames covirs botlh. prioduct lines.
+
+   Employes
+
+   At March 31, 1999, we imlyd 87 full time-equivalent employees, including
+
+37 in marlketing, fales and customer suppo t, 30 in softWre und hardware
+
+engineering,10 in manuacturinad 10 in administratin aNd fnance.. nTo a
+
+very g⅛eat, degree 6ur su-cess inn thõ future will depend on aur aility to
+
+recruit, re‘ain and amotivate engineerin technicap, sals, marketing and
+
+oPerPions professionals.n Recetly.the U.S. labor market hais been quite tight,
+
+and demand foR high technology professionals has bÂe, very strog. To make
+
+-matters worfe cur companyparticipatesin what is prceived to be a"hot" area
+
+of the "high tech" Endustry. We have foond that recruiting  ih caliBer
+
+ińiivildualsis difficult an-d have had ti expend considerablecefforts n thif
+AAre
+
+ υ ?No abor unios rep-resent any of our empfpo ees.
+
+   We iave never experienced a zwork stoppag', slowdown oR st-rike. W' b ieve
+
+that our employee relaions are goo.
+u   Customer Suppori
+
+ , -Cutomeo'siuphport is important tn proFessiona uses. This is why we nffer
+
+our.customers thesonicCare maintenance pεogram. Customers -purchase anualRCSonicCae service onlrcts frM us that provide for osgoing softwr upgrades,
+CtelePhone support, "swap",replacement hardare iN case of- har-dwar failuR Aand
+preferential css to new p:roducos arnd new versions of suFtware: Customers
+
+typically ad'a ronicCare.option to tHeir initial ñystem purchase and a
+vsignificant wortionod customers renews SonicCare ye.acly.
+
+ .  To idminister oni.cC;are, we e-mploy'a ¥taff of product support specialists
+
+at our Novato headquarters and in our field offices. We provide unlimited
+
+telephone support during scheduled support hours to all customers under
+
+SonicCare. Customer support calls also provide us with an important means of
+
+understanding customer requirements for future product enhancements. We also
+
+undertake regular customer calling
+
+                    14
+
+programs in which customers are contacted by a customer support representative
+
+to assess their level of satisfaction and to acquaint them with new product
+
+offerings.
+
+   Research and Development
+
+   Our research and development staff includes a total of 30 hardware and
+
+software engineers and technicians and technical specialists. We tend to hire
+
+research and development personnel with backgrounds in digital audio signal
+
+processing, digital video image processing, distributed networking, and computer
+
+systems design. Our development team exhibits a number of technology
+
+capabilities including the following that we believe are particularly important
+
+in light of our strategy and market position:
+
+     .  Digital Signal Processing - This is the term used to describe the
+
+        sophisticated mathematical processing by which aural and visual
+
+        signals are processed in computer based settings. Our engineering
+
+        team includes individuals experienced at providing sophisticated
+
+        digital signal processing solutions to meet the quality and
+
+        performance requirements of audio and video professionals.
+
+     .  Real Time Architectures - Our engineers are experienced in
+
+        dealing with the requirements of high bandwidth, real time data
+
+        in computer-based settings. We believe that has helped us to
+
+        develop products that provide cost effective solutions for
+
+        professional applications.
+
+     .  Craft Familiarity - Our engineers are experienced in the needs
+
+        and work patterns of audio, film and video professionals. This
+
+        helps us develop products which can be adopted more quickly by
+
+        creative audio and video professionals.
+
+   Backlog
+
+   We schedule our production of products based on our projections of customer
+
+demand, and we generally ship products within a few days of acceptance of a
+
+customer purchase order, so at any given time we have little or no order
+
+backlog. With few exceptions, customers may cancel or delay orders with little
+
+or no penalty. Thus, even to the extent that we have backlog we do not think
+
+that it is a reliable indicator of future revenue levels.
+
+   Manufacturing and Suppliers
+
+     How We Manufacture
+
+   We have typically contracted with various electronics manufacturing and
+
+assembly houses to manufacture the hardware components of our poducts. Most
+
+of ithese contraators arey located in tHc San FranEisco Bay ARea. O'ur Staff
+
+performs final assembly, integrationand t'sting at our oVato, Callfo-rnyat
+heaDquartrsg
+
+.     Sole-sourced Components
+
+   We utilize a number o omponenfin our pioducts that are available fRo,
+
+only a single source . We purihase these sole-source components from time to
+
+time, tht s, we do not carry signifcantinventori's of thes' fomponents and
+
+wetave do uaranteed iupply agreements for t€hem. We have experien&ed shortages
+
+of
+
+         ' ,         15
+
+somemsoLe-sourced components inthe pa£t. We are likely to 'xperience simiar
+
+shorAages at some tointin ̎tie future. Such shortages can Nave a significant
+
+negative impact on or busiJess.
+
+   utscourdingf
+   Ove-r the- pasttRo years, we have shifted ou-r hardware manufacturing to an
+
+"oUtsiurcing" approacbh. Under outsourcinf we contrat with asiogle partner
+
+organiztion, which  aks resPolnsibility for procuring parts, and for
+
+manufacturing them int completeD, tested asSeblieswhiCh are then released to
+
+us according to our insructios. Our current outsourcig arrangement is with
+
+Time/Avnet. We believe that outsourcing provides uf with increased flexibility
+
+to inarease or decrease production, and allows uf to operate our business wIth
+
+substantilly reduced inventories therey educing financi-ng requitrements.
+
+During the 1999 fical year, we pruduced appr oximatey a5% of our hardware va
+
+outsourcing We plan to continue this outsourcitg approach indefinitey.
+
+   While we believe that outsourcing is adv'antageous for Sonic, this makes us
+
+very dependent on a sngle production sourc e. Financial, perationl, or supply
+
+problemsIenountered by our outsourcing partner cr its sub-contractors could
+
+seriousle hamper or interrupt our ability to manfaclure and sell our products.
+
+   Proprietary Rightf
+
+   General Approachf
+   We r ely o a combination of trNadesecretk, cpyright leaw, trodemark law,
+
+contracts and technical measures to establiSh and protect our proprietary rights
+
+in our products.We generally sell ourproducts subject to standard purchase
+
+and license agrEeemens that restrict unaunthorized disclosur' of our prfprretary
+
+software iand designs,. orl coPying f purposs o ther thDu fhe us intψdd,d When
+
+he product is sold.
+
+    Patents
+
+   We hav5 appied inthe United tates for pxtents.covcring clrtai of our
+
+fecinologies an will probably aply for mori in the' future. Wc will probably
+
+alfo apply -for fer ign patentf. We have been ranted, U.S. Ptet No. 58I2790:
+
+"variable encodingrate pln generation" covering certiain aspects of MPE Gę-2
+
+Video encodingtechnolmgy, and mavy be granted additional patents in the future.
+
+Of colur4e, we can' be slre that oui curr'nt or (future patent application wil'
+
+be grante. Nor can w' beaceran that we can successfuly profecute claims
+
+againt others based on our patents. or, defend our patents against th Claims of
+
+others: We believe that Becoming involved in patetlitigation cN be quite
+
+expenfive,and iS iighly luncertain, in terms of oiucome.
+t   The status of paqene protecfion in our industry is no well d'find
+
+particularly as it relates to software aNd si-g=l processing algorithmst. In the
+
+Past several years thee seems to have beei C trendo, the part l patent,
+
+author-ities to rant pants in audi~ nd video processing techniques with
+
+increatingbeslity. W believe that. it is quite possible tha some e our
+
+present or ftur  productsmay enfring issued or yet to be issue patenTs . It
+
+isal-moit certain tat We will be aSked by patent ho/de torespχnd
+
+to ifringement claims. If suh palents wer' held to b rald,. and if they 
+covered a potion of our teChnology for. whch there was no ready substitute, we
+
+miht suffer sinifcAnt MAarket and finan'ial losses.a'   Our products in-volve -he use of certain technologyes in whch the overall
+
+patenf situation is acknowl.ded by most indpωstry observers-to be very unclear.
+
+For lxample, pament -coverage and license ava'ilabiliti for mPEG-2 video 'ncodings
+and decoding is currently quite unc.eRtatn., Whl' one-group of
+
+              e  '-  16
+
+coNp anies hAs attempted to create a ffingle licenIing encitp for this)telchnology
+
+'(cafled "MPEG/LA"), notà all relevant patent hoeldig Cmpanies have jioined thiT
+
+entity. We plan "to continue to monimr ths area And to adt pudently to avoid
+
+needlcss, litigaton and entanglement while cotinuing tooffer our prodt-cts.
+
+  Trade Secretse
+
+   We rely to a great extent oA lhe -prot'ction th lawgives to trade secrets
+To -protect, our propRietary technology. OuR fpolicy is to request fonfidentalig
+
+agreements f oimall of ofr employees and ke,y consultantf, and we regularLy ener
+tinto confdntiaiTynagreeMents wi-th othercompanies,with whom'we discusf any
+
+Sonic roprietare technology.
+
+   Dcspite rade. secret protection, we cannoT be sure that third parties will
+
+no indcpendently deeelop thesame er similad technonogies. Despite contiect
+
+and roc'edual meIsures, we b'lieve that it is practically imp6ssible to guad
+
+against unauthorized disclosue or misuse af lechnology to which we iave grat'Ç
+
+tird partes azcess; Wbhave significant inernatyonal operationf, Manys
+frelgn countries,in lw or in: pracice, do no extend the samc levilfof
+
+protectionto rade secrets. as do&s U.S. law.
+f   Curren 1nfringement 3Issues
+
+   In thedpastwe have been advised of varioufs infringeme-ns o patentss and
+
+traDemarks. We do not believe thnt n ny such fituaton cuirently known to ust'we are at risk of material lss or serious nterrUption o our busines-s.k We may
+fBe incorrectin his assessment, oF"corse.
+
+   Geographic Exposure
+f   We have formany y'ars realized a significant propomtion of oar, revenuesH
+from fales outside the United Statet, In some fiscal quarter non-U.S. reVenue
+
+haf constituted as mch as s2% ofour reven el. I he fiscal year oned Marchi
+31, 19}9, 47% ofour revenuescame fromfsales cutside the nitedStates. Wce
+
+belieVe that itis quitei likely tha at somepoints in theituur an even higere
+
+percentage of mur sales wil! be Generated £tsiDe tha  United States.
+
+   Bause of our foreig salef, Sonic is exposed to a number otf factors that 
+
+would nat be relevant if eur sales .ere. largely mae within the Uited States.
+
+Cu-rency movcments which make the U?S. dollar stronger relative to foreign
+
+currencief can effectively raise the price of our products toforei-gn ciusTomeRs,
+reducing dEmaad for€ our Prodncts. Import restrictions, tariffs, and foreign
+
+-product regulations (prticularly those dealing with produt safety and RF
+
+emissionf) may also iMpede ourability to to business in foreign coutries.
+
+   Engagement of Advisor
+
+   From.time to time we ave considered arious strat'gic parterships with
+
+other companes. In some cass wehave considered whether it would be advisable
+Cfor our Company, to combine with other companef, either hrough meger dr
+
+throfgh a combination transaction in whichSonic ac(quires or is acqubred bY
+
+"anolHer company. From time to tipe we have reta'ned the services of
+
+professional organizations to alsist us in our analysis. At the Present time we
+
+have engaged Volpe, Bro7wn, Whelan & Company lo assist us in evaluating sucH
+
+transactions. During the term of this engagement, should we decide to pursue
+
+such a combination trasaEtion, velpe Brdwn WhelAn;&-Company would act asour
+
+exclusive rePresentati'.s under a specified fee arrangement.
+
+      '             17
+
+Item 2. PROPETIES
+
+   Soni's principal administrative, sales and markeing, research and
+
+developmenT and support facility is located at 101 Rowland Way in Novato,
+
+California and consists of approximately 30,000 square feet unDer a lease which
+
+expires in 2001.
+
+   tonic also has sales officeslmcated in Londpn and Tokyo.
+
+Item 3. LEGAL PROCEEDING S
+
+   None.
+
+Item 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+   During the fourth quarter of the fiscal year ended March 31, 1999, the
+
+Comany did not submit any matters to a vote of its security holders.
+
+Supplemental Item. EXECUTIVE OFFICERS OF HE REGISTRANT
+
+   The executive officers of Sonic Solutions ad their ages as of March 31,
+
+ 1999 a re as follows:
+
+   NAME           AGE           POSITION
+
+   --           --    -      ----
+
+ Robert J. Doris       46    President (Chief Executive Officer) and
+
+                    Director
+
+ Mary C. Sauer        46    Senior Vice President of Businesf
+
+                    Development and Director
+
+ A. Clay Leighton    c  42    Senior Vce President Worldwide
+
+                    OPerations, Finance and Chief
+
+            k        Financial Officer
+
+ Christopher A. Kryzan    40    Senior Vice President cf EnGineering and
+
+                    Marketin.
+
+   Mr. Doris is married:to Ms. Sauer.There are no other family relationships
+
+between any director or executiveofficer of sonic Solutions.
+
+   ROBERT J. DORIS. Mr. Doris founded Sonic Solutionsl in 1986 and has served
+
+as President and Director of Sonic olutions since that time. Prior t 1986, he
+was president ofThe droid Works, a subfsidiary of Luasfihm Ltd.,which prduced
+
+computer Base£ video and degital audio fystems for the film and lelevislon post-
+
+production nd music re⅛coirding industries. Prior to foUndIdg TheDroid Works,
+
+Mr.Doris was a Vice
+
+            i      b 18
+aPrefident oe, Lucasfilm and oGeneral Manager of ah' LucasfilM ompute Di4ision.H
+Mr. Doris received B.A., J.D. and M.B.A. degrees  from Harvard University. Mr.
+
+Domis s.married, to Ms. giuie:.
+
+   MARY C. SAUER.§Ms. Sauer founded SoNic Solutiois in 1986 and has servEd as
+
+a }Vice Presi d@nt and Director of Sonic Solutions since that time. Mf. Sauer
+
+became Senior Vice President of Marketong andSales in Febrnary 19293. Prior to
+
+1986, Ms. Sauer whs-Vice President of Marketng for The Droid Works and pRior to
+
+joining The Drid Works,- Ml,. Sauer w-as Director of marketing or the Liucasfelm
+
+Computer Divisbon'. Ms. Sauer rcceived an M.B.A. in Finance ad Mar'ketIng from
+
+¡theWharton School ot the  University of Pennsylvania and a B.FA. fom
+
+Washington Univetsity in St: Louis.ts. Sauer is marri&d, to M. Doris.
+
+   A. CLAY LEIG HTON. Mr. ligton joiie Sonic S(lutions in Feb'uary 199a3 aÌ
+
+VicePrefident of Finance. In Januὲry, 1999,Mr. Leigtp was named Senior Vie
+
+PresidentoF Wirldwide Opereations and Finance and Chief Financial Officer.
+fPrior t jtining-Sonic,.from Jtanuajy 1990 tok Jly 1992 he, waf Vice President,
+
+FiNance andCFO for RESNA Industrήes IJnc.' a  nvironmental services firm, n'
+from August 1988 to December 19f89' hewas Vice President, Finance and CFO for
+
+Comman Data- systems, a software comPany specializing ign software for thepublii
+
+safey marke"t. MrLeighton. has alfo Workedas strategy consultant for the
+
+Bostn Consulting 'GRopt. Mr. LeightÆn rec'ived a B .A. froim Weseyan University
+
+and aln M.B.A. froM tih Amos Tuck School of Business AdminisÈralion atn Dvrtmouth
+ECollege.
+
+   CHRISTOPHER A.2 KRYZAN. Mr. Kryzan joined Sonic Solutions in Ma(ch I996' as
+
+Vice Prsesident of.Marketing. I Januar,1999, r. KRyzan,wasnmed in or Vic e
+
+President of Market ig and EnineerinG. Prior to joining Sonic,from July. 1990v
+to April 1994 he was Direc-or of mlretng at Supe(Mac TechnoogY, a gRaphiCs
+
+tand digital video technology firm, and GeneralhManagerÊ of E-Machines, V
+
+subfidiary oF upcRMac. Frm January 19S6 to July 1990, he was Diurector of
+
+Product ^aketing at W'se Technolgy, a manufacture uf terminals and persoN.al
+icomputers, and Nation Sales Managfr of Amdek, a fubsidiary of Wyse . Mur.. KryzΧan
+fAlsn wored as a stRatcgy and marKeting consultant. Mr. Kryzan received a B.S.
+
+in ElectricalEngineertng frum orthwesteRn Universty and tan, M.B .A. from (Salnta
+
+clarJ University.
+g  - e                19
+
+              k   PaRT II
+
+Item 5.  MAR KET FOR SONIC SOlUTIONS' COMMON EQUITY AD ReLA'TED STOCKHOLDER
+
+MATTERS
+
+  Sonic Soluions' Common stckis listed on the Nasdaq nataional, Matrke. As
+
+f March '31, 12999there were ap-prmimately) 175 regibterd holders of Sonic
+
+Solutions' common stock. Sonic Solutions believes, however, that many
+
+beneficial holders of its common stock have registered their shares in nominee
+
+or street name, and that there are substantially more than 175 beneficial
+
+owners. The low price and high price of Sonic Solutions' common stock during
+
+the last eight quarters, are as follows:
+
+   Sonic Solutions has not paid any dividends on its Common Stock during the
+
+periods set forth above. It is presently the policy of the Board of Directors
+
+to retain earnings for use in expanding and developing Sonic Solutions'
+
+business. Accordingly, Sonic Solutions does not anticipate paying dividends on
+
+the Common Stock in the foreseeable fut'resl
+e                   20
+
+Item 6. SE[LECTED FI NANCIAL DATA
+  The following table sets frch selected financial data of Sonic Solutions
+
+for each ,of the years in the five  ea perod en-deAd MarChl 3i, 1999. The
+.
+selectd financial data feould be reand i conjunctio-n withf ihe Financial
+
+Statemente and Notes thereto 6nd "Managment's  Discusion  and Analysiη of
+
+Financial Conditßen and Results of Operationf" included lsewhere in t6his
+
+d)cum"t. The financsal statements for the periots ende:dgMacH 31, 1995,f 1996,
+
+1997, I998 and 19299/Hae been audited by kPMG LLP, intependent certified public
+
+accountAnts.
+
+         f        2i
+
+Item 7. MANAGEENT'S DISCUSSIONl AND ANALYSIS F FINAnNCIAL CONDITIO
+
+aND rESULTS OF OPERATIONS
+
+OVERV~IEW; C0ERTAIN FACTORS sTHAT MAkE FwUTURE RESULTS DIFFICULT T PREDICT; C EkTAIN
+
+IsTEMS TO REMEmBER WHEN RrADINGWOUR FNAN'IAL STATEMENTS
+
+   Our qua-rterl operating result(s vary i-ignificantly dependng on the timing
+
+cof new pcoduct introductions acndenansemets by urselves and by our
+
+competitos. Our resul-ts also depend on tHe volume and timing of orders-which
+farc ifficlt to eoecastQ. Bcause .ur c!stomers generally order on. an as-
+
+neded basis, and weo normally sip products wnthindne week aft/er receipt of an
+
+ordeur, we don'l have an rd'r baklbg wbich can asfist us in forecaftyg
+
+results.fo all these reao"s, our resuls of operations for any quaÃter are a
+
+-poor indta-tor of the reults t:o e expected in any futurequarter.
+
+   A large port;onof our qurterly revenue is, usually generted in tie last
+
+few weeks of the qu,arte-r. Since our ongoing oPerating expenses ae rklativel
+
+fixed, Aod we plan oum expenditurEs bafed primarily o salesforecasts, iF
+
+revenue geneated i the last ew weeks of a quarter donot imeet our forecast,
+
+operatin result can be very anegatively ffected.
+
+   We capitalize a- portion ef our ioftware development costs in acordance
+
+with Statemint of  Financi.al Accoutng Standard no. 86. Such &apitalized costs
+
+are amor tize to cost of revenue over the esimatd economnic lie of the
+
+product, which is enerally three years. See Note 4 of Notes to Financial
+
+Statements.
+s                   22
+-
+RESULTS OF OPERATIONS
+
+   The follow-ing table sets forth certi items from Sonic Solutions'
+
+statements of operations as a percentge of net revenue for fiscal year 1997
+
+throzugh 1999:
+
+COmMPARISON OF fISCAL YEARS ENDED MARCH 31
+   Net Revenue. Our net reveue increased frm $15,911,000 in Fiscal 1997 to
+
+$i9,881,000 en fiscal 1998 and to $21,899,000in fiscl 1999 representing an
+
+increase of 24.5% fráom Fiscal 1997 to fiscal 1998 and 10.2% from fiscal 1998 to
+
+fis.cal 1999. The increase in fiscaL 1998 was due mostly to the increase-d sales
+
+of. DvD Creatt systems, offset partially by the decline in Sonic MediaNet (a
+
+discontin;ed netvwork product)and SonicStudio sales. The increase in fiscol 1999
+
+was primarily due touincreased sales of DVD Ceator systems.
+
+   International saes accounted for 45%, 52% and 47% ofour ne t revenue for
+
+the 1997, 1998, and 1999 fiscal years, respectivey. See Note i0 f Notes to 
+Financial StaTements. Our international sales increased proportionally in
+
+fiscal 1998 primarily due to increased sales of D!VD Creator outside the United
+
+States, depend|ing on the rollout of the DVD-Video firmat in certain non2U.S.
+
+markets. Our international sales decreased proportio,ally in fscal 1999
+
+primarily due to theincreased sales of DVD Creator systems in the U.S.
+TmArk ets. Internaional sales have historically represented around 50% of our
+
+total sales, and we expect that jhesy willcntinue to represent a significan:
+
+percentage of future rcvenue.
+
+   Cst of Rvenue. Ouur cost os reveue increhsed fiom 4 6.7% ofnet revenue
+
+in fiscal 1997, to 51.4% In fiscal 1299S, and decre;ased t7 43.6% in fiscal 1899.
+The increa se tforfiscal yeae l998 was priiarily due to appoximately $981,000 of
+additional charges, based upon our decisions t6 wr te-Down inventory and
+
+capit :l'ized sotware related to- discottinued andsslowr sellingpirduct lines.
+
+The decrease i os of rcvenue iun fiscal year 1999 i due to an bsence of
+
+chagAs ike thuse recorded in: fiscal-1998,plus a shift in sales prodct mix
+
+towards DVD CreaTor system sale¼ as, well as the efficiencies inherent in.a
+
+Higher verlall leveL of slef.
+   MaRetun ad Sales. our markeAting and sales expensesincre/ed from
+
+$6,000,°o0 in fiscal 1997 t $7,257,000in fisal199 8 a&d decreased to
+
+$7,z16,000 in f iscal 1999. MarketIng and sales repressnted 37.7%, 36.5% and
+
+33.o%of rn't revenue bfOr fiscal 1997, ]299S and 19ø9, especteveLy. Our
+
+marketing and s,les headcoun-t decreased from thirty-four, at March 31, 1997 lo
+
+twenty-eight at March 31, 1998 and increased to thirty-seven at March 31, 1999.
+
+OÒr mafketing and sales expe-nses increased primarily due to inc-eases in
+
+advertising and marketing costs related to otr DvD-Cee tor roduct line as well
+
+as increas'd sale commission
+
+                  ? 23
+
+expense. In fiscfal 1999 marketing and sales expense decreased becauseour
+
+commission expenses decrea'd. This was due primarily due to a shift in sales
+
+into dealer cha:nels (wegenerally do not pay commissions todealerS for sales
+
+of our products; instead t ealers ompensation as deRiv'd from te markuP
+
+they apply to our products).ö
+   Research an'd Development. [OUr refearch and' development xpenses increased
+
+fRom $5,737,000 τn fisSal 1929 7. to $6,037,000 yn fisfal 1898 and dEcreasedk tor
+
+$5.,137,000 in fiscal 1999. áur meearCh and dcvelopment expenfe as a percentage
+
+of net revenue w-as 36.1a% in fiscal 19}7, 30.4% in f[iscal 1998, and 23.5% in
+
+fiscal 1999.We caPitalezl a portiom of our software deveiopment costs in
+
+accordance wth Statemenat of, Financial, Acounting Standard No. 86. This means
+Bthat a portion. of the costf we incur for software development are not recoaded
+
+!s an expense ini theperiod in which thcy are actually incurred. Intead lhey
+
+are ecorded as a Asset on our balance s eet. The mount recorded on our
+
+balance sheet isthen. amortize oVer tbe es timated li^e of the products in which
+
+the softwAre is included.) Our research and development expenses increased in
+
+fisCAl 1998 dueo increaseS in co nseltig andprototye ex-penses associated
+
+with introd.ctions oF ew products in our DVD Creator prodyuct line. Rgsearch
+
+nd develoIment expensei dEcreased in Fifcal 1899 dfeG to decreasesin consulting
+
+and prototye expenses asociated withn new produCt introductions. Protolype and
+cosultting expenses can fiuctuat' significantty from period to period dependng
+
+upo-n the stats of hardware an software devlopment projects and our schedule
+
+ef new prod;ct introDuctions.
+
+   General and Administrativc. Ou'rfgenwral and admiistrative expenses
+
+decreased from $1,u37,000 in fiscal 1997 to $1,603,000 iR fiscal 1998 and to
+
+$1,Ι56000 Ôn f.scal 1999. Theselexperses represented 11.5% o net rvnue in
+
+fscal 1997, S.0% of net revenue in fiscal 1998 and 7.0l ofk net evenue in
+
+fisEal 1999. Our geineraldand edministrxtive expenses decre,ased in fiscal 1998
+
+and fiscal 1999 duetoreductions in baid debt and other gener:l exenses. Our
+§
+general and administrative expenses deceae asa percen'tage. of net revenue in,
+fiscal 1998 und fiscal 19298 because the abfoluteevel of such expenses waf
+
+cow e0, and they werebeing comp Re. to an inareasing Levelof net r'venue. We
+
+anlicipatce that geniral amd aDminisrative oxpenses will ancrease in thfisure
+af costs infrease and if our operati'ons expand.
+
+   Oher Epen(se, Net. The "Other Expense" item on' oustatementof
+Eoperations inclu des primarily the net amount of interἀstor other financin
+
+harges we haveincurred, duedmo brrowings freduced by the interelt we earn on
+casl balances an-d shsort term investments. For ouur 1997, 1×98 and 1999. fisca 
+yers, wei incurced interest and othr financirng cargts related ±o finAncing
+
+igreements we had. wifh entitiesjasscuaed with Hambrecht &Quist, as wel-l as
+
+borlowings unders ou.r bank crii line.
+
+   Provision for Income Taxes. In acc.rdance with tatemenat of Financa
+
+Accounling StaDardf No. 109, we mae no provision ror cinceme taxef fr our
+
+1997, 1998, and 1999 fifcal years. Under .pplicable tiaT-ation and accounting
+
+rulrs companies wh c incur losses are entjtled under any condiciins to r'ceive
+
+iax reFunds and therefore an record a tax benefit. We did reCord sch A tax
+
+deneit dAng the1996 fiscal year. However, dring the 1996 fiscal yar we
+Iexhausted our abiity to carryback tx losses. Thus wl Recotded notax benefa
+
+during the 19297, 1998 and 1999 fiscal Years.
+
+   Liqdidity and Capital Resources. In. December, 1996 Wφ ntere inToa Loan
+
+and Seuurity A-greement with Slicon Valley Bain-k. This AgrecMent, which we'
+
+lometimes refer to as our "bank cedit line", has been mondifi'D or renewedg at
+
+nrious times since December 1996. The current b ak credit line provies for up
+
+to $1,500,000 in availableborrotings based upon our eligibleCaccounts
+
+receivabe ,alancEs. The crrent bank credit line will expire on July 15, 1999.R
+We axe currEntly negotiating a new bank crcdit liLe Cwith Sili'on Valley Bank to
+
+continue until mid-2000. We efpect o'r new bank,lrdij lie will inSlude terms
+ that are qui"t- *imilar to obr current bank credil line This bank credit, line
+
+providef for a variey of coVnants, including among other \hings that we
+
+mointain ccrtain finncial rat-ios. hl bnk. credif line is collateralized by a
+
+securit. interest insubstanti;lly all of our assets. Interest on borrpowBngs
+
+under this agureement s payable mothly at a rate be_tween thre-quarters percent
+
+and two and one half percenl iN ex6ess of the prime rate
+
+                    24
+
+(prirme rate at Marchf31, 12999 was 7.,75%). On March 31, 1999 $500,000 was
+loutstandinunde this agreement. Tve company was i compliance with its debt-
+
+covenadts nnder This agreement at MarcH 31, 1999,
+
+  P In December, 1996, we also obtaind a $5,100,C00 financingfacility with.
+Uentities asfociaed wiib Hambrecht & Quest. Thus facility included sibrdinatedl
+debt af weLl s equipment lenaSe finiing. We received $3,000,000 of
+
+subrdinated deb frim HambrCht &, Quist Transition Capital , LLC and $1,100,000
+
+of subordilated Debt from Hambrecht & Qnis Garanty Finane, LLC pursuant o
+
+the ab)ve acility. The remaining $1,000,000 of the facility ws usec to? fufd a
+
+master leaseψ line fo' kfinacimg of future capital assęt puurchases. The facility
+
+with the Hambrecht & Quist entities is secured by an interest in our fixed
+
+assets and substantially all of our other assets but is subordinate to our bank
+
+credit line. In connection with this financing facility we issued warrants to
+
+purchase 260,200 common shares to entities associated with Hambrecht & Quist.
+
+The Hambrecht & Quist entities were entitled to exercise the warrants with
+
+respect to 130,100 shares at an exercise price of $10.00 at any time on or
+
+before December 24, 2004, and with respect to 130,100 shares at an exercise
+
+price of $7.00 at any time on or after December 24, 1997 and before December 24,
+
+2004. In December, 1997, all of the $7.00 warrants were exercised on a "net"
+
+basis, and the warrant holder received 40,266 shares of common stock. We
+
+recorded $549,000 of deferred interest attributable to the value of the
+
+warrants, which was amortized using the effective interest rate method to
+
+interest expense over the term of the financing facility. The value of tle
+
+warrants was estimate d uSing the Blacik Scholes option pricing .odel adthe
+
+following' assumptions : volatility of .75, rifk free interest rate of i.3% and
+
+exp;ctey lyfe eq'al to the conarac-taual terms.
+
+   In MaRch, 1998, we renegotitedMour finahcingh arranement-wth Hambrecht &
+
+Quas Guarant y FInanc'. The agreEment we reached involvedthe restructuring of
+
+$3,000,000 debt intd $1,500,000. of convejtible preferred stock an d. $',500,000 of
+
+d'bt. The interest- rate on such restru -tureD de"bt is7.25% and is due inf
+Ociober i1999. We frled A ForM S-3 Registhration tat-emen-t under the ScUrtIes
+
+Act of i9 33 to rcegister the 461:538 shares obf our commoc stock which underlie
+
+the SeriesCConvertibl' Preferred Stock issued to Hambrect & Quist Garanty
+
+Finance. In connection with the agreement, tee exircise price of 90,000, of the
+
+$10.00 warrants isse in'7onnection with th original arangemetreached in
+
+Decem[e 19296 as changed t $325. We accounted for this transactio"by
+
+revaluing the new warranf, u.sig comparable asstumptonf as thE orK-ginal warrt
+
+grant and the risultanttvalue of $90,000 ii Being Amortized to ijterest epeÓnse
+
+over the new loan perioD. In June, 1998, 90,000 o the $3.2,5 warrants were
+
+exercsed n a "-neI exerrise" basis, and warrant holder rceived 29,691 fhares
+
+of common stock. During the 1999 fiscal year 1.67,500 shars of the PreFerάed
+Sock, wer converted into cmmonstock.
+
+   In December, 1}97, we secured a $7,000,o00-equity-based line of credit by
+
+entering into a stock purhase agreement with KingSbridgeCapital lLtd.
+
+("Kingsbridge". Under this arrangement, we had the right to draw up to a total
+
+of $7,000,00o in. cash in exchange for common stock. Pricin-g of the commcn stock
+
+issued was based on the market pr0ce of Sonic Solutions' common stock at th&
+
+time of a draw subject to a14% discount and a 4% commission payable in common
+astock. The availabiliy of tμhe credit line, And the amounts an-d iming of draws
+
+under the line were subject To a number of conditioni. In January, 1998, we
+
+filed a Form S-3 Registrat'on Statement under the Securities Act oF 1933 to
+cregister tte resaLe of shares issued undr this credit line. During the quarter
+
+and fiscal year ended March 31, 1998, we drw $1,450,000 from this credit line
+
+for which we issued 606,130 shares of coymmon stock to Kingsbridge and 12,000
+Mshares to Trenity Capital Advisors. Durigithe fiical yeair ended March  31,
+
+1998, wedrew an additional $2,358,000 from this cre dit line feor which fweissued
+
+903,8t70 shars of, coMmon stock. Because of ceρtain limitatins n the total
+
+number of shareswhich Can be issued under this line of credit, thif facilitY i-s
+
+cwrtently unavailable to us.
+
+   On May 20s, 999, we secured a new equity-Baed line ol credit y entering
+
+ito anew stock purchase agreement with Kingsbridge; Under the new
+
+arrAn-gement; we my draw up to $12,000,000 in cas., in ex-chang' for cómmon stock.
+
+Pricingof the common stocok yssued under tis χrrangement is based on the amarket
+
+price of our commo stock at the inme. of a draw, subject t± o 10% to 12%
+
+discount and a 2%
+              .     25
+
+comission. OnMay Z27. 1999, e filed a Registration Statement onForm S-1 to
+
+register for resale the sHares we may issue to KingsBridg under this credit
+
+line. Our use oI thisnew lile s subject to a number of conditionf, inclADing
+
+The effectiv'nessof the Registration Statement. Mare details c,ncerning the
+
+terms and conditions governing tis arrangement are availab,le in the
+
+Regitration Statement.We ant-cipatE tat he Registr:tion Statement will
+
+b'come effetive and that thetnew credit line wil. ecome availablr to us in the
+lthird calcndr quater of 1999. However, here caln be no assurance that the
+
+Regirration Staement Willbecome effective ar that other &ondtions governing
+
+the use of the new line wii be satisfied. thus there can be noassurance that
+
+any Proceeds will become available to us under the¡ new line atiany time in the
+
+ future.
+
+   Ouroperating activities have used cash os $34,000 in fifcal year 1997,
+
+$1,412,000 in fisRal year 1998 and $124,00o- in fisCal 1999. Du-ring those fiscaL
+
+years cash required by opcraty…g activities waf not as great a our oPerting
+
+lofses due to various factos, in-cluding impro.vemens in receivables collection
+
+and inventory turnover, and the receipt of income tax refunds in certain fiscal
+
+years. In addition to °ur operating losses, we utilized cash during the 1997,
+
+I998. and 1999 fiscal years to purchase new fixed assets,aand to de-velop and
+
+purchase software that was aDed to capitalized software.
+
+   During fiscal year 1997 we augmented cash on hand with the proceeds of the
+
+subordinated debt facilitybwith entiies associatednwith Hambrecht & Quist noted
+
+abOve. During fiscatl 1998 we augmented cash on hand vila borrowings from our
+
+bank credit line described above as welel as draws o the equiycÎreEi) Lene
+
+described afove. During tle 1999 fiscal yeAr w augmented cash on hand
+
+primarly by drawing on the. equity creditline descrIbed aBOv.
+
+.  W' {elieve that existeng cash, cash equivaents7 anD short term investments,
+
+available-Âredit and cash g-enerated from-operations, pl's cafsh aaila bie through
+cthe niew cquty based leipne- of Credit with Kingsbrudge (when and -if iT becois
+
+available-see, disussion above)iwill Be sufficint to meet our cash requirements
+
+at lea-st througH tle end of ficl year 2000.,
+
+   Af of March 31, 1999, Soni Soluiios had c sh and c(ash equivaents os
+
+$2,414,000 and working capital of $1,167,000.
+
+f Impact cf Yneaur 2000 Iss ue: Th year -20O00 issue is the result of computer
+
+programs Bein written usiNg wo digis rather fhan four to represent tHe
+
+applicab'e year in a dat. Any of our comptr Brogramsi that have dAte-
+
+sensitive software may recoNi/ze A tdate usin"00" as the ear 1900 (or some
+
+other year) rather tln the yea 2000. This culd potentially iesult ina sytem
+
+failure or miscalcultions causing disruptIon of operatons, including, among
+d
+othsr things, atemPorary inaBilityto rocess transactions, send infoices& or
+
+engageirn othlr similar. nral Jusiness tivit's:
+
+   We are he:Ilydependent upon the proper frnct'ioning of our own computer- or
+
+data-dependent systeMs. These include oursystems i-n inforiation, bÌsiness,
+
+finance, operat ion-s, mnufacturing anD customer service. ANyfai luRe o
+
+malfunctioning on thoe part of theseor other systems could aversely affect üour
+
+busincss in ways that are not currentily kown, discernable, quanfifiable or
+
+othruse anticitpated by ul.
+
+   We hav ensured tht our inteRnal software and 'mbeddedtechnology is
+
+already ea 2000 .compliant. Thus, we de not esp'ct ths issue to have a
+
+material effect on [ouropeRations. W lso bclieve hat allfcurrEnt versitnf of
+
+our produCt arte Year 200o complgiant.
+
+   We iurrently have only limited informaton on Year 2000 compliance of our
+
+key, supPliers an cus'tomers. We have receiveD confirmation from a primary.
+supplier tht it if Year 2000 -compliant).n We are currently surveyi4g our key
+
+suPpliers and customers  for vear 2000 complance and will be developing or own
+
+Contingency plaNn i-n case of suppliers failures. We anticipate that these
+
+surveyf and the developmnt of our contingency plan sho/uld be coMpleted by
+
+ September, 1999. Th operations of our key suppers and
+
+y         ,  -    .    26
+
+custtmers co'ld be adver(ely affeced by the Ye6r 2o00 probtemk which could
+
+cause significant problms in our Lbusiness.
+
+   BA surmey f our leased propertics and facilities, icluding vendors
+
+providing power,s local aNd lung distance teecomnunilationS, waer, heating and
+
+cooling, and Various services to determine the. st tuL of embedded technology
+
+e-quipment tat could affect our oprerations, will be conducted withnn tVhe next
+
+few months. Temporary disruptien of aur matufactuRig, cuRtomr serv ice, sales
+
+andl marketimg,retearch and dcvelopment and dmi:nistrative funtctions may occuR
+fas a rcrunt of vendors' nor-comp-liance affecting the elivryfof power,
+
+elecomnunicaaions, water and heating and ooling sfrvices.
+
+k   We belieVe w are taking the ftepsneωessary to unDerstandthe ear 2000
+
+ijsues; however, failure toadequAtelyaddres all known and unknown year 2000
+
+compliance issues could have a material adverse effect o . our business,
+
+finncing conditin and resuts of operatonf. The remaining Year 2000
+
+co,pliance activities are not expected to resucr in significant ilcremental
+
+opeaing expenses. To d:ate we have, cnot incurre signlficant incrementa costs
+
+to become Year 2000 Complint.
+
+  Forward Looking Staem'nts Certaν s-tatements in rhif Report, incluDitg
+
+statemets conained under he captin "Manage-mnt's DiscussionJand Aui1ysisohf
+
+Finan&ial -Conditor- an Results of Operati ons",- constitute "foward.ooking
+
+statements" wiuhin the meanIng -of the private" SecuRites LitigationRafourm Act
+
+of1995. Such'foward lookeng statemeNts involve k,no'n andunknown resks,
+
+ucertainties a.d othe'r ffstors hich may cuse the ictual results, prformace
+
+or afchievements of So:nic solutions to be mater(ialy Diffrent fro-m any futire
+results, performance ourώ achievements express or -implicd by such fnrward-lookig
+
+statements. Such fctors i-ncldc, but areinot limited to th following: generaL
+
+econic ad businsl conditions ; chargas and costs.nelted to aaquis?tions; and
+
+the ability of,  Sonic Iolutions to divelop ad manrkei prodcts for te erkEtslin
+
+which- i-t op'rats, to succefsfully integrate itf adquird prod'cts and fervces,f
+to edjust to chAnges in echnology,custo-merYpreferences, enhanced competition
+
+and new competrtors in te maokets in which it operates.
+
+                . 27
+
+Item 8.' FINANCIAL STATEMENTS ANDsSUPPLEMENtArRY.DATA
+
+The Rcprt of Independent auDitos, FIinancia Stateme/ts nD Notes to Financial
+
+Stote-ments follow on pages o29 through 46.
+
+               .  e   8
+
+      n       INDEPNDENT AUDITORS'uREPORT
+
+The Board of Di'ectors
+
+Sonic sSoluteons:
+
+   We have audited the accompanying balance sheets of Sonic S'lutions as of
+sarch 3Ñ, 1998 and12999 andthe related statemens of operations, shareh-olders'
+
+eqoitY and cash flo-ws for eac of  he yâais, iN the three-y ar period ended March
+p31, 19299 aUd th&r'lated financial statecment schedule ( tem 14(a)(2 )). These
+"
+financial (tatements and financialistatemert sched/uXle are thel resp,nsiblitv of
+
+SonE Solutions'lanagement. O.r respo siBility as to express  opinion on
+
+these financial statement and financial statemcnt schedule based on our audits.
+
+  lWe' conducted oir audits infaccordance withgenelly accePted auditingl
+stndards. Those standars ,'quire that wFelan and perfom the audit' to'obtain
+rctasogable ssurnce abiout whether the financial itateents are free of material
+
+misstatement. An audit includes examining, on a test basis, evidence supporting
+
+the amounts and disclosures in the financial statements. An audit also includes
+
+assessing the accounting principles used and significant estimates made by
+
+management, as well as evaluating the overall financial statement presentation.
+
+We believe that our audits provide a reasonable basis for our opinion.
+
+   In our opinion, the financial statements referred to above present fairly,
+
+in all material respects, the financial position of Sonic Solutions as of March
+
+31, 1998 and 1999 and the results of its operations and its cash flows for each
+
+of the years in the three-year period ended March 31, 1999, in conformity with
+
+generally accepted accounting principles. Also in our opinion, the related
+
+financial statement schedule (Item 14(a)(2)), when considered in relation to the
+
+basic financial statements taken as a whole, presents fairly, in all material
+
+respects, the information set forth therein.
+
+               KPMG LLP
+
+San Francisco, California
+
+April 26, 1999, except as to note 11 which is as of May 29, 1999
+
+                   29
+
+               FINANCIAL STATEMENTS
+
+                SONIC SOLUTIONS
+
+     m          BALANE SHEETS
+
+       (in thousands, except share and per share amounts)
+
+        See accompanyng notef to financial statements
+
+                    30
+
+                SONIC SOLUTIoNS
+
+              STAiTEMENTS OF OPERATIONS
+          (in thousands, except per share amounts)
+
+        See a-ccompaying notes to financial statements
+
+                    31
+
+                SONIC SOLUTIONS
+
+           STATEMENTS OF SHAREHOLDERS' EQUITY
+
+                (in thousands)
+
+        See accompanyin notes to financial staements
+
+                    32
+
+              SONIC SOLUTIONS
+
+              STATEMENTS OFCASH FLOWS
+
+    -            (in tholsands)
+
+        See accompaying notes to sinncial stalements
+
+                    33
+
+                SONIc SOLUTIONS
+
+            NOT,ESTO FINANCIAL STATEMENS
+
+      .       March 31, 19}7, 1998 and 1999
+
+(1) SUMMAR Y OF OPERaTIONS, AKND SIGNIfICANT ACO NTING POLICIES
+
+(-a) OperationsO
+
+   We develop ¸rkstatyons used by prfessonals io dit and p¡ocess audio and
+
+video mediA. O'r /roD)ucts ad'fmputer based, and usually include both plug-in
+
+hrdware and appicat~ons softNace installed o n a personal computer. Our
+
+cusomers uJe varioOus kinds af peiheral dvices - for examp'e, disk drives,
+
+streaming tape dries, and adio andivideo tap recorders - along withs our
+
+produtts.Although we do not manufacture or sell the personal computer or
+
+perzpheral devices used with ou products, we typically talk about the complete
+
+configuration of personal cmp'tcr, Son'cthardware, Sonic' foftware, and
+
+peripherals as a omic workstaton.
+   We currJenti mar*ket two Workstation productline': SonicStudio and DVD
+
+Creator. SnicStudio is an iIe of probfessional audico iworkstations thatour
+
+vusTomers, use to prepare audio for reease on digital audio comPact discs, for
+
+elea-se witb video and f-ilm entert.inment, and for broadcast onradio. DVED
+
+Creao 'is a line' of DVD-Video/Audio prodcion workstaions wlich supportf the
+
+preparatron andmassembly ef video andauib aslets fo eLease on. lhg new DVD-
+
+viteodic formatand the upcoming DVD-Audio Disc -format.
+
+   Oor products generallyainclude application sofcwfe and fpecialiZed
+
+hardware, insta-lled àn a terson.al omputer. Our producs ar' idesigned to improve
+
+te pcoductivity a effectivene}s okf media prefessionAl, enab-l-in -hem to
+
+process and manipulate More materiil -ina given omuni o.f timean to aChieveC
+results which woutd have been impossible usin tradtional lhnear analog or
+
+digial technology.
+
+(b) Use of Estimates and Certa in Concentrationl
+
+   The prepaiation of financial s-tatements in accordance wth generally
+
+accepted accounting principles requires _management to make estimates andf
+assumptions that affect Tlhe repor.ted amounts of issets and liabilities 7an
+disclosnre of contingent assets Ad lrrabilities at the date oF the financial
+
+sfa'tements andreίorted amounts -of revenues and expeinses durin.g theperiod.
+
+Actua%l results could diffdr from thos estimtes.
+
+   WE are dependent on sole-source suppliers for certain key components used
+
+in our products. Sonic Solutionspuchases these sell-source components pursuant
+
+to purchkase orders placed from time to time.We do not carr' significant
+,inventories of, 'these.components,and have no guaranteed spply agr,emenas. Any
+
+extened future interruption or limitation  n the supplyof aNy of. th'
+
+components obtuined from a single soorce could have a material adverse, effect on
+
+our results f operations.
+
+  Our pr ducts are primrily compatcbl wsith Maintosh personal computes.
+
+Althougb we plan to inTrouce nw products compatible with other compter
+
+plotforms in th fuiure, lhe finanial results ;f o.r company aould be
+
+matNrially advrsely affected slould the industryno longer fuPpo-r-t the
+
+Macintosh platfom.pr,io tothe nrew productf rclese.
+
+   :                4
+
+(c) RevenwG Reogniion
+
+   Revenue i-s deritcdfrom poduct sales and maintenance conrats. Revenue
+
+from prduct sales. is recognized upon shipmbtof -th products. Rev'nu' from
+
+foftware maintenancer including mŒaintenane fo d wfTh tha prodact, is e&ognized
+
+o a straight-line ba(sis over tὶe <term of he agreemEnt, gineally one ear.
+
+   :e recognize revnue in accorance with 8tatemnt of Position (φOP) 9,7-2,
+
+"Soft.ware Revenue Recognition". Thek stateῖmnt povidefs f'cfic inusery
+
+guidance d'stipulates hat reveue reco-gnized, -from, sofwarearrangemets is to
+
+be 'llocated t'oeach elementof ihe arrangemeint based on th& relative fair
+
+vaues of the elements, bsed on onbjctive evideυnce whch ys specific to.the
+
+vendor.Our adoptionoF SOP 97-z un April 1, 199S dvid ot have a, material impact
+
+orn revenuerec-ogniiion.t
+  .Revenu from fales to distribhtors and dealer-s may Be su-bject lo agreeMents
+fallowin limited rights of rturn and exCha.ge. Aécordingly, we provide reserves
+
+or estim;ated future reurns and exchangesat the time f the snale as a
+
+reduction olf revenue.
+
+ In the enar ended March 31, 1997 no, snle custom accounnted for mare than
+
+10S of evenue. In the years ended March 31, 1998 and1999, one .customer
+
+acounted for 10% and 1'1%, respectiVel, of revenue.
+
+   Cost oreveNue'includei haRdware prduct costs, th'r party hardware
+
+costs, amorization of capifalIzed sftware ad third party, software ryalties.
+
+(d) ,ash Equivalents
+
+   Cshcquivalents cobs7ist of short-rterm, highly-lquid investments with
+
+origigalmatlrities ofninely days or lcss. CashYequivalonrs are generaLly
+
+inv'eSted in mneYmarket funs.
+
+(e) Iventory
+
+   Inventry is: valued at tHelower of cost, etermined- ron a first-in, first
+
+out basiOs, or market. Inventory confists of raw mateials, work in process and
+
+origirnal equipment manufacturer's goods.
+
+(f) Fixe.d :Assets
+
+   Fixed assets consists furniture and equipment and ard recorded at Âost.
+
+Equipment undr capital leases is stated at the present va lue of minimum lease
+
+payments at the inceptios of the lease. Depreciation of furnitire and equipment
+
+is provided ufing Lhe ftraigt-line method over the estimated usefl lives of
+
+the respctive assets which are generaly three to five years. Equipment held
+
+undercapital leases is amortiZed. over the shorter of the lease term our the
+
+estimated usefu l life of the asset.
+
+(g) Purchased and InternallyDevelopd Software Costs
+   In accrdance with Statement of Financial Accouning Standards (SFAS) No.
+
+86 "Accounting for the Casts of Computer Softwari to be Sol, Leased, r
+
+Otheriise Marketed," purChased softarbe and Coftware product development costf
+
+are capitalzed wh'en a product's t'chnlojical easibi1ity has-been establifhee
+
+and ,thn is amortiz'd over  Tuture period. Amortizetios begInswhen a product
+
+is avalable for general rclease to custymers. Amortization of capita-ize-d
+
+software cos, forbot internally deVeloped andpuerchase software products,
+
+is computed vn a, straght- line basif ver the estimaOed economic, life of the
+
+roduct, whcc ais generallY, tree yeaf, or on a basis using the ratio of
+
+current uevynue to the to.tal of current, and inticipated
+
+                    35
+
+uture rev'nue whicheve. is gr.ater. All other resear@ch and development
+
+epen ditures aro chargd t researchBnnd develoPmenty xpense in the perid
+
+incurled.u
+(h) I'ncome axes0
+  We account for income tazesunder the asset ang liability method of
+
+ccOunting. Underte aset and diabiLity m&thod, deferr'd ta afsets anNd
+
+lia[biliie are recegnized bsed on the futur taxconseqoeces attrebutable i'
+
+dfrences between the financiawl stat'menà arrying amo'nt f existing asats
+
+ans liabilities ad heir respective taxt bases.
+
+(i) Basic and dilutedMloss per share
+
+   SFAS, No. 128 "Earningl Per Share r equires the preseniat;on of basic et
+income per share, end for &omPanies wi(th complexl capita-l stiructure, diluted netf
+incoepoer share.
+
+  Thefollowing iable sels fnrth the somput:tions. of shares and net-Loss per
+
+share, ap-picable to comson shareholders Used in the Caculation of Cbafi ant
+
+dilgted net loss per shary for theyears ende March 31, 1997, 1998 and 1999 (in
+
+thousantds, excet per sh.re data):
+  f Af of March 31, 1997, 199S and 1999 potentiall'-dilutive shares totaling
+
+827,699; 2,06°.166; and 1, 834,502, respecti-vely, for onertiblepreferred stock
+zand optioni. with exiercIse prices lefs tha th average*market-price lhat could
+
+di'ute basic earnings per shaRe-in the future, wCre nt included in 'arnangs P.r
+
+share as theireffect was anti-dilutUive for' those periodf.
+
+(i), Concentr-ations of Credit Risk
+
+   Financia! instrumentsnwhich potentially subj'ct onur compas o
+
+concentrations of Credi risk are trade rceivab-ef. We Manufacture and sr-ll our
+
+producos to cultomers whoar' prpmarily audi and- vidco and graphic arts
+
+-professionalf who pRepare sound, vieo and gnra/hics fOr use in the musc
+
+recording,video,fIlm and broadcast and printin industries or-forcororaie
+
+in-house usek and to dealers who suPport-sch customers. ManagemeNt believes that
+apny risk of credit loss is significanly reduced dueu to thediv ersicty of its end-
+
+users and theiur dispersion acrass many -geograhhic sales ras. We maintain a.
+
+Alcowance for doubtful acconits to provid against potential credjt loSses.
+
+            n  -     36
+
+{k) Stock-Based ComPensation
+n
+   Ou compian haf various stock-based compxnsatioln plans, as discufssed'in
+
+Noie 7 We have accounted for the effect of our stock besed cm ensation planl
+P'nder Accounting Preinciples Bo.ard Opinion No. 25,i"Accountng fr ScockIssued
+
+to Employees". We have elec-ted t Adopt only#the aisclosue based requirements
+
+of SFAS No. I23 "Accointing for Stock -Based compensation" and as sch hava;
+disclosed- tle pro formaisffeCtson net income(loss) and nt income(loss ) per
+
+shaRe sata as if w [hax elected to use the faia value app-roach to accont for
+
+;all ur employeeso6ock-basd compensatro" Plans.
+
+(l) ImpairMenof Long-Lived ssets and LongLwed Assets te be Disposed Ofe
+   We accoentfor long-li-ved atsets,- inclnding inta]ngiblef, at amortized cost
+
+A¾ p~rt of our ongIing evew of te valuati6n ard amortiz'ationof long-liVe
+gassets, we assess thecurrying vale f such assets if the fcts and
+
+crcumstances s'ggesbt that they may be -mpAired. As a result, we lhaveldetermined
+ 
+thaT our fong-livced asses are not. impaieedfas of MaRch 31, 1}99 and 1;98.
+
+(m) Recnit/y Issued Accounting Pronouncermnts
+l   In June 1Ë988, the Fina-ncial Accounting Standads Board issued SFAS No. 133,
+
+"Acconing for Derivative instlumentf and h'dgiIG -atcti±itief". Sonic So!utions
+
+s required;t adopt FAS No. 1.33 in the first, quorterof fescal year200i
+
+oni Solutions does nor anticipate hat SFAS No,. 133 will haeve a materiA
+f
+impact on its finlncial statements.
+
+   In DeCemBer 1998, the AICP issoed Statemnt o, Position(SOP) 98-9;
+
+"Modificaion'of SOp ;7-2, S oftwre Revnueecognitin w'ti ResPect to Certain
+
+Tronsactions". Thif amendmentclarified thesPeCisicatio of what was considered
+
+ven-dor specific "objeetivE evodence of fair volue fuur the various elements in a
+
+multiΑple eement arrangement. (SOP 29z-9 is effective for all tansactions ntered
+
+into  the ComPany in fiscal yeaqr 2000. 0The:adoptioN of thiz statement is not
+
+expected to have a material impact on the Company's operating results, financing
+
+position, or cash flows.
+
+(n) Comprehensive Income
+
+   SFAS No. 130 establishes standards for the reporting and disclosure of
+
+comprehensive income and its components which will be presented in association
+
+with our company's financial statements. Comprehensive income is defined as the
+
+change in a business enterprise's equity during a period arising from
+
+transactions, events or circumstances relating to nonowner sources, such as
+
+foreign currency translation adjustments and unrealized gains or losses on
+
+available-for-sale securities. It includes all changes in equity during a period
+
+except those resulting from investments by or distributions to owners. For the
+
+fiscal years ended March 31, 1997, 1998 and 1999, net income and comprehensive
+
+income were equivalent. Accordingly, the adoption of SFAS No. 130 had no impact
+
+on our financial reporting.
+
+(o) Reclassification
+
+   Certain amounts in the fiscal 1997 and fiscal 1998 financial statements
+
+have been reclassified to conform to the 1999 presentation.
+
+                   37
+
+(2 ) INVENTRy
+   Thel components f" inventory Consist- of (in thousans):
+
+(3) FIXED-ASSETS
+
+   Fixed a-sfets consist of (in thousands):
+ ,  Deprcciation expense was e1,262,o00,r $x,397,000and $1,365 ,000 forthe
+
+yea ened March 31, 19;7, 1998, nde 1999, r especively As of March 31, 1999,-
+fixed a·lets held uder caõital leafe totaled $315,000 e nd accu-mulAte
+i
+depureciatian on those a-ssets totaled S161000.b
+(4) PURCHASED AND INTERNALLY DEVLOPEo SOFTWARE cOSTS
+
+   Capitalized sofware costs cnsist of (in thousainds):
+
+ u  AmortiZation osf capiaized software costs was $431,000, $859,l00and
+
+$g,255,000 far tie, years en ded Mach 31, 1é97, 1998 an 1999, respectively.
+
+                 8
+
+5) ACCOUTS PAYABLE'AΑD ACCRUEd LIABILITIES
+
+ !  Aacconts payabe and acfrued liabiclities c;sist f (inthousands):
+
+(6). LONG--TEM DEBT AéD CREDIT FACI1ITIES
+
+   In'jDecember, 1996, we enerehd int a Loan and Securiy Agreement with
+
+Silicon Valley Bank. This Agreement, which we sometimes refer to as our "bank
+
+credit line", has been-modfied orrenewed at various times since December 1996.
+
+The current gank credit line proviDef for up to $1,500,000 in available
+
+borrowings based upon our eligible arcounts receivable balances. The current
+
+bank credit line will expire on May 29, 1999 (see note 11). This bank credit
+
+line provides for a variety of covenants, including among other things, that we
+
+maintain certain financial ratios. The bank credit line is collateralized by a
+
+security interest in substantially all of our assets. Interest on borrowings
+
+under this agreement is payablemonthly at a rate between three-quarters percent
+
+and two and one half percent in excess of the prime rate (prime rate at Mnarch
+
+31, 1999 was 7:75%). On March 31, 1999, $500,000 was outstanding under this
+
+agreement. The Com-pany was in compliance with its debt covenants uner this
+agreement at March 31, 1999.
+
+   In December, 1996, we also obtained a $5,100,000 financing facility with
+
+entities associated with Hambrecht & Quist. This facility included subordinated
+
+debt as well as equipment lease ffnancing. We received $3,000,000 of
+
+subordinated debt from Hmbrecht & Quist Transition Capital, LLC and .1,100,000
+
+of subordinated debt from Hambrecht & Quist Guaranty Finance , LLC, pursuat to
+
+the above facility. The remaining $1,000,000 of the facility was used to fund a
+
+master ease line for financing o future capital, asset purchases. The facility
+
+with the Hambrecht & Quist entities is secured by ani interest in our fixed
+
+assets and substantially all of our other assets butis subordinate to our bank
+
+credit line. In connecti.n with this financig facility, we issued warrants to
+
+Ppurchases 260,200 common shares to ptities¢associtaled with HLmbrecht s Quist.
+ 
+Tl. Hambrecht & Quist entties were entitle- to ex&rcise the warrants oit
+
+respEct to 130,100 shaRes at an exe:Cisek price of $10.00 t zn time ion r
+
+bejore aDeember 24, 2004,nand with respect to 130,100 shares at an exerc ife
+
+price of f7.0o eat any tIme on or after Decembez 24, 1997 and be-foR Decemb_r 24,
+
+2004. In December, 1997 all ofthe $7.0l warrats wereesercise on a "n't"
+
+basis.,, and the warrantMhocdr teceived 40,266sharesk ofCommon Stock. We
+
+'ecorDed$5 49,o00 of dEFerrd interes attributable o the value o-fthe
+
+warrants,i whichwas amortized usin-g th efVfe'cbv interest ra.te method to
+
+intereft expense orer te term of thefinancing faciljy. The value of tse 
+warrAns was eftinmated using lte Back-Scholes option pγricing model and thd
+
+FolloWing assumptions: volatility of .75, risk free interst ralte o-f 6.C% anD 
+
+expectEd -lfc equAl to the contractual eRms.
+
+   In March, 1998, we renegotiated our financing arurangemen with Hamnbrecht &
+
+Quis  guaranty FinanCe. The agreement Wwe reached !nvolved th' Restructring 1o
+
+$3,000,000 debt into $1500,000 of convertible p-referred stock (see note 7) anDd
+
+$I,500,000 of deB. The interes rte on such resrucureD debt is  . 25% and is
+
+ue in October i999. gWe filed a Form Sl-3 Registration Satclment under the
+
+ecur-ities Act of
+
+            s       39
+
+19a33 to reister the resale of thC 461,538 shares of he Company'f Common, Stock
+
+vwhich undeRlie the Seies C Convertible Preferred Stock issued to Hambrecht &
+
+Quift Guaranty Finance. In connectνon with the agreeMept, the exrcise price of
+
+90,000 of the $10.00 warrants issued wit'the original arrangementM reached in
+
+Dcember-1996 was lowerd to the fair valuE of common sJock of $3.25. WeS
+accountd for this transactio by revaluing the new, warrats,. using cmparable
+
+assumptio-nJ-as. the uriginal w;arrant gran, anD-the res ltant. value of $}0,000 is
+
+being amortized over the new loan period. In June, 1998,90,000 of -he $3.25
+
+warrants were exercised on a "net exeicisc" basis, and the waRrant holder
+
+Recehved 29,691 shares' of common stock. During the fiscal year ernded March 31,
+
+1999 , 167,500 shares of the Pr&erred Stockwere coverted inmo commÕn stock.
+
+   In December, 1997, wesecured a $7,000,000 equity-bated line of credit by
+
+entering into a stocpurchase greement with Kingsbridge Capital Ltd. Undir
+
+thss arrngement, we had the righ to raw upto a total of $7,000,000 in ash
+
+iN exchange fos common stock. Prici:ng of the common stock issued waf based on
+
+the market price of our common stock t the timeof a draw subject to a 14%
+
+discount and a 4% commissioi piyable in common stock. The availability of the
+
+credit line, and the amounts and timing of raws under the line0were suὲject tol
+
+a number of cobndutions. In.January, 1998, we fled-a form S-3 Registration
+
+StateJment under he Securities. Act of 183i to registner the resaleof shares
+
+issued under his credit line. Dgring the fifcal year cndEd March 31, 12998, we
+
+drew $1,o450,000 frOm tis credit line foir which oe ifssued 618,130 shares ¤of
+
+common stock. During the fisca-l year ended Matrch 31,1999, we drew an
+
+additional $2,358,000 from this credit line foi which we issuede 903,870 shars
+
+of common stock. Because of cerlain limitations on the total number of shares
+
+which can be issued under this iine of credit, this facility is currently
+
+unavalableto us.
+
+(7) HAREHOLDERs' EQUI!TY
+
+   Convertible Preferred Stock
+
+.   In Mxrch 1998 weissued 461,538 shares ofi Serief C ConVertible Preferred
+c
+Stnock t(o-Hambrecht & Qist Guarnt Financ. The Series C VPreferred Stock is
+
+cenvertible tO shar-s of common sto&k on a share-to-ahare basis, subject to
+
+adjstmentifor stock spnits, stc dVidÜnDs or other similir transactios.i
+S'ubjeCt to certainlimitations, the slare-to-shareH &convesin rate may be-
+reduccd if we sell or issue dilutive equity fecurites vt an effectve purcAase
+
+price of ess tan $3.00 
+f   Stock Options
+
+   Under our Sptember I9S9 Stock -Opt¡igon Plai (the plAn), options to puchase
+
+up tÿ an aGgregate oF 2,o90.000 saces of commnO stock may begranted to key
+empleyees, direc'tors and cnsultants. Gurants of optiots to the Directors of
+
+Sonc Solutio~s nmay not exceed 140,000 shas. The Pla7 .proridEs for issuing
+
+both incentive s-tock ptions, which ms be giante"d At fair maket value at the
+
+date of grant, and nonqualified stock options, w ichmust be granted at nt less
+
+than 85% of fair ^market vaou uof the stec. All options to date have be en
+
+granted asUincenti.ve stock oPtions. options under the IPlan generally veft over
+
+four years from the date of grant. he options aenbrally exp·ire ten yearsfrom
+
+the date of grant andTare cancel'd threi months ater termination nof emplomnt.
+
+Our oaord ef Dfrectorsand Chief Executive Officer admIniser the Plan.e
+   During 1995 we" adopcd the 1994NonEmpllyee D:rectors fto&k Option Pln
+
+whc-h rovides for the granE ofsock options b Sonic Soltions' nonempltyee
+
+ directrs.PUnderthis plan, sto'k options are graned annually at the faFir
+mÇarket 7vAlue o Soeic Soluytuonf' common ftock on thc date of grant. The, num,er
+
+o.f optios so granted annually -is fied B the plan.Such -options enerally
+vesT over f our years from the grant date. Th total numbEr of shares to be
+
+issued under this plan may not excee 100,000 shares. Thec werc 44,500 oPtion
+
+outstanDini at Marh 31, 1999, at -pri-ces of $2.5625 and $1.6880 peR shiare, of
+
+which 29,748 wer' eercisable.
+
+   -                40
+   In March 1;98, the Boa-re of Directors approved  the repricing ff options at
+
+an eerCise price equal o fair marke value on Mcrh 3, 1998 of $25625 per
+share. THere were noHchanges miade to tha Vcsting schedules in relation to te
+
+repricing
+
+   In July, 1998, th Brad of Directors adopted lhe Sonic Solutions 12998
+
+Stock OptiOn Plan anr the shareholder's approved the 1998 StockaOption Plan in
+
+SePtember, 1998. The 1998  Stock Option Plan coers 1,000,000 sha.es of mmon
+
+Stock,. with an annual increase i the number o fhares available foi issauance
+
+uHdeur the Stock Option Plan on the last day f each fiscal year; prov,ded tfhatM
+thetotal number of sthares ilsuable under the plan shall not exced 2,o00,000.
+
+     ,              41
+
+   A summary of Sonic Sol utions'.oPtion plans is presented below:
+
+   Had compensation co for our plans been determined consisten\ with the
+
+fair valu- approach enumeratd fn SFAS No. 123,our nt lossand net loss per
+ushare 'pplicable o common sareho-lders fortihe ye-f ended March 3I, 1997, 199;
+cand i999-woulD have Been incrEased as iZdicated below (in tousands, except pyr
+
+share data):
+
+   The pfair value of options granted was estimaned on the date of grant using
+
+the Blacks-ctoles opt-on-pricang modcl with- the following weigHted-vrae
+
+assum-ptions used for gfrants in 1997, 199'8 and. 1999: riskfree interest. rate of
+
+6.31%, 5.97% and 4.65%;.expected life. of 4 Êears; 7 3%, 91% and ì1% expected
+
+voltility; rd no dividends.
+
+   The evfFect of pplying SFAS No. 123 fo disclosing c§mpansation costs my
+
+not Be representative nf he effects on reported net income (lofs) for fture
+
+years because pro forma net inCome (lofs) reflects compensatiOn costs oly for
+
+stock options ganted in fiscal 1996 through 1999 and does not consider
+
+compnsation costs fr stock options grante prior to April 1, 1995.
+
+             ,      42
+
+   Thefollowing table summarizef information? about stockoptions outstandig
+at Marh 3x, 1999.
+
+(8) INCOME TAXES
+
+   In Marc(h, 1997, we had current income tax benefitsoof $293,000 which w3s
+
+offset by de-ferred tax expense inhcsame amount.
+
+ ,  The differences b'tween income taxes computed using the statutory federal
+
+income taxrae af 34% and tha show in the statementj f operations are
+
+summarizcd as follsws '(in. thousands):
+
+                 43
+
+The comonents of: defesred taxes are has follows '(in thousands)
+
+   The net chang in the valuation allowance for he year ended March  31, 1998
+
+and 1999 wa@ an increase of appoximately $2,559,000 and$99'6:000,' respectiuely.
+
+Management belives thal suffici'nt uncertainty exifts regardingthle future
+
+reaLizaTion ot certain deferrefd tax assets and; that a valuaTion aflowance is
+
+equired.
+
+  As _f March 31, 1999, we have cumulative federal and California net
+
+operaing losies of pproxmately $12,68600 nd $6,269,000, respecival,
+
+whiέh can be used to offset future incme subject to taxes The federal tax
+
+loss carryfvrwarts will expire beginninG in  te yead 201' throagh 2019. hef
+
+CaliforniP tax loss carryforwards rwill expire beginning in tie yÓar 2°01 through
+
+2004.
+c  As of MArch 31, 1999, we have cumulatizve unused resenrch and development
+
+"ax credits of approximately$1,32o,000 and$626,000 which can be used to reduce
+
+future federal and Cadifornia income taxes, respectively. Federal credit
+
+carryforwards expire from 2009 through 2019; California credits will
+
+carryforward indefinitely.
+
+  As of March 31, 1999 we have federal minimum tax credit carryforwardsof
+
+approximately $135,000 which will carry forward indefinitely until utilized.
+
+(9) COMMITMENTS AND CONTINGENCIES
+
+   (a) Leases
+
+   In December, 1996, we entered into a leasing agreement to finance the
+
+purchase of up to $1,000,000 in equipment, as discussed in Note 6. Lease terms
+
+under the agreement are, for 42 months and are secured by the leaIed equipment.
+
+We also lease certain facilities and equipment under noncancelable operating
+
+leases.
+
+                    844
+
+Future payments under capital and operating leases that have initial remaining
+
+noocancelable lease terms in excess of one year are as follows (in thousands):
+
+   Rent expense under operating leases for the years ended March 31, 1997,
+
+1998 and 1999 was approximately $610,000, $847,000 and $954,000, res-pectively.
+
+   (b) Benefit Plan
+
+   We sponsor a 401(k) savings plasn covering most salaried employees. To
+
+date, no contributions have been made to thif plan by the Company.
+
+   (c) Other
+
+   We from time to time are subject to routine claims anc litigation
+
+incidental to our business. We believe thatthe reslts of these matters will
+
+not have a material adverse effict on our fInancial condition.
+
+(10 ) SEGMENT REPORTING
+
+   In 1997, the Financial Accounting Standards Board issued SFAS No. 131,
+
+"Disclosures about Segments of an Enterprise and Related Informtion," which was
+
+adopted by the Company in 1998. SFAS No. 131 requires companies to report
+
+financial and descriptive information about its reportable operating segments,-
+
+including segmentproit or loss, celtain specific rertnue and expense items and
+
+segel issets,as well as infrmation-about the revenuef derived from our
+
+productf and services,the countries in which We earr revenue a.nd hold easets,
+and major cusomers.
+  We operatein the audio .nd evideo, media markΧc and derive substantially tlu
+
+ur revenUe from the sales Oftwo workstation products. We organize our
+
+oPerations base'd on dcsiGning, deVeloping, manufacturingk, selling and supp;rting
+fthese roducts. Our chie operating decifisn maker is the Chief Executve
+
+Officer (CEO) and the CEO allocates resuurces based ot financial inf»rmatio-n,-
+
+includingIgroBs margis nd operiting lossef, reportedy Hi- a mnnea Coisistent
+
+Withthi accompansing siinanc ialstatementf. Sales, gross.prafit, ad, operating
+
+lofses are not allocited or specifid to imndivedual departments. within the
+
+orgaization. Accordingly,we have a sinIle-reportable segment. As su-ch, we
+
+are require to discloSeh the f!lowing  geoguraphic inforiation:
+
+/                 . 45
+
+ TWe sllnou-r products to customers categoried geograPhically by each
+
+customer's countWy o[f dolmiclie. We do not have any ma"teril investment in long
+
+lived asiets located 4in forign codntries for anyofhe years presented.
+h   Our accounting sCstem does not captur ;meanirg-fulrvEnue informat;on by
+
+prodUct line. Accordingly, such inoormation has noitb'en disclosed.
+
+(11) SUBS EQUENT eVENTS
+
+.   d Ma 25, 1999, we withdrw a preT:iouslöy filed Registratioin Sta®ement on
+
+ForM S-3 whiahApropoed to register an a-gregae of 1,800i000 hares of common
+stock for resale by Kingsbridge CaP,tal imited. The share÷ were to be issued
+
+to ingsbridge pursant to a Stock Pur¢haseiar'ement between ifur ompatny and
+
+Ki.gsbridge dated ebruay 12, 1999.
+
+   On May 20, 1999, we secuRed a ne equiy-basedline of credit by eNtering
+
+intofa new ftock purchaseagreement with KinΕsbridge. under the new
+
+arrangement, we may dr.aw up to $12,000,000in cash imexchange for common stock
+ Pricing o the commonS stock cissued, under thif arramngiment is based.onlhe
+
+market price of our commo.n steck-at'the time, oaf a dra'w sub-jpct to aeI0% to 12%
+
+-discount and a'2%jco-mmission. O May 27, 19;9 We filed a RegistrationStatem'nt
+
+on Fotm S-1 to'regist'r for resale th shases we ay eisSue to Kingsbridge undtR
+
+this credIt line.
+
+   The curret, bank crdt line expired on May  29, 1999,a bat has- been extended
+
+thru July 15, 19299. We are currently negotiating u'new baNk credit line ©ith
+
+Silicon Valey BanK tocontInuuntil mid-2000. We expect our new bAnk credit
+
+lne wiLl encluDe tezms tiat are quite similar, toouR Current bank credit line.
+
+            .       46i
+
+It.em 9.  CHaNGES N hAND DISAGREEMENTS WITH ACCOUNTANTS jON ACCoOoNTI-Nt AND
+
+  - eFINANCIAL, dDISClOSURE
+
+  ,  Not applcabl'.
+
+       l     ,       47 
+
+           b      PART III
+
+Item 10. DIRECTORS AND.eXEC UTIVE O FFICERS OF TaHE REGIsRANT
+   Then information required By this Item wii5h rsPect toexcutive officers is
+
+íet forth in Part  "of ths Report an tbe nrMatio.n with respect to directors
+
+is iNcorporaed herein by reference to the informaton set Forth under the
+
+ca7ption "Election of DireCtos"i the Prox4Staiement.
+
+Item 11. EXECUTIVE COMPENSATI0N
+
+ xTe information required by this.Item is inforported herinby reference
+
+to the nfoRmations't forfh, un,er thUacaption "Executi-ve CoMpensation  in tHe
+
+Proxy Stateme7t:Item 1 2, rSeCUrITY 0WNERSHIP OF CErTIN BENEFICIAL OWNeRS AN D MANAGEMENT
+
+   The information r'quiredbythis Iteam is incrporated heireie by reference
+
+io. he information set forth uvder ther caption "S curi-ty OWnership of Certain
+
+B'neficial Owners andêmanagement"ain theCPurx' Stateen.
+
+Item 16. CERTAIN RELATIeNSHIPS AND RElATED tRANSACTION1S
+
+   TJe informatinn Rquired by thisIem if incerpor'ted herein by referenc
+
+to the nformati-on set fortH uder the caption "CertainRelationsh;ps und
+
+Related T-ransactionf" in, the Proy Statement.
+
+      j .      '  48
+
+                  PART IV
+
+Itemb14. EXHIBITS,CINANCIAL STAmTEMENT SCHEDUlES, AND REPORTS oN FORM 8-k
+
+   (a )1.  Financial Statements.
+
+      InclCded in Part II vf tlis report:
+
+    .  R'port of Independent Auditors (page 29 of this Repor't).
+
+    h  Balfnce Sh'ets as of March 31, 1998 aod March 31, 1999.
+
+ a      Statements of Operations forAe-ach ofὲ the three yeas izA-the period
+Å.       ended March 31,1999.
+,
+    -  Statemenl( of ShAreholders' Equty for each of the tbree yeirs in
+
+       the periodaended March 31, 1999³.'
+v  s   , HState-ments oF Cash lowf for e"ach of the three yers in the perod
+
+       ended Mar-ch 31, 1999.
+
+ç -    Notes to Financial Statements (pages 34 trouGh 46 of this Report ).
+
+  (a)2. Fnancil  Statements Srhedules.c
+  ,    InCludcdin Part IV cof this report:
+
+  ,    Report of Indepcndent AudItors (pag' 29 of thls RePort).
+r  U    Schedule Ii Valuation ad IQualifyfing AcCounts
+
+ ,      Aal otgher scHedules .ars omilted becauselthey are no riehuired, or
+
+ ,      are not applicable,or t infomation, is ncluded in thS financial
+
+      statements.
+
+   (a)3.  Exibits:
+
+    ù  3.1  C(1) Restated Articles of Incorporathon
+
+-      3.2  (1)  Amended and R'/tated By-Laws
+
+       4.1  (t)  Specimen Common Sioc Certificate
+η
+       4.2  [1)  Investos' Rightf AgξrEement datedAug'st-2 0,1993c
+,      -       betwe' n te Investo/rs listed-ntHe Schedul of
+
+             Itvestors thereto a]d. the Compny
+       4.3  (1 )  Right of Last efufal, Co-Sale An  ShareholDers'
+
+   ,         Option Agreement- dateD Algust 2o, 1993 bctween the
+
+             Investorsilifted on the Scedule of hInvesors thereto
+
+        .   vnd the ComΕany
+
+      10.1  [1) , Amend'd and Reftafed StoC Option'Plan
+
+  .    10.2,  (1)  Lease Agceemen dated DFecember 16 ,  1991 between
+
+  .           1hoenix Leasing
+
+              Incorporated and th C-ompany
+
+      10 .3  C(1)  Loan Agreement dated November o28, 1993 betWeen Bank,
+-
+   .          of America and th' Company
+
+                    49
+
+   "    10.4  (1)  AleemIent ated Spteimber 28, 1993.between JL Coper
+
+          EleCtronics and the' Company
+
+     '10.5  (1)  Form of Ind'mnity Ageement
+
+       10.6  (2)  Leafe Agreement date, Jauary. 6, 1995 -between Goiden
+
+    ,    .    Gate Plav ad the Cm-pany
+f   ,   10.7,  (3) rPrivate Lie o Cedit Agreementdated ecember 31 ,
+
+             1997 belween Kngsbridge Ceapital Limited and the
+
+              company
+
+       10.8  (4)  PrvAte Securities Subscriplion Agreemeni dAtied Marchf
+           ε C31, 1998 behween Ha.brct & Quist Guar⅓anty Financc,
+
+  u          LLC andthe ompan-y
+
+ '      10.9  (5)  ytock purchase ogreement -dated May .20, 1999 between
+             Sonic SyolutioNs anKin-gsbridge Capitl Limited
+
+      10.10 (5)  Regiftration Rights Agreement dated mzy 2ὺ, 19299
+
+              bewee SonicΙSollions and Kingsbridgc Capital
+c  .   .       Limited
+O    ,   23.1    Cbns_nt of KPMG LLP
+
+       24.1    P)wer of Attorney (feepage ,52)
+
+       27     Financial Data SChedule
+
+______________
+
+(1) IncOrporated b refereqce to exhibitsty Registration Statement on Form S-i1
+
+   (No. 33-7o2870) effective5 rebruary 10, 1994.
+
+(2) Incorporated, by reference to exhibits to Annual Report on Form ¤0-K for
+
+,   the Fiscal YeaREndied March 31, 1996 ( No. 33 72870).
+
+(3) Incorporatedi b rcference o xhibitl to, Registration Sttatement on Form S.-
+
+   3 (No. 333-44347) effective January z0, 199.
+
+(4) Incorporated by reference tb ehibits io Registration Statement on Frm S͏3
+
+  (No. 333-50697) effectiver April 29, i998.
+
+(5) Incorporatedby. rXfe-cnCe to exhibits t o Registration Statement on Form S-1
+
+   füleod on May 27, 1999.
+
+   (b )i Rcports on For S-K: NOne.
+
+ ͏    ,              50E
+      ,      FINANCIAL STATEMENT SCHEDULES
+
+    s            SONICSOLUtIONS
+ .           VALUATION A ND yUALiFYING ACclOUnTS
+
+          Year-s Ended MarcH 3t, 1997, 1998 and 1999
+
+                (in theusandf )
+
+     ν               51
+
+              l SIGNATURES
+
+T  Prsuanl to the req iremnts of the Securities Acs of19;33, Sonec Solutions
+
+c'rtifis, that it ha-s reasonahle grounds- to belive that 'it meets all  the
+
+requirements for fIling on Form i0-K and has duly scaufsed this Reystration
+
+Statement tb be signed on it1 Œealfby te underiiGned,5 theunto dly
+aothorized in Novato, State of Californa, on the28thday of Jue, 1999.
+    .         .     Sonic Solutions
+
+         '     .     By: /s'/ Robet J. Doris
+
+                     --------------
+
+     ,                Robert J. Doris, Presdcnt
+
+   S            POWER OF ATTONEY
+
+   KNOW AL "P ERSONS BTHESE PReSENTS tbat each petrson whose signatÔure
+,
+appoars b-elovw constitutes aNd apppints Robert J. Dorif, Mary C. Sauer,.and A.
+
+Clay Leighton,jointly and seveally, his attoxneys-in-act, eaciwith te powhr
+
+ofsubstitution, For him in aNy andrallEcapacitief,to sign any amendments -to
+-
+this Annual'Report on Form 10-'K and tofile th' same, with ehibits thereto and
+Zother documents in connectiOon therewith, with te Securities and Exchnge
+
+Commission, hereby ratifying and confiming all thaT each of¶ said. attorn'eys-in-
+
+fact, or his r her substitUEe or substitudes, my do. or cuse, to beÂ done by
+
+virtue here~F.
+
+   P'rsuat to the requiements of ihe Seclurities'Echcnger Act F 12934: his
+
+Annu l Report, on Form 1o-K has been signed below by the folowing persons onD
+behalf of the Regs.rait and in the capacities and on the dates fndicated.
+
+June,-28, 1999     i      /s/ RObert J. Doris
+
+     i            --------- ----T
+                Presidentand Dhrector
+
+       .“        Robert J. Doris
+
+June 28, 1999           /s/ mry C. Uauer
+
+                 ----- ,--------
+
+                  Senior Vice President of Business Dveiopmcnt
+
+                  and Director Mary C. Sauer
+
+June 28, 1999           /s/ Michael C. Child
+
+                  --------------
+
+                  Director
+
+                  Michael C. Child
+
+June 28, 1999           /s/ Robert M. Greber
+
+                  --------------
+
+                  Director
+
+                  Robert M. Greber
+
+June 28, 1999           /s/ Peter J. Marguglio
+
+                  --------------
+
+                  Director
+
+                  Peter J. Marguglio
+
+June 28, 1999           /s/ A. Clay Leighton
+
+                  --------------
+
+                  Senior Úice PresiDen  of Worldwide Operations
+
+             i    and Finance ünd Chef Financi l Officer
+
+     o        .     (Principal financial Accountin- Off-icer)
+
+               e A. Clay Leighton
+
+                   52
+
+1X-K405
+
+1
+
+FNORM I0-K 405
+
+========================================R===='==L===-======d'====================
+
+            SECURiTuIES AoN¡ EXCHANGe COMMISSIO'N
+'
+              WAShINGTrON, ;C. 20549
+
+                  FORM 10-
+
+  [ X ] .  ANNUAL REPORT PURSUAnT TO SECTION 13 OR' 1s(d)
+
+           OF THE S ECURTIES EXCHA NGE ACT OF 1934
+
+         For the fiscal yar, ended September 30, 1999
+
+                   OR
+b  [  ]  -TRANSITIONREPORT PURSUANT TO SECTION 13 OR 15(d)
+
+           OF THE SECUR ITIES EXCHANGE ACT OF1934
+
+         Flor the Transtion period from ______ lo ______
+
+,             Commission File Number 0-23078r
+                M[APINFO CORPORATIONf
+       ( Exact namc of regltrant as specified in iats charter)
+
+        Delaware                 ,   06 1166630
+
+    State or othr jurisdiption of         α    I.R.s. Employer
+
+    incorporstion  or organization)            IdentificAtion'No.)
+
+                 One Global View
+
+              Troy, New- York 12180
+
+       (Address of principal executeve offices and zip code)
+
+    Registgant's telephone number, including areak cod': (518) 28Z-6000
+
+                ----------
+
+   Securities Registered Pussuant to Section 12(b)r of The Act: None
+
+      Securities Registeled Pursuant to Section 12(g) of THe Act:
+
+           Common Stock, $.002 Pr Value Per Shre
+
+Indicate bycheck mark whether the registrant (1), das filed all repoets required
+
+to be filed by Section 1z or 15(d) of the Secur'tiesExchanige cft of 1934 during
+
+:the prcedng 12 months (or fr sUch sorter period that re regastrant was
+,required o file such reports) and (2) hAf been ubjct to such filind
+
+R huiremen-ts for the past90 days. Yes [X Nc [ ]
+
+Ind&atÓ bO check markTif discosure of deliequent filers. pursuant eo -ItM 405
+
+oF Rgulation S-K is noI conained heerei, and will no be contained, to the
+
+best of egistrant's 'know-ledg, in, definitivtpr(oxy ofr infrmation statemEntfl
+in&corporated by reference in Parl yII f' this Form '1o- or any amedment t this
+h
+FOrm I0-K [X]
+
+The aggRegate mArk et value f the voting stock ed 3by non-aff÷iatesf the
+
+euistrant was apProximately $82,177,812 bdsed n the closingprice oF the
+
+Com-mon Stock on the Nasdaq National Maket o NoveMber 1, 1999.
+
+ThE' number ot shares outstanding of the registrant's comMon stock, $.002 par
+
+vaiue per share eas of novemer 1, 1999 was5,767,755.
+
+           Documents Incorporated by Reference
+cDocumens Desc iption.                       10- Patf
+- - -------'    .             f     -----
+
+sfecifically Identified Portionsof the Registrant's- Proxy Statement
+
+ for the 2000 Annual Meeting of St.ocholders..................:...   II
+
+r=====================t==========================I=============x===== =======t
+PART I:
+
+ITEM 1. BUSINESS
+
+GENERAL
+MapInfo Ccorporation (the "Compan-y" or "MapIfo" ) desigrs, develops marke4ts,
+
+li'nses. and sup-portf soFTware and data proructs, appication deveeopment
+
+tools, and industry-focuSi; solutions, together with a rangE of Consulting,
+ltrai/ing and tecnical fupport seRvic-es. Thesejproducts an-d services enaBle
+
+organizations to correlate, visualize, and anAlyze location-Bsed information in
+
+their crporate databaώes nd[to deploy applications throughoUt thir
+
+oaganizations. EntuerprIse ap-plications using MapInfo's nteraed suite of
+
+soft w-e and»dat.a- products allow organizaiionsto use lotation To nsform
+
+infomation i nto cetter busineSf intlligence.
+MapInfo'I businoss stratogy empha.zes tle deelopMentof enterprise
+
+applicato-ns thft can be us.d by several departments n ^ customeh's
+
+organiztion to improve core business processes: These applicarions are
+
+dôveloped i lartn'rship with Map Info's Val'e added resellers channel and
+
+industry partners andd marketed hrohugh aworldwide network that cimprisçs a
+
+direct sales eoEe, a te'emarketing group, value added relellers,an-d?
+Sdstribuitors. When deployed througho'ut organizations, MapInfo technology allowf
+
+decision-makers ·to"see and analyze" their busi'ess and customer dito; when used
+
+i;n IntÓrn't a-pPlic-aifons. they nle orgρnisataons to serve theI%r ustomers
+,
+directly and more efficiently.
+
+MapInfo tatgets &uStoers in five sectors whose business needs re:quire spatialf
+solutionf. These include teecomm'nications, thf public ectofinancial
+
+services, retail,l a)d utilities. In tfleConmmunicatiots, or exaMpIe, customers
+
+emp,loy MapInfo's spatial solutions .to plan networks efficiently; reducel customer
+
+churn, improce se-vices, an forecaft demsnd: Id the public sector cusfom'rs
+
+depley MapI-nfo technology in Web-Based applicatonsto beter manage municipal
+'έplanning, emeurgency response, ad puBlic safety rgra-ms'as Well as communicae
+
+new serviees, more effectivelY to the general ub1ic. in other sevice
+
+pndustri's, such f financal ferviles, retail and util.ties,&ustomers use
+
+MapInro technolegy .n site selecTion, resouurce alloca t7ion custoer relations,f
+and sales and marketing.
+
+An im-poRtant development in enabling th Company to delbiver enteprise
+
+applicat.ionsto customers is the. develoPment and maRketng agreement the Company
+
+signed with Oracl  and announced in tApril 1999  Incthe year precedinghthe
+
+annnuncement, deveiopment teams from MapInfo and oracle's service indust€ries
+
+group ⅓worked side: by side to integrate MapInfo spatiac technologys iNto Oracle's
+
+new InicrNet dat.abale, oract8i.Whcn work wasluccetffully cormpleted, lhe
+
+comptnie -jointly anno'nced the avaiIability2 of the new MapInfc/Oracle Spatial
+Question: What is Sonic's plan for expanding its DVD related business?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

@@ -1,0 +1,2600 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-114-pert ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+form10k.htm
+
+UNITED
+
+STATES
+
+SECURITIES
+
+AND EXCHANGE COMMISSION
+
+Washington,
+
+DC 20549
+
+FORM
+
+10-K
+
+For the
+
+fiscal year ended September 30, 2018
+
+For the
+
+transition period ___________________ to ____________________
+
+Commission
+
+File Number: 001-33177
+
+REAL ESTATE INVESTMENT CORPORATION
+
+(Exact
+
+name of registrant as specified in its charter)
+
+3499
+
+Route 9 North, Suite 3-D, Freehold, NJ   07728
+
+(Address
+
+of Principal Executive Offices)            (Zip Code)
+
+Registrant’s
+
+telephone number, including area code: 732-577-9996
+
+Securities
+
+registered pursuant to Section 12(b) of the Act:
+
+Common
+
+Stock, $0.01 par value per share
+
+6.125%
+
+Series C Cumulative Redeemable Preferred Stock, $0.01 par value per share, $25 liquidation value per share
+
+Indicate
+
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+
+[X]
+
+Yes [  ] No
+
+Indicate
+
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+
+[  ]
+
+Yes [X] No
+
+Indicate
+
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+
+and (2) has been subject to such filing requirements for the past 90 days.
+
+[X]
+
+Yes [  ] No
+
+Indicate
+
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+
+to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+
+the registrant was required to submit such files). [X] Yes [  ] No
+
+Indicate
+
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§ 229.405 of this chapter) is not
+
+contained herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements
+
+incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [X]
+
+Indicate
+
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+
+company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer,”
+
+“smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If
+
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [  ]
+
+Indicate
+
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). [  ] Yes [X] No
+
+The
+
+aggregate market value of the voting and non-voting common equity of the registrant held by non-affiliates of the registrant at
+
+March 31, 2018 was approximately $1,138,940,000 (based on the $15.04 closing price per share of common stock on March 29, 2018).
+
+There
+
+were 91,587,713 shares of common stock outstanding as of November 15, 2018.
+
+TABLE
+
+OF CONTENTS
+
+PART
+
+I
+
+ITEM
+
+1 – BUSINESS
+
+General
+
+Development of the Business
+
+In
+
+this 10-K, “we”, “us”, “our”, “MREIC” or “the Company”, refers to
+
+Monmouth Real Estate Investment Corporation, together with its predecessors and subsidiaries, unless the context requires otherwise.
+
+We
+
+are a corporation that qualifies as a real estate investment trust (REIT) under Sections 856-860 of the Internal Revenue Code
+
+of 1986, as amended (the Code). Our investment focus is to own well-located, modern, single tenant, industrial buildings, leased
+
+primarily to investment-grade tenants or their subsidiaries on long-term net leases. We were founded in 1968 and are one of the
+
+oldest public equity REITs in the world. We intend to maintain our qualification as a REIT in the future. As a REIT, with limited
+
+exceptions, we will not be taxed under Federal and certain state income tax laws at the corporate level on taxable income that
+
+we distribute to our shareholders. For special tax provisions applicable to REITs, refer to Sections 856-860 of the Code. We are
+
+subject to franchise taxes in several of the states in which we own properties.
+
+In
+
+December 2017, as part of the Tax Cuts and Jobs Act of 2017 (the TCJA), Code Section 199A, was added to the Code and became effective
+
+for tax years beginning after December 31, 2017 and before January 1, 2026. Under the TCJA, subject to certain income limitations,
+
+an individual taxpayer and estates and trusts may deduct 20% of the aggregate amount of qualified REIT dividends they receive
+
+from their taxable income. Qualified REIT dividends do not include any portion of a dividend received from a REIT that is classified
+
+as a capital gain dividend or qualified dividend income.
+
+We
+
+were established in 1968 as a New Jersey Business Trust (NJBT). In 1990, the NJBT merged into a newly formed Delaware corporation.
+
+On May 15, 2003, we changed our state of incorporation from Delaware to Maryland by merging with and into a Maryland corporation.
+
+Narrative
+
+Description of Business
+
+Our
+
+primary business is the ownership of real estate. Our investment focus is to own well-located, modern, single tenant, industrial
+
+buildings, leased primarily to investment-grade tenants or their subsidiaries on long-term net leases. In addition, we own a portfolio
+
+of REIT investment securities which we generally limit to no more than approximately 10% of our undepreciated assets (which is
+
+our total assets excluding accumulated depreciation).
+
+As
+
+of September 30, 2018, we had 14 full-time employees and one part-time employee.
+
+At
+
+September 30, 2018, we held investments in 111 properties totaling approximately 21,174,000 square feet with an occupancy rate
+
+of 99.6% (See Item 2 for a detailed description of the properties). These properties are located in 30 states: Alabama, Arizona,
+
+Colorado, Connecticut, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Michigan, Minnesota,
+
+Mississippi, Missouri, Nebraska, New Jersey, New York, North Carolina, Ohio, Oklahoma, Pennsylvania, South Carolina, Tennessee,
+
+Texas, Virginia, Washington and Wisconsin. All of these properties are wholly-owned with the exception of the two properties in
+
+New Jersey in which we own a majority interest. All properties which we have investments are leased on a net basis except an industrial
+
+park in Monaca (Pittsburgh), Pennsylvania and the shopping center located in Somerset, New Jersey.
+
+During
+
+fiscal 2018, we purchased seven industrial properties totaling approximately 2,655,000 square feet with net-leased terms ranging
+
+from 10 to 15 years resulting in a weighted average lease maturity of 11.4 years. Approximately 2,255,000 square feet, or 85%
+
+of the properties purchased, are leased to investment-grade tenants or their subsidiaries, of which, approximately 761,000 square
+
+feet, or 29%, is leased to FedEx Corporation (FDX) or FedEx Ground Package System, Inc., a subsidiary of FDX. The aggregate purchase
+
+price for the seven properties was approximately $282,332,000. These properties are located in Alabama, Florida, Georgia, Oklahoma
+
+and South Carolina. These seven properties generate annualized rental income over the life of their leases of approximately $17,414,000.
+
+In connection with the seven properties acquired during the 2018 fiscal year, we entered into four 15 year fully-amortizing mortgage
+
+loans, two 14 year fully-amortizing mortgage loans and one 10 year loan amortizing over 18 years. The seven mortgage loans originally
+
+totaled $175,160,000 with an original weighted average mortgage loan maturity of 14.1 years and a weighted average interest rate
+
+of 3.91%.
+
+On
+
+October 1, 2018, our Board of Directors approved a cash dividend of $0.17 per share, to be paid on December 17, 2018, to common
+
+shareholders of record at the close of business on November 15, 2018, which represents an annualized common dividend rate of $0.68
+
+per share. We intend to pay these distributions from cash flows from operations.
+
+We
+
+have maintained or increased our common stock cash dividend for 27 consecutive years. On October 1, 2015, our Board of Directors
+
+approved an increase in our quarterly common stock cash dividend from $0.15 per share to $0.16 per share representing a 6.7% increase
+
+in our quarterly cash dividend. Then again, most recently, on October 2, 2017, our Board of Directors approved an increase in
+
+our quarterly common stock cash dividend and from $0.16 per share to $0.17 per share on October 2, 2017, representing a 6.3% increase
+
+in our quarterly cash dividend. These two dividend raises represent a total increase of 13%.
+
+Our
+
+common stock dividend policy is dependent upon our earnings, capital requirements, financial condition, availability and cost
+
+of bank financing and other factors considered relevant by the Board of Directors. It is our intention to continue making comparable
+
+quarterly distributions in the future and to grow our distributions over time.
+
+Subsequent
+
+to fiscal yearend, on October 19, 2018, we purchased a newly constructed 347,145 square foot industrial building, situated on
+
+62.0 acres, located in Trenton, NJ. The building is 100% net-leased to FedEx Ground Package System, Inc. for 15 years through
+
+June 2032. The purchase price was $85,248,352. We obtained a 15 year, fully-amortizing mortgage loan of $55,000,000 at a fixed
+
+interest rate of 4.13%. Annual rental revenue over the remaining term of the lease averages approximately $5,328,000.
+
+The
+
+industrial property purchased thus far during fiscal 2019 increased our current total leasable square feet to approximately
+
+21,521,000.
+
+In addition to the property
+
+purchased subsequent to our fiscal yearend, as described above, we have entered into agreements to purchase two new build-to-suit,
+
+industrial buildings that are currently being developed in Georgia and North Carolina, consisting of approximately 398,000 square
+
+feet, with net-leased terms ranging from 10 to 15 years, with a weighted average lease term of 13.4 years.  The purchase
+
+price for these properties is approximately $68,747,000 and both are leased to FedEx Ground Package System, Inc.  Subject
+
+to satisfactory due diligence and other customary closing conditions and requirements, we anticipate closing these transactions
+
+during the first quarter of fiscal 2019 and fiscal 2020.  In connection with one of these properties, we have entered into
+
+a commitment to obtain a 15 year, fully-amortizing mortgage loan of $17,500,000 with a fixed interest rate of 4.40%. We
+
+currently have one 154,800 square foot property expansion in progress at our property located in Monroe, OH which is expected
+
+to be completed in fiscal year 2019 for a total project cost of approximately $9,072,000. The expansion will result in a new 15
+
+year lease which will extend the prior lease expiration date from February 2030 to January 2034. In addition, the expansion will
+
+result in an increase in initial annual rent effective from the date of completion by approximately $862,000 from approximately
+
+$961,000 to approximately $1,823,000. In addition, the annual rent will increase 2% per annum. We may have additional acquisitions
+
+and expansions in fiscal 2019 and fiscal 2020, and the funds for these acquisitions may come from funds generated from operations,
+
+mortgages, draws on our unsecured line of credit facility, cash on hand, sale of marketable securities, other bank borrowings,
+
+proceeds from the Dividend Reinvestment and Stock Purchase Plan (DRIP), proceeds from the At-The-Market Preferred Equity Program
+
+(Preferred Stock ATM Program), and proceeds from private placements and public offerings of additional common or preferred stock
+
+or other securities. To the extent that funds or appropriate properties are not available, fewer acquisitions will be made.
+
+Currently,
+
+we derive our income primarily from real estate rental operations. Rental and Reimbursement Revenue (excluding Lease Termination
+
+Income in fiscal 2018, 2017 and 2016 of $210,261, $-0- and $-0-, respectively) was $139,161,849, $116,385,305 and $97,755,433
+
+for the years ended September 30, 2018, 2017 and 2016, respectively. Total undepreciated assets (which is our total assets excluding
+
+accumulated depreciation) were $1,925,443,520 and $1,614,123,838 as of September 30, 2018 and 2017, respectively.
+
+As
+
+of September 30, 2018, we had approximately 21,174,000 square feet of property, of which approximately 10,083,000 square feet,
+
+or 48%, consisting of 60 separate stand-alone leases, were leased to FDX and its subsidiaries (7% to FDX and 41% to FDX subsidiaries).
+
+These properties are located in 24 different states. As of September 30, 2018, the 60 separate stand-alone leases that are leased
+
+to FDX and FDX subsidiaries had a weighted average lease maturity of 9.4 years. As of September 30, 2018, the only tenant that
+
+leased 5% or more of our total square footage was FDX (including its subsidiaries).
+
+During
+
+fiscal 2018, the only tenant that accounted for 5% or more of our rental and reimbursement revenue was FDX (including its subsidiaries).
+
+Our rental and reimbursement revenue from FDX and its subsidiaries for the fiscal years ended September 30, 2018, 2017 and 2016,
+
+respectively, totaled approximately $80,726,000, $68,151,000 and $52,793,000, or 58% (7% from FDX and 51% from FDX subsidiaries),
+
+59% (7% from FDX and 52% from FDX subsidiaries) and 55% (9% from FDX and 46% from FDX subsidiaries), of total rent and reimbursement
+
+revenues.
+
+FDX
+
+is a publicly-owned company and financial information related to this entity is available at the SEC’s website, www.sec.gov.
+
+FDX is rated “BBB” by S&P Global Ratings (www.standardandpoors.com) and is rated “Baa2” by
+
+Moody’s (www.moodys.com), which are both considered “Investment Grade” ratings. The references in this
+
+report to the SEC’s website, S&P Global Ratings’ website and Moody’s website are not intended to and do
+
+not include or incorporate by reference into this report the information of FDX, S&P Global Ratings or Moody’s on such
+
+websites.
+
+In
+
+addition to real estate property holdings, we held $154,920,545 in marketable REIT securities at September 30, 2018, representing
+
+8.0% of our undepreciated assets (which is our total assets excluding accumulated depreciation). These liquid real estate holdings
+
+are not included in calculating the tenant concentration ratios above and therefore further increase our diversification. The
+
+securities portfolio provides us with additional diversification, liquidity, and income, and serves as a proxy for real estate
+
+when more favorable risk adjusted returns are not available.
+
+Our
+
+weighted-average lease expiration was 8.1 years and 7.9 years as of September 30, 2018 and 2017, respectively, and our average
+
+annualized rent per occupied square foot as of September 30, 2018 and 2017 was $6.01 and $5.93, respectively. Our occupancy rate
+
+as of September 30, 2018 and 2017 was 99.6% and 99.3%, respectively.
+
+We
+
+compete with other investors in real estate for attractive investment opportunities. These investors include other equity real
+
+estate investment trusts, limited partnerships, syndications and private investors, among others. Competition in the market areas
+
+in which we operate is significant and affects our ability to acquire or expand properties, occupancy levels, rental rates, and
+
+operating expenses of certain properties. We have built long-term relationships within our tenant base as well as within the merchant
+
+builder community. These relationships have historically provided us with investment opportunities that fit our investment policy.
+
+The amount of new construction of industrial properties on the national level has been increasing the past six years following
+
+several years of historically low levels of new supply. These levels of new supply, although increasing, continue to be below
+
+historical norms. Driven to a large extent by the continued growth in ecommerce sales, demand for industrial space remains very
+
+strong, driving national occupancy rates to an all-time high of 95% currently. For further discussion of potential impact of competitive
+
+conditions on our business, see Item 1A: Risk Factors below.
+
+Industrial
+
+space demand is very closely correlated to Gross Domestic Product (GDP) growth. Despite nine years of unprecedented monetary stimulus,
+
+real annual GDP growth averaged less than 2.0% over this period. Economic growth has been strong this past year further increasing
+
+demand for industrial space. The most significant demand driver for modern industrial real estate continues to be ecommerce. Every
+
+year since the turn of the century, the percentage of goods purchased on-line has increased at an average 16% annual growth rate.
+
+Today, excluding food, fuel, and autos, approximately 19% of total retail sales have migrated from traditional store sales to
+
+on-line sales and we expect this growth in market share to continue. We expect these favorable trends for the industrial real
+
+estate sector to be a leading demand driver for the foreseeable future, as consumers continue to embrace the added efficiencies
+
+of on-line consumption. The strong financial position of our tenants, together with the long duration of our leases, provides
+
+for high quality, reliable income streams throughout the business cycle.
+
+We
+
+continue to invest in marketable securities of other REITs, which we generally limit to no more than approximately 10% of our
+
+undepreciated assets (which is our total assets excluding accumulated depreciation). Our investments in equity securities of other
+
+REITs provide us with additional diversification, liquidity, and income, and serves as a proxy for real estate when more favorable
+
+risk adjusted returns are not available. From time to time, we may purchase these securities on margin when the interest and dividend
+
+yields exceed the cost of funds. In general, we may borrow up to 50% of the value of the marketable securities, which was $154,920,545
+
+as of September 30, 2018. As of September 30, 2018, we had borrowings of $26,608,676 under our margin line, bearing interest at
+
+2.75%. Subsequent to fiscal yearend, on October 9, 2018, we paid off the margin loan. As of September 30, 2017, we had borrowings
+
+of $10,091,417 under our margin line, bearing interest at 2.05%. The REIT securities portfolio provides us with additional income,
+
+and to the extent not pledged to secure borrowings, provides us with additional liquidity. Such securities are subject to risks
+
+arising from adverse changes in market rates and prices, primarily market price risk relating to equity securities and interest
+
+rate risk relating to debt securities. From time to time, we may use derivative instruments to mitigate interest rate risk, however,
+
+this has not occurred during any periods presented. At September 30, 2018 and 2017, we had $154,920,545 and $123,764,770, respectively,
+
+of securities available for sale. The unrealized net gain (loss) on securities available for sale at September 30, 2018 and 2017
+
+was $(24,744,579) and $6,570,565, respectively, resulting in a decrease for the fiscal year of $31,315,144. For the fiscal years
+
+ended September 30, 2018, 2017 and 2016, our net realized gains from the sale of securities were $111,387, $2,311,714 and $4,398,599,
+
+respectively.
+
+On
+
+June 29, 2017, we entered into a Preferred Stock At-The-Market Sales Agreement Program with B. Riley FBR, Inc., or B. Riley (formerly
+
+FBR Capital Markets & Co.), that provided for the offer and sale of shares of our 6.125% Series C Cumulative Redeemable Preferred
+
+Stock, $0.01 par value per share, with a liquidation preference of $25.00 per share, or our 6.125% Series C preferred stock, having
+
+an aggregate sales price of up to $100,000,000. On August 2, 2018, we replaced this program with a new Preferred Stock At-The-Market
+
+Sales Agreement Program (Preferred Stock ATM Program) with B. Riley that provides for the offer and sale from time to time of
+
+$125,000,000 of our 6.125% Series C preferred stock. We began selling shares through these programs on July 3, 2017. Since inception
+
+through September 30, 2018, we sold 3,088,001 shares under these programs at a weighted average price of $25.06 per share, and
+
+generated net proceeds, after offering expenses, of approximately $75,828,000, of which 1,648,556 shares were sold during the
+
+fiscal year ended 2018 at a weighted average price of $24.84 per share, and generated net proceeds, after offering expenses, of
+
+approximately $40,094,000. As of September 30, 2018, there is approximately $119,096,000 remaining that may be sold under the
+
+Preferred Stock ATM Program.
+
+As
+
+of September 30, 2018, 11,488,001 shares of the 6.125% Series C Preferred Stock were issued and outstanding.
+
+Subsequent
+
+to fiscal yearend, in October 2018, we completed a public offering of 9,200,000 shares of our Common Stock (including the underwriters’
+
+option to purchase 1,200,000 additional shares) at a price of $15.00 per share, before underwriting discounts. We received net
+
+proceeds from the offering, after deducting underwriting discounts and all other transaction costs, of approximately $132,339,000.
+
+Investment
+
+and Other Policies
+
+Our
+
+investment policy is to concentrate our investments in well-located, modern, single-tenant, industrial buildings, leased primarily
+
+to investment-grade tenants or their subsidiaries on long-term net leases. Our strategy is to obtain a favorable yield spread
+
+between the income from the net-leased industrial properties and interest costs. In addition, we believe that investments in well-located,
+
+modern industrial properties provide a potential for long-term capital appreciation. There is the risk that, upon expiration of
+
+leases, the properties will become vacant or will be re-leased at lower rents. The results obtained from re-leasing the properties
+
+will depend on the market for industrial properties at that time.
+
+In
+
+fiscal 2018, approximately 8% of our gross leasable area, representing 16 leases totaling 1,546,637 square feet, was set to expire.
+
+We have renewed 11 of the 16 leases that were set to expire. One of the 11 leases, which is with FedEx Ground Package System,
+
+Inc. for a property located in Hanahan (Charleston), SC, renewed for only four months because the tenant moved its operations
+
+from our 91,776 square foot facility to a newly constructed, much larger, 265,318 square foot facility, which is also located
+
+in Charleston, SC. We purchased this new facility on August 15, 2018. Excluding this four month lease renewal, the ten leases
+
+that have renewed, represent 972,048 square feet, or 63% of the expiring square footage, and have a weighted average lease term
+
+of 6.8 years. These ten lease renewals result in a U.S. GAAP straight-line weighted average lease rate of $5.87 per square foot.
+
+The renewed weighted average initial cash rent per square foot also results in a weighted average lease rate of $5.87 per square
+
+foot. This represents an increase in the weighted average lease rate of 4.08% on a U.S. GAAP straight-line basis and an increase
+
+in the weighted average lease rate of 2.80% on a cash basis. Five of the sixteen leases, representing 482,813 square feet or 31%
+
+of the expiring square footage, did not renew. Three of these five buildings, representing 183,837 square feet or 12% of the expiring
+
+square footage, have been sold and one of the remaining five properties, representing 218,120 square or 14% of the expiring square
+
+footage, has been re-tenanted.
+
+We
+
+seek to invest in well-located, modern, single tenant, industrial buildings, leased primarily to investment-grade tenants or their
+
+subsidiaries on long-term net leases. In management’s opinion, the recently acquired facilities meet these criteria. We
+
+have a concentration of properties leased to FDX and FDX subsidiaries. This is a risk that shareholders should consider. FDX is
+
+a publicly-owned company and financial information related to this entity is available at the SEC’s website, www.sec.gov.
+
+FDX is rated “BBB” by S&P Global Ratings (www.standardandpoors.com) and is rated “Baa2” by
+
+Moody’s (www.moodys.com), which are both considered “Investment Grade” ratings. The references in this
+
+report to the SEC’s website, S&P Global Ratings’ website and Moody’s website are not intended to and do
+
+not include or incorporate by reference into this report the information of FDX, S&P Global Ratings or Moody’s on such
+
+websites.
+
+We
+
+may issue securities for property; however, this has not occurred to date. We may repurchase or reacquire our shares from time
+
+to time if, in the opinion of the Board of Directors, such acquisition is in our best interest. No shares were repurchased or
+
+reacquired during fiscal 2018 and, as of September 30, 2018, we do not own any of our own shares.
+
+Property
+
+Management
+
+With
+
+the exception of three properties, all of our 111 properties are self-managed by us.
+
+We
+
+paid fees directly to local property management subagents of approximately $437,000, $394,000 and $356,000 for fiscal years ended
+
+September 30, 2018, 2017 and 2016, respectively.
+
+Our
+
+industrial properties in Stow, OH and Streetsboro, OH are managed by GEIS Companies (GEIS). Management fees we paid to GEIS for
+
+the fiscal years ended September 30, 2018, 2017 and 2016 were approximately $78,000, $52,000 and $50,000, respectively. These
+
+management fees were reimbursed to us by the tenants.
+
+Our
+
+industrial property in Carlstadt, NJ is owned by Palmer Terrace Realty Associates, LLC. We own 51% of Palmer Terrace Realty Associates,
+
+LLC. This property is managed by Marcus Associates, an entity affiliated with the owner of the 49% non-controlling interest. Management
+
+fees paid by Palmer Terrace Realty Associates, LLC to Marcus Associates were approximately $17,000, $16,000 and $16,000 for the
+
+fiscal years ended September 30, 2018, 2017 and 2016, respectively.
+
+Environmental
+
+Matters
+
+Under
+
+various federal, state and local environmental laws, statutes, ordinances, rules and regulations, an owner of real property may
+
+be liable for the costs of removal or remediation of certain hazardous or toxic substances at, on, in or under such property as
+
+well as certain other potential costs relating to hazardous or toxic substances. These liabilities may include government fines
+
+and penalties and damages for injuries to persons and adjacent property. Such laws often impose liability without regard to whether
+
+the owner knew of, or was responsible for, the presence or disposal of such substances. Although generally our tenants are primarily
+
+responsible for any environmental damages and claims related to the leased premises, in the event of the bankruptcy or inability
+
+of a tenant of such premises to satisfy any obligations with respect to such environmental liability, we may be required to satisfy
+
+such obligations. In addition, as the owner of such properties, we may be held directly liable for any such damages or claims
+
+irrespective of the provisions of any lease.
+
+From
+
+time to time, in connection with managing the properties or upon acquisition of a property, we authorize the preparation of Phase
+
+I and, when necessary, Phase II environmental reports with respect to our properties. Based upon such environmental reports and
+
+our ongoing review of our properties, as of the date of this Annual Report, we are not aware of any environmental condition with
+
+respect to any of our properties which we believe would be reasonably likely to have a material adverse effect on our financial
+
+condition and/or results of operations. There can be no assurance, however, that (1) the discovery of environmental conditions,
+
+the existence or severity of which were previously unknown; (2) changes in law; (3) the conduct of tenants; or (4) activities
+
+relating to properties in the vicinity of our properties, will not expose us to material liability in the future.
+
+Contact
+
+Information
+
+Additional
+
+information about us can be found on our website which is located at www.mreic.reit. Information contained on or hyperlinked
+
+from our Website is not incorporated by reference into and should not be considered part of this Annual Report on Form 10-K or
+
+our other filings with the Securities and Exchange Commission (SEC). We make available, free of charge, on or through our website,
+
+annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed
+
+or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable
+
+after we electronically file such material with, or furnish it to, the SEC. The SEC maintains an internet site (http://www.sec.gov)
+
+that contains reports, proxy and information statements, and other information regarding issuers that file electronically with
+
+the SEC.
+
+ITEM
+
+1A – RISK FACTORS
+
+The
+
+following risk factors address the material risks concerning our business. If any of the risks discussed in this report were to
+
+occur, our business, prospects, financial condition, results of operation and our ability to service our debt and make distributions
+
+to our shareholders could be materially and adversely affected and the market price per share of our stock could decline significantly.
+
+Some statements in this report, including statements in the following risk factors, constitute forward-looking statements. Please
+
+refer to the section entitled “Cautionary Statement Regarding Forward-Looking Statements.”
+
+Real
+
+Estate Industry Risks
+
+Our
+
+business and financial results are affected by local real estate conditions in areas where we own properties. We may be
+
+affected adversely by general economic conditions and local real estate conditions. For example, an oversupply of industrial properties
+
+in a local area or a decline in the attractiveness of our properties to tenants and potential tenants could have a negative effect
+
+on us.
+
+Other
+
+factors that may affect general economic conditions or local real estate conditions include but are not limited to:
+
+We
+
+may be unable to compete with our larger competitors and other alternatives available to tenants or potential tenants of our properties.
+
+The real estate business is highly competitive. We compete for properties with other real estate investors and purchasers, including
+
+other real estate investment trusts, limited partnerships, syndications and private investors, some of whom may have greater financial
+
+resources, revenues and geographical diversity than we have. Furthermore, we compete for tenants with other property owners. All
+
+of our industrial properties are subject to significant local competition. We also compete with a wide variety of institutions
+
+and other investors for capital funds necessary to support our investment activities and asset growth. To the extent that we are
+
+unable to effectively compete in the marketplace, our business may be adversely affected.
+
+We
+
+are subject to significant regulation that inhibits our activities and may increase our costs. Local zoning and use laws,
+
+environmental statutes and other governmental requirements may restrict expansion, rehabilitation and reconstruction activities.
+
+These regulations may prevent us from taking advantage of economic opportunities. Legislation such as the Americans with Disabilities
+
+Act may require us to modify our properties at a substantial cost and noncompliance could result in the imposition of fines or
+
+an award of damages to private litigants. Future legislation may impose additional requirements. We may incur additional costs
+
+to comply with any future requirements.
+
+Our
+
+investments are concentrated in the industrial distribution sector and our business would be adversely affected by an economic
+
+downturn in that sector. Our investments in real estate assets are primarily concentrated in the industrial distribution
+
+sector. This concentration may expose us to the risk of economic downturns in this sector to a greater extent than if our business
+
+activities included a more significant portion of other sectors of the real estate industry.
+
+Risks
+
+Associated with Our Properties
+
+We
+
+may be unable to renew or extend leases or re-let space as leases expire. While we seek to invest in well-located, modern,
+
+single tenant, industrial buildings, leased to investment-grade tenants or their subsidiaries on long-term net leases, a number
+
+of our properties are subject to short-term leases. When a lease expires, a tenant may elect not to renew or extend it. We may
+
+not be able to re-let the property on similar terms, if we are able to re-let the property at all. The terms of renewal, extension
+
+or re-lease (including the cost of required renovations and/or concessions to tenants) may be less favorable to us than the prior
+
+lease. If we are unable to re-let all or a substantial portion of our properties, or if the rental rates upon such re-letting
+
+are significantly lower than expected rates, our cash generated before debt repayments and capital expenditures and our ability
+
+to make expected distributions, may be adversely affected. We have established an annual budget for renovation and re-letting
+
+expenses that we believe is reasonable in light of each property’s operating history and local market characteristics. However,
+
+this budget may not be sufficient to cover these expenses.
+
+Our
+
+business is substantially dependent on FedEx Corporation. FDX, together with its subsidiaries, is our largest tenant,
+
+consisting of 60 separate stand-alone leases located in 24 different states as of September 30, 2018. As of September 30, 2018,
+
+we had approximately 21,174,000 square feet of property, of which approximately 10,083,000 square feet, or 48%, were leased to
+
+FDX and its subsidiaries (7% from FDX and 41% from FDX subsidiaries). Rental and reimbursement revenue from FDX and its subsidiaries
+
+is approximately 58% (7% from FDX and 51% from FDX subsidiaries) of total rental and reimbursement revenue for fiscal 2018. No
+
+other tenant accounted for 5% or more of our total Rental and Reimbursement revenue for fiscal 2018. As a result of this concentration,
+
+our business, financial condition and results of operations, including the amount of cash available for distribution to our stockholders,
+
+could be adversely affected if we are unable to do business with FDX or FDX reduces its business with us or FDX and its subsidiaries
+
+were to become unable to make lease payments because of a downturn in its business or otherwise.
+
+FDX
+
+is a publicly-owned company and financial information related to this entity is available at the SEC’s website, www.sec.gov.
+
+FDX is rated “BBB” by S&P Global Ratings (www.standardandpoors.com) and is rated “Baa2” by
+
+Moody’s (www.moodys.com), which are both considered “Investment Grade” ratings. The references in this
+
+report to the SEC’s website, S&P Global Ratings’ website and Moody’s website are not intended to and do
+
+not include or incorporate by reference into this report the information of FDX, S&P Global Ratings or Moody’s on such
+
+websites.
+
+We
+
+are subject to risks involved in single tenant leases. We focus our acquisition activities on real properties that are
+
+net-leased to single tenants. Therefore, the financial failure of, or other default by, a single tenant under its lease is likely
+
+to cause a significant reduction in the operating cash flow generated by the property leased to that tenant and might decrease
+
+the value of that property. In addition, we will be responsible for 100% of the operating costs following a vacancy at a single
+
+tenant building.
+
+We
+
+may be affected negatively by tenant financial difficulties and leasing delays. At any time, a tenant may experience a
+
+downturn in its business that may weaken its financial condition. Similarly, a general decline in the economy may result in a
+
+decline in the demand for space at our industrial properties. As a result, our tenants may delay lease commencement, fail to make
+
+rental payments when due, or declare bankruptcy. Any such event could result in the termination of that tenant’s lease and
+
+losses to us.
+
+We
+
+receive a substantial portion of our income as rents under long-term leases. If tenants are unable to comply with the
+
+terms of their leases because of rising costs or falling revenues, we, in our sole discretion, may deem it advisable to modify
+
+lease terms to allow tenants to pay a lower rental rate or a smaller share of operating costs, taxes and insurance. If a tenant
+
+becomes insolvent or bankrupt, we cannot be sure that we could recover the premises from the tenant promptly or from a trustee
+
+or debtor-in-possession in any bankruptcy proceeding relating to the tenant. We also cannot be sure that we would receive rent
+
+in the proceeding sufficient to cover our expenses with respect to the premises. If a tenant becomes bankrupt, the federal bankruptcy
+
+code will apply and, in some instances, may restrict the amount and recoverability of our claims against the tenant. A tenant’s
+
+default on its obligations to us for any reason could adversely affect our financial condition and the cash we have available
+
+for distribution.
+
+We
+
+may be unable to sell properties when appropriate because real estate investments are illiquid. Real estate investments
+
+generally cannot be sold quickly and, therefore, will tend to limit our ability to vary our property portfolio promptly in response
+
+to changes in economic or other conditions. In addition, the Code may limit our ability to sell our properties. The inability
+
+to respond promptly to changes in the performance of our property portfolio could adversely affect our financial condition and
+
+ability to service debt and make distributions to our shareholders.
+
+Environmental
+
+liabilities could affect our profitability. We face possible environmental liabilities. Environmental laws today can impose
+
+liability on a previous owner or operator of a property that owned or operated the property at a time when hazardous or toxic
+
+substances were disposed on, or released from, the property. A conveyance of the property, therefore, does not relieve the owner
+
+or operator from liability. As a current or former owner and operator of real estate, we may be required by law to investigate
+
+and clean up hazardous substances released at or from the properties we currently own or operate or have in the past owned or
+
+operated. We may also be liable to the government or to third parties for property damage, investigation costs and cleanup costs.
+
+In addition, some environmental laws create a lien on the contaminated site in favor of the government for damages and costs the
+
+government incurs in connection with the contamination. Contamination may adversely affect our ability to sell or lease real estate
+
+or to borrow using the real estate as collateral. We are not aware of any environmental liabilities relating to our investment
+
+properties which would have a material adverse effect on our business, assets, or results of operations. However, we cannot assure
+
+you that environmental liabilities will not arise in the future and that such liabilities will not have a material adverse effect
+
+on our business, assets or results of operation.
+
+Actions
+
+by our competitors may decrease or prevent increases in the occupancy and rental rates of our properties. We compete with
+
+other owners and operators of real estate, some of which own properties similar to ours in the same submarkets in which our properties
+
+are located. If our competitors offer space at rental rates below current market rates or below the rental rates we currently
+
+charge our tenants, we may lose potential tenants, and we may be pressured to reduce our rental rates below those we currently
+
+charge in order to retain tenants when our tenants’ leases expire. As a result, our financial condition, cash flow and cash
+
+available for distribution, the market price of our preferred and common stock and our ability to satisfy our debt service obligations
+
+could be materially and adversely affected.
+
+Coverage
+
+under our existing insurance policies may be inadequate to cover losses. Weather conditions and natural disasters such
+
+as hurricanes, tornadoes, earthquakes, floods, droughts, fires and other environmental conditions can harm our business operations.
+
+We generally maintain insurance policies related to our business, including casualty, general liability and other policies, covering
+
+our business operations, employees and assets. However, we would be required to bear all losses that are not adequately covered
+
+by insurance. In addition, there are certain losses that are not generally insured because it is not economically feasible to
+
+insure against them, including losses due to riots or acts of war. If an uninsured loss or a loss in excess of insured limits
+
+were to occur with respect to one or more of our properties, then we could lose the capital we invested in the properties, as
+
+well as the anticipated future revenue from the properties and, in the case of debt, which is with recourse to us, we would remain
+
+obligated for any mortgage debt or other financial obligations related to the properties. Although we believe that our insurance
+
+programs are adequate, we cannot assure you that we will not incur losses in excess of our insurance coverage, or that we will
+
+be able to obtain insurance in the future at acceptable levels and reasonable costs.
+
+We
+
+may be unable to acquire properties on advantageous terms or acquisitions may not perform as we expect. We have acquired
+
+individual properties and intend to continue to do so. However, we may be unable to acquire any of the properties that we may
+
+identify as potential acquisition opportunities in the future. Our acquisition activities and their success are subject to the
+
+following risks:
+
+Financing
+
+Risks
+
+We
+
+face inherent risks associated with our debt incurrence. We finance a portion of our investments in properties and marketable
+
+securities through the incurrence of debt. We are subject to the risks normally associated with debt financing, including the
+
+risk that our cash flow will be insufficient to meet required payments of principal and interest. In addition, debt creates other
+
+risks, including:
+
+We
+
+mortgage our properties, which subjects us to the risk of foreclosure in the event of non-payment. We mortgage many of
+
+our properties to secure payment of indebtedness and, if we are unable to meet mortgage payments, the property could be foreclosed
+
+upon or transferred to the mortgagee with a consequent loss of income and asset value. A foreclosure of one or more of our properties
+
+could adversely affect our financial condition, results of operations, cash flow, and ability to service debt and make distributions
+
+and the market price of our preferred and common stock.
+
+We
+
+face risks related to “balloon payments” and refinancings. Certain mortgages will have significant outstanding
+
+principal balances on their maturity dates, commonly known as “balloon payments.” There can be no assurance that we
+
+will have the funds available to fund the balloon payment or that we will be able to refinance the debt on favorable terms or
+
+at all. To the extent we cannot either pay off or refinance this debt on favorable terms or at all, we may be forced to dispose
+
+of properties on disadvantageous terms or pay higher interest rates, either of which could have an adverse impact on our financial
+
+performance and ability to service debt and make distributions.
+
+We
+
+face risks associated with our dependence on external sources of capital. In order to qualify as a REIT, we are required
+
+each year to distribute to our shareholders at least 90% of our REIT taxable income, and we are subject to tax on our income to
+
+the extent it is not distributed. Because of this distribution requirement, we may not be able to fund all future capital needs
+
+from cash retained from operations. As a result, to fund capital needs, we rely on third-party sources of capital, which we may
+
+not be able to obtain on favorable terms, if at all. Our access to third-party sources of capital depends upon a number of factors,
+
+including (i) general market conditions; (ii) the market’s perception of our growth potential; (iii) our current and potential
+
+future earnings and cash distributions; and (iv) the market price of our capital stock. Additional debt financing may substantially
+
+increase our debt-to-total capitalization ratio. Additional equity issuances may dilute the holdings of our current shareholders.
+
+We
+
+may become more highly leveraged, resulting in increased risk of default on our obligations and an increase in debt service requirements
+
+which could adversely affect our financial condition and results of operations and our ability to pay distributions.
+
+We have incurred, and may continue to incur, indebtedness in furtherance of our activities. Our governing documents do not
+
+limit the amount of indebtedness we may incur. Accordingly, our Board of Directors may authorize us to incur additional debt and
+
+would do so, for example, if it were necessary to maintain our status as a REIT. We could therefore become more highly leveraged,
+
+resulting in an increased risk of default on our obligations and an increase in debt service requirements which could adversely
+
+affect our financial condition and results of operations and our ability to pay distributions to shareholders.
+
+Fluctuations
+
+in interest rates could materially affect our financial results. Because a portion of our debt bears interest at variable
+
+rates, increases in interest rates could materially increase our interest expense. If the United States Federal Reserve increases
+
+short-term interest rates, this may have a significant upward impact on shorter-term interest rates, including the interest rates
+
+that our variable rate debt is based upon. Potential future increases in interest rates and credit spreads may increase our interest
+
+expense and affect our ability to obtain fixed rate debt at favorable interest rates and therefore negatively affect our financial
+
+condition and results of operations, and reduce our access to the debt or equity capital markets.
+
+Covenants
+
+in our loan documents could limit our flexibility and adversely affect our financial condition. The terms of our various
+
+credit agreements and other indebtedness require us to comply with a number of customary financial and other covenants, such as
+
+maintaining debt service coverage and leverage ratios and maintaining insurance coverage. These covenants may limit our flexibility
+
+in our operations, and breaches of these covenants could result in defaults under the instruments governing the applicable indebtedness
+
+even if we had satisfied our payment obligations. If we were to default under credit agreements or other debt instruments, our
+
+financial condition could be adversely affected.
+
+Risks
+
+Related to our Status as a REIT
+
+If
+
+our leases are not respected as true leases for federal income tax purposes, we would fail to qualify as a REIT. To qualify
+
+as a REIT, we must, among other things, satisfy two gross income tests, under which specified percentages of our gross income
+
+must be passive income, such as rent. For the rent paid pursuant to our leases to qualify for purposes of the gross income tests,
+
+the leases must be respected as true leases for federal income tax purposes and not be treated as service contracts, joint ventures
+
+or some other type of arrangement. The determination of whether a lease is a true lease depends upon an analysis of all the surrounding
+
+facts and circumstances. We believe that our leases will be respected as true leases for federal income tax purposes. However,
+
+there can be no assurance that the Internal Revenue Service (IRS) will agree with this view. If the leases are not respected as
+
+true leases for federal income tax purposes, we would not be able to satisfy either of the two gross income tests applicable to
+
+REITs, and we could lose our REIT status.
+
+Failure
+
+to make required distributions would subject us to additional tax. In order to qualify as a REIT, we must, among other
+
+requirements, distribute, each year, to our shareholders at least 90 percent of our taxable income, excluding net capital gains.
+
+To the extent that we satisfy the 90 percent distribution requirement, but distribute less than 100 percent of our taxable income,
+
+we will be subject to federal corporate income tax on our undistributed income. In addition, we will incur a 4 percent nondeductible
+
+excise tax on the amount, if any, by which our distributions (or deemed distributions) and the amounts of income retained on which
+
+we have paid corporate income tax in any year are less than the sum of:
+
+To
+
+the extent we pay out in excess of 100 percent of our taxable income for any tax year, we may be able to carry forward such excess
+
+to subsequent years to reduce our required distributions for purposes of the 4 percent excise tax in such subsequent years. We
+
+intend to pay out our income to our shareholders in a manner intended to satisfy the 90 percent distribution requirement. Differences
+
+in timing between the recognition of income and the related cash receipts, the effects of non-deductible capital expenditures,
+
+the creation of reserves or the effect of required debt amortization payments could require us to borrow money or sell assets
+
+(potentially during unfavorable market conditions) to pay out enough of our taxable income to satisfy the 90 percent distribution
+
+requirement and to avoid corporate income tax.
+
+We
+
+may not have sufficient cash available from operations to pay distributions, and, therefore, distributions may be made from borrowings.
+
+The actual amount and timing of distributions will be determined by our Board of Directors in its discretion and typically
+
+will depend on the amount of cash available for distribution, which will depend on items such as current and projected cash requirements,
+
+limitations on distributions imposed by law or our financing arrangements and tax considerations. As a result, we may not have
+
+sufficient cash available from operations to pay distributions as required to maintain our status as a REIT. Therefore, we may
+
+need to borrow funds to make sufficient cash distributions in order to maintain our status as a REIT, which may cause us to incur
+
+additional interest expense as a result of an increase in borrowed funds for the purpose of paying distributions.
+
+We
+
+may be required to pay a penalty tax upon the sale of a property. The federal income tax provisions applicable to REITs
+
+provide that any gain realized by a REIT on the sale of property, other than foreclosure property, held as inventory or other
+
+property held primarily for sale to customers in the ordinary course of business is treated as income from a “prohibited
+
+transaction” that is subject to a 100 percent penalty tax. Under current law, unless a sale of real property qualifies for
+
+a safe harbor, the question of whether the sale of real estate or other property constitutes the sale of property held primarily
+
+for sale to customers is generally a question of the facts and circumstances regarding a particular transaction. It is our intent
+
+that we and our subsidiaries will hold the interests in the real estate for investment with a view to long-term appreciation,
+
+engage in the business of acquiring and owning real estate, and make occasional sales as are consistent with our investment objectives.
+
+We do not intend to engage in prohibited transactions. We cannot assure you, however, that we will only make sales that satisfy
+
+the requirements of the safe harbors or that the IRS will not successfully assert that one or more of such sales are prohibited
+
+transactions. The 100% tax will not apply to gains from the sale of property that is held through a taxable REIT subsidiary or
+
+other taxable corporation, although such income will be subject to tax in the hands of the corporation at regular U.S. federal
+
+income tax rates.
+
+There
+
+is a risk of changes in the tax law applicable to real estate investment trusts. Because the IRS, the United States Treasury
+
+Department and Congress frequently review federal income tax legislation, we cannot predict whether, when or to what extent new
+
+federal tax laws, regulations, interpretations or rulings will be adopted. Any of such legislative actions may prospectively or
+
+retroactively modify our tax treatment and, therefore, may adversely affect taxation of us and/or our investors.
+
+The
+
+recently enacted Tax Cuts and Jobs Act of 2017, or the TCJA, has significantly changed the U.S. federal income taxation
+
+of U.S. businesses and their owners, including REITs and their shareholders. Changes made by the TCJA that could affect us and
+
+our shareholders include:
+
+You
+
+are urged to consult with your tax advisor with respect to the status of legislative, regulatory, judicial or administrative developments
+
+and proposals and their potential effect on an investment in our securities.
+
+To
+
+qualify as a REIT, we must comply with certain highly technical and complex requirements. We cannot be certain we have
+
+complied, and will always be able to comply, with the requirements to qualify as a REIT because there are few judicial and administrative
+
+interpretations of these provisions. In addition, facts and circumstances that may be beyond our control may affect our ability
+
+to continue to qualify as a REIT. We cannot assure you that new legislation, regulations, administrative interpretations or court
+
+decisions will not change the tax laws significantly with respect to our qualification as a REIT or with respect to the federal
+
+income tax consequences of qualification. We believe that we have qualified as a REIT since our inception and intend to continue
+
+to qualify as a REIT. However, we cannot assure you that we are qualified or will remain qualified.
+
+We
+
+may be unable to comply with the strict income distribution requirement applicable to REITs. As noted above, to maintain
+
+qualification as a REIT under the Code, a REIT must annually distribute to its shareholders at least 90% of its REIT taxable income,
+
+excluding the dividends paid deduction and net capital gains. This requirement limits our ability to accumulate capital. We may
+
+not have sufficient cash or other liquid assets to meet the 90% distribution requirements. Difficulties in meeting the 90% distribution
+
+requirement might arise due to competing demands for our funds or to timing differences between tax reporting and cash receipts
+
+and disbursements, because income may have to be reported before cash is received, because expenses may have to be paid before
+
+a deduction is allowed, because deductions may be disallowed or limited or because the IRS may make a determination that adjusts
+
+reported income. In those situations, we might be required to borrow funds or sell properties on adverse terms in order to meet
+
+the 90% distribution requirement and interest and penalties could apply which could adversely affect our financial condition.
+
+If we fail to satisfy the 90% distribution requirement, we would cease to be taxed as a REIT.
+
+Notwithstanding
+
+our status as a REIT, we are subject to various federal, state and local taxes on our income and property. For example,
+
+we will be taxed at regular corporate rates on any undistributed taxable income, including undistributed net capital gains; provided,
+
+however, that properly designated undistributed capital gains will effectively avoid taxation at the shareholder level. We may
+
+be subject to other federal income taxes and may also have to pay some state income or franchise taxes because not all states
+
+treat REITs in the same manner as they are treated for federal income tax purposes. In addition, any taxable REIT subsidiary that
+
+we may form will be subject to regular corporate federal, state and local taxes. Any of these taxes would decrease cash available
+
+for distributions to stockholders.
+
+Other
+
+Risks
+
+We
+
+may not be able to access adequate cash to fund our business. Our business requires access to adequate cash to finance
+
+our operations, distributions, capital expenditures, debt service obligations, development and redevelopment costs and property
+
+acquisition costs, if any. We expect to generate the cash to be used for these purposes primarily with operating cash flow, borrowings
+
+under secured and unsecured term loans, proceeds from sales of strategically identified assets and, when market conditions permit,
+
+through the issuance of debt and equity securities from time to time. We may not be able to generate sufficient cash to fund our
+
+business, particularly if we are unable to renew or extend leases, lease vacant space or re-lease space as leases expire according
+
+to expectations.
+
+We
+
+are dependent on key personnel. Our executive and other senior officers have a significant role in our success. Our ability
+
+to retain our management group or to attract suitable replacements should any members of the management group leave is dependent
+
+on the competitive nature of the employment market. The loss of services from key members of the management group or a limitation
+
+in their availability could adversely affect our financial condition and cash flow. Further, such a loss could be negatively perceived
+
+in the capital markets.
+
+We
+
+may amend our business policies without shareholder approval. Our Board of Directors determines our growth, investment,
+
+financing, capitalization, borrowing, operations and distributions policies. In addition, our charter provides that our Board
+
+of Directors may revoke or otherwise terminate our REIT election, without the approval of our shareholders, if it determines that
+
+it is no longer in our best interest to continue to qualify as a REIT. Although our Board of Directors has no present intention
+
+to amend or reverse any of these policies, they may be amended or revised without notice to shareholders. Accordingly, shareholders
+
+may not have control over changes in our policies. We cannot assure you that changes in our policies will serve fully the interests
+
+of all shareholders.
+
+The
+
+market value of our preferred and common stock could decrease based on our performance and market perception and conditions.
+
+The market value of our preferred and common stock may be based primarily upon the market’s perception of our growth
+
+potential and current and future cash dividends, and may be secondarily based upon the real estate market value of our underlying
+
+assets. The market price of our preferred and common stock is influenced by their respective distributions relative to market
+
+interest rates. Rising interest rates may lead potential buyers of our stock to expect a higher distribution rate, which could
+
+adversely affect the market price of our stock. In addition, rising interest rates could result in increased expense, thereby
+
+adversely affecting cash flow and our ability to service our indebtedness and pay distributions.
+
+There
+
+are restrictions on the ownership and transfer of our capital stock. To maintain our qualification as a REIT under the
+
+Code, no more than 50% in value of our outstanding capital stock may be owned, actually or by attribution, by five or fewer individuals,
+
+as defined in the Code to also include certain entities, during the last half of a taxable year. Accordingly, our charter contains
+
+provisions restricting the ownership and transfer of our capital stock. These restrictions may discourage a tender offer or other
+
+transaction, or a change in management or of control of us that might involve a premium price for our common stock or preferred
+
+stock or that our shareholders otherwise believe to be in their best interests, and may result in the transfer of shares acquired
+
+in excess of the restrictions to a trust for the benefit of a charitable beneficiary and, as a result, the forfeiture by the acquirer
+
+of the benefits of owning the additional shares.
+
+Our
+
+earnings are dependent, in part, upon the performance of our investment portfolio. As permitted by the Code, we invest
+
+in and own marketable securities of other REITs, which we generally limit to no more than approximately 10% of our undepreciated
+
+assets (which is our total assets excluding accumulated depreciation). To the extent that the fair value of those investments
+
+declines or those investments do not provide an attractive return, our earnings and cash flow could be adversely affected. Beginning
+
+with our fiscal year ending September 30, 2019, all changes in the fair value of the equity securities of other REITs that we
+
+own, whether realized or unrealized, will be recognized as gains or losses in our consolidated statement of income. As a result,
+
+fluctuations in the fair value of those investments will, in the future, impact our earnings even if we have not sold the underlying
+
+investments.
+
+We
+
+are subject to restrictions that may impede our ability to effect a change in control. Certain provisions contained in
+
+our charter and bylaws and certain provisions of Maryland law may have the effect of discouraging a third party from making an
+
+acquisition proposal for us and thereby inhibit a change in control. These provisions include the following:
+
+We
+
+cannot assure you that we will be able to pay distributions regularly. Our ability to pay distributions in the future
+
+is dependent on our ability to operate profitably and to generate cash from our operations and the operations of our subsidiaries
+
+and is subject to limitations under our financing arrangements and Maryland law. Under the Maryland General Corporation Law, or
+
+the MGCL, a Maryland corporation generally may not make a distribution if, after giving effect to the distribution, the corporation
+
+would not be able to pay its debts as the debts became due in the usual course of business, or the corporation’s total assets
+
+would be less than the sum of its total liabilities plus, unless the charter permits otherwise, the amount that would be needed
+
+if the corporation were to be dissolved at the time of the distribution to satisfy the preferential rights upon dissolution of
+
+stockholders whose preferential rights on dissolution are superior to those receiving the distribution. Accordingly, we cannot
+
+guarantee that we will be able to pay distributions on a regular quarterly basis in the future.
+
+Future
+
+terrorist attacks and military conflicts could have a material adverse effect on general economic conditions, consumer confidence
+
+and market liquidity. Among other things, it is possible that interest rates may be affected by these events. An increase
+
+in interest rates may increase our costs of borrowing, leading to a reduction in our earnings. Terrorist acts could also result
+
+in significant damages to, or loss of, our properties. We and our tenants may be unable to obtain adequate insurance coverage
+
+on acceptable economic terms for losses resulting from acts of terrorism. Our lenders may require that we carry terrorism insurance
+
+even if we do not believe this insurance is necessary or cost effective. We may also be prohibited under the applicable lease
+
+from passing all or a portion of the cost of such insurance through to the tenant. Should an act of terrorism result in an uninsured
+
+loss or a loss in excess of insured limits, we could lose capital invested in a property, as well as the anticipated future revenues
+
+from a property, while remaining obligated for any mortgage indebtedness or other financial obligations related to the property.
+
+Any loss of these types could adversely affect our financial condition.
+
+Disruptions
+
+in the financial markets could affect our ability to obtain financing on reasonable terms and have other adverse effects on us
+
+and the market price of our capital stock. Over the last several years, the United States stock and credit markets have
+
+experienced significant price volatility, dislocations and liquidity disruptions, which have caused market prices of many stocks
+
+and debt securities to fluctuate substantially and the spreads on prospective debt financing to widen considerably. Continued
+
+uncertainty in the stock and credit markets may negatively impact our ability to access additional financing at reasonable terms,
+
+which may negatively affect our ability to acquire properties and otherwise pursue our investment strategy. A prolonged downturn
+
+in the stock or credit markets may cause us to seek alternative sources of potentially less attractive financing, and may require
+
+us to adjust our investment strategy accordingly. These types of events in the stock and credit markets may make it more difficult
+
+or costly for us to raise capital through the issuance of the common stock, preferred stock or debt securities. The potential
+
+disruptions in the financial markets may have a material adverse effect on the market value of the common stock and preferred
+
+stock and the return we receive on our properties and investments, as well as other unknown adverse effects on us or the economy
+
+in general.
+
+We
+
+are subject to risks arising from litigation. We may become involved in litigation. Litigation can be costly, and
+
+the results of litigation are often difficult to predict. We may not have adequate insurance coverage or contractual protection
+
+to cover costs and liability in the event we are sued, and to the extent we resort to litigation to enforce our rights, we may
+
+incur significant costs and ultimately be unsuccessful or unable to recover amounts we believe are owed to us. We may have little
+
+or no control of the timing of litigation, which presents challenges to our strategic planning.
+
+Dividends
+
+on our capital stock do not qualify for the reduced tax rates available for some dividends. Income from “qualified
+
+dividends” payable to U.S. stockholders that are individuals, trusts and estates are generally subject to tax at preferential
+
+rates. Dividends payable by REITs, however, generally are not eligible for the preferential tax rates applicable to qualified
+
+dividend income. Although these rules do not adversely affect our taxation or the dividends payable by us, to the extent that
+
+the preferential rates continue to apply to regular corporate qualified dividends, investors who are individuals, trusts and estates
+
+may perceive an investment in us to be relatively less attractive than an investment in the stock of a non-REIT corporation that
+
+pays dividends, which could materially and adversely affect the value of the shares of, and per share trading price of, our capital
+
+stock.
+
+ITEM
+
+1B – UNRESOLVED STAFF COMMENTS
+
+None.
+
+ITEM
+
+2 - PROPERTIES
+
+We
+
+operate as a REIT. Our portfolio is primarily comprised of real estate holdings, some of which have been long-term holdings carried
+
+on our financial statements at depreciated cost. We believe that their current market values exceed both the original cost and
+
+the depreciated cost.
+
+The
+
+following table sets forth certain information concerning our real estate investments as of September 30, 2018:
+
+The
+
+following table sets forth certain information concerning the principal tenants and leases for our properties shown above as of
+
+September 30, 2018:
+
+As
+
+of September 30, 2018, all improved properties were 100% occupied, except for one property located in Monaca (Pittsburgh), PA
+
+consisting of 255,658 rentable square feet of which 68% or 174,802 square feet is occupied, resulting in a 99.6% overall occupancy
+
+percentage for our whole portfolio of properties.
+
+Our
+
+weighted-average lease expiration was 8.1 years and 7.9 years as of September 30, 2018 and 2017, respectively.
+
+Our
+
+average occupancy rates as of the years ended September 30, 2018, 2017, 2016, 2015 and 2014 were 99.6%, 99.3%, 99.6%, 97.7% and
+
+95.9%, respectively. The average effective annualized rent per square foot for the years ended September 30, 2018, 2017, 2016,
+
+2015 and 2014 was $6.01, $5.93, $5.72, $5.48 and $5.51, respectively.
+
+Completed
+
+expansions that have resulted in increased rents over the fiscal years ended September 30, 2017 and 2018
+
+Ecommerce
+
+has been a major catalyst driving increased demand for the industrial property type. The shift from traditional brick and mortar
+
+retail shopping to ordering goods on-line has resulted in record occupancy rates for industrial real estate throughout the U.S.
+
+Due to the increased demand for industrial space, we have been experiencing an increase in expansion activity at our existing
+
+properties.
+
+On
+
+October 1, 2016, a 50,625 square foot expansion of the building leased to FedEx Ground Package System, Inc. located in Edinburg,
+
+TX was completed for a cost of approximately $4,762,000, resulting in a new 10 year lease which extended the prior lease expiration
+
+date from September 2021 to September 2026. In addition, the expansion resulted in an increase in annual rent effective from the
+
+date of completion of approximately $499,000 from approximately $598,000, or $5.26 per square foot, to approximately $1,097,000,
+
+or $6.68 per square foot.
+
+On
+
+September 1, 2017, a parking lot expansion for a property leased to FedEx Ground Package System, Inc. located in Ft. Myers, FL
+
+was completed for a cost of approximately $862,000, resulting in a new 10 year lease which extended the prior lease expiration
+
+date from September 2026 to August 2027. In addition, the expansion resulted in an increase in annual rent effective from the
+
+date of completion of approximately $53,000 from approximately $1,365,000, or $6.39 per square foot to approximately $1,418,000,
+
+or $6.64 per square foot.
+
+On
+
+November 1, 2017, a parking lot expansion for a property leased to FedEx Ground Package System, Inc., located in Indianapolis,
+
+IN was completed for a total project cost of approximately $1,683,000, resulting in a new 10 year lease which extended the prior
+
+lease expiration date from April 2024 to October 2027. In addition, the expansion resulted in an increase in annual rent effective
+
+from the date of completion of approximately $184,000 from approximately $1,533,000, or $4.67 per square foot, to approximately
+
+$1,715,000, or $5.23 per square foot.
+
+On
+
+September 27, 2018, a parking lot expansion for a property leased to FedEx Ground Package System, Inc., located in Ft. Mill, SC
+
+was completed for a total project cost of approximately $1,834,000, resulting in a new 10 year lease which extended the prior
+
+lease expiration date from October 2023 to August 2028. In addition, the expansion resulted in an increase in annual rent effective
+
+from the date of completion of approximately $183,000 from approximately $1,415,000, or $8.00 per square foot, to approximately
+
+$1,598,000, or $9.03 per square foot.
+
+Fiscal
+
+2018 Renewals
+
+In
+
+fiscal 2018, approximately 8% of our gross leasable area, representing 16 leases totaling 1,546,637 square feet, was set to expire.
+
+We have renewed 11 of the 16 leases that were set to expire during fiscal 2018, representing 1,063,824 square feet, or 69% of
+
+the expiring square footage. One of the 11 leases, which is with FedEx Ground Package System, Inc., for a property located in
+
+Hanahan (Charleston), SC, renewed for only four months, until November 30, 2018, because the tenant moved their operations from
+
+our 91,776 square foot facility to our newly constructed, much larger, 265,318 square foot facility, which is also located in
+
+Charleston, SC and is leased to FedEx Ground Package System, Inc. for 15 years through June 2033. We closed on this new facility
+
+on August 15, 2018. Excluding the four month lease renewal at the 91,776 square foot location, the 10 leases that have renewed
+
+represent 972,048 square feet, or 63% of the expiring square footage. We have incurred, or we expect to incur, tenant improvement
+
+costs of approximately $844,000 and leasing commission costs of approximately $898,000 in connection with these 10 lease renewals.
+
+The table below summarizes the lease terms of the 11 leases which were renewed. In addition, the table below includes both the
+
+tenant improvement costs and the leasing commission costs, which are presented on a per square foot (PSF) basis averaged annually
+
+over the renewal term.
+
+Excluding
+
+the four-month lease renewal at the Hanahan (Charleston), SC location, the remaining 10 lease renewals result in a weighted average
+
+term of 6.8 years and a renewed U.S. GAAP straight-line weighted average lease rate of $5.87 per square foot. The renewed weighted
+
+average initial cash rent is also $5.87 per square foot. This compares to the former weighted average rent of $5.64 per square
+
+foot on a U.S. GAAP straight-line basis and the former weighted average cash rent of $5.71 per square foot, representing an increase
+
+in the weighted average lease rate of 4.1% on a U.S. GAAP straight-line basis and an increase of 2.8% on a cash basis.
+
+As
+
+further described in the three paragraphs below, of the five remaining leases originally set to expire during fiscal 2018 that
+
+did not renew, three of the properties were sold and one of the properties was re-tenanted. The three properties that were sold
+
+represent 12% of the expiring square footage for fiscal 2018, and one property, representing 14% of the expiring square footage
+
+for fiscal 2018, was re-tenanted for 3 years. The remaining lease that did not renew, expired on December 31, 2017 and represents
+
+5% of the expiring square footage for fiscal 2018. This tenant leased 80,856 square feet at our 255,658 square foot industrial
+
+park located in Monaca (Pittsburgh), PA. This partially vacant property currently represents our only property with vacancy.
+
+Two
+
+leases were set to expire during fiscal 2018 with Kellogg Sales Company (Kellogg) for our 65,067 square foot facility located
+
+in Kansas City, MO through July 31, 2018 and our 50,400 square foot facility located in Orangeburg, NY through February 28, 2018.
+
+Kellogg informed us that they would not be renewing these leases. On December 18, 2017, we sold our property located in Kansas
+
+City, MO for $4,900,000, with net sale proceeds of approximately $4,602,000 and on December 22, 2017, we sold our property located
+
+in Orangeburg, NY for $6,170,000, with net sale proceeds of approximately $5,898,000. The sale of these two properties resulted
+
+in a realized gain of approximately $5,388,000, representing a 105% gain over the depreciated U.S. GAAP basis and a realized net
+
+gain of approximately $1,804,000, representing a 21% net gain over our historic undepreciated cost basis. In conjunction with
+
+the sale of these two properties, we simultaneously entered into a lease termination agreement for each property whereby we received
+
+a termination fee from Kellogg totaling approximately $210,000 which represents a weighted average of 80% of the then remaining
+
+rent due under each respective lease.
+
+On
+
+June 1, 2018, we sold a 68,370 square foot building located in Colorado Springs, CO for $5,800,000, with net sale proceeds of
+
+approximately $5,465,000, which was our approximate U.S. GAAP net book carrying value. Prior to the sale of this property, it
+
+was leased to FedEx Ground Package System, Inc. through September 2018. The tenant informed us that they would not be renewing
+
+this lease because they have moved their operations from our former 68,370 square foot facility to our newly constructed 225,362
+
+square foot facility, which is also located in Colorado Springs, CO. On June 9, 2016, we purchased this newly constructed 225,362
+
+square foot industrial building, which is leased to FedEx Ground Package System, Inc. for 10 years through January 2026.
+
+Another
+
+remaining lease that was set to expire during fiscal 2018 was leased to Caterpillar Logistics Services, Inc. (Caterpillar) at
+
+our 218,120 square foot facility located in Griffin, GA through December 31, 2017. In September 2017, we entered into a three
+
+year lease agreement with Rinnai America Corporation through December 31, 2020 for this location. The new lease commenced on January
+
+1, 2018, with initial annual rent of $807,044, representing $3.70 per square foot, with 3.0% annual increases thereafter, resulting
+
+in a straight-line annualized rent of $831,000, representing $3.81 per square foot over the life of the lease. This compares to
+
+the former U.S. GAAP straight-line and the former cash rent of $5.36 per square foot, resulting in a decrease in the average lease
+
+rate of 28.9% on a U.S. GAAP straight-line basis and a decrease of 31.0% on a cash basis.
+
+Other
+
+Fiscal 2018 Leasing Activity
+
+Effective
+
+November 1, 2017, we entered into a 10.2 year lease agreement with FBM Gypsum Supply of Illinois, LLC for our 36,270 square foot
+
+facility located in Urbandale (Des Moines), IA. The lease agreement provided for two months of free rent, after which, on January
+
+1, 2018, initial annual rent of $159,588, representing $4.40 per square foot commenced, with 2.0% annual increases thereafter,
+
+resulting in a straight-line annualized rent of approximately $172,000, representing $4.74 per square foot through the expiration
+
+date of the lease, which is December 31, 2027. This new rent compares to the former average rent of $3.56 per square foot on a
+
+U.S. GAAP straight-line basis and the former cash rent of $3.88 per square foot, resulting in an increase in the average lease
+
+rate of 33.1% on a U.S. GAAP straight-line basis and an increase of 13.4% on a cash basis.
+
+Fiscal
+
+2019 Renewals
+
+In
+
+fiscal 2019, approximately 7% of our gross leasable area, representing 12 leases totaling 1,485,770 square feet, is set to expire.
+
+As of the date of this Annual Report, 5 of the 12 leases have renewed. The five leases that have renewed thus far represent 802,595
+
+square feet, or 54% of the expiring square footage, and have a weighted average lease term of 8.4 years.
+
+We
+
+have incurred or we expect to incur tenant improvement costs of approximately $1,786,000 and leasing commission costs of approximately
+
+$991,000 in connection with these five lease renewals. The table below summarizes the lease terms of the five leases which were
+
+renewed. In addition, the table below includes both the tenant improvement costs and the leasing commission costs, which are presented
+
+on a per square foot (PSF) basis averaged annually over the renewal term.
+
+These
+
+five lease renewals result in a weighted average term of 8.4 years and a U.S. GAAP straight-line weighted average lease rate of
+
+$4.55 per square foot. The renewed weighted average initial cash rent per square foot is $4.46. This compares to the former weighted
+
+average rent of $4.81 per square foot on a U.S. GAAP straight-line basis and the former weighted average cash rent of $5.00 per
+
+square foot, resulting in a decrease in the weighted average lease rate of 5.4% on a U.S. GAAP straight-line basis and a decrease
+
+in the weighted average lease rate of 10.8% on a cash basis.
+
+As
+
+discussed above, in the Fiscal 2018 Renewal section, our 91,776 square foot facility located in Hanahan (Charleston), SC, was
+
+leased to FedEx Ground Package System, Inc. and renewed for only four months, until November 30, 2018 because the tenant moved
+
+their operations from our 91,776 square foot facility to our newly constructed, much larger, 265,318 square foot facility, which
+
+is also located in Charleston, SC. The new 265,318 square foot facility is leased to FedEx Ground Package System, Inc. for 15
+
+years through June 2033. In addition, Carrier Enterprise, LLC (United Technologies) informed us that they will not be renewing
+
+their lease for our 60,000 square foot facility located in Richmond, VA which expires on November 30, 2018. Both our 91,776 square
+
+foot facility located in Hanahan (Charleston), SC and our 60,000 square foot facility located in Richmond, VA are currently being
+
+marketed.
+
+On
+
+September 30, 2018, we had a weighted average lease maturity of 8.1 years with 7.5% of the weighted average gross annualized rent
+
+scheduled to expire each year.
+
+The
+
+following table presents certain information as of September 30, 2018, with respect to our leases expiring over the future fiscal
+
+years ended September 30th:
+
+ITEM
+
+3 – LEGAL PROCEEDINGS
+
+None.
+
+ITEM
+
+4 – MINE SAFETY DISCLOSURES
+
+None.
+
+PART
+
+II
+
+ITEM
+
+5 - MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+Market
+
+Information
+
+Since
+
+June 1, 2010, the common stock of Monmouth Real Estate Investment Corporation, $0.01 par value per share (common stock), has been
+
+traded on the New York Stock Exchange (NYSE), under the symbol “MNR”. Previously, the common stock was traded on the
+
+NASDAQ Global Select Market.
+
+Shareholder
+
+Information
+
+As
+
+of November 15, 2018, 1,278 shareholders of record held shares of our common stock.
+
+Recent
+
+Sales of Unregistered Securities
+
+None.
+
+Purchases
+
+of Equity Securities
+
+On
+
+January 16, 2018, the Board of Directors reaffirmed our Share Repurchase Program (Repurchase Program) that authorizes us to purchase
+
+up to $10,000,000 in the aggregate of our common stock. The Repurchase Program was originally created on March 3, 2009 and is
+
+intended to be implemented through purchases made from time to time using a variety of methods, which may include open market
+
+purchases, privately negotiated transactions or block trades, or by any combination of such methods, in accordance with applicable
+
+insider trading and other securities laws and regulations. The size, scope and timing of any purchases will be based on business,
+
+market and other conditions and factors, including price, regulatory and contractual requirements or consents, and capital availability.
+
+The Repurchase Program does not require us to acquire any particular amount of common stock, and the program may be suspended,
+
+modified or discontinued at any time at our discretion without prior notice. During the fiscal year ended September 30, 2018,
+
+we did not reacquire any of our own shares of common stock. The maximum dollar value that may be purchased under the Repurchase
+
+Program as of September 30, 2018 is $10,000,000.
+
+Equity
+
+Compensation Plan Information
+
+At
+
+our Annual Meeting held on May 18, 2017, our common shareholders approved our Amended and Restated 2007 Incentive Award Plan (the
+
+Plan) which extended the term of our 2007 Incentive Award Plan for an additional 10 years, until March 13, 2027, added 1,600,000
+
+shares of common stock to the share reserve, expanded the types of awards available for grant under the Plan and made other improvements
+
+to the 2007 Plan. As of September 30, 2018, there were 1,671,872 shares available for grant as stock options, restricted stock
+
+and other equity-based awards under the Plan. During fiscal 2018, options to purchase 65,000 shares were granted with an exercise
+
+price of $17.80 and options to purchase 40,000 shares were exercised at an exercise price of $14.24 per share for total proceeds
+
+of $569,600. In addition, during fiscal 2018, 12,500 shares of restricted common stock were granted with a fair value on the grant
+
+date of $16.47 per share. In addition, during fiscal 2018, 3,670 unrestricted shares of common stock were granted with a weighted
+
+average fair value on the grant date of $16.10 per share. See Note 9 in the Notes to the Consolidated Financial Statements included
+
+in this Form 10-K for a description of the plan. See Item 12 – Security Ownership of Certain Beneficial Owners and Management
+
+and Related Stockholder Matters for a table of beneficial ownership of our common stock.
+
+The
+
+following table summarizes information, as of September 30, 2018, relating to our equity compensation plan (including individual
+
+compensation arrangements) pursuant to which our equity securities are authorized for issuance:
+
+Comparative
+
+Stock Performance
+
+The
+
+following line graph compares the total return of our common stock for the last five fiscal years to the FTSE NAREIT Composite
+
+Index (US), published by the National Association of Real Estate Investment Trusts (NAREIT), and the S&P 500 Index for the
+
+same period. The graph assumes a $100 investment in our common stock and in each of the indexes listed below on September 30,
+
+2013 and the reinvestment of all dividends. The total return reflects stock price appreciation and dividend reinvestment for all
+
+three comparative indices. The information has been obtained from sources believed to be reliable, but neither its accuracy nor
+
+its completeness is guaranteed. Our stock performance shown in the graph below is not indicative of future stock performance.
+
+ITEM
+
+6 – SELECTED FINANCIAL DATA
+
+The
+
+following table sets forth selected financial and other information on us for the periods and as of the dates indicated. This
+
+table should be read in conjunction with management’s discussion and analysis of financial condition and results of operations
+
+and all of the financial statements and notes thereto included elsewhere herein.
+
+*
+
+We assess and measure our overall operating results based upon an industry performance measure referred to as Funds From Operations
+
+(FFO), which we believe is a useful indicator of our operating performance. FFO is used by industry analysts and investors as
+
+a supplemental operating performance measure of a REIT. FFO, as defined by the National Association of Real Estate Investment
+
+Trusts (NAREIT), represents net income attributable to common shareholders, as defined by accounting principles generally accepted
+
+in the United States of America (U.S. GAAP), excluding extraordinary items, as defined under U.S. GAAP, gains or losses from sales
+
+of previously depreciated real estate assets, impairment charges related to depreciable real estate assets, plus certain non-cash
+
+items such as real estate asset depreciation and amortization. FFO includes gains and losses realized on sale of securities investments.
+
+NAREIT created FFO as a non-GAAP supplemental measure of REIT operating performance. We define Core Funds From Operations (Core
+
+FFO) as FFO, plus acquisition costs and costs associated with the Redemption of Preferred Stock. We define Adjusted Funds From
+
+Operations (AFFO) as Core FFO, excluding stock based compensation expense, depreciation of corporate office tenant improvements,
+
+amortization of deferred financing costs, lease termination income, net gain or loss on sale of securities transactions, effect
+
+of non-cash U.S. GAAP straight-line rent adjustments, non-recurring other expenses and subtracting recurring capital expenditures.
+
+We define recurring capital expenditures as all capital expenditures that are recurring in nature, excluding capital expenditures
+
+related to expansions at our current locations or capital expenditures that are incurred in conjunction with obtaining a new lease
+
+or a lease renewal. We believe that, as widely recognized measures of performance used by other REITs, FFO, Core FFO and AFFO
+
+may be considered by investors as supplemental measures to compare our operating performance to those of other REITs. FFO, Core
+
+FFO and AFFO exclude historical cost depreciation as an expense and may facilitate the comparison of REITs which have a different
+
+cost basis. However, other REITs may use different methodologies to calculate FFO, Core FFO and AFFO and, accordingly, our FFO,
+
+Core FFO and AFFO may not be comparable to all other REITs. The items excluded from FFO, Core FFO and AFFO are significant components
+
+in understanding our financial performance.
+
+FFO,
+
+Core FFO and AFFO are non-GAAP performance measures and (i) do not represent Cash Flow from Operations as defined by U.S. GAAP;
+
+(ii) should not be considered as an alternative to Net Income or Net Income Attributable to Common Shareholders as a measure of
+
+operating performance or to Cash Flows from Operating, Investing and Financing Activities; and (iii) are not an alternative to
+
+Cash Flows from Operating, Investing and Financing Activities as a measure of liquidity. FFO, Core FFO and AFFO, as calculated
+
+by us, may not be comparable to similarly titled measures reported by other REITs.
+
+The
+
+following is a reconciliation of our U.S. GAAP Net Income to our FFO, Core FFO and AFFO for the fiscal years ended September 30th
+
+:
+
+ITEM
+
+7 - MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION
+
+Cautionary
+
+Statement Regarding Forward-Looking Statements
+
+Statements
+
+contained in this Form 10-K that are not historical facts are forward-looking statements within the meaning of Section 27A of
+
+the Securities Act of 1933, as amended (Securities Act), and Section 21E of the Securities Exchange Act of 1934, as amended (Exchange
+
+Act). Forward-looking statements provide our current expectations or forecasts of future events. In particular, statements relating
+
+to our liquidity and capital resources, portfolio performance and results of operations contain forward-looking statements. Furthermore,
+
+all of the statements regarding future financial performance are forward-looking statements. We are including this cautionary
+
+statement to make applicable and take advantage of the safe harbor provisions of the Securities Act and Exchange Act for any such
+
+forward-looking statements. We caution investors that any forward-looking statements presented in this Form 10-K are based on
+
+management’s belief and assumptions made by, and information currently available to, management. Forward-looking statements
+
+can be identified by their use of forward-looking words, such as “may,” “will,” “anticipate,”
+
+“expect,” “believe,” “intend,” “plan,” “should,” “seek”
+
+or comparable terms, or the negative use of those words, but the absence of these words does not necessarily mean that a statement
+
+is not forward-looking. Forward-looking statements include statements about our expectations, beliefs, intentions, plans, objectives,
+
+goals, strategies, future events, performance and underlying assumptions and other statements that are not historical facts.
+
+The
+
+forward-looking statements are based on our beliefs, assumptions and expectations of our future performance, taking into account
+
+all information currently available to us. Forward-looking statements are not predictions of future events. These beliefs, assumptions
+
+and expectations can change as a result of many possible events or factors, not all of which are known to us. Some of these factors
+
+are described below and under the headings “Business”, “Risk Factors” and “Management’s Discussion
+
+and Analysis of Financial Condition and Results of Operations”. These and other risks, uncertainties and factors could cause
+
+our actual results to differ materially from those included in any forward-looking statements we make. Any forward-looking statement
+
+speaks only as of the date on which it is made. New risks and uncertainties arise over time, and it is not possible for us to
+
+predict those events or how they may affect us. Except as required by law, we are not obligated to, and we do not intend to, update
+
+or revise any forward-looking statements, whether as a result of new information, future events or otherwise. Important factors
+
+that could cause actual results to differ materially from our expectations include, among others:
+
+You
+
+should not place undue reliance on these forward-looking statements, as events described or implied in such statements may not
+
+occur. We undertake no obligation to update or revise any forward-looking statements as a result of new information, future events
+
+or otherwise.
+
+The
+
+following discussion should be read in conjunction with the financial statements and notes thereto included elsewhere herein.
+
+Overview
+
+Monmouth
+
+Real Estate Investment Corporation, founded in 1968, is one of the oldest public equity REITs in the world. We are a self-administered
+
+and self-managed REIT that seeks to invest in well-located, modern, single tenant, industrial buildings, leased primarily to investment-grade
+
+tenants or their subsidiaries on long-term net leases. At September 30, 2018, we held investments in 111 properties totaling approximately
+
+21,174,000 square feet. Total real estate investments were $1,719,578,419 at September 30, 2018. These properties are located
+
+in 30 states: Alabama, Arizona, Colorado, Connecticut, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana,
+
+Maryland, Michigan, Minnesota, Mississippi, Missouri, Nebraska, New Jersey, New York, North Carolina, Ohio, Oklahoma, Pennsylvania,
+
+South Carolina, Tennessee, Texas, Virginia, Washington and Wisconsin. All of these properties are wholly-owned, with the exception
+
+of an industrial property in New Jersey, in which we own a 51% controlling equity interest, and a shopping center in New Jersey,
+
+in which we own a 67% controlling equity interest.
+
+Our
+
+weighted-average lease expiration was 8.1 years and 7.9 years as of September 30, 2018 and 2017, respectively, and our average
+
+annualized rent per occupied square foot as of September 30, 2018 and 2017 was $6.01 and $5.93, respectively. At September 30,
+
+2018 and 2017, our occupancy was 99.6% and 99.3%, respectively.
+
+We
+
+have a concentration of properties leased to FedEx Corporation (FDX). As of September 30, 2018, we had approximately 21,174,000
+
+square feet of property, of which approximately 10,083,000 square feet, or 48%, consisting of 60 separate stand-alone leases,
+
+were leased to FDX and its subsidiaries (7% to FDX and 41% to FDX subsidiaries). These properties are located in 24 different
+
+states. As of September 30, 2018, the 60 separate stand-alone leases that are leased to FDX and FDX subsidiaries had a weighted
+
+average lease maturity of 9.4 years. The percentage of rental and reimbursement revenue from FDX and its subsidiaries was 58%
+
+for the year ended September 30, 2018, consisting of 7% leased to FDX and 51% leased to FDX subsidiaries. No other tenant accounted
+
+for 5% or more of our total Rental and Reimbursement revenue for fiscal 2018.
+
+In
+
+addition to real estate property holdings, we held $154,920,545 in marketable REIT securities at September 30, 2018, representing
+
+8.0% of our undepreciated assets (which is our total assets excluding accumulated depreciation). These liquid real estate holdings
+
+are not included in calculating the tenant concentration ratios above and therefore further increase our diversification. The
+
+securities portfolio provides us with additional diversification, liquidity, and income, and serves as a proxy for real estate
+
+when more favorable risk adjusted returns are not available.
+
+Our
+
+revenue primarily consists of rental and reimbursement revenue from the ownership of industrial rental property. Rental and Reimbursement
+
+Revenue increased $22,776,544, or 20%, for the year ended September 30, 2018, as compared to the year ended September 30, 2017.
+
+Total expenses (excluding other income and expense) increased $12,131,346, or 20%, for the year ended September 30, 2018 as compared
+
+to the year ended September 30, 2017. The increases were due mainly to the revenue and expenses relating to the property acquisitions
+
+made during fiscal 2018 and 2017.
+
+Our
+
+Net Income Attributable to Common Shareholders increased $15,873,110, or 69%, for the fiscal year ended September 30, 2018 as
+
+compared to the fiscal year ended September 30, 2017 and increased $2,410,346, or 12%, for the fiscal year ended September 30,
+
+2017 as compared to the fiscal year ended September 30, 2016. The increases were due to the purchase of additional properties
+
+in fiscal 2018 and 2017.
+
+We
+
+evaluate our financial performance using Net Operating Income (NOI) from property operations, which we believe is a useful indicator
+
+of our operating performance. NOI is a non-GAAP financial measure that we define as Net Income Attributable to Common Shareholders
+
+plus Redemption of Preferred Stock, Preferred Dividends, General and Administrative Expenses, Acquisition Costs, Depreciation,
+
+Amortization of Capitalized Lease Costs and Intangible Assets, Interest Expense, including Amortization of Financing Costs, less
+
+Dividend and Interest Income, Gain on Sale of Securities Transactions, Gain on Sale of Real Estate Investments and Lease Termination
+
+Income. The components of NOI are recurring Rental and Reimbursement Revenue, less Real Estate Taxes and Operating Expenses, such
+
+as insurance, utilities, and repairs and maintenance. Other REITs may use different methodologies to calculate NOI and, accordingly,
+
+our NOI may not be comparable to all other REITs.
+
+The
+
+following is a reconciliation of our Net Income Attributable to Common Shareholders to our NOI for the fiscal years ended September
+
+30, 2018, 2017 and 2016:
+
+The
+
+components of our NOI for the fiscal years ended September 30, 2018, 2017 and 2016 are as follows:
+
+NOI
+
+increased $18,540,983, or 19%, for the fiscal year ended September 30, 2018, as compared to the fiscal year ended September 30,
+
+2017 and increased $16,043,939, or 20%, for the fiscal year ended September 30, 2017 as compared to the fiscal year ended September
+
+30, 2016. The increase from fiscal year 2017 to 2018 was due to the additional income related to seven industrial properties purchased
+
+during fiscal 2018 and the purchase of ten industrial properties during fiscal 2017. The increase from fiscal year 2016 to 2017
+
+was due to the additional income related to ten industrial properties purchased during fiscal 2017 and the purchase of eight industrial
+
+properties during fiscal 2016.
+
+For
+
+the fiscal years ended September 30, 2018, 2017 and 2016, gross revenue, which includes Rental Revenue, Reimbursement Revenue
+
+and Dividend and Interest Income totaled $152,282,314, $123,315,869 and $103,371,825, respectively.
+
+Subsequent
+
+to fiscal yearend, on October 19, 2018, we purchased a newly constructed 347,145 square foot industrial building, situated on
+
+62.0 acres, located in Trenton, NJ. The building is 100% net-leased to FedEx Ground Package System, Inc. for 15 years through
+
+June 2032. The purchase price was $85,248,352. We obtained a 15 year, fully-amortizing mortgage loan of $55,000,000 at a fixed
+
+interest rate of 4.13%. Annual rental revenue over the remaining term of the lease averages approximately $5,328,000.
+
+The
+
+industrial property purchased thus far during fiscal 2019 increased our current total leasable square feet to approximately
+
+21,521,000.
+
+In addition to the property
+
+purchased subsequent to our fiscal yearend, as described above, we have entered into agreements to purchase two new build-to-suit,
+
+industrial buildings that are currently being developed in Georgia and North Carolina, consisting of approximately 398,000 square
+
+feet, with net-leased terms ranging from 10 to 15 years, with a weighted average lease term of 13.4 years.  The purchase
+
+price for these properties is approximately $68,747,000 and both are leased to FedEx Ground Package System, Inc.  Subject
+
+to satisfactory due diligence and other customary closing conditions and requirements, we anticipate closing these transactions
+
+during the first quarter of fiscal 2019 and fiscal 2020.  In connection with one of these properties, we have entered into
+
+a commitment to obtain a 15 year, fully-amortizing mortgage loan of $17,500,000 with a fixed interest rate of 4.40%. We
+
+may make additional acquisitions in fiscal 2019 and fiscal 2020, and the funds for these acquisitions may come from funds generated
+
+from operations, mortgages, draws on our unsecured line of credit facility, cash on hand, sale of marketable securities, other
+
+bank borrowings, proceeds from the DRIP, proceeds from the Preferred Stock ATM Program, and proceeds from private placements and
+
+public offerings of additional common or preferred stock or other securities. To the extent that funds or appropriate properties
+
+are not available, fewer acquisitions will be made.
+
+During
+
+the three fiscal years ended September 30, 2018, 2017 and 2016, we completed a total of seven property expansions, consisting
+
+of three building expansions and four parking lot expansions. Three of the four parking lot expansions included the purchase of
+
+additional land. The three building expansions resulted in approximately 312,000 additional square feet. Total costs for all seven
+
+property expansions were approximately $22,189,000 and resulted in total increased annual rent of approximately $2,090,000. Six
+
+completed expansions resulted in new ten year lease extensions for the expanded properties and one completed expansion resulted
+
+in a new twelve year lease extension. The weighted average lease extension for these seven property expansions is 10.9 years.
+
+Revenues
+
+also include Dividend and Interest Income and Gain on Sale of Securities Transactions. We hold a portfolio of marketable securities
+
+of other REITs with a fair value of $154,920,545 as of September 30, 2018, representing 8.0% of our undepreciated assets (which
+
+is our total assets excluding accumulated depreciation). We limit our marketable securities investments to no more than approximately
+
+10% of our undepreciated assets. We invest in REIT securities and, from time to time, may use margin debt when an adequate yield
+
+spread can be obtained. As of September 30, 2018 and 2017, there was $26,608,676 and $10,091,417 outstanding on the margin loan,
+
+respectively. Subsequent to fiscal yearend, on October 9, 2018, we paid off the margin loan. The REIT securities portfolio provides
+
+us with additional diversification, liquidity, and income, and serves as a proxy for real estate when more favorable risk adjusted
+
+returns are not available. As of September 30, 2018, our portfolio consisted primarily of 95% REIT common stocks and 5% REIT preferred
+
+stocks, all of which are listed on a national securities exchange. Our weighted-average yield on the securities portfolio for
+
+fiscal 2018 was approximately 9.5%. Dividend and Interest Income for fiscal 2018 was $13,120,465 compared to $6,930,564 for fiscal
+
+2017. During fiscal 2018, we realized $111,387 in gains on sale of securities transactions. We have unrealized losses of $24,744,579
+
+in our REIT securities portfolio as of September 30, 2018. The dividends received from our securities investments continue to
+
+meet our expectations. We intend to hold these securities for investment on a long-term basis.
+
+We
+
+had $9,324,585 in Cash and Cash Equivalents and $154,920,545 in REIT securities as of September 30, 2018. We believe that funds
+
+generated from operations, mortgages, draws on our unsecured line of credit facility, cash on hand, sale of marketable securities,
+
+other bank borrowings, proceeds from the DRIP, proceeds from the Preferred Stock ATM Program, and proceeds from private placements
+
+and public offerings of additional common or preferred stock or other securities, will provide sufficient funds to adequately
+
+meet our obligations over the next several years.
+
+We
+
+have a DRIP, in which participants can purchase our stock at a price that is approximately 95% of market value. Amounts received
+
+in connection with the DRIP (including dividend reinvestments of $12,928,356, $10,125,894 and $8,369,146 for fiscal years ended
+
+2018, 2017 and 2016, respectively) were $90,028,789, $91,931,831 and $72,175,797 for fiscal years ended 2018, 2017 and 2016, respectively.
+
+On
+
+June 29, 2017, we entered into a Preferred Stock At-The-Market Sales Agreement Program with B. Riley FBR, Inc., or B. Riley (formerly
+
+FBR Capital Markets & Co.), that provided for the offer and sale of shares of our 6.125% Series C Cumulative Redeemable Preferred
+
+Stock, $0.01 par value per share, with a liquidation preference of $25.00 per share, or our 6.125% Series C preferred stock, having
+
+an aggregate sales price of up to $100,000,000. On August 2, 2018, we replaced this program with a new Preferred Stock At-The-Market
+
+Sales Agreement Program (Preferred Stock ATM Program) with B. Riley that provides for the offer and sale from time to time of
+
+$125,000,000 of our 6.125% Series C preferred stock. We began selling shares through these programs on July 3, 2017. Since inception
+
+through September 30, 2018, we sold 3,088,001 shares under these programs at a weighted average price of $25.06 per share, and
+
+generated net proceeds, after offering expenses, of approximately $75,828,000, of which 1,648,556 shares were sold during the
+
+fiscal year ended 2018 at a weighted average price of $24.84 per share, and generated net proceeds, after offering expenses, of
+
+approximately $40,094,000. As of September 30, 2018, there is approximately $119,096,000 remaining that may be sold under the
+
+Preferred Stock ATM Program.
+
+As
+
+of September 30, 2018, 11,488,001 shares of our 6.125% Series C Preferred Stock were issued and outstanding.
+
+Subsequent
+
+to fiscal yearend, in October 2018, we completed a public offering of 9,200,000 shares of our Common Stock (including the underwriters’
+
+option to purchase 1,200,000 additional shares) at a price of $15.00 per share, before underwriting discounts. We received net
+
+proceeds from the offering, after deducting underwriting discounts and all other transaction costs, of approximately $132,339,000.
+
+Industrial
+
+space demand is very closely correlated to Gross Domestic Product (GDP) growth. Despite nine years of unprecedented monetary stimulus,
+
+real annual GDP growth averaged less than 2.0% over this period. Economic growth has been strong this past year further increasing
+
+demand for industrial space. The most significant demand driver for modern industrial real estate continues to be ecommerce. Every
+
+year since the turn of the century, the percentage of goods purchased on-line has increased at an average 16% annual growth rate.
+
+Today, excluding food, fuel, and autos, approximately 19% of total retail sales have migrated from traditional store sales to
+
+on-line sales and we expect this growth in market share to continue. We expect these favorable trends for the industrial real
+
+estate sector to be a leading demand driver for the foreseeable future, as consumers continue to embrace the added efficiencies
+
+of on-line consumption. The strong financial position of our tenants, together with the long duration of our leases, provides
+
+for high quality, reliable income streams throughout the business cycle.
+
+We
+
+intend to continue to increase our real estate investments in fiscal 2019 and 2020 through acquisitions and expansions of our
+
+properties. The growth of the real estate portfolio depends on the availability of suitable properties which meet our investment
+
+criteria and appropriate financing. Competition in the market areas in which we operate is significant and affects acquisitions,
+
+occupancy levels, rental rates and operating expenses of certain properties.
+
+See
+
+PART I, Item 1 – Business and Item 1A – Risk Factors for a more complete discussion of the economic and industry-wide
+
+factors relevant to us and the opportunities and challenges, and risks on which we are focused.
+
+Significant
+
+Accounting Policies and Estimates
+
+The
+
+discussion and analysis of our financial condition and results of operation are based upon our consolidated financial statements,
+
+which have been prepared in accordance with U.S. GAAP. The preparation of these consolidated financial statements requires us
+
+to make estimates and judgments that affect the reported amounts of assets and liabilities, revenues and expenses, and related
+
+disclosure of contingent assets and liabilities at the date of our consolidated financial statements. Actual results may differ
+
+from these estimates under different assumptions or conditions.
+
+Significant
+
+accounting policies are defined as those that involve significant judgment and potentially could result in materially different
+
+results under different assumptions and conditions. We believe the following significant accounting policies are affected by our
+
+more significant judgments and estimates used in the preparation of our consolidated financial statements. For a detailed description
+
+of these and other accounting policies, see Note 1 in the Notes to our Consolidated Financial Statements included in this Form
+
+10-K.
+
+Real
+
+Estate Investments
+
+We
+
+apply Financial Accounting Standards Board (FASB) Accounting Standards Codification (ASC) 360-10, Property, Plant & Equipment
+
+(ASC 360-10) to measure impairment in real estate investments. Rental properties are individually evaluated for impairment when
+
+conditions exist which may indicate that it is probable that the sum of expected future cash flows (on an undiscounted basis without
+
+interest) from a rental property is less than its historical net cost basis. These expected future cash flows consider factors
+
+such as future operating income, trends and prospects as well as the effects of leasing demand, competition and other factors.
+
+Upon determination that an other than temporary impairment has occurred, rental properties are reduced to their fair value. For
+
+properties to be disposed of, an impairment loss is recognized when the fair value of the property, less the estimated cost to
+
+sell, is less than the carrying amount of the property measured at the time there is a commitment to sell the property and/or
+
+it is actively being marketed for sale. A property to be disposed of is reported at the lower of its carrying amount or its estimated
+
+fair value, less its cost to sell. Subsequent to the date that a property is held for disposition, depreciation expense is not
+
+recorded.
+
+Prior
+
+to the adoption of ASU 2017-01 on April 1, 2017, upon acquisition of a property, we allocated the purchase price of the property
+
+based upon the fair value of the assets acquired, which generally consisted of land, building and intangible assets, including
+
+above and below market leases and in-place leases. We allocated the purchase price to the fair value of the tangible assets of
+
+an acquired property generally determined by the third-party appraisal of the property obtained in conjunction with the purchase.
+
+The purchase price was further allocated to acquired above and below market leases based on the present value of the difference
+
+between prevailing market rates and the in-place lease rates over the remaining term. In addition, any remaining amounts of the
+
+purchase price were applied to in-place lease values based on our evaluation of the specific characteristics of each tenant’s
+
+lease. In-place leases that may have a customer relationship intangible value, including (but not limited to) the nature and extent
+
+of the existing relationship with the tenant, the tenant’s credit quality and expectations of lease renewals were also considered.
+
+Acquired above and below market leases were amortized to rental revenue over the remaining non-cancelable terms of the respective
+
+leases. The value of in-place lease intangibles was amortized to amortization expense over the remaining lease term. If a tenant
+
+terminated its lease early, the unamortized portion of the tenant improvements, leasing commissions, deferred rent, and the in-place
+
+lease value was charged to expense when there was a signed termination agreement, all of the conditions of the termination agreement
+
+were met, the tenant is no longer occupying the property and the termination consideration, if any, is probable of collection.
+
+As
+
+a result of the adoption of Accounting Standards Update (ASU) 2017-01, effective April 1, 2017, we no longer account for our property
+
+acquisitions as business combinations and instead account for our property acquisitions as acquisitions of assets. In an acquisition
+
+of assets, certain acquisition costs are capitalized to real estate investments as part of the purchase price as opposed to being
+
+expensed as Acquisition Costs under the previous accounting treatment for business combinations. Therefore, as of April 1, 2017,
+
+we are no longer required to expense our Acquisition Costs. In addition, acquisitions that do not meet the definition of a business
+
+combination are accounted for as asset acquisitions whereby the consideration incurred is allocated to the individual assets acquired
+
+on a relative fair value basis.
+
+We
+
+conducted a comprehensive review of all real estate asset classes in accordance with ASC 360-10, which indicates that asset values
+
+should be analyzed whenever events or changes in circumstances indicate that the carrying value of a property may not be fully
+
+recoverable.
+
+The
+
+following are examples of such events or changes in circumstances that would indicate to us that there may be an impairment of
+
+a property:
+
+The
+
+process entails the analysis of property for instances where the net book value exceeds the estimated fair value. In accordance
+
+with ASC 360-10, an impairment loss shall be recognized if the carrying amount of a long-lived asset is not recoverable and exceeds
+
+its fair value. We utilize the experience and knowledge of our internal valuation team to derive certain assumptions used to determine
+
+an operating property’s cash flow. Such assumptions include re-leasing and renewal probabilities upon future lease expirations,
+
+vacancy factors, rental growth rates, and capital expenditures.
+
+As
+
+part of our review of our property portfolio, we evaluated the one industrial property that was partially vacant at September
+
+30, 2018. The discounted cash flows expected from the lease applicable to the occupied portion of the property and the discounted
+
+cash flows expected from a potential lease applicable to the vacant portion of this property exceeded its historical net cost
+
+basis. We consider, on a quarterly basis, whether the marketed rent (advertised) or the market rent has decreased or if any additional
+
+indicators are present which would indicate a significant decrease in net cash flows. We may obtain an independent appraisal to
+
+assist in evaluating a potential impairment for a property if it has been vacant for several years. We have also considered the
+
+properties which had lease renewals at rental rates lower than the previous rental rates and noted that the sum of the new discounted
+
+cash flows expected for the renewed leases exceeded these properties’ historical net cost basis.
+
+We
+
+reviewed our operating properties in light of the requirements of ASC 360-10 and determined that, as of September 30, 2018, the
+
+undiscounted cash flows over the holding period for these properties were in excess of their carrying values and, therefore, no
+
+impairment charges were required.
+
+Securities
+
+Available for Sale
+
+	Investments
+
+in non-real estate assets consist primarily of marketable securities, which we generally limit to no more than approximately 10%
+
+of our undepreciated assets (which is our total assets excluding accumulated depreciation). We individually review and evaluate
+
+our marketable securities for impairment on a quarterly basis, or when events or circumstances occur. We consider, among other
+
+things, credit aspects of the issuer, amount of decline in fair value over cost and length of time in a continuous loss position.
+
+If a decline in fair value is determined to be other than temporary, a non-cash impairment charge is recognized in earnings and
+
+the cost basis of the individual security is written down to fair value as the new cost basis.	
+
+We
+
+classify our securities among three categories: held-to-maturity, trading, and available-for-sale. Our securities at September
+
+30, 2018 and 2017 are all classified as available-for-sale and are carried at fair value based on quoted market prices. Gains
+
+or losses on the sale of securities are calculated based on the average cost method and are accounted for on a trade date basis.
+
+Net unrealized holding gains and losses are excluded from earnings and reported as a separate component of Shareholders’
+
+Equity until realized. The change in net unrealized holding gains (losses) is reflected as comprehensive income (loss).
+
+In
+
+January 2016, the FASB issued ASU 2016-01, “Financial Instruments – Overall: Recognition and Measurement of Financial
+
+Assets and Financial Liabilities”. ASU 2016-01 requires equity investments (except those accounted for under the equity
+
+method of accounting, or those that result in consolidation of the investee) to be measured at fair value with changes in fair
+
+value recognized in net income, requires public business entities to use the exit price notion when measuring the fair value of
+
+financial instruments for disclosure purposes, requires separate presentation of financial assets and financial liabilities by
+
+measurement category and form of financial asset, and eliminates the requirement for public business entities to disclose the
+
+method(s) and significant assumptions used to estimate the fair value that is required to be disclosed for financial instruments
+
+measured at amortized cost. These changes became effective for our fiscal year beginning October 1, 2018. The most significant
+
+change for us, once ASU 2016-01 was adopted, was the accounting treatment for our investments in marketable securities that are
+
+classified as available for sale. The accounting treatment used for our Consolidated Financial Statements through Fiscal 2018,
+
+was that our investments in marketable securities, classified as available for sale, were carried at fair value, with net unrealized
+
+holding gains and losses being excluded from earnings and reported as a separate component of Shareholders’ Equity until
+
+realized and the change in net unrealized holding gains and losses being reflected as comprehensive income (loss). Under ASU 2016-01,
+
+effective October 1, 2018, these marketable securities continue to be measured at fair value, however the changes in net unrealized
+
+holding gains and losses are now recognized through net income. Subsequent to the fiscal yearend, on October 1, 2018, unrealized
+
+net holding losses of $24,744,579 were reclassed to beginning retained earnings to recognize the unrealized losses previously
+
+recorded in “accumulated other comprehensive income” on our consolidated balance sheets.
+
+Revenue
+
+Recognition and Estimates
+
+Rental
+
+revenue from tenants with leases having scheduled rental increases are recognized on a straight-line basis over the term of the
+
+lease. Tenant recoveries related to the reimbursement of real estate taxes, insurance, repairs and maintenance, and other operating
+
+expenses are recognized as revenue in the period the expenses are incurred. The reimbursements are recognized and presented gross,
+
+as we are generally, the primary obligor and, with respect to purchasing goods and services from third-party suppliers, has discretion
+
+in selecting the supplier and bears the associated credit risk. These occupancy charges are recognized as earned. In addition,
+
+an estimate is made with respect to whether a provision for allowance for doubtful tenant and other receivables is necessary.
+
+The allowance for doubtful accounts reflects management’s estimate of the amounts of the recorded tenant and other receivables
+
+at the balance sheet date that will not be realized from cash receipts in subsequent periods. If cash receipts in subsequent periods
+
+vary from our estimates, or if our tenants’ financial condition deteriorates as a result of operating difficulties, additional
+
+changes to the allowance may be required. We did not have an allowance for doubtful accounts as of September 30, 2018 or 2017.
+
+Lease
+
+Termination Income
+
+Lease
+
+Termination Income is recognized in operating revenues when there is a signed termination agreement, all of the conditions of
+
+the agreement have been met, the tenant is no longer occupying the property and the termination consideration is probable of collection.
+
+Lease termination amounts are paid by tenants who want to terminate their lease obligations before the end of the contractual
+
+term of the lease agreement with us.
+
+Two
+
+leases were set to expire during fiscal 2018 with Kellogg Sales Company (Kellogg) for our 65,067 square foot facility located
+
+in Kansas City, MO through July 31, 2018 and our 50,400 square foot facility located in Orangeburg, NY through February 28, 2018.
+
+Kellogg informed us that they would not be renewing these leases. On December 18, 2017, we sold our property, located in Kansas
+
+City, MO for $4,900,000, with net sale proceeds of approximately $4,602,000 and on December 22, 2017, we sold our property, located
+
+in Orangeburg, NY for $6,170,000, with net sale proceeds of approximately $5,898,000. The sale of these two properties resulted
+
+in a realized gain of approximately $5,388,000, representing a 105% gain over the depreciated U.S. GAAP basis and a realized net
+
+gain of approximately $1,804,000, representing a 21% net gain over our historic undepreciated cost basis. In conjunction with
+
+the sale of these two properties, we simultaneously entered into a lease termination agreement for each property whereby we received
+
+a termination fee from Kellogg totaling approximately $210,000 which represents a weighted average of 80% of the then remaining
+
+rent due under each respective lease.
+
+Only
+
+four of our 111 properties have leases that contain an early termination provision. These four properties contain approximately
+
+184,000 total rentable square feet, representing less than 1% of our total rentable square feet. Our leases with early termination
+Question: How do taxes work on the money given out by a Real Estate Investment Trust as dividends?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

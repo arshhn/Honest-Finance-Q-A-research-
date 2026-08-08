@@ -1,0 +1,1665 @@
+You are sitting an exam made of 2 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-147-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: d669461d10k.htm
+
+  UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549  
+
+  FORM 10-K  
+
+ For the Fiscal Year Ended December 31, 2018 
+
+or  
+
+ For the Transition Period from
+
+                     to
+
+Commission File Number 1-5581 
+
+ WATSCO, INC. 
+
+(Exact name of registrant as specified in its charter)  
+
+ 2665 South Bayshore Drive, Suite 901 
+
+Miami, FL 33133 (Address
+
+of principal executive offices, including zip code) (305) 714-4100 
+
+(Registrants telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+ Securities registered pursuant to section 12(g) of the Act: None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+
+Act.    YES      NO   Indicate by check mark if the registrant is not required
+
+to file reports pursuant to Section 13 or Section 15(d) of the Act.    YES      NO   
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities and Exchange
+
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90
+
+days.    YES      NO   Indicate by check mark whether the registrant has
+
+submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period
+
+that the registrant was required to submit such files).    YES      NO   
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405
+
+of this chapter) is not contained herein, and will not be contained, to the best of registrants knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form
+
+10-K or any amendment to this Form 10-K.   Indicate by
+
+check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large
+
+accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+
+Act).    YES      NO   The aggregate market value of the registrants
+
+voting common equity held by non-affiliates of the registrant as of June 29, 2018, the last business day of the registrants most recently completed second fiscal quarter, was approximately
+
+$5,768 million, based on the closing sale price of the registrants common stock on that date. For purposes of determining this number, all named executive officers and directors of the registrant as of June 29, 2018 were considered
+
+affiliates of the registrant. This number is provided only for the purposes of this Annual Report on Form 10-K and does not represent an admission by either the registrant or any such person as to the
+
+affiliate status of such person. The registrants common stock outstanding as of February 25, 2019 comprised (i) 32,137,525 shares of Common
+
+stock, excluding 4,823,988 treasury shares, and (ii) 5,397,345 shares of Class B common stock, excluding 48,263 treasury shares. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Certain information required by Parts I and II is incorporated by reference from the registrants 2018 Annual Report, attached hereto as Exhibit 13. The
+
+information required by Part III (Items 10, 11, 12, 13 and 14) is incorporated herein by reference from the registrants definitive proxy statement for the 2019 annual meeting of shareholders (to be filed pursuant to Regulation 14A). 
+
+WATSCO, INC. AND SUBSIDIARIES 
+
+Form 10-K 
+
+For the Fiscal Year Ended December 31, 2018 
+
+INDEX  
+
+  2 
+
+PART I 
+
+Forward-Looking Statements This Annual Report on Form
+
+10-K contains or incorporates by reference statements that are not historical in nature and that are intended to be, and are hereby identified as, forward-looking statements as defined in the
+
+Private Securities Litigation Reform Act of 1995. Statements which are not historical in nature, including the words anticipate, estimate, could, should, may, plan,
+
+seek, expect, believe, intend, target, will, project, focused, outlook, goal, designed, and variations of these words
+
+and negatives thereof and similar expressions are intended to identify forward-looking statements, including statements regarding, among others, (i) economic conditions, (ii) business and acquisition strategies, (iii) potential
+
+acquisitions and/or joint ventures and investments in unconsolidated entities, (iv) financing plans, and (v) industry, demographic, and other trends affecting our financial condition or results of operations. These forward-looking
+
+statements are based on managements current expectations, are not guarantees of future performance and are subject to a number of risks, uncertainties, and changes in circumstances, certain of which are beyond our control. Actual results could
+
+differ materially from these forward-looking statements as a result of several factors, including, but not limited to:  
+
+We believe these forward-looking statements are reasonable; however, you should not place undue reliance on any forward-looking statements, which are based
+
+on current expectations. For additional information regarding other important factors that may affect our operations and could cause actual results to vary materially from those anticipated in the forward-looking statements, please see the
+
+discussion included in Item 1A Risk Factors of this Annual Report on Form 10-K, as well as the other documents and reports that we file with the SEC. Forward-looking statements speak only as of the
+
+date the statements were made. We assume no obligation to update forward-looking information or the discussion of such risks and uncertainties to reflect actual results, changes in assumptions, or changes in other factors affecting forward-looking
+
+information, except as required by applicable law. We qualify any and all of our forward-looking statements by these cautionary factors.  
+
+General Watsco, Inc. and its subsidiaries (collectively,
+
+Watsco, or we, us, or our) was incorporated in Florida in 1956 and is the largest distributor of air conditioning, heating and refrigeration equipment and related parts and supplies
+
+(HVAC/R) in the HVAC/R distribution industry in North America. At December 31, 2018, we operated from 571 locations in 37 U.S. States, Canada, Mexico and Puerto Rico with additional market coverage on an export basis to portions of
+
+Latin America and the Caribbean, through which we serve approximately 90,000 active contractors and dealers that service the replacement and 
+
+  3 
+
+new construction markets. Our revenues in HVAC/R distribution have increased from $64.1 million in 1989 to $4.5 billion in 2018, resulting from our strategic acquisition of companies
+
+with established market positions and subsequent building of revenues and profit through a combination of additional locations, introduction of new products, and other initiatives. 
+
+Our principal executive office is located at 2665 South Bayshore Drive, Suite 901, Miami, Florida 33133, and our telephone number is (305) 714-4100. Our website address on the Internet is www.watsco.com and e-mails may be sent to info@watsco.com. Our website address is included in this report only as
+
+an inactive textual reference. Information contained on, or available through, our website is not incorporated by reference in, or made a part of, this report. 
+
+Air Conditioning, Heating and Refrigeration Industry The
+
+HVAC/R distribution industry is highly fragmented with approximately 2,100 distribution companies. The industry in the United States and Canada is well-established, having had its primary period of growth during the post-World War II era with the
+
+advent of affordable central air conditioning and heating systems for both residential and commercial applications. The advent of HVAC/R products in Latin America and the Caribbean is also well-established, but has emerged in more recent years as
+
+those economies have grown and products have become more affordable and have matured from luxury to necessity. Based on data published in the 2019 IBIS
+
+World Industry Report for Heating and Air Conditioning Contractors in the U.S. and other available data, we estimate that the annual market on an installed basis for residential central air conditioning, heating, and refrigeration equipment, and
+
+related parts and supplies is approximately $96.0 billion. Air conditioning and heating equipment is manufactured primarily by seven major companies that together account for approximately 90% of all units shipped in the United States each
+
+year. These companies are: Carrier Corporation (Carrier), a subsidiary of United Technologies Corporation (UTC); Goodman Manufacturing Company, L.P. (Goodman), a subsidiary of Daikin Industries, Ltd.; Rheem
+
+Manufacturing Company (Rheem); Trane Inc. (Trane), a subsidiary of Ingersoll-Rand Company Limited; York International Corporation, a subsidiary of Johnson Controls, Inc.; Lennox International, Inc.; and Nordyne Corporation
+
+(Nordyne), a subsidiary of Nortek Corporation. These manufacturers distribute their products through a combination of factory-owned locations and independent distributors who, in turn, supply the equipment and related parts and supplies
+
+to contractors and dealers that sell to and install the products for consumers, businesses, and other end-users. 
+
+Air conditioning and heating equipment is sold to the replacement and new construction markets for both residential and commercial applications. The
+
+residential replacement market has increased in size and importance over the past several years as a result of the aging of the installed base of residential central air conditioners and furnaces, the introduction of new higher energy efficient
+
+models to address both regulatory mandates as well as consumer optionality, the remodeling and expansion of existing homes, the addition of central air conditioning to homes that previously had only heating products, and consumers overall
+
+unwillingness to live without air conditioning or heating products. The mechanical life of central air conditioning and furnaces varies by geographical region due to usage and ranges from approximately 8 to 20 years. According to data published by
+
+the Energy Information Administration in 2018 there are approximately 91 million central air conditioning and heating systems installed in the United States that have been in service for more than 10 years. Many installed units are currently
+
+reaching the end of their useful lives, which we believe long-term provides a growing and stable replacement market. Additionally, we sell a variety of non-equipment products, representing approximately 300,000 SKUs, including parts, ductwork, air movement products, insulation, tools, installation supplies, thermostats, and air quality products. We distribute
+
+products manufactured by Honeywell International, Inc. (Honeywell), Johns Manville (Johns Manville) and Owens Corning Insulating Systems, LLC (Owens Corning), among others. 
+
+We also sell products to the refrigeration market. These products include condensing units, compressors, evaporators, valves, refrigerant, walk-in coolers, and ice machines for industrial and commercial applications. We distribute products manufactured by Copeland Compressor Corporation, a subsidiary of Emerson Electric Co. (Emerson), The
+
+Chemours Company (Chemours), Mueller Industries, Inc. (Mueller), and Welbilt, Inc. (Welbilt), among others. 
+
+Culture and Business Strategy Watsco began its HVAC/R
+
+distribution strategy in 1989 and has grown by using a buy and build philosophy, resulting in substantial long-term growth in revenues and profits. The buy component of the strategy has focused on acquiring or investing in
+
+market leaders to either expand into new geographic areas or gain additional market share in existing markets. We have employed a disciplined and conservative approach, which seeks opportunities that fit well-defined financial and strategic
+
+criteria. The build component of the strategy has focused on encouraging growth at acquired companies, by adding products and locations to better serve customers, investing in scalable technologies, and exchanging ideas and business
+
+concepts amongst leadership teams. Newly acquired businesses have access to our capital resources and established vendor relationships to provide their customers with an expanded array 
+
+  4 
+
+of product lines on favorable terms and conditions with an intensified commitment to service. We have also developed a culture whereby leaders, managers and employees are provided the opportunity
+
+to own shares of Watsco through a variety of stock-based equity plans. We believe that this culture instills a performance-driven, long-term focus on the part of our employees and aligns their interests with the interests of other Watsco
+
+shareholders. Culture of Innovation & Technology Strategy 
+
+In recent years, we have established a strong culture of innovation, whereby people, processes and technology have rapidly evolved to modernize and digitize
+
+our business. With this digital evolution in mind, our efforts have addressed how customers are served, how internal processes and practices can be improved, and how data and analytics can be created and used to enhance long-term performance.
+
+Investments include the addition of more than 200 technology employees along with investments in our locations and infrastructure to enable these technologies. 
+
+To that end, several scalable technology platforms have been launched with the largest focus on customer-obsessed technologies, which are improving and
+
+transforming the customer experience at all of our locations. Specific initiatives include: (i) mobile applications for iOS and Android devices to help customers operate more efficiently and interact with our locations more easily;
+
+(ii) e-commerce between our customers and our subsidiaries; (iii) supply chain optimization; (iv) building and maintaining the largest source of digitized HVAC/R product information; and (v) the development of business
+
+intelligence systems and related data sets, which provide enhanced management tools. In addition, through our subsidiary Watsco Ventures LLC (Watsco Ventures), we have developed (internally and through external collaboration) a variety
+
+of early-stage technologies with the goal of helping contractor customers grow and become more profitable, and otherwise compliment the initiatives set forth above. 
+
+To further extend our technology reach, in August 2018, we acquired Alert Labs Inc., a company based in Kitchener, Ontario, Canada that develops, designs and
+
+builds internet of things, or IoT, hardware and software, including cloud-based and mobile solutions aimed at protecting homes and businesses from property damage and unnecessary expenses. Alert Labs has also furthered the development of
+
+Sentree, an IoT device developed by Watsco Ventures. Sentree attaches to an existing HVAC system and, through a proprietary cloud-based software platform, remotely measures, collects and analyzes vital performance analytics. 
+
+Strategy in Existing Markets Our strategy for growth in
+
+existing markets focuses on customer service, product expansion, and the implementation of technology to satisfy the needs of the higher growth, higher margin replacement market, in which customers generally demand immediate, convenient, and
+
+reliable service. We respond to this need by (i) offering a broad range of product lines, including the necessary equipment, parts, and supplies to enable a contractor to install or repair a central air conditioner, furnace, or refrigeration
+
+system, (ii) maintaining a strong density of warehouse locations for increased customer convenience, (iii) maintaining well-stocked inventories to ensure that customer orders are filled in a timely manner, (iv) providing a high degree
+
+of technical expertise at the point of sale, (v) collaborating with customers to advertise and market their business and services in local markets, and (vi) developing and implementing technology to further enhance customer service
+
+capabilities. We believe these concepts provide a competitive advantage over smaller, less-capitalized competitors that are unable to commit resources to open and maintain additional locations, implement technological business solutions, provide the
+
+same range of products, maintain the same inventory levels, or attract the wide range of expertise that is required to support a diverse product offering. In some geographic areas, we believe we have a competitive advantage over factory-operated
+
+distribution networks, which typically do not maintain inventories of parts and supplies that are as diversified as ours and which have fewer warehouse locations than we do, making it more difficult for these competitors to meet the time-sensitive
+
+demands of the replacement market. In addition to the replacement market, we sell to the new construction market, including new homes and commercial
+
+construction. We believe our reputation for reliable, high-quality service, and relationships with contractors, who may serve both the replacement and new construction markets, allows us to compete effectively in these markets. 
+
+Performance-Based Compensation & Stock-Based Equity Plans 
+
+We maintain a culture that rewards performance through a variety of performance-based pay, commission programs, cash incentives, and stock-based equity
+
+programs. Stock-based plans include 401(k) matching contributions to eligible employees, a voluntary employee stock purchase plan, and the granting of stock options and non-vested restricted stock based on
+
+individual merit and measures of performance. Our equity compensation plans are designed to promote long-term performance, as well as to create long-term employee retention, continuity of leadership, and an ownership culture whereby management and
+
+employees think and act as owners of the Company. We believe that our restricted stock program is unique because an employees restricted share grants generally vest entirely at the end of his or her career (age 62 or later) and, prior to
+
+retirement, these grants remain subject to significant risks of forfeiture. 
+
+  5 
+
+Product Line Expansion 
+
+We actively seek new or expanded territories of distribution from our key equipment suppliers. We continually evaluate new parts and supply products to support
+
+equipment sales and further enhance service to our customers. This initiative includes increasing our product offering with existing vendors and identifying new product opportunities through traditional and
+
+non-traditional supply channels. We have also introduced private-label products as a means to obtain market share and grow revenues. We believe that our private-label branded products complement our existing
+
+product offerings at selected locations, based on customer needs and the particular market position and price of these products. Acquisition Strategy
+
+ We focus on acquiring and investing in businesses that either complement our current presence in existing markets or establish a presence in new
+
+geographic markets. Since 1989, we have acquired 60 HVAC/R distribution businesses, six of which currently operate as primary operating subsidiaries. Other smaller acquired distributors have been integrated into or are under the management of our
+
+primary operating subsidiaries. Through a combination of sales and market share growth, opening of new locations, tuck-in acquisitions, expansion of product lines, improved pricing, and programs that have
+
+resulted in higher gross profit, performance incentives, and a culture of equity value for key leadership, we have produced substantial sales and earnings growth post-acquisition. We continue to pursue additional strategic acquisitions, investments
+
+and/or joint ventures to allow further penetration in existing markets and expansion into new geographic markets. Operating Philosophy 
+
+We encourage our local leadership to operate in a manner that builds upon the long-term relationships they have established with their suppliers and customers.
+
+Typically, we maintain the identity of businesses by retaining their historical trade names, management teams and sales organizations, and continuity of their product brand-name offerings. We believe this strategy allows us to build on the value of
+
+the acquired operations by creating additional sales opportunities while providing an attractive exit strategy for the former owners of these companies. 
+
+We maintain a specialized staff at our corporate headquarters that provides functional support for our subsidiaries growth strategies in their
+
+respective markets. Such functional support staff includes specialists in finance, accounting, product procurement, information technology, treasury and working capital management, tax planning, risk management, and safety. Certain general and
+
+administrative expenses are targeted for cost savings by leveraging the overall business volume and improving operating efficiencies. DESCRIPTION OF
+
+BUSINESS Products We sell an expansive line of
+
+products and maintain a diverse mix of inventory to meet our customers immediate needs, and we seek to provide products a contractor would generally require when installing or repairing a central air conditioner, furnace, or refrigeration
+
+system on short notice. The cooling capacity of air conditioning units is measured in tons. One ton of cooling capacity is equivalent to 12,000 British Thermal Units (BTUs) and is generally adequate to air condition approximately 500
+
+square feet of residential space. The products we distribute consist of: (i) equipment, including residential ducted and ductless air conditioners ranging from 1 to 5 tons, gas, electric, and oil furnaces ranging from 50,000 to 150,000 BTUs,
+
+commercial air conditioning and heating equipment systems ranging from 1-1/2 to 25 tons, and other specialized equipment, (ii) parts, including replacement compressors, evaporator coils, motors, and other
+
+component parts and (iii) supplies, including thermostats, insulation material, refrigerants, ductwork, grills, registers, sheet metal, tools, copper tubing, concrete pads, tape, adhesives, and other ancillary supplies. 
+
+Sales of HVAC equipment, which we currently source from approximately 20 vendors, accounted for 67% of our revenues for both the years ended December 31,
+
+2018 and 2017. Sales of other HVAC products, which we currently source from approximately 1,200 vendors, comprised 29% and 28% of our revenues for the years ended December 31, 2018 and 2017, respectively. Sales of commercial refrigeration
+
+products, which we currently source from approximately 150 vendors, accounted for 4% and 5% of our revenues for the years ended December 31, 2018 and 2017, respectively. 
+
+  6 
+
+Distribution and Sales 
+
+At December 31, 2018, we operated from 571 locations, a vast majority of which are located in regions that we believe have demographic trends favorable to
+
+our business. We maintain large inventories at each of our warehouse locations and either deliver products to customers using one of our trucks or a third party logistics provider, or we make products available for
+
+pick-up at the location nearest to the customer. We have approximately 950 salespeople, averaging 10 years of experience in the HVAC/R distribution industry. 
+
+ The largest market we serve is the United States, in which the most significant markets for HVAC/R products are in the Sun
+
+Belt States. Accordingly, the majority of our distribution locations are in the Sun Belt, with the highest concentration in Florida and Texas. These markets have been a strategic focus of ours given their size, the reliance by homeowners and
+
+businesses on HVAC/R products to maintain a comfortable indoor environment, and the population growth in these areas over the last 40 years, which has led to a substantial installed base requiring replacement, a shorter useful life for equipment
+
+given the significant hours of operation, and the focus by electrical utilities on consumer incentives designed to promote replacement of HVAC/R equipment in an effort to improve energy efficiency. 
+
+  7 
+
+Markets 
+
+The table below identifies the number of our stores by location as of December 31, 2018: 
+
+ Joint Ventures with Carrier Corporation 
+
+In 2009, we formed a joint venture with Carrier, which we refer to as Carrier Enterprise I, in which Carrier contributed 95 of its company-owned locations in
+
+13 Sun Belt states and Puerto Rico, and its export division in Miami, Florida, and we contributed 15 locations that distributed Carrier products. In July 2012, we exercised our option to acquire an additional 10% ownership interest in Carrier
+
+Enterprise I, which increased our ownership interest to 70%; and, on July 1, 2014, we exercised our last remaining option to acquire an additional 10% ownership interest in Carrier Enterprise I, which increased our controlling interest to 80%.
+
+Neither we nor Carrier has any remaining options to purchase additional ownership interests in Carrier Enterprise I, or any of our other joint ventures with Carrier, which are described below. 
+
+  8 
+
+In 2011, we formed a second joint venture with Carrier and completed two additional transactions. In April
+
+2011, Carrier contributed 28 of its company-owned locations in the Northeast U.S. and we contributed 14 locations in the Northeast U.S. In July 2011, we purchased Carriers distribution operations in Mexico, which included seven locations.
+
+Collectively, the Northeast locations and the Mexico operations are referred to as Carrier Enterprise II. Following formation of this joint venture, we owned a 60% controlling interest. On November 29, 2016, we purchased an additional 10%
+
+ownership interest in Carrier Enterprise II, and, on February 13, 2017, we again purchased an additional 10% ownership interest in Carrier Enterprise II, which together increased our controlling interest to 80%. 
+
+In 2012, we formed a third joint venture, which we refer to as Carrier Enterprise III, with UTC Canada Corporation, referred to as UTC Canada, an affiliate of
+
+Carrier. Carrier contributed 35 of its company-owned locations in Canada to Carrier Enterprise III. We have a 60% controlling interest in Carrier Enterprise III, and UTC Canada has a 40% non-controlling
+
+interest. Combined, the joint ventures with Carrier represented 61% of our revenues for the year ended December 31, 2018. See Supplier
+
+Concentration in Business Risk Factors in Item 1A. The business and affairs of the joint ventures are controlled, directed, and managed
+
+exclusively by Carrier Enterprise Is, Carrier Enterprise IIs and Carrier Enterprise IIIs respective boards of directors (the Boards) pursuant to related operating agreements. The Boards have full, complete and exclusive
+
+authority, power, and discretion to manage and control the business, property, and affairs of their respective joint ventures, and to make all decisions regarding those matters and to perform activities customary or incident to the management of
+
+such joint ventures, including approval of distributions to us, Carrier and UTC Canada. Each Board is composed of five directors, of whom three directors represent our controlling interest and two directors represent Carriers non-controlling interest. Matters presented to the Boards for vote are considered approved or consented to upon the receipt of the affirmative vote of at least a majority of all directors entitled to vote with the
+
+exception of certain governance matters, which require joint approval.     Customers and Customer Service 
+
+Air conditioning and heating contractors and dealers that install HVAC/R products in homes and businesses must be licensed given the highly-regulated nature of
+
+the products, refrigerant, natural gas, and building and zoning requirements. We currently serve approximately 90,000 active contractors and dealers who service the replacement and new construction markets for residential and light commercial
+
+central air conditioning, heating, and refrigeration systems. No single customer in 2018, 2017 or 2016 represented more than 2% of our consolidated revenues. We focus on providing products where and when the customer needs them, technical support by
+
+phone or on site as required, and quick and efficient service at our locations. Increased customer convenience is also provided through mobile applications and e-commerce, which allows customers to access
+
+information online 24 hours a day, seven days a week to search for desired products, verify inventory availability, obtain pricing, place orders, check order status, schedule pickup or delivery times, and make payments. We believe we compete
+
+successfully with other distributors primarily based on an experienced sales organization, strong service support, maintenance of well-stocked inventories, density of warehouse locations, high quality reputation, broad product lines, and the ability
+
+to foresee customer demand for new products. Key Supplier Relationships 
+
+Given our leadership position, Watsco represents a strategic business relationship to many of the leading manufacturers in our industry. Significant
+
+relationships with HVAC/R equipment manufacturers include Carrier, Rheem, Goodman, Welbilt, Mitsubishi Electric Corporation, Gree Electric Appliances, Inc., Trane, Midea Group, and Nordyne. In addition, we have substantial relationships with
+
+manufacturers of non-equipment HVAC/R products, including Chemours, Emerson, Flexible Technologies, Inc., Honeywell, Johns Manville, Mueller, and Owens Corning. 
+
+We believe the diversity of products that we sell, along with the manufacturers current product offerings, quality, marketability, and brand-name
+
+recognition, allow us to operate favorably relative to our competitors. To maintain brand-name recognition, HVAC/R equipment manufacturers provide national advertising and participate with us in cooperative advertising programs and promotional
+
+incentives that are targeted to both dealers and end-users. We estimate that the replacement market for residential air conditioning equipment is approximately 85% of industry unit sales in the United States,
+
+and we expect this percentage to increase as units installed in the past 20 years wear out or otherwise become practical to replace sooner with newer, more energy-efficient models. 
+
+  9 
+
+The Companys top ten suppliers accounted for 84% of our purchases, including 62% from Carrier, and 9%
+
+from Rheem. Given the significant concentration of our suppliers, particularly with Carrier and Rheem, any significant interruption with these suppliers could temporarily disrupt the operations of certain of our subsidiaries, impact current
+
+inventory levels, and could adversely affect our financial results. If any restrictions or significant increase in tariffs under existing trade agreements are imposed on products that our top ten suppliers import or assemble products outside of the
+
+United States, particularly from Mexico and China, we could be required to raise our prices, which may result in the loss of customers and harm to our business. Future financial results are also materially dependent upon the continued market
+
+acceptance of these manufacturers respective products and their ability to continue to manufacture products that comply with laws relating to environmental and efficiency standards. However, the Company believes that alternative or substitute
+
+products would be readily available in the event of disruption of current supplier relationships given the Companys prominence in the marketplace, including the number of locations, sales personnel, support structure, marketing and sales
+
+expertise, financial position, and established market share. See Business Risk Factors in Item 1A of this Annual Report on Form 10-K for further discussion. 
+
+Distribution Agreements We maintain trade name and
+
+distribution agreements with Carrier and Rheem that provide us distribution rights on an exclusive basis in specified territories and are not subject to a stated term or expiration date. We also maintain distribution agreements with various other
+
+suppliers, either on an exclusive or non-exclusive basis, for various terms ranging from one to ten years. Certain distribution agreements for particular branded products contain provisions that restrict or
+
+limit the sale of competitive products in the locations that sell such branded products. Other than where such location-level restrictions apply, we may distribute the lines of other manufacturers air conditioning or heating equipment in other
+
+locations in the same territories. See Supplier Concentration in Business Risk Factors in Item 1A of this Annual Report on Form 10-K. Seasonality 
+
+Sales of residential central air conditioners, heating equipment, and parts and supplies are seasonal. Furthermore, profitability can be impacted favorably or
+
+unfavorably based on weather patterns, particularly during Summer and Winter selling seasons. Demand related to the residential central air conditioning replacement market is typically highest in the second and third quarters, and demand for heating
+
+equipment is usually highest in the fourth quarter. Demand related to the new construction sectors throughout most of the markets we serve tends to be fairly evenly distributed throughout the year and depends largely on housing completions and
+
+related weather and economic conditions. Competition 
+
+We operate in highly competitive environments. We compete with a number of distributors and also with several air conditioning and heating equipment
+
+manufacturers that distribute a significant portion of their products through their own distribution organizations in certain markets. Competition within any given geographic market is based upon product availability, customer service, price, and
+
+quality. Competitive pressures or other factors could cause our products or services to lose market acceptance or result in significant price erosion, all of which would have a material adverse effect on our results of operations, cash flows, and
+
+liquidity. Employees We had approximately 5,200
+
+employees as of December 31, 2018, substantially all of whom are non-union employees. Most of our employees are employed on a full-time basis and our relations with our employees are good. 
+
+Order Backlog Order backlog is not a material aspect of
+
+our business and no material portion of our business is subject to government contracts. Government Regulations, Environmental and Health and Safety
+
+Matters Our business is subject to federal, state and local laws, and regulations relating to the storage, handling, transportation, and release of
+
+hazardous materials into the environment. These laws and regulations include the Clean Air Act, relating to minimum energy efficiency standards of HVAC systems, and the production, servicing, and disposal of certain ozone-depleting refrigerants used
+
+in such systems, including those established at the Montreal Protocol in 1992 concerning the phase-out of the production of CFC-based refrigerants on January 1,
+
+2010 for use in new equipment. We are also subject to regulations concerning the transport of hazardous materials, including regulations adopted pursuant to the Motor Carrier Safety Act of 1990. Our operations are also subject to health and safety
+
+requirements including, but not limited to, the Occupational, Safety and Health Act. We believe that we operate our business in compliance with all applicable federal, state and local laws, and regulations. 
+
+  10 
+
+Our industry and business are also subject to a United States Department of Energy (DOE)
+
+mandate, effective January 1, 2015, that effected changes to the minimum required efficiency of HVAC systems. The DOE divided the United States into three regions, the North, the Southeast, and the Southwest, according to the number of hours
+
+that an air conditioner spends cooling a home during the hotter months. Prior to 2015, the national minimum standard for energy efficiency was 13 SEER (seasonal energy efficiency rating, the metric used to measure energy efficiency) for all HVAC
+
+equipment produced in the United States. Beginning in 2015, the new standard increased the minimum allowed efficiency to 14 SEER for the Southeast and Southwest regions. During 2015, we began transitioning our 13 SEER inventory in the effected
+
+regions to the higher-efficiency 14 SEER inventory, and we completed this transition in 2016 in accordance with the timeline required by the mandate. 
+
+Available Information Our website is at
+
+www.watsco.com. Our investor relations website is located at www.investors.watsco.com. We make available, free of charge, on our investor relations website under the heading SEC Filings our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports filed with or furnished to the
+
+Securities and Exchange Commission (the SEC) pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after we electronically file such material with, or furnish it to,
+
+the SEC. Our website address is included in this report only as an inactive textual reference. Information contained on, or available through, our website is not incorporated by reference in, or made a part of, this report. 
+
+Business Risk Factors Supplier Concentration 
+
+The Companys top ten suppliers accounted for 84% of our purchases during 2018, including 62% from Carrier, and 9% from Rheem. Carrier provides a diverse
+
+variety of brands of HVAC systems including, Carrier, Bryant, Payne, Tempstar, Heil, Comfortmaker and Grandaire, along with complimentary replacement parts. Rheem provides Rheem-brand HVAC systems along with complimentary replacement parts. Given
+
+the significant concentration of our supply chain, particularly with Carrier and Rheem, any significant interruption by any of the key manufacturers or a termination of a relationship could temporarily disrupt the operations of certain of our
+
+subsidiaries. Additionally, our operations are materially dependent upon the continued market acceptance and quality of these manufacturers products and their ability to continue to manufacture products that are competitive and that comply
+
+with laws relating to environmental and efficiency standards. Our inability to obtain products from one or more of these manufacturers or a decline in market acceptance of these manufacturers products could have a material adverse effect on
+
+our results of operations, cash flows, and liquidity. Many HVAC equipment and component manufacturers, including Carrier and Rheem, source component
+
+parts from China and/or assemble a significant amount of products for residential and light-commercial applications from Mexico. If any restrictions or significant increases in tariffs are imposed related to such products sourced or assembled from
+
+Mexico and China as a result of amendments to existing trade agreements, and our product costs consequently increase, we would be required to raise our prices, which may result in cost inflation, the loss of customers, and harm to our business. 
+
+We maintain trade name and distribution agreements with Carrier and Rheem that provide us distribution rights on an exclusive basis in specified territories.
+
+Such agreements are not subject to a stated term or expiration date. We also maintain other distribution agreements with various other suppliers, either
+
+on an exclusive or non-exclusive basis, for various terms ranging from one to ten years. Certain of the distribution agreements contain provisions that restrict or limit the sale of competitive products in the
+
+locations that sell such branded products. Other than where such location-level restrictions apply, we may distribute other manufacturers lines of air conditioning or heating equipment in other locations in the same territories. 
+
+On November 26, 2018, the parent company of Carrier, UTC, announced that it intends to separate into three independent companies consisting of its
+
+aerospace business, its elevator business, Otis, and Carrier. UTC indicated the proposed separation is expected to be effected through tax-free spin-offs of Otis and Carrier, subject to the completion of
+
+financing and satisfaction of customary conditions, and is expected to be completed in 2020, with separation activities occurring over 18-24 months. It is too early to determine whether the proposed spin-off of Carrier will have any impact on us and our results of operations nor can there be assurances regarding the ultimate timing of the separation or that the separation will be completed. 
+
+  11 
+
+Risks Inherent in Acquisitions 
+
+As part of our strategy, we intend to pursue additional acquisitions of complementary businesses, including through joint ventures and investments in
+
+unconsolidated entities. If we complete future acquisitions, including investments in unconsolidated entities, or enter into new joint ventures, we may be required to incur or assume additional debt and/or issue additional shares of our common stock
+
+as consideration, which will dilute our existing shareholders ownership interest and may affect our results of operations. Growth through acquisitions involves a number of risks, including, but not limited to, the following: 
+
+In addition, acquired companies and investments made in unconsolidated entities may have liabilities that we failed or were unable to discover while
+
+performing due diligence investigations. We cannot assure you that the indemnification, if any, granted to us by sellers of acquired companies or by joint venture partners will be sufficient in amount, scope, or duration to offset the possible
+
+liabilities associated with businesses or properties that we assume upon consummation of an acquisition or joint venture. Any such liabilities, individually or in the aggregate, could have a material adverse effect on our business. 
+
+Failure to successfully manage the operational challenges and risks associated with, or resulting from, acquisitions could adversely affect our results of
+
+operations, cash flows, and liquidity. Competition 
+
+We operate in highly competitive environments. We compete with other distributors and several air conditioning and heating equipment manufacturers that
+
+distribute a significant portion of their products through their own distribution organizations in certain markets. Competition within any given geographic market is based upon product availability, customer service, price, and quality. Competitive
+
+pressures or other factors could cause our products or services to lose market acceptance or result in significant price erosion, all of which would have a material adverse effect on our results of operations, cash flows, and liquidity. 
+
+Foreign Currency Exchange Rate Fluctuations The
+
+functional currency of our operations in Canada is the Canadian dollar, and the functional currency of our operations in Mexico is the U.S. dollar because the majority of our Mexican transactions are denominated in U.S. dollars. Foreign currency
+
+exchange rates and fluctuations may have an impact on transactions denominated in Canadian dollars and Mexican Pesos, and, therefore, could adversely affect our financial performance. Although we use foreign currency forward contracts to mitigate
+
+the impact of currency exchange rate movements, we do not currently hold any derivative contracts that hedge our foreign currency translational exposure. 
+
+Seasonality Sales of residential central air
+
+conditioners, heating equipment, and parts and supplies are seasonal, resulting in fluctuations in our revenue from quarter to quarter. Furthermore, profitability can be impacted favorably or unfavorably based on the severity or mildness of weather
+
+patterns during Summer or Winter selling seasons. Demand related to the residential central air conditioning replacement market is typically highest in the second and third quarters, and demand for heating equipment is usually highest in the fourth
+
+quarter. Demand related to the new construction sectors throughout most of the markets is fairly evenly distributed throughout the year and depends largely on housing completions and related weather and economic conditions. 
+
+Dependence on Key Personnel Much of our success has
+
+depended on the skills and experience of senior management personnel. The loss of any of our executive officers or other key senior management personnel could harm our business. We must continuously recruit, retain, and motivate management and other
+
+employees to both maintain our current business and to execute our strategic initiatives. Our success has also depended on the contributions and abilities of our store employees upon whom we rely to give customers a superior in-store experience. Accordingly, our performance depends on our ability to recruit and retain high quality employees to work in and manage our stores. If we are unable to adequately recruit, retain, and motivate
+
+employees our projected growth and expansion, and our business and financial performance may be adversely affected. 
+
+  12 
+
+Decline in Economic Conditions 
+
+We rely predominantly on the credit markets and, to a lesser extent, on the capital markets to meet our financial commitments and short-term liquidity needs if
+
+internal funds are not available from our operations. Access to funds under our line of credit is dependent on the ability of the syndicate banks to meet their respective funding commitments. Disruptions in the credit and capital markets could
+
+adversely affect our ability to draw on our line of credit and may also affect the determination of certain interest rates, particularly rates based on LIBOR, which is one of the base rates under our line of credit. Any disruptions in these markets
+
+could result in increased borrowing costs and/or reduced borrowing capacity under our line of credit. Any long-term disruption could require us to take measures to conserve cash until the markets stabilize, or until alternative credit arrangements
+
+or other funding for our business needs can be arranged. Such measures could include reducing or eliminating dividend payments, deferring capital expenditures, and reducing or eliminating other discretionary uses of cash. 
+
+A decline in economic conditions and lack of availability of business and consumer credit could have an adverse effect on our business and results of
+
+operations. Any capital and credit market disruption could cause broader economic downturns, which may lead to reduced demand for our products and increased incidence of customers inability to pay their accounts. Further, bankruptcies or
+
+similar events by customers may cause us to incur bad debt expense at levels higher than historically experienced. Also, our suppliers may be negatively impacted by deteriorating economic conditions, causing disruption or delay of product
+
+availability. These events would adversely impact our results of operations, cash flows, and financial position. Additionally, if the conditions of the capital and credit markets adversely affect the financial institutions that have committed to
+
+extend us credit, they may be unable to fund borrowings under such commitments, which could have an adverse impact on our financial condition, liquidity, and our ability to borrow funds for working capital, acquisitions, capital expenditures, and
+
+other corporate purposes. Cybersecurity Risks In
+
+addition to the disruptions that may occur from interruptions in our information technology systems, cybersecurity threats and sophisticated and targeted cyberattacks pose a risk to our information technology systems. We have established security
+
+policies, processes and defenses designed to help identify and protect against intentional and unintentional misappropriation or corruption of our information technology systems and information and disruption of our operations. Despite these
+
+efforts, our information technology systems may be damaged, disrupted or shut down due to attacks by unauthorized access, malicious software, computer viruses, undetected intrusion, hardware failures or other events, and in these circumstances our
+
+disaster recovery plans may be ineffective or inadequate. These breaches or intrusions could lead to business interruption, exposure of proprietary or confidential information, data corruption, damage to our reputation, exposure to legal and
+
+regulatory proceedings and other costs. Such events could have a material adverse impact on our financial condition, results of operations and cash flows. In addition, we could be adversely affected if any of our significant customers or suppliers
+
+experiences any similar events that disrupt their business operations or damage their reputation. We maintain monitoring practices and protections of our
+
+information technology to reduce these risks and test our systems on an ongoing basis for potential threats. We carry cybersecurity insurance to help mitigate the financial exposure and related notification procedures in the event of intentional
+
+intrusion. There can be no assurance, however, that our efforts will prevent the risk of a security breach of our databases or systems that could adversely affect our business. 
+
+International Political Risk Our international sales and
+
+operations, as well as sourcing of products from suppliers with international operations, are subject to various risks associated with changes in local laws, regulations and policies, including those related to tariffs, trade restrictions and trade
+
+agreements, investments, taxation, capital controls, employment regulations, different liability standards, and limitations on the repatriation of funds due to foreign currency controls. Our international sales and operations, as well as sourcing of
+
+products from suppliers with international operations are also sensitive to changes in foreign national priorities, including government budgets, as well as political and economic instability. Unfavorable changes in any of the foregoing could
+
+adversely affect our results of operations or could cause a disruption in our supply chain for products sourced internationally. Additionally, failure to comply with the United States Foreign Corrupt Practices Act could subject us to, among other
+
+things, penalties and legal expenses that could harm our reputation and have a material adverse effect on our business, financial condition and results of operations. 
+
+  13 
+
+General Risk Factors 
+
+Goodwill, Intangibles and Long-Lived Assets At
+
+December 31, 2018, goodwill, intangibles, and long-lived assets represented approximately 29% of our total assets. The recoverability of goodwill, indefinite lived intangibles, and long-lived assets is evaluated at least annually and when
+
+events or changes in circumstances indicate that the carrying amounts may not be recoverable. The identification and measurement of goodwill impairment involves the estimation of the fair value of our reporting unit and contains uncertainty because
+
+management must use judgment in determining appropriate assumptions to be used in the measurement of fair value. The estimates of fair value of our reporting unit, indefinite lived intangibles, and long-lived assets are based on the best information
+
+available as of the date of the assessment and incorporates managements assumptions about expected future cash flows and contemplates other valuation techniques. Future cash flows can be affected by changes in the industry, a declining
+
+economic environment, or market conditions. We cannot assure you that we will not suffer material impairments to goodwill, intangibles, or long-lived assets in the future. 
+
+Risks Related to Loss Contingencies We carry general
+
+liability, comprehensive property damage, workers compensation, health benefits, and other insurance coverage that management considers adequate for the protection of its assets and operations at reasonable premiums. There can be no assurance
+
+that the coverage limits and related premiums of such policies will be adequate to cover claims, losses and expenses for lawsuits which have been, or may be, brought against us. A loss in excess of insurance coverage could have a material adverse
+
+effect on our financial position and/or profitability. Certain self-insurance risks for casualty insurance programs and health benefits are retained and reserves are established based on claims filed and estimates of claims incurred but not yet
+
+reported. Assurance cannot be provided that actual claims will not exceed present estimates. Exposure to catastrophic losses has been limited by maintaining excess and aggregate liability coverage and implementing stop-loss control programs. 
+
+Risks Related to our Common Stock Class B Common
+
+Stock and Insider Ownership As of December 31, 2018, our directors and executive officers and entities affiliated with them owned (i) Common
+
+stock representing 1% of the outstanding shares of Common stock and (ii) Class B common stock representing 89% of the outstanding shares of Class B common stock. These interests represent 56% of the aggregate combined voting power
+
+(including 52% beneficially owned by Albert H. Nahmad, Chairman and Chief Executive Officer, through shares owned by him and shares held by affiliated limited partnerships and various family trusts). Accordingly, our directors and executive officers
+
+collectively have the voting power to elect six members of our nine-person Board of Directors. Our Class B common stock is substantially identical
+
+to our Common stock except: (i) Common stock is entitled to one vote on all matters submitted to a vote of our shareholders, and each share of Class B common stock is entitled to ten votes; (ii) shareholders of Common stock are
+
+entitled to elect 25% of our Board of Directors (rounded up to the nearest whole number), and Class B shareholders are entitled to elect the balance of the Board of Directors; (iii) cash dividends may be paid on Common stock without paying
+
+a cash dividend on Class B common stock, and no cash dividend may be paid on Class B common stock unless at least an equal cash dividend is paid on Common stock; and (iv) Class B common stock is convertible at any time into
+
+Common stock on a one-for-one basis at the option of the shareholder. 
+
+Future Sales In 2017, we issued and sold an aggregate of
+
+approximately $250.0 million of our Common stock under our previously reported at the market offering program. We are not restricted from issuing additional shares of our Common stock or Class B common stock (which we refer to
+
+together as common stock), including securities that are convertible into or exchangeable for, or that represent the right to receive, our common stock or any substantially similar securities in the future. We may issue shares of our common stock or
+
+other securities in one or more registered or unregistered offerings, and we may also issue our securities in connection with investments or acquisitions. The number of shares of our common stock issued in connection with any of the foregoing may
+
+result in dilution to holders of our common stock. Volatility 
+
+The market price of our common stock may be highly volatile and could be subject to wide fluctuations. Securities markets worldwide experience significant
+
+price and volume fluctuations. This market volatility, as well as general economic, market or political conditions, could reduce the market price of shares of our common stock in spite of our operating performance. The trading price of our common
+
+stock may be adversely affected due to a number of factors, most of which we cannot predict or control, such as the following: 
+
+  14 
+
+Trading Liquidity The trading market for our common
+
+stock is limited, and there can be no assurance that a more liquid trading market for our common stock will develop. There can be no assurance as to the liquidity of any market for our common stock, the ability of the holders of our common stock to
+
+sell any of their securities and the price at which the holders of our common stock will be able to sell such securities. Payment of Dividends
+
+ The amount of any future dividends that we will pay, if any, will depend upon a number of factors. Future dividends will be declared and paid at the
+
+sole discretion of the Board of Directors and will depend upon such factors as cash flow generated by operations, profitability, financial condition, cash requirements, future prospects, and other factors deemed relevant by our Board of Directors.
+
+The right of our Board of Directors to declare dividends, however, is subject to the availability of sufficient funds under Florida law to pay dividends. In addition, our ability to pay dividends depends on certain restrictions in our credit
+
+agreement. Securities Analyst Research and Reports 
+
+The trading markets for our common stock rely in part on the research and reports that industry or financial analysts publish about us or our business or
+
+industry. If one or more of the analysts who cover us downgrade our stock or our industry, or the stock of any of our competitors, or publish negative or unfavorable research about our business, the price of our stock could decline. If one or more
+
+of these analysts cease coverage of us or fail to publish reports on us regularly, we could lose visibility in the market, which in turn could cause our stock price or trading volume to decline. 
+
+None.  
+
+Our main properties include warehousing and distribution facilities, trucks, and administrative office space. 
+
+Warehousing and Distribution Facilities At
+
+December 31, 2018, we operated 571 warehousing and distribution facilities across 37 U.S. states, Canada, Mexico, and Puerto Rico, having an aggregate of approximately 12.2 million square feet of space, of which approximately
+
+12.0 million square feet is leased. The majority of these leases are for terms of three to five years. We believe that our facilities are sufficient to meet our present operating needs. 
+
+Trucks At December 31, 2018, we operated 592 ground
+
+transport vehicles, including delivery and pick-up trucks, vans, and tractors. Of this number, 382 trucks were leased and the rest were owned. We believe that the present size of our truck fleet is adequate to
+
+support our operations. Administrative Facilities 
+
+Senior management and support staff are located at various administrative offices in approximately 0.2 million square feet of space. 
+
+Information with respect to this item may be found in Note 18 to our audited consolidated financial statements contained in this Annual Report on Form 10-K under the caption Litigation, Claims and Assessments, which information is incorporated by reference in this Item 3 of Part I of this Annual Report on Form
+
+10-K. 
+
+  15 
+
+Not applicable. 
+
+PART II  
+
+ Market Information 
+
+Our Common stock is listed on the New York Stock Exchange under the ticker symbol WSO, and our Class B common stock is listed on the New York Stock
+
+Exchange under the ticker symbol WSOB. Shareholder Return Performance 
+
+The following graph compares the cumulative five-year total shareholder return attained by holders of our Common stock and Class B common stock relative
+
+to the cumulative total returns of the Russell 2000 index, the S&P MidCap 400 index, and the S&P 500 index. Given our position as the largest distributor of HVAC/R equipment, parts and supplies in North America, our unique, sole line of
+
+business, the nature of our customers (air conditioning and heating contractors), and the products and markets we serve, we cannot reasonably identify an appropriate peer group; therefore, we have included in the graph below the performance of the
+
+Russell 2000 index, the S&P MidCap 400 index, and the S&P 500 index, which contain companies with market capitalizations similar to our own. An investment of $100 (with reinvestment of all dividends) is assumed to have been made in our
+
+common stock and in each index on December 31, 2013 and its relative performance is tracked through December 31, 2018. The performance graph
+
+shall not be deemed incorporated by reference by any general statement incorporating by reference this annual report into any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to the extent we specifically
+
+incorporate this information by reference, and shall not otherwise be deemed filed under such acts. 
+
+  16 
+
+ Purchases of Equity Securities by the Issuer and Affiliated Purchasers 
+
+In September 1999, our Board of Directors authorized the repurchase, at managements discretion, of up to 7,500,000 shares of common stock in the open
+
+market or via private transactions. No shares were repurchased under this plan during 2018, 2017 or 2016. In aggregate, 6,370,913 shares of Common and Class B common stock have been repurchased at a cost of $114.4 million since the
+
+inception of this plan. At December 31, 2018, there were 1,129,087 shares remaining authorized for repurchase under this plan. Shares were last repurchased by the Company in 2008; thus, we did not otherwise repurchase any of our common stock
+
+during the quarter ended December 31, 2018.  
+
+Our 2018 Annual Report contains Selected Consolidated Financial Data, which section is incorporated herein by reference. 
+
+  17 
+
+ Our 2018 Annual Report contains Managements Discussion and Analysis of Financial Condition and Results of
+
+Operations, which section is incorporated herein by reference.  
+
+Our 2018 Annual Report contains Quantitative and Qualitative Disclosures about Market Risk, which section is incorporated herein by reference. 
+
+Our 2018 and 2017 Consolidated Balance Sheets and other consolidated financial statements for the years ended December 31, 2018, 2017 and 2016, together
+
+with the report thereon of KPMG LLP dated February 28, 2019, included in our 2018 Annual Report are incorporated herein by reference. The 2018 and
+
+2017 unaudited Selected Quarterly Financial Data appearing in our 2018 Annual Report is incorporated herein by reference.  
+
+ None.  
+
+Evaluation of Disclosure Controls and Procedures We
+
+maintain disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act)), that are, among other things, designed to ensure
+
+that information required to be disclosed by us under the Exchange Act is accumulated and communicated to management, including our Chief Executive Officer (CEO), Senior Vice President (SVP) and Chief Financial Officer
+
+(CFO), to allow for timely decisions regarding required disclosure and appropriate SEC filings. Our management, with the participation of our
+
+CEO, SVP and CFO, evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report, and, based on that evaluation, our CEO, SVP and CFO concluded that our disclosure controls and procedures
+
+were effective, at a reasonable assurance level, as of such date. Managements Report on Internal Control over Financial Reporting 
+
+Our 2018 Annual Report contains Managements Report on Internal Control over Financial Reporting and the report thereon of KPMG LLP dated
+
+February 28, 2019, and each is incorporated herein by reference. Changes in Internal Control over Financial Reporting 
+
+We are continuously seeking to improve the efficiency and effectiveness of our operations and of our internal controls. This results in refinements to
+
+processes throughout the Company. However, there were no changes in internal controls over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f)
+
+under the Exchange Act) during the quarter ended December 31, 2018, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+None. PART III
+
+ This part of Form 10-K, which includes Items 10 through 14, is omitted because we will file definitive proxy
+
+material pursuant to Regulation 14A not more than 120 days after the close of our most recently ended fiscal year, which proxy material will include the information required by Items 10 through 14 and is incorporated herein by reference. 
+
+  18 
+
+PART IV 
+
+ INDEX TO
+
+EXHIBITS  
+
+  19 
+
+  20 
+
+None. 
+
+  21 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on
+
+its behalf by the undersigned, thereunto duly authorized.  
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following
+
+persons on behalf of the registrant and in the capacities and on the dates indicated.  
+
+  22
+Question: What is the total asset value of Beacon Roofing Supply as of September 30, 2018?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fsq-147-base ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: d669461d10k.htm
+
+  UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549  
+
+  FORM 10-K  
+
+ For the Fiscal Year Ended December 31, 2018 
+
+or  
+
+ For the Transition Period from
+
+                     to
+
+Commission File Number 1-5581 
+
+ WATSCO, INC. 
+
+(Exact name of registrant as specified in its charter)  
+
+ 2665 South Bayshore Drive, Suite 901 
+
+Miami, FL 33133 (Address
+
+of principal executive offices, including zip code) (305) 714-4100 
+
+(Registrants telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+ Securities registered pursuant to section 12(g) of the Act: None 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+
+Act.    YES      NO   Indicate by check mark if the registrant is not required
+
+to file reports pursuant to Section 13 or Section 15(d) of the Act.    YES      NO   
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities and Exchange
+
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90
+
+days.    YES      NO   Indicate by check mark whether the registrant has
+
+submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period
+
+that the registrant was required to submit such files).    YES      NO   
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405
+
+of this chapter) is not contained herein, and will not be contained, to the best of registrants knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form
+
+10-K or any amendment to this Form 10-K.   Indicate by
+
+check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large
+
+accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+
+Act).    YES      NO   The aggregate market value of the registrants
+
+voting common equity held by non-affiliates of the registrant as of June 29, 2018, the last business day of the registrants most recently completed second fiscal quarter, was approximately
+
+$5,768 million, based on the closing sale price of the registrants common stock on that date. For purposes of determining this number, all named executive officers and directors of the registrant as of June 29, 2018 were considered
+
+affiliates of the registrant. This number is provided only for the purposes of this Annual Report on Form 10-K and does not represent an admission by either the registrant or any such person as to the
+
+affiliate status of such person. The registrants common stock outstanding as of February 25, 2019 comprised (i) 32,137,525 shares of Common
+
+stock, excluding 4,823,988 treasury shares, and (ii) 5,397,345 shares of Class B common stock, excluding 48,263 treasury shares. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Certain information required by Parts I and II is incorporated by reference from the registrants 2018 Annual Report, attached hereto as Exhibit 13. The
+
+information required by Part III (Items 10, 11, 12, 13 and 14) is incorporated herein by reference from the registrants definitive proxy statement for the 2019 annual meeting of shareholders (to be filed pursuant to Regulation 14A). 
+
+WATSCO, INC. AND SUBSIDIARIES 
+
+Form 10-K 
+
+For the Fiscal Year Ended December 31, 2018 
+
+INDEX  
+
+  2 
+
+PART I 
+
+Forward-Looking Statements This Annual Report on Form
+
+10-K contains or incorporates by reference statements that are not historical in nature and that are intended to be, and are hereby identified as, forward-looking statements as defined in the
+
+Private Securities Litigation Reform Act of 1995. Statements which are not historical in nature, including the words anticipate, estimate, could, should, may, plan,
+
+seek, expect, believe, intend, target, will, project, focused, outlook, goal, designed, and variations of these words
+
+and negatives thereof and similar expressions are intended to identify forward-looking statements, including statements regarding, among others, (i) economic conditions, (ii) business and acquisition strategies, (iii) potential
+
+acquisitions and/or joint ventures and investments in unconsolidated entities, (iv) financing plans, and (v) industry, demographic, and other trends affecting our financial condition or results of operations. These forward-looking
+
+statements are based on managements current expectations, are not guarantees of future performance and are subject to a number of risks, uncertainties, and changes in circumstances, certain of which are beyond our control. Actual results could
+
+differ materially from these forward-looking statements as a result of several factors, including, but not limited to:  
+
+We believe these forward-looking statements are reasonable; however, you should not place undue reliance on any forward-looking statements, which are based
+
+on current expectations. For additional information regarding other important factors that may affect our operations and could cause actual results to vary materially from those anticipated in the forward-looking statements, please see the
+
+discussion included in Item 1A Risk Factors of this Annual Report on Form 10-K, as well as the other documents and reports that we file with the SEC. Forward-looking statements speak only as of the
+
+date the statements were made. We assume no obligation to update forward-looking information or the discussion of such risks and uncertainties to reflect actual results, changes in assumptions, or changes in other factors affecting forward-looking
+
+information, except as required by applicable law. We qualify any and all of our forward-looking statements by these cautionary factors.  
+
+General Watsco, Inc. and its subsidiaries (collectively,
+
+Watsco, or we, us, or our) was incorporated in Florida in 1956 and is the largest distributor of air conditioning, heating and refrigeration equipment and related parts and supplies
+
+(HVAC/R) in the HVAC/R distribution industry in North America. At December 31, 2018, we operated from 571 locations in 37 U.S. States, Canada, Mexico and Puerto Rico with additional market coverage on an export basis to portions of
+
+Latin America and the Caribbean, through which we serve approximately 90,000 active contractors and dealers that service the replacement and 
+
+  3 
+
+new construction markets. Our revenues in HVAC/R distribution have increased from $64.1 million in 1989 to $4.5 billion in 2018, resulting from our strategic acquisition of companies
+
+with established market positions and subsequent building of revenues and profit through a combination of additional locations, introduction of new products, and other initiatives. 
+
+Our principal executive office is located at 2665 South Bayshore Drive, Suite 901, Miami, Florida 33133, and our telephone number is (305) 714-4100. Our website address on the Internet is www.watsco.com and e-mails may be sent to info@watsco.com. Our website address is included in this report only as
+
+an inactive textual reference. Information contained on, or available through, our website is not incorporated by reference in, or made a part of, this report. 
+
+Air Conditioning, Heating and Refrigeration Industry The
+
+HVAC/R distribution industry is highly fragmented with approximately 2,100 distribution companies. The industry in the United States and Canada is well-established, having had its primary period of growth during the post-World War II era with the
+
+advent of affordable central air conditioning and heating systems for both residential and commercial applications. The advent of HVAC/R products in Latin America and the Caribbean is also well-established, but has emerged in more recent years as
+
+those economies have grown and products have become more affordable and have matured from luxury to necessity. Based on data published in the 2019 IBIS
+
+World Industry Report for Heating and Air Conditioning Contractors in the U.S. and other available data, we estimate that the annual market on an installed basis for residential central air conditioning, heating, and refrigeration equipment, and
+
+related parts and supplies is approximately $96.0 billion. Air conditioning and heating equipment is manufactured primarily by seven major companies that together account for approximately 90% of all units shipped in the United States each
+
+year. These companies are: Carrier Corporation (Carrier), a subsidiary of United Technologies Corporation (UTC); Goodman Manufacturing Company, L.P. (Goodman), a subsidiary of Daikin Industries, Ltd.; Rheem
+
+Manufacturing Company (Rheem); Trane Inc. (Trane), a subsidiary of Ingersoll-Rand Company Limited; York International Corporation, a subsidiary of Johnson Controls, Inc.; Lennox International, Inc.; and Nordyne Corporation
+
+(Nordyne), a subsidiary of Nortek Corporation. These manufacturers distribute their products through a combination of factory-owned locations and independent distributors who, in turn, supply the equipment and related parts and supplies
+
+to contractors and dealers that sell to and install the products for consumers, businesses, and other end-users. 
+
+Air conditioning and heating equipment is sold to the replacement and new construction markets for both residential and commercial applications. The
+
+residential replacement market has increased in size and importance over the past several years as a result of the aging of the installed base of residential central air conditioners and furnaces, the introduction of new higher energy efficient
+
+models to address both regulatory mandates as well as consumer optionality, the remodeling and expansion of existing homes, the addition of central air conditioning to homes that previously had only heating products, and consumers overall
+
+unwillingness to live without air conditioning or heating products. The mechanical life of central air conditioning and furnaces varies by geographical region due to usage and ranges from approximately 8 to 20 years. According to data published by
+
+the Energy Information Administration in 2018 there are approximately 91 million central air conditioning and heating systems installed in the United States that have been in service for more than 10 years. Many installed units are currently
+
+reaching the end of their useful lives, which we believe long-term provides a growing and stable replacement market. Additionally, we sell a variety of non-equipment products, representing approximately 300,000 SKUs, including parts, ductwork, air movement products, insulation, tools, installation supplies, thermostats, and air quality products. We distribute
+
+products manufactured by Honeywell International, Inc. (Honeywell), Johns Manville (Johns Manville) and Owens Corning Insulating Systems, LLC (Owens Corning), among others. 
+
+We also sell products to the refrigeration market. These products include condensing units, compressors, evaporators, valves, refrigerant, walk-in coolers, and ice machines for industrial and commercial applications. We distribute products manufactured by Copeland Compressor Corporation, a subsidiary of Emerson Electric Co. (Emerson), The
+
+Chemours Company (Chemours), Mueller Industries, Inc. (Mueller), and Welbilt, Inc. (Welbilt), among others. 
+
+Culture and Business Strategy Watsco began its HVAC/R
+
+distribution strategy in 1989 and has grown by using a buy and build philosophy, resulting in substantial long-term growth in revenues and profits. The buy component of the strategy has focused on acquiring or investing in
+
+market leaders to either expand into new geographic areas or gain additional market share in existing markets. We have employed a disciplined and conservative approach, which seeks opportunities that fit well-defined financial and strategic
+
+criteria. The build component of the strategy has focused on encouraging growth at acquired companies, by adding products and locations to better serve customers, investing in scalable technologies, and exchanging ideas and business
+
+concepts amongst leadership teams. Newly acquired businesses have access to our capital resources and established vendor relationships to provide their customers with an expanded array 
+
+  4 
+
+of product lines on favorable terms and conditions with an intensified commitment to service. We have also developed a culture whereby leaders, managers and employees are provided the opportunity
+
+to own shares of Watsco through a variety of stock-based equity plans. We believe that this culture instills a performance-driven, long-term focus on the part of our employees and aligns their interests with the interests of other Watsco
+
+shareholders. Culture of Innovation & Technology Strategy 
+
+In recent years, we have established a strong culture of innovation, whereby people, processes and technology have rapidly evolved to modernize and digitize
+
+our business. With this digital evolution in mind, our efforts have addressed how customers are served, how internal processes and practices can be improved, and how data and analytics can be created and used to enhance long-term performance.
+
+Investments include the addition of more than 200 technology employees along with investments in our locations and infrastructure to enable these technologies. 
+
+To that end, several scalable technology platforms have been launched with the largest focus on customer-obsessed technologies, which are improving and
+
+transforming the customer experience at all of our locations. Specific initiatives include: (i) mobile applications for iOS and Android devices to help customers operate more efficiently and interact with our locations more easily;
+
+(ii) e-commerce between our customers and our subsidiaries; (iii) supply chain optimization; (iv) building and maintaining the largest source of digitized HVAC/R product information; and (v) the development of business
+
+intelligence systems and related data sets, which provide enhanced management tools. In addition, through our subsidiary Watsco Ventures LLC (Watsco Ventures), we have developed (internally and through external collaboration) a variety
+
+of early-stage technologies with the goal of helping contractor customers grow and become more profitable, and otherwise compliment the initiatives set forth above. 
+
+To further extend our technology reach, in August 2018, we acquired Alert Labs Inc., a company based in Kitchener, Ontario, Canada that develops, designs and
+
+builds internet of things, or IoT, hardware and software, including cloud-based and mobile solutions aimed at protecting homes and businesses from property damage and unnecessary expenses. Alert Labs has also furthered the development of
+
+Sentree, an IoT device developed by Watsco Ventures. Sentree attaches to an existing HVAC system and, through a proprietary cloud-based software platform, remotely measures, collects and analyzes vital performance analytics. 
+
+Strategy in Existing Markets Our strategy for growth in
+
+existing markets focuses on customer service, product expansion, and the implementation of technology to satisfy the needs of the higher growth, higher margin replacement market, in which customers generally demand immediate, convenient, and
+
+reliable service. We respond to this need by (i) offering a broad range of product lines, including the necessary equipment, parts, and supplies to enable a contractor to install or repair a central air conditioner, furnace, or refrigeration
+
+system, (ii) maintaining a strong density of warehouse locations for increased customer convenience, (iii) maintaining well-stocked inventories to ensure that customer orders are filled in a timely manner, (iv) providing a high degree
+
+of technical expertise at the point of sale, (v) collaborating with customers to advertise and market their business and services in local markets, and (vi) developing and implementing technology to further enhance customer service
+
+capabilities. We believe these concepts provide a competitive advantage over smaller, less-capitalized competitors that are unable to commit resources to open and maintain additional locations, implement technological business solutions, provide the
+
+same range of products, maintain the same inventory levels, or attract the wide range of expertise that is required to support a diverse product offering. In some geographic areas, we believe we have a competitive advantage over factory-operated
+
+distribution networks, which typically do not maintain inventories of parts and supplies that are as diversified as ours and which have fewer warehouse locations than we do, making it more difficult for these competitors to meet the time-sensitive
+
+demands of the replacement market. In addition to the replacement market, we sell to the new construction market, including new homes and commercial
+
+construction. We believe our reputation for reliable, high-quality service, and relationships with contractors, who may serve both the replacement and new construction markets, allows us to compete effectively in these markets. 
+
+Performance-Based Compensation & Stock-Based Equity Plans 
+
+We maintain a culture that rewards performance through a variety of performance-based pay, commission programs, cash incentives, and stock-based equity
+
+programs. Stock-based plans include 401(k) matching contributions to eligible employees, a voluntary employee stock purchase plan, and the granting of stock options and non-vested restricted stock based on
+
+individual merit and measures of performance. Our equity compensation plans are designed to promote long-term performance, as well as to create long-term employee retention, continuity of leadership, and an ownership culture whereby management and
+
+employees think and act as owners of the Company. We believe that our restricted stock program is unique because an employees restricted share grants generally vest entirely at the end of his or her career (age 62 or later) and, prior to
+
+retirement, these grants remain subject to significant risks of forfeiture. 
+
+  5 
+
+Product Line Expansion 
+
+We actively seek new or expanded territories of distribution from our key equipment suppliers. We continually evaluate new parts and supply products to support
+
+equipment sales and further enhance service to our customers. This initiative includes increasing our product offering with existing vendors and identifying new product opportunities through traditional and
+
+non-traditional supply channels. We have also introduced private-label products as a means to obtain market share and grow revenues. We believe that our private-label branded products complement our existing
+
+product offerings at selected locations, based on customer needs and the particular market position and price of these products. Acquisition Strategy
+
+ We focus on acquiring and investing in businesses that either complement our current presence in existing markets or establish a presence in new
+
+geographic markets. Since 1989, we have acquired 60 HVAC/R distribution businesses, six of which currently operate as primary operating subsidiaries. Other smaller acquired distributors have been integrated into or are under the management of our
+
+primary operating subsidiaries. Through a combination of sales and market share growth, opening of new locations, tuck-in acquisitions, expansion of product lines, improved pricing, and programs that have
+
+resulted in higher gross profit, performance incentives, and a culture of equity value for key leadership, we have produced substantial sales and earnings growth post-acquisition. We continue to pursue additional strategic acquisitions, investments
+
+and/or joint ventures to allow further penetration in existing markets and expansion into new geographic markets. Operating Philosophy 
+
+We encourage our local leadership to operate in a manner that builds upon the long-term relationships they have established with their suppliers and customers.
+
+Typically, we maintain the identity of businesses by retaining their historical trade names, management teams and sales organizations, and continuity of their product brand-name offerings. We believe this strategy allows us to build on the value of
+
+the acquired operations by creating additional sales opportunities while providing an attractive exit strategy for the former owners of these companies. 
+
+We maintain a specialized staff at our corporate headquarters that provides functional support for our subsidiaries growth strategies in their
+
+respective markets. Such functional support staff includes specialists in finance, accounting, product procurement, information technology, treasury and working capital management, tax planning, risk management, and safety. Certain general and
+
+administrative expenses are targeted for cost savings by leveraging the overall business volume and improving operating efficiencies. DESCRIPTION OF
+
+BUSINESS Products We sell an expansive line of
+
+products and maintain a diverse mix of inventory to meet our customers immediate needs, and we seek to provide products a contractor would generally require when installing or repairing a central air conditioner, furnace, or refrigeration
+
+system on short notice. The cooling capacity of air conditioning units is measured in tons. One ton of cooling capacity is equivalent to 12,000 British Thermal Units (BTUs) and is generally adequate to air condition approximately 500
+
+square feet of residential space. The products we distribute consist of: (i) equipment, including residential ducted and ductless air conditioners ranging from 1 to 5 tons, gas, electric, and oil furnaces ranging from 50,000 to 150,000 BTUs,
+
+commercial air conditioning and heating equipment systems ranging from 1-1/2 to 25 tons, and other specialized equipment, (ii) parts, including replacement compressors, evaporator coils, motors, and other
+
+component parts and (iii) supplies, including thermostats, insulation material, refrigerants, ductwork, grills, registers, sheet metal, tools, copper tubing, concrete pads, tape, adhesives, and other ancillary supplies. 
+
+Sales of HVAC equipment, which we currently source from approximately 20 vendors, accounted for 67% of our revenues for both the years ended December 31,
+
+2018 and 2017. Sales of other HVAC products, which we currently source from approximately 1,200 vendors, comprised 29% and 28% of our revenues for the years ended December 31, 2018 and 2017, respectively. Sales of commercial refrigeration
+
+products, which we currently source from approximately 150 vendors, accounted for 4% and 5% of our revenues for the years ended December 31, 2018 and 2017, respectively. 
+
+  6 
+
+Distribution and Sales 
+
+At December 31, 2018, we operated from 571 locations, a vast majority of which are located in regions that we believe have demographic trends favorable to
+
+our business. We maintain large inventories at each of our warehouse locations and either deliver products to customers using one of our trucks or a third party logistics provider, or we make products available for
+
+pick-up at the location nearest to the customer. We have approximately 950 salespeople, averaging 10 years of experience in the HVAC/R distribution industry. 
+
+ The largest market we serve is the United States, in which the most significant markets for HVAC/R products are in the Sun
+
+Belt States. Accordingly, the majority of our distribution locations are in the Sun Belt, with the highest concentration in Florida and Texas. These markets have been a strategic focus of ours given their size, the reliance by homeowners and
+
+businesses on HVAC/R products to maintain a comfortable indoor environment, and the population growth in these areas over the last 40 years, which has led to a substantial installed base requiring replacement, a shorter useful life for equipment
+
+given the significant hours of operation, and the focus by electrical utilities on consumer incentives designed to promote replacement of HVAC/R equipment in an effort to improve energy efficiency. 
+
+  7 
+
+Markets 
+
+The table below identifies the number of our stores by location as of December 31, 2018: 
+
+ Joint Ventures with Carrier Corporation 
+
+In 2009, we formed a joint venture with Carrier, which we refer to as Carrier Enterprise I, in which Carrier contributed 95 of its company-owned locations in
+
+13 Sun Belt states and Puerto Rico, and its export division in Miami, Florida, and we contributed 15 locations that distributed Carrier products. In July 2012, we exercised our option to acquire an additional 10% ownership interest in Carrier
+
+Enterprise I, which increased our ownership interest to 70%; and, on July 1, 2014, we exercised our last remaining option to acquire an additional 10% ownership interest in Carrier Enterprise I, which increased our controlling interest to 80%.
+
+Neither we nor Carrier has any remaining options to purchase additional ownership interests in Carrier Enterprise I, or any of our other joint ventures with Carrier, which are described below. 
+
+  8 
+
+In 2011, we formed a second joint venture with Carrier and completed two additional transactions. In April
+
+2011, Carrier contributed 28 of its company-owned locations in the Northeast U.S. and we contributed 14 locations in the Northeast U.S. In July 2011, we purchased Carriers distribution operations in Mexico, which included seven locations.
+
+Collectively, the Northeast locations and the Mexico operations are referred to as Carrier Enterprise II. Following formation of this joint venture, we owned a 60% controlling interest. On November 29, 2016, we purchased an additional 10%
+
+ownership interest in Carrier Enterprise II, and, on February 13, 2017, we again purchased an additional 10% ownership interest in Carrier Enterprise II, which together increased our controlling interest to 80%. 
+
+In 2012, we formed a third joint venture, which we refer to as Carrier Enterprise III, with UTC Canada Corporation, referred to as UTC Canada, an affiliate of
+
+Carrier. Carrier contributed 35 of its company-owned locations in Canada to Carrier Enterprise III. We have a 60% controlling interest in Carrier Enterprise III, and UTC Canada has a 40% non-controlling
+
+interest. Combined, the joint ventures with Carrier represented 61% of our revenues for the year ended December 31, 2018. See Supplier
+
+Concentration in Business Risk Factors in Item 1A. The business and affairs of the joint ventures are controlled, directed, and managed
+
+exclusively by Carrier Enterprise Is, Carrier Enterprise IIs and Carrier Enterprise IIIs respective boards of directors (the Boards) pursuant to related operating agreements. The Boards have full, complete and exclusive
+
+authority, power, and discretion to manage and control the business, property, and affairs of their respective joint ventures, and to make all decisions regarding those matters and to perform activities customary or incident to the management of
+
+such joint ventures, including approval of distributions to us, Carrier and UTC Canada. Each Board is composed of five directors, of whom three directors represent our controlling interest and two directors represent Carriers non-controlling interest. Matters presented to the Boards for vote are considered approved or consented to upon the receipt of the affirmative vote of at least a majority of all directors entitled to vote with the
+
+exception of certain governance matters, which require joint approval.     Customers and Customer Service 
+
+Air conditioning and heating contractors and dealers that install HVAC/R products in homes and businesses must be licensed given the highly-regulated nature of
+
+the products, refrigerant, natural gas, and building and zoning requirements. We currently serve approximately 90,000 active contractors and dealers who service the replacement and new construction markets for residential and light commercial
+
+central air conditioning, heating, and refrigeration systems. No single customer in 2018, 2017 or 2016 represented more than 2% of our consolidated revenues. We focus on providing products where and when the customer needs them, technical support by
+
+phone or on site as required, and quick and efficient service at our locations. Increased customer convenience is also provided through mobile applications and e-commerce, which allows customers to access
+
+information online 24 hours a day, seven days a week to search for desired products, verify inventory availability, obtain pricing, place orders, check order status, schedule pickup or delivery times, and make payments. We believe we compete
+
+successfully with other distributors primarily based on an experienced sales organization, strong service support, maintenance of well-stocked inventories, density of warehouse locations, high quality reputation, broad product lines, and the ability
+
+to foresee customer demand for new products. Key Supplier Relationships 
+
+Given our leadership position, Watsco represents a strategic business relationship to many of the leading manufacturers in our industry. Significant
+
+relationships with HVAC/R equipment manufacturers include Carrier, Rheem, Goodman, Welbilt, Mitsubishi Electric Corporation, Gree Electric Appliances, Inc., Trane, Midea Group, and Nordyne. In addition, we have substantial relationships with
+
+manufacturers of non-equipment HVAC/R products, including Chemours, Emerson, Flexible Technologies, Inc., Honeywell, Johns Manville, Mueller, and Owens Corning. 
+
+We believe the diversity of products that we sell, along with the manufacturers current product offerings, quality, marketability, and brand-name
+
+recognition, allow us to operate favorably relative to our competitors. To maintain brand-name recognition, HVAC/R equipment manufacturers provide national advertising and participate with us in cooperative advertising programs and promotional
+
+incentives that are targeted to both dealers and end-users. We estimate that the replacement market for residential air conditioning equipment is approximately 85% of industry unit sales in the United States,
+
+and we expect this percentage to increase as units installed in the past 20 years wear out or otherwise become practical to replace sooner with newer, more energy-efficient models. 
+
+  9 
+
+The Companys top ten suppliers accounted for 84% of our purchases, including 62% from Carrier, and 9%
+
+from Rheem. Given the significant concentration of our suppliers, particularly with Carrier and Rheem, any significant interruption with these suppliers could temporarily disrupt the operations of certain of our subsidiaries, impact current
+
+inventory levels, and could adversely affect our financial results. If any restrictions or significant increase in tariffs under existing trade agreements are imposed on products that our top ten suppliers import or assemble products outside of the
+
+United States, particularly from Mexico and China, we could be required to raise our prices, which may result in the loss of customers and harm to our business. Future financial results are also materially dependent upon the continued market
+
+acceptance of these manufacturers respective products and their ability to continue to manufacture products that comply with laws relating to environmental and efficiency standards. However, the Company believes that alternative or substitute
+
+products would be readily available in the event of disruption of current supplier relationships given the Companys prominence in the marketplace, including the number of locations, sales personnel, support structure, marketing and sales
+
+expertise, financial position, and established market share. See Business Risk Factors in Item 1A of this Annual Report on Form 10-K for further discussion. 
+
+Distribution Agreements We maintain trade name and
+
+distribution agreements with Carrier and Rheem that provide us distribution rights on an exclusive basis in specified territories and are not subject to a stated term or expiration date. We also maintain distribution agreements with various other
+
+suppliers, either on an exclusive or non-exclusive basis, for various terms ranging from one to ten years. Certain distribution agreements for particular branded products contain provisions that restrict or
+
+limit the sale of competitive products in the locations that sell such branded products. Other than where such location-level restrictions apply, we may distribute the lines of other manufacturers air conditioning or heating equipment in other
+
+locations in the same territories. See Supplier Concentration in Business Risk Factors in Item 1A of this Annual Report on Form 10-K. Seasonality 
+
+Sales of residential central air conditioners, heating equipment, and parts and supplies are seasonal. Furthermore, profitability can be impacted favorably or
+
+unfavorably based on weather patterns, particularly during Summer and Winter selling seasons. Demand related to the residential central air conditioning replacement market is typically highest in the second and third quarters, and demand for heating
+
+equipment is usually highest in the fourth quarter. Demand related to the new construction sectors throughout most of the markets we serve tends to be fairly evenly distributed throughout the year and depends largely on housing completions and
+
+related weather and economic conditions. Competition 
+
+We operate in highly competitive environments. We compete with a number of distributors and also with several air conditioning and heating equipment
+
+manufacturers that distribute a significant portion of their products through their own distribution organizations in certain markets. Competition within any given geographic market is based upon product availability, customer service, price, and
+
+quality. Competitive pressures or other factors could cause our products or services to lose market acceptance or result in significant price erosion, all of which would have a material adverse effect on our results of operations, cash flows, and
+
+liquidity. Employees We had approximately 5,200
+
+employees as of December 31, 2018, substantially all of whom are non-union employees. Most of our employees are employed on a full-time basis and our relations with our employees are good. 
+
+Order Backlog Order backlog is not a material aspect of
+
+our business and no material portion of our business is subject to government contracts. Government Regulations, Environmental and Health and Safety
+
+Matters Our business is subject to federal, state and local laws, and regulations relating to the storage, handling, transportation, and release of
+
+hazardous materials into the environment. These laws and regulations include the Clean Air Act, relating to minimum energy efficiency standards of HVAC systems, and the production, servicing, and disposal of certain ozone-depleting refrigerants used
+
+in such systems, including those established at the Montreal Protocol in 1992 concerning the phase-out of the production of CFC-based refrigerants on January 1,
+
+2010 for use in new equipment. We are also subject to regulations concerning the transport of hazardous materials, including regulations adopted pursuant to the Motor Carrier Safety Act of 1990. Our operations are also subject to health and safety
+
+requirements including, but not limited to, the Occupational, Safety and Health Act. We believe that we operate our business in compliance with all applicable federal, state and local laws, and regulations. 
+
+  10 
+
+Our industry and business are also subject to a United States Department of Energy (DOE)
+
+mandate, effective January 1, 2015, that effected changes to the minimum required efficiency of HVAC systems. The DOE divided the United States into three regions, the North, the Southeast, and the Southwest, according to the number of hours
+
+that an air conditioner spends cooling a home during the hotter months. Prior to 2015, the national minimum standard for energy efficiency was 13 SEER (seasonal energy efficiency rating, the metric used to measure energy efficiency) for all HVAC
+
+equipment produced in the United States. Beginning in 2015, the new standard increased the minimum allowed efficiency to 14 SEER for the Southeast and Southwest regions. During 2015, we began transitioning our 13 SEER inventory in the effected
+
+regions to the higher-efficiency 14 SEER inventory, and we completed this transition in 2016 in accordance with the timeline required by the mandate. 
+
+Available Information Our website is at
+
+www.watsco.com. Our investor relations website is located at www.investors.watsco.com. We make available, free of charge, on our investor relations website under the heading SEC Filings our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports filed with or furnished to the
+
+Securities and Exchange Commission (the SEC) pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after we electronically file such material with, or furnish it to,
+
+the SEC. Our website address is included in this report only as an inactive textual reference. Information contained on, or available through, our website is not incorporated by reference in, or made a part of, this report. 
+
+Business Risk Factors Supplier Concentration 
+
+The Companys top ten suppliers accounted for 84% of our purchases during 2018, including 62% from Carrier, and 9% from Rheem. Carrier provides a diverse
+
+variety of brands of HVAC systems including, Carrier, Bryant, Payne, Tempstar, Heil, Comfortmaker and Grandaire, along with complimentary replacement parts. Rheem provides Rheem-brand HVAC systems along with complimentary replacement parts. Given
+
+the significant concentration of our supply chain, particularly with Carrier and Rheem, any significant interruption by any of the key manufacturers or a termination of a relationship could temporarily disrupt the operations of certain of our
+
+subsidiaries. Additionally, our operations are materially dependent upon the continued market acceptance and quality of these manufacturers products and their ability to continue to manufacture products that are competitive and that comply
+
+with laws relating to environmental and efficiency standards. Our inability to obtain products from one or more of these manufacturers or a decline in market acceptance of these manufacturers products could have a material adverse effect on
+
+our results of operations, cash flows, and liquidity. Many HVAC equipment and component manufacturers, including Carrier and Rheem, source component
+
+parts from China and/or assemble a significant amount of products for residential and light-commercial applications from Mexico. If any restrictions or significant increases in tariffs are imposed related to such products sourced or assembled from
+
+Mexico and China as a result of amendments to existing trade agreements, and our product costs consequently increase, we would be required to raise our prices, which may result in cost inflation, the loss of customers, and harm to our business. 
+
+We maintain trade name and distribution agreements with Carrier and Rheem that provide us distribution rights on an exclusive basis in specified territories.
+
+Such agreements are not subject to a stated term or expiration date. We also maintain other distribution agreements with various other suppliers, either
+
+on an exclusive or non-exclusive basis, for various terms ranging from one to ten years. Certain of the distribution agreements contain provisions that restrict or limit the sale of competitive products in the
+
+locations that sell such branded products. Other than where such location-level restrictions apply, we may distribute other manufacturers lines of air conditioning or heating equipment in other locations in the same territories. 
+
+On November 26, 2018, the parent company of Carrier, UTC, announced that it intends to separate into three independent companies consisting of its
+
+aerospace business, its elevator business, Otis, and Carrier. UTC indicated the proposed separation is expected to be effected through tax-free spin-offs of Otis and Carrier, subject to the completion of
+
+financing and satisfaction of customary conditions, and is expected to be completed in 2020, with separation activities occurring over 18-24 months. It is too early to determine whether the proposed spin-off of Carrier will have any impact on us and our results of operations nor can there be assurances regarding the ultimate timing of the separation or that the separation will be completed. 
+
+  11 
+
+Risks Inherent in Acquisitions 
+
+As part of our strategy, we intend to pursue additional acquisitions of complementary businesses, including through joint ventures and investments in
+
+unconsolidated entities. If we complete future acquisitions, including investments in unconsolidated entities, or enter into new joint ventures, we may be required to incur or assume additional debt and/or issue additional shares of our common stock
+
+as consideration, which will dilute our existing shareholders ownership interest and may affect our results of operations. Growth through acquisitions involves a number of risks, including, but not limited to, the following: 
+
+In addition, acquired companies and investments made in unconsolidated entities may have liabilities that we failed or were unable to discover while
+
+performing due diligence investigations. We cannot assure you that the indemnification, if any, granted to us by sellers of acquired companies or by joint venture partners will be sufficient in amount, scope, or duration to offset the possible
+
+liabilities associated with businesses or properties that we assume upon consummation of an acquisition or joint venture. Any such liabilities, individually or in the aggregate, could have a material adverse effect on our business. 
+
+Failure to successfully manage the operational challenges and risks associated with, or resulting from, acquisitions could adversely affect our results of
+
+operations, cash flows, and liquidity. Competition 
+
+We operate in highly competitive environments. We compete with other distributors and several air conditioning and heating equipment manufacturers that
+
+distribute a significant portion of their products through their own distribution organizations in certain markets. Competition within any given geographic market is based upon product availability, customer service, price, and quality. Competitive
+
+pressures or other factors could cause our products or services to lose market acceptance or result in significant price erosion, all of which would have a material adverse effect on our results of operations, cash flows, and liquidity. 
+
+Foreign Currency Exchange Rate Fluctuations The
+
+functional currency of our operations in Canada is the Canadian dollar, and the functional currency of our operations in Mexico is the U.S. dollar because the majority of our Mexican transactions are denominated in U.S. dollars. Foreign currency
+
+exchange rates and fluctuations may have an impact on transactions denominated in Canadian dollars and Mexican Pesos, and, therefore, could adversely affect our financial performance. Although we use foreign currency forward contracts to mitigate
+
+the impact of currency exchange rate movements, we do not currently hold any derivative contracts that hedge our foreign currency translational exposure. 
+
+Seasonality Sales of residential central air
+
+conditioners, heating equipment, and parts and supplies are seasonal, resulting in fluctuations in our revenue from quarter to quarter. Furthermore, profitability can be impacted favorably or unfavorably based on the severity or mildness of weather
+
+patterns during Summer or Winter selling seasons. Demand related to the residential central air conditioning replacement market is typically highest in the second and third quarters, and demand for heating equipment is usually highest in the fourth
+
+quarter. Demand related to the new construction sectors throughout most of the markets is fairly evenly distributed throughout the year and depends largely on housing completions and related weather and economic conditions. 
+
+Dependence on Key Personnel Much of our success has
+
+depended on the skills and experience of senior management personnel. The loss of any of our executive officers or other key senior management personnel could harm our business. We must continuously recruit, retain, and motivate management and other
+
+employees to both maintain our current business and to execute our strategic initiatives. Our success has also depended on the contributions and abilities of our store employees upon whom we rely to give customers a superior in-store experience. Accordingly, our performance depends on our ability to recruit and retain high quality employees to work in and manage our stores. If we are unable to adequately recruit, retain, and motivate
+
+employees our projected growth and expansion, and our business and financial performance may be adversely affected. 
+
+  12 
+
+Decline in Economic Conditions 
+
+We rely predominantly on the credit markets and, to a lesser extent, on the capital markets to meet our financial commitments and short-term liquidity needs if
+
+internal funds are not available from our operations. Access to funds under our line of credit is dependent on the ability of the syndicate banks to meet their respective funding commitments. Disruptions in the credit and capital markets could
+
+adversely affect our ability to draw on our line of credit and may also affect the determination of certain interest rates, particularly rates based on LIBOR, which is one of the base rates under our line of credit. Any disruptions in these markets
+
+could result in increased borrowing costs and/or reduced borrowing capacity under our line of credit. Any long-term disruption could require us to take measures to conserve cash until the markets stabilize, or until alternative credit arrangements
+
+or other funding for our business needs can be arranged. Such measures could include reducing or eliminating dividend payments, deferring capital expenditures, and reducing or eliminating other discretionary uses of cash. 
+
+A decline in economic conditions and lack of availability of business and consumer credit could have an adverse effect on our business and results of
+
+operations. Any capital and credit market disruption could cause broader economic downturns, which may lead to reduced demand for our products and increased incidence of customers inability to pay their accounts. Further, bankruptcies or
+
+similar events by customers may cause us to incur bad debt expense at levels higher than historically experienced. Also, our suppliers may be negatively impacted by deteriorating economic conditions, causing disruption or delay of product
+
+availability. These events would adversely impact our results of operations, cash flows, and financial position. Additionally, if the conditions of the capital and credit markets adversely affect the financial institutions that have committed to
+
+extend us credit, they may be unable to fund borrowings under such commitments, which could have an adverse impact on our financial condition, liquidity, and our ability to borrow funds for working capital, acquisitions, capital expenditures, and
+
+other corporate purposes. Cybersecurity Risks In
+
+addition to the disruptions that may occur from interruptions in our information technology systems, cybersecurity threats and sophisticated and targeted cyberattacks pose a risk to our information technology systems. We have established security
+
+policies, processes and defenses designed to help identify and protect against intentional and unintentional misappropriation or corruption of our information technology systems and information and disruption of our operations. Despite these
+
+efforts, our information technology systems may be damaged, disrupted or shut down due to attacks by unauthorized access, malicious software, computer viruses, undetected intrusion, hardware failures or other events, and in these circumstances our
+
+disaster recovery plans may be ineffective or inadequate. These breaches or intrusions could lead to business interruption, exposure of proprietary or confidential information, data corruption, damage to our reputation, exposure to legal and
+
+regulatory proceedings and other costs. Such events could have a material adverse impact on our financial condition, results of operations and cash flows. In addition, we could be adversely affected if any of our significant customers or suppliers
+
+experiences any similar events that disrupt their business operations or damage their reputation. We maintain monitoring practices and protections of our
+
+information technology to reduce these risks and test our systems on an ongoing basis for potential threats. We carry cybersecurity insurance to help mitigate the financial exposure and related notification procedures in the event of intentional
+
+intrusion. There can be no assurance, however, that our efforts will prevent the risk of a security breach of our databases or systems that could adversely affect our business. 
+
+International Political Risk Our international sales and
+
+operations, as well as sourcing of products from suppliers with international operations, are subject to various risks associated with changes in local laws, regulations and policies, including those related to tariffs, trade restrictions and trade
+
+agreements, investments, taxation, capital controls, employment regulations, different liability standards, and limitations on the repatriation of funds due to foreign currency controls. Our international sales and operations, as well as sourcing of
+
+products from suppliers with international operations are also sensitive to changes in foreign national priorities, including government budgets, as well as political and economic instability. Unfavorable changes in any of the foregoing could
+
+adversely affect our results of operations or could cause a disruption in our supply chain for products sourced internationally. Additionally, failure to comply with the United States Foreign Corrupt Practices Act could subject us to, among other
+
+things, penalties and legal expenses that could harm our reputation and have a material adverse effect on our business, financial condition and results of operations. 
+
+  13 
+
+General Risk Factors 
+
+Goodwill, Intangibles and Long-Lived Assets At
+
+December 31, 2018, goodwill, intangibles, and long-lived assets represented approximately 29% of our total assets. The recoverability of goodwill, indefinite lived intangibles, and long-lived assets is evaluated at least annually and when
+
+events or changes in circumstances indicate that the carrying amounts may not be recoverable. The identification and measurement of goodwill impairment involves the estimation of the fair value of our reporting unit and contains uncertainty because
+
+management must use judgment in determining appropriate assumptions to be used in the measurement of fair value. The estimates of fair value of our reporting unit, indefinite lived intangibles, and long-lived assets are based on the best information
+
+available as of the date of the assessment and incorporates managements assumptions about expected future cash flows and contemplates other valuation techniques. Future cash flows can be affected by changes in the industry, a declining
+
+economic environment, or market conditions. We cannot assure you that we will not suffer material impairments to goodwill, intangibles, or long-lived assets in the future. 
+
+Risks Related to Loss Contingencies We carry general
+
+liability, comprehensive property damage, workers compensation, health benefits, and other insurance coverage that management considers adequate for the protection of its assets and operations at reasonable premiums. There can be no assurance
+
+that the coverage limits and related premiums of such policies will be adequate to cover claims, losses and expenses for lawsuits which have been, or may be, brought against us. A loss in excess of insurance coverage could have a material adverse
+
+effect on our financial position and/or profitability. Certain self-insurance risks for casualty insurance programs and health benefits are retained and reserves are established based on claims filed and estimates of claims incurred but not yet
+
+reported. Assurance cannot be provided that actual claims will not exceed present estimates. Exposure to catastrophic losses has been limited by maintaining excess and aggregate liability coverage and implementing stop-loss control programs. 
+
+Risks Related to our Common Stock Class B Common
+
+Stock and Insider Ownership As of December 31, 2018, our directors and executive officers and entities affiliated with them owned (i) Common
+
+stock representing 1% of the outstanding shares of Common stock and (ii) Class B common stock representing 89% of the outstanding shares of Class B common stock. These interests represent 56% of the aggregate combined voting power
+
+(including 52% beneficially owned by Albert H. Nahmad, Chairman and Chief Executive Officer, through shares owned by him and shares held by affiliated limited partnerships and various family trusts). Accordingly, our directors and executive officers
+
+collectively have the voting power to elect six members of our nine-person Board of Directors. Our Class B common stock is substantially identical
+
+to our Common stock except: (i) Common stock is entitled to one vote on all matters submitted to a vote of our shareholders, and each share of Class B common stock is entitled to ten votes; (ii) shareholders of Common stock are
+
+entitled to elect 25% of our Board of Directors (rounded up to the nearest whole number), and Class B shareholders are entitled to elect the balance of the Board of Directors; (iii) cash dividends may be paid on Common stock without paying
+
+a cash dividend on Class B common stock, and no cash dividend may be paid on Class B common stock unless at least an equal cash dividend is paid on Common stock; and (iv) Class B common stock is convertible at any time into
+
+Common stock on a one-for-one basis at the option of the shareholder. 
+
+Future Sales In 2017, we issued and sold an aggregate of
+
+approximately $250.0 million of our Common stock under our previously reported at the market offering program. We are not restricted from issuing additional shares of our Common stock or Class B common stock (which we refer to
+
+together as common stock), including securities that are convertible into or exchangeable for, or that represent the right to receive, our common stock or any substantially similar securities in the future. We may issue shares of our common stock or
+
+other securities in one or more registered or unregistered offerings, and we may also issue our securities in connection with investments or acquisitions. The number of shares of our common stock issued in connection with any of the foregoing may
+
+result in dilution to holders of our common stock. Volatility 
+
+The market price of our common stock may be highly volatile and could be subject to wide fluctuations. Securities markets worldwide experience significant
+
+price and volume fluctuations. This market volatility, as well as general economic, market or political conditions, could reduce the market price of shares of our common stock in spite of our operating performance. The trading price of our common
+
+stock may be adversely affected due to a number of factors, most of which we cannot predict or control, such as the following: 
+
+  14 
+
+Trading Liquidity The trading market for our common
+
+stock is limited, and there can be no assurance that a more liquid trading market for our common stock will develop. There can be no assurance as to the liquidity of any market for our common stock, the ability of the holders of our common stock to
+
+sell any of their securities and the price at which the holders of our common stock will be able to sell such securities. Payment of Dividends
+
+ The amount of any future dividends that we will pay, if any, will depend upon a number of factors. Future dividends will be declared and paid at the
+
+sole discretion of the Board of Directors and will depend upon such factors as cash flow generated by operations, profitability, financial condition, cash requirements, future prospects, and other factors deemed relevant by our Board of Directors.
+
+The right of our Board of Directors to declare dividends, however, is subject to the availability of sufficient funds under Florida law to pay dividends. In addition, our ability to pay dividends depends on certain restrictions in our credit
+
+agreement. Securities Analyst Research and Reports 
+
+The trading markets for our common stock rely in part on the research and reports that industry or financial analysts publish about us or our business or
+
+industry. If one or more of the analysts who cover us downgrade our stock or our industry, or the stock of any of our competitors, or publish negative or unfavorable research about our business, the price of our stock could decline. If one or more
+
+of these analysts cease coverage of us or fail to publish reports on us regularly, we could lose visibility in the market, which in turn could cause our stock price or trading volume to decline. 
+
+None.  
+
+Our main properties include warehousing and distribution facilities, trucks, and administrative office space. 
+
+Warehousing and Distribution Facilities At
+
+December 31, 2018, we operated 571 warehousing and distribution facilities across 37 U.S. states, Canada, Mexico, and Puerto Rico, having an aggregate of approximately 12.2 million square feet of space, of which approximately
+
+12.0 million square feet is leased. The majority of these leases are for terms of three to five years. We believe that our facilities are sufficient to meet our present operating needs. 
+
+Trucks At December 31, 2018, we operated 592 ground
+
+transport vehicles, including delivery and pick-up trucks, vans, and tractors. Of this number, 382 trucks were leased and the rest were owned. We believe that the present size of our truck fleet is adequate to
+
+support our operations. Administrative Facilities 
+
+Senior management and support staff are located at various administrative offices in approximately 0.2 million square feet of space. 
+
+Information with respect to this item may be found in Note 18 to our audited consolidated financial statements contained in this Annual Report on Form 10-K under the caption Litigation, Claims and Assessments, which information is incorporated by reference in this Item 3 of Part I of this Annual Report on Form
+
+10-K. 
+
+  15 
+
+Not applicable. 
+
+PART II  
+
+ Market Information 
+
+Our Common stock is listed on the New York Stock Exchange under the ticker symbol WSO, and our Class B common stock is listed on the New York Stock
+
+Exchange under the ticker symbol WSOB. Shareholder Return Performance 
+
+The following graph compares the cumulative five-year total shareholder return attained by holders of our Common stock and Class B common stock relative
+
+to the cumulative total returns of the Russell 2000 index, the S&P MidCap 400 index, and the S&P 500 index. Given our position as the largest distributor of HVAC/R equipment, parts and supplies in North America, our unique, sole line of
+
+business, the nature of our customers (air conditioning and heating contractors), and the products and markets we serve, we cannot reasonably identify an appropriate peer group; therefore, we have included in the graph below the performance of the
+
+Russell 2000 index, the S&P MidCap 400 index, and the S&P 500 index, which contain companies with market capitalizations similar to our own. An investment of $100 (with reinvestment of all dividends) is assumed to have been made in our
+
+common stock and in each index on December 31, 2013 and its relative performance is tracked through December 31, 2018. The performance graph
+
+shall not be deemed incorporated by reference by any general statement incorporating by reference this annual report into any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to the extent we specifically
+
+incorporate this information by reference, and shall not otherwise be deemed filed under such acts. 
+
+  16 
+
+ Purchases of Equity Securities by the Issuer and Affiliated Purchasers 
+
+In September 1999, our Board of Directors authorized the repurchase, at managements discretion, of up to 7,500,000 shares of common stock in the open
+
+market or via private transactions. No shares were repurchased under this plan during 2018, 2017 or 2016. In aggregate, 6,370,913 shares of Common and Class B common stock have been repurchased at a cost of $114.4 million since the
+
+inception of this plan. At December 31, 2018, there were 1,129,087 shares remaining authorized for repurchase under this plan. Shares were last repurchased by the Company in 2008; thus, we did not otherwise repurchase any of our common stock
+
+during the quarter ended December 31, 2018.  
+
+Our 2018 Annual Report contains Selected Consolidated Financial Data, which section is incorporated herein by reference. 
+
+  17 
+
+ Our 2018 Annual Report contains Managements Discussion and Analysis of Financial Condition and Results of
+
+Operations, which section is incorporated herein by reference.  
+
+Our 2018 Annual Report contains Quantitative and Qualitative Disclosures about Market Risk, which section is incorporated herein by reference. 
+
+Our 2018 and 2017 Consolidated Balance Sheets and other consolidated financial statements for the years ended December 31, 2018, 2017 and 2016, together
+
+with the report thereon of KPMG LLP dated February 28, 2019, included in our 2018 Annual Report are incorporated herein by reference. The 2018 and
+
+2017 unaudited Selected Quarterly Financial Data appearing in our 2018 Annual Report is incorporated herein by reference.  
+
+ None.  
+
+Evaluation of Disclosure Controls and Procedures We
+
+maintain disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act)), that are, among other things, designed to ensure
+
+that information required to be disclosed by us under the Exchange Act is accumulated and communicated to management, including our Chief Executive Officer (CEO), Senior Vice President (SVP) and Chief Financial Officer
+
+(CFO), to allow for timely decisions regarding required disclosure and appropriate SEC filings. Our management, with the participation of our
+
+CEO, SVP and CFO, evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report, and, based on that evaluation, our CEO, SVP and CFO concluded that our disclosure controls and procedures
+
+were effective, at a reasonable assurance level, as of such date. Managements Report on Internal Control over Financial Reporting 
+
+Our 2018 Annual Report contains Managements Report on Internal Control over Financial Reporting and the report thereon of KPMG LLP dated
+
+February 28, 2019, and each is incorporated herein by reference. Changes in Internal Control over Financial Reporting 
+
+We are continuously seeking to improve the efficiency and effectiveness of our operations and of our internal controls. This results in refinements to
+
+processes throughout the Company. However, there were no changes in internal controls over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f)
+
+under the Exchange Act) during the quarter ended December 31, 2018, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+None. PART III
+
+ This part of Form 10-K, which includes Items 10 through 14, is omitted because we will file definitive proxy
+
+material pursuant to Regulation 14A not more than 120 days after the close of our most recently ended fiscal year, which proxy material will include the information required by Items 10 through 14 and is incorporated herein by reference. 
+
+  18 
+
+PART IV 
+
+ INDEX TO
+
+EXHIBITS  
+
+  19 
+
+  20 
+
+None. 
+
+  21 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on
+
+its behalf by the undersigned, thereunto duly authorized.  
+
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following
+
+persons on behalf of the registrant and in the capacities and on the dates indicated.  
+
+  22
+Question: What is Watsco's strategy for growth in existing markets?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

@@ -1,0 +1,750 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-203-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: FORM 10-K
+
+qada20180131_10k.htm
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington D.C. 20549
+
+FORM 10-K
+
+For the fiscal year ended January 31, 2018
+
+OR
+
+Commission File Number: 0-22823
+
+QAD Inc.
+
+(Exact name of Registrant as specified in its charter)
+
+100 Innovation Place
+
+Santa Barbara, California 93108
+
+(Address of principal executive offices and zip code)
+
+Registrant’s telephone number, including area code (805) 566-6000
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. ☐ YES ☒ NO
+
+Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. ☐ YES ☒ NO
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. ☒ YES ☐ NO
+
+Indicate by checkmark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). ☒ YES ☐ NO
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of Registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or an amendment to this Form 10-K. ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). ☐ YES ☒ NO
+
+1
+
+As of July 31, 2017, the last business day of the Registrant’s most recently completed second fiscal quarter, there were 15,997,908 shares of the Registrant’s Class A common stock outstanding and 3,212,663 shares of the Registrant’s Class B common stock outstanding, and the aggregate market value of such shares held by non-affiliates of the Registrant (based on the closing sale price of such shares on the NASDAQ Global Market on July 31, 2017) was approximately $300 million. Shares of the Registrant’s common stock held by each executive officer and director and by each entity that owns 5% or more of the Registrant’s outstanding common stock have been excluded in that such persons may be deemed to be affiliates. This determination of affiliate status is not necessarily a conclusive determination for other purposes.
+
+As of March 31, 2018, there were 16,042,279 shares of the Registrant’s Class A common stock outstanding and 3,218,246 shares of the Registrant’s Class B common stock outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Items 10 through 14 of Part III incorporate information by reference from the Definitive Proxy Statement for the Registrant’s Annual Meeting of Stockholders to be held on June 11, 2018.
+
+2
+
+QAD INC.
+
+FISCAL YEAR 2018 FORM 10-K ANNUAL REPORT
+
+TABLE OF CONTENTS
+
+3
+
+NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+In addition to historical information, this Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, Section 21E of the Securities Exchange Act of 1934 and the Private Securities Litigation Reform Act of 1995. Any statements contained herein that are not statements of historical fact should be construed as forward-looking statements, including statements that are preceded or accompanied by such words as “may,” “believe,” “could,” “anticipate,” “projects,” “estimates,” “will likely result,” “should,” “would,” “might,” “plan,” “expect,” “intend” and words of similar meaning or the negative of these terms or other comparable terminology. Forward-looking statements are based on the Company’s current expectations and assumptions regarding its business, the economy and future conditions. A number of risks and uncertainties could cause actual results to differ materially from those expressed or implied in the forward-looking statements. Factors that might cause such a difference include, but are not limited to, those discussed in Item 1A entitled “Risk Factors” which are incorporated herein by reference, and as may be updated in filings we make from time to time with the Securities and Exchange Commission. Readers are cautioned not to place undue reliance on these forward-looking statements, which reflect management’s opinions, expectations and projections only as of the date of this Annual Report on Form 10-K and are subject to risks, uncertainties and assumptions about our business. We undertake no obligation to revise or update or publicly release the results of any revision or update to these forward-looking statements except as required by applicable securities laws. Readers should carefully review the risk factors and other information described in this Annual Report on Form 10-K and the other documents we file from time to time with the Securities and Exchange Commission, including the Quarterly Reports on Form 10-Q to be filed by QAD in fiscal year 2019.
+
+PART I
+
+QAD is a leader in cloud-based enterprise software solutions for global manufacturing companies across the automotive, life sciences, consumer products, food and beverage, high technology and industrial products industries. We offer full-featured, secure and flexible enterprise and supply chain solutions built for global manufacturing companies which can be delivered in the cloud, on- premise or via a blended combination of cloud and on-premise. Our mission is to provide best-in-class software that enables our customers to operate as an effective enterprise where their business processes are running at peak efficiency and are perfectly aligned to their strategic goals. Our solutions, called QAD Enterprise Applications, enable measurement and control of key business processes that support operational requirements, including financials, manufacturing, demand and supply chain planning, customer management, business intelligence and business process management. Our architecture, called QAD Enterprise Platform, provides manufactures with the flexibility they need to achieve a greater fit between their optimal business processes and systems, and adjust to change in the markets they serve. 
+
+Over 2,000 manufacturing companies have deployed QAD solutions to run their businesses across approximately 4,000 sites globally. Today, our solutions are used by over 300,000 active users, of which our cloud and subscription users have grown to 33,000 from 22,000 in the prior year. We were founded in 1979 and our principal executive offices are located in Santa Barbara, California. Our principal website address is www.qad.com. Our office address is 100 Innovation Place, Santa Barbara, CA 93108. We employ 1,870 full-time employees throughout our direct operations in 23 countries across the North America, Europe, Middle East and Africa (“EMEA”), Asia Pacific and Latin America regions.
+
+OUR TARGET VERTICAL MARKETS
+
+We focus our efforts on delivering mission-critical software solutions to enterprise customers in six core vertical markets within global manufacturing – automotive, life sciences, consumer products, food and beverage, high technology and industrial products. Within these vertical markets, we focus on 26 segments where our customers can receive the greatest benefit from our solutions. Segment examples include automotive tier suppliers, orthopedic medical device manufacturers, pharmaceutical contract manufacturers, flexible packaging producers as well as manufacturers of consumer electronics. We offer solutions designed to overcome the business challenges within each segment, based on our in-depth knowledge of the segment and best practices. In addition, we participate in industry groups serving our target segments to ensure that we address regulatory compliance issues, evaluate new manufacturing practices and leverage advanced technologies to give our customers maximum competitive advantage.
+
+Automotive: Automotive suppliers are a key focus for QAD.  Automotive suppliers must meet critical industry standards such as the Materials Management Operations Guideline/Logistics Evaluation (“MMOG/LE”) and International Automotive Task Force (“IATF”) 16949:2016 (previously ISO/TS 16949). Disruptions to the supply chain can cause significant financial impact. QAD’s automotive-specific processes and built-in industry best practices help automotive suppliers reduce costs, mitigate supply chain risk and improve supply chain planning and visibility. Our customer base includes companies serving the global automotive marketplace, especially the tier-1 suppliers in the supply chains of automotive original equipment manufacturers. We deliver unique capabilities to support the collaboration requirements of the automotive suppliers, including the strict quality requirements of Advanced Product Quality Process (“APQP”) and Production Part Approval Process (“PPAP”). Many of our customers use QAD Cloud EDI because it provides a scalable solution which standardizes Electronic Data Interchange (“EDI”) across their global enterprise. QAD Supplier Portal, which allows for electronic communication with other suppliers, is another product commonly used by our automotive customers. QAD solutions are in use at many of the market-leading automotive parts companies throughout the world that manufacture a broad range of components used in interiors, electrical components, safety systems, bodies and drivetrains.
+
+4
+
+Life Sciences: Life sciences manufacturers are dedicated to innovation, product quality and patient safety; however, a tightening regulatory environment, increasing cost pressures and greater supply chain complexities present challenges to the industry. Emerging markets, quality initiatives, and mergers and acquisitions activity also add to the complexity of life sciences manufacturing and distribution. QAD focuses on the following five segments in the life sciences industry: contract manufacturing; surgical devices; orthopedic devices; diagnostic devices; and pharmaceutical/biotechnology manufacturers. QAD solutions help global life sciences companies manufacture products in accordance with current Good Manufacturing Practices (“cGMP”) regulations and standards like ISO13485:2016 that are embraced by regulators around the world. In addition to cGMP, QAD solutions support many business and regulatory processes specific to the life sciences industry, such as automated quality management, supply chain planning and serialization in support of requirements for Unique Device Identification (“UDI”), the Drug Quality and Security Act (“DQSA”) and the Falsified Medicines Directive (“FMD”). Our customers’ products include such items as defibrillators, ventricular assist systems, artificial joints, prescription medications, surgical instruments and packaging for the life sciences industry. QAD’s enterprise applications for life sciences provides our customers with a qualified IT infrastructure as a key building block to help them ensure that they have a solid foundation upon which to base their software validation requirements.
+
+Consumer Products: Manufacturers of consumer products have the objective of delivering the right product, in the right quantities, to the right location at the right time to satisfy demand. To meet this goal, effective supply chain management is needed to synchronize critical activities and functions across the organization.  To gain market share and improve profitability, consumer products companies must anticipate and meet customer demand while managing their margins and complying with evolving safety and environmental regulations. QAD focuses on the following four segments in the consumer products industry: household and personal packaged products; consumer electronics; assembled and discrete products; and jewelry manufacturing. The manufacturing processes for these items vary and depend on the nature of the item; however, the fulfillment and distribution requirements have significant commonality. Major retailers manage complex supply chains and are typically very demanding of their suppliers as they strive to service growing demand from consumers for speed of delivery and variety of products. QAD solutions address the complex replenishment requirements of companies supplying the retail supply chain, including promotional pricing, demand planning, quality compliance and product configuration.
+
+Food and Beverage: Food and beverage manufacturing is complex and requires regular updates to product, packaging and pricing. There is a lack of uniformity in the supply chain, which challenges food and beverage manufacturers to excel at supply chain management, as seasonal demand changes cause inefficiencies and increase manufacturing costs. At the same time, manufacturers must comply with requirements like field to fork traceability and record keeping. QAD focuses on the following six segments in the food and beverage industry: shelf-stable bottling, canning and packaging; distilleries, wineries and brewing; frozen foods; creameries and fresh foods; candy and confections; and meat and fish processing. Our solutions support regulatory and quality initiatives, such as the U.S. Food Safety Modernization Act (“FSMA”) and Hazard Analysis and Critical Control Point (“HACCP”) analysis, which address the management of biological, chemical and physical hazards. Our solutions support the product cycle of the food and beverage industry from raw material production, procurement and handling to manufacturing, distribution and consumption of the finished product. QAD’s software is standards-focused to help companies ensure food safety and meet the regulatory requirements in the global markets where our customers operate. QAD provides solutions for food and beverage companies that manufacture a broad range of products and manage many of the world’s well-known brands.
+
+High Technology: The success of manufacturers in the high tech industry relies on innovation and the ability to manage change. These manufacturers are subject to constant pressure on margins, challenges with cross border shipments, strains on material availability and cost control initiatives.  They require agile and effective global supply chains. All of these challenges need to be met while complying with standards and industry regulations. QAD solutions are used by many high-technology companies that manufacture a diverse range of products. QAD focuses on the following four segments in the high technology industry: standalone devices and test equipment; batteries, power supplies and lighting; cable, wiring and connectors; and tech contract manufacturing. High-tech companies often face the challenges of very complex product structures with a need for traceability of parts and processes throughout their entire supply chain, as well as tight control of engineering changes. Many high-tech companies providing complex systems also face the challenge of managing installation and support of equipment after sale, in addition to managing field engineering resources. A high-technology manufacturer can use QAD’s solutions to configure product based on customers’ preference; manufacture and assemble product according to a customized specification; and schedule, install and support equipment throughout its lifecycle.
+
+5
+
+Industrial Products: Today’s global customers are demanding more configure-to-order, make-to-order, and assemble-to-order products. As a result, the modern, agile industrial manufacturer must be responsive to demands while managing tight margins, operational challenges and rapid changes to product features. QAD customers manufacture products as diverse as machine tools; specialist ceramic materials used in aerospace and defense; and equipment used in the oil and gas industries. Fluctuating demand leads to significant challenges in managing the internal supply chain, coordinating the extended vendor ecosystem, controlling costs, ensuring quality, tracking production, and optimizing inventory levels. Companies in this broad vertical market have requirements to maintain many manufacturing methodologies, often within the same enterprise. QAD focuses on the following six segments in the industrial products industry: flexible packaging; engineered materials; contract manufacturing; standalone equipment; remanufacturing; and roll stock and wire cable. Our solutions support multiple manufacturing methodologies in parallel, including lean manufacturing. The need for traceability of materials from source through to the finished product is often important to our customers, and QAD’s capabilities in traceability and serialization support this feature. QAD’s solutions are also used to support our customers’ environmental compliance needs.
+
+Our focus on these six vertical markets gives us a competitive advantage by providing a solution developed specifically for our target customers, without the complexity and distraction of functionality they don’t want and don’t need. While some vendors provide broader solutions built for many industries, our narrow vertical focus allows our customers to implement our solutions with fewer configurations and customizations than our competitors require, enabling less complex and faster implementations. We leverage our vertical market expertise in research and development to meet specific industry needs: in sales, to understand our customer’s unique requirements; in presales, to demonstrate how these requirements are handled in the software; and in services, to apply best practices in optimization of business processes and implementation of the software. Our options to sell our product in the cloud or as on-premise licenses enable customers operating in multiple locations to choose a deployment option that best meets their unique needs.
+
+QAD SOLUTIONS
+
+QAD products and services support the business processes of global manufacturing companies in our target industries. We continually monitor emerging business requirements and practices as well as regulatory changes and incorporate them into our product and solutions strategies. Our development focus emphasizes user experience. We strive to deliver solutions that offer comprehensive capabilities while being easier to learn and use. Our goal is to make all capabilities that a particular user needs available with only a few clicks, giving our end users significant gains in efficiency as well as making the user experience more enjoyable.
+
+     The Channel Islands program was designed to transform the architecture and user experience of QAD solutions. Channel Islands has two key components: Channel Islands Experience and the QAD Enterprise Platform.
+
+The Channel Islands Experience provides access to QAD Enterprise Applications on any device with a modern web browser. It includes a new user interface (“UI”) written in HTML5 and is accessible to the user with any standard browser. The new UI provides seamless access across desktops and mobile devices and has the ability to co-exist with our current .NET UI.  
+
+The QAD Enterprise Platform is the architecture behind Channel Islands. The benefits it provides to customers make it the most significant part of the solution. Manufacturers need an Enterprise Resource Planning (“ERP”) system that will allow them to easily change their business processes to meet the demands of their changing market. The QAD Enterprise Platform provides five rapid response capabilities: Personalization; Embedded Analytics; Modularization; Extensibility; and New Apps. Most critically, these capabilities include the ability to extend current applications, to connect with external systems through micro services, and to develop entirely new applications on the platform without the need to write or modify code in QAD Enterprise Applications. Extensions and new apps are non-intrusive to the enterprise applications and do not hinder future upgrades. Modularity provides the ability to upgrade the solution by components, rather than upgrading the entire solution at one time. This makes upgrades smaller, faster and easier; helping customers stay on the most current version of our software which reduces the gap between their business needs and what our enterprise applications provide. Modularity allows us to improve the efficiency of our cloud operations using a simplified upgrade process. The architecture eases the adoption of new advanced technologies into the solution.
+
+Mobile devices continue to play an ever-increasing role in our day-to-day lives, and our customers are using mobile computing to support their businesses. Channel Islands leverages a responsive HTML5 user interface that displays appropriately across screen sizes. As such, Channel Islands is available on any device with a modern web browser, including tablets and smartphones.  In addition, QAD provides some mobile specific applications purpose-built for the actions users are likely to take on their mobile devices. These include a requisition approval solution, a mobile business intelligence solution, mobile browse capability and mobile application monitoring tools to support system administrators.
+
+In support of our focus on business process efficiency, we have integrated the ability to generate business process maps for common business processes into our software using the QAD Process Editor tool. This tool simplifies implementations, maps common business processes and facilitates navigation throughout the entire product suite. Within our suite, we have embedded business process management (“QAD BPM”). QAD BPM allows customers to visualize their business processes; monitor transactional throughput by user, role or stage; and modify those processes to make them more efficient. Using QAD BPM, companies can create business process models, assign task responsibilities, and monitor and re-direct workflow; all of which reduce process execution time, improve visibility of active processes, identify bottlenecks and support process improvement.
+
+6
+
+QAD developed its solutions to allow simple integration with other systems our customers use within their organizations. For example, we enable seamless integration between QAD Enterprise Applications and common browser applications and spreadsheets. QAD solutions also integrate easily with other web applications and web services. Using our Q-Xtend toolset, customers can connect to different software, even when remote, and they can use industry-standard middleware products such as the IBM MQ™ series or the standard connectors built on the Dell Boomi AtomSphere integration platform. Robust Application Program Interfaces (“APIs”) along with QAD Automation Solutions provide additional capabilities for integration.
+
+QAD Enterprise Applications
+
+QAD Enterprise Applications is an integrated suite of software applications, which supports the core business processes of global manufacturing companies, and provides specific functionality to support the requirements of our targeted industries and the geographies in which our customers conduct business. QAD Enterprise Applications allows customers to monitor, control and support their operations, whether operating a single plant or multiple sites, wherever they are located around the world.
+
+QAD Enterprise Applications has strong capabilities for addressing global complexities in customers’ business models, such as compliance with local accounting practices and legislation, as well as internal reporting on global performance. QAD Enterprise Applications includes full support for multiple currencies, multiple languages and complex corporate structures such as multiple companies or divisions.
+
+QAD Enterprise Applications is available in the cloud, on-premise and in a blended model combining both of these deployment alternatives. Blended deployment enables users to transact more easily across business entities with a consistent interface and consistent functionality since our cloud and on-premise technology is compatible. Companies that have chosen the cloud as a strategic direction but who cannot, or do not want to, move all locations at one time, find the blended deployment model allows them to transition to the cloud with less risk. The finance function can view individual business unit results and run consolidations that cross both cloud and on-premise sites seamlessly, while other users can transact and view inventory in multiple locations irrespective of whether any specific business entity is operating in the cloud or on- premise.
+
+QAD Enterprise Applications is comprised of the following software solutions:
+
+QAD Financials
+
+QAD Financials provides comprehensive capabilities to manage and control finance and accounting processes at a local, regional and global level. The suite supports multi-company, multi-currency, multi-language and multi-tax jurisdictions, as well as consolidated reporting and budgeting controls. These capabilities give cross-functional stakeholders access to financial results; enabling faster, more informed decision making while providing robust internal controls. Enterprise Financials includes multi-GAAP support, such as International Financial Reporting Standards (“IFRS”), as well as extensive local tax capture, reporting capabilities and segregation of duties enforcement.
+
+QAD Customer Management
+
+QAD Customer Management enables global manufacturing companies to acquire new customers efficiently, grow revenue through multiple channels and retain customers through superior service and support. QAD Customer Management helps our customers measure marketing campaign effectiveness, manage the sales opportunity lifecycle and optimize order and fulfillment processes. QAD Configurator has the ability to create unique products specified to customer requirements, enabling simple and cost effective controls for mass customization of products. The suite includes the ability to centralize sales order entry, including orders for configured items, and to ship the items from any facility or business entity. QAD Customer Self Service provides a web storefront for our customers to transact sales, which is fully and securely integrated with the rest of QAD Enterprise Applications.
+
+QAD Manufacturing
+
+QAD Manufacturing delivers comprehensive capabilities to support manufacturing business processes, from planning through execution, and provides visibility and control of materials and labor. The suite has capabilities in the areas of planning and scheduling, cost management, material control, shop floor control, quality management and reporting in various mixed-mode manufacturing environments. The manufacturing models supported include Discrete, Repetitive, Kanban (particularly relevant in lean manufacturing practices), Flow, Batch/Formula, Process, Co-products/By-products and Configured Products. The system also includes flexible item attributes that customers can use to track lot characteristics or test results. The Lot Trace Workbench provides insight into any products component genealogy and greatly simplifies product recalls. QAD Manufacturing supports companies’ deployment of business processes consistent with their industry’s best practices. The integration between scheduling, planning, execution, quality and materials allows tight control and simple management of processes.
+
+7
+
+QAD Automation Solutions
+
+QAD Automation Solutions improves manufacturers’ material transaction processing accuracy and efficiency by aligning QAD Enterprise Applications with material and production processes. There are two primary components to QAD Automation Solutions:
+
+These capabilities help manufacturers better align their material logistics processes in a timely fashion while ensuring inventory accuracy through process compliance.
+
+QAD Demand and Supply Chain Planning
+
+QAD Demand and Supply Chain Planning (“QAD DSCP”) is a comprehensive group of applications built on a single unified model to fulfill the materials planning and logistics requirements of global companies. QAD DSCP is supported and developed by our DynaSys operating division. This solution set delivers functionality and capabilities that help enterprises optimize their supply chains to enhance customer satisfaction through timely deliveries. Enterprises can align supply and demand to support the delivery of the right product, to the right place, at the right time and at the most efficient cost. The suite utilizes the DynaSys Single Click Collaborative platform, with the entire planning model running in a memory-resident database supporting real-time planning. The suite supports planning for demand, production, procurement, distribution and global sales and operations. Customers have used this solution with data sets that exceed a million SKUs. QAD Demand and Supply Chain Planning addresses both simple and complex networks; and customers have the ability to add more advanced functionality as the enterprise grows. Collaborative portals are available for both demand and supply sides to help ensure rapid communication of demand or supply fluctuations and to enable collaborative planning.
+
+QAD Supply Chain Execution
+
+QAD's Supply Chain Execution suite includes tools to support inventory and warehouse management in either simple or complex warehousing environments. For example, the QAD Warehousing tool supports complex warehouse-management techniques such as bulk, batch and wave picking, as well as multiple put away methods including calculations based on required space. It manages reusable packaging and containers to help eliminate waste and reduce costs. Additionally, QAD Enterprise Applications manages consignment inventory for both consignors and consignees, and supports strategic sourcing and purchasing. The system manages distribution requirements planning to optimize and balance inventories at multiple distribution centers which enables quick and cost effective demand fulfillment. QAD offers QAD Supplier Portal and QAD EDI for facilitation of communication and collaboration with members of a supply chain. These two solutions are offered on a subscription basis only.
+
+QAD Transportation Management
+
+QAD markets transportation solutions directly to our existing customers as part of QAD Enterprise Applications, and to the general market through our Precision division. QAD Transportation Management facilitates correct documentation and control for moving shipments across borders. Transportation Management allows companies to manage and optimize outside carriers for shipments including parcel, less than truckload, full truckload and container shipments whether using land, sea or air carriers. Compliance and risk management enables companies to comply with regulations concerning denied parties and control of dangerous substances.
+
+QAD Service and Support
+
+QAD Service and Support enables exceptional after-sale customer service and support for companies who commission and support complex systems. The integration from customer demand through manufacturing to installation and support provides companies with great efficiencies when managing their business processes. QAD Service and Support handles service calls, manages service queues and organizes mobile field resources. It also provides extensive project management support, helping organizations track materials and labor against warranty and service work; compares actual costs to budget; and generates appropriate invoicing.
+
+8
+
+QAD Enterprise Asset Management
+
+QAD Enterprise Asset Management (“EAM”) helps companies manage maintenance and installation of capital equipment. The solution supports both planned and unplanned equipment maintenance based on elapsed time or completed quantities. It includes the ability to track calibrations, labor and required parts used for maintenance. In addition, it has project accounting capabilities to plan, track and control detailed project budget and spending data for capital expense projects such as refits or building and commissioning new plants. EAM includes functionality to manage rotable (renewable) inventory. EAM helps manufacturers achieve a balance between having the right equipment available and minimizing their equipment investment. It ensures critical spare parts are on hand as needed and monitors company expense and approval policies with regard to capital plant and equipment.
+
+Action Centers with Embedded Analytics
+
+Action Centers are designed to provide the data and information users need in order to work efficiently in a straightforward visual format. Users can drill down into more detail or take quick action based on the insight the solution provides. Action Centers provide built-in analytics and operational metrics as well as more than 400 browses and nearly 450 reports. All information can be accessed from a tablet to support users who are not at their desk or in the office.
+
+QAD Analytics
+
+QAD Enterprise Applications provides decision makers and company stakeholders with key data to measure performance against company and strategic goals. QAD Analytics helps customers perform complex analyses, make informed decisions and improve performance management by highlighting areas that need improvement and enabling drill down to source data. The QAD Analytics suite consists of multiple analysis and data extraction tools all working in harmony to provide user-defined analysis such as consolidated reporting or reporting by geography, product line or cost center.
+
+The solution consists of QAD Reporting Framework, which provides powerful, yet simple, reporting and real-time visibility with ad hoc inquiries; Operational Metrics, which enables companies to define and monitor key performance indicators; and QAD Business Intelligence, which allows for dynamic analysis and trend reporting across multiple data sources. Customers can also access QAD Business Intelligence using mobile devices, which allows users to view, filter and sort all data accessible to QAD Browses using mobile devices.
+
+QAD Enterprise Quality Management System
+
+QAD provides enterprise quality management and regulatory compliance solutions to global companies in many market segments, including QAD’s target markets. The suite supports customers’ compliance with industry-specific quality standards. In the automotive vertical, QAD’s solution delivers automation of Advanced Product Quality Planning (“APQP”) methodologies, including Production Part Approval Process (“PPAP”), process flow and approvals. In the life sciences vertical, customers benefit from critical functionality supporting corrective and preventative action and non conformance reporting. The suite also features manufacturing quality solutions for audit, risk management, document control, gage calibration, inspection and statistical process control. Our CEBOS division supports and develops QAD’s Enterprise Quality Management suite.
+
+QAD Interoperability
+
+QAD Enterprise Applications uses a services-oriented architecture, allowing customers to easily integrate QAD Enterprise Applications with other non-QAD core business applications. Through our QAD Q-Xtend toolset, we promote open interoperability with comprehensive APIs and published events. These offer QAD customers a choice of solutions in their operating environments. In addition, we resell the Dell Boomi integration platform as QAD Boomi AtomSphere. This provides a comprehensive platform for managing integrations to many cloud and on-premise products, making whole enterprise integration easier for QAD customers. QAD Cloud EDI provides EDI translation and communication services that complement the QAD EDI eCommerce offering to provide a full end-to-end solution simplifying global e-commerce and collaboration with trading partners across the value chain. QAD Cloud EDI provides a scalable solution for companies to rapidly implement and standardize EDI across their global enterprise.
+
+QAD Internationalization
+
+QAD supports companies that manufacture and distribute their products around the world. When a global company expands its operations, it often needs to accommodate local languages, local accounting standards and local business practices. Operating in different countries also requires access to specific local software, such as that used to interface to banks in their country of operation. QAD supports the requirements of 60 different countries with its internationalization capabilities.
+
+9
+
+QAD Divisions
+
+Over time we have acquired certain companies to enhance our product capabilities. We have chosen to keep some of our acquired companies operating as divisions because they may market their software outside of our core QAD customers. Although the products marketed by these divisions have all been incorporated into QAD Enterprise Applications, these divisions also maintain their own websites, operate under their own names and may sell their products under their own names.
+
+The following divisions operate as part of QAD Inc.:
+
+Precision Software
+
+Precision markets our transportation solutions. Precision Transportation Management facilitates documentation and control for moving shipments across borders, including regulatory compliance, and allows companies to optimize outside carriers for shipments.
+
+DynaSys
+
+DynaSys markets our Demand and Supply Chain Planning applications. These applications deliver functionality and capabilities that help enterprises optimize their supply chains to enhance customer satisfaction through timely deliveries. The application suite supports planning for demand, production, procurement, distribution and global sales and operations.
+
+CEBOS
+
+CEBOS provides our enterprise quality management and regulatory compliance solutions. This application suite features manufacturing quality solutions for audit, risk management, document control, gage calibration, inspection and statistical process control.
+
+Customer Support and Product Updates Provided via Our Cloud and Maintenance Offerings
+
+Customer support services and product enhancements are provided to our cloud customers as part of their monthly subscription fee and to on-premise customers via our maintenance offering. Customer support services include Internet and telephone access to technical support personnel located in our global support centers. Through our support services, we provide the resources, tools and expertise needed to maximize the use of QAD Enterprise Applications. Customers active on maintenance or the cloud are also entitled to receive product upgrades and enhancements on a when-and-if available basis.
+
+As part of our maintenance and cloud offerings, our online support site also provides access to an extensive knowledge database, online training materials, a virtual training environment, remote diagnostics and our software download center, called QAD Store. Our support professionals in our global support centers focus on quickly resolving customers’ issues, maintaining optimal system performance and providing uninterrupted service for complete customer satisfaction. In addition, we provide other products, including operational metrics, workbenches and monitoring tools. Customers have access to these products at no additional fee, provided they have a current maintenance or cloud agreement in place with QAD.
+
+Our cloud customers are able to enjoy Internet access to their solutions in a scalable, reliable and secure environment anywhere in the world. This environment is managed by our Cloud Operations group with infrastructure operated by us, but located within third-party data center facilities or from cloud computing platform providers. The cloud operations group is dedicated to supporting our cloud solutions. Located primarily in the U.S. and India, they manage the day-to-day operations of our cloud computing solutions, act as the control point for activities related to elements of the cloud and maintain our cloud environment, including customizations, conversions and upgrades to QAD Enterprise Applications.
+
+Generally, our on-premise customers purchase maintenance when they acquire new licenses and our maintenance retention rate is more than 90%. Our maintenance and other revenue represented 42%, 47% and 48% of our total revenues in fiscal 2018, 2017 and 2016, respectively. Our maintenance revenue is negatively impacted by customers on maintenance converting to our cloud solutions. When maintenance customers convert to the cloud, they no longer contract for maintenance as those support services and unspecified updates are included as a component of the subscription offering. Our cloud revenue represented approximately 20%, 17% and 11% of our total revenues in fiscal 2018, 2017 and 2016, respectively, and our cloud customer retention rate is also in excess of 90%. We track our retention rate of cloud and maintenance by calculating the annualized revenue of customer sites with contracts up for renewal during the period compared to the annualized revenue associated with the customer sites that have canceled during the period. The percentage of revenue not canceled is our retention rate. Conversions to the cloud are not considered cancellations for purposes of the maintenance retention rate calculation. Additional users and additional modules are not included in the annualized revenue for purposes of this calculation.
+
+QAD Global Services
+
+QAD offers professional services including consulting, deployment, training and integration to facilitate adoption of our Enterprise Applications solution and enable customer success.
+
+10
+
+QAD Global Services engages with our customers across the entire enterprise application life cycle through planning, design, implementation and management. Whether in the cloud or on-premise, our Global Services group assists our customers with initial deployments, upgrades to more current product versions, migration of on-premise deployments to the cloud, conversion and transfer of historical data, ongoing system and process optimization, and user training and education. In addition, through its ecosystem of partners, QAD can offer our customers augmented resources to assist on typical site-based implementation activities such as data cleansing, functional support, training and User Acceptance Testing (“UAT”).
+
+QAD Global Services includes 450 consultants located throughout the world, augmented by a growing global network of certified partners. Our consulting ecosystem spans 65 countries. QAD consultants and partners are trained on our best practice implementation methodologies and have obtained certifications of proficiency in many areas. We offer a complete portfolio of services, delivered to consistent standards across the globe. Working in tandem with our partners, we support national, multinational and global projects on behalf of QAD customers.
+
+In support of QAD’s vision of all customers becoming Effective Enterprises, QAD has developed a framework of Key Performance Indicators (“KPIs”) used by QAD Global Services to measure pre- and post-implementation performance of business processes and aid in the diagnosis of opportunities for continuous improvement. The QAD KPI framework is available to all customers and is monitored using the QAD analytics suite.
+
+QAD’s principal methodology for deployment of solutions is called QAD Easy On Boarding (“EOB”). EOB has been designed to make deployment of QAD solutions on-premise or in the cloud standardized and efficient. EOB features predefined industry process models and work instructions built into the products themselves as well as implementation guides and scripts, all based on our experience with best practice standards. With EOB, implementation can be faster than more traditional approaches.
+
+QAD Global Services focuses on assisting customers with the following activities:
+
+Implementations and Migrations – QAD Global Services supports customers with the initial implementation of QAD Enterprise Applications. QAD Global Services has expertise in global implementations, harnessing the entire QAD Global Services ecosystem to provide local or remote support to meet customer requirements. QAD Global Services deploys our applications both on-premise and in the cloud. In addition, QAD Global Services has the experience to assist new customers with migration from other enterprise application systems. This service includes data conversions as well as process design change management.
+
+Upgrades – QAD Global Services assists customers in the process of upgrading their QAD Enterprise Applications to the latest version, accelerating time to benefit, increasing new functionality and applying usability best practices.
+
+Conversions – QAD Global Services employs a standardized process for converting from on-premise solutions to the cloud.
+
+Integration – QAD Global Services has the expertise and experience to quickly integrate QAD solutions with other systems.
+
+Systems Management – QAD Global Services delivers a range of services to support the technical management of systems and performance monitoring for those customers who choose on-premise deployment.
+
+Training and Education – QAD Global Services offers a full range of services leveraging QAD’s learning management system. Users can access multimedia training on all QAD offerings and take advantage of pre-defined learning plans for all of the roles that QAD users typically perform. Global Services also provides customized courses that are taught on-site to meet specific customer needs and are available to end users, IT professionals, department managers, partners and consultants.
+
+Extended Solution Support – QAD Global Services is available to support interfaces, any customer specific customizations and EDI solutions through our Extended Solution Support Services.
+
+Business Process Improvement – QAD has developed a range of predefined diagnostic offerings called Q-Scans. QAD Global Services utilizes Q-Scans to engage in highly efficient diagnosis of key business processes and functional areas to provide recommendations to customers for continuous improvement.
+
+Pre-Defined Consulting Engagements – QAD Global Services performs diagnostic and prescriptive consultations that cover many areas including customization, analytics and various areas of compliance such as MMOG/LE and FDA requirements.
+
+QAD Global Services’ network of employees, consultants and partners knows QAD software best. They diagnose issues preventing businesses from running efficiently and prescribe steps to maximize the benefits of QAD Enterprise Applications. These QAD experts offer what outside consultants cannot - a combination of a deep understanding of the industries in which our customers operate, in-depth knowledge of functionality of the QAD solution portfolio and the proven experience of helping customers leverage our software to become more Effective Enterprises. QAD Global Services offers a full range of program management, project management, industry consulting and technical services certified in our products and methodologies.
+
+11
+
+QAD GLOBAL PARTNER NETWORK
+
+QAD establishes strategic relationships with our partners to expand our sales reach, improve our market impact, provide technological advantages and strengthen our strategic position in the industries that we serve. QAD and our partners are constantly evolving, broadening our expertise and our footprint in order to meet the diverse needs of our customers around the world. Today we have approximately 130 companies partnering with us to deliver innovative solutions, services and technology that help our customers build their Effective Enterprise.
+
+OUR STRATEGY
+
+All aspects of our solutions, services and customer engagement are designed to support our vision for the Effective Enterprise where every business process is running at peak efficiency and perfectly aligned to our customers’ strategic goals. In a constantly evolving world, continuous improvement and flexible systems are fundamental requirements for achieving this vision. In support of our vision, we focus on providing complete solutions and expertise that help our customers improve the effectiveness of their business processes. In addition, our software is designed to support global regulatory and business practice requirements that enable our customers to satisfy governmental and industry regulations, while incorporating industry best practices and providing real-time visibility and measurement supporting continuous business process improvement initiatives.
+
+We build solutions in 26 specific industry segments across six manufacturing verticals to provide our customers the capabilities and best practices they need to run their enterprises effectively without the complexity and excess cost associated with customizing generalist solutions. We focus on those areas, within the segments we target, where we see potential for increased growth due to manufacturing expansion, cloud adoption or emerging requirements that we can address.
+
+Our goal is to enhance our position as a leading provider of cloud-based enterprise applications for global manufacturing companies. The key elements of our strategy, which we believe will support the achievement of our vision and help drive continued growth, are as follows:
+
+Grow our cloud business and expand our footprint within existing customers. We provide full-featured vertically-focused cloud solutions and we believe there is substantial opportunity to grow our cloud-based enterprise solutions within our global manufacturing customer base and to acquire new customers in the core vertical markets we serve. Our cloud solutions allow our customers to focus on their customers and products without the distraction of administering their enterprise applications or maintaining their infrastructure. With over 2,000 customers across our core vertical markets and over 300,000 active users of our on-premise and cloud solutions, we have many opportunities to increase cloud revenue across our existing installed base. We believe new manufacturing companies, or companies created through divestiture from a larger entity, that do not have an existing legacy enterprise platform, are more likely to adopt a cloud computing solution when choosing and implementing a new enterprise system to run their business. 
+
+Continuous product development and rapid response to change. Many manufacturers are facing increased change in their industries driven by technology that is enabling new disruptive business models. Just as manufacturers are facing changes in the markets they serve, they are also facing changes in the way they manufacture. Our ability to successfully compete depends in part on our continuous product development and rapid introduction of new technologies, features and functionality. Manufacturers are facing a swiftly changing business environment fueled by exponential growth in underlying technologies. Traditional ERP systems were not designed to manage this rate of change in business process. The QAD Enterprise Platform enables a rapid response to change, allowing customers to align their systems to the current optimal business process without the need for intrusive customization that hinders the ability to respond to future changes. Industry 4.0, Internet of Things (“IoT”), Machine Learning (“ML”), Artificial Intelligence (“AI”), Additive Manufacturing (“3D Printing”), Blockchain, Augmented Reality, and Predictive Analytics are all examples of evolving technologies that can impact the markets in which our customers operate. We believe delivering a focused, flexible ERP system will be increasingly attractive to pragmatic manufacturers seeking a long-term fit of their business systems in support of their strategy in changing markets. We are committed to continuous investment in product development to ensure our products have the necessary capabilities to meet the needs of our global customers and enhance our competitive position in the vertical markets we serve.
+
+12
+
+ Focus on global manufacturing and leverage expertise within key vertical markets. Many manufacturers operate globally, requiring a provider that can tailor solutions to the unique needs of their markets, deliver local and global services resources and support local languages. Solutions must be cost effective and easy to implement and use. Our solutions offer many benefits to customers with global operations, including capabilities that support operations in multiple geographies with a variety of languages and currencies, as well as compliance with complex local regulations and business practices. Our existing global footprint is a key leverage point for meeting these needs by utilizing offices, personnel and partnerships in many countries around the world. We also employ staff with specific knowledge and experience in the industries in which our customers operate. We provide our solutions to 26 segments across six vertical manufacturing markets; and we actively participate in several leading industry associations; and pride ourselves on the deep expertise of our staff. Our industry knowledge continues to deepen through regular interaction with our customers. This collective experience allows QAD to develop solutions with specific capabilities that address our customers’ needs in the industries they serve.
+
+Enhance customer experience to deliver continuous value and maximize customer retention. Through award-winning customer engagement, recognized by Consumer Goods Technology Magazine for four straight years, QAD delivers a continuous improvement process to enable continued alignment for the long term between our customers’ business strategy, people, processes, and best practices; and the technology that supports it. We strive to engage with every customer every year, frequently conducting reviews of their business processes and presenting opportunities for improvement. Our deep vertical segment focus and strong, ongoing customer relationships drive continuous development of industry-specific functionality. As a result, we have maintained retention rates in excess of 90% annually.
+
+TECHNOLOGY
+
+QAD Enterprise Applications was designed to achieve our vision for global manufacturing companies to effectively run their business processes at peak efficiency, in alignment with their strategic goals. We have chosen the best technologies to achieve our vision, focusing on user experience, integration, business services, analytics, databases and deployment flexibility. We embrace ‘openness’ as a core principle of our designs, aiming to allow customers freedom of choice of devices and open connectivity with other systems. The core of QAD Enterprise Applications is built on a services-oriented architecture, which allows QAD Enterprise Applications’ components to communicate with one another through industry-standard messaging techniques like Representation State Transfer services. This allows customers to exploit the full benefit of QAD’s open architecture for their businesses.
+
+QAD Enterprise Applications core systems are built upon the QAD Enterprise Platform. The QAD Enterprise Platform is a micro-services architecture with the technologies and development tools needed to build a world class user experience (UX) with comprehensive functionality for global manufacturing companies.  This functionality is encapsulated into Apps that can be upgraded independently of each other as well as extended by customers.  Apps can be accessed securely over the Internet via a web browser or mobile devices (iOS and Android). The platform provides many advanced services to Apps like an App builder, security, integration, cloud support, analytics, mobile, collaboration and a world-class UX.  The platform supports UX, code, data and cloud flexibility to adapt readily to the ever-changing world of technology.  The UX is built using the latest open web technologies to support a rich HTML5 user interface. Business logic can be implemented in JavaScript via the more structured Type Script, Oracle’s Java or Progress Software Corporation’s OpenEdge language. Databases include MySQL and Progress OpenEdge.
+
+QAD’s enterprise architecture provides significant flexibility for global companies in deploying QAD Enterprise Applications. Our enterprise architecture allows companies to separate the legal structure of their business from physical operating locations or to separate both of these from the software instances and computer hardware that support them. With QAD enterprise architecture, customers can choose which sites are a part of which companies, which sites are supported on any instance of the application, or which sites operate as one instance. Customers can also choose centralized, decentralized or hybrid computing architectures with parts of their enterprise running from both central resources and local resources.
+
+QAD combines our technologies to provide a comprehensive cloud solution for our customers. Our cloud architecture encompasses infrastructure provisioning and application deployment, management, monitoring and security; providing a world-class development operations practice built around Information Technology Infrastructure Library (ITIL) standards. QAD’s cloud infrastructure operates on a Cloud Management Platform. This enables QAD to seamlessly deploy customer systems to one of a number of global cloud infrastructure providers as part of the QAD Cloud offering.  Our cloud delivery centers are certified under the ISO 9001:2008 standard for quality management, the ISO 20000:2011 standard for service management (SMS), the ISO 27001:2013 standard for information security management (ISMS), the FDA 21 CFR Part 11 requirements for electronic records and signatures, and the SSAE 16 (SOC I-Type II) requirements for reporting and compliance controls.
+
+PRODUCT DEVELOPMENT
+
+Rapid change in the technology industry continued through fiscal 2018 and the manufacturing sector was focused on the IoT, Machine Learning, Augmented Reality and Predictive Analytics. In addition, our customers and the industries that we support are continually evolving with a focus on Industry 4.0, as do their expectations for integration, performance and the user experience of our software. We continue to maintain a global research and development organization that provides new product enhancements to the market on a semiannual basis in order to be responsive to industry and regulatory changes.
+
+13
+
+The enterprise software industry is continuing its transition from selling on-premise licenses to selling cloud-based solutions, which include more integration to IoT devices, social media interaction, mobile computing and platform services capabilities. In fiscal 2018, we released a major upgrade to the Enterprise Edition software suite that was focused on supply chain efficiencies and flexible manufacturing. We also introduced a new module focused on Revenue Recognition in support of new accounting standards: U.S. Financial Accounting Standards Board (“FASB”) Accounting Standards Update 2014-09, Revenue from Contracts with Customers (Topic 606) and International Accounting Standards Board (“IASB”) International Financial Reporting Standard 15, Revenue from Contracts with Customers that went into effect for publicly-traded companies for fiscal years beginning December 15, 2017 and thereafter.
+
+We continued the transition of our business model and product suite to cloud-based offerings as we released another version of our latest user experience and QAD Enterprise Platform in the sales, service and purchasing areas of the product suite to our cloud customers. Our latest release supports mobile applications for decision making and provides insights into the health of our customers’ businesses. This offering is designed to give our customers even more value and flexibility when using our product suite with a secure browser from anywhere the user has connectivity. We take security very seriously, and with every new release we have our software verified through an outside firm by scanning all the source code and performing penetration testing to preemptively identify and remove security flaws. With our web services, rich set of API’s and the QAD Enterprise Platform, our customers can more easily connect our product suite to other applications.
+
+We dedicate considerable technical and financial resources to research and development to continually enhance and expand our product suite. For example, in fiscal 2018, we continued our internationalization program in support of the expansion of our global customers. As we ended fiscal 2018 we were supporting our customers in over 70 countries with a single solution managed and maintained by QAD’s research and development organization. We see a growing trend to move toward electronic invoicing and registration of shipments and invoices with governments to prevent falsification and tax avoidance. Our goal is to provide our customers with software that assists them in meeting the legal requirements of the countries in which they do business.
+
+We operate a global research and development (“R&D”) organization comprised of 420 R&D employees located in offices in the United States, India, China, Ireland, Australia, France, Belgium, Spain, Brazil, Mexico and Great Britain. Our R&D expenses totaled $47.7 million, $43.6 million and $41.2 million in fiscal years 2018, 2017 and 2016, respectively. Our software is primarily developed internally; however, we also use independent firms and contractors to perform some of our product development activities when we require additional resources or specific skills or knowledge. All outside development is managed by our internal R&D organization. As needed, we acquire products or technology developed by others by purchasing or licensing products and technology from third parties. We continually review these investments in an effort to ensure that we are generating sufficient revenue or gaining enough competitive advantage to justify their costs. We routinely translate our product suite into fourteen languages and through our internationalization program we support mandatory governmental regulations and reporting requirements for over 70 countries. This is accomplished through a single offering for our customers in the cloud or on-premise, allowing them to run their businesses using a consistent core business model with the deployment model of their choice.
+
+We plan to continue to manage significant product development operations internationally over the next several years. We believe that our ability to conduct research and development at various locations throughout the world allows us to optimize product development at lower costs, and integrate local market knowledge into our development activities. We continually assess the significant costs and challenges, including intellectual property protection, against the benefits of our international development activities. 
+
+DIRECT AND INDIRECT SALES
+
+QAD sells its products and services through direct and indirect sales channels located throughout the regions of North America, Latin America, EMEA and Asia Pacific. Each region leverages global standards and systems to enhance consistency when interacting with global customers. Additionally, we have a global strategic accounts team, which is responsible for managing QAD’s largest global customers across regions.
+
+Our direct sales organization includes approximately 70 commissioned sales people. Incentive pay is a significant portion of the total compensation package for our sales staff. We continually align our sales organization and business strategies with market conditions to maintain an effective sales process. We cultivate the industries we serve within each territory through marketing, local product development and sales training.
+
+Our indirect sales channel consists of approximately 40 distributors and sales agents worldwide. We do not grant exclusive rights to any of our distributors or sales agents. Our distributors and sales agents primarily sell independently to companies within their geographic territory, but may also work in conjunction with our direct sales organization. We also identify global sales opportunities through our relationships with implementation service providers, hardware vendors and other third parties.
+
+14
+
+Our marketing strategy is to differentiate our offering by focusing on our role in providing value by helping our customers achieve the vision of the Effective Enterprise. Our main marketing objectives are to leverage the measurable success in business outcomes our customers have achieved and highlight hidden costs prospects may face to increase awareness and drive leads. We do this by openly and consistently communicating with QAD customers, prospects, partners, investors and other key audiences. Our primary marketing activities include: press and industry analyst relations to garner third-party validation and generate positive coverage for our company, offerings and value proposition; user conferences and events, such as Explore, as well as participation in other industry events, to create customer and prospect awareness; content marketing and engagement on social channels like Facebook, Twitter, LinkedIn and YouTube; search engine optimization, retargeting and pay per click advertising to drive traffic to our web properties; web site development and gamification to engage and educate prospects and generate interest through product information and demonstrations, case studies, white papers, and marketing collateral; customer testimonials, references, and referrals; and sales tools and field marketing events to enable our sales organization to more effectively convert leads into customers.
+
+We recognize the changing buying dynamics and are focused on engaging with prospects early in the sales cycle in order to help set the buying criteria and specifications in a way that uniquely leads to QAD. We seek to accelerate prospects through the buying journey by demonstrating the value of our products, answering questions, and removing roadblocks.
+
+COMPETITION
+
+Every aspect of our business is affected by strong competition from both enterprise software application vendors and cloud computing application services providers. The markets for our on-premise and cloud offerings are rapidly evolving; highly competitive; and subject to changing technology, shifting customer needs and frequent introductions of new applications. Our customers demand greater performance and reliability with lower complexity. Cost of implementation or conversion to the cloud and cost of ongoing maintenance and subscription are constant concerns when our customers make decisions about how best to deploy their resources.
+
+In the on-premise space, we compete with some of the largest and most competitive enterprise application vendors in the world, such as SAP and Oracle, who hold significant market share in the traditional marketplace. These companies have considerable financial resources and name recognition; and have established broad market solutions by developing applications targeted at many industries, not just manufacturing. They often focus heavily on positioning their size as an advantage. We typically differentiate against these companies based on the specific industry focus of our solutions as well as our customer focus. Internationally, we face competition from local companies, as well as the large enterprise application competitors, many of which have products tailored for those local markets.
+
+In addition, our industry has shifted focus from on-premise to cloud and mobile computing. Most enterprise application vendors today have some focus on cloud solutions, in addition to on-premise sales, which creates an environment in which we face competition from a variety of vendors that address one or more of our applications. As a result, our cloud solutions compete with both large enterprise software vendors and cloud computing application service providers. Smaller cloud computing vendors have so far targeted the lower end of the manufacturing supply chain market where companies operate in a single plant or single currency environment focusing mainly in the U.S. domestic market. Adding to this, other vendors that provide services in different markets may develop solutions in our target markets and some potential customers may elect to develop their own internal solutions.
+
+We believe the key competitive factors in our markets are:
+
+15
+
+We believe that we compete favorably on the basis of these factors. To further our market success, we must continue to respond promptly and effectively to technological change and competitors’ innovations. Our ability to remain competitive will depend on our efforts in the areas of product development and sales, services and support operations.
+
+EMPLOYEES
+
+As of January 31, 2018, we had 1,870 full-time employees, including 910 in support, subscription and professional services, 420 in research and development, 310 in sales and marketing and 230 in administration. Generally, our employees are not represented by collective bargaining agreements. However, certain employees in our Netherlands, France and Belgium subsidiaries are represented by statutory works councils as required under local law. Employees of our Brazilian subsidiary are represented by a collective bargaining agreement with the Data Processing Union.
+
+INTELLECTUAL PROPERTY
+
+We rely on a combination of trademark, copyright, trade secret and patent laws in the United States and other jurisdictions, as well as confidentiality procedures and contractual provisions to protect our proprietary technology and our brands and we maintain programs to protect and grow our rights. We also enter into confidentiality and proprietary rights agreements with our employees, consultants and other third parties and control access to software, services, documentation and other proprietary information.
+
+SEASONALITY
+
+Our fourth quarter has historically been our strongest quarter for new business and maintenance renewals. For a more detailed discussion, see the “Seasonal Nature of Deferred Revenue, Accounts Receivable and Operating Cash Flow” discussion in Management’s Discussion and Analysis.
+
+SEGMENT REPORTING
+
+We operate in a single reporting segment. Geographical financial information for fiscal years 2018, 2017 and 2016 is presented in Note 12 within the Notes to Consolidated Financial Statements included in Item 15 of this Annual Report on Form 10-K.
+
+AVAILABLE INFORMATION
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our website at www.qad.com, as soon as reasonably practicable after such reports have been electronically filed or otherwise furnished to the Securities and Exchange Commission. We are not including the information contained on our website as part of, or incorporating it by reference into, this annual report on Form 10-K.
+
+16
+
+The environment in which we operate involves significant risks and is subject to factors beyond our control. You should consider the risk factors described below before investing in our stock as such risks may have a material adverse effect on our business, results of operations and financial condition and could cause the price of our stock to decline. Please note that the risk factors described below are not exhaustive.
+
+Risks associated with our cloud service offerings
+
+Defects and disruptions in our services could diminish demand for our services and subject us to liability.
+
+Our cloud service offerings are complex and incorporate a variety of hardware and proprietary and third-party software, and may have errors or defects that could result in unanticipated downtime for our customers and harm to our reputation and our business. We have from time to time found defects in our services and new defects may be discovered in the future, especially in connection with the integration of new technologies and the introduction of new services. As a result, we could lose future sales and existing customers could elect to cancel or make warranty or other claims against us and potentially expose us to the expense and risk of litigation.
+
+Our revenue and profitability will be adversely affected if we do not properly manage our cloud service offerings.
+
+We expend significant resources to improve the reliability and security of our cloud offerings and the cost of these investments could reduce our profitability. The pricing and other terms of some of our cloud agreements require us to make estimates and assumptions at the time we enter into these contracts that could differ from actual results. Early termination, increased costs or unanticipated delays could have a material adverse effect on our profit margin and generate negative cash flow. Further, if we experience delays in implementing new cloud customers (whether due to product defects, system complexities or other factors) then customers may delay the deployment of additional users and sites, which could adversely affect our revenue growth. If we fail to meet our system availability commitments or other customer obligations then we may be required to give credits or refund fees, and we may be subject to litigation and loss of customer business. For example, if we were to miss our system availability commitments then we are obligated under our standard customer contracts to issue one day’s credit against future fees for each hour of system unavailability. 
+
+Our cloud retention rate is dependent upon a number of factors that may impact our ability to accurately predict growth in our cloud business.
+
+Our cloud customers typically enter into subscription agreements with an initial term of 12 to 60 months. Our customers have no obligation to renew their subscriptions after the expiration of their subscription period, and some customers may elect (for a variety of reasons, including a business downturn) not to renew, or may elect to renew at a lower subscription level. Growth in our cloud business may be affected by our inability to maintain high retention rates and sell additional features and services to our current customers, which could depend on a number of factors, including customers’ satisfaction with our products and services, the prices of our offerings and general economic conditions. We cannot provide assurance that our subscriptions will be renewed at the same or higher levels of service, for the same number of users or for the same duration of time, if at all, or that we will be able to accurately predict future customer retention rates. If our customers do not renew their subscriptions or if they renew on terms less favorable to us, the rate at which our cloud business grows may decline and our revenue may be reduced.
+
+We rely on third-party hosting and other service providers.
+
+We currently serve our cloud customers from third-party data center hosting facilities located in the United States and other countries. We do not control the operation of any of these facilities, and they may be subject to damage or interruption from earthquakes, floods, fires, power loss, telecommunications failures and similar events. They may also be subject to breaches of computer hardware and software security, break-ins, sabotage, intentional acts of vandalism and similar misconduct. Despite precautions taken at these facilities, the occurrence of a natural disaster or an act of terrorism, a decision to close the facilities without adequate notice or other unanticipated problems at these facilities could result in lengthy interruptions in our service. Even with our disaster recovery precautions, our services could be interrupted. Any loss or interruption of these services could significantly increase our expenses and/or result in errors or a failure of our services which could adversely affect our business. In addition, these vendor services may not continue to be available at reasonable prices or on commercially reasonable terms, or at all.
+
+17
+
+We may be exposed to liability and loss from cyber security breaches.
+
+Our cloud services involve the storage and transmission of customers’ proprietary information, and security breaches could expose us to a risk of loss of this information, resulting in litigation and possible liability. Security breaches may also include “denial-of-service” attacks, which can potentially disrupt our operations and our customers’ operations. Security measures may be breached in numerous ways, such as remote or on-site break-ins by computer hackers, disgruntled employees or employee error during transfer of data to additional data centers or at any time, and result in unauthorized access to our own and our customers’ data, intellectual property and other confidential business information. Additionally, third parties may attempt to induce employees or customers into disclosing sensitive information such as user names, passwords or other information in order to gain access to our own and our customers’ data, intellectual property and other confidential business information. Because the techniques used to obtain unauthorized access, or to sabotage systems, change frequently and generally are not recognized until launched against a target, we may be unable to anticipate these techniques or to implement adequate preventative measures. A security breach could cause a loss of confidence in the security of our services, damage our reputation, disrupt our business, create legal liability and cause severe and potentially irreparable impact to our business.
+
+Our solutions can be used to collect and store personal information of our customers’ employees or customers, and therefore privacy concerns and governmental regulations could result in additional cost and liability to us or inhibit sales of our solutions.
+
+Regulatory focus on privacy issues continues to increase and worldwide laws and regulations concerning the handling of personal information are expanding and becoming more complex. Many federal, state and foreign government bodies and agencies have adopted, or are considering adopting, laws and regulations regarding the collection, use, disclosure and retention of personal information. The European Union (“EU”) and the United States entered into a new framework (known as the “Privacy Shield”) in July 2016 to provide a mechanism for companies to transfer data from EU member states to the U.S. The Privacy Shield and other data transfer mechanisms are likely to be reviewed by the European courts, which may lead to uncertainty about the legal basis for data transfers to the U.S. or interruption of such transfers. In the event a court blocks transfers to or from a particular jurisdiction on the basis that transfer mechanisms are not legally adequate, this could cause operational interruptions, liabilities and reputational harm. These and other requirements could increase the cost of compliance for us and our customers, restrict our and our customers’ ability to store and process data, negatively impact our ability to offer our solutions in certain locations and limit our customers' ability to deploy our solutions globally. These consequences may be more significant in countries with legislation that requires data to remain localized “in country”, as this could require us or our customers to establish data storage in other jurisdictions or apply local operational processes that are difficult and costly to integrate with global processes.
+
+If we fail to comply with such laws and regulations, we may be subject to significant fines, penalties or liabilities for noncompliance, thereby harming our business.  For example, in 2016, the European Union adopted the General Data Protection Regulation (“GDPR”), which establishes new requirements regarding the handling of personal data and which becomes effective in May 2018. Non-compliance with the GDPR may result in monetary penalties of up to 4% of worldwide revenue.
+
+The market for cloud services may not develop as quickly as we expect.
+
+The market for cloud services is not as mature as the market for traditional enterprise software, and it is uncertain whether these services will achieve and sustain high levels of demand and market acceptance. Our success will depend on the willingness of customers to increase their use of cloud services in general, and for enterprise applications in particular. Some enterprises may be unwilling to use cloud services because they have concerns regarding security risks, international transfers of data, evolving regulation, government or other third-party access to data, use of outsourced services providers, and unwillingness to abandon past infrastructure investments. If the market for cloud services does not evolve in the way we anticipate or if customers do not recognize the benefits of our cloud solutions over traditional on-premise enterprise software products, and as a result we are unable to increase sales of subscriptions to our cloud offerings, then our revenues may not grow or may decline and our operating results would be harmed.
+
+Our focus on cloud services may result in the loss of other business opportunities and negatively impact our revenue growth.
+
+We have focused our sales force, management team and other personnel on growing our cloud business. This strategic direction and use of resources could result in the loss of sales opportunities in our traditional license, maintenance and services businesses. If our cloud business does not grow in accordance with our expectations and we are not able to cover the shortfall with other sales opportunities, then our business could be harmed. Although the subscription model used for our cloud business is designed to create a recurring revenue stream that is more predictable, the shift to this model may reduce our license sales, spread revenue over a longer period and negatively affect future license, maintenance and services revenue.
+
+Risks associated with rapid technological change and complexity
+
+The market for our products and services is characterized by rapid technological change.
+
+Customer requirements for products can change rapidly as a result of innovation or change within the computer hardware and software industries, the introduction of new products and technologies and changes to industry standards. Our future success, including our cloud service offerings, will depend upon our ability to continue to enhance our current product line and to develop and introduce new products and services that keep pace with technological developments, satisfy increasingly sophisticated customer requirements, keep pace with industry and compliance standards and achieve market acceptance. Our failure to successfully develop or acquire, and market, product enhancements or new products could have a material adverse effect on our business. Despite our significant investments in research and development, we may not realize significant new revenue from these investments for several years, if at all.
+
+18
+
+New software releases and enhancements may adversely affect our software sales.
+
+The actual or anticipated introduction of new products, technologies and industry standards can render existing products obsolete or unmarketable or result in delays in the purchase of those products. Significant delays in launching new products may also jeopardize our ability to compete. If we fail to anticipate or respond to developments in technology or customer requirements, have significant delays in the introduction of new products or fail to maintain overall customer satisfaction, this could experience a material adverse effect on our business. 
+
+Services engagements are complex and pose material risks.
+
+Services engagements may involve technological complexity, customer customization requests and other challenges, including in connection with our cloud environments, and such challenges demand a significant number of specialized technical resources. Our failure to successfully address these issues could have a material adverse effect on our business.
+
+Changes in laws and regulations related to the Internet may negatively impact our business.
+
+Federal, state or foreign government bodies or agencies have in the past adopted, and may in the future adopt, laws or regulations relating to Internet usage. Changes in these laws or regulations could require us to modify our applications in order to comply with these laws or regulations. In addition, government agencies or private organizations may begin to impose taxes, fees or other charges for accessing the Internet or for commerce conducted via the Internet. These laws or charges could limit the growth of Internet-related commerce or communications, or negatively impact demand for Internet-based applications such as ours.
+
+Risks associated with our revenue, expenses and pricing
+
+Our revenue and profits may fluctuate significantly.
+
+Our quarterly and annual operating results have fluctuated in the past and may do so in the future. Such fluctuations have resulted from the seasonality of our customers’ manufacturing businesses and budget cycles and other factors. Moreover, there can be no assurance that our revenue will grow in future periods. As a result of fluctuating revenue or due to accelerated costs and deferred revenue resulting from cloud bookings there can be no assurance that we will be profitable on a quarterly or annual basis. However, with the adoption of ASC Topic 606 in fiscal 2019, the company will capitalize sales commission expenses and recognize them ratably over the useful life of the customer contract resulting in more accurate predictability of such expenses.
+
+A significant portion of our revenue in any quarter may be derived from a limited number of large, non-recurring license sales.
+
+We may experience large individual license sales, which may cause significant variations in license fees being reported on a quarterly basis. We also believe that the purchase of our products is discretionary and may involve a significant commitment of a customer’s capital resources. Therefore, a downturn in any significant customer’s business could have a significant adverse impact on our revenue and profit. Further, we have historically recognized a substantial portion of our license revenue from sales booked and shipped in the last month of a quarter and, as a result, the magnitude of quarterly fluctuations in license fees may not become evident until the end of a particular quarter. Our revenue from license fees in any quarter is substantially dependent on orders booked and shipped in that quarter. We are unlikely to be able to generate revenue from alternative sources if we discover a shortfall near the end of a quarter.
+
+Our financial forecasts are subject to uncertainty to the extent they are based on estimated sales forecasts.
+
+Our revenues, and particularly our new software license revenue, are difficult to forecast, and, as a result, our financial forecasts are subject to uncertainty. Specifically, our sales forecasts are based on estimates that our sales personnel make regarding the likelihood of potential sales, including their expected closing date and fee amounts. If these estimates are inaccurate then our financial forecasts may also be inaccurate.
+
+19
+
+The margins in our services business may fluctuate.
+
+Services revenue is dependent upon the timing and size of customer orders, as well as upon our related license and subscription sales. We may hire additional services staff in anticipation of customer orders and if we are unable to keep the services staff engaged on billable matters then our profit margins may suffer. In addition, certain engagements may involve fixed price arrangements and significant staffing which require us to make estimates and assumptions at the time we enter into these contracts. Variances between these estimates and assumptions and actual results could have an adverse effect on our profit margin and generate negative cash flow and negative services margins. To the extent that we are not successful in securing orders from customers to provide services, or to the extent we are not successful in achieving the expected margin on such services, our results of operations may be adversely affected.
+
+The margins in our cloud service offerings may fluctuate.
+
+Our cloud service offerings may involve fixed price arrangements, fixed and up-front costs and significant staffing which require us to make estimates and assumptions at the time we enter into these contracts. Variances between these estimates and assumptions and actual results could have an adverse effect on our profit margin and/or generate negative cash flow. To the extent that we are not successful in securing orders from customers to provide cloud services, or to the extent we are not successful in achieving the expected margin on such solutions, our results may be adversely affected.
+
+Because we recognize revenue from cloud services over the term of the subscription, downturns or upturns in new business may not be immediately reflected in our operating results.
+
+We generally recognize subscription revenue from customers ratably over the terms of their subscription agreements. As a result, most of the subscription revenue we report in each quarter is the result of subscription agreements entered into during prior quarters. Consequently, a decline in new or renewed subscriptions in any one quarter may not be reflected in our revenue results for that quarter. Any such decline, however, will negatively affect our revenue in future quarters. Accordingly, the effect of significant downturns in sales and market acceptance of our cloud services, and potential changes in our attrition rate, may not be fully reflected in our results of operations until future periods. Our subscription model also makes it difficult for us to rapidly increase our subscription revenue through additional sales in any period, as subscription revenue from new customers must be recognized over the applicable subscription term.
+
+A significant portion of our revenue is derived from maintenance renewals with our existing installed base of customers.
+
+Maintenance renewals are at the customer’s discretion, and customers may elect not to renew. Further, it is our strategy to convert existing customers to our cloud services offering, which, if successful, will reduce maintenance renewals. If our existing customers discontinue maintenance to a significant degree, our revenues and results of operations will be adversely affected.
+
+Our maintenance retention rate is dependent upon a number of factors such as our ability to continue to develop and maintain our products, continue to recruit and retain qualified personnel to assist our customers, and promote the value of maintenance for our products to our customers.
+
+Our maintenance retention rate is also dependent upon factors beyond our control such as technology changes and their adoption by our customers, budgeting decisions by our customers, changes in our customers’ strategy or ownership and plans by our customers to replace our products with competing products. If our maintenance retention rate decreases, our revenue and results of operations would be adversely affected.
+
+We have risks regarding our pricing and pricing models.
+
+We are occasionally obliged to offer deep discounts and other favorable terms in order to match or exceed the product and service offerings of our competitors. If we do not adapt our pricing models to reflect changes in customer demand resulting from rapid technological advances, such as those leading to alternative hosting and cloud service delivery offerings, our revenues could decrease. For example, if customer software usage evolves in ways that maintain or increase the value they derive from our products while decreasing traditional licensing metrics such as individual users, then if we do not adjust our pricing models accordingly then our revenues could decrease. Further, broad-based changes to our pricing models could adversely affect our revenues and operating results as our sales force implements, and our customers and accounting practices adjust to, the new pricing models.
+
+We may have exposure to additional tax liabilities.
+
+As a multinational organization, we are subject to income taxes as well as non-income taxes in the United States and in various foreign jurisdictions. Significant judgment is required in determining our worldwide income tax provision and other tax liabilities. Although we believe that our tax estimates are reasonable, the final determination of tax audits or tax disputes may differ from what is reflected in our historical income tax provisions and accruals. In addition, the timing and complexity of the Tax Cuts and Jobs Act, enacted on December 22, 2017 (the "Tax Act"), required significant judgment in the interpretation of the Tax Act and our provision for income taxes for the year ended January 31, 2018. The Internal Revenue Service may issue guidance on the application of the Tax Act that differs from our judgment and requires us to make adjustments to our calculations that could materially impact our effective tax rate and results of operations.
+
+20
+
+Our tax rate could be adversely affected by several factors, many of which are outside of our control, including:
+
+If we are deemed to owe additional taxes, our results of operations may be adversely affected.
+
+We report our results based on our calculations of the amount of taxes owed in the various tax jurisdictions in which we operate.
+
+Periodically, we may receive notices that a tax authority in a particular jurisdiction believes that we owe a greater amount of income tax than we have reported, in which case we may engage in discussions or possible dispute resolutions with these tax authorities. If the ultimate determination of our income taxes owed in any of these jurisdictions is for an amount in excess of the tax provision we have recorded or reserved for, our operating results, cash flows, and financial condition could be adversely affected. We are also subject to non-income taxes, such as payroll, sales, use, value-added, net worth, property and goods and services taxes, in the United States and in various foreign jurisdictions. Audits or disputes relating to non-income taxes may result in additional liabilities that could negatively affect our operating results, cash flows and financial condition.
+
+Our personnel restructurings may incur significant expense and be disruptive.
+
+We have in the past restructured our workforce on a company-wide, business function or geographic basis in connection with strategic changes, cost containment and other purposes. Such restructurings, and in particular reductions in the workforce, may result in significant severance and other expenses and may also reduce productivity.
+
+Risks associated with our sales cycle
+
+Our products involve a long sales cycle and the timing of sales is difficult to predict. Because the licensing or subscription of our primary products generally involves a significant commitment of capital or a long-term commitment by our customers, the sales cycle associated with a purchase of our products is generally lengthy.
+
+This cycle varies from customer to customer and is subject to a number of significant risks over which we have little or no control. The evaluation process that our customers follow generally involves many of their personnel and requires complex demonstrations and presentations to satisfy their needs. Significant effort is required by us to support this process, whether we are ultimately successful or not. If sales forecasted for a particular quarter are not realized in that quarter, then we are unlikely to be able to generate revenue from alternative sources in time to compensate for the shortfall. As a result, a lost or delayed sale could have a material adverse effect on our quarterly and annual operating results.
+
+21
+
+Risks associated with our solutions
+
+We may experience defects in our solutions.
+
+Our solutions, including licensed software, cloud services and other services, may contain defects, including security flaws, especially when first introduced or when new versions are released. The detection and correction of defects can be time consuming and costly. Defects in our solutions, including licensed third-party software, could affect the ability of our products to work with other hardware or software products. Defects could delay the development or release of new products or new versions of products and could adversely affect market acceptance of our products and our ability to conduct our cloud operations. Defects may also impair our ability to complete services implementations on time and within budget. Customers who rely on our solutions for applications that are critical to their businesses may have a greater sensitivity to such defects than customers for software products generally. Defects could expose us to product liability, performance and warranty claims as well as harm our reputation, which could adversely impact our future sales.
+
+Dependence on third-party suppliers
+
+We are dependent on Progress Software Corporation.
+
+The majority of QAD Enterprise Applications are written in a programming language that is proprietary to Progress Software Corporation, or “Progress.” These QAD Enterprise Applications do not run within programming environments other than Progress and therefore our customers must acquire rights to Progress software in order to use these QAD Enterprise Applications. We have an agreement with Progress under which Progress licenses us to distribute and use Progress software related to our products. This agreement remains in effect unless terminated either by a written ten-year advance notice or due to a material breach that is not remedied. If Progress were to provide notice that it was terminating its agreement with us, this could have a material adverse effect on our business and prospects.
+
+Our success is dependent upon our continuing relationship with Progress.
+
+Our success is also dependent upon Progress continuing to develop, support and enhance its programming language, its toolset and its database, as well as the continued market acceptance of Progress products. A change in Progress’ control, management or direction may adversely impact our relationship with Progress and our ability to rely on Progress products in our business. We have in the past, and may in the future, experience product release delays because of delays in the release of Progress products or product enhancements. Any of these delays could have a material adverse effect on our business. 
+
+We are dependent on other third-party suppliers.
+
+We resell certain software which we license from third parties other than Progress. There can be no assurance that these third-party software arrangements and licenses will continue to be available to us on terms that provide us with the third-party software we require, provide adequate functionality in our products on terms that adequately protect our proprietary rights or are commercially favorable to us.
+
+Certain QAD Enterprise Applications are developed using embedded programming tools from Microsoft and Sun Microsystems (owned by our competitor Oracle) for the Microsoft .NET framework and Java Programming environments, respectively. We rely on these environments’ continued compatibility with customers’ desktop and server operating systems. In the event that this compatibility is limited, some of our customers may not be able to easily upgrade their QAD software. If the present method of licensing the .NET framework as part of Microsoft’s Desktop Operating systems is changed and a separate price were applied to the .NET framework, our expenses could increase substantially. Similarly, if Oracle decided to charge fees or otherwise change the historical licensing terms for Java technology, our expenses could increase substantially. For both of the .Net and Java elements, we rely on market acceptance and maintenance of these environments and we may be adversely affected if these were withdrawn or superseded in the market.
+
+Our partner agreements, including development, product acquisition and reseller agreements, contain confidentiality, indemnity and non-disclosure provisions for the third party and end user. Failure to establish or maintain successful relationships with these third parties or failure of these parties to develop and support their software, provide appropriate services and fulfill confidentiality, indemnity and non-disclosure obligations could have an adverse effect on us. We have been in the past, and expect to be in the future, party to disputes about ownership, license scope and royalty or fee terms with respect to intellectual property. Failure to prevail in any such dispute could have a material adverse effect on our business.
+
+22
+
+Risks associated with our proprietary rights and customer contracts
+
+Our intellectual property may be at risk as a result of a variety of different factors.
+
+We rely on a combination of protections provided by applicable copyright, trademark, patent and trade secret laws, as well as on confidentiality procedures and licensing arrangements, to establish and protect our rights in our software and related materials and information. We enter into licensing agreements with each of our on-premise customers and these agreements provide for the non-exclusive use of QAD Enterprise Applications. Our license contracts contain confidentiality and non-disclosure provisions, a limited warranty covering our applications and indemnification for the customer from infringement actions related to our applications. In addition, we generally license our software to end-users in both object code (machine-readable) and source code (human-readable) formats. While this practice facilitates customization, making software available in source code also makes it possible for others to copy or modify our software for impermissible purposes.
+
+Despite our efforts, it may be possible for others to copy portions of our products, reverse engineer them or obtain and use information that we regard as proprietary, all of which could adversely affect our competitive position. Furthermore, there can be no assurance that our competitors will not independently develop technology similar to ours. In addition, the laws of certain countries do not protect our proprietary rights to the same extent as the laws of the United States.
+
+The success of our business is highly dependent on maintenance of intellectual property rights.
+
+The unauthorized use of our intellectual property rights may increase the cost of protecting these rights or reduce our revenues. We may initiate, or be subject to, claims or litigation for infringement of proprietary rights or to establish the validity of our proprietary rights, which could result in significant expense to us, cause product shipment delays, require us to enter royalty or licensing agreements and divert the efforts of our technical and management personnel from productive tasks, whether or not such litigation were determined in our favor.
+
+We may be exposed to claims for infringement of intellectual property rights and breach of contract, and we may experience impairment of our own intellectual property rights.
+
+Third parties may initiate proceedings against us claiming infringement or other misuse of their intellectual property rights and/or breach of our agreements with them. Further, while we actively monitor the adoption of open source software in our software development process, it is possible that our use of open source software may inadvertently subject our proprietary software to public disclosure and impairment of our intellectual property rights. The likelihood of such instances may increase as the use of open source and other third-party code becomes more prevalent in the industry. Any such instances, regardless of validity, may cause us to:
+
+We may be exposed to product liability claims and other liabilities.
+
+While our customer agreements typically contain provisions designed to limit our exposure to product liability claims and other liability, we may still be exposed to liability in the event such provisions may not apply.
+
+We have an errors and omissions insurance policy which may not totally protect us.
+
+The Company has an errors and omissions insurance policy. However, this insurance may not continue to be available to us on commercially reasonable terms or at all, or a claim otherwise covered by our insurance may exceed our coverage limits, or a claim may not be covered at all. We may be subject to product liability claims or errors or omissions claims that could have an adverse effect on us. Moreover, defending a suit, regardless of its merits, could entail substantial expense and require the time and attention of key management personnel.
+
+23
+
+Risks associated with our market and the economy
+
+The market in which we participate is highly competitive and if we do not compete effectively our operating results could be harmed.
+
+The market for enterprise software solutions is highly competitive and subject to changing technology, shifting customer needs and introductions of new products and services. Many of our current and potential competitors enjoy substantial competitive advantages, such as greater name recognition, larger marketing budgets and substantially greater financial, technical and other resources. In addition, many of our current and potential competitors have established marketing relationships and access to larger customer bases. A number of companies offer products that are similar to our products and target the same markets. Any of these competitors may be able to respond more quickly to new or changing opportunities, technologies and market trends, and devote greater resources to the development, promotion and sale of their products. Our competitors may also offer extended payment terms or price reductions for their products and services, either of which could materially and adversely affect our ability to compete successfully. There can be no assurance that we will be able to compete successfully against current and future competitors or that the competitive pressures that we may face will not materially adversely affect our business, revenue and results of operations.
+
+We are dependent upon achieving success in certain concentrated markets.
+
+We have made a strategic decision to concentrate our product development, as well as our sales and marketing efforts, in certain vertical manufacturing industry segments: automotive, life sciences, consumer products, food and beverage, high technology and industrial products. We also concentrate our efforts on certain geographies, where costs to expand our market or stay in compliance with local requirements could be extensive and require a large amount of resources. An important element of our strategy is the achievement of technological and market leadership recognition for our software products in these segments and geographies. The failure of our products to achieve or maintain substantial market acceptance in one or more of these segments or geographies could have an adverse effect on us. If any of these targeted industry segments or geographies experience a material slowdown or reduced growth, those conditions could adversely affect the demand for our products.
+
+Unfavorable economic conditions may adversely impact our business, operating results and financial condition.
+
+Our operations and performance are subject to the risks arising from worldwide economic conditions, which are themselves impacted by other events, such as financial crises, natural disasters and political turmoil. In particular, the negative impact of economic conditions on manufacturing companies could have a substantial adverse effect on our sales, because our products are focused on supporting manufacturing companies. Uncertainty about global economic conditions may result in reductions in sales of our products, longer sales cycles, slower adoption of new technologies and increased price competition as manufacturing companies may delay, reduce or forego spending in response to declining asset values, tight credit, high unemployment, natural disasters, political unrest and negative financial news. Such economic conditions may also result in our customers extending their payment periods or experiencing reduced ability to pay amounts owed to us. Uncertainty about global economic conditions could also increase the volatility of our stock price. If any of the foregoing occurs, our results of operations may be adversely affected.
+
+Risks associated with our third-party relationships
+
+We are dependent upon the development and maintenance of sales, services and marketing channels.
+
+We sell and support our products through direct and indirect sales, services and support organizations throughout the world. We also maintain relationships with a number of consulting and systems integration organizations that we believe are important to our worldwide sales, marketing, service and support activities and to the implementation of our products. We believe this strategy allows for additional flexibility in ensuring our customers’ needs for services are met in a cost effective, timely and high quality manner. Our services providers generally do not receive fees for the sale of our software products unless they participate actively in a sale as a sales agent or a distributor. We are aware that these third-party service providers do not work exclusively with our products and in many instances have similar, and often more established, relationships with our principal competitors. If these third parties exclusively pursue products or technology other than QAD software products or technology, or if these third parties fail to adequately support QAD software products and technology or increase support for competitive products or technology, we could be adversely affected.
+
+24
+
+Risks associated with acquisitions we may make
+
+We may make acquisitions or investments in new businesses, products or technologies that involve additional risks.
+
+As part of our business strategy, we have made, and expect to continue to make, acquisitions of businesses or investments in companies that offer complementary products, services and technologies or expand our geographical presence. Such acquisitions or investments involve a number of risks which could adversely affect our business or operating results, including:
+
+These factors could have a material adverse effect on our business, financial condition and operating results. In addition such acquisitions may cause our future quarterly financial results to fluctuate due to costs related to an acquisition, such as the elimination of redundant expenses or write-offs of impaired assets recorded in connection with acquisitions. Also, consideration paid for any future acquisitions could include our stock. As a result, future acquisitions could cause dilution to existing stockholders and to earnings per share, though the likelihood of voting dilution is limited by the ability of the Company to use low-vote Class A common stock as consideration for potential acquisitions. Furthermore, we may incur significant debt to pay for future acquisitions or investments or our use of cash to pay for acquisitions may limit other potential uses of our cash, including stock repurchases, dividend payments and retirement of outstanding indebtedness.
+
+Risks associated with our international operations
+
+Our operations are international in scope, exposing us to additional risk.
+
+We derive over half of our total revenue from sales outside the United States. A significant aspect of our strategy is to focus on developing business in emerging markets. Our operating results could be negatively impacted by a variety of factors affecting our foreign operations, many of which are beyond our control. These factors include currency fluctuations, economic, political or regulatory conditions in a specific country or region, trade protection measures and other regulatory requirements. Additional risks inherent in international business activities generally include, among others:
+
+25
+
+We may experience foreign currency gains and losses.
+
+We conduct a portion of our business in currencies other than the United States dollar. Our revenues and operating results may be negatively affected by fluctuations in foreign currency exchange rates. Changes in the value of major foreign currencies, including the euro and Mexican peso, relative to the United States dollar can significantly and adversely affect our revenues, expenses and operating results.
+
+Changes in accounting principles, or interpretations thereof, could have a significant impact on our financial position and results of operations.
+
+We prepare our Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America (“GAAP”). A change in these principles can have a significant impact on our reported results and may even retroactively affect previously reported transactions. The adoption of new or revised accounting principles may require that we make significant changes to our systems, processes and controls.
+
+The U.S.-based Financial Accounting Standards Board (“FASB”) is currently working together with the International Accounting Standards Board (“IASB”) on several projects to further align accounting principles and facilitate more comparable financial reporting between companies who are required to follow GAAP under SEC regulations and those who are required to follow International Financial Reporting Standards outside of the United States. These efforts by the FASB and IASB may result in different accounting principles under GAAP that may result in materially different financial results for us in areas including, but not limited to, principles for recognizing revenue and lease accounting. Additionally, significant changes to GAAP resulting from the FASB’s and IASB’s efforts may require that we change how we process, analyze and report financial information and that we change financial reporting controls.
+
+We are exposed to fluctuations in the market values of our investments
+
+Given the global nature of our business, we have investments both domestically and internationally. Credit ratings and market values of these investments can be negatively impacted by liquidity, credit deterioration or losses, financial results, foreign exchange rates, or other factors. As a result, the value or liquidity of our cash equivalents and marketable securities could decline, thus adversely affecting our financial condition and operating results.
+
+The market for our Class A and Class B common stock is volatile
+
+Our stock price could become more volatile and investments could lose value.
+
+The market price of our common stock and the number of shares of each class traded each day has experienced significant fluctuations and may continue to fluctuate significantly. The market price for our common stock may be affected by a number of factors, including, but not limited to:
+
+26
+
+The dual class structure of our common stock as contained in our charter documents could adversely impact the market for our common stock.
+
+Our dual-class stock structure could adversely impact the market for our stock. The liquidity of our common stock may be adversely impacted by our dual-class structure because each class has less of a public float than it would if we had a single class of common stock. In addition, there are fewer Class B shares than Class A shares and Class B shares may be less desirable to the public due to the 20% higher dividend on Class A shares. Also, the holding of lower voting Class A common stock may not be permitted by the investment policies of certain institutional investors or may be less attractive to managers of certain institutional investors.
+
+If research analysts do not publish research about our business or if they issue unfavorable commentary or downgrade our common stock, our stock price and trading volume could decline.
+
+The trading market for our common stock depends in part on the research and reports that research analysts publish about us and our business. If we do not maintain adequate research coverage, or if one or more analysts who covers us downgrades our stock or publishes inaccurate or unfavorable research about our business, the price of our common stock could decline. If one or more of the research analysts ceases coverage of our company or fails to publish reports on us regularly, demand for our common stock could decrease, which could cause our stock price or trading volume to decline.
+
+We are obligated to maintain proper and effective internal control over financial reporting. We may not complete our analysis of our internal control over financial reporting in a timely manner, or this internal control may not be determined to be effective, which may adversely affect investor confidence in our company and, as a result, the value of our common stock.
+
+We are required, pursuant to the Securities and Exchange Act of 1934, as amended (the “Exchange Act”), to furnish a report by management on, among other things, the effectiveness of our internal control over financial reporting. This assessment includes disclosure of any material weaknesses identified by our management in our internal control over financial reporting, as well as a statement that our auditors have issued an attestation report on our internal controls.
+
+While we were able to determine in our management’s report for fiscal 2018 that our internal control over financial reporting is effective, as well as provide an unqualified attestation report from our independent registered public accounting firm to that effect, we may not be able to complete our evaluation, testing, and any required remediation in a timely fashion or our independent registered public accounting firm may not be able to formally attest to the effectiveness of our internal control over financial reporting in the future. During the evaluation and testing process, if we identify one or more material weaknesses in our internal control over financial reporting that we are unable to remediate before the end of the same fiscal year in which the material weakness is identified, we will be unable to assert that our internal controls are effective. If we are unable to assert that our internal control over financial reporting is effective, or if our auditors are unable to attest to the effectiveness of our internal controls or determine we have a material weakness in our internal controls, we could lose investor confidence in the accuracy and completeness of our financial reports, which could cause the price of our common stock to decline.
+
+If we are unable to pay quarterly dividends, our reputation and stock price may be harmed.
+
+Our payment of dividends may require the use of a significant portion of our cash earnings. As a result, we may not retain a sufficient amount of cash to fund our operations or finance future growth opportunities, new product development initiatives and unanticipated capital expenditures which could adversely affect our financial performance. Additionally, our board of directors may, at its discretion, decrease or entirely discontinue the payment of dividends at any time. Our ability to pay dividends will depend on our ability to generate sufficient cash flows from operations in the future. This ability may be subject to certain economic, financial, competitive and other factors that are beyond our control. Any failure to pay dividends may negatively impact our reputation and investor confidence in us and may negatively impact the price of our common stock.
+
+Our common stock ownership is concentrated
+
+The dual class structure of our common stock as contained in our charter documents has the effect of concentrating voting control with certain stockholders, including Karl Lopker and Pamela Lopker, thus limiting our other stockholders’ ability to influence corporate matters.
+
+27
+
+Our Class B common stock has one vote per share and our Class A common stock has 1/20th vote per share. Stockholders who hold shares of our Class B common stock together held approximately 80% of the voting power of our outstanding capital stock as of January 31, 2018. As of January 31, 2018, Karl Lopker and Pamela Lopker jointly and beneficially owned approximately 42% of the outstanding shares of our Class A and Class B common stock, representing approximately 68% of the voting power of our outstanding capital stock. Currently they have sufficient voting control to determine the outcome of a stockholder vote concerning:
+
+In addition, the holders of our Class B common stock collectively will continue to be able to control all matters submitted to our stockholders for approval even if their stock holdings represent less than 50% of the outstanding shares of our common stock. Because of the 20-to-1 voting ratio between our Class B and Class A common stock, the holders of our Class B common stock collectively will continue to control a majority of the combined voting power of our common stock even when the shares of Class B common stock represent as little as 5% of all outstanding shares of our Class A common stock. This concentrated control will limit the ability of our Class A stockholders to influence corporate matters for the foreseeable future, and, as a result, the market price of our Class A common stock could be adversely affected.
+
+This concentrated control limits the ability of our other stockholders to influence corporate matters and also limits the liquidity of the shares owned by other stockholders. Should the interests of Karl Lopker and Pamela Lopker differ from those of other stockholders, the other stockholders may not be afforded the protections of having a majority of directors on the board who are independent from our principal stockholders or our management. For example, Karl Lopker’s and Pamela Lopker’s concentrated control could discourage others from initiating potential merger, takeover or other change of control transactions; and, transactions could be pursued that our other stockholders do not view as beneficial. As a result, the market price of our Class A and Class B common stock could be adversely affected.
+
+We are not required to comply with certain corporate governance rules of NASDAQ, that would otherwise apply to us as a company listed on NASDAQ, because we are a controlled company.
+
+Specifically, we are not required to have a majority of independent directors or a compensation committee comprised solely of independent directors; select, or recommend for the board’s selection, director nominees by a majority of independent directors or a nominating committee comprised solely of independent directors; determine officer compensation by a compensation committee comprised solely of independent directors or by a majority of the board upon recommendation of a compensation committee comprised solely of independent directors; and satisfy certain responsibilities of the compensation committee prior to retaining or receiving advice from a compensation consultant, legal counsel or other advisor to the compensation committee.
+
+Provisions in the Company's charter documents or Delaware law could discourage a takeover that stockholders may consider favorable.
+
+Our Certificate of Incorporation contains certain other provisions that may have an “anti-takeover” effect. The Certificate of Incorporation contains authority for the Board to issue up to 5,000,000 shares of preferred stock without stockholder approval. Although the Company has no present intention to issue any such shares, we could issue such shares in a manner that deters or seeks to prevent an unsolicited bid for us. The Certificate of Incorporation also does not provide for cumulative voting and, accordingly, a significant minority stockholder could not necessarily elect any designee to the board of directors. In addition, Section 203 of the Delaware Corporation Law may discourage, delay, or prevent a change in control of us by imposing certain restrictions on various business combinations. Furthermore, our dual class structure concentrates the voting power of our stock in a small group of stockholders who would have the ability to control the outcome of a stockholder vote. As a result of these provisions in the Company's Certificate of Incorporation, including our dual class structure, and Delaware law, our stockholders may be deprived of an opportunity to sell their shares at a premium over prevailing market prices and it would be more difficult to replace our directors and management.
+
+28
+
+We are dependent upon highly skilled personnel
+
+Our performance depends on the talents and efforts of highly skilled employees, including the continued service of a relatively small number of key technical and senior management personnel. In particular, our Chairman of the Board and President, Pamela Lopker, and Chief Executive Officer, Karl Lopker, are critical to overall management of QAD, maintenance of our culture and setting our strategic direction. All of our executive officers and key employees are at-will employees and we do not have key-person insurance covering any of our employees. Our future success depends on our continuing ability to attract and retain highly skilled personnel in all areas of our organization. Competition for such personnel is intense and many of our competitors are larger and have greater financial resources for attracting skilled personnel. The loss of key technical and senior management personnel or the inability to attract and retain additional qualified personnel could have an adverse effect on our continued ability to compete effectively.
+
+We have hired personnel in countries where advanced technical expertise and other expertise are available at lower costs to improve our cost structure. We may experience competition for employees in these countries, which may negatively affect our employee retention efforts and increase our expenses in an effort to offer a competitive compensation program.
+
+Catastrophic events may disrupt our business
+
+Our corporate headquarters, including network infrastructure, internal technology systems and certain of our research and development activities, is located in Southern California, a region susceptible to fires, mudslides and seismic activity.  Additionally, certain of our other facilities and those of our suppliers and third-party data hosting services, may be located in regions affected by natural disasters.  Our corporate headquarters has been disrupted, and any of the aforementioned facilities, suppliers and hosting services may be disrupted in the future, by significant natural disasters.  Such a natural disaster, as well as a terrorist attack, cyber-attack, war or other catastrophic event, may result in power loss, telecommunications failure, loss of access to the Internet, software or hardware malfunction, or physical access restrictions that our disaster recovery plans do not adequately address.  This could result in system interruptions, loss of intellectual property, delays in our product development, interruptions in our customer services, breaches of data security and loss of critical data, which may have a material adverse affect on our business, operating results and financial condition, and negatively impact our reputation.
+
+None.
+
+QAD’s corporate headquarters are located in Santa Barbara, California. The corporate headquarters are owned by QAD and consist of approximately 120,000 square feet situated on 28 acres of land.
+
+In addition to the corporate headquarters, QAD owns a facility in Dublin, Ireland and leases over 25 offices throughout the world with lease agreements ending on various dates through fiscal year 2026. QAD’s leased properties include offices in the United States, Belgium, France, Germany, Ireland, Italy, Poland, Spain, The Netherlands, United Kingdom, Australia, China, India, Japan, Singapore, Thailand, Brazil and Mexico. QAD will seek to review lease commitments in the future as may be required. QAD anticipates that its current domestic and international facilities are substantially sufficient to meet its needs for at least the next twelve months.
+
+We are not party to any material legal proceedings. We are from time to time party, either as plaintiff or defendant, to various legal proceedings and claims which arise in the ordinary course of business. While the outcome of these claims cannot be predicted with certainty, management does not believe that the outcome of any of these legal matters will have a material adverse effect on our consolidated financial position or results of operations.
+
+Not applicable.
+
+29
+
+PART II
+
+QAD common stock has been traded on the NASDAQ Global Market (“NASDAQ”) since our initial public offering in August 1997 under the symbol “QADI” through December 14, 2010. On December 14, 2010, QAD shareholders approved a recapitalization plan pursuant to which the Company established two classes of common stock (the “Recapitalization”). Our Class A Common Stock and Class B Common Stock are traded on the NASDAQ under the symbols “QADA” and “QADB”, respectively. The following table reflects the range of high and low sale prices of our Common Stock as reported by NASDAQ:
+
+Holders
+
+As of March 31, 2018, there were approximately 170 shareholders of record of our Class A common stock and approximately 145 shareholders of record of our Class B common stock. Because many of our shares of common stock are held by brokers or other institutions on behalf of stockholders, we are unable to estimate the total number of stockholders represented by the record holders.
+
+Dividends
+
+We declared four quarterly cash dividends in fiscal 2018 of $0.072 and $0.06 per share of Class A and Class B stock, respectively. Continuing quarterly cash dividends are subject to profitability measures, liquidity requirements of QAD and Board discretion.
+
+Recent Sales of Unregistered Securities
+
+None.
+
+Issuer Purchases of Equity Securities
+
+None.
+
+30
+
+STOCKHOLDER RETURN PERFORMANCE GRAPH
+
+The line graph below compares the annual percentage change in the cumulative total stockholder return on QAD’s common stock with the cumulative total return of the NASDAQ Composite Total Return Index and the NASDAQ Computer Index, on an annual basis, for the period beginning January 31, 2013 and ending January 31, 2018.
+
+The graph assumes that $100 was invested in QAD common stock on January 31, 2013 and that all dividends were reinvested. Historic stock price performance has been restated to reflect the effect of the Recapitalization for all periods presented. Historic stock price performance should not be considered indicative of future stock price performance.
+
+The following Share Performance Graph shall not be deemed to be “filed” with the Securities and Exchange Commission, nor shall such information be incorporated by reference into any future filings under the Securities Act of 1933 or Securities Exchange Act of 1934, each as amended, except to the extent that the Company specifically incorporates it by reference into such filing.
+
+COMPARISON OF CUMULATIVE TOTAL RETURN
+
+AMONG QAD INC., THE NASDAQ COMPOSITE TOTAL RETURN INDEX,
+
+AND THE NASDAQ COMPUTER INDEX
+
+31
+
+32
+
+INTRODUCTION
+
+The following discussion should be read in conjunction with our Consolidated Financial Statements and Notes to Consolidated Financial Statements included in Item 15 of this Annual Report on Form 10-K.
+
+BUSINESS OVERVIEW
+
+QAD (“QAD”, the “Company”, “we” or “us”) is a leading provider of flexible, cloud-based and on-premise enterprise software and services for global manufacturing companies.  QAD Enterprise Applications support operational requirements in the areas of financials, customer management, supply chain, manufacturing, service and support, analytics, business process management and integration.  QAD's portfolio also includes related solutions for quality management software, supply chain management software, transportation management software and business-to-business interoperability.  Since 1979, QAD solutions have supported customers in the automotive, consumer products, food and beverage, high technology, industrial manufacturing and life sciences industries to better align operations with their strategic goals to become Effective Enterprises. 
+
+We have four principal sources of revenue:
+
+We operate primarily in the following four geographic regions: North America, Latin America, EMEA and Asia Pacific. In fiscal 2018, approximately 46% of our total revenue was generated in North America, 29% in EMEA, 17% in Asia Pacific and 8% in Latin America. The majority of our revenue is generated from global customers who have operations in multiple countries throughout the world. Subscription, license and maintenance revenues are generally assigned to the region where a majority of the end users are located. Services revenue is assigned based on the region where the services are delivered. A significant portion of our revenue and expenses are derived from international operations which are primarily conducted in foreign currencies. As a result, changes in the value of foreign currencies relative to the U.S. dollar have impacted our results of operations and may impact our future results of operations. At January 31, 2018, we employed approximately 1,870 employees worldwide, of which 650 employees were based in North America, 590 employees in EMEA, 530 employees in Asia Pacific and 100 employees in Latin America.
+
+Our customer base and our target markets are primarily global manufacturing companies; therefore, our results are heavily influenced by the state of the manufacturing economy on a global basis. As a result, our management team monitors several economic indicators, with particular attention to the Global and Country Purchasing Managers’ Indexes (“PMI”). The PMI is a survey conducted on a monthly basis by polling businesses that represent the makeup of respective sectors. Since most of our customers are manufacturers, our revenue has historically correlated with fluctuations in the manufacturing PMI. Global macro economic trends and manufacturing spending are important barometers for our business, and the health of the U.S., Western European and Asian economies have a meaningful impact on our financial results.
+
+We are transitioning our business model from traditional perpetual licensing to cloud based subscriptions. During fiscal 2018, we closed most of our new customer deals in the cloud. In addition, we converted many of our existing customers from on-premise licenses to our cloud based solution. Recurring revenue, which we define as subscription revenue plus maintenance revenue, accounted for 65% of total revenue for fiscal 2018, compared to 66% one year ago. By reducing our customers’ up-front costs and providing more flexibility in how customers gain access to and pay for our products, we expect our cloud business model will be more attractive to our customers than perpetual licenses. We anticipate this will increase our long-term revenue growth rate by increasing total subscriptions and customer value over time. 
+
+33
+
+FISCAL 2018 OPERATING RESULTS
+
+To provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency fluctuations, we compare the changes in results from one period to another period using constant currency. In order to calculate our constant currency results, we apply the current foreign currency exchange rates to the prior period results. In the tables below, we present the change based on actual results in reported currency and in constant currency (in thousands):
+
+In fiscal 2018, our total revenue was positively impacted by the weakening of the U.S. dollar relative to other currencies. Approximately 54% of our total revenue is generated outside the U.S. and we expect that a significant portion of our business will continue to be conducted in currencies other than the U.S. dollar, particularly the euro. Total revenue for fiscal 2018 was 10% higher than in fiscal 2017, and included a favorable currency impact of $2.9 million. In constant currency, total revenue increased by $24.1 million, driven by higher subscription revenue from our cloud offering and higher services activity. In constant currency, income from operations declined by $7.1 million. We generated a significant amount of new cloud business in the fourth quarter of fiscal 2018, which resulted in higher commissions and bonuses without the associated revenue, as we currently recognize those expenses up front while the revenue is recognized ratably over the contract period. Higher sales expenses combined with lower margins in our professional services business resulted in a pre-tax loss in fiscal 2018. We expect profitability will improve in fiscal 2019. 
+
+Subscription Revenue. Subscription revenue consists of recurring fees from customers to access our products via the cloud and other subscription offerings. Our cloud offerings typically include access to QAD software, hosting, support and product updates, if and when available. Included in subscription revenue are the fees for transition services such as set up, configuration, database conversion and migration. Sales of QAD Enterprise Applications in the cloud represented over 85% of our total subscription revenue in fiscal 2018 and 2017. Our subscription revenue represented 23% and 19% of our total revenue in fiscal 2018 and 2017, respectively. Our cloud customer retention rate is in excess of 90%. We track our retention rate of cloud and maintenance by calculating the annualized revenue of customer sites with contracts up for renewal during the period compared to the annualized revenue associated with the customer sites that have canceled during the period. The percentage of revenue not canceled is our retention rate. Additional users and additional modules are not included in the annualized revenue for purposes of this calculation.
+
+On a constant currency basis, subscription revenue increased by $17.1 million, or 33%, in fiscal 2018 when compared to the prior year. Subscription margin improved to 56% in fiscal 2018 from 48% in fiscal 2017. We expect to achieve annual subscription margins of 60% in fiscal 2019. Growing our cloud solution and offering our products as SaaS continues to be a key strategic initiative for us. Subscription revenue is billed on a quarterly or annual basis and recognized ratably over the term of the agreement, typically 12 to 60 months.
+
+Our cloud customers include a mix of existing customers who have converted from our on-premise model and new customers who are implementing our cloud solution. New customers typically generate less revenue up front as compared to customers who are converting to cloud. New customers tend to increase the number of users as their sites go live over time. Existing customers are already using our product at the time of conversion to the cloud; therefore, a greater number of sites and users generally go live from the conversion date. Internally we track new cloud business in the form of bookings, which we define as the average annual value of the contract. Our annual growth in bookings was 53% year over year.
+
+License Revenue. License revenue is derived from software license fees that customers pay for our core product, QAD Enterprise Applications, and any add-on modules they purchase. In fiscal 2018, on a constant currency basis, license revenue increased by $1.7 million, or 7%. License revenue in fiscal 2018 was primarily a result of our existing customers purchasing additional users and modules which we believe was a result of a strong manufacturing economy as denoted by the global PMI in excess of 50%. During fiscal 2018 the number of license orders was lower when compared to the prior year, but the average size of the orders was higher. Our revenue mix has continued to shift from license to subscription revenue as a result of our business model transition. While we expect license revenue to decline over time, we do continue to experience quarterly fluctuations.
+
+34
+
+At times, our license revenue is impacted by deferrals. When we enter into a multi-element transaction with fixed fee services or when we sell licenses for additional users under a pricing model that does not satisfy vendor specific objective evidence (“VSOE”) requirements, we may be required to recognize license revenue ratably over the longer of the maintenance period or expected services implementation timeframe rather than recognizing license revenue at the time of sale. Additionally, if at the time of the license sale we have not finalized the services agreement, we will defer the entire arrangement until the services agreement is signed.
+Question: Create a blog post about our clinical studies for Niemann-Pick disease type C.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

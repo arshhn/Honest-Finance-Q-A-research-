@@ -1,0 +1,2862 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-105-pert ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+f10k2017_heliosandmatheson.htm
+
+ANNUAL REPORT
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+FORM 10-K
+
+(Mark One):
+
+☒
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31,
+
+2017
+
+OR
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ________
+
+to ___________
+
+Commission File Number: 0-22945
+
+HELIOS AND MATHESON ANALYTICS
+
+INC.
+
+(Exact Name of Registrant as
+
+Specified in Its Charter)
+
+Securities registered pursuant
+
+to Section 12(b) of the Act:
+
+Securities registered
+
+pursuant to Section 12(g) of the Act:
+
+None
+
+Indicate by check mark if the registrant
+
+is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+
+Indicate by check mark if the registrant
+
+is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+
+Indicate by check mark whether the registrant
+
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+
+filing requirements for the past 90 days. Yes ☒ No ☐
+
+Indicate by check mark whether the registrant
+
+has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted
+
+and posted pursuant to Rule 405 of Regulation S-T (§235.405 of this chapter) during the preceding 12 months (or for such shorter
+
+period that the registrant was required to submit and post such files). Yes ☒ No ☐
+
+Indicate by check mark if disclosure of
+
+delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained herein, and will not
+
+be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in
+
+Part III of this Form 10-K or any amendment to this Form 10-K. ☐
+
+Indicate by check mark whether the registrant
+
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth
+
+company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting
+
+company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If an emerging growth company,
+
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant
+
+is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+
+The aggregate market value of the voting
+
+and non-voting common stock held by non-affiliates of the registrant as of June 30, 2017, the last business day of the registrant’s
+
+most recently completed second fiscal quarter, was $8,627,586 based on a per share price of $2.43, which was the closing price
+
+of the registrant's common stock on such date.
+
+As of April 11, 2018, there were 52,996,631
+
+shares of the registrant’s common stock, par value $0.01 per share, outstanding.
+
+DOCUMENTS INCORPORATED
+
+BY REFERENCE:
+
+None.
+
+HELIOS AND MATHESON ANALYTICS INC.
+
+INDEX
+
+ i
+
+Forward-Looking Statements
+
+This report contains
+
+forward-looking statements within the meaning of the federal securities laws. Any such statements that do not relate to historical
+
+or current facts or matters are forward-looking statements. You can identify some of the forward-looking statements by the use
+
+of forward-looking terms, such as “may,” “will,” “should,” “expect,” “could,”
+
+“intend,” “plan,” “anticipate,” “estimate,” “believe,” “continue,”
+
+“project,” “potential,” “forecast” or the negative of such terms and other comparable terminology.
+
+Forward-looking statements in this report include, without limitation, statements related to our financial and operating performance,
+
+our plans, strategies, objectives, expectations, intentions and adequacy of resources. Certain important risks, including those
+
+discussed in the risk factors set forth in “Part I, Item 1A. Risk Factors” of this report, could cause results to
+
+differ materially from those anticipated by some of the forward-looking statements. Some, but not all, of these risks include,
+
+among other things:
+
+The forward-looking
+
+statements are based on our beliefs, assumptions and expectations of future events, taking into account all information currently
+
+available to us. Forward-looking statements are not guarantees of future events or of our performance. These beliefs, assumptions
+
+and expectations can change as a result of many possible events or factors, not all of which are known to us. You are urged to
+
+carefully review the disclosures we make concerning risks and other factors that may affect our business and operating results,
+
+including those made in “Part I, Item 7. Management’s Discussion and Analysis of Financial Condition and Results of
+
+Operations” and in “Part I, Item 1A. Risk Factors” in this report, and any of those made in our other reports
+
+filed with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements,
+
+which speak only as of the date hereof. Except as required by law, we are not obligated to, and do not intend to, update or revise
+
+any forward-looking statements, whether as a result of new information, future events or otherwise. You should refer to and carefully
+
+review the information in future documents we file with the Securities and Exchange Commission.
+
+ii
+
+PART I
+
+ITEM 1. BUSINESS
+
+General
+
+Since 1983, Helios
+
+and Matheson Analytics Inc. (“Helios and Matheson”, the “Company”, “we”, “us”
+
+or “our”) has provided high quality information technology, or IT, services and solutions including a range of technology
+
+platforms focusing on big data, business intelligence, and consumer-centric technology. More recently, to provide greater value
+
+to stockholders, the Company has sought to expand its business primarily through acquisitions that leverage its capabilities and
+
+expertise. The Company is headquartered in New York City, has an office in Miami Florida and has an office in Bangalore India.
+
+The Company's common stock is listed on The Nasdaq Capital Market (“Nasdaq”) under the symbol “HMNY”.
+
+Our website address is www.hmny.com. Information on our website is not a part of this report.
+
+On November 9, 2016, we acquired Zone Technologies, Inc., a Nevada corporation (“Zone”), a
+
+state-of-the-art mapping and spatial analysis company, and on December 11, 2017 we acquired a majority interest in MoviePass Inc.,
+
+a Delaware corporation, whose primary product offering is MoviePass™, the nation’s premier movie theater subscription
+
+service. MoviePass Ventures, LLC, a Delaware limited liability company (“MoviePass Ventures”), was formed in January
+
+2018 and is a wholly-owned subsidiary of the Company. MoviePass
+
+Ventures aims to collaborate with film distributors to share in distribution fees while using the data analytics MoviePass offers
+
+for marketing and targeting services for MoviePass’ paying subscribers using the platform. In April 2018, MoviePass Ventures
+
+entered into an Acquisition Co-Financing and Distribution Agreement with Orchard Enterprises NY, Inc. for the purpose of co-funding
+
+the acquisition, advertising and promotion of MoviePass Ventures’ first film, titled “American Animals”, which
+
+premiered at the 2018 Sundance Film Festival.
+
+Zone Technologies, Inc.
+
+Zone
+
+is the developer of the proprietary RedZone Map™, a GPS-driven, real-time crime and navigation map application whose goal
+
+is to enhance personal safety worldwide by providing users with real time crime data and a platform for alerting other users to
+
+criminal and other safety related occurrences in a navigation map format. Zone’s mapping lets users be pro-active when traveling,
+
+allowing them to enter a number of different cautionary items such as traffic problems, police sightings, road hazards, accidents
+
+and road closures. It also allows users to report a crime and to video upload live incidents.
+
+While
+
+RedZone Map is a fully functioning app available for free in the Apple App Store and the Google Play Store, the Company has not
+
+yet derived any advertising or other revenues from the app.
+
+Zone Spin-Off
+
+In March
+
+2018, we announced that our Board of Directors approved a plan to spin-off Zone, our wholly-owned subsidiary. Following the spin-off,
+
+Zone would become an independent publicly traded company that we would expect to also be listed on Nasdaq. The spin-off is subject
+
+to numerous conditions, including, the effectiveness of a Registration Statement on Form S-1 to be filed with the Securities and
+
+Exchange Commission (the “Commission”), the approved listing of Zone’s common stock on Nasdaq.
+
+Pursuant
+
+to the spin-off, we plan to distribute shares of Zone common stock as a dividend to persons who hold common stock of the Company
+
+as of a record date to be determined. The Company expects to set a record date to determine the stockholders entitled to receive
+
+shares of Zone in the spin-off for approximately 20 to 40 days before the effective date of the spin-off. Holders of any convertible
+
+notes and warrants of the Company outstanding as of the applicable record date may be entitled to participate in the dividend
+
+of Zone shares in the spin-off in accordance with the terms of such notes and warrants. The strategic goal of the spin-off is
+
+to create two separate companies, each of which can focus on its own strengths and operational plans and be publicly traded. There
+
+is no assurance that we will be able to complete the spin-off, and our Board of Directors may at any time decide not to proceed
+
+with the spin-off.
+
+Acquisition of Majority Interest in MoviePass
+
+On August
+
+15, 2017, we entered into a Securities Purchase Agreement with MoviePass, which the Company and MoviePass amended on October 6,
+
+2017 (collectively, the “MoviePass SPA”). On December 11, 2017, the Company completed its acquisition of a majority
+
+interest in MoviePass (such acquisition, the “MoviePass Transaction”), pursuant to the MoviePass SPA.
+
+At the
+
+closing of the MoviePass Transaction (the “MoviePass Closing”), MoviePass issued to the Company shares of its common
+
+stock representing 51.71% of its outstanding common stock in exchange for the following consideration: (1) a subordinated convertible
+
+promissory note in the principal amount of $12,000,000 (the “Helios Convertible Note”), which is convertible into
+
+shares of the Company’s common stock, subject to approval by the Company’s stockholders; (2) a $5,000,000 promissory
+
+note issued to MoviePass (the “Helios Note”); and (3) the cancellation of a convertible promissory note issued by
+
+MoviePass to the Company in an aggregate principal amount of $11,500,000.
+
+In addition,
+
+pursuant to the terms of the Note Purchase Agreement, dated as of December 11, 2017 (the “Kelly Note Purchase Agreement”),
+
+among the Company, MoviePass and Christopher Kelly, a director, stockholder and noteholder of MoviePass (“Kelly”),
+
+the Company agreed to purchase from Kelly, within two business days after the MoviePass Closing, MoviePass convertible promissory
+
+notes in an aggregate principal amount of $1,000,000 (the “Kelly Notes”) for $1,000,000 in cash, which converted into
+
+shares of MoviePass Common Stock amounting to an additional 2% of the outstanding shares of MoviePass Common Stock on a post-transaction
+
+basis, pursuant to a Note Conversion Agreement entered into between the Company and MoviePass (the “Kelly Note Conversion
+
+Agreement”). 
+
+On October
+
+11, 2017, the Company and MoviePass also entered into an investment option agreement (the “Original Option Agreement”)
+
+pursuant to which MoviePass granted the Company an option to purchase additional shares of common stock of MoviePass (the “MoviePass
+
+Common Stock”) in an amount of up to $20 million (the “Original Option”). The Company exercised the Original
+
+Option in full. Upon full exercise of the Original Option, the Company owned 62.41% of the outstanding shares of MoviePass Common
+
+Stock (excluding shares underlying MoviePass options and warrants). In addition, pursuant to the Original Option Agreement, upon
+
+the MoviePass Closing, the outstanding convertible promissory notes issued by MoviePass to the Company (each a “MoviePass
+
+Option Note”) in an aggregate principal amount of $12,150,000 as of the MoviePass Closing date, including option exercises
+
+by the Company on December 5, 2017 and December 7, 2017 in an aggregate amount of $2,800,000, were cancelled in exchange for additional
+
+shares representing 8.7% of MoviePass’ common stock, plus additional cash payments to MoviePass aggregating $7,850,000.
+
+Following
+
+the full exercise of the Original Option, from December 19, 2017 through February 20, 2018, the Company provided cash advances
+
+to MoviePass to support MoviePass’ working capital and operational requirements, as well as to support the expansion of
+
+MoviePass’ business plans and objectives. The total amount advanced by the Company to MoviePass during this period totaled
+
+$55,525,000 (the “Advance”).
+
+On March
+
+8, 2018, the Company entered into a Subscription Agreement with MoviePass (the “March 2018 Agreement”), pursuant to
+
+which, in lieu of repayment of the Advance, MoviePass agreed to sell to the Company an amount of MoviePass Common Stock equal
+
+to 18.79% of the total then outstanding MoviePass Common Stock (excluding shares underlying MoviePass options and warrants) (the
+
+“March 2018 MoviePass Purchased Shares”), based on a pre-money valuation of MoviePass of $240,000,000 as of December
+
+31, 2017. Pursuant to the March 2018 Agreement, MoviePass also agreed to issue to the Company, in addition to the March 2018 MoviePass
+
+Purchased Shares, without payment of additional consideration by the Company, for purposes of anti-dilution, an amount of shares
+
+of MoviePass Common Stock that caused the Company’s total ownership of the outstanding shares of MoviePass Common Stock
+
+(excluding shares underlying MoviePass options and warrants), together with the March 2018 MoviePass Purchased Shares, to equal
+
+81.2% as of March 8, 2018.
+
+In addition, from
+
+March 1, 2018 through April 12, 2018, the Company advanced a total of $35,000,000 to MoviePass (the “Second Advance”).
+
+On April 16, 2018, the Company entered into an additional Subscription Agreement with MoviePass (the “April 2018 Agreement”),
+
+pursuant to which, in lieu of repayment of the Second Advance, MoviePass agreed to sell to the Company an amount of MoviePass Common
+
+Stock equal to 10.6% of the total then outstanding MoviePass Common Stock (excluding shares underlying MoviePass options and warrants)
+
+(the “April 2018 MoviePass Purchased Shares”), based on a pre-money valuation of MoviePass of $295,000,000 as of March
+
+31, 2018. Pursuant to the April 2018 Agreement, MoviePass also agreed to issue to the Company, in addition to the April 2018 MoviePass
+
+Purchased Shares, without payment of additional consideration by the Company, for purposes of anti-dilution, an amount of shares
+
+of MoviePass Common Stock that caused the Company’s total ownership of the outstanding shares of MoviePass Common Stock (excluding
+
+shares underlying MoviePass options and warrants), together with the April 2018 MoviePass Purchased Shares, to equal 91.8% as of
+
+March 8, 2018.
+
+As of the
+
+date of this report, the Company owns approximately 91.8% of MoviePass’ outstanding common stock (excluding shares underlying
+
+MoviePass options and warrants).
+
+Acquisition of Moviefone Assets from
+
+Oath Inc. (a Verizon company)
+
+On April 4, 2018, the Company completed the acquisition of Moviefone assets from Oath Inc.,
+
+an entertainment service owned by Oath Inc. (formerly, AOL Inc.), a wholly-owned subsidiary of Verizon Communications Inc. Moviefone
+
+provides over 6 million monthly unique visitors full access to the entertainment ecosystem, from movie theaters to streaming content.
+
+The Company believes the Moviefone acquisition will help MoviePass continue to grow its subscriber base and expand its marketing
+
+and advertising platform for its studio and brand partners. The Company also believes Moviefone will allow the Company and MoviePass
+
+to provide relevant and appealing content to moviegoers while simultaneously increasing the value of the Moviefone brand.
+
+MoviePass Business
+
+MoviePass
+
+was incorporated in Delaware in 2011 and is the leading movie theater subscription service in the United States that allows members
+
+to see a new movie every day in theaters nationwide for a low fixed price. Once they sign up for the MoviePass service online,
+
+subscribers are prompted to download the MoviePass application on their smart phones and are then mailed a MoviePass debit card.
+
+Customers can also subscribe with MoviePass via the MoviePass application. The MoviePass application shows subscribers the show
+
+times of movies that are currently showing at the local movie theaters listed in the MoviePass application. The application highlights
+
+selective films designed for a specific subscriber, which prominently displays the title once a subscriber opens the application.
+
+MoviePass subscribers can use the debit card or, in select theaters, the MoviePass application, to purchase up to one movie ticket
+
+per day at any of the movie theaters listed in the MoviePass application without paying any additional costs.
+
+During
+
+the four months after MoviePass’ announcement of its $9.95 per month subscription plan in August 2017, MoviePass grew to
+
+over 1,000,000 total paying subscribers including those on either its monthly or annual plans. This represents strong growth when
+
+compared to other subscription-based companies, such as Spotify, Hulu, ClassPass and Netflix, which achieved 1,000,000 subscribers
+
+in over 5, 10, 17 and 39 months, respectively, estimated based on information available publicly from various news and other sources.
+
+MoviePass surpassed 1,500,000 paying subscribers in January 2018 and 2,000,000 paying subscribers in February 2018.
+
+On December
+
+12, 2017, MoviePass and Fandor, the streaming service with the largest collection of independent films, documentaries, international
+
+features and shorts, announced that both companies partnered with Costco Wholesale Corporation (“Costco”) to
+
+offer a one-year subscription plan for a flat fee of $70.00 paid in advance. The subscription plan for both services was made
+
+available exclusively to Costco members for a limited time and covers a year of membership for both MoviePass and Fandor. The
+
+subscription plan was extended through February 2018.
+
+In February
+
+2018, MoviePass and Fandor launched a limited-time annual subscription plan to allow movie-goers to see a new movie in a movie
+
+theater every day for a year, and have access to the full Fandor content library for a year, for a flat fee of $105.35
+
+paid in advance ($7.95 per month plus a one-time $19.95 processing fee less $10 of revenue share with Fandor).
+
+In March
+
+2018, MoviePass announced that, for a limited time, it would offer its annual subscription to new subscribers for $6.95 per month,
+
+paid annually and with a one-time processing fee of $6.55.
+
+MoviePass
+
+is led by Theodore Farnsworth the Chairman and CEO of Helios and Matheson, Mitch
+
+Lowe, its Chief Executive Officer, Sanjay Puri, its Chief Strategy Officer, Bernadette McCabe, its Senior Vice President of Exhibitor
+
+Relations, Mike Berkley, Chief Product Officer, Khalid Itum, Vice President of Business Development and Chris Kelly, its Chairman.
+
+MoviePass Ventures 
+
+MoviePass Ventures
+
+was formed as a Delaware limited liability company in January 2018 and is a wholly-owned subsidiary of Helios and Matheson. MoviePass
+
+Ventures aims to collaborate with film distributors to share in waterfall profits and ancillary revenues while using the data
+
+analytics MoviePass offers for marketing and targeting services for MoviePass’ paying subscribers using the platform.
+
+MoviePass and MoviePass Ventures Market Opportunity
+
+Motion Picture Association
+
+of America Report
+
+Movie going is embedded in American society and enjoyed by people of all races, ages and socio-economic
+
+levels. The 2017 Theatrical Market Statistics Report
+
+ issued by the Motion Picture Association of America (the “MPAA Report”) reports that more than three quarters
+
+(76%) of the U.S./Canada population aged two or older, or 263 million people, went to a movie at the cinema at least once in 2017.
+
+According to the MPAA Report, the typical moviegoer bought 4.7 tickets per year in 2017, for a total of $1.24 billion in tickets
+
+sold in 2017. Moreover, according to the MPAA Report, 12% of the U.S./Canada population are frequent moviegoers who attend the
+
+cinema once a month or more. These individuals are responsible for 49% of all tickets sold. More than half the population are occasional
+
+moviegoers (53%), who are also responsible for 49% of all tickets. In 2017, 24% of the U.S./Canada population did not attend the
+
+cinema.
+
+MoviePass
+
+intends to encourage increased attendance at movie theaters with the subscription model by targeting the occasional movie goer
+
+(those who attend less than once a month) who represent 82% of the total movie going market.
+
+MoviePass’
+
+current buying power at U.S. movie theaters represents approximately 6.1% of the U.S. box office, with MoviePass buying approximately
+
+one in every seventeen tickets in the United States. Its strong subscriber trends and potential for customer engagement drive several
+
+revenue opportunities. The value proposition to consumers to obtain low-cost access to regular theater attendance can benefit key
+
+constituents and customers of MoviePass’ business: exhibitors, studios, distributors and consumers themselves. Through its
+
+continued efforts at targeting and improving the consumer experience, MoviePass aims to maintain its strong subscriber growth and
+
+to leverage such growth with its key constituents to improve operational efficiencies, create cross-platform synergies and create
+
+multiple growing revenue streams.
+
+Exhibitors
+
+MoviePass
+
+believes it is in a unique position to benefit movie exhibitors and theaters and to address the challenges they have faced in
+
+recent years. Specifically, theater trends have pointed to stagnant sales, higher prices, lower attendance, consolidation and
+
+limited customer engagement. The trends have been driven in part by a significant increase in in-home content. With its large
+
+and growing subscriber base, MoviePass believe it is in a position to increase theater attendance, increase concession sales and
+
+drive subscribers to consume movie content in the theaters rather than at home. MoviePass’ ability to drive theater attendance
+
+can benefit theaters across the country, as MoviePass is currently available in over 91% of U.S. movie theaters.
+
+Through
+
+written agreements with various exhibitors throughout the U.S., MoviePass has put together a strategy to lift theater attendance
+
+through Application Program Interface (API) integration and rigorous survey and statistical data. These arrangements with exhibitors
+
+have ranged historically from short term trial programs to formal agreements spanning more than 8 months. MoviePass’ agreements
+
+with exhibitors typically create revenue opportunities for MoviePass by (a) allowing MoviePass to purchase movie tickets directly
+
+from the exhibitor at discounts, or (b) allowing MoviePass to receive rebates from exhibitors off tickets purchased at face value.
+
+MoviePass works with the exhibitors to make up the discounted amount in MoviePass’ ticket prices by targeting its subscribers
+
+to effect concession sales from such exhibitor partners to net the cost of the exhibitor ticket discount.
+
+Under the terms of its exhibitor agreements, MoviePass places exhibitor partners’ theaters as a
+
+priority within its services and API to provide top visibility for a partner exhibitor’s theater. MoviePass may also integrate
+
+an exhibitor’s loyalty program with its own API for consumption and concession spend data and for
+
+purposes of enabling MoviePass customers to earn benefits for movies they view at the selected exhibitor’s theaters. The placement and check-in from home features have been the primary
+
+drivers of MoviePass’ lift in attendance for its partner locations. The exhibitor agreements also allow for MoviePass to
+
+incorporate electronic ticketing, advanced ticketing, seat selection and show times at select exhibitor theaters. MoviePass’
+
+arrangements with its exhibitor partners also allow subscribers to check in with exhibitor theaters from anywhere and to choose
+
+their seats, which contrasts to other theaters with which MoviePass does not maintain exhibitor agreements. In such theaters,
+
+MoviePass subscribers must be within 100 yards within location of the theater to check in.
+
+MoviePass
+
+is also currently working on additional planned features in conjunction with its exhibitor partners. These include “family
+
+and friends” offerings, VIP lines, promotions and incentives for specific films which utilize surveys and other interactive
+
+engagement tools with exhibitor patrons, distribution of vendor content within the application and a “night out at the movies”
+
+program, in which MoviePass participates in revenue from its national brand partnerships. Through its “night out at the
+
+movies” program, MoviePass also believes it can create unique out-of-home experiences for its subscribers built around
+
+movie-going.  By partnering with ride-share companies, malls, local retailers and restaurants, MoviePass hopes to offer customers
+
+discounted experiences (in addition to the movie ticket) built around a night at the cinema. MoviePass
+
+aims to use its integrated application technology to connect and direct consumers to exhibitors and to drive theater attendance
+
+by creating profitable partnerships. 
+
+MoviePass
+
+Ventures aims to leverage the Company’s and MoviePass’ ability to increase movie theater attendance for select films
+
+through their advanced marketing efforts and working directly with distributors to drive consumers toward select independent films
+
+and share in the economic performance of those films.
+
+The Company
+
+intends to combine its data and artificial intelligence technology with MoviePass’ technology. With our big data and artificial
+
+intelligence platforms and other technologies that we own, we believe we will be able to bring a significant technological advantage
+
+to MoviePass and MoviePass Ventures.
+
+Studios
+
+and Distributors   
+
+Through
+
+its user-friendly mobile application and its targeted efforts to engage its growing list of subscribers, MoviePass has shown an
+
+ability to drive its subscribers to see movies that they would not have otherwise seen. As a result, MoviePass has been pursuing
+
+numerous opportunities with studios and independent distributors. MoviePass has closed several paid opportunities with different
+
+studios and independent distributors to promote a variety of movies from limited releases to wide release blockbusters.
+
+MoviePass offers
+
+studios the ability to increase patronage of select movies by an active promotional strategy of select movie titles. In three recent
+
+examples, MoviePass was able to use its strategy of actively promoting title to (i) increase a wide distribution opening box office
+
+weekend for a film by 13.2%, (ii) increase a Thursday night preview showing for a film by 11.1% and (iii) increase a Thursday night
+
+preview showing for another film by 27.2%. Up to the date of this report, MoviePass has promoted a total of 26 films, though MoviePass
+
+does not disclose whether marketing campaigns for those films are from paid distributor engagements or whether the tests were approved
+
+by distributors or studios. MoviePass also aims to create additional revenue opportunities with studios by driving subscribers
+
+toward merchandise and products related to particular films.
+
+MoviePass has entered
+
+into a number of revenue producing agreements with film distributors aimed at increasing attendance for specific titles. Distributors
+
+aim to leverage MoviePass’ large subscriber base by engaging MoviePass to target portions of its subscribers based on relevant
+
+subscriber information and preferences obtained through subscribers’ use of the MoviePass application. MoviePass works to
+
+increase attendance for select titles by sending its subscribers dedicated emails and push notifications for those titles at various
+
+agreed-upon times aligned with the timing of a title’s release. The targeted emails are meant to capture subscribers who
+
+reside within a certain radius of theaters where the select title is being screened. Various agreements also include additional
+
+specific data-based targeting efforts, including hyper-targeting subscribers who saw up to a certain number of comparable titles,
+
+using various creative messaging tactics via email.
+
+MoviePass
+
+also conducts extensive social media marketing campaigns under its agreements with distributors. As an example of a social media
+
+marketing campaign, MoviePass may post dedicated content for a select movie title on social media on each of its branded platforms
+
+on dates mutually agreed upon with the distributor. MoviePass will then hyper-target certain subscribers who saw a number of comparable
+
+titles that have been released theatrically during a period of several months immediately prior to the release of the title in
+
+question. It will then send up to three separate hyper-targeting emails to each of those subsets of viewers. In certain circumstances,
+
+where a title in question is being released widely, MoviePass will provide these services to its entire subscriber base, while
+
+excluding agreed upon control groups.
+
+MoviePass may also designate such films with premium title placement within the MoviePass application
+
+for various amounts of time. This includes the placement of MoviePass’ App Marquee, which appears on the opening screen of
+
+the application. In conjunction with opening weekend attendance, MoviePass also conducts surveys of statistically-relevant sample
+
+sizes for opening weekend attendees, after which it prepares aggregated anonymous
+
+survey results and data insights which it reports to distributors. MoviePass believes that its subscriber base is interactive and
+
+connected, resulting in the ability of MoviePass through its marketing efforts to generate valuable impressions to consumers on
+
+behalf of distributors.
+
+MoviePass may also
+
+enter into revenue producing arrangements with distributors for pre-release promotional screenings. On more than one occasion,
+
+a distributor agreed to book an auditorium on behalf of MoviePass subscribers and facilitated their entrance to the screening.
+
+MoviePass then agreed to work with the distributor to create an ideal user profile so that MoviePass can specifically target and
+
+confirm audience members by viewing history for optimal marketing results. In other instances, distributors have agreed to be responsible
+
+for facilitating a MoviePass screening of a select title in certain markets and to arrange for a number of tickets to be allocated
+
+for MoviePass subscribers at special advance screenings and regional markets.
+
+The agreements
+
+typically have terms of effectiveness until the select title is no longer in theaters. The distributor agreements state that MoviePass
+
+owns all rights to the data that is collected by MoviePass resulting from subscriber use of the MoviePass application, including
+
+performance and statistical data that it collects based upon subscriber attendance and behavior, surveys conducted, structured
+
+data, and visual representation of data.
+
+Compensation
+
+to MoviePass for its services under distributor agreements is comprised of fixed dedicated marketing fees and/or performance-based
+
+marketing and targeting fees. MoviePass may also be entitled to receive fees, based on a certain percentage and timing of purchases
+
+relative to the title’s release, for each ticket purchased by MoviePass, which fees due to MoviePass usually include a fixed
+
+component and a variable component. MoviePass may also receive bonuses when it purchases a certain percentage of the tickets sold
+
+of a select title in the US during opening weekend.  
+
+MoviePass
+
+also conducts tests to optimize subscriber experience. MoviePass’ tests generally include testing marketing activities in
+
+various sets using in app promotion and placement, social media and targeted email campaigns and push notifications to its subscribers,
+
+and then comparing the markets where MoviePass conducted direct promotional efforts against non-promoted markets.
+
+The Company
+
+also hopes to leverage MoviePass’ relationships with studios to support MoviePass Ventures. By aiming to co-acquire films
+
+or economic participation rights in films with distributors to bring films to the big screen and by driving turnout through the
+
+MoviePass app, MoviePass Ventures aims to generate increased revenue participation in the film ecosystem. The Company believes
+
+MoviePass Ventures’ theatrical releases would benefit from MoviePass’ target marketing platform and a data-driven
+
+theatrical booking strategy. MoviePass’ relationships with studios may create opportunities for MoviePass Ventures to better
+
+identify and select film opportunities for promotion and economic participation rights. MoviePass hopes that the ability to generate
+
+more content for MoviePass’ subscribers may also lead to increased subscribers, lower attrition, and expanded use by MoviePass’
+
+customers of various MoviePass offerings.
+
+Consumers
+
+MoviePass’
+
+core business model rests largely on its ability to continue to improve the consumer experience. MoviePass aims to do this by
+
+targeting a consumer experience that is mobile first, with features such as its “search & discovery” and “transact
+
+and enjoy” tools in the MoviePass mobile application. The movie going experience for MoviePass subscribers is a simple process,
+
+by which the subscriber first signs up for a monthly membership plan, for as low as $6.95 per month, and receives a MoviePass
+
+debit card in the mail. The subscriber then uses the MoviePass application to, sequentially, choose a movie, choose a theater,
+
+choose a show time and finally “check in.” The aim of MoviePass’ low cost and straightforward process is to
+
+create an experience for consumers to see more movies, save money, and reduce regret of the movie going experience. MoviePass
+
+believes that the simplicity of the process and the ability to engage with consumers through the various steps of the check-in
+
+process through the app creates an opportunity to drive consumers to theaters more often and for select films. It also allows
+
+MoviePass to derive data insights on interests, activities or spending.
+
+MoviePass
+
+aims to further engage consumers by means of its innovative technology platform dedicated to enhancing the exploration of cinema.
+
+This includes a versatile, multi-feature application, whose current features include the ability to search movies and theaters,
+
+and purchase or redeem tickets. MoviePass also maintains a customer service platform, meant to support its growing list of subscribers
+
+and their utilization of the MoviePass application and other technology, and is continuing to work to improve the functionality
+
+and utility of this platform.
+
+Vista Partnership
+
+Pursuant
+
+to the terms of an API License and Services Agreement, effective as of January 16, 2017 (the “Vista Agreement”), MoviePass
+
+has partnered with Vista Group International Ltd, (“Vista”) to work together to integrate Vista’s application
+
+programming interfaces (“Vista API”) with MoviePass’ offerings, allowing for a programmatic transfer of information
+
+between MoviePass and Vista. Vista is a leading global provider of cinema management software solutions, servicing over 1,700
+
+movie theaters, which representing over 21% of this market in the United States. The Vista Agreement allows MoviePass and Vista
+
+to: (i) share transactional information regarding movie tickets purchased by MoviePass subscribers, (ii) develop a specific protocol
+
+for onboarding exhibitors and (iii) create mutual provisions for technical support services. The Vista Agreement gives MoviePass
+
+the ability to integrate into Vista’s large customer base through the Vista API and to enable a more seamless, fully mobile
+
+experience for MoviePass’ and Vista’s customers. The Vista Agreement works to benefit theaters by means of direct
+
+integration into theater loyalty programs and to allow theaters to derive data and analytics on customer usage, location and demographics.
+
+Under the Vista Agreement, consumers are able to use e-tickets from their mobile devices, invite friends with their mobile devices
+
+and purchase food and beverage via mobile applications, all in cashless transactions. MoviePass hopes to utilize this partnership
+
+to offer premier technological advantages to its customers relative to other competitors offering movie going promotions and services.
+
+Technology and Payment Processing
+
+MoviePass
+
+is a party to card program management agreements for payment and processing services relating to the MoviePass debit card. MoviePass
+
+also historically has utilized the sale of prepaid certificates generated by third party vendors. These various arrangements relating
+
+to payment processing set forth the arrangements by which MoviePass works with a particular processor and an authorized bank to
+
+ensure front end payment on the debit card and back end settlement of the theater payment transactions. They also allocate responsibilities
+
+among the parties for handling, among other things, consumer complaints pertaining to non-acceptance payments.
+
+Movie Theater Information
+
+MoviePass
+
+obtains relevant information on movie theaters, including show times, ratings and reviews through metadata obtained through various
+
+licensed data agreements and content license agreements. These agreements set out the payment terms and relevant ownership and
+
+publication information respecting information obtained and utilized by MoviePass to include in its application and to share with
+
+its subscribers.
+
+Information Technology Strategy
+
+and Operations
+
+Through
+
+the legacy business of Helios and Matheson Analytics, we endeavor to provide high-quality, value-based offerings in the areas of
+
+application value management, application development, integration, independent validation, infrastructure and information management
+
+and analytics services. We believe that our integrated service of Big Data technology, advanced analytics, extensive domain expertise
+
+in the areas of financial services and healthcare, including engaging data visualization, empowers our clients to unlock the value
+
+of data to make better decisions. We believe that our focus on client satisfaction, business aware solutions and guaranteed delivery
+
+provides tangible business value to our client base across banking, financial services, insurance and healthcare verticals.
+
+Our IT Operations
+
+Currently,
+
+our IT services include application value management, application development, integration, independent validation, infrastructure,
+
+information management and analytics services.
+
+Customers
+
+The revenues of the Company’s top three customers represented approximately 36.3% of
+
+the revenues for the year ended December 31, 2017 and 91.3% of the revenues for the year ended December 31, 2016. Three customers
+
+represented greater than 10% of the Company’s consulting revenues for such periods.
+
+Primarily, we provide
+
+our IT services to Fortune 1000 companies and other large organizations. The companies that we service operate in a diverse range
+
+of industries with a concentration in the banking, financial services and automotive industries.
+
+100% of the Company’s
+
+revenues were derived from customers within the United States for the years ended December 31, 2017 and December 31, 2016.
+
+Competition
+
+IT
+
+The market for IT
+
+consulting and data analytics services is intensely competitive, affected by rapid technological advances and includes a large
+
+number of competitors. The Company's competitors include the consulting divisions of the “Big Four” accounting firms,
+
+major offshore outsourcing companies, systems consulting and implementation firms, application software development firms, management
+
+consulting firms, divisions of large hardware and software companies, and niche providers of IT and data analytics services. Many
+
+of these competitors have significantly greater financial, technical and marketing resources than the Company. Competition imposes
+
+significant pricing pressures on the Company. The Company does not have a significant competitive presence in the IT services
+
+industry.
+
+MoviePass and MoviePass Ventures
+
+The market
+
+for filmed entertainment ticketing services is intensely competitive and subject to rapid change. MoviePass’ potential competitors
+
+include Atom Tickets, MovieTickets.com, Fandango, AMC Entertainment Holdings Inc.’s AMC Stubs program, Regal Entertainment
+
+Group’s Regal Crown Club and Cinemark Holdings, Inc.’s Movie Club, as well as other potential exhibitors offering
+
+their own subscription services or loyalty programs. In addition, Sinemia Inc. offers a movie theater subscription service that
+
+functions similarly to MoviePass.
+
+AMC Stubs
+
+is a loyalty program offered by AMC Entertainment Holdings Inc. with approximately 10.8 million household members. Movie goers
+
+can join the loyalty program as either a basic member for free or a premiere member for $15. The basic membership offers free
+
+popcorn refills, up to a $2 discount on tickets on Tuesdays, $5 rewards for every 5,000 points (points are earned at a rate of
+
+20 points for every $1 spent), waived online ticket fees and free popcorn on the member’s birthday. Premiere members receive
+
+a $5 discount on tickets on Tuesdays, earn 100 points for every $1 spent and all the other benefits that come with the basic membership.
+
+Regal Entertainment
+
+Group also offers a loyalty program with approximately 14 million active members called the Regal Crown Club. The program only
+
+has one membership option and is free to join. Regal Crown Club members earn credits for every $1 they spend on movie tickets
+
+and at concession stands. Points can be redeemed for rewards via the use of a physical card or a virtual card with Regal’s
+
+mobile app. Rewards include free concession items, merchandise, movie tickets and more.
+
+On December
+
+5, 2017, Cinemark Holdings Inc. launched Movie Club. Movie Club is a monthly subscription plan that allows subscribers to buy
+
+one movie ticket a month for a discounted price of $8.99. Members of Movie Club can roll over unused tickets from month to month
+
+and receive a 20% discount on items bought at concession stands. Movie Club membership is only valid at Cinemark theaters.
+
+Many of
+
+these competitors have longer operating histories, larger customer bases, greater brand recognition and significantly greater
+
+financial, marketing and other resources than MoviePass does. Some of these competitors have adopted, and may continue to adopt,
+
+aggressive pricing policies and devote substantially more resources to marketing and website and systems development than MoviePass
+
+does. In addition, MoviePass’ competitors may form or extend strategic alliances with studios, exhibitors and distributors
+
+that could affect adversely MoviePass’ ability to compete on favorable terms.
+
+As a new
+
+entrant into film distribution, MoviePass Ventures will have competitors with longer operating histories in the distribution of
+
+independent films, deeper ties with industry executives and film producers, and greater financial, marketing and other resources
+
+than MoviePass Ventures. MoviePass Ventures will also face competition from larger film distributors which focus on higher budget
+
+film production and distribution.
+
+Employees
+
+As of December 31,
+
+2017, the Company had 65 employees in the United States, all of whom are full-time. 13 employees that were not included in the
+
+total are third party consultants and 17 that were included in the total are executive, financial, sales and administrative personnel.
+
+None of the Company’s employees are represented by a labor union and the Company has never incurred a work stoppage. As
+
+of December 31, 2017, the Company had 6 employees in its Indian subsidiary. These include support staff in the human resources,
+
+finance and administrative functions.
+
+Intellectual Property Rights
+
+Intellectual Property Rights Related to the Company’s
+
+Legacy Business
+
+The Company relies
+
+upon a combination of nondisclosure and other contractual arrangements and trade secret, copyright and trademark laws to protect
+
+its proprietary rights and the proprietary rights of third parties from whom the Company licenses intellectual property, but there
+
+can be no assurance that the steps taken by the Company in this regard will be adequate to deter misappropriation of proprietary
+
+information or that the Company will be able to detect unauthorized use and take appropriate steps to enforce its intellectual
+
+property rights. In addition, the Company is subject to the risk of litigation alleging infringement of third- party intellectual
+
+property rights. Any such claims could require the Company to spend significant sums in litigation, pay damages, develop non-infringing
+
+intellectual property or acquire a license to the intellectual property which is the subject of the asserted infringement.
+
+Helios and Matheson Information Technology Ltd. (“HMIT”), the former parent of the Company,
+
+granted us a non-exclusive, perpetual, royalty-free right to use the name “Helios and Matheson” and related trademarks,
+
+service names and service marks. HMIT may terminate our right to use the name and related trademarks and service marks upon each
+
+of the following events: (i) we consummate a business combination or merger, pursuant to which we are not the surviving corporation,
+
+or we consummate a sale of all or substantially all of our assets without the consent or approval of HMIT or (ii) we file, or become
+
+a debtor subject to, a bankruptcy proceeding which proceeding or filing was not commenced by HMIT or consented to by HMIT.
+
+All ownership rights
+
+to software developed by us in connection with a client engagement are typically assigned to the client. In limited situations,
+
+we may retain ownership or obtain a license from the client, which permits us or a third party to market the software for the
+
+joint benefit of the client and the Company or for the sole benefit of the Company.
+
+Intellectual Property Rights Related to Zone’s Business
+
+Zone owns the following patented technology:
+
+Zone has
+
+two trademarks registered in the European Union (Stylized Eyes Design and REDZONE MAP) and one registered trademark in the United
+
+Kingdom (Stylized Eyes Design) and has pending applications to register both trademarks in the United States and Israel and a
+
+pending application to register REDZONE MAP in the United Kingdom. The name “RedZone Map” has been registered with
+
+the State of Florida as a fictitious business name.
+
+Intellectual Property Rights
+
+Related to MoviePass’ Business
+
+MoviePass
+
+uses a combination of trademark, copyright and trade secret laws and confidentiality agreements to protect its proprietary intellectual
+
+property. MoviePass has a registered trademark for the MoviePass name. MoviePass owns U.S. Patent Nos. 8,484,133, 8,612,235, and
+
+9,135,578. MoviePass has filed applications for additional trademarks and two patents. MoviePass’ outstanding trademark
+
+and patent applications may not be allowed. Even if these applications are allowed, they may not provide MoviePass with a competitive
+
+advantage. Competitors may challenge successfully the validity and scope of MoviePass’ patents and trademark(s). MoviePass’
+
+trademark(s), trademark applications, patents, and patent applications may not provide MoviePass with a competitive advantage.
+
+To date, MoviePass has relied primarily on proprietary processes and know-how to protect its intellectual property related to
+
+its Web site, mobile application and fulfillment processes.
+
+From time
+
+to time, MoviePass may encounter disputes over rights and obligations concerning intellectual property. MoviePass believes that
+
+its service offering does not infringe the intellectual property rights of any third party. However, it cannot assure you that
+
+MoviePass will prevail in any intellectual property dispute.
+
+Seasonality
+
+The Company’s
+
+business is subject to seasonality swings, particularly during the holiday season during peak gift giving season. MoviePass typically
+
+experiences upward swings in revenues from subscribers and increased sales during Thanksgiving and Christmas. MoviePass is also
+
+impacted by theatrical seasonality and the studios’ movie release cycles, which correlate with overall theatrical box office
+
+patterns.
+
+Government Regulation
+
+We are
+
+not currently subject to direct regulation by any governmental agency other than laws and regulations applicable to businesses
+
+generally, such as regulations requiring a business license, federal and state anti-discrimination in employment laws, workplace
+
+safety laws and regulations and trade practices laws and regulations.
+
+ITEM 1A. RISK FACTORS
+
+We are subject to
+
+various risks that may materially harm our business, prospects, financial condition and results of operations. An investment in
+
+our common stock is speculative and involves a high degree of risk. In evaluating an investment in shares of our common stock,
+
+you should carefully consider the risks described below, together with the other information included in this report.
+
+The risks described
+
+below are not the only risks that we may face or that could adversely affect us. If any of the events described in the following
+
+risk factors actually occurs, or if additional risks and uncertainties later materialize that are not presently known to us or
+
+that we currently deem immaterial, then our business, prospects, results of operations and financial condition could be materially
+
+and adversely affected. In that event, the trading price of our common stock could decline, and you may lose all or part of your
+
+investment in our shares. The risks discussed below include forward-looking statements, and our actual results may differ substantially
+
+from those discussed in these forward-looking statements.
+
+RISKS ASSOCIATED WITH OUR
+
+BUSINESS
+
+We changed our primary business
+
+to the integration and development of MoviePass.
+
+Since the
+
+completion of our acquisition of a majority of the ownership interest of MoviePass Inc., we have primarily focused our resources
+
+and business activities towards the integration and development of the MoviePass business. It is possible that we may not achieve
+
+profitability with our MoviePass business.
+
+Our independent auditors
+
+have expressed substantial doubt about our ability to continue as a going concern, which may hinder our ability to obtain future
+
+financing. 
+
+The report
+
+of our independent auditors on our consolidated financial statements for the year ended December 31, 2017 included an explanatory
+
+paragraph indicating that there is substantial doubt about our ability to continue as a going concern. Our auditors’ doubts
+
+are based on our incurring significant net losses and our working capital position. Our ability to continue as a going concern
+
+will be determined by our ability to obtain additional funding in the short term to enable us to continue the development and
+
+integration of our MoviePass business.
+
+RISKS ASSOCIATED WITH OUR MOVIEPASS
+
+BUSINESS   
+
+If we fail to successfully integrate
+
+MoviePass into our internal control over financial reporting, the integrity of our financial reporting could be compromised which
+
+could result in a material adverse effect on our reported financial results.
+
+As a private company,
+
+MoviePass was not subject to the requirements of the Securities Exchange Act of 1934, as amended, with respect to internal control
+
+over financial reporting. The integration of MoviePass into our internal control over financial reporting may require significant
+
+time and resources from our management and other personnel and may increase our compliance costs. If we fail to successfully integrate
+
+these operations, our internal control over financial reporting may not be effective. Failure to achieve and maintain an effective
+
+internal control environment could have a material adverse effect on our ability to accurately report our financial results and
+
+the market’s perception of our business and stock price.
+
+MoviePass has incurred losses
+
+since inception. To continue to support the business objectives of MoviePass, we have a present need for additional funding, which
+
+may be unavailable to us. 
+
+MoviePass
+
+has incurred losses since its inception and has a present need for additional funding. These factors raise substantial doubt about
+
+the Company’s ability to continue as a going concern. For the foreseeable future, MoviePass expects to fund its operations
+
+from additional debt or equity offerings and increased revenue from MoviePass subscribers and ancillary revenue streams. If MoviePass
+
+cannot raise additional short-term capital, it may consume all of its cash needed for operations and, as a result, the expenditures
+
+of the Company involved in supporting MoviePass may consume a significant amount of the Company’s cash needed for other
+
+operations and business objectives. There are no assurances that we will be able to raise capital on terms acceptable to us. If
+
+we are unable to obtain sufficient amounts of additional capital, we may be required to reduce the scope of the Company’s
+
+planned growth or otherwise alter our business objectives and operations, which could harm our business, financial condition and
+
+operating results.
+
+MoviePass has a limited
+
+operating history and history of net losses, and it is likely that they will experience net losses for the foreseeable future.
+
+MoviePass
+
+has experienced significant net losses since inception and, given the significant operating and capital expenditures associated
+
+with its business plans, anticipate continuing to incur net losses and significant negative cash flows for the foreseeable future.
+
+If MoviePass ever does achieve profitability, of which no assurances can be given, MoviePass may be unable to sustain or increase
+
+such profitability.
+
+To achieve
+
+and sustain profitability, MoviePass, will need to accomplish numerous objectives, including substantially increasing the number
+
+of paying subscribers to its service and securing additional sources of revenue and economies of scale. There is a significant
+
+risk that MoviePass will be unable to achieve these objectives, which would damage MoviePass’ business and could lead to
+
+the loss of the Company’s investment in MoviePass.
+
+Further,
+
+MoviePass currently spends more to retain a subscriber than the revenue derived from that subscriber and MoviePass other sources
+
+of revenue are currently inadequate to offset or exceed the costs of subscriber retention. This results in a negative gross profit
+
+margin. MoviePass expects its negative gross profit margin to remain significant until MoviePass can sufficiently increase its
+
+other sources of revenues to offset the losses or achieve substantial economies of scale. There is no assurance that MoviePass
+
+will be able to sufficiently increase its other sources of revenue or be able to achieve economies of scale that would reduce
+
+the cost of revenue sufficiently to generate a positive gross profit margin. Failure to achieve positive gross profit margin in
+
+the foreseeable future could materially and adversely impact our results of operations.  
+
+Increased monthly usage
+
+by MoviePass’ subscribers will cause it to incur losses and negative cash flow.
+
+MoviePass’
+
+current monthly subscription pricing plans allow subscribers to see a new movie each day for the entire month. In most cases,
+
+MoviePass pays the theaters the full cost for each movie ticket that a subscriber uses. Accordingly, increased movie viewing by
+
+subscribers results in significant and increasing losses per subscriber and negative cash flow and adversely affects our financial
+
+condition and results of operations.
+
+MoviePass may not gain acceptance
+
+from large national exhibitors (movie theater chains), which could have a material adverse effect on MoviePass’ financial
+
+condition and results of operations.
+
+MoviePass
+
+has historically paid large national exhibitors full price for each ticket purchased by a MoviePass subscriber through the MoviePass
+
+application (though in the past, MoviePass has received as much as a 20% discount on movie tickets for its subscribers from a
+
+small group of exhibitor partners). Additionally, MoviePass has not historically received a benefit from any large national exhibitors
+
+for driving MoviePass subscribers to their theaters (for example, in the form of a portion of concession sales). MoviePass anticipates
+
+negotiating discounts on movie tickets and receiving a portion of concession sales to its subscribers attending theaters operated
+
+by those exhibitor partners. However, if MoviePass is unable to partner with large national exhibitors, (i) MoviePass likely will
+
+continue to be required to pay full price per movie ticket each time a MoviePass subscriber attends a movie theater operated by
+
+a large national exhibitor, (ii) MoviePass would be unlikely to share in concession sales to its subscribers attending those theaters,
+
+and (iii) MoviePass may not be able to sell digital advertising or data analytics services to those large national exhibitors.
+
+If MoviePass is unable to negotiate discounted ticket prices from, share in concession sales with or sell digital advertising
+
+or data analytics services to large national exhibitors, MoviePass’ financial condition and results of operations may be
+
+materially and adversely affected, MoviePass may not become profitable and MoviePass may not be able to sustain its operations.
+
+MoviePass may not gain acceptance
+
+from large movie studios, which could have a material adverse effect on MoviePass’ financial condition and results of operations.
+
+MoviePass’
+
+success will depend, in part, on deriving revenue from sales of digital advertising and data analytics services to large movie
+
+studios. However, if MoviePass is unable to gain acceptance from large national exhibitors (movie theater chains), upon which
+
+large movie studios depend to distribute and exhibit their movies, then large movie studios may refrain from purchasing digital
+
+advertising or data analytics services from MoviePass. If MoviePass is unable to derive revenue from selling digital advertising
+
+or data analytics services to large movie studios, MoviePass’ financial condition and results of operations may be materially
+
+and adversely affected, MoviePass may not become profitable and MoviePass may not be able to sustain its operations.
+
+If MoviePass is not able
+
+to manage its growth, its business could be affected adversely.
+
+MoviePass’
+
+subscriber base has expanded rapidly since August 15, 2017, when it announced its new subscription price of $9.95 per month. MoviePass
+
+may not be able, for many reasons, including lack of financing or adequate personnel resources, to meet the demand to timely deliver
+
+MoviePass cards to its subscribers or otherwise service its business. As such, MoviePass could experience a significant slowdown
+
+or stoppage as it attempts to serve the expanding subscriber base.
+
+MoviePass
+
+anticipates that further expansion of its operations will be required to address any significant growth in its subscriber base
+
+and to take advantage of favorable market opportunities. Any future expansion will likely place significant demands on its managerial,
+
+operational, administrative and financial resources. If it is not able to respond effectively to new or increased demands that
+
+arise because of MoviePass’ growth, or, if in responding, MoviePass’ management is materially distracted from current
+
+operations, MoviePass’ business may be affected adversely.
+
+MoviePass’ ability to develop and implement
+
+new and updated features and services may be more difficult than expected and may not result in sufficient increases in revenue
+
+to justify the costs.
+
+Attracting
+
+and retaining subscribers requires MoviePass to continue to improve the technology underlying its applications and to continue
+
+to develop new and updated features, services and applications. If MoviePass is unable to do so on a timely basis, or if it’s
+
+unable to implement new features and services without disrupting its existing applications, MoviePass may lose current and potential
+
+subscribers. MoviePass relies on a combination of internal development, strategic relationships and licensing to develop its service
+
+offering and related features. The development and implementation of new technologies, features and services may cost more than
+
+expected, may take longer than originally expected, may require more testing than originally anticipated, or may require the acquisition
+
+of additional personnel, technology and other resources. There can be no assurance that MoviePass’ revenue opportunities
+
+from any new or updated technologies, applications, features or services will justify the amounts spent.
+
+MoviePass’ success
+
+depends on its ability to maintain the value of its brand. If events occur that damage its brand, MoviePass’ business and
+
+financial results may be harmed.
+
+MoviePass’
+
+success depends on its ability to maintain the value of its brand. Maintaining, promoting, and positioning the MoviePass brand
+
+will depend largely on the success of its marketing efforts and its ability to provide consistent, high quality products and services
+
+through its applications. The MoviePass brand could be harmed if MoviePass fails to achieve these objectives or if its public
+
+image or brand were to be tarnished by negative publicity. MoviePass’ reputation and brand may be harmed if it fails to
+
+maintain a consistently high level of customer service. Executing the strategies necessary to maintain the value of its brand
+
+may require MoviePass to make substantial investments, and these investments may not be successful. Such failures may adversely
+
+affect MoviePass’ business, financial condition and operating results.
+
+Any material disruption
+
+or breach of MoviePass’ information technology systems or those of third-party partners could materially damage subscriber
+
+and business partner relationships, and could subject MoviePass to significant reputational, financial, legal, and operational
+
+consequences.
+
+Despite
+
+the implementation of security measures, the servers of MoviePass’ computing providers and other systems, and other third
+
+parties on which MoviePass relies on, are vulnerable to damage from computer viruses, unauthorized access, natural disasters,
+
+terrorism, war and telecommunication and electrical failures. Any material disruption or slowdown of MoviePass’ systems
+
+or those of third parties on which MoviePass depends on, including a disruption or slowdown caused by MoviePass’ failure
+
+to successfully manage significant increases in subscriber volume or successfully upgrade applicable systems, system failures,
+
+viruses, security breaches, or other causes, could harm MoviePass’ brand and reputation, and cause revenues to decline.
+
+To the extent that any disruption or security breach was to result in a loss of or damage to data or applications, or inappropriate
+
+disclosure of confidential or proprietary information, MoviePass could incur liability and the further development of products
+
+and services could be delayed. In addition, if changes in technology cause MoviePass’ information systems, or those of third
+
+parties on which MoviePass depends on, to become obsolete, or if such information systems are inadequate to handle MoviePass’
+
+growth, MoviePass could lose subscribers and its business and operating results could be adversely affected.
+
+If MoviePass’ efforts
+
+to attract and service subscribers are not successful, its revenues and results of operations will be affected adversely.
+
+MoviePass
+
+must continue to attract, retain and grow the number of its subscribers. To succeed, it must continue to attract a large number
+
+of subscribers who have traditionally used online and pay cable channels, such as Netflix, HBO and Showtime, and pay-per-view
+
+and video-on-demand as opposed to attending movie theaters. MoviePass’ ability to attract and retain subscribers will depend
+
+in part on its ability to consistently provide subscribers a high quality experience for purchasing passes and viewing movies
+
+in theaters. If consumers do not perceive MoviePass’ service offering to be of high quality, or if MoviePass introduces
+
+new services that are not favorably received by customers, it may not be able to attract or retain subscribers. If its efforts
+
+to satisfy its existing subscribers are not successful, MoviePass may not be able to attract new subscribers, and as a result,
+
+its revenue and results of operations will be affected adversely.
+
+If MoviePass is unable to
+
+compete effectively, its business will be affected adversely.
+
+The market
+
+for filmed entertainment ticketing services is intensely competitive and subject to rapid change. MoviePass may experience competition
+
+that could negatively affect demand for MoviePass’ service or ability to be accepted at certain theater chains. Current
+
+potential competitors include Atom Tickets, MovieTickets.com, Fandango as well as potential exhibitors offering their own subscription
+
+services.
+
+Many consumers
+
+maintain simultaneous relationships with multiple filmed entertainment ticketing providers and can easily shift spending from
+
+one provider to another. If MoviePass is unable to successfully compete with current and new competitors and technologies, it
+
+may not be able to achieve adequate market share, increase its revenues, or achieve and maintain profitability.
+
+Many of
+
+its competitors have longer operating histories, larger customer bases, greater brand recognition and significantly greater financial,
+
+marketing and other resources than MoviePass does. Some of its competitors have adopted, and may continue to adopt, aggressive
+
+pricing policies and devote substantially more resources to marketing and website and systems development than MoviePass does.
+
+In addition, MoviePass’ competitors may form or extend strategic alliances with studios, exhibitors and distributors that
+
+could affect adversely its ability to compete on favorable terms.
+
+The loss by MoviePass of
+
+one or more of its key personnel, or its failure to attract, assimilate and retain other highly qualified personnel in the future,
+
+could seriously harm MoviePass’ existing business and new service developments.
+
+MoviePass
+
+depends on the continued services and performance of its key personnel, particularly its Chief Executive Officer Mitch Lowe and
+
+other key members of management. In addition, much of MoviePass’ key technology and systems are custom made for its business
+
+by its personnel. The loss of MoviePass key managerial and key technology personnel could disrupt its operations and have an adverse
+
+effect on its ability to grow and expand its business.
+
+We depend on motion picture production
+
+and performance.
+
+Owing to the stability
+
+of the monthly subscription model MoviePass has substantially reduced exposure to any short term volatility that may be caused
+
+by fluctuations in motion picture production and performance. We do not see a shortage of programming due to the diversity
+
+and stability of our subscribers.
+
+An increase in the use of alternative
+
+film delivery methods or other forms of entertainment may drive down subscribers and movie goer attendance. 
+
+The continued disruption resulting
+
+from the proliferation of alternative film delivery methods and the overwhelming pressure it has created for all
+
+distributors and exhibitors is at the heart of our business model. We know that when we support or create a frequent
+
+moviegoer that we are creating value across all platforms. With MoviePass our subscribers have proven that they will dramatically increase
+
+the Movie going behavior on a sustained basis. We know that people still love going to the movies despite all
+
+of the other options they may have.
+
+A deterioration in general economic
+
+conditions and its impact on consumer and business spending, particularly by customers in our targeted demographic, would adversely
+
+affect our revenue and financial results.
+
+Our business and financial
+
+results are influenced significantly by general economic conditions, in particular, those conditions affecting discretionary consumer
+
+spending. During past economic slowdowns and recessions, many consumers reduced their discretionary spending and advertisers reduced
+
+their advertising expenditures. An economic downturn can result in reduced theater attendance, which could impact subscription
+
+renewals.
+
+For consumers, such
+
+things as employment levels, fuel prices, interest and tax rates and inflation can significantly impact discretionary consumer
+
+spending and as a result subscription growth or attrition.
+
+We may face difficulty in integrating
+
+the operations of the business we have acquired and may acquire in the future.
+
+Acquisitions have
+
+been and may continue to be an important component of our growth strategy; however, we will need to integrate these acquired businesses
+
+successfully in order for our growth strategy to succeed and for us to become profitable. We will implement, and the management
+
+teams of the acquired businesses will adopt, our policies, procedures and best practices, and cooperate with each other in aspects
+
+of their operations. We may face difficulty with the integration of the businesses we acquire, such as coordinating geographically
+
+dispersed organizations, integrating personnel with disparate business backgrounds and combining different corporate cultures.
+
+The business we acquired is not profitable and does not have sophisticated financial reporting systems in place, and we are relying
+
+on their adoption of our best practices to operate their businesses more efficiently to achieve and maintain profitability. However,
+
+we may fail in implementing our policies and procedures, or the policies and procedures may not be effective or provide the results
+
+we anticipate for a particular business. Further, we will be relying on these policies and procedures in preparing our financial
+
+and other reports as a public company, so any failure of acquired businesses to properly adopt these policies and procedures could
+
+impair our public reporting. Management of the businesses we acquire may not have the operational or business expertise that we
+
+require to successfully implement our policies, procedures and best practices.
+
+In addition, our growth
+
+strategy also includes the development of online properties that we intend to integrate across all of our businesses. This will
+
+require, among other things, the integration of the individual websites and databases of each business we have or will acquire.
+
+This will be a complex undertaking that may prove more difficult, expensive and time consuming than we expect. Even if we are able
+
+to achieve this integration, it may not achieve the benefits we anticipate. If we fail to do this properly and in a timely manner,
+
+it could harm our revenue and relationship with our subscribers.
+
+RISKS ASSOCIATED
+
+WITH OUR ZONE BUSINESS
+
+The failure to successfully
+
+monetize the RedZone Map™ App may adversely affect our future results of operations.
+
+We anticipate
+
+that we will be required to invest a significant amount of time and money in developing and monetizing the RedZone Map™
+
+app which, if our efforts are unsuccessful, may not be recovered. To date, we have taken a charge to our profit and loss on our
+
+balance sheet of approximately $6.3 million to write down the value of the intangibles related to our Zone acquisition. The failure
+
+of consumers to use the RedZone Map™ app may result in the inability to successfully monetize the RedZone Map™ app.
+
+Our failure to successfully develop and monetize the RedZone Map app may continue to adversely affect our results of operations.
+
+Zone faces
+
+intense competition. If we do not continue to innovate and provide top quality products and services that are useful to users,
+
+our operating results could be adversely affected.
+
+Consumers
+
+have many map application choices like Google Maps and CrimeReports. While we believe that our offering of the RedZone Map™
+
+app is unique given our advanced technology, crime data and navigation tool, there is no assurance that we may continue to incorporate
+
+the most advanced mapping and data technologies. Some of our competitors have greater financial, technical and personnel resources,
+
+which enable them to develop or use superior technologies and develop a user basis for their products and services that we are
+
+not able to afford. If our technologies become obsolete, we may be placed at a competitive disadvantage.
+
+New technologies that block
+
+mobile advertising could adversely affect our business. 
+
+Zone’s
+
+long-term business model depends greatly on advertising revenue derived from fees paid to it by advertisers in connection with
+
+the display of advertisements. New technologies have been developed, and are likely to continue to be developed, that can block
+
+the display of online or mobile advertisements. As a result, advertisement-blocking technology could in the future adversely affect
+
+our operating results.
+
+Any reduction in anticipated
+
+spending by advertisers could harm Zone’s business. 
+
+Future
+
+advertising revenues are critical to Zone’s business model and if advertisers’ spending on online or mobile advertising
+
+is significantly reduced due to any political, economic, social or technological change or any other reason, our financial condition
+
+could be adversely affected.
+
+We are reliant on crime
+
+data from multiple providers. Should we experience difficulty in acquiring that data, our business could be adversely affected.
+
+Should
+
+any of those providers discontinue providing data to us or we otherwise experience disruption in that pipeline, our operations
+
+may be adversely affected. If any of those providers require us to pay a much higher fee to use their data in the future that
+
+could substantially drive up the costs of our services.
+
+Zone’s
+
+business depends on mobile technology and continued, unimpeded access to internet and wireless services. Adverse changes to that
+
+access could harm Zone’s business. 
+
+A few large
+
+companies provide wireless services to consumers. If our users’ access to Internet and wireless services is interfered with
+
+or limited due to any political, economic, social or technological reason, we may not be able to make RedZone Map™ readily
+
+available to our users or may not be able to do so in an effective manner, including ensuring that the RedZone Map™ app
+
+will remain accessible within an acceptable load time. Failure to provide our services in a timely manner without interruption
+
+could generate consumer complaints and adversely affect our business.
+
+Zone’s business model
+
+depends on branding and marketing and failure to maintain and expand Zone’s user base or maintain a positive image could
+
+harm Zone’s business. 
+
+We believe
+
+that continued marketing efforts will be critical to achieve widespread acceptance of Zone’s products. Our marketing campaigns
+
+may not be successful given the expense required. For example, failure to adequately maintain and develop our user base could
+
+cause our future revenue growth to decrease. In addition, the RedZone Map™ app provides navigation recommendations based
+
+on our database so that drivers can choose safer routes. If we are subject to any criticism for inaccurate information or an unsound
+
+recommendation and such criticism negatively impacts the public perception of our RedZone Map™, that could harm our revenues
+
+and business.
+
+Increased regulatory scrutiny,
+
+in particular, related to privacy and data security issues may negatively impact our business. 
+
+Although
+
+we are not aware of any current or proposed federal, state or local laws or regulations that would have a material detrimental
+
+effect on the RedZone Map™ app or our MoviePass products, there may be increased legal and regulatory scrutiny on our use
+
+of data sources, technologies to process data and generate recommendations, the applicability of the recommendations and other
+
+aspects of the app. This increased scrutiny may require us to make modifications or improvements to the current technologies we
+
+use or may otherwise increase our regulatory compliance costs, which may adversely affect our business.
+
+In particular,
+
+the regulatory framework for privacy and security issues is evolving worldwide and is likely to remain in flux for the foreseeable
+
+future. Various government and consumer protection agencies have also called for new regulation and changes in industry practices
+
+along with increased enforcement of existing laws in the privacy and data security areas. Practices regarding the collection,
+
+processing, storage, sharing, disclosure, user content, use and security of personal and other information by companies offering
+
+online or mobile services is under increased public and regulatory scrutiny. Our business, including our ability to operate and
+
+expand in the United States and internationally or on new technology platforms, could be adversely affected if new legislation
+
+or regulations are adopted, interpreted or implemented in a manner that is inconsistent with our current business practices and
+
+that require changes to these practices, the design of our website, mobile applications, products, features or our privacy policy.
+
+In particular, the success of our business will be driven by our ability to responsibly use the data that we collect from our
+
+users, key suppliers and other sources. Therefore, our business could be harmed by any significant change to applicable laws,
+
+regulations or industry standards or practices regarding the storage, use or disclosure of data we collect, or regarding the manner
+
+in which the express or implied consent of relevant persons for such use and disclosure is obtained. Such changes may require
+
+us to modify our products and features, possibly in a material manner, and may limit our ability to develop new commercial applications
+
+for such data as well as new products and features that make use of the data that we collect.
+
+With the potential promulgation
+
+of new laws or regulations, we could be subject to claims, lawsuits and other proceedings that may result in adverse outcomes.
+
+Although
+
+we are committed to making RedZone Map™ as high in quality as we are capable while maintaining full compliance with applicable
+
+laws and regulations, there is no assurance that we will not be the subject of claims, lawsuits or other proceedings arising from
+
+our technologies, products or services, especially if any new laws or regulations are promulgated which may greatly increase the
+
+risk of litigation by users or third parties. Litigation could be costly and could divert us from focusing on our business operations.
+
+If any litigation occurs and results in an adverse outcome, it could negatively impact our public image and brand and have a detrimental
+
+effect on our expansion plans and operating results.
+
+We may be subject to intellectual
+
+property claims related to our Zone products, which are costly to defend and could result in and/or limit our ability to use certain
+
+technologies in the future. 
+
+A third
+
+party may sue us for infringing its intellectual property rights. Likewise, we may need to resort to litigation to enforce our
+
+intellectual property rights or to determine the scope and validity of third-party intellectual property rights. The cost to us
+
+of any litigation or other proceeding relating to intellectual property rights, even if resolved in our favor, could be substantial,
+
+and the litigation would divert our efforts from our business activities. If we do not prevail in this type of litigation, we
+
+may be required to pay monetary damages, stop commercial activities related to our products or obtain one or more licenses in
+
+order to secure the rights to continue marketing our products and services related to Zone and using our technologies. Uncertainties
+
+resulting from the initiation and continuation of any litigation could limit our ability to continue some of our operations. In
+
+addition, a court may require that we pay expenses or damages.
+
+If Zone’s security
+
+measures are breached, or if RedZone Map™ is subject to attacks that degrade or deny the ability of users to access our
+
+products and services, users may curtail or stop using our products and services, or we may be subject to protracted litigation,
+
+which could harm our business. 
+
+Any of
+
+our information security and processing systems, as well as third party data or network suppliers or our users, may experience
+
+damage or disruption of service from a number of causes, including power outages, computer and telecommunication failures, computer
+
+viruses, worms or other destructive software, internal design, manual or usage errors, cyber-attacks, terrorism, workplace violence
+
+or wrongdoing, catastrophic events, natural disasters and severe weather conditions. We may also become the target of malicious
+
+cyber-attack attempts. The security measures and procedures we, the third party suppliers and our users have in place to protect
+
+personal data and other information may not be successful or sufficient to counter all data breaches, cyber-attacks or system
+
+failures. Although we devote significant resources to our information security program and have implemented security measures
+
+to protect our systems and data, there can be no assurance that our efforts will prevent these known or unknown threats.
+
+If our
+
+security measures are breached, we may incur significant expenses in addressing and resolving the resulting problems. If we are
+
+sued in connection with any data security breach, we could be subject to protracted litigation. If unsuccessful in defending such
+
+lawsuits, we may have to pay damages or change our business practices, any of which could harm our business. In addition, any
+
+reputational damage resulting from a data breach, cyber-attack or system failure could decrease the acceptance and use of Zone’s
+
+products and services, which could harm Zone’s prospective future growth.
+
+Our intended spin-off of
+
+Zone may result in substantial tax liabilities and additional costs to the Company.
+
+We
+
+have recently announced our intention to spin-off Zone to become a separate public company. If we move forward with the spin off,
+
+and if the spin off does not qualify for tax-free treatment for U.S. federal income tax purposes, then, in general, we would be
+
+subject to tax as if we sold the common stock of Zone in a taxable sale for its fair market value. Our stockholders would be subject
+
+to tax as if they had received a taxable distribution equal to the fair market value of our common stock that was distributed
+
+to them, taxed as a dividend (without reduction for any portion of our stockholder’s basis in its shares of our common stock)
+
+for U.S. federal income tax purposes and possibly for purposes of state and local tax law, to the extent of a stockholder’s
+
+pro rata share of our current and accumulated earnings and profits (including any arising from the taxable gain to us with respect
+
+to the desired spin off). The amount of any such taxes to our stockholders and to us may be substantial.
+
+RISKS ASSOCIATED
+
+WITH OUR LEGACY BUSINESS
+
+Our ongoing investment in
+
+new technology is inherently risky and could disrupt our business.
+
+To remain
+
+competitive and grow we must continue to invest in new products and technologies and explore strategic investments. There is no
+
+assurance that these investment endeavors will be successful or that the products and technologies developed by these investments
+
+will be well received by the users. As our competitors use or develop new technologies, competitive pressures may force us to
+
+invest in developing or implementing new technologies at a substantial cost. We cannot be certain that we will be able to develop
+
+or implement technologies on a timely basis or at a cost that is acceptable to us. If we fail to develop or implement new technologies
+
+in a cost-effective manner, our operations and financial condition may be adversely affected.
+
+In our legacy business,
+
+we rely on a concentrated client base for much of our revenue. 
+
+We rely on a small number of clients for a significant portion of our revenue in our legacy business.
+
+During the years ended December 31, 2017 and December 31, 2016, our top four clients accounted for approximately 90.1% and 90.3%,
+
+respectively, of our consulting revenue. If we were to
+
+lose any of these clients, we cannot assure you that they could be replaced quickly or at all. Our loss of any of these clients
+
+could have a material adverse effect on our revenues and results of operations.
+
+Our industry is subject to rapid change.
+
+Our industry
+
+is characterized by rapidly changing technology, evolving industry standards, frequent new product and service introductions,
+
+evolving distribution channels and changing customer demands. We must adapt to rapidly changing technological and application
+
+needs by continually improving our services as well as introducing new products and services to address user demands. Our success
+
+will depend in part on our ability to develop IT solutions to meet client expectations, and offer services and solutions that
+
+keep pace with continuing changes in IT, evolving industry standards and changing client preferences. If we are unable to keep
+
+up with technological changes and changes in industry standards, our business, reputation and results of operations may be materially
+
+adversely affected.
+
+Our industry is intensely
+
+competitive.
+
+The market
+
+for IT consulting and data analytics services is intensely competitive, affected by rapid technological advances and includes
+
+a large number of competitors. Our competitors include the consulting divisions of the “Big Four” accounting firms,
+
+major offshore outsourcing companies, systems consulting and implementation firms, application software development firms, management
+
+consulting firms, divisions of large computer hardware and software companies, and niche providers of IT services. Many of these
+
+competitors have significantly greater financial, technical and marketing resources than we have. Competition imposes significant
+
+pricing pressures on us. If we are unable to compete successfully in our markets, our business and financial results will be materially
+
+adversely affected.
+
+Our success depends on our
+
+ability to protect our intellectual property.
+
+We rely
+
+upon a combination of nondisclosure and other contractual arrangements and trade secret, copyright and trademark laws to protect
+
+our proprietary rights and the proprietary rights of third parties from whom we license intellectual property, but there can be
+
+no assurance that the steps we take in this regard will be adequate to deter misappropriation of proprietary information or that
+
+we will be able to detect unauthorized use and take appropriate steps to enforce our intellectual property rights.
+
+Infringement on the proprietary
+
+rights of others could put us at a competitive disadvantage and any related litigation could be time consuming and costly.
+
+Third parties
+
+may claim that we violated their intellectual property rights. To the extent of a violation of a third party’s intellectual
+
+property rights, we may be prevented from operating our business as planned, and may be required to pay damages, to obtain a license,
+
+if available, or to use a non-infringing method if possible, to accomplish our objectives. Any of these claims, with or without
+
+merit, could result in costly litigation and divert the attention of key personnel from our day-to-day operations. If such claims
+
+are successful, they could result in costly judgments or settlements.
+
+RISKS ASSOCIATED
+
+WITH OWNERSHIP OF OUR COMMON STOCK
+
+The sale of a substantial
+
+amount of our common stock in the public market and the issuance of shares reserved for issuance to consultants and upon conversion
+
+of convertible instruments could adversely affect the prevailing market price of our common stock.
+
+As of April 11, 2018 we
+
+had 52,996,631 shares of common stock issued and outstanding and the closing sale price of our common stock on that date was $2.94.
+
+Pursuant to the resale registration statement on Form S-3 (file number 333-215313), declared effective by the SEC on January 13,
+
+2017, we registered 3,926,293 shares of common stock for an institutional investor (the “Investor”) in connection
+
+with the sale of our Senior Secured Convertible Notes on December 2, 2016 (the “December 2016 Notes”). On September
+
+19, 2017, we entered into an Amendment and Exchange Agreement with the Investor, pursuant to which, among other things, the Investor
+
+exchanged $10,000 in aggregate principal outstanding under the December 2016 Notes into a convertible note issued by us in the
+
+amount of $697,000, which was subsequently converted in full into an aggregate of 232,334 shares of our common stock at a conversion
+
+price of $3.00. In October 2017, we deregistered 1,999,862 shares of common stock from this registration statement after satisfying
+
+the December 2016 Notes in full by issuing 1,926,431 shares of common stock and paying in cash $126,557 in interest. As of April
+
+11, 2018, the institutional investor has sold all 3,926,293 shares of our registered common stock under this registration statement
+
+that it received upon conversion of the December 2016 Notes, and all obligations under the December 2016 Notes have been satisfied. 
+
+On March
+
+9, 2017 we filed a registration statement to register 3,332,075 shares of our common stock on Form S-3 (file number 333-216569)
+
+for the Investor in conjunction with the sale of Senior Secured Convertible Notes completed on February 8, 2017 (the “February
+
+2017 Notes”). The registration statement was declared effective by the SEC on April 26, 2017 (the “February 2017 Notes
+
+Registration Statement”). Pursuant to a letter agreement dated August 27, 2017, the Investor converted $2.5 million in then
+
+outstanding principal amount of the February 2017 Notes plus accrued but unpaid interest into an aggregate of 841,250 shares of
+
+our common stock (the “February Share Amount”), and we provided Investor with the right to exchange shares of our
+
+common stock up to the February Share Amount for a senior secured convertible note (the “Exchange Right”), which Exchange
+
+Right the Investor exercised in October 2017 by exchanging 100,000 shares of our common stock into a senior secured convertible
+
+note in the amount of $300,000 (the “February Exchange Note”). In October 2017, we also entered into that certain
+
+Third Amendment and Exchange Agreement for the purpose of exchanging the February Exchange Note for 947,218 shares of our common
+
+stock issued to the Investor, along with the right to receive 552,782 additional shares of our common stock. Subsequently, in
+
+October 2017, we deregistered 1,479,189 shares of our common stock from the February 2017 Notes Registration Statement after satisfying
+
+the February 2017 Notes in full by issuing 1,852,886 shares of common stock to the Investor and paying in cash $125,190 in interest.
+
+The Investor has since sold all 1,479,189 shares that it received upon conversion of the February 2017 Notes, and all obligations
+
+under the February 2017 Notes have been satisfied.
+
+On September 15, 2017, we filed a registration statement to register 9,084,133 shares of our common stock
+
+on Form S-3 (file number 333-220488) for the Investor in conjunction with the sale of Senior Secured Convertible Notes (the “August
+
+2017 Notes”) and Warrants (the “August Warrants”) completed on August 16, 2017. We subsequently amended the registration
+
+statement, in response to comments from the SEC, to decrease the amount of shares registered thereunder to 3,043,030. The amended
+
+registration statement was declared effective by the SEC on December 4, 2017 (the “August 2017 Notes Registration Statement”).
+
+On November 21, 2017, we entered into that certain Fourth Amendment and Exchange Agreement with the Investor for the purpose of,
+
+among other things, (i) agreeing to reduce the number of shares of common stock required to be included in the registration statement
+
+covering the shares underlying the August 2017 Notes and August Warrants and (ii) exchanging the August Warrants for a new warrant,
+
+substantially in the form of the August Warrants, except as it relates to the exercise price and the expiration date (the “Exchanged
+
+Warrant”). In addition, the Exchanged Warrant is subject to redemption, refund or alternate cashless exercise in certain
+
+enumerated circumstances. As of April 11, 2018, the Investor has sold all 3,043,030
+
+shares of our registered common stock under the August 2017 Notes Registration Statement that it received upon conversion of the
+
+August 2017 Notes and exercise of the August Warrants, and all obligations under the August 2017 Notes have been satisfied. In
+
+addition, as of April 11, 2018, the entire Exchanged Warrant has been converted into 4,353,581 shares of our common stock.
+
+The issuances of the December 2016 Notes, the February 2017 Notes, and the August 2017 Notes (collectively,
+
+the “Notes”) and the subsequent transactions, resulted in a high volume of activity for our securities. While no obligations
+
+are currently outstanding under the Notes, we may engage the Investor in similar transactions, which transactions may include registration
+
+rights. The registration of such additional securities and the potential for high volume trades of our common stock in connection
+
+with these financings may have a downward effect on our market price. In addition, in connection with the Notes, the Company has
+
+issued five-year warrants to a financial advisor, of which 810,401
+
+are currently exercisable. Future issuance of our common stock upon exercise of these warrants may have a further negative impact
+
+on our stock price.
+
+Further, as a result of the issuance of additional convertible notes on each of November 7, 2017 and January
+
+23, 2018, 9,639,043 shares of our common stock may be issuable upon conversion of outstanding principal
+
+debt. We have repaid in cash all unrestricted principal in the amounts of $26,650,000 and $25,000,000 under the November 7, 2017
+
+and the January 23, 2018 notes, respectively, as a result of which no unrestricted principal remains outstanding as of the date
+
+of this report. As such, the 9,639,043 shares noted above represent shares issuable upon conversion of restricted principal under
+
+such convertible debt for which an equivalent amount owed to us under the applicable notes has not yet been paid. Such restricted
+
+principal may not, as of the date of this report, be converted into any shares of our common stock. However, if holders of these
+
+notes provide additional payments to us under these notes, these shares will no longer constitute restricted principal and may
+
+be issuable by us to the holders.
+
+Finally, as of April 11, 2018, we have reserved for issuance, but not yet issued, (i) 5,136,355
+
+shares of common stock reserved for various officers, directors, employees and consultants, (ii) 4,000,001 shares of common stock
+
+to MoviePass, upon receipt of stockholder approval, and (iii) 28,330,769 shares of common stock reserved for issuance upon exercise
+
+of public warrants issued by us in registered public offerings with the SEC in December 2017 and February 2018. The issuance of
+
+shares the Company is obligated to issue, and the issuance of shares the Company may issue in connection with conversion or exercise
+
+of its outstanding convertible instruments, may result in a higher volume trading of the Company’s securities, which may
+
+increase dilution of existing investors and further depress the market price of our common stock, which may negatively affect our
+
+stockholders’ equity and our ability to raise capital on terms acceptable to us in the future.
+
+The price of our common
+
+stock has been volatile, and the market price of our common stock may decrease.
+
+The per
+
+share price of our common stock may vary from time to time. For example, the closing price of our common stock during 2017 was
+
+as low as $2.23 and as high as $32.90. Market prices for securities of technology companies have historically been particularly
+
+volatile. The factors that may cause the market price of our common stock to fluctuate include, but are not limited to:
+
+In addition,
+
+the equity markets have experienced significant price and volume fluctuations that have affected the market prices for the securities
+
+of technology companies for a number of reasons, including reasons that may be unrelated to our business or operating performance.
+
+These broad market fluctuations may result in a material decline in the market price of our common stock and you may not be able
+
+to sell your shares at prices you deem acceptable. In the past, following periods of volatility in the equity markets, securities
+
+class action lawsuits have been instituted against public companies. Such litigation, if instituted against us, could result in
+
+substantial cost and the diversion of management's attention.
+
+Our outstanding convertible
+
+notes contain provisions that may have a material adverse effect on our financial results
+
+The holders
+
+of our convertible notes have certain additional rights upon an event of default under the notes which could harm our business,
+
+financial condition and results of operations and could require us to curtail or cease or operations.
+
+Under our
+
+senior convertible notes issued on November 7, 2017 and January 23, 2018, the holders have certain rights upon an event of default.
+
+Such rights include (i) an increase in the interest rate to 15% per year for one month and 18% per year thereafter; (ii) the alternate
+
+conversion price thereunder being adjusted to the lowest of (A) the applicable conversion price as in effect on the applicable
+
+date of conversion, and (B) the greater of (y) the default floor price (which ranges from $1.83 to $11.44, depending on receipt
+
+of applicable stockholder approvals and the terms of the applicable note), and (z) 75% of the lowest volume weighted average price
+
+of the common stock for each of the 30 consecutive trading days ending and including the trading day of delivery or deemed delivery
+
+of the applicable notice of conversion; and (iii) us being required to redeem all or a portion of the notes. At any time after
+
+certain notice requirements for an event of default are triggered, a holder of the notes may require us to redeem all or any portion
+
+of the notes by delivering written notice. Each portion of the notes subject to this redemption would be redeemed by us in cash
+
+by wire transfer of immediately available funds or shares of our common stock, at the election of the holder, at a price equal
+
+to the greater of (I) 125% of the outstanding amount to be redeemed and (II) the product of (a) the outstanding amount to be redeemed
+
+divided by the conversion price multiplied by (b) the product of (1) 125% multiplied by (2) the highest closing sale price of
+
+the common stock on any trading day during the period commencing on the date preceding such event of default and ending on the
+
+date we make the entire payment required to be made under the notes. We may not have sufficient funds to settle the redemption
+
+price, or we may be required to issue shares that could result in significant dilution to our existing stockholders and drive
+
+down the market price of our securities.
+
+While we
+
+do not, as of the date of this report, have any unrestricted principle outstanding under these senior convertible notes, the holders
+
+may make prepayments under the unpaid portion of their corresponding investor notes, which would result in us incurring further
+
+repayment obligations under the convertible notes, which in turn could exacerbate the results of an event of default under the
+
+convertible notes, as described above. Any resulting exercise of any of these rights upon an event of default could substantially
+
+harm our financial condition and force us to curtail or cease operations. For a more complete discussion of the senior convertible
+
+notes we issued on November 7, 2017 and January 23, 2018, please see the Current Reports on Form 8-K we filed with the Commission
+
+on November 6, 2017 and January 11, 2018, respectively.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+Not Applicable.
+
+ITEM 2. PROPERTIES
+
+The Company’s
+
+executive office is located at the Empire State Building, 350 Fifth Avenue, Suite 7520, New York, New York 10118. The Company’s
+
+executive office is located in a leased facility with a term expiring on June 30, 2022. Zone leases an office located at 444 Brickell
+
+Avenue, Miami, Florida 33131. Zone’s lease term will expire on April 30, 2020. The Company’s Indian subsidiary has
+
+an office in Bangalore, India at a leased facility located at 3rd Floor, Beta Block, Number 7 Sigma Tech Park, Varthur Kodi, Bangalore
+
+560066. This lease was amended on September 26, 2017 to extend the duration of the lease until September 30, 2019. We are currently
+
+looking to consolidate offices for our current operations. MoviePass currently rents office space on a month to month basis at
+
+a shared office complex located at 175 Varick St, New York, NY 10014.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+On August 24, 2016,
+
+3839 Holdings LLC (“3839 Holdings”) filed a summons and complaint in the Supreme Court of the State of New York, New
+
+York County, against Theodore Farnsworth, our Chief Executive Officer and Chairman, Highland Holdings Group, Inc. (“HHGI”)
+
+and Zone. The claims arose out of 3839 Holdings’ purchase of a 10% interest in HHGI and an unsuccessful real estate investment
+
+by HHGI. On or about December 7, 2016, 3839 Holdings amended the complaint to add the Company as a defendant. On November 24,
+
+2017, the Supreme Court of the State of New York granted the motion to dismiss of Zone and the Company, and all claims asserted
+
+by 3839 Holdings against Zone and the Company have been dismissed. Since then, 3839 Holdings has filed a Notice of Appeal. To
+
+date, 3839 Holdings has not perfected its appeal.
+
+On February 23, 2018,
+
+MoviePass filed a patent infringement complaint against Sinemia, Inc.in United States District Court, Central District of California.
+
+MoviePass’s complaint asserts infringement of two U.S. patents, U.S. Patent Nos. 8,484,133 (“Secure targeted personal
+
+buying/selling method and system”) and 8,612,325 (“Automatic authentication and funding method”) by Sinemia’s
+
+movie-ticket subscription service. MoviePass’s complaint requests damages and an injunction. As of the date of this report,
+
+Sinemia has not yet responded to the complaint.
+
+The Company is party
+
+to routine litigation and administrative complaints incidental to its business. The Company does not believe that the resolution
+
+of any or all of such current routine litigation and administrative complaints is likely to have a material adverse effect on
+
+the Company’s financial condition or results of operations.
+
+There are no proceedings
+
+in which any of the directors, officers or affiliates of the Company, or any registered or beneficial holder of more than 5% of
+
+the Company’s voting securities, is an adverse party or has a material interest adverse to that of the Company.
+
+ITEM 4. MINE SAFETY DISCLOSURE
+
+Not Applicable
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT’S
+
+COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+Market Information for Common Stock
+
+The Company’s common stock is listed on Nasdaq
+
+under the symbol “HMNY.”
+
+The following table
+
+sets forth the quarterly range of high and low sale prices of the Company’s common stock since January 1, 2016 as reported
+
+by Nasdaq:
+
+Dividends
+
+The Company did
+
+not declare any dividends during the years ended December 31, 2017 and 2016 The payment of dividend is at the discretion of our
+
+Board of Directors, who review many factors, including but not limited to, profitability expectations, liquidity and financing
+
+needs before making a determination that dividends will be paid.
+
+Holders
+
+There were approximately 24
+
+registered holders of record of the Company’s common stock as of April 11, 2018.
+
+Recent Sales of Unregistered Securities
+
+Sales of our unregistered
+
+securities have been previously disclosed in Current Reports on Form 8-K.
+
+Repurchases of Equity Securities
+
+There were no repurchases
+
+by the Company of the shares of the Company’s common stock during the quarter ended December 31, 2017.
+
+Equity Compensation Plan
+
+For information about the
+
+Company’s equity compensation plan, please see “Part III, Item 12. Security Ownership of Certain Beneficial Owners
+
+and Management and Related Stockholder Matters” of this report.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+Not Applicable.
+
+ITEM 7. MANAGEMENT'S
+
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The
+
+following discussion and analysis of significant factors affecting the Company’s operating results and liquidity and capital
+
+resources should be read in conjunction with the accompanying Consolidated Financial Statements and related Notes.
+
+Overview
+
+Since
+
+1983, Helios and Matheson Analytics Inc. (“Helios and Matheson”, the “Company”, “we”, “us”
+
+or “our”) has provided high quality information technology, or IT, services and solutions including a range of technology
+
+platforms focusing on big data, business intelligence, and consumer-centric technology. More recently, to provide greater value
+
+to stockholders, the Company has sought to expand its business primarily through acquisitions that leverage its capabilities and
+
+expertise. The Company is headquartered in New York City, has an office in Miami Florida and has an office in Bangalore India.
+
+The Company's common stock is listed on Nasdaq under the symbol “HMNY”. Our website address is www.hmny.com. Information
+
+on our website is not a part of this report.
+
+On
+
+November 9, 2016, we acquired Zone, a state-of-the-art mapping and spatial analysis company, and on December 11, 2017 we acquired
+
+a majority interest in MoviePass, the nation’s premier movie theater subscription service. In January 2018, we formed MoviePass
+
+Ventures, a wholly-owned subsidiary that aims to collaborate with film distributors to share in distribution fees while using
+
+the data analytics MoviePass offers for marketing and targeting services for MoviePass’ paying subscribers using the platform.
+
+MoviePass
+
+Investment 
+
+On August 15, 2017, we entered into a Securities Purchase Agreement with MoviePass, which Helios and MoviePass
+
+amended on October 6, 2017 (collectively, the “MoviePass Purchase Agreement”). On
+
+December 11, 2017, pursuant to the MoviePass Purchase Agreement, Helios purchased shares of MoviePass’ common stock, par
+
+value $0.0001 per share (the “MoviePass Common Stock”) totaling 51.7% of the outstanding MoviePass Common Stock (excluding
+
+shares underlying MoviePass options and warrants) after giving effect to the transaction (the “Acquisition”).
+
+On
+
+October 11, 2017, Helios and MoviePass entered into an investment option agreement (the “Option Agreement”), pursuant
+
+to which MoviePass granted Helios an option to purchase additional shares of MoviePass Common Stock in an amount up to $20 million
+
+(the “Option”). Upon full exercise of the Option, Helios owned 62.41% of the outstanding shares of MoviePass Common
+
+Stock (excluding shares underlying MoviePass options and warrants).
+
+Following
+
+the full exercise of the Option, Helios has, from December 19, 2017 through February 20, 2018, provided cash advances to MoviePass
+
+to support MoviePass’ working capital and operational requirements, as well as to support the expansion of MoviePass’
+
+business plans and objectives. The total amount advanced by Helios to MoviePass during this period totaled $55,525,000 (the “Advance”).
+
+On
+
+March 8, 2018, Helios entered into a Subscription Agreement with MoviePass (the “March 2018 Agreement”), pursuant
+
+to which, in lieu of repayment of the Advance, MoviePass agreed to sell to Helios an amount of MoviePass Common Stock equal to
+
+18.79% of the total then outstanding MoviePass Common Stock (excluding shares underlying MoviePass options and warrants) (the
+
+“March 2018 MoviePass Purchased Shares”), based on a pre-money valuation of MoviePass of $240,000,000 as of December
+
+31, 2017. Pursuant to the March 2018 Agreement, MoviePass also agreed to issue to Helios, in addition to the March 2018 MoviePass
+
+Purchased Shares, without payment of additional consideration by Helios, for purposes of anti-dilution, an amount of shares of
+
+MoviePass Common Stock that caused Helios’ total ownership of the outstanding shares of MoviePass Common Stock (excluding
+
+shares underlying MoviePass options and warrants), together with the Movie 2018 MoviePass Purchased Shares, to equal 81.2% as
+
+of March 8, 2018.
+
+In addition, from March 1, 2018 through April 12, 2018, the Company advanced a total of $35,000,000 to
+
+MoviePass (the “Second Advance”). On April
+
+16, 2018, the Company entered into an additional Subscription Agreement with MoviePass (the “April 2018 Agreement”),
+
+pursuant to which, in lieu of repayment of the Second Advance, MoviePass agreed to sell to the Company an amount of MoviePass Common
+
+Stock equal to 10.6% of the total then outstanding MoviePass Common Stock (excluding shares underlying MoviePass options and warrants)
+
+(the “April 2018 MoviePass Purchased Shares”), based on a pre-money valuation of MoviePass of $295,000,000 as of March
+
+31, 2018. Pursuant to the April 2018 Agreement, MoviePass also agreed to issue to the Company, in addition to the April 2018 MoviePass
+
+Purchased Shares, without payment of additional consideration by the Company, for purposes of anti-dilution, an amount of shares
+
+of MoviePass Common Stock that caused the Company’s total ownership of the outstanding shares of MoviePass Common Stock (excluding
+
+shares underlying MoviePass options and warrants), together with the April 2018 MoviePass Purchased Shares, to equal 91.8% as of
+
+March 8, 2018.
+
+Zone Spin-Off
+
+In
+
+March 2018, we announced that our Board of Directors approved a plan to spin-off our wholly-owned subsidiary, Zone Technologies,
+
+Inc. (“Zone”). Following the spin-off, Zone would become an independent publicly traded company that we would expect
+
+to also be listed on Nasdaq. The spin-off is subject to numerous conditions, including, the effectiveness of a Registration Statement
+
+on Form S-1 to be filed with the Commission and the approved listing of Zone’s common stock on Nasdaq.
+
+Pursuant
+
+to the spin-off, we plan to distribute shares of Zone common stock as a dividend to persons who hold common stock of Helios as
+
+of a record date to be determined. Helios expects to set a record date to determine the stockholders entitled to receive shares
+
+of Zone in the spin-off for approximately 20 to 40 days before the effective date of the spin-off. Holders of any convertible
+
+notes and warrants of Helios outstanding as of the applicable record date may be entitled to participate in the dividend of Zone
+
+shares in the spin-off in accordance with the terms of such notes and warrants. The strategic goal of the spin-off is to create
+
+two separate companies, each of which can focus on its own strengths and operational plans and be publicly traded. There is no
+
+assurance that we will be able to complete the spin-off, and the Company’s management may at any time decide not to proceed
+
+with the spin-off.
+
+Sale of Senior Secured Convertible Promissory Notes
+
+In
+
+August, 2017, pursuant to a securities purchase agreement (the “August Purchase Agreement”) entered into by the Company
+
+and the Investor, we agreed to sell and issue (1) Senior Secured Convertible Notes (the “August 2017 Notes”) to the
+
+Investor in the aggregate principal amount of $10,300,000 and (2) a warrant to purchase 1,892,972 shares of our common stock,
+
+exercisable for a period of five years at an exercise price of $3.25 per share.
+
+In
+
+November 2017, pursuant to a securities purchase agreement entered into by the Company and the Investor, we sold and issued senior
+
+convertible notes (the “November 2017 Notes”) in the aggregate principal amount of $100,000,000, consisting of (i)
+
+Series A Senior Bridge Convertible Notes in the aggregate principal amount of $5,000,000 and (ii) Series B Senior Secured Bridge
+
+Convertible Notes in the aggregate principal amount of $95,000,000 for consideration consisting of (i) cash payments in the aggregate
+
+amount of $5,000,000, and (ii) secured promissory notes payable by the Investor to the Company in the aggregate principal amount
+
+of $95,000,000 with an aggregate mandatory prepayment obligation in an aggregate amount of approximately $20,650,000.
+
+In
+
+January 2018, pursuant to a securities purchase agreement entered into by the Company and the Investor, we sold and issued senior
+
+convertible notes in the aggregate principal amount of $60,000,000, consisting of (i) a Series A-1 Senior Bridge Subordinated
+
+Convertible Note in the aggregate principal amount of $25,000,000 and (ii) a Series B-1 Senior Secured Bridge Convertible Note
+
+in the aggregate principal amount of $35,000,000 for consideration consisting of (i) a cash payment in the aggregate amount of
+
+$25,000,000, and (ii) a secured promissory note payable by the Investor to the Company in the aggregate principal amount of $35,000,000.
+
+Letter Agreement Regarding Conversion
+
+of the February Additional Note
+
+In
+
+a Current Report on Form 8-K filed by the Company on February 10, 2017, we reported that we issued senior secured convertible
+
+notes (the “February 2017 Notes”) to the Investor for consideration consisting of a promissory note issued by the
+
+Investor to the Company in the amount of $5,000,000.
+
+On
+
+August 27, 2017, we and the Investor executed a letter agreement pursuant to which the Investor agreed to immediately convert
+
+all outstanding principal remaining under the February 2017 Notes in the amount of $2,500,000, plus all accrued unpaid interest
+
+thereon, at the alternate conversion price which equaled $3.00 per share.
+
+In
+
+consideration of the immediate conversion of the February 2017 Notes we granted to the Investor the right (the “Investor
+
+Exchange Right”), at one or more times until December 31, 2017, to effect an exchange (the “Share Exchange”)
+
+of an aggregate 841,250 shares of our common stock for one or more senior secured convertible promissory notes (the “New
+
+Note”), with the right to substitute the alternate conversion price of the New Note with the alternate conversion price
+
+of the Company’s Series B Senior Secured Convertible Note that was issued on August 16, 2017 as one of the August 2017 Notes.
+
+Any New Note issued would be in the principal amount equal to the product of the prepayment amount ($2,500,000) multiplied by
+
+a fraction, the numerator of which is the number of the aggregate shares being tendered to the Company in the Share Exchange and
+
+the denominator of which is 841,250.
+
+On October 13, 2017,
+
+the Investor exchanged 100,000 shares of common stock into a New Note in the principal amount of $300,000 (the “February
+
+New Note”).
+
+Amendment
+
+and Exchange Agreement
+
+On
+
+September 19, 2017, the Company and the Investor entered into an Amendment and Exchange Agreement (the “Exchange Agreement”)
+
+pursuant to which the Company and the Investor agreed that:
+
+Pursuant
+
+to the Exchange Agreement the Investor agreed to waive certain rights, including the right to receive additional shares of the
+
+Company’s common stock as a True-Up, as defined in the December 2016 Notes, any restriction (excluding any participation
+
+rights) on the Company’s offer, sale or issuance of shares of common stock and/or securities convertible into common stock
+
+in one or more private securities offerings, so long as the securities offered have a purchase price of at least $3.00 per share
+
+of common stock; and any restriction on the filing of one or more registration statements with the SEC for the resale of any shares
+
+of common stock issued or issuable in connection with any Permitted PIPE or Convertible Securities (as defined in the August Purchase
+
+Agreement).
+
+The
+
+Investor also exchanged $10,000 in aggregate principal amount of the December 2016 Notes for a new senior convertible note issued
+
+by the Company in the aggregate principal amount of $697,000 (the “Exchange Note”). On October 2, 2017 the Investor
+
+converted the Exchange Note into 232,334 shares of our common stock.
+
+As
+
+a result of these transactions we received gross proceeds of $2.5 million on September 20, 2017.
+
+Third Amendment
+
+and Exchange Agreement
+
+On
+
+October 23, 2017, we and the Investor entered into a Third Amendment and Exchange Agreement (the “Third Exchange Agreement”)
+
+for the purpose of exchanging the February New Note for 947,218 shares of common stock (collectively, the “Exchange Shares”)
+
+and rights (the “Rights”) to receive 552,782 additional shares of common stock (collectively, the “Reserved
+
+Shares”). The Exchange Shares, the Rights and the Reserved Shares are referred to in this report collectively as the “Exchange
+
+Securities.”
+
+In
+
+exchange for the Exchange Securities, the Investor agreed to, among other things:
+
+(i)
+
+terminate the Investor’s Exchange Right, terminating the Investor’s right to receive any further New Notes, which
+
+would have had a principal amount up to $2.2 million and a $0.50 conversion price floor if issued;
+
+(ii)
+
+(A) release all security interests held by the Investor in the assets of the Company and its subsidiaries, including Zone and
+
+its proprietary RedZone Map™ product (“RedZone”) and the Company’s interest in MoviePass (collectively,
+
+the “Collateral”), (B) terminate each security agreement between the Company and the Investor, and (C) authorize the
+
+Company to file amendments to all UCC Financing Statements for the purpose of terminating the Investor’s security interests
+
+in the Collateral;
+
+(iii)
+
+consent to the Company obtaining non-convertible senior secured debt financing from a qualified bank in an amount not less than
+
+$20 million and not more than $100 million while the August 2017 Notes remain outstanding;
+
+(iv)
+
+defer the Company’s obligation to pay any interest under the August 2017 Notes until the earlier to occur of (x) each conversion
+
+of the August 2017 Notes, solely with respect to the portion of interest included in the applicable conversion amount, (y) each
+
+redemption of the August 2017 Notes, solely with respect to the portion of interest included in the applicable redemption amount,
+
+and (z) the maturity date of the August 2017 Notes; and
+
+(v)
+
+waive any and all Events of Default (as defined in the August 2017 Notes) prior to the date of the Third Exchange Agreement.
+
+Fourth Amendment
+
+and Exchange Agreement
+
+On
+
+November 21, 2017, the Company and the Investor entered into a Fourth Amendment and Exchange Agreement (the “Fourth Exchange
+
+Agreement”) for the purpose of:
+
+(i)
+
+agreeing to reduce the number of shares of common stock required to be included in a registration statement such that such registration
+
+statement will include only 1,560,391 of the total 2,050,720 shares of common stock issued or issuable upon exercise of the August
+
+Warrant (the “August Warrant Shares”) and 1,455,302 shares of common stock issuable upon exercise of $5,821,208 in
+
+aggregate principal amount of the August 2017 Notes (the remaining $4,630,624 in aggregate principal amount of the August 2017
+
+Notes;
+
+(ii)
+
+exchanging the August Warrant for the purchase of 10,000 of the August Warrant Shares for a new warrant (the “Exchange Warrant”);
+
+and
+
+(iii)
+
+amending the August 2017 Notes and the November 2017 Notes to obtain the right to amend the MoviePass SPA (as defined in the November
+
+Securities Purchase Agreement), in order to issue to MoviePass upon the closing of the transactions contemplated by the MoviePass
+
+SPA, in lieu of shares of common stock, one or more promissory notes convertible into or exchangeable for up to an aggregate of
+
+4,000,001 shares of common stock subject to obtaining approval of the Nasdaq Stock Market, pursuant to Listing Rule 5635, of the
+
+issuance of such shares of common stock (collectively, the “Modified MP Transaction”) and (ii) to obtain a waiver
+
+such that neither the Modified MP Transaction nor any other transactions contemplated by the MoviePass SPA (as may be amended
+
+to effect the Modified MP Transaction) or the Investment Option Agreement, dated October 11, 2017, between the Company and MoviePass
+
+shall be deemed to be a Fundamental Transaction (as defined in the November Notes and the August Notes) or a transaction that
+
+would trigger a redemption of the August Warrant pursuant to Section 4(c)(i) of the August Warrant. Pursuant to the Fourth Exchange
+
+Agreement, the Investor also:
+
+(A)
+
+waived any right that the holders of the November 2017 Notes may have to adjust the Conversion Price (as defined in the November
+
+2017 Notes) as a result of the issuance of the Exchange Warrant or any of the shares issued pursuant to the Exchange Warrant (the
+
+“Exchange Warrant Shares”);
+
+(B)
+
+waived any right that the holders of the August Warrant may have to adjust the Exercise Price and the number of August Warrant
+
+Shares (each as defined in the August Warrant) as a result of the issuance of the Exchange Warrant or any of the Exchange Warrant
+
+Shares;
+
+(C)
+
+waived the Investor’s right to substitute the Variable Price (as defined in the August 2017 Notes) of the Exchange Warrant
+
+for the Conversion Price (as defined in the August 2017 Notes) and to waive the Investor’s right to substitute the Variable
+
+Price (as defined in the August Warrants) of the Exchange Warrant for the Exercise Price (as defined in the August Warrants);
+
+(D)
+
+waived any prohibition that may exist under any provision of the Transaction Documents (as defined in the August Securities Purchase
+
+Agreement) and the Transaction Documents (as defined in the November Securities Purchase Agreement) with respect to the issuance
+
+of the Exchange Warrant and any of the Exchange Warrant Shares and with respect to any cash payments that the Company may make
+
+pursuant to the Exchange Warrant;
+
+(E)
+
+amended the definition of Permitted Indebtedness set forth in the August 2017 Notes and the November 2017 Notes to include the
+
+Exchange Warrant, to the extent the Exchange Warrant is deemed to constitute Indebtedness (as defined in the August 2017 Notes
+
+and the November 2017 Notes); and
+
+(F)
+
+effective as of the 5th trading day after the Registration Statement is declared effective, the August Securities Purchase Agreement,
+
+the August 2017 Notes, the November Securities Purchase Agreement and the November 2017 Notes will be amended and restated, automatically
+
+without any further action on the part of the Company or the Investor required, to intentionally omit or to delete the provisions
+
+(i) prohibiting the filing of additional registration statements by the Company and (ii) prohibiting the issuance of additional
+
+securities by the Company without the consent of the Investor (the “Additional Offering Prohibition Waiver”).
+
+The Exchange Warrant
+
+The
+
+Exchange Warrant is in substantially the form of the August Warrant, except that:
+
+Redemption,
+
+Refund and Alternate Cashless Exercise
+
+In
+
+exchange for the Company’s receipt of the waivers described above, including without limitation, the Additional Offering
+
+Prohibition Waiver, the Company and the holder of the Exchange Warrant agreed that after the Adjustment Time, one of the following
+
+shall occur:
+
+(i)
+
+if the net proceeds from the sale of shares of common stock issuable upon conversion of the Remaining August Note by the holder
+
+of the Exchange Warrant exceeds $18.1 million (subject to reduction for any cash payment of the Remaining August Note), the Company
+
+will receive up to the first $5 million in excess of such amount;
+
+(ii)
+
+if the net proceeds from the sale of shares of common stock issuable upon conversion of the Remaining August Note by the holder
+
+of the Exchange Warrant is less than $18.1 million (subject to reduction for any cash payment of the Remaining August Note) (such
+
+difference, the “Redemption Maximum Amount”), either of the following may occur:
+
+The
+
+Alternate Cashless Exercise Price is defined as that price which shall be the greater of (x) $2.86 and (y) the lowest of (i) the
+
+applicable exercise price as in effect on the applicable exercise date, (ii) 85% of the VWAP of the shares of common stock as
+
+of the trading day immediately preceding the trading day of delivery of the applicable exercise notice, and (iii) 85% of the lowest
+
+VWAP of the shares of common stock on any trading day during the 2 trading day period commencing on, and including, the trading
+
+day of the delivery of the applicable exercise notice.
+
+In
+
+March 2018, the Investor converted the entire Exchange Warrant into 3,265,186 shares of our common stock at pursuant to an Alternate
+
+Cashless Exercise.
+
+Demand Note
+
+On
+
+November 2, 2017, the Company issued a demand promissory note to the Investor in the principal amount of $750,000 (the “Demand
+
+Note”). The proceeds from the Demand Note were used to exercise a portion the MoviePass Option. Subsequently, a portion
+
+of the proceeds from the offering of the November 2017 Notes was used to pay the Demand Note and the remaining proceeds may be
+
+used by the Company in connection with exercising the Company’s rights pursuant to the MoviePass Option Agreement or any
+
+other transaction whereby the Company increases its ownership interests or other rights and interests in MoviePass.
+
+Critical Accounting
+
+Policies and Estimates 
+
+The
+
+preparation of financial statements and related disclosures in conformity with U.S. GAAP, and our discussion and analysis of our
+
+financial condition and operating results require our management to make judgments, assumptions and estimates that affect the
+
+amounts reported in the Company’s consolidated financial statements and accompanying notes. Note 7 - “Summary of Significant
+
+Accounting Policies” of the Notes to Consolidated Financial Statements in Item 8 of this report on Form 10-K describes the
+
+significant accounting policies and methods used in the preparation of our consolidated financial statements. Management bases
+
+its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances,
+
+the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results may
+
+differ from these estimates and such differences may be material.
+
+Basis of Presentation 
+
+The
+
+Company’s consolidated financial statements have been prepared in accordance with accounting principles generally accepted
+
+in the United States of America (“U.S. GAAP”). The consolidated financial statements include all accounts of the Company
+
+and its majority owned and controlled subsidiaries. The Company consolidates entities in which it owns more than 50% of the voting
+
+common stock and controls operations. All intercompany transactions and balances among consolidated subsidiaries have been eliminated.
+
+The
+
+preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect
+
+the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the dates of the financial
+
+statements and the reported amounts of revenues and expenses during the reporting periods. Significant estimates made by management
+
+include allowance for doubtful accounts, purchase accounting allocations, recoverability and useful lives of property, plant and
+
+equipment, identifiable intangibles and goodwill, derivative liabilities, the valuation allowance of deferred taxes, contingencies
+
+and equity compensation. Actual results could differ from those estimates.
+
+Use of Estimates
+
+and Assumptions and Critical Accounting Estimates and Assumptions
+
+The
+
+preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect
+
+the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the dates of the financial
+Question: Compare August 2017 and November 2017 notes.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

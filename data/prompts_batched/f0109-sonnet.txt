@@ -1,0 +1,3288 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-021-base ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: form10-k.htm
+
+UNITED
+
+STATES
+
+SECURITIES
+
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+
+D.C. 20549
+
+FORM
+
+Commission
+
+File No. 001-36868
+
+SUNWORKS,
+
+INC.
+
+(Exact
+
+name of registrant as specified in its charter)
+
+Registrant’s
+
+telephone number, including area code (916) 409-6900
+
+Securities
+
+registered pursuant to Section 12(b) of the Act:
+
+Securities
+
+registered pursuant to Section 12(g) of the Act: NONE
+
+Indicate
+
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes [  ]
+
+No [X]
+
+Indicate
+
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes [  ]
+
+No [X]
+
+Indicate
+
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+
+and, (2) has been subject to such filing requirements for the past 90 days. Yes [X] No [  ]
+
+Indicate
+
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the
+
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes [X] No [  ]
+
+Indicate
+
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§ 229.405 of this chapter) is not
+
+contained herein and, will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements
+
+incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [  ]
+
+Indicate
+
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting
+
+company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,”
+
+“smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+If
+
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [  ]
+
+Indicate
+
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes [  ] No [X]
+
+The
+
+aggregate market value of the common stock held by non-affiliates as of June 30, 2018 was $27.4 million.
+
+The
+
+outstanding number of shares of common stock as of March 29, 2019 was 26,152,435. 
+
+TABLE
+
+OF CONTENTS
+
+PART
+
+I
+
+Item
+
+1. Business.
+
+Forward-looking
+
+Statements
+
+Statements
+
+in this annual report on Form 10-K that are not historical facts constitute forward-looking statements. Examples of forward-looking
+
+statements include statements relating to industry prospects, our future economic performance including anticipated revenues and
+
+expenditures, results of operations or financial position, and other financial items, our business plans and objectives, and may
+
+include certain assumptions that underlie forward-looking statements. Risks and uncertainties that may affect our future results,
+
+levels of activity, performance or achievements expressed or implied by these forward-looking statements include, among other
+
+things, those listed under “Risk Factors” and elsewhere in this annual report.
+
+These
+
+risks and uncertainties include but are not limited to:
+
+In
+
+some cases, you can identify forward-looking statements by terminology such as “may,” “will,” “should,”
+
+“expects,” “intends,” “plans,” “anticipates,” “believes,” “estimates,”
+
+“predicts,” “potential” or “continue” or the negative of these terms or other comparable terminology.
+
+These
+
+statements are subject to business and economic risk and reflect management’s current expectations and involve subjects
+
+that are inherently uncertain and difficult to predict. Actual events or results may differ materially. Moreover, neither we nor
+
+any other person assumes responsibility for the accuracy or completeness of these statements. We are under no duty to update any
+
+of the forward-looking statements after the date of this annual report to conform these statements to actual results.
+
+Business
+
+Introduction/Summary
+
+References
+
+herein to “we,” “us,” “Sunworks,” and “the Company” are to Sunworks, Inc. and
+
+its wholly-owned subsidiaries Sunworks United, Inc. (“Sunworks United”), MD Energy, Inc. (“MD Energy”),
+
+and Elite Solar Acquisition Sub, Inc. (“Elite Solar”).
+
+We
+
+provide photovoltaic (“PV”) based power systems for the agricultural, commercial, industrial (ACI), public works,
+
+and residential markets in California, Massachusetts, Nevada, Oregon, New Jersey and Washington. We have direct sales and/or operations
+
+personnel in California, Massachusetts, Nevada, and Oregon. Through our operating subsidiaries, we design, arrange financing,
+
+integrate, install, and manage systems ranging in size from 2kW (kilowatt) for residential loads to multi MW (megawatt) systems
+
+for larger ACI and public works projects. ACI installations have included installations at office buildings, manufacturing plants,
+
+warehouses, churches, and agricultural facilities such as farms, wineries, and dairies. Public works installations have included
+
+school districts, local municipalities, federal facilities and higher education institutions. The Company provides a full range
+
+of installation services to our solar energy customers including design, system engineering, procurement, permitting, construction,
+
+grid connection, warranty, system monitoring and maintenance.
+
+We
+
+currently operate in one segment based upon our organizational structure and the way in which our operations are managed and evaluated.
+
+Approximately 72% of our 2018 revenue was from sales to the ACI and public works markets, and approximately 28% of our revenue
+
+was from sales to the residential market. Approximately 68% of our 2017 revenue was from sales to the ACI and public works markets,
+
+and approximately 32% of our revenue was from sales to the residential market.
+
+Strategy
+
+Our
+
+strategy for near-term growth is focused on organic growth through continued expansion in California augmented by growth in other
+
+U.S. geographies. In addition, in 2018 we experienced success by winning new projects with public works customers and national
+
+commercial accounts. In the longer-term, we believe that the competitors in the solar industry will consolidate and that we will
+
+be able to enhance our growth and scale through accretive acquisitions. With scalable administrative and operational infrastructure
+
+in place, we believe our current approach for organic growth will lead to increased profitability and positive cash generation.
+
+We anticipate taking advantage of the long-term growth in the solar market as well as gaining market share relative to competitors.
+
+In
+
+our residential business, we have expanded our methods of acquiring customers to include collaborating with third party residential
+
+sales companies. We believe that the scarce resource in the residential solar industry is quality, economic installations in which
+
+customers can trust. We provide outstanding operations and customer support, as well as a 25-year warranty, which drives demand
+
+for our branded installations. The result is that our sales partners can sell with confidence knowing that they are backed by
+
+installation and operations on which they can rely. Our relationships with strong residential sales organizations is enhanced
+
+by our small team of in-house direct sales personnel and our referral business through our “Power Pay” program.
+
+Company
+
+Operations
+
+Employees
+
+We
+
+employ a total of approximately 208 full-time employees. We may also utilize outside subcontractors to assist with installing
+
+solar systems for our commercial and residential customers. Our direct installation labor is a combination of employees and contract
+
+labor.
+
+Sales
+
+and Marketing
+
+We
+
+have approximately 27 employees primarily focused on sales, sales support and marketing in California, Massachusetts, Nevada,
+
+and Oregon.
+
+In
+
+2017 we began to partner with independent residential solar sales companies and reduced our in-house residential sales headcount.
+
+We also benefitted from the implementation of our Power Pay application. With Power Pay, anyone who registers and is responsible
+
+for generating a new sale receives a referral fee.
+
+We
+
+continue to work more with third-party sales originators to generate most of our residential customer installations and mitigate
+
+the fixed costs and financial risk of maintaining our own direct residential sales force.
+
+We
+
+have an advantage in the ACI solar market given our extensive contact list, resulting from our experience in the ACI construction
+
+market, which provides access to customers. Through our network of vendors, participation in variety of industry trade associations
+
+and independent sales consultants, we now have a growing list of repeat clients, as well as an active and loyal referral network.
+
+Financing
+
+To
+
+promote sales, we assist customers in obtaining financing. Our objective is to arrange the most flexible terms that meet the needs
+
+and wants of the customer. Although we do not provide financing ourselves, we have relationships to arrange financing with numerous
+
+private and public sources, including PACE (Property Assessed Clean Energy) Programs, which are programs that involve both municipal
+
+governments and private financing companies that allow property owners to receive upfront funding for renewable energy projects,
+
+and agricultural financing offered by a network of lending institutions.
+
+We
+
+believe it is best for customers to own their own systems, but some customers prefer not to own their systems. We also have the
+
+ability to arrange financing with third parties through Power Purchase Agreements (“PPAs”) and leases for our customers.
+
+Suppliers
+
+We
+
+purchase solar panels, inverters and materials directly from multiple manufacturers and through distributors. We intend to further
+
+coordinate purchases and optimize supply relationships to realize the advantages of greater scale.
+
+If
+
+one or more of our suppliers fail to meet our anticipated demand, ceases or reduces production due to its financial condition,
+
+acquisition by a competitor or otherwise, it may be difficult to quickly identify alternate suppliers or to qualify alternative
+
+products on commercially reasonable terms, and our ability to satisfy this demand may be adversely affected. We do not, however,
+
+rely on any single supplier and, we believe, we can obtain needed solar panels and materials from a variety of different suppliers.
+
+Accordingly, we believe that the loss of any single supplier would not materially affect our business.
+
+We
+
+also utilize strategic partnerships with subcontractors for electrical installations, for racking and solar panel installations,
+
+as well as numerous subcontractors for grading, landscaping, and construction for our large ACI and public works customers.
+
+Installation
+
+We
+
+are a licensed contractor in the markets we serve, and we are responsible for every customer installation. We manage the entire
+
+process from permitting through inspection to interconnection to the power grid, thereby making the system installation process
+
+simple and seamless for our customers. Controlling every aspect of the installation process allows us to minimize costs, ensure
+
+quality and deliver high levels of customer satisfaction.
+
+Even
+
+with controlling every aspect of the installation process, the ability to perform on a contract is subject to limitations. There
+
+remain jurisdictional approval processes outside our immediate control including, but not limited to, city, county, state or Federal
+
+government or one of its agencies. Other aspects outside of our direct control include approvals from various utility companies
+
+and weather conditions.
+
+After-Sales
+
+Support
+
+It
+
+is our intent to provide continuing operation and maintenance services for our installed residential and commercial PV systems.
+
+We provide extended factory equipment technical support and act as a service liaison using our proprietary knowledge, technology,
+
+and solar electric energy engineering staff. We do this through a 25-year Limited Workmanship Warranty and Operations and Maintenance
+
+Program, which among other things provides a service and technical support line to our customers. We generally respond to our
+
+job site related issues within 24 hours and offer assistance as long as required to maintain customer satisfaction. Our price
+
+to customers includes this warranty, which includes the pass through of various manufacturers’ warranties.
+
+Facilities
+
+We
+
+maintain sales and installation offices in Roseville, Rocklin, Durham, Campbell (San Jose), Tulare, and Rancho Cucamonga, California,
+
+in Reno, Nevada, and in White City, Oregon. We lease all of our offices and facilities.
+
+Customers
+
+The
+
+majority of our revenue comes from installations in California and Nevada with a small amount in Oregon, Massachusetts, and Washington.
+
+Approximately 72% of our revenue in 2018 was in the ACI and public works markets, up from 68% in 2017. Approximately 28% of revenues
+
+was generated by residential installations, down from 32% in 2017. We expect that these percentages will vary from year to year.
+
+We
+
+install systems for the ACI market and for public works projects. We define small commercial and public works projects as the
+
+installation of systems under 100kW, whereas large projects involve the installation of systems greater than 100kW. Solar projects
+
+have received limited financing from traditional lending sources, but we are encouraged by municipal PACE programs in California
+
+which have drawn funding sources such as Ygrene into the financing of energy projects. Public works projects are frequently financed
+
+through various PPA arrangements, often in conjunction with SPURR (School Project for Utility Rate Reduction) programs, a Joint
+
+Powers Authority in California. Cycle times vary from twenty weeks to more than a year, which is a common cycle for commercial
+
+and public works projects. Larger projects typically have a longer cycle time than smaller projects. Agricultural system sizes
+
+vary significantly within this sector and can range from 10kW to multiple megawatts. Agricultural loans to farmers and tax-oriented
+
+leases are the primary funding sources within the industry. Similar to commercial installations, cycle times for agricultural
+
+projects may commonly range from twenty weeks to more than a year depending upon the authority having jurisdiction, the existing
+
+utility infrastructure and the various approvals required.
+
+Our
+
+residential operations address the needs of property owners installing systems typically smaller than 20kW. The typical residential
+
+system installed is about 6kW with an average cycle time of 45 days or less. We facilitate purchase or lease financing and offer
+
+multiple product options to fit the specific needs of each customer.
+
+Competitors
+
+In
+
+the solar installation market, we compete with companies that offer products similar to ours. Some of these companies have greater
+
+financial resources, operational experience, and technical capabilities than us. When bidding for solar installation projects,
+
+however, our current experience suggests that there is no clear dominant or preferred competitor in the markets in which we compete.
+
+We do not believe that any competitor has more than 10% of the market across all the areas in which we operate. We compete with
+
+other solar installers on pricing, service, warranty, and the ability to arrange financing. On a global scale, we also compete,
+
+on a cost basis, with traditional utilities that supply electricity to our potential customers and with companies that are not
+
+regulated like traditional utilities but that have access to the traditional utility electricity transmission and distribution
+
+infrastructure pursuant to state and local pro-competitive and consumer choice policies. Our advantage over traditional utilities
+
+is that we offer customers the opportunity to create their own electricity and reduce dependency from the traditional electrical
+
+grid.
+
+Seasonality
+
+Our
+
+revenue is largely impacted by seasonal weather patterns. In addition, some customers push to complete projects by the end of
+
+a calendar year to realize the benefits of available subsidy programs prior to year-end. The first quarter in California often
+
+has rain, which also reduces our ability to install and recognize revenues in that quarter relative to the remainder of the year.
+
+Technology
+
+and Intellectual Property
+
+Generally,
+
+the solar installation business is not dependent on intellectual property.
+
+Government
+
+Regulation and Incentives
+
+Government
+
+Regulation
+
+We
+
+are not regulated as a public utility in the United States under applicable national, state or other local regulatory regimes
+
+where we conduct business.
+
+To
+
+operate our systems, we obtain interconnection permission from the applicable local primary electric utility. Depending on the
+
+size of the solar energy system and local law requirements, interconnection permission is provided by the local utility and us
+
+and/or our customer. In almost all cases, interconnection permissions are issued on the basis of a standard process that has been
+
+pre-approved by the local public utility commission or other regulatory body with jurisdiction over net energy metering procedures.
+
+As such, no additional regulatory approvals are required once interconnection permission is given.
+
+Our
+
+operations are subject to stringent and complex federal, state and local laws, including regulations governing the occupational
+
+health and safety of our employees and wage regulations. For example, we are subject to the requirements of the federal Occupational
+
+Safety and Health Act, as amended, or OSHA, the U.S. Department of Transportation, or DOT, and comparable state laws that protect
+
+and regulate employee health and safety.
+
+Government
+
+Incentives
+
+Federal,
+
+state and local government bodies provide incentives to owners, end users, distributors, system integrators and manufacturers
+
+of solar energy systems to promote solar energy in the form of rebates, tax credits and other financial incentives such as system
+
+performance payments, payments for renewable energy credits associated with renewable energy generation and exclusion of
+
+solar energy systems from property tax assessments. These incentives enable us to lower the price we charge customers to own or
+
+lease our solar energy systems, helping to catalyze customer acceptance of solar energy as an alternative to utility-provided
+
+power.
+
+The
+
+Federal government currently offers a 30% Investment Tax Credit (“ITC”) under Section 48(a) of the Internal Revenue
+
+Code, or the ITC, for the installation of certain solar power facilities until December 31, 2019, after which it will fall to
+
+26% in 2020, 22% in 2021 and 10% in 2022 and 10% for commercial credit thereafter.
+
+The
+
+economics of purchasing a solar energy system are also improved by eligibility for accelerated depreciation, also known as the
+
+modified accelerated cost recovery system, or MACRS depreciation, which allows for the depreciation of equipment according to
+
+an accelerated schedule set forth by the Internal Revenue Service. The acceleration of depreciation creates a valuable tax benefit
+
+that reduces the overall cost of the solar energy system and increases the return on investment.
+
+Approximately
+
+50% of states in the U.S. offer a personal and/or corporate investment or production tax credit for solar energy that is additive
+
+to the ITC. Further, these states, and many local jurisdictions, have established property tax incentives for renewable energy
+
+systems that include exemptions, exclusions, abatements, and credits. Many state governments, traditional utilities, municipal
+
+utilities and co-operative utilities offer a rebate or other cash incentive for the installation and operation of a solar energy
+
+system or energy efficiency measures. Capital costs or “up-front” rebates provide funds to solar customers based on
+
+the cost, size or expected production of a customer’s solar energy system. Performance-based incentives provide cash payments
+
+to a system owner based on the energy generated by their solar energy system during a pre-determined period, and they are paid
+
+over that time period. Depending on the cost of the system and other site-specific variables, tax incentives can typically cover
+
+30-40% of the cost of a commercial or residential solar system.
+
+Many
+
+states also have adopted procurement requirements for renewable energy production that requires regulated utilities to procure
+
+a specified percentage of total electricity delivered to customers in the State from eligible renewable energy sources, such as
+
+solar energy systems, by a specified date.
+
+Corporate
+
+History
+
+We
+
+were originally incorporated in Delaware on January 30, 2002 as MachineTalker, Inc. In July 2010, we changed our company name
+
+to Solar3D, Inc. On January 31, 2014, we acquired 100% of the stock of Solar United Network, Inc., a California corporation. On
+
+March 2, 2015, we acquired MD Energy. On December 1, 2015, we acquired Plan B through a merger of Plan B Enterprises, Inc. into
+
+our wholly owned subsidiary, Elite Solar Acquisition Sub., Inc. On March 1, 2016 we changed our name to Sunworks, Inc. with simultaneous
+
+NASDAQ stock symbol change from SLTD to SUNW.
+
+Our
+
+principal executive offices are located at 1030 Winding Creek Road, Suite 100, Roseville, CA 95678 and our telephone number is
+
+(916) 409-6900. Our web site address is www.sunworksusa.com. Information contained in or accessible through our website does not
+
+constitute part of this annual report on Form 10-K.
+
+Available
+
+Information
+
+We
+
+file annual, quarterly and current reports, proxy statements and other information with the Securities and Exchange Commission,
+
+referred to herein as the SEC. Our SEC filings, including our annual report on Form 10-K, quarterly reports on Form 10-Q, current
+
+reports on Form 8-K, and any amendments to those reports filed or furnished pursuant to Section 13(a) of the Exchange Act are
+
+available to the public free of charge over the Internet at our website at http://www.sunworksusa.com or at the SEC’s web
+
+site at http://www.sec.gov. Our SEC filings will be available on our website as soon as reasonably practical after we have electronically
+
+filed or furnished them to the SEC. Information contained on our website is not incorporated by reference into this 10-K. You
+
+can view our Code of Conduct and Ethics and the charters for each of our committees of the Board of Directors free of charge on
+
+the investor relations section of our website under corporate governance.
+
+Item
+
+1A. Risk Factors.
+
+Our
+
+business and operations are subject to a number of significant risks and uncertainties as described below. However, the risks
+
+and uncertainties described below are not the only ones we face. Additional risks and uncertainties that we are unaware of, or
+
+that we may currently deem immaterial, may become important factors that could harm our business, financial condition or results
+
+of operations. If any of the following risks actually occur, our business, financial condition or results of operations could
+
+suffer materially.
+
+Risks
+
+Related to Our Financial Position and Capital Requirements
+
+We
+
+have a limited operating history, which could make it difficult to accurately evaluate our business and prospects.
+
+Although
+
+we were formed in January 2002, we did not begin selling solar systems until we acquired Solar United Network, Inc. in January
+
+2014. We acquired MD Energy in March 2015 and Plan B Enterprises in December 2015. Management believes that our success will depend
+
+in large part on our ability to continue to successfully sell solar systems in California and other states against determined
+
+competition, and to consummate synergistic acquisitions. We cannot assure that we will operate profitably or that we will have
+
+adequate working capital to meet our obligations as they become due.
+
+We
+
+discovered a material weakness in our disclosure controls and procedures and internal control over financial reporting.
+
+As
+
+part of our 2017 evaluation of internal control over financial reporting, our management identified control deficiencies and the
+
+need for a stronger internal control environment relating to revenue activities. The ineffectiveness of the design, implementation
+
+and operation of the controls surrounding these matters created a reasonable possibility that a material misstatement to the consolidated
+
+financial statements would not be prevented or detected on a timely basis. Accordingly, our management concluded that this deficiency
+
+represents a material weakness in our internal control over financial reporting as of December 31, 2017. Although management has
+
+assessed that we have remediated this weakness as of December 31, 2018, we can give no assurance that any other material weaknesses
+
+or restatements of financial results will not arise in the future.
+
+Internal
+
+controls over financial reporting are processes designed to provide reasonable assurances regarding the reliability of financial
+
+reporting and the preparation of financial statements in accordance with GAAP. Failure to maintain effective internal controls
+
+over financial reporting in the future could cause us to fail to meet our reporting obligations, cause our consolidated financial
+
+statements to contain material misstatements, and harm our business and operating results. Our internal controls may not prevent
+
+all potential errors, because any control system, regardless of its design, can provide only reasonable, and not absolute, assurance
+
+that the objectives of the control system will be achieved.
+
+So
+
+long as we are either an emerging growth company or a smaller reporting company, we are exempt from Section 404(b) of Sarbanes-Oxley,
+
+which requires an independent registered public accounting firm to attest to our management’s assessment of internal control
+
+over the effectiveness of our internal controls over financial reporting. If we are neither an emerging growth company nor a smaller
+
+reporting company, our independent registered public accounting firm will be required to attest on our management’s assessment
+
+of internal control over the effectiveness of our internal controls over financial reporting. This may cause us to incur additional
+
+costs related to auditing and also the examination, investigation, and report on internal controls.
+
+We
+
+have incurred significant losses since inception.
+
+We
+
+had an accumulated deficit of $63,510,000 and $56,365,000 as of December 31, 2018 and December 31, 2017, respectively. We incurred
+
+annual operating losses from our inception until 2018. We may anticipate becoming profitable as we reduce our costs and increase
+
+our installation revenues. However, there can be no assurances that these actions will result in sustained profitability. We are
+
+subject to all the risks incidental to the sales, development and costs of construction of new solar energy revenues, and we may
+
+encounter unforeseen expenses, difficulties, complications, delays and other unknown factors that may adversely affect our business.
+
+We
+
+may require substantial additional funding which may not be available to us on acceptable terms, or at all. If we fail to raise
+
+the necessary additional capital, we may be unable to achieve growth of our operations.
+
+Our
+
+operations have consumed substantial amounts of cash since inception. In order to grow our operations, we may increase our spending
+
+to fund our operating expenses and capital expenditures.
+
+We
+
+cannot be certain that additional funding will be available on acceptable terms, or at all. If we are unable to raise additional
+
+capital in sufficient amounts or on terms acceptable to us, we may have to significantly delay, scale back or discontinue our
+
+organic growth or corporate acquisitions. Any of these events could significantly harm our business, financial condition, and
+
+strategy.
+
+In
+
+order to carry out our business plan and implement our strategy, we anticipate that we will need to obtain additional financing
+
+from time to time and may choose to raise additional funds through strategic collaborations, public or private equity or debt
+
+financing, bank lines of credit, asset sales, government grants, or other arrangements. We cannot be sure that any additional
+
+funding, if needed, will be available on terms favorable to us or at all. Furthermore, any additional equity or equity-related
+
+financing may be dilutive to our shareholders, and debt or equity financing, if available, may subject us to restrictive covenants
+
+and significant interest costs.
+
+Our
+
+inability to raise capital when needed could harm our business, financial condition and results of operations, and could cause
+
+our stock price to decline or require that we cease operations.
+
+Risks
+
+Related to Our Business and Industry
+
+A
+
+material reduction in the retail price of traditional utility generated electricity or electricity from other sources could harm
+
+our business, financial condition, results of operations and prospects.
+
+We
+
+believe that a significant number of our customers decide to buy solar energy because they want to pay less for electricity than
+
+what is offered by the traditional utilities. However, distributed residential solar energy has yet to achieve broad market adoption
+
+as evidenced by the fact that distributed solar has penetrated less than 5% of its total addressable market in the U.S. residential
+
+sector.
+
+The
+
+customer’s decision to choose solar energy may also be affected by the cost of other renewable energy sources. Decreases
+
+in the retail prices of electricity from the traditional utilities or from other renewable energy sources would harm our ability
+
+to offer competitive pricing and could harm our business. The price of electricity from traditional utilities could decrease as
+
+a result of:
+
+A
+
+reduction in utility electricity prices would make the purchase or the lease of our solar energy systems less economically attractive.
+
+If the retail price of energy available from traditional utilities were to decrease due to any of these reasons, or other reasons,
+
+we would be at a competitive disadvantage, we may be unable to attract new customers and our growth would be limited.
+
+Existing
+
+electric utility industry regulations, and changes to regulations, may present technical, regulatory and economic barriers to
+
+the purchase and use of solar energy systems that may significantly reduce demand for our solar energy systems.
+
+Federal,
+
+state and local government regulations and policies concerning the electric utility industry, and internal policies and regulations
+
+promulgated by electric utilities, heavily influence the market for electricity generation products and services. These regulations
+
+and policies often relate to electricity pricing and the interconnection of customer-owned electricity generation. In the United
+
+States, governments and utilities continuously modify these regulations and policies. These regulations and policies could deter
+
+customers from purchasing renewable energy, including solar energy systems. This could result in a significant reduction in the
+
+potential demand for our solar energy systems. For example, utilities commonly charge fees to larger, industrial customers for
+
+disconnecting from the electric grid or for having the capacity to use power from the electric grid for back-up purposes. These
+
+fees could increase our customers’ cost to use our systems and make them less desirable, thereby harming our business, prospects,
+
+financial condition and results of operations. In addition, depending on the region, electricity generated by solar energy systems
+
+competes most effectively with expensive peak-hour electricity from the electric grid, rather than the less expensive average
+
+price of electricity. Modifications to the utilities’ peak hour pricing policies or rate design, such as to a flat rate,
+
+would require us to lower the price of our solar energy systems to compete with the price of electricity from the electric grid.
+
+In
+
+addition, any changes to government or internal utility regulations and policies that favor electric utilities could reduce our
+
+competitiveness and cause a significant reduction in demand for our products and services. For example, certain jurisdictions
+
+have proposed assessing fees on customers purchasing energy from solar energy systems or imposing a new charge that would disproportionately
+
+impact solar energy system customers who utilize net energy metering, either of which would increase the cost of energy to those
+
+customers and could reduce demand for our solar energy systems. It is possible charges could be imposed on not just future customers
+
+but our existing customers, causing a potentially significant consumer relations problem and harming our reputation and business.
+
+Due to the concentration of our business in California, any such changes in these markets would be particularly harmful to our
+
+business, results of operations, and future growth.
+
+Our
+
+growth strategy depends on the widespread adoption of solar power technology.
+
+The
+
+market for solar power products is emerging and rapidly evolving, and its future success is uncertain. If solar power technology
+
+proves unsuitable for widespread commercial deployment or if demand for solar power products fails to develop sufficiently, we
+
+would be unable to generate enough revenues to achieve and sustain profitability and positive cash flow. The factors influencing
+
+the widespread adoption of solar power technology include but are not limited to:
+
+Our
+
+business currently depends on the availability of rebates, tax credits and other financial incentives. The expiration, elimination
+
+or reduction of these rebates, credits and incentives would adversely impact our business.
+
+U.S.
+
+federal, state and local government bodies provide incentives to end users, distributors, system integrators and manufacturers
+
+of solar energy systems to promote solar electricity in the form of rebates, tax credits and other financial incentives such as
+
+system performance payments and payments for renewable energy credits associated with renewable energy generation. These governmental
+
+rebates, tax credits and other financial incentives enhance the return on investment for our customers and incent them to purchase
+
+solar systems. These incentives enable us to lower the price we charge customers for energy and for our solar energy systems.
+
+However, these incentives may expire on a particular date, end when the allocated funding is exhausted, or be reduced or terminated
+
+as solar energy adoption rates increase. These reductions or terminations often occur without warning.
+
+Reductions
+
+in, or eliminations or expirations of, governmental incentives could adversely impact our results of operations and our ability
+
+to compete in our industry, causing us to increase the prices of our solar energy systems, and reducing the size of our addressable
+
+market. In addition, this would adversely impact our ability to attract investment partners and to form new financing funds and
+
+our ability to offer attractive financing to prospective customers.
+
+Net
+
+energy metering and related policies to offer competitive pricing to our customers in our current markets, and changes to net
+
+energy metering policies may significantly reduce demand for electricity from our solar energy systems.
+
+Each
+
+of the states where we currently serve customers has adopted a net energy metering policy. Net energy metering typically allows
+
+our customers to interconnect their on-site solar energy systems to the utility grid and offset their utility electricity purchases
+
+by receiving a bill credit at the utility’s retail rate for energy generated by their solar energy system that is exported
+
+to the grid in excess of the electric load used by the customers. At the end of the billing period, the customer simply pays for
+
+the net energy used or receives a credit at the retail rate if more energy is produced than consumed. Utilities operating in states
+
+without a net energy metering policy may receive solar electricity that is exported to the grid when there is no simultaneous
+
+energy demand by the customer without providing retail compensation to the customer for this generation.
+
+Our
+
+ability to sell solar energy systems and the electricity they generate may be adversely impacted by the failure to expand existing
+
+limits on the amount of net energy metering in states that have implemented it, the failure to adopt a net energy metering policy
+
+where it currently is not in place, the imposition of new charges that only or disproportionately impact customers that utilize
+
+net energy metering, or reductions in the amount or value of credit that customers receive through net energy metering. Our ability
+
+to sell solar energy systems and the electricity they generate also may be adversely impacted by the unavailability of expedited
+
+or simplified interconnection for grid-tied solar energy systems or any limitation on the number of customer interconnections
+
+or amount of solar energy that utilities are required to allow in their service territory or some part of the grid. If such charges
+
+are imposed, the cost savings associated with switching to solar energy may be significantly reduced and our ability to attract
+
+future customers and compete with traditional utility providers could be impacted.
+
+Limits
+
+on net energy metering, interconnection of solar energy systems and other operational policies in key markets could limit the
+
+number of solar energy systems installed in those markets. For example, California utilities limit net energy metering credit
+
+to 5% of the utilities’ aggregate customer peak demand. California has adopted legislation to establish a process and timeline
+
+for developing a new net energy metering program with no cap on participation. If the caps on net energy metering in California
+
+and other jurisdictions are reached or if the amount or value of credit that customers receive for net energy metering is significantly
+
+reduced, future customers will be unable to recognize the current cost savings associated with net energy metering. We rely substantially
+
+on net energy metering when we establish competitive pricing for our prospective customers and the absence of net energy metering
+
+for new customers would greatly limit demand for our solar energy systems.
+
+Our
+
+business depends in part on the regulatory treatment of third-party owned solar energy systems.
+
+Our
+
+leases and any power purchase agreements are third-party ownership arrangements. Sales of electricity by third parties face regulatory
+
+challenges in some states and jurisdictions. Other challenges pertain to whether third-party owned systems qualify for the same
+
+levels of rebates or other non-tax incentives available for customer-owned solar energy systems, whether third-party owned systems
+
+are eligible at all for these incentives, and whether third-party owned systems are eligible for net energy metering and the associated
+
+significant cost savings. Reductions in, or eliminations of, this treatment of these third-party arrangements could reduce demand
+
+for our systems, adversely impact our access to capital and could cause us to increase the price we charge our customers for energy.
+
+Our
+
+ability to provide solar energy systems to customers on an economically viable basis depends on our ability to help customers
+
+arrange financing for such systems.
+
+Our
+
+solar energy systems have been eligible for Federal ITCs or U.S. Treasury grants, as well as depreciation benefits. We have relied
+
+on, and will continue to rely on, financing structures that monetize a substantial portion of those benefits and provide financing
+
+for our solar energy systems. With the lapse of the U.S. Treasury grant program, we anticipate that our customers’ reliance
+
+on these tax-advantaged financing structures will increase substantially. If, for any reason, our customers were unable to continue
+
+to monetize those benefits through these arrangements, we may be unable to provide and maintain solar energy systems for new customers
+
+on an economically viable basis.
+
+The
+
+availability of this tax-advantaged financing depends upon many factors, including, but not limited to:
+
+U.S.
+
+Treasury grants are no longer available for new solar energy systems. Changes in existing law and interpretations by the Internal
+
+Revenue Service and the courts could reduce the willingness of funding sources to provide funds to customers of these solar energy
+
+systems. We cannot assure you that this type of financing will be available to our customers. If, for any reason, we are unable
+
+to find financing for solar energy systems, we may no longer be able to provide solar energy systems to new customers on an economically
+
+viable basis. This would have a material adverse effect on our business, financial condition, and results of operations.
+
+Rising
+
+interest rates could adversely impact our business.
+
+Increases
+
+in interest rates could have an adverse impact on our business by increasing our cost of capital, which would increase our interest
+
+expense and make acquisitions more expensive to undertake.
+
+Further,
+
+rising interest rates may negatively impact our ability to arrange financing for our customers on favorable terms to facilitate
+
+our customers’ purchases of our solar energy systems. The majority of our cash flows to date have been from the sales of
+
+solar energy systems. Rising interest rates may have the effect of depressing the sales of solar energy systems because many consumers
+
+finance their purchases.
+
+As
+
+a result, an increase in interest rates may negatively affect our costs and reduce our revenues, which would have an adverse effect
+
+on our business, financial condition, and results of operations.
+
+Our
+
+inability to arrange financing could hurt our future business.
+
+On
+
+a global scale, we also compete, on a cost basis, with traditional utilities that supply electricity to our potential customers
+
+and with companies that are not regulated like traditional utilities but that have access to the traditional utility electricity
+
+transmission and distribution infrastructure pursuant to state and local pro-competitive and consumer choice policies. Our advantage
+
+over traditional utilities is that we offer customers the opportunity to create their own electricity and detach from the traditional
+
+electrical grid. To offer customers this opportunity, we often have to arrange financing for our customers as solar projects have
+
+received limited financing from traditional lending sources. Our objective is to arrange the most flexible terms that meet the
+
+needs and wants of the customer. Although we do not provide financing ourselves, we have relationships to arrange financing with
+
+numerous private and public sources, including PACE (Property Assessed Clean Energy) Programs, which are programs that involve
+
+both municipal governments and private financing companies that allows property owners to receive upfront funding for renewable
+
+energy projects, and agricultural financing offered by a network of lending institutions. Our inability to arrange financing through
+
+these or other sources could adversely affect our business and results of operations.
+
+If
+
+we cannot compete successfully against other solar and energy companies, we may not be successful in developing our operations
+
+and our business may suffer.
+
+The
+
+solar and energy industries are characterized by intense competition and technological advances, both in the United States and
+
+internationally. We compete with solar companies with business models that are similar to ours. In addition, we compete with solar
+
+companies in the downstream value chain of solar energy. For example, we face competition from purely finance driven organizations
+
+that acquire customers and then subcontract out the installation of solar energy systems, from installation businesses that seek
+
+financing from external parties, from large construction companies and utilities, and increasingly from sophisticated electrical
+
+and roofing companies. Some of these competitors specialize in the residential solar energy market, and some may provide energy
+
+at lower costs than we do. Further, some of our competitors are integrating vertically in order to ensure supply and to control
+
+costs. Many of our competitors also have significant brand name recognition and have extensive knowledge of our target markets.
+
+If
+
+we are unable to complete in the market, it will have an adverse effect on our business, financial condition, and results of operations.
+
+Adverse
+
+economic conditions may have material adverse consequences on our business, results of operations and financial condition.
+
+Unpredictable
+
+and unstable changes in economic conditions, including recession, inflation, increased government intervention, or other changes,
+
+may adversely affect our general business strategy. We rely upon our ability to generate additional sources of liquidity and we
+
+may need to raise additional funds through public or private debt or equity financings in order to fund existing operations or
+
+to take advantage of opportunities, including acquisitions of complementary businesses or technologies. Any adverse event would
+
+have a material adverse impact on our business, results of operations and financial condition.
+
+Our
+
+business is concentrated in certain markets, putting us at risk of region-specific disruptions.
+
+As
+
+of December 31, 2018, a vast majority of our total installations were in California, Nevada, Oregon and Washington. We maintain
+
+offices in California, Oregon, and Nevada. We expect our near-term future growth to occur in California, Oregon, Massachusetts,
+
+Nevada, New Jersey and Washington, and to further expand our customer base and operational infrastructure. Accordingly, our business
+
+and results of operations are particularly susceptible to adverse economic, regulatory, political, weather and other conditions
+
+in such markets and in other markets that may become similarly concentrated.
+
+Substantially
+
+all of our business is conducted primarily using direct-selling, channel partners and authorized dealers.
+
+While
+
+we are in the process of evaluating different distribution channels, currently substantially all of our business is conducted
+
+using direct selling, channel partners and authorized dealers. We compete against companies that sell solar energy systems to
+
+customers through a number of distribution channels, including homebuilders, home improvement stores, large construction, electrical
+
+and roofing companies and other third parties and companies that access customers through relationships with third parties in
+
+addition to other direct-selling companies. Our limited distribution channel may place us at a disadvantage with consumers who
+
+prefer to purchase products through these other distribution channels. Additionally, we are vulnerable to changes in laws related
+
+to direct marketing as regulations have limited unsolicited residential sales calls and may impose additional restrictions. If
+
+additional laws affecting direct marketing are passed in the markets in which we operate, it could take time to train our sales
+
+force to comply with such laws, and we may be exposed to fines or other penalties for violations of such laws. If we fail to compete
+
+effectively through our selling efforts or are not successful in executing our strategy to sell our solar energy systems through
+
+other channels, our financial condition, results of operations, and growth prospects will be adversely affected.
+
+If
+
+we are unable to retain and recruit qualified technicians and advisors, or if our key executives, key employees or consultants
+
+discontinue their employment or consulting relationship with us, it may delay our development efforts or otherwise harm our business.
+
+We
+
+may not be able to attract or retain qualified management or technical personnel in the future due to the intense competition
+
+for qualified personnel among solar, energy, and other businesses. Our industry has experienced a high rate of turnover of management
+
+personnel in recent years. If we are not able to attract, retain, and motivate necessary personnel to accomplish our business
+
+objectives, we may experience constraints that will significantly impede the successful development of any product candidates,
+
+our ability to raise additional capital, and our ability to implement our overall business strategy.
+
+We
+
+are highly dependent on members of our management and technical staff. Our success also depends on our ability to continue to
+
+attract, retain and motivate highly skilled junior, mid-level, and senior managers as well as junior, mid-level, and senior technical
+
+personnel. The loss of any of our executive officers, key employees, or consultants and our inability to find suitable replacements
+
+could potentially harm our business, financial condition, and prospects. We may be unable to attract and retain personnel on acceptable
+
+terms given the competition among solar and energy companies. Certain of our current officers, directors, and/or consultants hereafter
+
+appointed may from time to time serve as officers, directors, scientific advisors, and/or consultants of other solar and energy
+
+companies. We do not maintain “key man” insurance policies on any of our officers or employees. Other than certain
+
+members of our senior management team, all of our employees are employed “at will” and, therefore, each employee may
+
+leave our employment and join a competitor at any time.
+
+We
+
+plan to grant stock options, restricted stock grants, or other forms of equity awards in the future as a method of attracting
+
+and retaining employees, motivating performance, and aligning the interests of employees with those of our shareholders. If we
+
+are unable to implement and maintain equity compensation arrangements that provide sufficient incentives, we may be unable to
+
+retain our existing employees and attract additional qualified candidates. If we are unable to retain our existing employees and
+
+attract additional qualified candidates, our business and results of operations could be adversely affected.
+
+The
+
+execution of our business plan and development strategy may be seriously harmed if retention of our senior management team is
+
+not successful.
+
+As
+
+our business evolves and if we acquire new businesses, we may experience significant changes in our senior management team. Failure
+
+to retain the Board of Directors and senior management teams may negatively affect the operations of our business.
+
+We
+
+may not successfully implement our business model.
+
+Our
+
+business model is predicated on our ability to provide solar systems at a profit, and through organic growth, geographic expansion,
+
+and strategic acquisitions. We intend to continue to operate as we have previously with sourcing and marketing methods that we
+
+have used successfully in the past. However, we cannot assure that our methods will continue to attract new customers nor that
+
+we can maintain the same profitability in the very competitive solar systems marketplace.
+
+In
+
+the event our customers resist paying the prices projected in our business plan to purchase solar installations, our business,
+
+financial condition, and results of operations will be materially and adversely affected.
+
+We
+
+may not be able to effectively manage our growth.
+
+Our
+
+future growth, if any, may cause a significant strain on our management and our operational, financial, and other resources. Our
+
+ability to manage our growth effectively will require us to implement and improve our operational, financial, and management systems
+
+and to expand, train, manage, and motivate our employees. These demands may require the hiring of additional management personnel
+
+and the development of additional expertise by management. Any increase in resources used without a corresponding increase in
+
+our operational, financial, and management systems could have a material adverse effect on our business, financial condition,
+
+and results of operations.
+
+We
+
+may not realize the anticipated benefits of acquisitions, and integration of these acquisitions which may disrupt our business
+
+and management.
+
+We
+
+acquired Solar United Network, Inc. in January 2014 and completed our acquisition of MD Energy in March 2015 and merger with Elite
+
+Solar in December 2015. Our growth strategy is dependent on the success of these three acquisitions, and in the future, we may
+
+acquire additional companies, project pipelines, products or technologies or enter into joint ventures or other strategic initiatives.
+
+We may not realize the anticipated benefits of these acquisitions or any other future acquisition, and any acquisition has numerous
+
+risks. These risks include the following:
+
+Mergers
+
+and acquisitions of companies are inherently risky and, if we do not complete the integration of acquired businesses successfully
+
+and in a timely manner, we may not realize the anticipated benefits of the acquisitions to the extent anticipated, which could
+
+adversely affect our business, financial condition, or results of operations.
+
+A
+
+portion of our total assets consists of goodwill, which is subject to a periodic impairment analysis, and a significant impairment
+
+determination in any future period could have an adverse effect on our results of operations even without a significant loss of
+
+revenue or increase in cash expenses attributable to such period.
+
+At
+
+December 31, 2018 we have goodwill totaling approximately $9.5 million associated with our acquisitions. In the year ending December
+
+31, 2018 we had a goodwill impairment charge of $1.9 million. We will be required to continue to evaluate this goodwill for impairment
+
+based on the fair value of the operating business units to which this goodwill relates, at least once a year. This estimated fair
+
+value could change if we are unable to achieve operating results at the levels that have been forecasted, the market valuation
+
+of those business units decreases based on transactions involving similar companies, or there is a permanent, negative change
+
+in the market demand for the services offered by the business units. These changes could result in further impairment of the existing
+
+goodwill balance that could require a material non-cash charge to our results of operations.
+
+We
+
+may be subject to claims arising from the operations of our various businesses for periods prior to the dates we acquired them.
+
+We
+
+may be subject to claims or liabilities arising from the ownership or operation of acquired businesses for the periods prior to
+
+our acquisition of them, including environmental, employee-related, and other liabilities and claims not covered by insurance.
+
+These claims or liabilities could be significant. Our ability to seek indemnification from the former owners of our acquired businesses
+
+for these claims or liabilities may be limited by various factors, including the specific time, monetary or other limitations
+
+contained in the respective acquisition agreements and the financial ability of the former owners to satisfy our indemnification
+
+claims. In addition, insurance companies may be unwilling to cover claims that have arisen from acquired businesses or locations,
+
+or claims may exceed the coverage limits that our acquired businesses had in effect prior to the date of acquisition. If we are
+
+unable to successfully obtain insurance coverage of third-party claims or enforce our indemnification rights against the former
+
+owners, or if the former owners are unable to satisfy their obligations for any reason, including because of their current financial
+
+position, we could be held liable for the costs or obligations associated with such claims or liabilities, which could adversely
+
+affect our financial condition and results of operations.
+
+With
+
+respect to providing electricity on a price-competitive basis, solar systems face competition from traditional regulated electric
+
+utilities, from less-regulated third party energy service providers and from new renewable energy companies.
+
+The
+
+solar energy and renewable energy industries are both highly competitive and continually evolving as participants strive to distinguish
+
+themselves within their markets and compete with large traditional utilities. We believe that our primary competitors are the
+
+traditional utilities that supply electricity to our potential customers. Traditional utilities generally have substantially greater
+
+financial, technical, operational and other resources than we do. As a result, these competitors may be able to devote more resources
+
+to the research, development, promotion, and sale of their products or respond more quickly to evolving industry standards and
+
+changes in market conditions than we can. Traditional utilities could also offer other value-added products or services that could
+
+help them to compete with us even if the cost of electricity they offer is higher than ours. In addition, a majority of utilities’
+
+sources of electricity is non-solar, which may allow utilities to sell electricity more cheaply than electricity generated by
+
+our solar energy systems.
+
+We
+
+also compete with companies that are not regulated like traditional utilities but that have access to the traditional utility
+
+electricity transmission and distribution infrastructure pursuant to state and local pro-competitive and consumer choice policies.
+
+These energy service companies are able to offer customers electricity supply-only solutions that are competitive with our solar
+
+energy system options on both price and usage of renewable energy technology while avoiding the long-term agreements and physical
+
+installations that our current fund-financed business model requires. This may limit our ability to attract new customers; particularly
+
+those who wish to avoid long-term contracts or have an aesthetic or other objection to putting solar panels on their roofs.
+
+As
+
+the solar industry grows and evolves, we will also face new competitors who are not currently in the market. Low technological
+
+barriers to entry characterize our industry and well-capitalized companies could choose to enter the market and compete with us.
+
+Our failure to adapt to changing market conditions and to compete successfully with existing or new competitors will limit our
+
+growth and will have a material adverse effect on our business and prospects.
+
+Developments
+
+in alternative technologies or improvements in distributed solar energy generation may materially adversely affect demand for
+
+our offerings.
+
+Significant
+
+developments in alternative technologies, such as advances in other forms of distributed solar power generation, storage solutions
+
+such as batteries, the widespread use or adoption of fuel cells for residential or commercial properties or improvements in other
+
+forms of centralized power production may materially and adversely affect our business and prospects in ways we do not currently
+
+anticipate. Any failure by us to adopt new or enhanced technologies or processes, or to react to changes in existing technologies,
+
+could materially delay deployment of our solar energy systems, which could result in product obsolescence, the loss of competitiveness
+
+of our systems, decreased revenue and a loss of market share to competitors.
+
+Due
+
+to the limited number of suppliers in our industry, the acquisition of any of these suppliers by a competitor or any shortage,
+
+delay, price change, imposition of tariffs or duties or other limitation in our ability to obtain components or technologies we
+
+use could result in sales and installation delays, cancellations, and loss of market share.
+
+While
+
+we purchase our products from several different suppliers, if one or more of the suppliers that we rely upon to meet anticipated
+
+demand ceases or reduces production due to its financial condition, acquisition by a competitor or otherwise, is unable to increase
+
+production as industry demand increases or is otherwise unable to allocate sufficient production to us, it may be difficult to
+
+quickly identify alternate suppliers or to qualify alternative products on commercially reasonable terms, and our ability to satisfy
+
+this demand may be adversely affected. There are a limited number of suppliers of solar energy system components and technologies.
+
+While we believe there are other sources of supply for these products available, transitioning to a new supplier may result in
+
+additional costs and delays in acquiring our solar products and deploying our systems. These issues could harm our business or
+
+financial performance.
+
+In
+
+addition, the acquisition of a component supplier or technology provider by one of our competitors could limit our access to such
+
+components or technologies and require significant redesigns of our solar energy systems or installation procedures and have a
+
+material adverse effect on our business.
+
+There
+
+have also been periods of industry-wide shortages of key components, including solar panels, in times of industry disruption.
+
+The manufacturing infrastructure for some of these components has a long lead-time, requires significant capital investment and
+
+relies on the continued availability of key commodity materials, potentially resulting in an inability to meet demand for these
+
+components. The solar industry is frequently experiencing significant disruption and, as a result, shortages of key components,
+
+including solar panels, may be more likely to occur, which in turn may result in price increases for such components. Even if
+
+industry-wide shortages do not occur, suppliers may decide to allocate key components with high demand or insufficient production
+
+capacity to more profitable customers, customers with long-term supply agreements or customers other than us and our supply of
+
+such components may be reduced as a result.
+
+Typically,
+
+we purchase the components for our solar energy systems on an as-needed basis and do not operate under long-term supply agreements.
+
+The vast majority of our purchases are denominated in U.S. dollars. Since our revenue is also generated in U.S. dollars we are
+
+mostly insulated from currency fluctuations. However, since our suppliers often incur a significant amount of their costs by purchasing
+
+raw materials and generating operating expenses in foreign currencies, if the value of the U.S. dollar depreciates significantly
+
+or for a prolonged period of time against these other currencies this may cause our suppliers to raise the prices they charge
+
+us, which could harm our financial results. Since we purchase most of the solar photovoltaic panels we use from China, we are
+
+particularly exposed to exchange rate risk from increases in the value of the Chinese Renminbi. Any supply shortages, delays,
+
+price changes or other limitation in our ability to obtain components or technologies we use could limit our growth, cause cancellations
+
+or adversely affect our profitability, and result in loss of market share and damage to our brand.
+
+Our
+
+business has benefited from the declining cost of solar panels, and our financial results may be harmed now that the cost of solar
+
+panels has stabilized and could increase in the future, due to increases in the cost of solar panels and tariffs on imported solar
+
+panels imposed by the U.S. government.
+
+The
+
+declining cost of solar panels and the raw materials necessary to manufacture them has been a key driver in the pricing of our
+
+solar energy systems and customer adoption of this form of renewable energy. With the stabilization or increase of solar panel
+
+and raw materials prices, our growth could slow, and our financial results could suffer. Further, the cost of solar panels and
+
+raw materials could increase in the future due to tariff penalties or other factors.
+
+On
+
+January 23, 2018, The U.S. government imposed a protective tariff on solar panel components. The U.S. Trade Representative (“USTR”)
+
+released the following terms of the tariff:
+
+As
+
+indicated in the terms, the tariff will not apply to the first 2.5 gigawatts of solar cells imported in each of the four years.
+
+Panels imported from China and Taiwan previously were subject to tariffs from a 2012 solar trade case. The current tariff applies
+
+to all countries.
+
+As
+
+a result of the protective tariffs, and if additional tariffs are imposed or other disruptions to the supply chain occur, our
+
+ability to purchase these products on competitive terms or to access specialized technologies from those countries could be limited.
+
+Any of those events could harm our financial results by requiring us to account for the cost of trade penalties or to purchase
+
+solar panels or other system components from alternative, higher-priced sources.
+
+We
+
+act as the licensed general contractor for our customers and are subject to risks associated with construction, cost overruns,
+
+delays, regulatory compliance and other contingencies, any of which could have a material adverse effect on our business and results
+
+of operations.
+
+We
+
+are a licensed contractor. We are normally the general contractor, electrician, construction manager, and installer for our solar
+
+energy systems. We may be liable to customers for any damage we cause to their home, belongings or property during the installation
+
+of our systems. For example, we penetrate our customers’ roofs during the installation process and may incur liability for
+
+the failure to adequately weatherproof such penetrations following the completion of installation of solar energy systems. In
+
+addition, because the solar energy systems we deploy are high-voltage energy systems, we may incur liability for the failure to
+
+comply with electrical standards and manufacturer recommendations. Because our profit on a particular installation is based in
+
+part on assumptions as to the cost of such project, cost overruns, delays, or other execution issues may cause us to not achieve
+
+our expected results or cover our costs for that project.
+
+In
+
+addition, the installation of solar energy systems is subject to oversight and regulation in accordance with national, state,
+
+and local laws and ordinances relating to building, fire and electrical codes, safety, environmental protection, utility interconnection
+
+and metering, and related matters. We also rely on certain of our employees to maintain professional licenses in many of the jurisdictions
+
+in which we operate, and our failure to employ properly licensed personnel could adversely affect our licensing status in those
+
+jurisdictions. It is difficult and costly to track the requirements of every authority having jurisdiction over our operations
+
+and our solar energy systems. Any new government regulations or utility policies pertaining to our systems, or changes to existing
+
+government regulations or utility policies pertaining to our systems, may result in significant additional expenses to us and
+
+our customers and, as a result, could cause a significant reduction in demand for our systems.
+
+Compliance
+
+with occupational safety and health requirements and best practices can be costly, and noncompliance with such requirements may
+
+result in potentially significant monetary penalties, operational delays, and adverse publicity.
+
+The
+
+installation of solar energy systems requires our employees to work at heights with complicated and potentially dangerous electrical
+
+systems. The evaluation and modification of buildings as part of the installation process requires our employees to work in locations
+
+that may contain potentially dangerous levels of asbestos, lead, mold or other materials known or believed to be hazardous to
+
+human health. We also maintain a fleet of trucks and other vehicles to support our installers and operations. There is substantial
+
+risk of serious injury or death if proper safety procedures are not followed. Our operations are subject to regulation under the
+
+U.S. Occupational Safety and Health Act, or OSHA, the U.S. Department of Transportation, or DOT, and equivalent state laws. Changes
+
+to OSHA or DOT requirements, or stricter interpretation or enforcement of existing laws or regulations, could result in increased
+
+costs. If we fail to comply with applicable OSHA regulations, even if no work-related serious injury or death occurs, we may be
+
+subject to civil or criminal enforcement and be required to pay substantial penalties, incur significant capital expenditures
+
+or suspend or limit operations. High injury rates could expose us to increased liability. In the past, we have had workplace accidents
+
+and received citations from OSHA regulators for alleged safety violations, resulting in fines. Any such accidents, citations,
+
+violations, injuries or failure to comply with industry best practices may subject us to adverse publicity, damage our reputation
+
+and competitive position and adversely affect our business.
+
+Problems
+
+with product quality or performance may cause us to incur warranty expenses, damage our market reputation, and prevent us from
+
+maintaining or increasing our market share.
+
+If
+
+our products fail to perform as expected while under warranty, or if we are unable to support the warranties, sales of our products
+
+may be adversely affected, or our costs may increase, and our business, results of operations, and financial condition could be
+
+materially and adversely affected.
+
+We
+
+may also be subject to warranty or product liability claims against us that are not covered by insurance or are in excess of our
+
+available insurance limits or warranty reserves. In addition, quality issues can have various other ramifications, including delays
+
+in the recognition of revenue, loss of revenue, loss of future sales opportunities, increased costs associated with repairing
+
+or replacing products, and a negative impact on our goodwill and reputation. The possibility of future product failures could
+
+cause us to incur substantial expenses to repair or replace defective products. Furthermore, widespread product failures may damage
+
+our market reputation and reduce our market share causing sales to decline.
+
+A
+
+failure to comply with laws and regulations relating to our interactions with current or prospective residential customers could
+
+result in negative publicity, claims, investigations, and litigation, and adversely affect our financial performance.
+
+Approximately
+
+30% of our business focuses on contracts and transactions with residential customers. We must comply with numerous federal, state,
+
+and local laws and regulations that govern matters relating to our interactions with residential consumers, including those pertaining
+
+to privacy and data security, consumer financial and credit transactions, home improvement contracts, warranties, and door-to-door
+
+solicitation. These laws and regulations are dynamic and subject to potentially differing interpretations, and various federal,
+
+state and local legislative and regulatory bodies may expand current laws or regulations, or enact new laws and regulations, regarding
+
+these matters. Changes in these laws or regulations or their interpretation could dramatically affect how we do business, acquire
+
+customers, and manage and use information we collect from and about current and prospective customers and the costs associated
+
+therewith. We strive to comply with all applicable laws and regulations relating to our interactions with residential customers.
+
+It is possible, however, that these requirements may be interpreted and applied in a manner that is inconsistent from one jurisdiction
+
+to another and may conflict with other rules or our practices. Our non-compliance with any such law or regulations could also
+
+expose the company to claims, proceedings, litigation and investigations by private parties and regulatory authorities, as well
+
+as substantial fines and negative publicity, each of which may materially and adversely affect our business. We have incurred,
+
+and will continue to incur, significant expenses to comply with such laws and regulations, and increased regulation of matters
+
+relating to our interactions with residential consumers could require us to modify our operations and incur significant additional
+
+expenses, which could have an adverse effect on our business, financial condition and results of operations.
+
+If
+
+we experience a significant disruption in our information technology systems or if we fail to implement new systems and software
+
+successfully, our business could be adversely affected.
+
+We
+
+depend on information systems throughout our company to process orders, manage inventory, process and bill shipments and collect
+
+cash from our customers, respond to customer inquiries, contribute to our overall internal control processes, maintain records
+
+of our property, plant and equipment, and record and pay amounts due vendors and other creditors. If we were to experience a prolonged
+
+disruption in our information systems that involve interactions with customers and suppliers, it could result in the loss of sales
+
+and customers and/or increased costs, which could adversely affect our overall business operation.
+
+Seasonality
+
+may cause fluctuations in our financial results.
+
+We
+
+often find that some customers tend to book projects by the end of a calendar year to realize the benefits of available subsidy
+
+programs prior to year-end. This results in third and fourth quarter revenues being more robust usually at the expense of the
+
+first quarter. The first quarter in California often has rain and Nevada snow, which also reduces our ability to install in that
+
+quarter relative to the remainder of the year. In the future, this seasonality may cause fluctuations in our financial results.
+
+In addition, other seasonality trends may develop and the existing seasonality that we experience may change.
+
+If
+
+we fail to maintain an effective system of internal control over financial reporting and other business practices, and of board-level
+
+oversight, we may not be able to report our financial results accurately or prevent and detect fraud and other improprieties.
+
+Consequently, investors could lose confidence in our financial reporting, and this may decrease the trading price of our stock.
+
+We
+
+must maintain effective internal controls to provide reliable financial reports and to prevent and detect fraud and other improprieties.
+
+We are responsible for reviewing and assessing our internal controls and implementing additional controls when improvement is
+
+needed. Failure to implement any required changes to our internal controls or other changes we identify as necessary to maintain
+
+an effective system of internal controls could harm our operating results and cause investors to lose confidence in our reported
+
+financial information. Any such loss of confidence would have a negative effect on the market price of our stock.
+
+Sarbanes-Oxley
+
+Act requirements regarding internal control over financial reporting, and other internal controls over business practices, are
+
+costly to implement and maintain, and such costs are relatively more burdensome for smaller companies such as us than for larger
+
+companies. We have limited internal personnel to implement procedures and must scale our procedures to be compatible with our
+
+resources. We also rely on outside professionals including accountants and attorneys to support our control procedures. We are
+
+working to improve all of our controls but, if our controls are not effective, we may not be able to report our financial results
+
+accurately or prevent and detect fraud and other improprieties which could lead to a decrease in the market price of our stock.
+
+Risks
+
+Relating to our Common Stock
+
+If
+
+we fail to comply with the continued minimum closing bid requirements of the Nasdaq Capital Market LLC (“Nasdaq”)
+
+or other requirements for continued listing, our common stock may be delisted and the price of our common stock and our ability
+
+to access the capital markets could be negatively impacted.
+
+On
+
+September 20, 2018, we received a written notice (the “Notice”) from the Nasdaq Stock Market LLC (“Nasdaq”)
+
+that we were not in compliance with Nasdaq Listing Rule 5550(a)(2), as the minimum bid price of our common stock has been below
+
+$1.00 per share for 30 consecutive business days. The Notice had no immediate effect on the listing of our common stock, and our
+
+common stock continues to trade on the Nasdaq Capital Market. In accordance with Nasdaq Listing Rule 5810(c)(3)(A), we had a period
+
+of 180 calendar days, or until March 19, 2019, to regain compliance with the minimum bid price requirement. To regain compliance,
+
+the closing bid price of our common stock must meet or exceed $1.00 per share for at least 10 consecutive business days during
+
+the 180 calendar day period. On March 19, 2019 we received a listing extension from the Nasdaq Hearings Panel that grants the
+
+Company until September 16, 2019 to regain compliance with the Minimum Bid Price requirement for continued listing on the Nasdaq
+
+Capital Market. In the event we do not regain compliance by September 16, 2019, we provided written notice to NASDAQ of our intention
+
+to cure the deficiency by effecting a reverse stock split, if necessary. If we do not regain compliance within the allotted compliance
+
+period(s), including any extensions that may be granted by NASDAQ or fail to comply with or other requirements for continued listing,
+
+our common stock may be delisted and the price of our common stock and our ability to access the capital markets could be negatively
+
+impacted. A delisting of our common stock from The NASDAQ Capital Market could materially reduce the liquidity of our common stock
+
+and result in a corresponding material reduction in the price of our common stock. In addition, delisting could harm our ability
+
+to raise capital through alternative financing sources on terms acceptable to us, or at all, and may result in the potential loss
+
+of confidence by investors, employees and fewer business development opportunities.
+
+Trading
+
+in our stock has been modest. Therefore, investors may not be able to sell as much stock as they want at prevailing prices. Moreover,
+
+modest volume can increase stock price volatility.
+
+Because
+
+there is a limited trading in our common stock, it may be difficult for investors to sell or buy substantial quantities of shares
+
+in the public market at any given time at prevailing prices. Moreover, the market price for shares of our common stock may be
+
+made more volatile because of the relatively low volume of trading in our common stock. When trading volume is low, significant
+
+price movement can be caused trading a relatively small number of shares.
+
+The
+
+market price of our common stock may fluctuate significantly, and investors in our common stock may lose all or a part of their
+
+investment.
+
+The
+
+market prices for securities of solar and energy companies have historically been highly volatile, and the market has from time
+
+to time experienced significant price and volume fluctuations that are unrelated to the operating performance of particular companies.
+
+The market price of our common stock may fluctuate significantly in response to numerous factors, some of which are beyond our
+
+control, such as:
+
+Further,
+
+the equity markets in general have recently experienced extreme price and volume fluctuations. Continued market fluctuations could
+
+result in extreme volatility in the price of our common stock, which could cause a decline in the value of our common stock. Price
+
+volatility of our common stock might worsen if the trading volume of our common stock is low. The realization of any of the above
+
+risks or any of a broad range of other risks, including those described in these “Risk Factors,” could have a dramatic
+
+and material adverse impact on the market price of our common stock.
+
+A
+
+substantial number of shares of common stock may be sold in the market, which may depress the market price for our common stock
+
+or the warrants.
+
+Sales
+
+of a substantial number of shares of our common stock in the public market could cause the market price of our common stock to
+
+decline. A substantial majority of the outstanding shares of our common stock and exercisable options and warrants are freely
+
+tradable without restriction or further registration under the Securities Act of 1933, as amended. Because the warrants are exercisable
+
+into our common stock, volatility or a reduction in the market price of our common stock could have an adverse effect on the market
+
+price of the warrants.
+
+If
+
+securities analysts do not publish research or publish inaccurate or unfavorable research about our business, our stock price
+
+and trading volume could decline.
+
+The
+
+trading market for our common stock depends in part on the research and reports that securities or industry analysts publish about
+
+us or our business. If one or more of the analysts who cover us downgrade our stock or publish inaccurate or unfavorable research
+
+about our business, our stock price would likely decline. Securities analysts have only recently commenced research coverage on
+
+us. If one or more of these analysts cease coverage of our company or fail to publish reports on us regularly, demand for our
+
+stock could decrease, which might cause our stock price and trading volume to decline.
+
+We
+
+do not expect any cash dividends to be paid on our common stock in the foreseeable future.
+
+We
+
+have never declared or paid a cash dividend on our common stock, and we do not anticipate paying cash dividends in the foreseeable
+
+future. We expect to use future earnings, if any, as well as any capital that may be raised in the future, to fund business growth.
+
+Consequently, a stockholder’s only opportunity to achieve a return on investment would be for the price of our common stock
+
+to appreciate. We cannot assure stockholders of a positive return on their investment when they sell their shares, nor can we
+
+assure that stockholders will not lose the entire amount of their investment.
+
+Item
+
+1B. Unresolved Staff Comments.
+
+None.
+
+Item
+
+2. Properties.
+
+Sunworks
+
+United leases 27,530 square feet of mixed used space consisting of office and warehouse facilities in Roseville, California, at
+
+a monthly lease rate of $20,866. The lease expires in December 2021.
+
+Sunworks
+
+United leases 2,846 square feet of retail space in Rocklin, California, at a monthly lease rate of $9,058. The lease expires in
+
+December 2020.
+
+Sunworks
+
+United leases 5,304 square feet of office space in Rocklin, California, at a monthly lease rate of $5,834. The lease expires in
+
+May 2021. Sunworks is the sublessor through May 2021. Sublessee’s monthly payments began in August 2017 at a rate of $5,304
+
+per month.
+
+Sunworks
+
+United leases 2,021 square feet of mixed used space consisting of office and warehouse facilities in Reno, Nevada at monthly lease
+
+rate of $2,133. The lease expires in October 2020.
+
+Sunworks
+
+United leases approximately 6,358 square feet of mixed used space consisting of office and warehouse facilities in Rancho Cucamonga,
+
+California, at a monthly lease rate of $5,515. The lease expires in July 2019.
+
+Sunworks
+
+Inc. leases 15,600 square feet of mixed used space consisting of office and warehouse facilities from an entity controlled by
+
+the former sole shareholder of Plan B Enterprises, Inc. in Durham, California, at a monthly lease rate of $9,000. The lease is
+
+month-to-month.
+
+Sunworks
+
+United leases 5,000 square feet of mixed used space consisting of office and warehouse facilities in Tulare, California at monthly
+
+lease rate of $4,509. The lease expires in July 2019.
+
+Sunworks
+
+United leases 3,560 square feet of mixed used space consisting of office and warehouse facilities in Campbell (San Jose), California
+
+at monthly lease rate of $4,579. The lease expires in January 2022.
+
+Sunworks
+
+United leases 800 square feet of mixed used space consisting of office and warehouse facilities in White City, Oregon at monthly
+
+lease rate of $800. The lease is month-to-month.
+
+All
+
+of these properties are adequate for our current needs and we expect that we can extend our leases on these properties, or replace
+
+them with similar space, at approximately the same cost.
+
+Item
+
+3. Legal Proceedings.
+
+We
+
+are not currently a party to any legal proceedings that, individually or in the aggregate, are deemed to be material to our financial
+
+condition or results of operations.
+
+Item
+
+4. Mine Safety Disclosures.
+
+Not
+
+applicable.
+
+PART
+
+II
+
+Item
+
+5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.
+
+On
+
+March 4, 2015 our common stock began to be traded on The NASDAQ Capital Market under the symbol “SLTD” that was changed
+
+on March 1, 2016 to “SUNW” simultaneously with our name change to Sunworks, Inc. Our common stock previously traded
+
+on the OTCQB under the symbol “SLTD.” The market for our common stock was often sporadic, volatile, and limited.
+
+The
+
+following table shows the range of high and low sale prices for our common stock as reported on NASDAQ for each quarterly period
+
+within the two most recent fiscal years.
+
+Holders
+
+of Common Stock.
+
+On
+
+March 29, 2019, we had 99 registered holders of record of our common stock.
+
+Dividends
+
+and dividend policy.
+
+We
+
+have never declared or paid any dividends on our common stock. We do not anticipate paying dividends on our common stock at the
+
+present time or in the foreseeable future. We currently intend to retain earnings, if any, for use in our business.
+
+Securities
+
+authorized for issuance under equity compensation plans.
+
+The
+
+following table reflects information for equity compensation plans and arrangements for any and all directors, officers, employees
+
+and/or consultants through December 31, 2018.
+
+Equity
+
+Compensation Plan Information
+
+In
+
+March 2016, the Company’s Board of Directors adopted the 2016 Equity Incentive Plan (the “2016 Plan”) and in
+
+June 2016, the shareholders adopted the same. The maximum number of shares of common stock that may be issued under the 2016 Plan
+
+is 1,800,000. The 2016 Plan is currently administered by the Company’s Compensation Committee. The 2016 Plan authorizes
+
+grants of stock options, stock appreciation rights and restricted stock awards to officers, employees, directors of the Company
+
+as well as consultants who are selected by the Compensation Committee to receive an award. No option shall be exercisable more
+
+than 10 years after the date of grant. No option granted under the 2016 Plan is transferable by the individual or entity to whom
+
+it was granted otherwise than by will or laws of descent and distribution, and, during the lifetime of such individual, is not
+
+exercisable by any other person, but only by the recipient.
+
+Recent
+
+Sales of Unregistered Securities.
+
+None.
+
+Item
+
+6. Selected Financial Data
+
+As
+
+a smaller reporting company, we are not required to provide the information under this item, pursuant to Regulation S-K Item 301(c).
+
+Item
+
+7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+You
+
+should read the following discussion and analysis of our financial condition and results of operations together with our consolidated
+
+financial statements and related notes appearing elsewhere in this annual report on Form 10-K. This discussion and analysis contains
+
+forward-looking statements that involve risks, uncertainties and assumptions. The actual results may differ materially from those
+
+anticipated in these forward-looking statements as a result of certain factors, including, but not limited to, those set forth
+
+under “Risk Factors” and elsewhere in this annual report on Form 10-K.
+
+Amounts
+
+in thousands, except share and per share data
+
+Overview
+
+Sunworks
+
+provides photovoltaic (“PV”) based power systems for the agricultural, commercial, industrial, public works, and residential
+
+markets in California, Massachusetts, Nevada, Oregon, New Jersey and Washington. We have direct sales and/or operations personnel
+
+in California, Massachusetts, Nevada, and Oregon. Through our operating subsidiaries, we design, arrange financing, integrate,
+
+install, and manage systems ranging in size from 2kW (kilowatt) for residential loads to multi MW (megawatt) systems for larger
+
+agricultural, commercial and industrial (“ACI”) and public works projects. ACI installations have included installations
+
+at office buildings, manufacturing plants, warehouses, churches, and agricultural facilities such as farms, wineries, and dairies.
+
+Public works installations have included school districts, local municipalities, federal facilities and higher education institutions.
+
+The Company provides a full range of installation services to our solar energy customers including design, system engineering,
+
+procurement, permitting, construction, grid connection, warranty, system monitoring and maintenance.
+
+We
+
+currently operate in one segment based upon our organizational structure and the way in which our operations are managed and evaluated.
+
+Approximately 72% of our 2018 revenue was from sales to the ACI and public works markets and approximately 28% of our revenue
+
+was from sales to the residential market. Approximately 68% of our 2017 revenue was from sales to the ACI and public works markets
+
+and approximately 32% of our revenue was from sales to the residential market.
+
+Critical
+
+Accounting Policies
+
+Our
+
+discussion and analysis of our financial condition and results of operations are based upon our financial statements, which have
+
+been prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of
+
+these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities,
+
+revenues and expenses, and related disclosures of contingent assets and liabilities. On an ongoing basis, we evaluate our estimates,
+
+including those related to impairment of property, plant and equipment, intangible assets, deferred tax assets, costs to complete
+
+projects, and fair value computation using the Black Scholes option pricing model. We base our estimates on historical experience
+
+and on various other assumptions, such as the trading value of our common stock and estimated future undiscounted cash flows,
+
+that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying
+
+value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates
+
+under different assumptions or conditions; however, we believe that our estimates, including those for the above-described items,
+
+are reasonable.
+
+Use
+
+of Estimates
+
+The
+
+preparation of financial statements in conformity with accounting principles generally accepted in the United States of America
+
+requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of
+
+contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during
+
+the reporting period. Actual results could differ from those estimates. Significant estimates include estimates used to review
+
+the Company’s goodwill, impairments and estimations of long-lived assets, revenue recognition on percentage of completion
+
+type contracts, allowances for uncollectible accounts, warranty reserves, inventory valuation, valuations of non-cash capital
+
+stock issuances and the valuation allowance on deferred tax assets. The Company bases its estimates on historical experience and
+
+on various other assumptions that are believed to be reasonable in the circumstances, the results of which form the basis for
+
+making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual
+
+results may differ from these estimates under different assumptions or conditions.
+
+Revenue
+
+Recognition
+
+Revenues
+
+and related costs on construction contracts are recognized as the performance obligations are satisfied over time in accordance
+
+with Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers. Under ASC 606, revenue
+
+and associated profit, will be recognized as the customer obtains control of the goods and services promised in the contract (i.e.,
+
+performance obligations). The cost of uninstalled materials or equipment will generally be excluded from our recognition of profit,
+
+unless specifically produced or manufactured for a project, because such costs are not considered to be a measure of progress.
+
+All un-allocable indirect costs and corporate general and administrative costs are charged to the periods as incurred. However,
+
+in the event a loss on a contract is foreseen, the Company will recognize the loss as it is determined.
+
+Revisions
+
+in cost and profit estimates, during the course of the contract, are reflected in the accounting period in which the facts, which
+
+require the revision, become known. Provisions for estimated losses on uncompleted contracts are made in the period in which such
+
+losses are determined. Changes in job performance, job conditions, and estimated profitability, including those arising from contract
+
+penalty provisions, and final contract settlements may result in revisions to costs and income and are recognized in the period
+
+in which the revisions are determined.
+
+Contract
+
+assets represent revenues recognized in excess of amounts invoiced to customers on contracts in progress. Contract liabilities
+
+represent amounts invoiced to customers in excess of revenues recognized on contracts in progress.
+
+Indefinite
+
+Lived Intangibles and Goodwill Assets
+
+The
+
+Company accounts for business combinations under the acquisition method of accounting in accordance with ASC 805, “Business
+
+Combinations,” where the total purchase price is allocated to the tangible and identified intangible assets acquired and
+
+liabilities assumed based on their estimated fair values. The purchase price is allocated using the information currently available,
+
+and may be adjusted, up to one year from acquisition date, after obtaining more information regarding, among other things, asset
+
+valuations, liabilities assumed and revisions to preliminary estimates. The purchase price in excess of the fair value of the
+
+tangible and identified intangible assets acquired less liabilities assumed is recognized as goodwill.
+
+The
+
+Company tests for indefinite lived intangibles and goodwill impairment in the fourth quarter of each year and whenever events
+
+or circumstances indicate that the carrying amount of the asset exceeds its fair value and may not be recoverable. In accordance
+
+with its policies, the Company performed a quantitative assessment of indefinite lived intangibles and goodwill at December 31,
+
+2018 and 2017. At December 31, 2018, the Company determined that the carrying amount of goodwill exceeded its fair value and,
+
+as a result, recorded an impairment of $1,900. At December 31, 2017 the Company determined no impairment was necessary.
+
+Business
+
+Combinations
+
+We
+
+allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed and intangible assets acquired
+
+based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable
+
+assets and liabilities is recorded as goodwill. Such valuations require management to make significant estimates and assumptions,
+
+especially with respect to intangible assets. Significant estimates in valuing certain intangible assets include, but are not
+
+limited to, future expected cash flows from acquired customer lists, acquired technology, and trade names from a market participant
+
+perspective, useful lives and discount rates. Management’s estimates of fair value are based upon assumptions believed to
+
+be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates.
+
+During the measurement period, which is one year from the acquisition date, we may record adjustments to the assets acquired and
+
+liabilities assumed, with the corresponding offset to goodwill. Upon the conclusion of the measurement period, any subsequent
+
+adjustments are recorded to earnings.
+
+Stock-Based
+
+Compensation
+
+The
+
+Company periodically issues stock options to employees and directors. The Company accounts for stock option grants issued and
+
+vesting to employees based on the authoritative guidance provided by the Financial Accounting Standards Board whereas the value
+
+of the award is measured on the date of grant and recognized over the vesting period.
+
+The
+
+Company accounts for stock grants issued to non-employees in accordance with the authoritative guidance of the Financial Accounting
+
+Standards Board whereas the value of the stock compensation is based upon the measurement date as determined at either a) the
+
+date at which a performance commitment is reached, or b) at the date at which the necessary performance to earn the equity instruments
+
+is complete. Non-employee stock-based compensation charges generally are amortized over the vesting period on a straight-line
+
+basis. In certain circumstances where there are no future performance requirements by the non-employee, option grants are immediately
+
+vested and the total stock-based compensation charge is recorded in the period of the measurement date.
+
+Accounts
+
+Receivable
+
+Accounts
+
+receivables are recorded on contracts for amounts currently due based upon progress billings, as well as retention, which are
+
+collectible upon completion of the contracts. Accounts payable to material suppliers and subcontractors are recorded for amounts
+
+currently due based upon work completed or materials received, as are retention due subcontractors, which are payable upon completion
+
+of the contract. General and administrative expenses are charged to operations as incurred and are not allocated to contract costs.
+
+Retention receivable is the amount withheld by a customer until a contract is completed. Retention receivables of $1,234 and $958
+
+were included in the balance of trade accounts receivable as of December 31, 2018, and 2017, respectively.
+
+The
+
+Company performs ongoing credit evaluation of its customers. Management monitors outstanding receivables based on factors surrounding
+
+the credit risk of specific customers, historical trends, age of receivables and other information, and records bad debts using
+
+the allowance method. Accounts receivable are presented net of an allowance for doubtful accounts of $325 at December 31, 2018,
+
+and $320 at December 31, 2017. During calendar year 2018, $91 was recorded as bad debt expense compared to $281 in 2017.
+
+Inventory
+
+Inventory
+
+is valued at a weighted average cost method. Inventory primarily consists of panels, inverters, and mounting racks and other materials.
+
+The company also carries a reserve for inventory obsolescence that may arise from technological advancement or changes in government
+
+regulation. Inventory is presented net of an allowance of $50 at December 31, 2018, and $50 at December 31, 2017.
+
+Warranty
+
+Liability
+
+The
+
+Company establishes warranty liability reserves to provide for estimated future expenses as a result of installation and product
+
+defects, product recalls and litigation incidental to the Company’s business. Liability estimates are determined based on
+
+management’s judgment, considering such factors as historical experience, the likely current cost of corrective action,
+
+manufacturers’ and subcontractors’ participation in sharing the cost of corrective action, and consultations with
+
+third party experts such as engineers. Solar panel manufacturers currently provide substantial warranties between ten to twenty-five
+
+years with full reimbursement to replace and install replacement panels while inverter manufacturers currently provide warranties
+
+covering ten to fifteen year replacement and installation. Warranty liabilities for the years ended December 31, 2018 and 2017
+
+were $321 and $246, respectively.
+
+Income
+
+Taxes
+
+The
+
+Company uses the liability method of accounting for income taxes. Deferred tax assets and liabilities are recognized for the future
+
+tax consequences attributable to financial statements carrying amounts of existing assets and liabilities and their respective
+
+tax bases and operating loss and tax credit carry-forwards. The measurement of deferred tax assets and liabilities is based on
+
+provisions of applicable tax law. The measurement of deferred tax assets is reduced, if necessary, by a valuation allowance based
+
+on the amount of tax benefits that, based on available evidence, is not expected to be realized.
+
+Results
+
+of Operations for the Years Ended December 31, 2018 and 2017
+
+REVENUE
+
+AND COST OF REVENUES
+
+For
+
+the year ended December 31, 2018, revenue declined 8.4% to $70,965 compared to $77,448 for the year ended December 31, 2017. Cost
+
+of goods sold for year ended December 31, 2018 was $58,701 or 82.7% of revenues, compared to $63,785 or 82.4% of revenues for
+
+the year ended December 31, 2017.
+
+Approximately
+
+72% of our 2018 revenue was from installations for the ACI and public works markets and approximately 28% was from residential
+
+system installations. Larger ACI projects take longer to sell, design, engineer, permit and construct than residential projects
+
+and it varies by city, state and county. Some current projects may take more than a year to complete from the time that the sales
+
+agreement is signed and revenue is fully recognized with the installation and receipt of final inspection documents.
+
+Gross
+
+profit for the year ended December 31, 2018 was $12,264 or 17.3% of revenues compared to $13,663 or 17.6% of revenues for the
+
+year ended December 31, 2017.
+
+Gross
+
+margin in 2018 was consistent with the prior year and includes lower margins from the construction of projects sold in
+
+2016 and the first half of 2017. We began 2018 with an ACI backlog that included projects with lower margins than projects sold
+
+in the current year. Additionally, gross margin in 2018 was impacted by a one-time $2.3 million sale of materials to a customer
+
+that was done at zero margin.
+
+Competitive
+
+pricing pressures and operational inefficiencies caused by lower job volume, drove lower than historical margins on projects in
+
+the residential market. Additionally, we were still transitioning to a dealer model for residential markets in 2017. Dealer commissions
+
+are recorded as a cost of goods sold and apply downward pressure to gross margin. Residential dealer commissions were 18% of revenue
+
+for 2018 and 14% of revenue for 2017.
+
+SELLING
+
+AND MARKETING EXPENSES
+
+Selling
+
+and marketing (“S&M”) expenses for the year ended December 31, 2018 were $3,824 compared to $6,462 for the year
+
+ended December 31, 2017. The 40.8% decline in S&M expenses was primarily due to decreases in employee headcount and related
+
+costs, commissions, media advertising expenses, and facility costs compared to the prior year. As a percentage of revenues S&M
+
+expenses decreased to 5.4% of revenues in 2018 compared to 8.3% in 2017. The disciplined and effective use of our salesforce and
+
+commission structures has been an emphasis for 2018 resulting in a decrease of approximately $1,591 compared to the prior year.
+
+Additionally, we continue to focus on the efficient use of media advertising resulting in a decrease of approximately $594 in
+
+2018 compared to the prior year. We continue to refine our specially-designed marketing efforts, third-party revenue generators,
+
+and sales approach to attract new customers more cost effectively than in prior year periods.
+
+GENERAL
+
+AND ADMINISTRATIVE EXPENSES
+
+General
+
+and administrative (“G&A”) expenses for the year ended December 31, 2018 were $10,001 compared to $11,946 for
+
+the year ended December 31, 2017. As a percentage of revenue, G&A expenses decreased to 14.1% of revenues during the 2018
+
+compared to 15.4% in 2017. In total dollars, G&A expense declined primarily due to a bonus expense of approximately $1,159
+
+in 2017 compared to a reversal of a prior-year bonus accrual of $497 in 2018.
+
+Operating
+
+expenses, excluding stock-based compensation, are expected to be stable or slightly increased going forward as we invest in resources
+
+necessary to support future growth. We will also continue to look for opportunities to streamline our operations and decrease
+
+our cost structure. To date, we have made cuts in our discretionary spending, reduced the size of our board of directors and streamlined
+
+our management team. Reducing our overhead burden, without compromising the ability to operate effectively has been, and continues
+
+to be, an emphasis.
+
+GOODWILL
+
+IMPAIRMENT
+
+Goodwill
+
+impairment recorded for the years ended December 31, 2018 and 2017 was $1,900 and $0, respectively. The Company retained a valuation
+
+consultant who performed a quantitative assessment of indefinite lived intangibles and goodwill at December 31, 2018 and 2017.
+
+At December 31, 2018, the Company determined that the carrying amount of goodwill exceeded its fair value and, as a result, recorded
+
+an impairment of $1,900. At December 31, 2017 the Company determined no impairment was necessary.
+
+STOCK
+
+BASED COMPENSATION EXPENSES
+
+During
+
+year ended December 31, 2018, we incurred approximately $1,313 in non-cash stock compensation costs associated with Restricted
+
+Stock Grant Agreements and stock options compared to $1,159 during the year ended December 31, 2017.
+
+Approximately
+
+$503 of stock-based compensation is for the August 31, 2016 grant of 250,000 restricted shares to our former Chairman at the per
+
+share value at the date of grant of $2.90. This grant was being expensed on a straight-line basis over 52 months but was accelerated
+
+and vested in full upon his retirement in April 2018. Stock-based compensation expense for this grant for 2017 was $167.
+
+Approximately
+
+$179 of stock-based compensation is for the September 23, 2013 grant of 384,615 restricted shares to our former Chairman at the
+
+per share value at the date of grant of $0.47. This grant was fully vested and issued in conjunction with his retirement in April
+
+2018. There was no expense from this grant in 2017.
+
+For
+
+the year ended December 31, 2018 and 2017, stock-based compensation of $250 and $188, respectively, is for the March 2017 grant
+
+of 500,000 restricted shares to our CEO at the per share value at the date of grant of $1.50. This grant is being expensed on
+
+a straight-line basis over 36 months.
+
+Stock-based
+
+compensation, excluding restricted stock grant agreements, related to employee and director options totaled $381 and $804 for
+
+the year ended December 31, 2018 and 2017, respectively.
+
+DEPRECIATION
+
+AND AMORTIZATION
+
+Depreciation
+
+and Amortization expenses for the year ended December 31, 2018 were $384 compared to $410 for the year ended December 31, 2017.
+
+Depreciation and Amortization expenses decreased primarily due to the sale of underutilized equipment in late 2017.
+
+OTHER
+
+INCOME/(EXPENSES)
+
+Other
+
+income/(expenses) decreased for the year ended December 31, 2018 to ($582) compared to ($908) for the year ended December 31,
+
+2017. Interest expense for the year ended December 31, 2018 decreased to $544 from $924 for year ended December 31, 2017. Approximately
+
+$473 of the interest expense for 2018 was from the Loan Agreement entered into in April 2018. Prior year interest was primarily
+
+the result of the non-cash debt discount amortization treated as interest for the convertible promissory note. The debt discount
+
+was fully amortized in the fourth quarter of 2017.
+
+NET
+
+LOSS
+
+The
+
+Company had a consolidated net loss of $5,740 for the year ended December 31, 2018 compared to a net loss of $7,222 for the year
+
+ended December 31, 2017.
+
+Liquidity
+
+and Capital Resources
+
+We
+
+had $3,628 in cash at December 31, 2018, as compared to $6,356 at December 31, 2017. We believe that the aggregate of our existing
+
+cash and cash equivalents, in addition to funds generated in operations, will be sufficient to meet our operating cash requirements
+
+for at least the next 12 months. Estimates about the adequacy of funding for our activities are based upon certain assumptions.
+
+There can be no assurance that changes in our business will not result in accelerated or unexpected expenditures. To satisfy our
+
+capital requirements, including ongoing future operations, we may seek to raise additional financing through debt and equity financings.
+
+As
+
+of December 31, 2018, our working capital surplus was $3,791 compared to a working capital surplus of $4,364 at December 31, 2017.
+
+The
+
+Loan Agreement for the Promissory Notes Payable contains a subjective acceleration clause based on the lender determining, in
+
+the exercise of its reasonable discretion, that a “material adverse effect” in our business has occurred. If this
+
+clause is applied, and the lender declares that an Event of Default has occurred, the outstanding indebtedness would likely become
+
+immediately due. We believe that the likelihood of the lender exercising this right is remote.
+
+During
+
+the year ended December 31, 2018, we had $5,752 of cash used in operating activities compared to $3,653 used in operating activities
+
+for the prior year ended December 31, 2017. The cash used in operating activities was primarily the result of the current year
+
+net loss combined with changes in working capital accounts
+
+Net
+
+cash used in investing activities was $3 in the year ended December 31, 2018 compared to $50 provided by investing activities
+
+in the year ended December 31, 2017. The cash used in investing activities was for the purchase of capital equipment, partially
+
+offset by proceeds from the sale of assets.
+
+Net
+
+cash provided by financing activities during the year ended December 31, 2018 was $2,999. This is due to funds received as part
+
+of the Loan Agreement entered into in April 2018, partially offset by principal payments for equipment notes and capital leases.
+
+Cash used by financing activities during the year ended December 31, 2017 was $672. The cash was primarily used to pay principal
+
+payments on the acquisition convertible promissory notes and existing vehicle and equipment debt.
+
+Off-Balance
+
+Sheet Arrangements
+
+We
+
+do not have any off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial
+
+condition, revenues, results of operations, liquidity, or capital expenditures.
+
+Item
+
+8. Financial Statements and Supplementary Data.
+
+SUNWORKS,
+
+INC.
+
+FINANCIAL
+
+STATEMENTS
+
+FOR
+
+THE YEARS ENDED DECEMBER 31, 2018 AND 2017
+
+CONTENTS
+
+REPORT
+
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To
+
+the Board of Directors and Shareholders of
+
+Sunworks,
+
+Inc.
+
+Opinion
+
+on the Financial Statements
+
+We
+
+have audited the accompanying consolidated balance sheets of Sunworks, Inc., (the “Company”) as of December 31, 2018
+
+and 2017, the related consolidated statements of operations, shareholders’ equity, and cash flows for the years then ended,
+
+and the related notes (collectively referred to as the “financial statements”). In our opinion, the consolidated financial
+
+statements present fairly, in all material respects, the financial position of the Company as of December 31, 2018 and 2017, and
+
+the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally
+
+accepted in the United States of America.
+
+Basis
+
+for Opinion
+
+These
+
+financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on
+
+the Company’s financial statements based on our audits. We are a public accounting firm registered with the Public Company
+
+Accounting Oversight Board (United States) (“PCAOB”) and are required to be independent with respect to the Company
+
+in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission
+
+and the PCAOB.
+
+We
+
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit
+
+to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error
+
+or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial
+
+reporting in accordance with the standards of the PCAOB. As part of our audits we are required to obtain an understanding of internal
+
+control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company’s
+
+internal control over financial reporting. Accordingly, we express no such opinion in accordance with the standards of the PCAOB.
+
+Our
+
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to
+
+error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+
+regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles
+
+used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements.
+
+We believe that our audits provide a reasonable basis for our opinion.
+
+We
+
+have served as the Company’s auditor since 2014.
+
+New
+
+York, NY
+
+March
+
+29, 2019
+
+SUNWORKS,
+
+INC.
+
+CONSOLIDATED
+
+BALANCE SHEETS
+
+AS
+
+OF DECEMBER 31, 2018 AND 2017
+
+(in
+
+thousands, except share and per share data)
+
+The
+
+accompanying notes are an integral part of these consolidated financial statements.
+
+SUNWORKS,
+
+INC.
+
+CONSOLIDATED
+
+STATEMENTS OF OPERATIONS
+
+FOR
+
+THE YEARS ENDED DECEMBER 31, 2018 AND 2017
+
+(in
+
+thousands, except share and per share data)
+
+The
+
+accompanying notes are an integral part of these consolidated financial statements.
+
+SUNWORKS,
+
+INC.
+
+CONSOLIDATED
+
+STATEMENTS OF SHAREHOLDERS’ EQUITY
+
+FOR
+
+THE YEARS ENDED DECEMBER 31, 2018 AND 2017
+
+(in
+
+thousands, except share and per share data)
+
+The
+
+accompanying notes are an integral part of these consolidated financial statements.
+
+SUNWORKS,
+
+INC.
+
+CONSOLIDATED
+
+STATEMENTS OF CASH FLOWS
+
+FOR
+
+THE YEARS ENDED DECEMBER 31, 2018 AND 2017
+
+(in
+
+thousands, except share and per share data)
+
+The
+
+accompanying notes are an integral part of these consolidated financial statements.
+
+SUNWORKS,
+
+INC.
+
+Notes
+
+to Consolidated Financial Statements
+
+December
+
+31, 2018 and 2017
+
+(in
+
+thousands, except share and per share data)
+
+1.
+
+ORGANIZATION AND LINE OF BUSINESS
+
+Organization
+
+and Line of Business
+
+Sunworks,
+
+Inc. (the “Company”) was originally incorporated in Delaware on January 30, 2002 as MachineTalker, Inc. In July 2010,
+
+we changed our company name to Solar3D, Inc. On January 31, 2014, we acquired 100% of the stock of Solar United Network, Inc.,
+
+a California corporation. On March 2, 2015, we acquired MD Energy. On December 1, 2015, we acquired Plan B through a merger of
+
+Plan B Enterprises, Inc. into our wholly owned subsidiary, Elite Solar Acquisition Sub., Inc. On March 1, 2016 we changed our
+
+name to Sunworks, Inc. with simultaneous NASDAQ stock symbol change from SLTD to SUNW.
+
+We
+
+provide photovoltaic (“PV”) based power systems for the agricultural, commercial, industrial (“ACI”),
+
+public works, and residential markets in California, Massachusetts, Nevada, Oregon, New Jersey and Washington. We have direct
+
+sales and/or operations personnel in California, Massachusetts, Nevada, and Oregon. Through our operating subsidiaries, we design,
+
+arrange financing, integrate, install, and manage systems ranging in size from 2kW (kilowatt) for residential loads to multi MW
+
+(megawatt) systems for larger ACI and public works projects. Commercial installations have included installations at office buildings,
+
+manufacturing plants, warehouses, churches, and agricultural facilities such as farms, wineries, and dairies. Public works installations
+
+have included school districts, local municipalities, federal facilities and higher education institutions. The Company provides
+
+a full range of installation services to our solar energy customers including design, system engineering, procurement, permitting,
+
+construction, grid connection, warranty, system monitoring and maintenance.
+
+2.
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+This
+
+summary of significant accounting policies of Sunworks, Inc. is presented to assist in understanding the Company’s financial
+
+statements. The financial statements and notes are representations of the Company’s management, which is responsible for
+
+their integrity and objectivity. These accounting policies conform to accounting principles generally accepted in the United States
+
+of America and have been consistently applied in the preparation of the financial statements.
+
+Principles
+
+of Consolidation
+
+The
+
+accompanying consolidated financial statements include the accounts of Sunworks, Inc., and its wholly owned operating subsidiaries,
+
+Sunworks United, Inc. (“Sunworks United”), MD Energy, Inc. (“MD Energy”), and Elite Solar Acquisition
+
+Sub, Inc. (“Elite Solar”). All material intercompany transactions have been eliminated upon consolidation of these
+
+entities.
+
+Use
+
+of Estimates
+
+The
+
+preparation of financial statements in conformity with accounting principles generally accepted in the United States of America
+
+requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of
+
+contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during
+
+the reporting period. Actual results could differ from those estimates. Significant estimates include estimates used to review
+
+the Company’s goodwill, impairments and estimations of long-lived assets, revenue recognition on percentage of completion
+
+type contracts, allowances for uncollectible accounts, warranty reserves, inventory valuation, valuations of non-cash capital
+
+stock issuances and the valuation allowance on deferred tax assets. The Company bases its estimates on historical experience and
+
+on various other assumptions that are believed to be reasonable in the circumstances, the results of which form the basis for
+
+making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual
+
+results may differ from these estimates under different assumptions or conditions.
+
+Revenue
+
+Recognition
+
+Revenues
+
+and related costs on construction contracts are recognized as the performance obligations are satisfied over time in accordance
+
+with Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers. Under ASC 606, revenue
+
+and associated profit, will be recognized as the customer obtains control of the goods and services promised in the contract (i.e.,
+
+performance obligations). The cost of uninstalled materials or equipment will generally be excluded from our recognition of profit,
+
+unless specifically produced or manufactured for a project, because such costs are not considered to be a measure of progress.
+
+All un-allocable indirect costs and corporate general and administrative costs are charged to the periods as incurred. However,
+
+in the event a loss on a contract is foreseen, the Company will recognize the loss as it is determined.
+
+Revisions
+
+in cost and profit estimates, during the course of the contract, are reflected in the accounting period in which the facts, which
+
+require the revision, become known. Provisions for estimated losses on uncompleted contracts are made in the period in which such
+
+losses are determined. Changes in job performance, job conditions, and estimated profitability, including those arising from contract
+
+penalty provisions, and final contract settlements may result in revisions to costs and income and are recognized in the period
+
+in which the revisions are determined.
+
+Contract
+
+assets represent revenues recognized in excess of amounts invoiced to customers on contracts in progress. Contract liabilities
+
+represent amounts invoiced to customers in excess of revenues recognized on contracts in progress.
+
+Accounts
+
+Receivable
+
+Accounts
+
+receivables are recorded on contracts for amounts currently due based upon progress billings, as well as retention, which are
+
+collectible upon completion of the contracts. Accounts payable to material suppliers and subcontractors are recorded for amounts
+
+currently due based upon work completed or materials received, as are retention due subcontractors, which are payable upon completion
+
+of the contract. General and administrative expenses are charged to operations as incurred and are not allocated to contract costs.
+
+Retention receivable is the amount withheld by a customer until a contract is completed. Retention receivables of $1,234 and $958
+
+were included in the balance of trade accounts receivable as of December 31, 2018, and 2017, respectively.
+
+The
+
+Company performs ongoing credit evaluation of its customers. Management monitors outstanding receivables based on factors surrounding
+
+the credit risk of specific customers, historical trends, age of receivables and other information, and records bad debts using
+
+the allowance method. Accounts receivable are presented net of an allowance for doubtful accounts of $325 at December 31, 2018,
+
+and $320 at December 31, 2017. During calendar year 2018, $91 was recorded as bad debt expense compared to $281 in 2017.
+
+Customer
+
+Deposits
+
+Customer
+
+deposits are recorded for funds remitted by our customers in advance of progress billings being completed.
+
+Cash
+
+and Cash Equivalent
+
+The
+
+Company considers all highly liquid investments with an original maturity of three months or less to be cash equivalents.
+
+Restricted
+
+Cash
+
+The
+
+Company considers restricted cash to be cash balances that have legal and/or contractual restrictions imposed by a third party
+
+and are restricted as to withdrawal or use except for the specified purpose.
+
+Concentration
+
+Risk
+
+Cash
+
+includes amounts deposited in financial institutions in excess of insurable Federal Deposit Insurance Corporation (FDIC) limits.
+
+At times throughout the year, the Company may maintain cash balances in certain bank accounts in excess of FDIC limits. As of
+
+December 31, 2018 and 2017, the cash balance in excess of the FDIC limits was $3,413 and $6,133, respectively. The Company has
+
+not experienced any losses in such accounts and believes it is not exposed to any significant credit risk in these accounts.
+
+Inventory
+
+Inventory
+
+is valued at a weighted average cost method. Inventory primarily consists of panels, inverters, and mounting racks and other materials.
+
+The company also carries a reserve for inventory obsolescence that may arise from technological advancement or changes in government
+
+regulation. Inventory is presented net of an allowance of $50 at December 31, 2018, and $50 at December 31, 2017.
+
+Property
+
+and Equipment
+
+Property
+
+and equipment are stated at cost. Depreciation for property and equipment commences when it is put into service and are depreciated
+
+using the straight-line method over its estimated useful lives:
+
+Depreciation
+
+expense as of December 31, 2018 and 2017 was $384 and $410, respectively.
+
+Warranty
+
+Liability
+
+The
+
+Company establishes warranty liability reserves to provide for estimated future expenses as a result of installation and product
+
+defects, product recalls and litigation incidental to the Company’s business. Liability estimates are determined based on
+
+management’s judgment, considering such factors as historical experience, the likely current cost of corrective action,
+
+manufacturers’ and subcontractors’ participation in sharing the cost of corrective action, and consultations with
+
+third party experts such as engineers. Solar panel manufacturers currently provide substantial warranties between ten to twenty-five
+
+years with full reimbursement to replace and install replacement panels while inverter manufacturers currently provide warranties
+
+covering ten to fifteen-year replacement and installation. The warranty liability for estimated future warranty costs at December
+
+31, 2018 and 2017 is $321 and $246, respectively.
+
+Advertising
+
+and Marketing
+
+The
+
+Company expenses advertising and marketing costs as incurred. Advertising and marketing costs include printed material, billboards,
+
+sponsorships, direct mail, radio, telemarketing, tradeshow costs, magazine, and catalog advertisement. Advertising and marketing
+
+costs for the years ended December 31, 2018 and 2017 were $237 and $832, respectively.
+
+Stock-Based
+
+Compensation
+
+The
+
+Company periodically issues stock options to employees and directors. The Company accounts for stock option grants issued and
+
+vesting to employees based on the authoritative guidance provided by the Financial Accounting Standards Board whereas the value
+
+of the award is measured on the date of grant and recognized over the vesting period.
+
+The
+
+Company accounts for stock grants issued to non-employees in accordance with the authoritative guidance of the Financial Accounting
+
+Standards Board whereas the value of the stock compensation is based upon the measurement date as determined at either a) the
+
+date at which a performance commitment is reached, or b) at the date at which the necessary performance to earn the equity instruments
+
+is complete. Non-employee stock-based compensation charges generally are amortized over the vesting period on a straight-line
+
+basis. In certain circumstances where there are no future performance requirements by the non-employee, option grants are immediately
+
+vested and the total stock-based compensation charge is recorded in the period of the measurement date.
+
+Basic
+
+and Diluted Net Income (Loss) per Share Calculations
+
+Income
+
+(Loss) per Share dictates the calculation of basic earnings per share and diluted earnings per share. Basic earnings per share
+
+are computed by dividing income available to common shareholders by the weighted-average number of common shares available. Diluted
+
+earnings per share is computed similar to basic earnings per share except that the denominator is increased to include the number
+
+of additional common shares that would have been outstanding if the potential common shares had been issued and if the additional
+
+common shares were dilutive. The shares for employee options, restricted stock, warrants and convertible notes were not used in
+
+the calculation of the net loss per share.
+
+A
+
+net loss causes all outstanding common stock options, warrants, convertible preferred stock and convertible notes to be anti-dilutive.
+
+As a result, the basic and diluted losses per common share are the same for the year ended December 31, 2018 and 2017.
+
+As
+
+of December 31, 2018, the potentially dilutive securities were excluded from the computations of weighted average shares outstanding
+
+including 1,568,885 stock options, 222,221 restricted stock grants, 2,997,000 warrants, and shares underlying convertible notes.
+
+As
+
+of December 31, 2017, the potentially dilutive securities were excluded from the computations of weighted average shares outstanding
+
+including 1,875,155 stock options, 1,134,615 restricted stock grants, 2,997,000 warrants, shares underlying convertible notes,
+
+and preferred stock.
+
+Dilutive
+
+per share amounts are computed using the weighted-average number of common shares outstanding and potentially dilutive securities,
+
+using the treasury stock method if their effect would be dilutive.
+
+Long-Lived
+
+Assets
+
+The
+
+Company reviews its property and equipment and any identifiable intangibles for impairment whenever events or changes in circumstances
+
+indicate that the carrying amount of an asset may not be recoverable. The test for impairment is required to be performed by management
+
+at least annually. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset
+
+to the future undiscounted operating cash flow expected to be generated by the asset. If such assets are considered to be impaired,
+
+the impairment to be recognized is measured by the amount by which the carrying amount of the asset exceeds the fair value of
+
+the asset. Long-lived assets to be disposed of are reported at the lower of carrying amount or fair value less costs to sell.
+
+Indefinite
+
+Lived Intangibles and Goodwill Assets
+
+The
+
+Company accounts for business combinations under the acquisition method of accounting in accordance with ASC 805, “Business
+
+Combinations,” where the total purchase price is allocated to the tangible and identified intangible assets acquired and
+
+liabilities assumed based on their estimated fair values. The purchase price is allocated using the information currently available,
+
+and may be adjusted, up to one year from acquisition date, after obtaining more information regarding, among other things, asset
+
+valuations, liabilities assumed and revisions to preliminary estimates. The purchase price in excess of the fair value of the
+
+tangible and identified intangible assets acquired less liabilities assumed is recognized as goodwill.
+
+The
+
+Company tests for indefinite lived intangibles and goodwill impairment in the fourth quarter of each year and whenever events
+
+or circumstances indicate that the carrying amount of the asset exceeds its fair value and may not be recoverable. In accordance
+
+with its policies, the Company performed a quantitative assessment of indefinite lived intangibles and goodwill at December 31,
+
+2018 and 2017. At December 31, 2018, the Company determined that the carrying amount of goodwill exceeded its fair value and,
+
+as a result, recorded an impairment of $1,900. At December 31, 2017 the Company determined no impairment was necessary.
+
+Fair
+
+Value of Financial Instruments
+
+Disclosures
+
+about fair value of financial instruments, requires disclosure of the fair value information, whether or not recognized in the
+
+balance sheet, where it is practicable to estimate that value. As of December 31, 2018, the amounts reported for cash, accrued
+
+interest and other expenses, and notes payable approximate the fair value because of their short maturities.
+
+We
+
+account for financial instruments measured as fair value on a recurring basis under ASC Topic 820. ASC Topic 820 defines fair
+
+value, established a framework for measuring fair value in accordance with accounting principles generally accepted in the United
+
+States and expands disclosures about fair value measurements.
+
+Fair
+
+value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction
+
+between market participants at the measurement date. ASC Topic 820 established a three-tier fair value hierarchy which prioritizes
+
+the inputs used in measuring fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets
+
+for identical assets or liabilities (level 1 measurements) and the lowest priority to unobservable inputs (level 3 measurements).
+
+These tiers include:
+
+Business
+
+Combinations
+
+We
+
+allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed and intangible assets acquired
+
+based on their estimated fair values. The excess of the fair value of purchase consideration over the fair values of these identifiable
+
+assets and liabilities is recorded as goodwill. Such valuations require management to make significant estimates and assumptions,
+
+especially with respect to intangible assets. Significant estimates in valuing certain intangible assets include, but are not
+
+limited to, future expected cash flows from acquired customer lists, acquired technology, and trade names from a market participant
+
+perspective, useful lives and discount rates. Management’s estimates of fair value are based upon assumptions believed to
+
+be reasonable, but which are inherently uncertain and unpredictable and, as a result, actual results may differ from estimates.
+
+During the measurement period, which is one year from the acquisition date, we may record adjustments to the assets acquired and
+
+liabilities assumed, with the corresponding offset to goodwill. Upon the conclusion of the measurement period, any subsequent
+
+adjustments are recorded to earnings.
+
+Income
+
+Taxes
+
+The
+
+Company uses the liability method of accounting for income taxes. Deferred tax assets and liabilities are recognized for the future
+
+tax consequences attributable to financial statements carrying amounts of existing assets and liabilities and their respective
+
+tax bases and operating loss and tax credit carry-forwards. The measurement of deferred tax assets and liabilities is based on
+
+provisions of applicable tax law. The measurement of deferred tax assets is reduced, if necessary, by a valuation allowance based
+
+on the amount of tax benefits that, based on available evidence, is not expected to be realized.
+
+Reclassifications
+
+Certain
+
+reclassifications have been made to prior year’s financial statement to conform to classifications used in the current year.
+
+Segment
+
+Reporting
+
+Operating
+
+segments are defined as components of an enterprise for which separate financial information is available and evaluated regularly
+
+by the chief operating decision maker, or decision-making group, in deciding the method to allocate resources and assess performance.
+
+The Company currently has one reportable segment for financial reporting purposes, which represents the Company’s core business.
+
+New
+
+Accounting Pronouncements
+
+In
+
+February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842): Accounting for Leases. This update requires that lessees recognize
+
+right-of-use assets and lease liabilities that are measured at the present value of the future lease payments at lease commencement
+
+date. The recognition, measurement, and presentation of expenses and cash flows arising from a lease by a lessee will largely
+
+remain unchanged and shall continue to depend on its classification as a finance or operating lease. We have performed a comprehensive
+
+review in order to determine what changes were required to support the adoption of this new standard. We will adopt the ASU and
+
+related amendments on January 1, 2019 and expect to elect certain practical expedients permitted under the transition guidance.
+
+We will elect the optional transition method that allows for a cumulative-effect adjustment in the period of adoption and will
+
+not restate prior periods. Under the new guidance, the majority of our leases will continue to be classified as operating. During
+
+the first quarter of 2019, we will complete our implementation of our processes and policies to support the new lease accounting
+
+and reporting requirements. Based on our lease portfolio as of January 1, 2019, we preliminarily estimate the impact of adoption
+
+ASU 2016-02 to increase both our total assets and total liabilities in the range of $2.0 million to $2.3 million. The adoption
+Question: What was the total number of shares of common stock as of March 29, 2019?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

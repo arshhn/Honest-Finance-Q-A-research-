@@ -1,0 +1,642 @@
+You are sitting an exam made of 1 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-143-base ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: wtw-10k_20171230.htm
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 10-K 
+
+For the fiscal year ended December 30, 2017. 
+
+or 
+
+For the transition period from                      to                     . 
+
+Commission file number 001-16769 
+
+WEIGHT WATCHERS INTERNATIONAL, INC.
+
+(Exact name of registrant as specified in its charter) 
+
+675 Avenue of the Americas, 6th Floor, New York, New York 10010 
+
+(Address of principal executive offices) (Zip code) 
+
+Registrant’s telephone number, including area code: 
+
+(212) 589-2700 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+
+None 
+
+(Title of class)
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes   ☒    No  ☐ 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+Yes   ☐    No  ☒ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+Yes  ☒     No  ☐ 
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+
+Yes  ☒     No  ☐ 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.  ☒ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). 
+
+Yes  ☐    No  ☒ 
+
+The aggregate market value of the registrant's common stock held by non-affiliates as of June 30, 2017 (based upon the closing price of $33.42 per share of common stock as of June 30, 2017, the last business day of the registrant's second fiscal quarter of 2017, as quoted on the New York Stock Exchange) was $932,988,279. For purposes of this computation, it is assumed that shares of common stock held by our directors, executive officers and our controlling shareholders as of June 30, 2017 would be deemed stock held by affiliates. 
+
+The number of shares outstanding of common stock as of February 1, 2018 was 64,702,012. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Portions of the registrant’s definitive Proxy Statement for its 2018 annual meeting of shareholders are incorporated herein by reference in Part III, Items 10-14. Such Proxy Statement will be filed with the SEC no later than 120 days after the registrant’s fiscal year ended December 30, 2017. 
+
+Weight Watchers International, Inc.
+
+Annual Report on Form 10-K 
+
+Table of Contents 
+
+i
+
+BASIS OF PRESENTATION 
+
+Weight Watchers International, Inc. is a Virginia corporation with its principal executive offices in New York, New York. In this Annual Report on Form 10-K unless the context indicates otherwise: “we,” “us,” “our,” the “Company” and “WWI” refer to Weight Watchers International, Inc. and all of its operations consolidated for purposes of its financial statements; “North America” refers to our North American Company-owned operations; “United Kingdom” refers to our United Kingdom Company-owned operations; “Continental Europe” refers to our Continental Europe Company-owned operations; and “Other” refers to Australia, New Zealand and emerging markets operations and franchise revenues and related costs. Each of North America, United Kingdom, Continental Europe and Other is also a reportable segment.
+
+Our fiscal year ends on the Saturday closest to December 31st and consists of either 52- or 53-week periods. In this Annual Report on Form 10-K: 
+
+The following terms used in this Annual Report on Form 10-K are our trademarks: Weight Watchers®, PointsPlus®, ProPoints® SmartPoints®, Points®, WW FreestyleTM and the WW logo. 
+
+ii
+
+PART I 
+
+Overview 
+
+We are a global wellness company and the world’s leading commercial weight management program. We are focused on inspiring people to adopt healthy habits and helping people lead healthier, more active and more fulfilling lives. With over five decades of weight management experience, expertise and know-how, we have established Weight Watchers as one of the most recognized and trusted brand names among weight-conscious consumers. We educate our members and provide them with guidance and a supportive community to enable them to develop healthy habits for real life. Weight Watchers-branded services and products include meetings conducted by us and our franchisees, digital offerings provided through our websites, mobile sites and apps, consumer products sold at meetings and through our websites, licensed and endorsed products sold in retail channels and magazine subscriptions and other publications. Our primary sources of revenue are subscriptions for our commitment plans for Weight Watchers meetings and Online subscriptions. Our “meetings” business refers to providing access to combined meetings and digital offerings to our commitment plan subscribers (including Total Access subscribers), as well as access to meetings to our “pay-as-you-go” members and other meetings members. “Online” refers to Weight Watchers Online, Weight Watchers OnlinePlus, Personal Coaching and other digital subscription products.
+
+We believe that the power of our communities increases accountability and provides our members with inspiration, human connection, and support, which inspires them and enables them to continue building healthier and more fulfilling food, activity and lifestyle habits. Our brands enjoy high awareness and credibility among all types of consumers—women and men, consumers online and offline, the support-inclined and the self-help-inclined. We believe that our program conveys an image of healthy, livable, sustainable and effective weight management in a supportive environment. The efficacy of our commercial weight management programs has been clinically proven in numerous studies and trials. As the number of overweight and obese people worldwide grows, the demand for an effective, scalable and consumer-friendly weight management program increases. We believe our global presence and brand awareness uniquely position us in the global weight management market. We continue to explore different channels to access this market. 
+
+In the more than 50 years since our founding, we have built our business by helping millions of people around the world lose weight through a sensible, sustainable and livable approach to food, activity, behavior modification and group support. As of the end of fiscal 2017, we had a total of approximately 3.2 million subscribers. At that time, we had approximately 1.3 million meeting subscribers, who could attend approximately 31,000 Weight Watchers meetings each week around the world, which were run by approximately 8,600 leaders. We also believe we are the leading global provider of paid digital subscription weight management products. As of the end of fiscal 2017, we had approximately 2.0 million Online subscribers. Our strong brands, together with the effectiveness of our program, loyal customer base, unparalleled network of meetings and leaders, and strong digital offerings, enable us to attract new and returning customers.
+
+Business Organization and Global Operations 
+
+We have four reportable segments based on an integrated geographical structure as follows: North America, United Kingdom, Continental Europe (CE) and Other. Each reportable segment provides similar services and products. Further information regarding our reportable segments and our geographic areas can be found in Part II, Item 7 of this Annual Report on Form 10-K under “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and in Part IV, Item 15 of this Annual Report on Form 10-K under Note 16 “Segment and Geographic Data” in the Notes to the Consolidated Financial Statements. Information concerning some of the risks to which we are exposed resulting from our international operations and foreign currency exchange rates is set forth in “Item 1A. Risk Factors” of this Annual Report on Form 10-K. 
+
+1
+
+We operate in numerous countries around the world. Our “North America” reportable segment consists of our United States and Canada Company-owned operations; our “United Kingdom” reportable segment consists of our United Kingdom Company-owned operations; our “Continental Europe” reportable segment consists of our Germany, Switzerland, France, Spain (operations ceased in the first quarter of fiscal 2017), Belgium, Netherlands and Sweden Company-owned operations; and our “Other” reportable segment consists of our Australia, New Zealand, Mexico (operations anticipated to cease in the first quarter of fiscal 2018), and Brazil Company-owned operations, as well as revenues and costs from our franchises in the United States and certain other countries. Revenues from our North America, United Kingdom, Continental Europe, and Other reportable segments contributed 69.7%, 7.6%, 18.3% and 4.4%, respectively, of our total revenues in fiscal 2017. Revenues from our North America, United Kingdom, Continental Europe, and Other reportable segments contributed 68.6%, 8.7%, 18.1% and 4.6%, respectively, of our total revenues in fiscal 2016. Finally, revenues from our North America, United Kingdom, Continental Europe, and Other reportable segments contributed 64.9%, 10.7%, 19.7% and 4.7%, respectively, of our total revenues in fiscal 2015. 
+
+Our Services and Products 
+
+Our Weight Management Program and Food Plan 
+
+In each of our major markets, we offer services and products that are based on our new weight management program, known as WW FreestyleTM in North America. The program encompasses a holistic approach for your body and mind to help our members lead a healthier, more active, more fulfilling life, and provides flexibility to make significant changes towards that life. It is comprised of a range of nutritional, activity, behavioral and lifestyle tools and approaches that can be personalized for maximum livability. Our program also gives members science-based techniques that help them keep a positive mindset. Our food plan, known as SmartPoints, was developed from a combination of advancements in scientific research and consumer insights, including from customers who experienced prior Weight Watchers plans. With the SmartPoints system, each food has a SmartPoints value determined by the food’s calories, saturated fat, sugar and protein content. Customers following the SmartPoints system can eat any food as long as the SmartPoints value of their total food consumption stays within their personalized SmartPoints “budget”. Since nutritious foods generally have lower SmartPoints values, this approach guides customers toward healthier eating patterns. The WW Freestyle program expands the types and number of zero Points foods, making the program more flexible and livable. Based on a personalized assessment included in the program, members and subscribers get daily and weekly SmartPoints targets. Our new program, which launched in December 2017, updated our existing weight management program known as Beyond the Scale in North America. Prior to the launch of Beyond the Scale and SmartPoints in December 2015, we offered a weight management plan known as PointsPlus in North America, or ProPoints in certain of our other geographies. 
+
+Our customers can participate in our program in two main ways: in-person group meetings and digitally. Within these two channels, we offer a variety of services and products to meet each customer’s preferences. Our leaders, when leading meetings and providing personal coaching, educate members and subscribers on our program and range of tools. In addition to providing support, our leaders also inspire members and subscribers to develop healthy habits using our methods. 
+
+Our Meetings Business 
+
+In our meetings business, we present our program in regular weekly meetings of 30 to 45 minutes in duration, conveniently scheduled throughout the day. Our group support system remains the cornerstone of our meetings. Members provide each other support by sharing their experiences with, and by providing encouragement and empathy to, other people experiencing similar weight management challenges. Leaders facilitate this support through interactive meetings that encourage learning through member-driven discussions and individual goal-setting. 
+
+The primary payment structure for our meetings business globally is through commitment plans. Under these plans, members generally receive unlimited access to meetings at a discounted monthly price plus free access to certain Online and mobile tools and 24/7 Expert Chat, where available. Pursuant to these plans, a fee is typically charged automatically to the member’s credit card or debit card on a monthly basis until the member elects to cancel. As of the end of fiscal 2017, we had approximately 1.3 million meeting subscribers to our commitment plans. 
+
+2
+
+In fiscal 2017, revenues from our franchisees represented less than 1% of our total revenues. Franchisees typically pay us a fee equal to 10% of their meeting fee revenues. We have enjoyed a mutually beneficial relationship with our franchisees over many years. In our early years, we used an aggressive franchising strategy to quickly establish a meeting infrastructure to pre-empt competition. Since then, we have acquired a large number of franchises. Our franchisees are responsible for operating classes in their franchise class territory using the program and marketing guidelines we have developed. We provide a central support system for the program and our brand. In many of our markets, franchisees purchase products from us at wholesale prices for resale directly to members. Franchisees are obligated to adhere strictly to our program content guidelines, with the freedom to control pricing, class locations, operational structure and local promotions. Franchisees provide local operational expertise, advertising and public relations. Most franchise agreements are perpetual and can be terminated only upon a material breach or bankruptcy of the franchisee. 
+
+Our Online Business 
+
+In our Online business, we offer various digital subscription products, including Weight Watchers OnlinePlus and a weight management companion for Weight Watchers meetings members who want to digitally manage the day-to-day aspects of their weight management plan. These products provide interactive and personalized resources that allow users to follow our weight management program via our web-based and mobile app products. 
+
+Our Online subscription products are based on the Weight Watchers approach to weight management and provide additional tools to our meetings members, as applicable. They help subscribers adopt a healthier and more active lifestyle and positive mindset, and adopt healthy habits, with a view toward long-term behavior modification—a key aspect of the Weight Watchers approach toward sustainable weight loss. These products provide subscribers with web and mobile app content, functionality and resources and interactive mobile and web-based weight management plans. We believe our personalized and interactive Online subscription products give subscribers an engaging weight management experience. Our online community, which can be accessed via the web and the Connect feature in our mobile app, gives our subscribers a way to stay virtually connected, and support and motivate each other. 
+
+We believe that mobile weight management tools and resources are an important market opportunity for us. Our mobile phone (iPhone® and Android™) and iPad® apps provide commitment plan purchasers and Online subscribers with access to a suite of weight-loss tools, such as recipe and tracking tools, as well as other helpful content and the ability to scan the barcodes of food products for their SmartPoints values. We are continuing to upgrade the design, usability and features of, as well as improve the capabilities of, our digital products, including integrating with popular activity-tracking devices and wireless weight scales. As of the end of fiscal 2017, we had approximately 2.0 million Online subscribers. 
+
+Our Consumer Product Sales 
+
+We sell a range of consumer products, including bars, snacks, cookbooks, food and restaurant guides with SmartPoints values and Weight Watchers magazines, and certain third-party products. These products complement our weight management program and help our customers in their weight management efforts. We have focused on selling products that drive recurring purchases. Our products are designed to be high quality and offer benefits related to the Weight Watchers program.
+
+We sell our products through our meetings business, online and to our franchisees. Excluding sales to or by our franchisees, in fiscal 2017, sales of products in our meetings business and online represented approximately 13.2% of our revenues. We seek to optimize our product offerings by updating existing products, selectively introducing new products and sharing best practices across geographies. Additionally, non-members and non-subscribers can also purchase our products through our ecommerce platforms. 
+
+3
+
+Licensing and Endorsements 
+
+We license the Weight Watchers trademarks and our other intellectual property in certain categories of food, beverages and other relevant consumer products and services. We also endorse carefully selected branded consumer products and services. By partnering with carefully selected companies in categories relevant and helpful to weight- and health-conscious consumers, we have a high margin licensing business that gives us access to these consumers and also increases the awareness of our brands. In connection with our acquisition from the H.J. Heinz Company, or Heinz, in September 1999, Heinz received a perpetual royalty-free license to continue using our brand in certain food categories. We believe that the strength of the Weight Watchers brands will create new long-term licensing and partnership opportunities for us.
+
+Publishing 
+
+Weight Watchers magazines are published in most of our major markets. We also issue other publications, such as cookbooks and food and restaurant guides with SmartPoints values, which complement our weight management program. 
+
+Health Solutions
+
+As healthcare costs continue to be a significant concern on the minds of employers and their employees, we believe that our broad range of services and products uniquely positions us to serve the market and help employers reduce their healthcare costs and improve the overall well-being of their employees. Our strategy is focused on leveraging our organizational capability to serve companies of every size and type by offering convenient and flexible weight-loss solutions that include workplace meetings, local community meetings and access to Weight Watchers Online. 
+
+We believe the healthcare market represents an important channel to reach new consumers. We continue to explore different approaches to this market. 
+
+Our Clinical Efficacy and Reputation in the Marketplace 
+
+Weight Watchers is one of the most clinically-studied commercial weight management programs, with dozens of peer-reviewed publications in the last 20 years. For example, in 2017, a randomized controlled trial conducted by research teams at the University of Cambridge, the University of Liverpool and the University of Oxford and partially funded by us was published in The Lancet and found that adults with obesity referred to Weight Watchers for one year lost significantly more weight and were able to keep it off for longer compared to those who either received brief advice and self-help materials, or who were referred to a 12-week Weight Watchers program. It also found that those adults on both the 12- and 52-week Weight Watchers program had greater blood sugar control and greater reductions in body fat than those on the brief intervention program. In 2016, a randomized controlled trial conducted by the Indiana University School of Medicine and funded by us was published in the American Journal of Public Health and found that adults with prediabetes following the Weight Watchers for Prediabetes program lost significantly more weight and experienced better blood sugar control than those following a self-initiated diabetes prevention program using supplemental counseling materials. Similarly, in 2016, a randomized controlled trial conducted by The Medical University of South Carolina and funded by us was published in Obesity and found that adults with Type 2 diabetes who followed the Weight Watchers for Diabetes program lost significantly more weight and experienced better blood sugar control than those in a standard diabetes care program. 
+
+In 2017, a six-month clinical trial of the WW Freestyle program conducted by the University of North Carolina Weight Research Lab and funded by us found that participants on the program experienced an average weight loss of 7.9% after six months, and among those participants who reported trying to lose weight in the past, 82.2% of participants reported that the program is easier to do and 92.6% reported that it gives them more flexibility in their food choices compared to other times they have tried to lose weight in the past. Our efficacy and the value of our offerings are also well-acknowledged in the marketplace. For instance, in 2018, we again were recognized by U.S. News & World Report in the “2018 Best Diets” rankings, including ranking #1 for “Best Weight-Loss Diet” and “Best Commercial Diet Plan” and tying for #1 for “Best Fast Weight-Loss Diet.” 
+
+4
+
+Marketing and Promotion 
+
+Our communications with consumers and other promotional efforts enhance our brand image and awareness, and motivate both former and potential new customers to join Weight Watchers meetings or purchase our Online products. In October 2015, we entered into a Strategic Collaboration Agreement with Oprah Winfrey, pursuant to which, among other things, Ms. Winfrey provides us with services in her discretion to promote the Company and our programs, products and services, including in advertisements and promotions, and making personal appearances on our behalf. For example, in fiscal 2018, as part of our collaboration with Ms. Winfrey, she is appearing in our advertising campaign in the United States. Further information on this agreement and our partnership with Ms. Winfrey can be found below under “—History—Winfrey Transaction.” 
+
+We advertise primarily in national media vehicles (television, digital, print, radio, etc.), which are selected based on their efficiency and effectiveness in reaching our target audience. We develop and maintain a high level of engagement with current and potential customers on various social media platforms including Facebook, Instagram and Twitter. While our traditional advertising schedule generally supports the three key marketing campaigns of the year, winter, spring and fall, we communicate with consumers in the digital space throughout the year. Also, we utilize brand ambassadors, spokespersons and social media influencers, including from time to time celebrities, as part of our advertising and marketing. 
+
+In addition to the above advertising channels, we take advantage of other channels for which we are uniquely positioned given our long history and network of Weight Watchers leaders, members and subscribers. The word of mouth generated by our current and former customers, combined with our strong brand and known effectiveness, enable us to attract new and returning customers. We also carry out many of our key public relations initiatives through the efforts of current and former Weight Watchers leaders, members and subscribers, including from time to time celebrities. 
+
+Additionally, Weight Watchers Magazine reinforces the value of our brand and serves as an important marketing tool to both current and potential customers. We also utilize mailing campaigns and the WeightWatchers.com website to attract new and returning customers and to engage current customers. 
+
+Seasonality 
+
+Our business is seasonal due to the importance of the winter season to our overall recruitment environment. Our advertising schedule generally supports the three key recruitment-generating seasons of the year: winter, spring and fall, with winter having the highest concentration of advertising spending. 
+
+Competition 
+
+We compete in the global weight management and wellness market. The weight management and wellness industries include commercial weight management programs; hardware and software-based mobile app and web-based weight management programs and approaches; surgical procedures; the pharmaceutical industry; self-help weight management regimens and other self-help weight management products, services and publications, such as books, magazines, websites and social media groups; dietary supplements and meal replacement products; healthy living services, products and publications; weight management services administered by doctors, nutritionists and dieticians; government agencies and non-profit groups that offer weight management services; fitness centers and national drug store chains. 
+
+Competition among commercial weight management programs is largely based on program recognition and reputation and the effectiveness, safety and price of the program. In the United States, we compete with several other companies in the commercial weight management industry, although we believe that their businesses are not comparable to ours. For example, many of these competitors’ businesses are based on the sale of pre-packaged meals and meal replacements. In conjunction with a flexible food plan that allows customers the freedom to choose what they eat, our program uses group support and interactive, member-driven discussions to encourage learning and behavior modification to help our customers move towards a healthier, more active, more fulfilling life and adopt healthy habits. There are no significant group education-based competitors in any of our major markets, except in the United Kingdom. 
+
+5
+
+We believe that food manufacturers that produce meal replacement products are not comparable competition because these businesses’ meal replacement products do not engender behavior modification through education in conjunction with a flexible, healthy food plan. 
+
+We also compete with various self-help diets, products, services and publications, such as free mobile and other weight management apps. 
+
+Trademarks, Patents and Other Proprietary Rights 
+
+We own numerous domestic and international trademarks, patents and other proprietary rights that are valuable assets and are important to our business. Depending upon the jurisdiction, trademarks are valid as long as they are used in the regular course of trade and/or their registrations are properly maintained. Patent protection extends for varying periods according to the date of patent filing or grant and the legal term of patents in the jurisdiction in which the patent is granted. The actual protection afforded by a patent may vary from country to country depending upon the type of patent, the scope of its coverage and the availability of legal remedies in the country. We believe the protection of our trademarks, copyrights, patents, domain names, trade dress and trade secrets is important to our success. We aggressively protect our intellectual property rights by relying on a combination of trademark, copyright, patent, trade dress, trade secret and other intellectual property laws, and through domain name dispute resolution systems. 
+
+History 
+
+Early Development 
+
+In 1961, Jean Nidetch, our founder, attended a New York City obesity clinic and took what she learned from her personal experience at the obesity clinic and began weight-loss meetings with a group of her overweight friends in the basement of a New York apartment building. Under Ms. Nidetch’s leadership, the group members supported each other in their weight-loss efforts, and word of the group’s success quickly spread. Ms. Nidetch and Al and Felice Lippert, who all successfully lost weight through these efforts, formally launched our business in 1963. Weight Watchers International, Inc. was incorporated as a Virginia corporation in 1974 and succeeded to the business started in New York in 1963. Heinz acquired us in 1978. 
+
+Artal Ownership 
+
+In September 1999, Artal Luxembourg S.A., or Artal Luxembourg, acquired us from Heinz. Artal Luxembourg is an indirect subsidiary of Artal Group S.A., or Artal Group, which together with its parents and its subsidiaries is referred to in this Annual Report on Form 10-K as Artal. Currently, Artal Luxembourg is the record holder of all our shares owned by Artal. 
+
+WeightWatchers.com Acquisition 
+
+In July 2005, we acquired control of our licensee and affiliate, WeightWatchers.com, Inc., by increasing our ownership interest from approximately 20% to approximately 53%. Subsequently, in December 2005, WeightWatchers.com, Inc. redeemed all shares owned by Artal in it, resulting in our current ownership of 100% of WeightWatchers.com, Inc. 
+
+6
+
+Winfrey Transaction 
+
+On October 18, 2015, we entered into a Strategic Collaboration Agreement with Ms. Winfrey, or the Strategic Collaboration Agreement, pursuant to which Ms. Winfrey granted us the right to use, subject to her approval, her name, image, likeness and endorsement for and in connection with the Company and its programs, products and services (including in advertising, promotion, materials and content), and we granted Ms. Winfrey the right to use our WEIGHT WATCHERS marks to collaborate with and promote the Company and its programs, products and services. The Strategic Collaboration Agreement has an initial term of five years, with additional successive one year renewal terms. During this period, Ms. Winfrey will consult with us and participate in developing, planning, executing and enhancing the Weight Watchers program and related initiatives, and provide us with services in her discretion to promote the Company and its programs, products and services, including in advertisements and promotions, and making personal appearances on our behalf. Ms. Winfrey will not grant anyone but the Company the right to use her name, image, likeness or endorsement for or in connection with any other weight loss or weight management programs during the term of the Strategic Collaboration Agreement, and she will not engage in any other weight loss or weight management business, program, products, or services during the term of the Strategic Collaboration Agreement and for one year thereafter. 
+
+On that same date, we entered into a Share Purchase Agreement with Ms. Winfrey, or the Winfrey Purchase Agreement, pursuant to which we issued and sold to Ms. Winfrey an aggregate of 6,362,103 shares of our common stock for an aggregate cash purchase price of $43,198,679. The purchased shares are subject to certain transfer restrictions and a right of first offer and right of first refusal held by the Company. Under the Winfrey Purchase Agreement, Ms. Winfrey has certain demand registration rights and piggyback rights with respect to these purchased shares. The Winfrey Purchase Agreement also provides Ms. Winfrey with the right to be nominated as director of the Company for so long as she and certain permitted transferees own at least 3% of our issued and outstanding common stock. 
+
+In consideration of Ms. Winfrey entering into the Strategic Collaboration Agreement and the performance of her obligations thereunder, on October 18, 2015, we granted Ms. Winfrey a fully vested option to purchase 3,513,468 shares of our common stock, or the Winfrey Option, which remains outstanding in full. The term sheet for the Winfrey Option, which includes the terms and conditions appended thereto, relating to the grant of the Winfrey Option is referred to herein as the Winfrey Option Agreement. The Winfrey Option is exercisable at a price of $6.97 per share, in whole or in part, at any time prior to October 18, 2025, subject to earlier termination under certain circumstances, including if (i) the Strategic Collaboration Agreement expires as a result of Ms. Winfrey’s decision not to renew the term of such agreement and (ii) a change in control (as defined in the Winfrey Option Agreement) of the Company occurs. The shares issuable upon exercise of the Winfrey Option are subject to certain transfer restrictions and a right of first offer and right of first refusal held by the Company. 
+
+In connection with Ms. Winfrey’s purchase of our common stock and the grant of the Winfrey Option described above, Artal Luxembourg entered into a Voting Agreement with Ms. Winfrey on October 18, 2015, or the Voting Agreement, pursuant to which Ms. Winfrey agreed to vote all of her common stock or preferred stock of the Company and other securities convertible into or exercisable or exchangeable for any common stock or preferred stock of the Company so as to elect as directors such nominees designated by Artal. The Voting Agreement terminates on the date that any of the following occurs: (i) Artal (and certain permitted transferees) and Ms. Winfrey (and certain permitted transferees) collectively own less than 50% of our issued and outstanding common stock, (ii) Ms. Winfrey then has the right to be nominated as a director and has met certain eligibility requirements under the Winfrey Purchase Agreement, but is not elected as a director of the Company, (iii) Ms. Winfrey (and certain permitted transferees) collectively own less than 1% of our issued and outstanding common stock, (iv) the voting and related arrangements in the Voting Agreement, in our reasonable determination, constitutes a “change of control” in any of our debt agreements or (v) the parties to the Voting Agreement terminate such agreement by written consent. 
+
+As a result of entering into the Voting Agreement, Artal and Ms. Winfrey are acting as a “group” within the meaning of Section 13(d)(3) or Section 14(d)(2) of the Securities Exchange Act of 1934, as amended, or the Exchange Act. As a result, we continue to qualify as a “controlled company” under the applicable rules of The New York Stock Exchange, or the NYSE. 
+
+7
+
+The transactions contemplated by the Strategic Collaboration Agreement, Winfrey Purchase Agreement and Winfrey Option Agreement are collectively referred to herein as the Winfrey Transaction. 
+
+Regulation 
+
+A number of laws and regulations govern our advertising and marketing, services, products, operations and relations with consumers, licensees, franchisees, employees and other service providers and government authorities in the countries in which we operate. Certain federal, state and foreign agencies, such as the U.S. Federal Trade Commission, or FTC, and the U.S. Food and Drug Administration, or FDA, regulate and enforce such laws and regulations relating to advertising and marketing, promotions, packaging, privacy, consumer pricing and billing arrangements and other consumer protection matters. We are subject to many distinct employment, labor, commercial, benefits and tax laws and regulations in each country in which we operate, including regulations affecting our employment and wage and hour practices and our relations with our employees and service providers. Laws and regulations directly applicable to data protection and communications, operations or commerce over the Internet, such as those governing intellectual property, privacy and taxation, continue to evolve. Our operations are subject to these laws and regulations and we continue to monitor their development and our compliance. In addition, we are subject to other laws and regulations in the United States and internationally. 
+
+During the mid-1990s, the FTC filed complaints against a number of commercial weight management providers alleging violations of federal law in connection with the use of advertisements that featured testimonials, claims for program success and program costs. In 1997, we entered into a consent order with the FTC settling all contested issues raised in the complaint filed against us. The consent order required us to comply with certain procedures and disclosures in connection with our advertisements of services and products and expired by its terms in 2017. From time to time, we have been in discussions with the FTC regarding such matters.
+
+Employees and Service Providers 
+
+As of December 30, 2017, we had approximately 18,000 employees, a majority of whom were part-time employees. In addition, in certain of our markets, our service providers are self-employed and are not included in this total. We consider our relations with our employees and service providers to be satisfactory. 
+
+Available Information 
+
+Corporate information and our press releases, Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, and amendments thereto, are available free of charge on our website at www.weightwatchersinternational.com as soon as reasonably practicable after such material is electronically filed with or furnished to the Securities and Exchange Commission (i.e., generally the same day as the filing), or the SEC. Moreover, we also make available at that site the Section 16 reports filed electronically by our officers, directors and 10 percent shareholders. Usually these reports are publicly accessible no later than the business day following the filing. 
+
+We use our website at www.weightwatchersinternational.com and our corporate Facebook page (www.facebook.com/weightwatchers), Instagram account (Instagram.com/weightwatchers) and Twitter account (@weightwatchers) as channels of distribution of Company information. The information we post through these channels may be deemed material. Accordingly, investors should monitor these channels, in addition to following our press releases, SEC filings and public conference calls and webcasts. The contents of our website and social media channels shall not be deemed to be incorporated herein by reference.
+
+Our Amended and Restated Code of Business Conduct and Ethics, or the Code of Business Conduct and Ethics, and our Corporate Governance Guidelines are also available on our website at www.weightwatchersinternational.com. 
+
+8
+
+CAUTIONARY NOTICE REGARDING FORWARD-LOOKING STATEMENTS
+
+Except for historical information contained herein, this Annual Report on Form 10-K includes “forward-looking statements,” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act, including, in particular, the statements about our plans, strategies and prospects under the headings “Business” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” We have generally used the words “may,” “will,” “could,” “expect,” “anticipate,” “believe,” “estimate,” “plan,” “intend” and similar expressions in this Annual Report on Form 10-K and the documents incorporated by reference herein to identify forward-looking statements. We have based these forward-looking statements on our current views with respect to future events and financial performance. Actual results could differ materially from those projected in these forward-looking statements. These forward-looking statements are subject to risks, uncertainties and assumptions, including, among other things: 
+
+9
+
+You should not put undue reliance on any forward-looking statements. You should understand that many important factors, including those discussed under the headings “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” could cause our results to differ materially from those expressed or suggested in any forward-looking statement. Except as required by law, we do not undertake any obligation to update or revise these forward-looking statements to reflect new information or events or circumstances that occur after the date of this Annual Report on Form 10-K or to reflect the occurrence of unanticipated events or otherwise.  
+
+10
+
+You should consider carefully, in addition to the other information contained in this Annual Report on Form 10-K and the exhibits hereto, the following risk factors in evaluating our business. Our business, financial condition or results of operations could be materially adversely affected by any of these risks. The following discussion of risks is not all inclusive but is designed to highlight what we believe are the most significant risks that we face. Additional risks and uncertainties, not presently known to us or that we currently deem immaterial, may also impair our business, financial condition or results of operations. 
+
+Competition from other weight management and wellness industry participants or the development of more effective or more favorably perceived weight management methods could result in decreased demand for our services and products. 
+
+The weight management and wellness marketplace is highly competitive. We compete against a wide range of providers of weight management services and products. Our competitors include: commercial weight management programs; hardware and software-based mobile app and web-based weight management programs and approaches; surgical procedures; the pharmaceutical industry; self-help weight management regimens and other self-help weight management products, services and publications, such as books, magazines, websites and social media groups; dietary supplements and meal replacement products; healthy living services, products and publications; weight management services administered by doctors, nutritionists and dieticians; government agencies and non-profit groups that offer weight management services; fitness centers and national drug store chains. Additional competitors may emerge as new or different weight management services, products or methods are developed and marketed. Furthermore, existing competitors may enter new markets or expand their offerings. More effective or more favorably perceived diet and weight management methods, including pharmaceutical treatments, fat and sugar substitutes or other technological and scientific advancements in weight management methods, also may be developed. This competition may reduce demand for our services and products. 
+
+The purchasing decisions of weight management and healthy living consumers are highly subjective and can be influenced by many factors, such as brand image, marketing programs, cost, consumer trends and perception of the efficacy of the service and product offerings. Moreover, consumers can, and frequently do, change approaches easily and at little cost. For example, fad diets and weight loss trends, such as low-carbohydrate diets, have adversely affected our revenues from time to time. More recently, our revenue was adversely affected by the popularity of mobile technology, which has led to increased trial of free mobile and other weight management apps and activity monitors. Any decrease in demand for our services and products may adversely affect our business, financial condition or results of operations. 
+
+11
+
+If we do not continue to develop new, innovative services and products or if our services, products or brands do not continue to appeal to the market, or if we are unable to successfully expand into new channels of distribution or respond to consumer trends, our business may suffer. 
+
+The weight management and wellness marketplace is subject to changing consumer demands based, in large part, on the efficacy and popular appeal of weight management and healthy living programs. The popularity of weight management and healthy living programs is dependent, in part, on their ease of use, cost and channels of distribution as well as consumer trends. For example, consumers are increasingly focusing on more integrated lifestyle and fitness approaches and may associate our program with just food, nutrition and diet, which could adversely impact its popularity. Our future success depends on our ability to continue to develop and market new, innovative services and products and to enhance our existing services and products, each on a timely basis, to respond to new and evolving consumer demands, achieve market acceptance and keep pace with new nutritional, weight management, healthy living, technological and other developments. We may not be successful in developing, introducing on a timely basis or marketing any new or enhanced services and products. Additionally, new or enhanced services or products may not appeal to the market or the market’s perception of us.  As we announce new articulations of our brands and we adopt new trademarks, the marketplace may not embrace or accept them and it may take time to build their reputation and goodwill, both with consumers and with our partners. Our future success also will depend, in part, on our ability to successfully distribute our services and products through appealing channels of distribution, such as mobile or social media. Our failure to develop new, innovative services and products and to enhance our existing services and products, the failure of our services, products or brands to continue to appeal to the market or the failure to expand into appealing new channels of distribution could have an adverse impact on our ability to attract and retain members and subscribers and thus adversely affect our business, financial condition or results of operations. 
+
+We may not be able to successfully implement new strategic initiatives, which could adversely impact our business. 
+
+We are continuously evaluating changing consumer preferences and the competitive environment of the weight management and healthy living marketplace and seeking out opportunities to improve our performance through the implementation of selected strategic initiatives, such as our healthcare initiative. The goal of these efforts is to develop and implement a comprehensive and competitive business strategy which addresses the continuing changes in the weight management and healthy living marketplace and our position within that marketplace. For example, as the healthcare industry continues to evolve its response to the obesity epidemic so do the requirements, both regulatory and business, for providers. If we do not successfully meet these requirements, we may not be perceived as an appropriate partner for certain purposes. We may not be able to successfully implement our strategic initiatives and realize the intended business opportunities, growth prospects, including new business channels, and competitive advantages. Our efforts to capitalize on business opportunities may not bring the intended results. Assumptions underlying expected financial results or consumer demand may not be met or economic conditions may deteriorate. We also may be unable to attract and retain highly qualified and skilled personnel to implement our strategic initiatives. If these or other factors limit our ability to successfully execute our strategic initiatives, our business activities, financial condition or results of operations may be adversely affected. 
+
+Our business depends on the effectiveness of our advertising and marketing programs, including the strength of our social media presence, to attract and retain members and subscribers. 
+
+Our business success depends on our ability to attract and retain members to our meetings and subscribers to our Online products. Our ability to attract and retain members and subscribers depends significantly on the effectiveness of our advertising and marketing practices. From time-to-time, we use the success stories of our members and subscribers, and utilize brand ambassadors, spokespersons and social media influencers, including in some cases celebrities, in our advertising and marketing programs to communicate on a personal level with consumers. Actions taken by these individuals that harm their personal reputation or image, or include the cessation of using our services and products, could have an adverse impact on the advertising and marketing campaigns in which they are featured. We, and from time-to-time our brand ambassadors, spokespersons and social media influencers, also use social media channels as a means of communicating with consumers. Unauthorized or inappropriate use of these channels could result in harmful publicity or negative consumer experiences, which could have an adverse impact on the effectiveness of our marketing in these channels. In addition, substantial negative commentary by others on social media platforms could have an adverse impact on our reputation and ability to attract and retain members and subscribers. If our advertising and marketing campaigns do not generate a sufficient number of members and subscribers, our business, financial condition and results of operations will be adversely affected. 
+
+12
+
+The Weight Watchers reputation could be impaired due to actions taken by our franchisees, licensees, suppliers and other partners. 
+
+We believe that the Weight Watchers brands, including their widespread recognition and strong reputation and goodwill in the market, are one of our most valuable assets and they provide us with a competitive advantage. Our franchisees operate their businesses under our brands. In addition, we license the Weight Watchers trademarks to third parties for the manufacture and sale in retail stores by such parties of a variety of goods, including food products, and also endorse third-party branded consumer products and services. We also sell through a variety of channels, including in our meeting rooms, food and non-food products manufactured by third-party suppliers. Our franchisees, licensees, suppliers and other partners are independent third parties with their own financial objectives, third-party relationships and brand associations. Actions taken by them, including violations of generally accepted ethical business practices or breaches of law or contractual obligations, such as not following our program or not maintaining our quality and safety standards, could harm our reputation. Also, Weight Watchers products may be subject to product recalls, brand confusion, litigation or other deficiencies, which could harm our brands. Any negative publicity associated with these actions or these third parties would adversely affect our reputation and may result in decreased recruitment, meeting attendance, Online product subscriptions and product sales and, as a result, lower revenues and profits. 
+
+Our substantial amount of debt and our debt service obligations could adversely affect our financial condition, and the restrictions of our debt covenants could impede our operations and flexibility. 
+
+As of December 30, 2017, our total debt was $1,865.0 million. In addition, at December 30, 2017, we had $123.7 million available under our revolving credit facility. $1,565.0 million of our debt consists of variable-rate instruments so we are subject to the risk of higher interest rates. We seek to manage our exposure to interest rates through interest rate swaps. At the end of fiscal 2017, we had in effect an interest rate swap with a notional amount of $1.25 billion.
+
+Our high degree of debt leverage could have significant consequences, including the following:
+
+Our credit facilities and the indenture governing our notes permit us to incur additional indebtedness in the future.  If we incur additional indebtedness, the risks we face as a result of our leverage could intensify.  
+
+13
+
+While there is no net debt to EBITDA (earnings before interest, taxes, depreciation and amortization) leverage ratio maintenance requirement on the debt outstanding under our credit facilities, our credit facilities and the indenture governing our notes contain customary covenants for a non-investment grade company, including covenants that in certain circumstances restrict our ability to incur additional indebtedness and liens, pay dividends on and redeem capital stock, make investments, sell our assets and enter into acquisitions, mergers and transfers of all or substantially all of our assets, prepay subordinated debt and enter into transactions with affiliates, in each case subject to baskets, thresholds and other exceptions. Under the terms of our credit facilities, depending on our leverage ratio, we are obligated to offer to prepay our term loan facilities in an aggregate amount determined by our excess cash flow. In addition, our revolving credit facility includes a maintenance covenant that requires compliance with certain first lien secured net leverage ratios when the aggregate principal amount of all revolving loans plus available, undrawn letters of credit and unreimbursed letters of credit (subject to customary exceptions and thresholds) exceeds 33 1/3% of the amount of the lenders’ revolving commitments. 
+
+Our failure to comply with these covenants could result in an acceleration of our debt, cause cross-defaults under our other debt, lead to the foreclosure on assets collateralizing secured debt (and the lenders of that secured debt would rank ahead of the holders of unsecured debt, including our notes, in the proceeds of those assets) and result in our lenders terminating all commitments to extend further credit. If our indebtedness is accelerated, we may not be able to repay our indebtedness, and we may not be able to borrow sufficient funds to refinance such indebtedness. Any such prepayment or refinancing could adversely affect our financial condition and liquidity. In addition, if we incur additional debt in the future, we may be subject to additional covenants, which may be more restrictive than those to which we are currently subject. 
+
+We may not be able to generate sufficient cash to service all of our debt and satisfy our other liquidity requirements. 
+
+Our ability to make scheduled payments on or to refinance our debt obligations and to fund our planned capital expenditures and other ongoing liquidity needs depends on our future performance, which may be affected by financial, business, economic, demographic and other factors, such as attitudes toward weight management and pressure from our competitors. We have a term loan facility in an aggregate principal amount of $1,540.0 million due in November 2024, a revolving credit facility of $150.0 million due in November 2022 and $300.0 million in aggregate principal amount of outstanding 8.625% senior notes due in December 2025. We expect to pay the principal and interest due on the term loan facility and our notes from a combination of our cash flows provided by operating activities and by opportunistically using other means to repay or refinance our obligations as we determine appropriate. There can be no assurance that we will maintain a level of cash flows provided by operating activities in an amount sufficient to permit us to pay the principal and interest on all of our outstanding debt. 
+
+If our cash flows and capital resources are insufficient to fund our debt service obligations, we may be forced to reduce or delay investments and capital expenditures, or to sell assets, seek additional capital or restructure or refinance our indebtedness. Our ability, if any, to restructure or refinance our debt will depend on the condition of the capital markets and our financial condition at such time. Any refinancing of our debt, if available on acceptable terms or at all, could be at higher interest rates and may require us to comply with more onerous covenants, which could further restrict our business operations. The terms of existing or future debt instruments may restrict us from adopting some of these alternatives. In addition, any deterioration in our performance may result in a reduction of our credit rating, which could harm our ability to incur additional indebtedness or the ability to refinance our debt obligations on favorable terms or at all.  
+
+14
+
+Any failure of our technology or systems to perform satisfactorily could result in an adverse impact on our business. 
+
+We rely on software, hardware, network systems and similar technology, including cloud-based technology, that is either developed by us or licensed from or maintained by third parties to operate our websites, Online subscription product offerings and other services and products such as the recurring billing system associated with certain of our commitment plans, and to support our business operations. As much of this technology is complex, there may be future errors, defects or performance problems, including when we update our technology or integrate new technology to expand and enhance our capabilities. Our technology may malfunction or suffer from defects that become apparent only after extended use. The integrity of our technology may also be compromised as a result of third-party cyber-attacks, such as hacking, spear phishing campaigns and denial of service (DOS) attacks, which are increasingly negatively impacting companies. In addition, our operations depend on our ability to protect our information technology systems against damage from third-party cyber-attacks, fire, power loss, water, earthquakes, telecommunications failures and similar unexpected adverse events. Interruptions in our websites, services and products or network systems could result from unknown technical defects, insufficient capacity or the failure of our third party providers to provide continuous and uninterrupted service. While we maintain disaster recovery capabilities to return to normal operation in a timely manner, we do not have a fully redundant system that includes an instantaneous recovery capability. 
+
+As a result of such possible defects, failures, interruptions or other problems, our services and products could be rendered unreliable or be perceived as unreliable by customers, which could result in harm to our reputation and brands. Any failure of our technology or systems could result in an adverse impact on our business. 
+
+Our reputation and the appeal of our services and products may be harmed by security breaches or privacy concerns. 
+
+Breaches of security, vandalism and other malicious acts, which are increasingly negatively impacting companies, could result in unauthorized access to proprietary or customer information or data, including credit card transaction data, or cause interruptions to our services and products. Such unauthorized access or interruptions could harm our reputation, expose us to liability claims and may result in the loss of existing or potential customers. We rely upon sophisticated information technology systems to operate our business. In the ordinary course of business, we collect, store and utilize confidential information (including, but not limited to, personal customer information and data), and it is critical that we do so in a secure manner to maintain the confidentiality and integrity of such confidential information as well as comply with applicable regulatory requirements and contractual obligations. 
+
+We also have outsourced significant elements of our information technology infrastructure and, as a result, we are managing many independent vendor relationships with third parties who may or could have access to our confidential information. The size and complexity of our information technology and information security systems, and those of our third-party vendors with whom we contract, make such systems potentially vulnerable to security breaches. While we have invested and developed systems and processes designed to protect such proprietary or customer information or data, there can be no assurance that our efforts will prevent service interruptions or security breaches. 
+
+Many jurisdictions require that customers be notified if a security breach results in the disclosure of their personal financial account or other information, and additional jurisdictions and governmental entities are considering such laws. In addition, other public disclosure laws may require that material security breaches be reported. If we experience a security breach and such notice or public disclosure is required in the future, our reputation and our business may be harmed. Prospective and existing customers and clients may have concerns regarding our use of private information or data collected on our websites or through our services and products, such as weight management information, financial data, email addresses and home addresses. These privacy concerns could keep customers and clients from using our websites or purchasing our services or products, and third parties from partnering with us. 
+
+In addition, the transmission of computer viruses, or similar malware, could adversely affect our information technology systems and harm our business operations. As a result, it may become necessary to expend significant additional amounts of capital and other resources to protect against, or to alleviate, problems caused by security breaches. These expenditures, however, may not prove to be a sufficient remedy. 
+
+15
+
+We may be required to recognize asset impairment charges for indefinite- and definite-lived assets. 
+
+In accordance with GAAP (as defined hereafter), we perform impairment reviews of our indefinite-lived assets, which include franchise rights acquired and goodwill, on at least an annual basis or more often if events so require. We also continually evaluate whether current factors or indicators, such as the deterioration in relevant, country macroeconomic conditions, an increased competitive environment, a decline in our financial performance, and/or other prevailing conditions in the capital markets, require the performance of an interim impairment assessment of those assets. The process of testing franchise rights acquired, goodwill and other indefinite-lived assets for impairment involves numerous judgments, assumptions and estimates made by management which inherently reflect a high degree of uncertainty. Certain factors, including the future profitability of our businesses, the price of our stock and macroeconomic conditions (both at the global and local levels), might have a negative impact on the fair value of these assets. In fiscal 2017, we recorded a $13.3 million impairment charge for goodwill related to our Brazil reporting unit. We may incur additional impairment charges in the future, which would have an adverse impact on our results of operations. See “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Critical Accounting Policies” in Part II of this Annual Report on Form 10-K for additional information. 
+
+Additionally, we evaluate definite-lived assets, both tangible, which includes our physical plant and equipment, and intangible, which includes both internally developed and purchased software, for impairment by comparing the net realizable value of the asset to the carrying value of the capitalized cost. If the value of those assets is not deemed to be recoverable, an assessment of the fair value of those assets is performed and to the extent the carrying value exceeds the fair value an impairment charge is recognized. Should our investment in capitalized definite-lived assets become impaired, there would also be an adverse impact on our results of operations. 
+
+Loss of key personnel, strategic partners or consultants or failure to effectively manage and motivate our workforce could negatively impact our sales of services and products, business, financial condition and results of operations. 
+
+We depend on senior management and other key personnel and consultants, and the loss of certain personnel or consultants could result in the loss of management continuity and institutional knowledge and negatively affect our brand image and goodwill. In October 2015, Ms. Winfrey and the Company entered into a long-term, strategic partnership, which included her making a substantial equity investment in the Company, joining our Board of Directors, providing certain consulting services and granting us the right to use her name and marks. Our ability to maintain our brand image and leverage the goodwill associated with Ms. Winfrey’s name may be damaged if we were to lose her services or if the nature of our partnership changes. The loss of Ms. Winfrey’s services or partnership with us for any reason (including as a result of her death or disability), any negative market or industry perception with respect to her or her participation in the Company’s programs, or the failure by Ms. Winfrey to provide services in her discretion to promote the Company, our programs, services and products or to consult with us and participate in developing, planning, executing and enhancing our programs and related initiatives, all in accordance with our strategic partnership arrangements with her, could have an adverse effect on our business, financial condition and results of operations. 
+
+We also depend heavily upon our service providers to support our customers in their weight management efforts. If we fail to appropriately manage and motivate our service providers, we may not be able to adequately service our customers which could negatively impact our sales of services and products. Changes in factors such as overall unemployment levels, local competition for qualified personnel, prevailing wage rates and employment law, as well as rising employee benefits costs, including insurance in the areas in which we operate, could increase our labor costs and interfere with our ability to adequately retain qualified individuals to provide support to customers. Additionally, our inability to attract and retain qualified service providers could delay or hinder our successfully executing our strategic initiatives. 
+
+16
+
+The inability to renew certain of our licenses, or the inability to do so on terms that are favorable to us, could have a material adverse effect on our financial results. 
+
+We have entered into licensing and endorsement relationships with numerous partners for the distribution and sale of certain products and services that are relevant and helpful to weight- and health-conscious consumers. These arrangements are typically for fixed terms, following which the parties decide whether to extend the term of the arrangement. There is no guarantee that we will reach mutually agreeable terms with our partners for extending an arrangement. Similarly, in those instances where a licensee enjoys the option to extend the term of a license as a result of having achieved certain conditions, there is no guarantee that the licensee will avail itself of such option. Our financial results could be materially adversely affected if we are unable to extend a licensing or endorsement arrangement, if we are unable to do so on terms favorable to us, or if we cannot locate a suitable alternative to an incumbent licensee who has decided not to renew its arrangement. 
+
+Expiration or early termination by us of leases could have an adverse impact on our financial results. 
+
+Our operations, including corporate headquarters and back-office and customer service operations, are located in leased office space and many of our meetings are held in leased space in retail centers. As leases expire, we may not be able to renew them on acceptable terms or secure suitable replacement locations. If we decide to relocate or close meeting locations before the expiration of the applicable lease term, we may incur payments to landlords to terminate or “buy out” the remaining term of the lease. Any of the above events could adversely impact our financial results. 
+
+Our international operations expose us to regulatory, economic, political and social risks in the countries in which we operate. 
+
+The international nature of our operations involves a number of risks, including changes in U.S. and foreign regulations, tariffs, taxes and exchange controls, economic downturns, inflation and political and social instability in the countries in which we operate and our dependence on foreign personnel. Foreign regulations may also restrict our ability to operate in some countries, acquire new businesses, recur bill our customers or repatriate cash from foreign subsidiaries back to the United States. If we expand our operations into additional foreign countries, we may be subject to additional risks, including the ability to successfully adapt to local culture and navigate regulatory, economic, political and social risks. We cannot be certain that we will be able to enter and successfully compete in additional foreign markets or that we will be able to continue to compete in the foreign markets in which we currently operate. 
+
+We are exposed to foreign currency risks from our international operations that could adversely affect our financial results. 
+
+A significant portion of our revenues and operating costs are denominated in foreign currencies. We are therefore exposed to fluctuations in the exchange rates between the U.S. dollar and the currencies in which our foreign operations receive revenues and pay expenses. We do not currently hedge, and have not historically hedged, our operational exposure to foreign currency fluctuations. Our consolidated financial results are presented in U.S. dollars and therefore, during times of a strengthening U.S. dollar, our reported international revenues and earnings will be reduced because the local currency will translate into fewer U.S. dollars. In addition, the assets and liabilities of our non-U.S. subsidiaries are translated into U.S. dollars at the exchange rates in effect at the balance sheet date. Revenues and expenses are translated into U.S. dollars at the average exchange rate for the period. Translation adjustments arising from the use of differing exchange rates from period to period are recorded in shareholders’ equity as accumulated other comprehensive income (loss). Translation adjustments arising from intercompany receivables and payables with our foreign subsidiaries are generally recorded as a component of other expense (income). Accordingly, changes in currency exchange rates will cause our revenues, operating costs, net income and shareholders’ equity to fluctuate. For example, these changes had a negative impact on our fiscal 2015 and fiscal 2016 financial results. 
+
+17
+
+Our business may decline as a result of a downturn in general economic conditions or consumer confidence. 
+
+Our business is highly dependent on meeting fees, Online product subscriptions and product sales. A downturn in general economic conditions or consumer confidence in any of our markets could result in people curtailing or reallocating their discretionary spending which, in turn, could reduce attendance at our meetings, Online product subscriptions and product sales. Any reduction in consumer spending may adversely affect our business, financial condition or results of operations. 
+
+We may not successfully make acquisitions or enter into joint ventures and we may not successfully integrate, operate or realize the anticipated benefits of such businesses. 
+
+As part of our strategic initiatives, we may pursue selected acquisitions or joint ventures. We may not be able to effect these transactions on commercially reasonable terms or at all. Any future acquisitions or joint ventures may require access to additional capital, and we may not have access to such capital on commercially reasonable terms or at all. Even if we enter into these transactions, we may not realize the benefits we anticipate or we may experience difficulties in integrating any acquired companies, technologies and products into our existing business or in providing our services and products in newly acquired markets; attrition of key personnel from acquired businesses; significant charges or expenses; higher costs of integration than we anticipated; or unforeseen operating difficulties that require significant financial and managerial resources that would otherwise be available for the ongoing development or expansion of our existing operations. 
+
+Our ability to influence the control of, or distributions from, our joint ventures may be limited by contract or otherwise. If any of the other investors in one of our joint ventures fails to observe its commitments, or its interests are different than ours, the joint venture may not be able to operate according to its business plan, we may be required to increase our level of commitment, or such entities may take actions which are not in our best interest. If we are unable to maintain our relationships with our joint venture partners, we could lose our ability to operate in the geographies and/or markets in which they operate, which could have an adverse effect on our business, financial condition or results of operations. 
+
+Consummating these transactions could also result in the incurrence of additional debt and related interest expense, as well as unforeseen contingent liabilities, all of which could have an adverse effect on our business, financial condition or results of operations. We may also issue additional equity in connection with these transactions, which would dilute our existing shareholders. 
+
+The seasonal nature of our business could cause our operating results to fluctuate. 
+
+We have experienced and expect to continue to experience fluctuations in our quarterly results of operations due to the seasonal nature of our business. Typically, the first quarter of the fiscal year, known as our winter season, is the most important quarter for recruitments. Given the subscription nature of our products, failure to realize recruitments during the winter season could negatively impact our performance for the remainder of the year. This seasonality could cause our share price to fluctuate as the results of an interim financial period may not be indicative of our full year results. Seasonality also impacts relative revenue and profitability of each quarter of the year, both on a quarter-to-quarter and year-over-year basis. 
+
+Any event that discourages or impedes people from gathering with others or accessing resources could adversely affect our business. 
+
+Our business is subject to conditions beyond our control, including extreme weather, terrorism, health epidemics, loss of resources such as electricity and internet connections, national disasters and other extraordinary events, that may prevent or impede meeting attendance or accessing our Online products. The occurrence of any event that discourages people from gathering with others or impedes their ability to access our services and products could adversely affect our business, financial condition or results of operations. 
+
+18
+
+Third parties may infringe on our brands and other intellectual property rights, which may have an adverse impact on our business. 
+
+We currently rely on a combination of trademark, copyright, trade dress, trade secret, patent and other intellectual property laws and domain name dispute resolution systems to establish and protect our proprietary rights, including our brands. If we fail to successfully enforce our intellectual property rights, the value of our brands, services and products could be diminished and our business may suffer. Our precautions may not prevent misappropriation of our intellectual property, particularly in foreign countries where laws or law enforcement practices may not protect our proprietary rights as fully as in the United States. Any legal action that we may bring to protect our brands and other intellectual property could be unsuccessful and expensive and could divert management’s attention from other business concerns. In addition, legal standards relating to the validity, enforceability and scope of protection of intellectual property, especially in Internet-related businesses, are uncertain and evolving. These evolving legal standards may not sufficiently protect our intellectual property rights in the future. 
+
+We may be subject to intellectual property rights claims. 
+
+Third parties may make claims against us alleging infringement of their intellectual property rights. Any intellectual property claims, regardless of merit, could be time-consuming and expensive to litigate or settle and could significantly divert management’s attention from other business concerns. In addition, if we were unable to successfully defend against such claims, we may have to pay damages, stop selling the service or product or stop using the software, technology or content found to be in violation of a third party’s rights, seek a license for the infringing service, product, software, technology or content or develop alternative non-infringing services, products, software, technology or content. If we cannot license on reasonable terms, develop alternatives or stop using the service, product, software, technology or content for any infringing aspects of our business, we may be forced to limit our service and product offerings. Any of these results could reduce our revenues or our ability to compete effectively, increase our costs or harm our business. 
+
+Outcomes of litigation or regulatory actions could adversely impact our financial condition. 
+
+From time to time, we may be a party to lawsuits and regulatory actions relating to our business operations. For example, in the past, we have had disputes with our franchisees regarding operations and other contractual issues. Due to the inherent uncertainties of legal actions and regulatory proceedings, we cannot predict their outcomes with certainty. Therefore, it is possible that our results of operations, financial condition or cash flows could be adversely affected by the unfavorable resolution of one or more legal or regulatory actions. As we expand our wellness offerings, consumers may misconstrue our program as providing medical advice. As we clearly state in our consumer communications, most of our service providers do not have extensive training or certification in nutrition, diet or health fields beyond the training they receive from us. Despite our disclaimers, as more customers come to us seeking a healthy lifestyle, they may misperceive that our service providers are providing medical advice regarding weight loss and related topics. We may also be subject to claims that our service providers have provided inappropriate advice or have inappropriately referred or failed to refer customers to health care providers when needed. Regardless of the outcome of any legal action or regulatory proceeding, such actions and proceedings could result in substantial costs and may require that our management devote substantial time and resources to defend us. For example, the previously disclosed adverse UK tax ruling relating to the self-employment status of our UK leaders resulted in an aggregate adverse charge of approximately $37.0 million. 
+
+Our business is subject to legislative and regulatory restrictions. 
+
+A number of laws and regulations govern our advertising and marketing, services, products, operations and relations with consumers, licensees, franchisees, employees and other service providers, and government authorities in the countries in which we operate. 
+
+19
+
+Certain federal, state and foreign agencies, such as the FTC and FDA, regulate and enforce such laws and regulations relating to advertising and marketing, promotions, packaging, privacy, consumer pricing and billing arrangements, and other consumer protection matters. A determination by a federal, state or foreign agency, or a court in connection with a governmental enforcement action or private litigation, that any of our practices do not meet existing or new laws or regulations could result in liability, adverse publicity, and restrictions of our business operations. For example, during the mid-1990s, the FTC filed complaints against a number of commercial weight management providers alleging violations of federal law in connection with the use of advertisements that featured testimonials, claims for program success and program costs. In 1997, we entered into a consent order with the FTC settling all contested issues raised in the complaint filed against us. The consent order required us to comply with certain procedures and disclosures in connection with our advertisements of services and products and expired by its terms in 2017. 
+
+We are subject to many distinct employment, labor, commercial, benefits and tax laws and regulations in each country in which we operate, including regulations affecting our employment and wage and hour practices and our relations with our employees and service providers. If we are required to comply with new laws or regulations or interpretations of existing laws and regulations that differ from our interpretations, are unable to comply with these laws, regulations or interpretations, or are subject to litigation with respect to these laws, regulations or interpretations, our business and results of operations could be adversely affected. 
+
+Laws and regulations directly applicable to communications, operations or commerce over the Internet, such as those governing intellectual property, privacy and taxation, continue to evolve. For example, a new general data protection regulation is expected to take effect in the European Union in 2018. If we are required to comply with new laws or regulations or interpretations of existing laws or regulations that differ from our interpretations, or if we are unable to comply with these laws, regulations or interpretations, our business and results of operations could be adversely affected. 
+
+Future laws or regulations, including laws or regulations affecting our advertising and marketing practices, consumer pricing and billing arrangements, relations with consumers, employees, service providers, licensees or franchisees, or our services and products, may have an adverse impact on us. 
+
+If we do not maintain effective internal control over financial reporting, we could fail to report our financial results accurately. 
+
+Effective internal control over financial reporting is necessary for us to provide reliable financial reports. In the past we have discovered, and in the future we may discover, areas of our internal control over financial reporting that need improvement. In the future, if we identify a control deficiency that rises to the level of a material weakness in our internal controls over financial reporting, this material weakness may adversely affect our ability to record, process, summarize and report financial information timely and accurately and, as a result, our financial statements may contain material misstatements or omissions. A material weakness is defined as a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is reasonable possibility that a material misstatement of the annual or interim financial statements will not be prevented or detected on a timely basis. 
+
+Artal effectively controls us and may have conflicts of interest with other shareholders in the future. 
+
+Artal effectively controls us and is effectively able to control the election and removal of our directors and determine our corporate and management policies, including potential mergers or acquisitions, payment of dividends, asset sales, the amendment of our articles of incorporation or bylaws and other significant corporate transactions. This concentration of our ownership may delay or deter possible changes in control of our company, which may reduce the value of an investment in our common stock. So long as Artal owns 10% or more of our common stock, Artal will have the right pursuant to an agreement with us to nominate directors to our Board of Directors in proportion to its stock ownership. In addition, Artal Luxembourg entered into a Voting Agreement with Ms. Winfrey on October 18, 2015, pursuant to which Ms. Winfrey has agreed to vote all of her shares of our common stock so as to elect such individuals designated as directors by Artal. The interests of Artal may not coincide with the interests of other holders of our common stock. 
+
+20
+
+We are a “controlled company” within the meaning of the New York Stock Exchange rules and, as a result, qualify for exemptions from certain corporate governance requirements. 
+
+A group comprised of Artal and Ms. Winfrey controls a majority of the voting power of our outstanding common stock. Under the New York Stock Exchange, or the NYSE, rules, a listed company of which more than 50% of the voting power for the election of directors is held by another person or group of persons acting together is a “controlled company” and such a company may elect not to comply with certain NYSE corporate governance requirements, including (1) the requirement that a majority of the Board of Directors consist of independent directors, (2) the requirement that the Board of Directors should have a nominating and corporate governance committee composed entirely of independent directors with a written charter addressing the committee’s purpose and responsibilities, (3) the requirement that the compensation committee be composed entirely of independent directors with a written charter addressing the committee’s purpose and responsibilities, (4) that the compensation committee be required to consider certain independence factors when engaging compensation consultants, legal counsel and other committee advisors and (5) the requirement for an annual performance evaluation of the nominating and corporate governance and compensation committees. We have elected to be treated as a “controlled company.” Accordingly, our shareholders may not have the same protections afforded to shareholders of companies that are subject to all of the NYSE corporate governance requirements. 
+
+Our articles of incorporation and bylaws and Virginia corporate law contain provisions that may discourage a takeover attempt. 
+
+Provisions contained in our articles of incorporation and bylaws and the laws of Virginia, the state in which we are incorporated, could make it more difficult for a third party to acquire us, even if doing so might be beneficial to our shareholders. Provisions of our articles of incorporation and bylaws impose various procedural and other requirements, which could make it more difficult for shareholders to effect certain corporate actions. For example, our articles of incorporation authorize our Board of Directors to determine the rights, preferences, privileges and restrictions of unissued series of preferred stock, without any vote or action by our shareholders. Thus, our Board of Directors can authorize and issue shares of preferred stock with voting or conversion rights that could adversely affect the voting or other rights of holders of our common stock. These rights may have the effect of delaying or deterring a change of control of our company. In addition, a change of control of our company may be delayed or deterred as a result of our having three classes of directors. These provisions could limit the price that certain investors might be willing to pay in the future for shares of our common stock. 
+
+None. 
+
+We are currently headquartered in New York, New York in leased office space with our US back-office and customer support operations located in leased office spaces elsewhere in the United States. Each of our foreign country operations generally also has leased office space to support its operations. Our meetings are typically held in third-party locations (usually meeting rooms in well-located civic or other community centers) or space leased in retail centers. 
+
+Our website and digital products and services are hosted on hardware and software co-located at a third-party facility in Massachusetts and by third-party cloud service providers with facilities in various locations around the United States. We also maintain a disaster recovery site with hardware and software co-located at a third-party facility in Arizona. 
+
+21
+
+Raymond Roberts v. Weight Watchers International, Inc. 
+
+On January 7, 2016, an OnlinePlus member filed a putative class action complaint against the Company in the Supreme Court of New York, New York County, asserting class claims for breach of contract and violations of the New York General Business Law. On February 5, 2016, the Company removed the case to the United States District Court, Southern District of New York. On March 18, 2016, the plaintiff filed an amended complaint, alleging that, as a result of the temporary glitches in the Company’s website and app in November and December 2015, the Company has: (1) breached its Subscription Agreement with its OnlinePlus members; and (2) engaged in deceptive acts and practices in violation of Section 350 of the New York General Business Law. The plaintiff is seeking unspecified actual, punitive and statutory damages, as well as his attorneys’ fees and costs incurred in connection with this action. The Company filed a motion to dismiss on May 6, 2016. The plaintiff filed his opposition papers on June 9, 2016 and the Company filed its reply papers on June 23, 2016. The Court granted the Company’s motion to dismiss on November 14, 2016. On November 16, 2016, the plaintiff filed a timely notice of appeal of the Court’s decision to the Second Circuit Court of Appeals and on January 31, 2017, the plaintiff filed his brief in support of appeal. The Company filed its opposition brief on April 5, 2017, and the plaintiff filed his reply brief on April 25, 2017. On October 25, 2017, the Second Circuit conducted oral arguments on the plaintiff’s appeal. On November 2, 2017, the Second Circuit issued its decision denying the plaintiff’s appeal and affirming the lower court’s dismissal of the case.  The plaintiff had until November 16, 2017 to file a petition for a rehearing with the Second Circuit, or until January 31, 2018 to file a petition for appeal with the United States Supreme Court. The plaintiff failed to take either action, and the matter is now closed.
+
+Other Litigation Matters 
+
+Due to the nature of the Company’s activities, it is also, at times, subject to pending and threatened legal actions, including patent and other intellectual property actions, that arise out of the ordinary course of business. In the opinion of management, the disposition of any such matters is not expected, individually or in the aggregate, to have a material adverse effect on the Company’s results of operations, financial condition or cash flows. However, the results of legal actions cannot be predicted with certainty. Therefore, it is possible that the Company’s results of operations, financial condition or cash flows could be materially adversely affected in any particular period by the unfavorable resolution of one or more legal actions. 
+
+Not applicable. 
+
+22
+
+EXECUTIVE OFFICERS AND DIRECTORS OF THE COMPANY 
+
+Pursuant to General Instruction G(3) to Form 10-K, certain of the information regarding our directors and executive officers required by Items 401(a), (b) and (e) of Regulation S-K is hereby included in Part I of this Annual Report on Form 10-K. 
+
+Set forth below are the names, ages as of December 30, 2017 and current positions of our executive officers and directors. Directors are elected at the annual meeting of shareholders. Executive officers are appointed by, and hold office at, the discretion of our Board of Directors. 
+
+(1)     Member of Compensation and Benefits Committee. 
+
+Mindy Grossman.  Ms. Grossman has served as a director and our President and Chief Executive Officer since July 2017. Prior to joining us, she served as Chief Executive Officer of HSN, Inc., an interactive, multichannel retailer of fashion, household and lifestyle products, and a member of its Board of Directors from August 2008 to May 2017. Prior to joining HSN, she served as Chief Executive Officer of IAC Retailing, a business segment of HSN’s former parent company, IAC/InterActiveCorp, a media and internet company, from April 2006 to August 2008, and Global Vice President of Nike, Inc.’s apparel business from October 2000 to March 2006. Earlier in her career, Ms. Grossman held various other executive positions in the retail industry, including President and CEO of Polo Jeans Company, Vice President of New Business Development at Polo Ralph Lauren Corporation, President of Chaps Ralph Lauren, and Senior Vice President of Menswear for Warnaco, Inc. Ms. Grossman is a director of Bloomin’ Brands, Inc. and Fanatics, Inc. She also serves as Vice Chairman for UNICEF USA.
+
+Nicholas P. Hotchkin.  Mr. Hotchkin has served as our Chief Financial Officer since August 2012. He served as a member of our Interim Office of the Chief Executive Officer from September 2016 to July 2017. Prior to joining us, Mr. Hotchkin had spent several years at Staples, Inc., a global leader in the office supply industry. Most recently, Mr. Hotchkin served as Senior Vice President of Finance for the U.S. Retail division of Staples based in Massachusetts, a position he held from May 2010 to August 2012. Before assuming that position, he had been Senior Vice President of Finance and Treasurer of Staples, a position he held from November 2006 to April 2010. Prior to joining Staples, Mr. Hotchkin held several corporate finance positions with Delphi Corporation and General Motors Corporation including assignments in the United States, Asia and Europe. Mr. Hotchkin received a B.A. in Economics from Harvard College and an M.B.A. from the Harvard Business School.
+
+Michael F. Colosi.  Mr. Colosi has served as our General Counsel and Secretary since May 2014. Prior to joining us, Mr. Colosi most recently served as Senior Vice President, General Counsel and Corporate Secretary of Kenneth Cole Productions, Inc. (KCP), a multi-brand retail, wholesale and licensing company, from March 2007 to February 2014. His service as General Counsel and Secretary of KCP commenced in July 2000 and July 2004, respectively. He also served as Corporate Vice President of KCP from July 2000 to February 2007. Prior to joining 
+
+23
+
+KCP, Mr. Colosi was Associate General Counsel and Assistant Secretary for The Warnaco Group, Inc., an international apparel company, from 1996 to 2000. Mr. Colosi received a B.A. in Economics and English from Cornell University and a J.D. from The University of Michigan Law School.
+
+Stacey Mowbray.  Ms. Mowbray has served as our President, Americas since March 2016. Prior to that time, Ms. Mowbray served as President and General Manager of Weight Watchers Canada from November 2014 to March 2016. Prior to joining us, Ms. Mowbray was with Second Cup Ltd., a Canadian, publicly traded, specialty coffee business, where she served as Chief Executive Officer from May 2009 to February 2014 and President from February 2008 to May 2009. Prior to joining Second Cup Ltd., Ms. Mowbray was Chief Marketing Officer at Molson Coors Brewing Company and held various senior roles at Cara Operations Limited and PepsiCo Canada. Ms. Mowbray received a Bachelor of Business degree from Wilfrid Laurier University and an M.B.A. from the Schulich School of Business at York University.
+
+Corinne Pollier(-Bousquet).  Ms. Pollier has served as our President, International since March 2016. Prior to that time, Ms. Pollier served as our President, Continental Europe & Australia-New Zealand from January 2014 to March 2016, our President, Continental Europe from May 2013 to January 2014, our Senior Vice President of France and Switzerland from October 2008 to May 2013 and our General Manager of France from October 2003 to October 2008. Prior to joining us, from 1991 to 2003, Ms. Pollier was with VIVARTE Group (France), a European retailer of footwear and apparel, where she held various positions in the finance and planning analysis department from 1991 to 1995, various senior positions in the organization and strategy department from 1995 to 2000 and as General Manager of Kookai from 2001 to 2003. Ms. Pollier also held various product management and project management positions for the central buying office of Le Printemps department stores from 1987 to 1991. Ms. Pollier holds a Masters in Management from the HEC Business School Paris.
+
+Raymond Debbane.  Mr. Debbane has been the Chairman of our Board of Directors since our acquisition by Artal Luxembourg on September 29, 1999. Mr. Debbane is a co-founder and the Chief Executive Officer of The Invus Group, LLC. Prior to forming The Invus Group, LLC in 1985, Mr. Debbane was a manager and consultant for The Boston Consulting Group in Paris, France. He holds an M.B.A. from Stanford Graduate School of Business, an M.S. in Food Science and Technology from the University of California, Davis and a B.S. in Agricultural Sciences and Agricultural Engineering from American University of Beirut. Mr. Debbane is the Chairman of the Board of Directors of Lexicon Pharmaceuticals, Inc. and a director of Blue Buffalo Pet Products, Inc. He is also the Chief Executive Officer and a director of Artal Group S.A., and the Chairman of the Board of Directors of a number of private companies of which Artal or Invus, L.P. are shareholders. Mr. Debbane was previously a director of Ceres, Inc.
+
+Steven M. Altschuler, M.D.  Dr. Altschuler has been a director since September 2012. Dr. Altschuler currently serves as Chair of the Board of Directors of Spark Therapeutics, Inc. He previously served as a consultant to the University of Miami Health Care System from September 2017 through December 2017, the Chief Executive Officer of University of Miami Health Care System and Executive Vice President for Healthcare at the University of Miami from January 2016 to September 2017, and the Chief Executive Officer of The Children's Hospital of Philadelphia (CHOP) from April 2000 until June 2015. Prior to assuming the role of Chief Executive Officer, Dr. Altschuler held several positions at CHOP and the Perelman School of Medicine at the University of Pennsylvania, including Physician-in-Chief/ Chair of Pediatrics and chief of the Division of Gastroenterology, Hepatology and Nutrition. Dr. Altschuler received a B.A. in mathematics and an M.D. from Case Western Reserve University.
+
+Philippe J. Amouyal.  Mr. Amouyal has been a director since November 2002. Mr. Amouyal is a Managing Director of The Invus Group, LLC, a position he has held since 1999. Previously, Mr. Amouyal was a Vice President and Director of The Boston Consulting Group in Boston, MA. He holds an M.S. in Engineering and a DEA in Management from Ecole Centrale de Paris and was a Research Fellow at the Center for Policy Alternatives of the Massachusetts Institute of Technology. Mr. Amouyal is a director and member of the Compensation Committee of Lexicon Pharmaceuticals, Inc. and Blue Buffalo Pet Products, Inc., as well as a number of private companies of which Artal or Invus, L.P. are shareholders.
+
+Cynthia Elkins. Ms. Elkins has been a director since March 2014.  Since December 2017, Ms. Elkins has served as Chief Information Officer and Executive Vice President at Juno Therapeutics, Inc., a biopharmaceutical company.  Previously, Ms. Elkins served as Vice President of IT Americas from March 2011 through December 2016 and Senior Director of IT Enterprise Applications from December 2007 to February 2011 at Genentech, Inc., a biotechnology company and member of the Roche Group. Prior to joining Genentech, Ms. Elkins was Vice 
+
+24
+
+President and General Manager of Supplier Solutions and Commerce Services at Ariba, Inc. and Vice President of Product Engineering at ATP Inc. Prior to that, she held various technology leadership positions at Aspect Telecommunications, VeriFone and Digital Equipment Corporation. Ms. Elkins received a B.S. in Applied Mathematics from the University of California, Los Angeles and an M.B.A. from Santa Clara University.
+
+Jonas M. Fajgenbaum.  Mr. Fajgenbaum has been a director since our acquisition by Artal Luxembourg on September 29, 1999. Mr. Fajgenbaum is a Managing Director of The Invus Group, LLC, which he joined in 1996. Prior to joining The Invus Group, LLC, Mr. Fajgenbaum was a consultant for McKinsey & Company in New York from 1994 to 1996. He graduated with a B.S. in Economics with a concentration in Finance from The Wharton School of the University of Pennsylvania and a B.A. in Economics from the University of Pennsylvania. Mr. Fajgenbaum is a director of a number of private companies of which Artal or Invus, L.P. are shareholders.
+
+Denis F. Kelly.  Mr. Kelly has been a director since May 2015. Mr. Kelly is affiliated with, and has served as a Managing Partner of, Scura Partners Securities LLC, a private investment banking firm which he co-founded, since 2001. From 1993 to 2001, he was a Managing Director of Prudential Securities Incorporated. Previously, he served as the President and Chief Executive Officer of Denbrook Capital Corporation, a merchant banking firm, from 1991 to 1993. From 1980 to 1991, Mr. Kelly held various positions at Merrill Lynch, including Managing Director of Mergers and Acquisitions and Managing Director of Merchant Banking. Mr. Kelly began his investment banking career at Lehman Brothers in 1974. Mr. Kelly received a B.A. from Amherst College and an M.B.A. from the Wharton School of Business of the University of Pennsylvania. Mr. Kelly is also a director of MSC Industrial Direct Co., Inc., where he serves as a member of the Audit Committee and the chairman of the Compensation Committee. Mr. Kelly previously served as a director of Kenneth Cole Productions, Inc., which is no longer a public company.
+
+Sacha Lainovic.  Mr. Lainovic has been a director since our acquisition by Artal Luxembourg on September 29, 1999. Since 2007, Mr. Lainovic has been Managing Partner of Invus Financial Advisors, LLC, a New York-based investment firm, which he co-founded. From 1985 to 2006, Mr. Lainovic was Executive Vice President of The Invus Group, LLC, which he co-founded. Prior to forming The Invus Group, LLC in 1985, Mr. Lainovic was a manager and consultant for The Boston Consulting Group in Paris, France. He holds an M.B.A. from Stanford Graduate School of Business and an M.S. in Engineering from Insa de Lyon in Lyon, France.
+
+Thilo Semmelbauer.  Mr. Semmelbauer has been a director since September 2016. He served as a member of our Interim Office of the Chief Executive Officer from September 2016 to July 2017. Since 2015, Mr. Semmelbauer has been a Venture Partner of Insight Venture Partners, a global private equity and venture capital firm. He has been involved in technology ventures for over 25 years. From 2010 to 2015, he served as President and Chief Operating Officer of Shutterstock, Inc., a global marketplace for licensing images, videos, and music to businesses worldwide. From 2009 to 2010, he served as Executive Vice President, Consumer Business, of TheLadders.com, a career management company. Mr. Semmelbauer was also Weight Watchers International, Inc.'s Global Chief Operating Officer from 2006 to 2008 and Chief Operating Officer for North America from 2004 to 2006, after serving as President and Chief Operating Officer of WeightWatchers.com from 2000 to 2004 when he was part of the founding team. He holds an A.B. in Electrical Engineering and Computer Science from Dartmouth College and a dual M.S. in Management and Electrical Engineering from the Massachusetts Institute of Technology.
+
+Christopher J. Sobecki.  Mr. Sobecki has been a director since our acquisition by Artal Luxembourg on September 29, 1999. He served as a member of our Interim Office of the Chief Executive Officer from September 2016 to July 2017. Mr. Sobecki is a Managing Director of The Invus Group, LLC, which he joined in 1989. He received an M.B.A. from the Harvard Business School. He also obtained a B.S. in Industrial Engineering from Purdue University. Mr. Sobecki is a director of Lexicon Pharmaceuticals, Inc. and a number of private companies of which Artal or Invus, L.P. are shareholders.
+
+Oprah Winfrey.  Ms. Winfrey has been a director since October 2015. Since January 2009, Ms. Winfrey has served as the Chairman of her cable network, OWN: Oprah Winfrey Network, taking on the role of Chief Executive Officer in July 2011. Previously, she founded Harpo, Inc. in 1986, under which she has launched numerous media and entertainment businesses, including O, The Oprah Magazine and Harpo Films, in addition to producing the award-winning talk show 'The Oprah Winfrey Show' for 25 years. Ms. Winfrey is a global media leader, philanthropist, producer and actress. She also has been serving as a member of the Smithsonian's advisory council since 2004. 
+
+25
+
+PART II 
+
+Our common stock is listed on the NYSE. Our common stock trades on the NYSE under the symbol “WTW.” 
+
+The following table sets forth, for the periods indicated, the high and low sales prices per share for our common stock as reported on the NYSE composite price history. 
+
+Fiscal 2017 (Year ended December 30, 2017) 
+
+Fiscal 2016 (Year ended December 31, 2016) 
+
+On October 9, 2003, our Board of Directors authorized, and we announced, a program to repurchase up to $250.0 million of our outstanding common stock. On each of June 13, 2005, May 25, 2006 and October 21, 2010, our Board of Directors authorized, and we announced, adding $250.0 million to this program. The repurchase program allows for shares to be purchased from time to time in the open market or through privately negotiated transactions. No shares will be purchased from Artal Holdings Sp. z o.o., Succursale de Luxembourg, or Artal Holdings, and its parents and subsidiaries under this program. The repurchase program currently has no expiration date. We repurchased no shares of our common stock during the fourth quarter of fiscal 2017. As of the end of fiscal 2017, $208.9 million remained available to purchase shares of our common stock under the repurchase program. 
+
+Holders 
+
+The approximate number of holders of record of our common stock as of February 1, 2018 was 220. This number does not include beneficial owners of our securities held in the name of nominees. 
+
+Dividends 
+
+We do not currently pay a dividend and we have no current plans to pay dividends in the foreseeable future. Any future determination to declare and pay dividends will be made at the sole discretion of our Board of Directors, after taking into account our financial condition and results of operations, capital requirements, contractual, legal, tax and regulatory restrictions, the provisions of Virginia law affecting the payment of distributions to shareholders and such other factors our Board of Directors may deem relevant. In addition, our ability to pay dividends may be limited by covenants in our existing indebtedness, including the New Credit Facilities (as defined below) and the indenture governing our notes, and may be limited by the agreements governing other indebtedness we or our subsidiaries incur in the future. 
+
+26
+
+Stock Performance Graph 
+
+The following graph sets forth the cumulative return on our common stock from December 28, 2012, the last trading day of our 2012 fiscal year, through December 29, 2017, the last trading day of our 2017 fiscal year, as compared to the cumulative return of the Standard & Poor’s 500 Index, or the S&P 500 Index, and the cumulative return of the Standard & Poor’s MidCap 400 Index, or the S&P MidCap 400 Index. We selected the S&P 500 Index because it is a broad index of equity markets. We selected the S&P MidCap 400 Index, which is generally comprised of issuers having a similar market capitalization with the Company at the times presented, because we believe that there are no other lines of business or published industry indices or peer groups that provide a more meaningful comparison of the cumulative return of our stock. The graph assumes that $100 was invested on December 28, 2012 in each of (1) our common stock, (2) the S&P 500 Index and (3) the S&P MidCap 400 Index, and that all dividends were reinvested. 
+
+27
+
+The following schedule sets forth our selected financial data for the last five fiscal years. 
+
+SELECTED FINANCIAL DATA 
+
+(in millions, except per share amounts) 
+
+Items Affecting Comparability 
+
+Several events occurred during each of the last five fiscal years that affect the comparability of our financial statements. The nature of these events and their impact on underlying business trends are as follows: 
+
+Long-Term Debt 
+
+During the fourth quarter of fiscal 2017, we incurred fees of $53.8 million in connection with the refinancing of $1,930.4 million of borrowings under our then-existing term loan facility.  We wrote-off fees associated with this refinancing which resulted in the Company recording a charge of $10.5 million in early extinguishment of debt in the fourth quarter of fiscal 2017.
+
+On April 1, 2016, we paid in full, with cash on hand, a principal amount of loans equal to $144.3 million, which constituted the entire remaining principal amount of loans outstanding under our then-existing tranche B-1 term facility due April 2, 2016. 
+
+During the first quarter of fiscal 2015, we wrote-off fees of $0.3 million, incurred fees of $0.6 million and recorded a gain on early extinguishment of debt of $4.7 million, inclusive of these fees, in connection with the prepayment of $65.6 million in aggregate principal amount of term loans outstanding under our then-existing tranche B-1 term facility. During the second quarter of fiscal 2015, we wrote-off fees of $0.3 million, incurred fees of $0.6 million and recorded a gain on early extinguishment of debt of $6.7 million, inclusive of these fees, in connection with our prepayment of $84.9 million in aggregate principal amount of term loans under our then-existing tranche B-1 term facility.
+
+During the third quarter of fiscal 2014, we wrote-off deferred financing fees of $1.6 million in connection with an amendment to our then-existing revolving credit facility. Concurrently with and in order to effect this amendment, we reduced the amount of our then-existing revolving credit facility from $250.0 million to $50.0 million. 
+
+28
+
+During the second quarter of fiscal 2013, we incurred fees of $44.8 million in connection with the refinancing of $2,399.9 million of outstanding loans under our then-existing credit facilities. We wrote-off fees associated with this refinancing which resulted in our recording a charge of $21.7 million in early extinguishment of debt in the second quarter of fiscal 2013. 
+
+For additional details on the New Credit Facilities entered into during the fourth quarter of fiscal 2017, see “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources—Long-Term Debt” in Part II of this Annual Report on Form 10-K. 
+
+Early Extinguishment of Debt, Net 
+
+Net income and earnings per fully diluted share, or EPS, for the full year of fiscal 2017 were impacted by a $10.5 million ($6.4 million after tax or $0.09 per fully diluted share) early extinguishment of debt charge recorded in the fourth quarter of fiscal 2017 resulting from the write-off of fees in connection with our November 2017 debt refinancing, or the November 2017 debt refinancing. For additional details on this refinancing, see “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources—Long-Term Debt” in Part II of this Annual Report on Form 10-K.  This charge was offset in part by a $1.6 million ($0.9 million after tax or $0.01 per fully diluted share) gain on early extinguishment of debt recorded in the second quarter of fiscal 2017 in connection with the payment of an aggregate amount of cash proceeds totaling $73.0 million plus an amount sufficient to pay accrued and unpaid interest on the amount prepaid to prepay $75.5 million in aggregate principal amount of term loans under our then-existing tranche B-2 term facility. 
+
+Net income and EPS for the full year of fiscal 2015 were impacted by an $11.4 million ($7.0 million after tax or $0.12 per fully diluted share) gain on early extinguishment of debt in connection with the payment of an aggregate amount of cash proceeds totaling $134.6 million plus an amount sufficient to pay accrued and unpaid interest on the amount prepaid to prepay $148.0 million in aggregate principal amount of term loans under our then-existing tranche B-1 term facility. 
+
+Net income and EPS for the full year of fiscal 2013 were impacted by a $21.7 million ($13.3 million after tax or $0.24 per fully diluted share) early extinguishment of debt charge recorded in fiscal 2013 resulting from the write-off of fees in connection with our previously disclosed April 2013 debt refinancing.
+
+Net Tax Benefit 
+
+In fiscal 2017, we recognized a $56.6 million, or $0.83 per fully diluted share, tax benefit due to the 2017 Tax Act (defined hereafter). We also recognized (i) an $11.6 million, or $0.17 per fully diluted share, tax benefit related to the cessation of operations of our Spanish subsidiary, (ii) a $3.7 million, or $0.05 per fully diluted share, tax benefit due to a change in estimate related to the availability of certain foreign tax credits and (iii) a $2.3 million, or $0.03 per fully diluted share, tax benefit related to the reversal of tax reserves resulting from an updated transfer pricing study. 
+
+In fiscal 2016, we recognized (i) an $11.4 million, or $0.17 per fully diluted share, net tax benefit due to a research and development credit and a Section 199 deduction for the tax years 2012 through 2015 and (ii) a reversal of a $2.5 million, or $0.04 per fully diluted share, valuation allowance related to tax benefits for foreign losses that are now expected to be realized. These benefits were partially offset by a $2.0 million, or $0.03 per fully diluted share, tax expense for out-of-period adjustments in income taxes in the third quarter of fiscal 2016. 
+
+In fiscal 2014, we recognized a $2.4 million, or $0.04 per fully diluted share, net tax benefit related to an intercompany loan write-off in connection with the closure of our China business, partially offset by the recognition of a valuation allowance related to tax benefits for foreign losses not expected to be realized.
+
+Impairment of Goodwill
+
+In fiscal 2017, we recorded a $13.3 million, or $0.20 per fully diluted share, impairment charge for goodwill related to our Brazil reporting unit. 
+
+29
+
+Working Capital 
+
+In fiscal 2017, the change in working capital was driven primarily by the November 2017 debt refinancing which resulted in higher debt repayments due in fiscal 2018 (increase in current portion of long-term debt). This, coupled with cash on hand used in connection with debt payments in the second quarter of fiscal 2017 and for such refinancing, increased our working capital deficit.
+
+In fiscal 2016, the change in working capital was driven primarily by the April 1, 2016 payment of a principal amount of loans equal to $144.3 million, which constituted the entire remaining principal amount of loans outstanding under our then-existing tranche B-1 term facility, and paying down in the aggregate the outstanding principal amount of $48.0 million on our then-existing revolving credit facility. 
+
+In fiscal 2015, the change in working capital was driven in large part by the increase in short-term debt due within one year and the decline in cash resulting from the prepayment of debt during the fiscal year. 
+
+The refinancing of our credit facilities in April 2013 resulted in much lower debt repayments in fiscal 2013 and fiscal 2014, which drove increases in cash in those years thereby lowering the working capital deficit. 
+
+Other Comprehensive Income (Loss) 
+
+Other comprehensive income, net of taxes, was $16.6 million in fiscal 2017 as compared to $10.6 million in fiscal 2016 primarily due to the positive mark to market of our interest rate swap and to a lesser extent the favorable impact of foreign currency translation adjustments. In fiscal 2017, due to hedge accounting, changes in other comprehensive income increased to $17.4 million ($10.6 million after tax) as compared to an increase of $11.8 million ($7.1 million after tax) in fiscal 2016. In addition, foreign currency translation adjustments favorably impacted results by $9.8 million ($6.0 million after tax) in fiscal 2017 as compared to a favorable impact of $5.6 million ($3.5 million after tax) in fiscal 2016 primarily due to the revaluation of intercompany receivables and payables.
+
+Other comprehensive income, net of taxes, was $10.6 million in fiscal 2016 as compared to other comprehensive loss, net of taxes, of $18.3 million in fiscal 2015 primarily due to the positive mark to market of our interest rate swap and to a lesser extent the favorable impact of foreign currency translation adjustments. In fiscal 2016, due to hedge accounting, changes in other comprehensive income increased to $11.8 million ($7.1 million after tax) as compared to a loss of $2.1 million ($1.3 million after tax) in fiscal 2015. In addition, foreign currency translation adjustments favorably impacted results by $5.6 million ($3.5 million after tax) in fiscal 2016 as compared to a loss of $27.8 million ($17.0 million after tax) in fiscal 2015 primarily due to the revaluation of intercompany receivables and payables. 
+
+Other comprehensive loss, net of taxes, was $18.3 million in fiscal 2015 as compared to $28.9 million in fiscal 2014 primarily due to the unfavorable impact of foreign currency translation adjustments and to a lesser extent the mark to market of our interest rate swap. In fiscal 2015, foreign currency translation adjustments unfavorably impacted results by $27.8 million ($17.0 million after tax) as compared to $19.2 million ($11.7 million after tax) in fiscal 2014 primarily due to the devaluation of the Euro, Canadian dollar, and the British Pound. In addition, due to hedge accounting, changes in other comprehensive loss decreased to $2.1 million ($1.3 million after tax) in fiscal 2015 as compared to $28.3 million ($17.3 million after tax) in fiscal 2014. 
+
+Winfrey Transaction 
+
+On October 19, 2015, pursuant to the Winfrey Purchase Agreement, we issued and sold to Ms. Winfrey an aggregate of 6.4 million shares of our common stock for an aggregate cash purchase price of $43.2 million. 
+
+In consideration of Ms. Winfrey entering into the Strategic Collaboration Agreement and the performance of her obligations thereunder, on October 18, 2015, we granted Ms. Winfrey the Winfrey Option to purchase 3.5 million shares of our common stock at an exercise price of $6.97 per share, which remains outstanding in full.
+
+In fiscal 2015, net income and EPS were negatively impacted by expenses of $8.3 million after tax, or $0.14 per fully diluted share, in connection with the Winfrey Transaction. More specifically, we recorded compensation expense of $7.8 million after tax for the full value of the Winfrey Option in the fourth quarter of fiscal 2015 (based on the Black Scholes option pricing model), as well as $0.5 million after tax of expenses for legal, compliance and other fees in connection with the Winfrey Transaction. See “Item 1. Business—History—Winfrey Transaction” for additional details on the Winfrey Transaction. 
+
+30
+
+Restructuring Charges 
+
+In fiscal 2015 and fiscal 2014, we recorded $8.4 million ($5.1 million after tax or $0.09 per fully diluted share) and $11.8 million ($7.2 million after tax or $0.13 per fully diluted share) of charges, respectively, associated with the previously disclosed restructuring of our organization. 
+
+Acquisition of Additional Equity Interest in Brazil and Gain on Brazil Acquisition 
+
+Prior to March 12, 2014, the Company had owned 35% of Vigilantes do Peso Marketing Ltda., or VPM, a Brazilian limited liability partnership. On March 12, 2014, the Company acquired an additional 45% equity interest in VPM for a net purchase price of $14.2 million. VPM was converted into a joint-stock corporation prior to closing and subsequently operates as a subsidiary of the Company with rights to conduct typical business lines. As a result of the acquisition, the Company gained a direct controlling financial interest in VPM and began to consolidate this entity as of the date of acquisition. 
+
+As a result of our Brazil acquisition, we adjusted our previously held equity interest to fair value of $11.0 million and recorded a charge of $0.5 million associated with the settlement of the royalty-free arrangement of the Brazilian partnership. The net effect of these items resulted in our recognizing a gain of $10.5 million ($6.4 million after tax or $0.11 per fully diluted share) in fiscal 2014. 
+
+Acquisition of Wello 
+
+On April 16, 2014, the Company acquired Knowplicity, Inc., d/b/a Wello, an online fitness and personal training company for a net purchase price of $9.0 million. Payment was in the form of common stock issued of $4.2 million and cash of $4.8 million. As a result of the acquisition, Wello became a wholly-owned subsidiary of the Company and the Company began to consolidate the entity as of the date of acquisition. 
+
+Acquisition of Weilos 
+
+On March 11, 2015, the Company acquired for a purchase price of $6.7 million Weilos, Inc., or Weilos, a California-based startup with an online social platform. Payment was in the form of common stock issued of $2.8 million, restricted stock issued of $0.1 million and cash of $2.8 million plus cash in reserves of $1.0 million. As a result of the acquisition, Weilos became a wholly owned subsidiary of the Company and the Company began to consolidate the entity as of the date of acquisition. 
+
+Franchisee Acquisitions 
+
+The following are our acquisitions since the beginning of fiscal 2013: 
+
+Acquisition of Miami Franchise. On June 27, 2016, we acquired substantially all of the assets of our franchisee for certain territories in South Florida, Weight Watchers of Greater Miami, Inc., for a purchase price of $3.3 million, or the Miami Acquisition. 
+
+Acquisitions of Alberta and Saskatchewan, West Virginia, Columbus, Reno, Manitoba and Franklin and St. Lawrence Counties. On March 4, 2013, we acquired substantially all of the assets of our Alberta and Saskatchewan, Canada franchisees, Weight Watchers of Alberta Ltd. and Weight Watchers of Saskatchewan Ltd., for an aggregate purchase price of $35.0 million. On July 15, 2013, we acquired substantially all of the assets of our West Virginia franchisee, Weight Watchers of West Virginia, Inc., for a net purchase price of $16.0 million. On July 22, 2013, we acquired substantially all of the assets of our Columbus, Ohio franchisee, Weight Watchers of Columbus, Inc., for a net purchase price of $23.4 million and our Reno, Nevada franchisee, Weight Watchers of Northern Nevada, Inc., for a net purchase price of $4.0 million. On October 28, 2013, we acquired substantially all of the assets of our Manitoba, Canada franchisee, Weight Watchers of Manitoba Ltd., for a net purchase price of $5.2 million and our Franklin and St. Lawrence Counties, New York franchisee, Weight Watchers of Franklin and St. Lawrence Counties Inc., for a net purchase price of $0.3 million. 
+
+These acquisitions were financed through cash from operations. These acquisitions have been accounted for as purchases and financial results have been included in our consolidated operating results since their respective dates of acquisition. 
+
+31
+
+You should read the following discussion in conjunction with the “Selected Financial Data” included in Item 6 of this Annual Report on Form 10-K and our consolidated financial statements and related notes included in Item 15 of this Annual Report on Form 10-K. This discussion contains forward-looking statements that involve risks and uncertainties, such as statements of our plans, objectives, expectations and intentions. The cautionary statements discussed in “Cautionary Notice Regarding Forward-Looking Statements” and elsewhere in this Annual Report on Form 10-K should be read as applying to all forward-looking statements wherever they appear in this Annual Report on Form 10-K. Our actual results could differ materially from those discussed here. Factors that could cause or contribute to these differences include, without limitation, those discussed in “Risk Factors” included in Item 1A of this Annual Report on Form 10-K. 
+
+Overview 
+Question: What is Weight Watchers International's main revenue source?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

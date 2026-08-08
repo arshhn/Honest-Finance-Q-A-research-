@@ -1,0 +1,4321 @@
+You are sitting an exam made of 2 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-214-base ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+FORM 10-K
+
+================================================================================
+
+                 UNITED STATES
+
+            SECURITIES AND EXCHANGE COMMISSION
+
+               WASHINGTON, D.C. 20549
+
+                  FORM 10-K
+
+[ X ] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+
+    ACT OF 1934  [NO FEE REQUIRED]
+
+    For the fiscal year ended:  January 4, 1998
+
+    Commission file number:   1-11012
+
+             GLACIER WATER SERVICES, INC.
+
+             --------------
+
+      (Exact name of registrant as specified in its charter)
+
+     Delaware                      33-0493559
+
+- --------------------        ----------
+
+(State or other jurisdiction of             (I.R.S. Employer 
+
+incorporation or organization)             Identification No.)
+
+   2261 Cosmos Court,
+
+    Carlsbad, CA                      92009
+
+- --------------------        ----------
+
+(Address of principal executive offices)          (Zip Code)
+
+Registrant's telephone number, including area code:    (760) 930-2420
+
+                            ----------
+
+Securities registered pursuant to Section 12(b) 
+
+       of the Act:
+
+   Title of each class              Name of each exchange on
+
+                             which registered
+
+Common Stock, $.01 Par Value Per Share        American Stock Exchange
+
+     Securities registered pursuant to section 12(g) of the Act:
+
+                   None
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+
+the preceding 12 months (or for such shorter period that the registrant was
+
+required to file such reports), and (2) has been subject to such filing
+
+requirements for the past 90 days.           YES [X]   NO [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+
+of Regulation S-K is not contained herein, and will not be contained, to the
+
+best of registrant's knowledge, in definitive proxy or information statements
+
+incorporated by reference in Part III of the Form 10-K of any amendment to this
+
+Form 10-K. [ ]
+
+As of March 6, 1998, the aggregate market value of the voting stock held by non-
+
+affiliates of the registrant was $49,624,000 (calculated at the closing price on
+
+the American Stock Exchange multiplied by outstanding shares held by non-
+
+affiliates). For purposes of the foregoing calculation, certain persons who
+
+have filed reports on Schedule 13D with the SEC with respect to their beneficial
+
+ownership of more than 5% of the registrant's outstanding common stock and
+
+directors and officers have been excluded from the group of stockholders deemed
+
+to be non-affiliates of the registrants.
+
+As of March 6, 1998, the registrants had 3,201,825 shares of common stock
+
+outstanding.
+
+The total number of pages in this Form 10-K is 32; the Index to Exhibits is
+
+located on page 31.
+
+           DOCUMENTS INCORPORATED BY REFERENCE
+
+The information required by Part III (Items 10, 11, 12 and 13) is incorporated
+
+by reference to portions of the registrant's definitive proxy statement for the
+
+1998 Annual Meeting of Stockholders which will be filed with the Securities and
+
+Exchange Commission within 120 days after the close of the 1997 fiscal year.
+
+================================================================================
+
+Statements in this Annual Report that are not purely historical are forward
+
+looking statements within the meaning of the Private Securities Litigation
+
+Reform Act of 1995. These forward looking statements with respect to the
+
+financial condition and results of operations of the Company involve risks and
+
+uncertainties including, but not limited to, trade relations, dependence on
+
+certain locations and competition, as described in Part I below, that could
+
+cause actual results to differ materially from those projected.
+
+                   PART I
+
+ITEM 1. BUSINESS
+
+INTRODUCTION
+
+- ------
+
+     Glacier Water Services, Inc. ("Glacier" or the "Company") is the
+
+leading provider of high quality, low priced drinking water dispensed to
+
+consumers through self-service vending machines. Since its inception in 1983,
+
+the Company has created a network of over 12,000 water vending machines
+
+throughout the sunbelt and midwest regions of the United States. The Company's
+
+water vending machines are placed at supermarkets and other retail locations in
+
+order to take advantage of the regular customer traffic at such locations.
+
+     The Company's internally developed and manufactured water vending
+
+machines are connected to the municipal water source at each of its retail
+
+locations. The vending machines reduce impurities in the water through a
+
+combination of micron filtration, reverse osmosis, carbon absorption and
+
+ultraviolet sterilization. The Company generally charges $.25 to $.35 per
+
+gallon, which is significantly lower than the price of water sold off-the-shelf
+
+in retail locations or sold through home delivery services. The Company's water
+
+vending machines are clustered in close proximity to one another within the
+
+geographic areas served in order to assure cost-effective, quality service.
+
+Each water vending machines is serviced and tested weekly.
+
+     The Company has experienced significant growth. The number of water
+
+vending machines in operation has increased from 3,666 machines as of December
+
+31, 1992 to 12,444 machines as of January 4, 1998. During fiscal year 1997, the
+
+Company's growth was primarily a result of the acquisition of the Company's
+
+largest competitor, Aqua-Vend, a division of McKesson Water Products Company.
+
+     Historically, the Company has operated water vending machines designed
+
+primarily for outside use in fair-weather climates. Because it is impractical
+
+to use outdoor vending machines in cold-weather climates, the Company developed
+
+a new water vending machine specifically designed to be installed inside retail
+
+locations. The "in-store" machine is smaller and has a sleeker exterior,
+
+thereby making it more compatible with an interior retail layout. The Company
+
+believes that the in-store machines afford the Company significant opportunities
+
+to expand within its existing locations, as well as into new market areas in
+
+cold-weather states.
+
+In addition to its growth strategy, the Company intends to maintain its leading
+
+position in the water vending industry by: (i) providing high quality, low
+
+priced water to consumers; (ii) developing and maintaining good relationships
+
+with retail accounts; (iii) increasing brand awareness; and (iv) maximizing
+
+operating efficiencies and asset productivity.
+
+                    1
+
+BUSINESS BACKGROUND
+
+- ----------
+
+The following table presents the number of machines installed annually since
+
+December 31, 1992:
+
+   Total machines installed as of January 4, 1998 are distributed by state as
+
+follows:
+
+     The placement of the Company's vending machines at retail locations is
+
+based upon a thorough review of each site. Included in the site review is an
+
+analysis of the surrounding trade area in order to determine the neighborhood
+
+demographics, the level of overall retail activity, the level of direct
+
+competition and the proximity of the site to other vending machines operated by
+
+the Company. Further, the Company reviews each site in order to ensure high
+
+visibility and easy access for the consumer, along with appropriate access to
+
+the retailer's water supply and power source. Upon completion of this review,
+
+the Company makes a determination as to the viability of the location and
+
+whether a single machine or multiple machines are required at the time of
+
+initial installation. With large chains of supermarkets, the Company generally
+
+places machines at all of the chains' locations as part of its business
+
+agreements. To attain optimum efficiency, multiple vending machines may be
+
+installed at a site if the volume of sales so warrants.
+
+     Glacier's internally developed water vending machines utilize micron
+
+filtration, reverse osmosis, carbon adsorption and ultraviolet sterilization in
+
+order to provide high quality drinking water. The design of the Company's
+
+machines provides a high degree of reliability and serviceability through the
+
+use of interchangeable parts and a durable fiberglass cabinet. The machines are
+
+also designed to be easy for consumers to use, with clear and simple
+
+instructions.
+
+THE BOTTLED WATER INDUSTRY
+
+- -------------
+
+     The bottled water market in the United States is comprised of four
+
+segments: nonsparkling, sparkling, club soda/seltzer and imported water.
+
+Nonsparkling water is the segment in which the Company competes and is consumed
+
+as an alternative to tap water. Nonsparkling water is distributed through three
+
+principal channels: packaged water sold off-the-shelf in retail locations,
+
+packaged water delivered to homes and offices and water sold through vending
+
+machines. Like water sold off-the-shelf or through home delivery services,
+
+vended water is processed using the reverse osmosis or deionization methods.
+
+Although equivalent in quality, vended water is sold at a substantially lower
+
+price than off-the-shelf and delivered water. Vended water eliminates two
+
+principal cost components, packaging, because consumers provide their own
+
+containers, and transportation.
+
+                    2
+
+BUSINESS STRATEGY
+
+- ---------
+
+     Provide High Quality, Low Priced Drinking Water. The Company intends
+
+to maintain its leading position in the water vending industry by providing high
+
+quality, low priced drinking water delivered to the consumer through a network
+
+of conveniently located water vending machines. In order to maintain the
+
+Company's superior quality standards, the Company provides frequent, regular and
+
+reliable service and support to its network of water vending machines. The
+
+Company's service technicians visit and service each vending machine on a weekly
+
+basis. The service technicians test the quality of the Company's processed
+
+water in order to assure compliance with all Company, federal, state and local
+
+standards. The Company believes that providing clean, operating water vending
+
+machines is a significant factor in the Company's ability to continue to build
+
+consumer usage.
+
+     The Company's drinking water competes with nonsparkling water sold in
+
+containers inside retail outlets and with water sold in containers delivered
+
+directly to homes and offices. The principal costs associated with water sold
+
+off-the-shelf and through delivery are packaging and distribution, which costs
+
+are reflected in the retail price to the consumer. Because the Company's water
+
+is processed on-site in its vending machines and the consumer provides the
+
+container for the Company's product, the Company is able to avoid the packaging
+
+and distribution costs incurred by these competitors. Accordingly, the Company
+
+passes on these savings to consumers by charging a retail price of $0.25 to
+
+$0.35 per gallon, compared with retail pricing ranging from approximately $0.69
+
+to over a dollar per gallon for water sold in containers in retail outlets.
+
+Nonsparkling water sold in containers delivered directly to consumers' homes
+
+generally sells at an effective price in excess of $1.00 per gallon, including
+
+the cost of renting the dispensing unit.
+
+     Develop and Maintain Relationships With Retail Accounts. The Company
+
+arranges to place its outdoor and in-store water vending machines on the
+
+premises of supermarkets and other retail locations. The Company provides the
+
+machines and pays for all installation costs, while the retailer provides and
+
+pays for the required municipally supplied water and for the electricity to
+
+operate the machines. The Company generally pays monthly commissions to the
+
+retailers based upon a percentage of sales, typically ranging from 25% to 60%.
+
+The Company believes it can continue to capitalize on its existing relationships
+
+to place in-store water vending machines at locations where the Company has
+
+already successfully placed its outdoor water vending machines, as retailers
+
+become increasingly cognizant of the growing demand for vended water.
+
+     Substantially all of the Company's arrangements with its retail trade
+
+accounts are evidenced by written contracts, some of which contain termination
+
+clauses as well as automatic renewal clauses. The terms of these agreements
+
+range from 30 days to five years, during which time the Company has the
+
+exclusive right to provide water vending machines at specified locations. The
+
+Company aggressively competes to maintain existing retail accounts and to
+
+establish new retail relationships. In some cases, the Company provides
+
+marketing incentives in order to encourage certain retailers to promote the
+
+Company's products.
+
+     Increase Brand and Product Awareness. The Company believes that it
+
+will continue to benefit from increasing consumer awareness and trial usage. To
+
+date, the Company has used point-of-purchase signage, special introductory and
+
+promotional pricing, and promotional activities coinciding with the installation
+
+of new machines as its primary marketing tools. Additionally, since 1994, with
+
+the introduction of a new logo, the Company's marketing efforts have focused on
+
+the development and promotion of "Glacier" as a recognizable brand to the
+
+consumer and the supermarket industry. The Company is considering the testing
+
+of media advertising in markets with high population densities and where many
+
+Glacier Water vending machines are installed.
+
+     Maximize Operating Efficiencies. The Company creates economies of
+
+scale in its operations and achieves a competitive advantage over other vended
+
+water suppliers by clustering machines in close proximity to one another within
+
+the geographic areas served, in order to assure cost-effective, frequent
+
+service. The clustering has allowed the Company over the last five years to
+
+increase the number of machines serviced by technicians from 40 machines to 70
+
+machines per week. The Company continuously strives to develop technical
+
+improvements to its water vending machines that make the machines easier to use
+
+and easier to service. To this end, the Company has made improvements to its
+
+water vending machines including the introduction of its fast-flow nozzle, which
+
+                    3
+
+increases the speed of water flow from the Company's water vending machines
+
+thereby cutting consumer fill-time, and the introduction of the Company's dual-
+
+vend technology which doubles the number of nozzles on a machine to allow
+
+consumers to fill two water containers simultaneously. The Company continually
+
+monitors and evaluates demand for the Company's product at each location. This
+
+allows the Company to continue to evaluate the productivity of each of its
+
+machines and relocate machines as necessary to optimize their productivity.
+
+GROWTH STRATEGY
+
+- --------
+
+     According to an industry source, there are approximately 72,000
+
+grocery stores (excluding convenience stores) in the United States. The Company
+
+currently operates water vending machines at less than 10% of such locations.
+
+The Company intends to continue its expansion into these locations as well as
+
+into select international markets. The Company's growth strategy includes the
+
+following:
+
+ . Increase Penetration of Existing Domestic Markets. The Company primarily
+
+   operates in nine sunbelt states through the use of its outdoor water
+
+   vending machine. Management believes it can place additional outdoor
+
+   machines with both existing and new retail accounts in those states.
+
+   Management also believes there are significant opportunities to add in-
+
+   store water vending machines at its current retail account locations
+
+   without adversely affecting revenues generated by its outdoor machines at
+
+   such locations.
+
+ . Expand Into New Domestic Markets. The Company intends to place its in-store
+
+   water vending machines inside retail locations in cold-weather regions
+
+   throughout the United States. In addition, the Company intends to expand
+
+   into new warm-weather markets using both in-store and outdoor machines.
+
+ . Expand Into Select International Markets. The Company intends to capitalize
+
+   on the demand for bottled water outside of the United States by expanding
+
+   into select international markets. The Company currently is in the process
+
+   of establishing operations in Mexico as its initial entry into the
+
+   international market.
+
+ . Pursue Select Acquisition Opportunities. The Company intends to evaluate
+
+   and pursue select strategic acquisition opportunities, but has no firm
+
+   commitments with respect to acquisitions at this time.
+
+THE AQUA-VEND ACQUISITION
+
+- -------------
+
+     On March 28, 1997, the Company purchased substantially all of the
+
+assets of the Aqua-Vend division of McKesson Water Products Company, a wholly-
+
+owned subsidiary of McKesson Corporation, for a purchase price of approximately
+
+$ 9.0 million, subject to certain post-closing adjustments. Prior to the
+
+acquisition, Aqua-Vend was the Company's largest competitor, with approximately
+
+3,000 water vending machines. In connection with the acquisition, the Company
+
+developed a detailed integration plan, which included the removal of
+
+approximately 600 Aqua-Vend machines and the rationalization and relocation of
+
+Aqua-Vend machines within Glacier's network of machines.
+
+COMPETITION
+
+- ------
+
+     The bottled water market is highly competitive. The Company competes
+
+in the nonsparkling segment of the bottled water market with companies that
+
+deliver water to homes and offices, with off-the-shelf marketers and with other
+
+vending machine operators. Many of the Company's competitors have significantly
+
+greater resources than the Company. Since the Company's primary competitive
+
+advantage over water delivery services and off-the-shelf marketers is price, a
+
+substantial decline in the price of either delivered or off-the-shelf bottled
+
+water could adversely affect the demand for water dispensed from the Company's
+
+water vending machines.
+
+     The Company's competitors within the water vending market are
+
+primarily smaller, independent operators. Although the Company believes that
+
+there are significant barriers to entry to new and existing competitors in the
+
+water vending market due to, among other things, the substantial capital outlay
+
+required to purchase the number of machines needed to achieve competitive
+
+operating efficiencies, a competitor with significant financial resources
+
+                    4
+
+may be able to compete with the Company. There can be no assurance that any
+
+competitors will not be able to raise the capital required to effectively
+
+compete with the Company.
+
+SEASONALITY
+
+- ------
+
+     The Company's revenues are subject to seasonal fluctuations with
+
+decreased revenues during rainy or cold weather months and increased revenues
+
+during hot weather months.
+
+INTELLECTUAL PROPERTY
+
+- -----------
+
+     The tradename and trademarks "Glacier Water" and "Glacier Water &
+
+Penguin Design" used by the Company contain the word "Glacier" which is commonly
+
+used and has been registered in connection with other marks and designs by a
+
+number of other entities for water and related services. The mark "Glacier
+
+Water," by itself, is considered by the United States Patent and Trademark
+
+Officer (the "PTO") to be generic in relation to water and related services.
+
+One party claiming to sell bottled water in a limited area near Incline Village,
+
+Nevada, informed the Company that it objected to the Company's use of the mark
+
+"Glacier Water." However, the PTO has cancelled this party's registration.
+
+Accordingly, the Company believes that no party can claim exclusive rights in
+
+"Glacier Water," and the Company may only claim rights to stylized forms of the
+
+mark or the mark with design elements. Notwithstanding the foregoing, no
+
+assurance can be given that other entities might not assert superior or
+
+exclusive rights in the marks and seek to obtain damages from and injunctive
+
+relief against the Company. Thus, there can by no assurance that the Company's
+
+use of the tradename and trademarks "Glacier Water" and "Glacier Water & Penguin
+
+Design" will not violate the proprietary rights of others, which if such party
+
+challenged the use of such name and marks, could have a material adverse effect
+
+on the Company. The Company does not hold any patents.
+
+GOVERNMENT REGULATION
+
+- -----------
+
+     The water vending industry is subject to various federal, state and
+
+local laws and regulations, which require the Company, among other things, to
+
+obtain licenses for its business and vending machines, to pay annual license and
+
+inspection fees, to comply with certain detailed design and quality standards
+
+regarding the vending machines and the vended water, and to continuously control
+
+the quality of the vended water. The Company's vending machines are subject to
+
+routine and random regulatory quality inspections. Although the Company
+
+believes it is operating in substantial compliance with these laws and
+
+regulations, such laws and regulations and their interpretations and enforcement
+
+are subject to change. There can be no assurance that additional or more
+
+stringent requirements will not be imposed on the Company's operations in the
+
+future. Failure to comply with such current or future laws and regulations
+
+could result in fines against the Company, a temporary shutdown of the Company's
+
+operations, the loss of certification to sell its product or, even in the
+
+absence of governmental action, a reduction in the Company's profit margin based
+
+on increases in licensing or inspection fees payable by the Company or other
+
+additional compliance costs.
+
+INSURANCE
+
+- -----
+
+     The Company carries general and product liability insurance. Its
+
+combined coverage is $26,000,000 per occurrence and $27,000,000 in the
+
+aggregate, which amounts the Company believes to be adequate. Although the
+
+Company is not aware of any actions having ever been filed and believes that the
+
+technology contained in its machines makes unlikely any contamination of the
+
+products dispensed by its machines, any significant damage awards against the
+
+Company in excess of the Company's insurance coverage could result in a material
+
+loss to the Company.
+
+EMPLOYEES
+
+- -----
+
+     As of January 4, 1998, the Company had 342 employees, including 52 in
+
+administration and 290 in operations. The Company's employees are not
+
+represented by a labor union and the Company has experienced no work stoppages.
+
+The Company believes that its employee relations are good.
+
+                    5
+
+ITEM 2. PROPERTIES
+
+     The Company's principal facility, a 30,000-square-foot building in
+
+Carlsbad, California containing its executive offices and assembly shop is under
+
+lease through May 1999. The Company also leases various other facilities
+
+containing its area service centers. These leases range in square footage from
+
+2,100 to 13,400 square feet, and expire on various dates from April 1998 through
+
+September 2002.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     In response to an allegation by Pure Fill Corporation and Dennis
+
+DiSanto that certain features of the Company's water vending machines violate
+
+their patents, on October 28, 1997, the Company filed a lawsuit in the United
+
+States District Court for the Southern District of California against Pure Fill
+
+Corporation and Dennis DiSanto, as named defendants, seeking a declaration that
+
+the patents held by them are invalid under United States patent law and that the
+
+Company's water vending machines do not infringe any valid claim of the patents.
+
+On November 17, 1997, the defendants filed an answer to the complaint and
+
+counterclaim alleging that the Company is infringing its patents. Although the
+
+Company believes, based on advice of patent counsel, that this litigation will
+
+not have a material adverse effect on the Company's business, financial
+
+condition or operating results, there can be no assurance that the lawsuit
+
+ultimately will be resolved in favor of the Company, or that the Company will
+
+not have to make modifications to its machines.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted to a vote of the security holders of the
+
+Company during the fourth quarter of 1997.
+
+                  PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+     The Common Stock of Glacier is traded on the American Stock Exchange
+
+under the symbol "HOO." The following table sets forth the range of high and
+
+low sales prices on the American Stock Exchange for the Common Stock for the
+
+periods indicated.
+
+     The Company did not pay dividends on its Common Stock in 1997 and 1996
+
+and presently intends to continue this policy. The Company had approximately 47
+
+stockholders of record as of January 4, 1998.
+
+                    6
+
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+
+     The following sets forth selected financial data as of and for the
+
+periods presented. Effective January 1, 1997, the Company prospectively changed
+
+its fiscal year from twelve calendar months to a 52- or 53-week year ending the
+
+Sunday closest to December 31. As a result of this change, the Company's fiscal
+
+year 1997, which ended on January 4, 1998, contained 369 days. This data should
+
+be read in conjunction with the Consolidated Financial Statements and the
+
+accompanying Notes thereto and other financial information appearing elsewhere
+
+in this Form 10-K. The earnings per share amounts prior to the 1997 fiscal year
+
+ended January 4, 1998 have been restated as required to comply with Statement of
+
+Accounting Standards No. 128, Earnings Per Share ("Statement No. 128"). For
+
+further discussion of earnings per share and the impact of Statement No. 128,
+
+see the notes to the consolidated financial statements beginning on page 21.
+
+SELECTED BALANCE SHEET DATA
+
+- --------------
+
+                    7
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+
+     OF OPERATIONS
+
+     This discussion should be read in conjunction with the information
+
+contained in the Consolidated Financial Statements and the accompanying Notes
+
+thereto of the Company appearing elsewhere in this Form 10-K. The following
+
+table sets forth for the periods indicated, the percentage of revenues
+
+represented by certain items included in the Consolidated Statements of Income.
+
+RESULTS OF OPERATIONS
+
+- -----------
+
+OVERVIEW
+
+     In order to more closely align its fiscal reporting to its business
+
+cycle, effective January 1, 1997 the Company prospectively changed its fiscal
+
+year from twelve calendar months ending December 31, to a 52- or 53-week fiscal
+
+year ending on the Sunday closet to December 31. As a result of this change,
+
+the Company's fiscal 1997 quarters each contained 13 calendar weeks, and the
+
+fiscal year which ended January 4, 1998 contained 369 days. Results of
+
+operations for the period from January 1, 1997 to January 5, 1997 have not been
+
+reported separately, as then are not material to the fiscal year ended January
+
+4, 1998.
+
+     On March 28, 1997, the Company purchased substantially all of the
+
+assets of the Aqua-Vend division of McKesson Water Products Company, a wholly
+
+owned subsidiary of McKesson Corporation. The assets purchased included
+
+approximately 3,000 water vending machines. In connection with the acquisition,
+
+the Company developed a detailed integration plan, which included the removal of
+
+approximately 600 Aqua-Vend machines from service, the upgrading and
+
+modification of the majority of the remaining Aqua-Vend machines and the
+
+rationalization and relocation of Aqua-Vend machines within Glacier's network of
+
+machines. The revenues and operating costs associated with these machines from
+
+March 29, 1997 are included in the Company's results of operations. During
+
+fiscal 1997, the Company substantially completed the Aqua-Vend integration
+
+activities and incurred non-recurring expenses of $3,062,000 related to these
+
+activities.
+
+     During fiscal 1997, the Company installed 390 new outside machines and
+
+418 in-store machines, as well as acquiring a net of 2,472 Aqua-Vend machines,
+
+to finish the year with a total of 12,444 machines in operation, compared with
+
+9,164 at December 31, 1996. Included in the total at January 4, 1998 are 538
+
+in-store machines, compared with 120 at December 31, 1996.
+
+                    8
+
+REVENUES
+
+- ----
+
+     Revenues for fiscal year 1997 increased 24.3% to $57,294,000 from
+
+$46,091,000 in fiscal year 1996. 1996 revenues increased 8.7%, from $42,409,000
+
+in fiscal year 1995. The increases in both years are primarily the result of
+
+the increased number of machines in operation. The increase in revenues in
+
+1997, however, did not keep pace with the 35.8% increase in the number of
+
+machines in operation since December 31, 1996 due primarily to cooler than usual
+
+weather in California in the third quarter, and unusually cold and rainy weather
+
+caused by the El Nino weather conditions in the fourth quarter. Because
+
+California is the Company's largest and most important market the softer third
+
+and fourth quarter revenues had a significant impact on the Company's revenues
+
+overall.
+
+COSTS AND EXPENSES
+
+- ---------
+
+     Operating expenses for fiscal year 1997 increased to $35,569,000 or
+
+62.1% of revenues, compared to $28,088,000, or 60.9% of revenues in 1996, and
+
+$25,933,000 or 61.2% of revenues in 1995. The total dollar increases in both
+
+years are due to the additional commissions and service costs associated with
+
+the additional machines on location. The increase in operating expenses as a
+
+percentage of revenues in 1997 is primarily the result of softer revenues during
+
+the third and fourth quarters. The increase is also due in part to
+
+inefficiencies in servicing and other short term increases in service costs
+
+experienced as the Company focused its efforts on completing the integration of
+
+Aqua-Vend. These increased costs related to Aqua-Vend are in addition to the
+
+specific costs associated with the Company's identified integration projects
+
+that are reported separately as non-recurring charges.
+
+     General and administrative expenses ("G&A") for fiscal year 1997
+
+increased to $7,200,000 or 12.6% of revenues, compared to $5,749,000, or 12.5%
+
+of revenues in 1996 and $5,467,000, or 12.9% of revenues in 1995. The increase
+
+in total dollars is due to an increase in the Company's activities supporting
+
+and promoting the in-store machines program, as well as additional
+
+administrative expenses incurred as a result of the Aqua-Vend acquisition. The
+
+slight increase in G&A as a percentage of revenues in 1997 resulted primarily
+
+from the effect of softer sales in the third and fourth quarters, discussed
+
+above.
+
+     Depreciation and amortization expense for fiscal year 1997 increased
+
+to $8,852,000, compared to $6,769,000 in 1996 and $5,756,000 in 1995. The
+
+increases in each year are the result of the installation of additional
+
+machines.
+
+     The Company had expected to incur a total of approximately $3.5
+
+million in non-recurring expenses in 1997 related to the integration of Aqua-
+
+Vend's operations with Glacier's. Specifically, the integration plan included
+
+costs to close certain Glacier locations and write-off obsolete assets, to
+
+upgrade the Aqua-Vend machines to Glacier's servicing and operability standards,
+
+to rationalize and relocate equipment between Aqua-Vend and Glacier locations
+
+and to change the signage on Aqua-Vend machines to that used by Glacier. The
+
+actual total cost incurred in connection with the completion of these activities
+
+in 1997 was $3,062,000.
+
+     Interest expense for fiscal year 1997 increased to $1,988,000,
+
+compared to $767,000 in 1996 and $739,000 in 1995. The increases are due to the
+
+higher outstanding balances on the Company's bank line of credit during each
+
+year. In 1997, the acquisition of Aqua-Vend and the Company's investment in new
+
+machines were financed through additional borrowing on the line of credit.
+
+     The Company's effective tax rate in fiscal year 1997 was 31%, compared
+
+to effective rates of 30% in 1996 and 40% in 1995. The lower effective tax
+
+rates in 1997 and 1996 resulted from the Company's realization of the effect of
+
+certain income tax credits.
+
+     As a result of the foregoing, net income for fiscal year 1997 declined
+
+to $430,000, or $.13 per basic and diluted share, from $3,303,000, or $.99 per
+
+basic share and $.98 per diluted share in 1996. Net income in 1996 increased
+
+from $2,709,000, or $.81 basic share and $.80 per diluted share in 1995.
+
+                    9
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+- ----------------
+
+     The Company's primary sources of liquidity and capital resources in
+
+fiscal year 1997 were cash flows from operations and funds available under the
+
+Company's Credit Facility. The Credit Facility, which was repaid in full and
+
+terminated on January 27, 1998, provided for borrowings of up to $35.0 million
+
+and required monthly interest payments at the bank's prime rate (8.5% per annum
+
+at January 4, 1998) or LIBOR plus 1.75% (7.7% per annum at January 4, 1998).
+
+     For fiscal year 1997, net cash provided by operations was
+
+approximately $6.4 million, the Company made capital investments in vending
+
+machines and other equipment of approximately $10.0 million and invested
+
+approximately $9.4 million in the purchase of Aqua-Vend. During 1997, the
+
+Company invested approximately $315,000 in short-term investments. As of
+
+January 4, 1998, the Company had working capital of $2.0 million. Because the
+
+Company does not have significant trade accounts receivable and product
+
+inventories, working capital will vary from time to time depending on the timing
+
+of payables.
+
+     At January 4, 1998, approximately $28.7 million of borrowings were
+
+outstanding and $6.3 million was available under the Credit Facility. The
+
+purchase price of the Aqua-Vend assets was funded by additional borrowings under
+
+the Company's Credit Facility.
+
+     On January 27, 1998, Glacier Water Trust I (the "Trust"), a newly
+
+created Delaware business trust and a wholly-owned subsidiary of the Company,
+
+issued 105,154 in common securities to the Company and completed a public
+
+offering of 3.4 million of 9.0625% Cumulative Trust Preferred Securities with a
+
+liquidation amount of $25 per security (the "Trust Preferred Securities" and
+
+together with the common securities the "Trust Securities"). Concurrent with the
+
+issuance of such securities, the Trust invested the proceeds therefrom in an
+
+aggregate principal amount of $85.0 million of 9.0625% Junior Subordinated
+
+Debentures (the "Subordinated Debentures") issued by the Company. The Trust
+
+exists for the sole purpose of issuing Trust Securities and purchasing
+
+Subordinated Debentures. With the proceeds from the issuance of the Subordinated
+
+Debentures, the Company repaid in full all amounts outstanding under its bank
+
+credit agreement and terminated the agreement.
+
+     The Company believes that its cash flow from operations and the
+
+proceeds from the issuance of the Subordinated Debentures, after prepayment of
+
+its Credit Facility, will be sufficient to meet its anticipated operating and
+
+capital requirements, including its investment in vending machines, as well as
+
+distributions related to the Trust Securities, for at least the next twelve
+
+months.
+
+SEASONALITY
+
+- ------
+
+     The Company's revenues are subject to seasonal fluctuations with
+
+decreased revenues during rainy or cold weather months and increased revenues
+
+during hot weather months.
+
+ITEM 8. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The Company's Consolidated Financial Statements together with
+
+accompanying Notes and the Report of Arthur Andersen LLP Independent Public
+
+Accountants are set forth on pages 16 through 30 after Part IV of this report.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+
+FINANCIAL DISCLOSURE
+
+     The Company has had no changes in or disagreements with its
+
+accountants on its accounting and financial disclosure.
+
+                    10
+
+                  PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     There is incorporated herein by reference the information required by
+
+this Item in the Company's definitive proxy statement for the 1998 Annual
+
+Meeting of Stockholders which will be filed with the Securities and Exchange
+
+Commission no later than 120 days after the close of the fiscal year ended
+
+January 4, 1998.
+
+           EXECUTIVE OFFICERS OF THE REGISTRANT
+
+           ------------------
+
+     The executive officers are elected by and serve at the discretion of
+
+the Board of Directors until their successors are duly chosen and qualified.
+
+     JERRY R. WELCH
+
+     Mr. Welch has been a director of the Company since October 1991, has
+
+been the Chairman of the Board since April 1993 and was appointed Chief
+
+Executive Officer in September 1994. He also served as Chairman of the Board
+
+from January 1992 through September 1992. From October 1991 until his
+
+resignation in September 1992, Mr. Welch served as the Company's Chief Executive
+
+Officer. Mr. Welch currently serves as a Senior Vice President of Kayne
+
+Anderson Investment Management and has served in such a capacity since January
+
+1993.  Mr. Welch is also the Chairman of the Board and Chief Executive Officer
+
+of The Right Start, Inc. Kayne Anderson Investment Management holds an equity
+
+ownership position in The Right Start, Inc.
+
+     JERRY A. GORDON
+
+     Mr. Gordon has served as the President and Chief Operating Officer of
+
+Glacier Water Services, Inc. since September 1994, and as a Director of the
+
+Company since June 1997. Mr. Gordon joined the Company in June 1993 as Vice
+
+President of Marketing. From 1992 to 1993, Mr. Gordon was a business consultant
+
+specializing in management operations in start-up companies.
+
+     GLEN A. SKUMLIEN
+
+     Mr. Skumlien has served as Executive Vice President, Operations since
+
+September 1994. From November 1991 to September 1994, Mr. Skumlien served as
+
+Vice President-Operations.
+
+                    11
+
+     S. DANE SEIBERT
+
+     Mr. Seibert has served as Senior Vice President of Marketing since
+
+joining the Company in March 1995.  From 1990 until joining the Company Mr.
+
+Seibert was Corporate Vice President - International Marketing for Miller/Zell
+
+Inc.
+
+     JOHN T. VUAGNIAUX
+
+     Mr. Vuagniaux has served as Senior Vice President, Operations since
+
+November 1996, after joining the Company in January 1995 as Vice President,
+
+Service Support. From April 1994 to January 1995, Mr. Vuagniaux was owner of
+
+Logistics Solutions, a consulting firm specializing in logistics and operations
+
+management. From January 1992 to April 1994, Mr. Vuagniaux was Director of
+
+Distribution for Blockbuster Entertainment Corporation.
+
+     GERALD E. COMPAS
+
+     Mr. Compas has served as Vice President, Sales since March 1997. From
+
+June 1991 to March 1997, Mr. Compas served as the Director of Sales and
+
+Marketing for the Aqua-Vend division of McKesson Water Products Company.
+
+     BRENDA K. FOSTER
+
+     Ms. Foster has served as Vice President, Controller since February
+
+1996, after joining the Company as Controller in September 1995. Ms. Foster is
+
+a Certified Public Accountant, and worked as an auditor for Ernst & Young LLP
+
+from 1988 to 1995.
+
+     DANA B. GILBERT
+
+     Mr. Gilbert has served as Vice President, National Accounts since
+
+February 1996. Mr. Gilbert joined the Company in January 1992 as a Sales
+
+Manager. From January 1994 to February 1996, Mr. Gilbert served as Regional
+
+Sales Manager for the Western Division.
+
+     ROGER J. GILCHRIST
+
+     Mr. Gilchrist has served as Vice President, Eastern Operations since
+
+February 1996. Mr. Gilchrist joined the Company in April 1988 as a District
+
+Manager. In May 1993, Mr. Gilchrist assumed the position of Regional Sales
+
+Manager for the Eastern Division.
+
+     LUZ E. GONZALES
+
+     Mrs. Gonzales joined the Company in February 1995 as Vice President of
+
+Human Resources. From 1981 to February 1995, Mrs. Gonzales was Corporate
+
+Director of Human Resources for Southwest Water Company, a water service
+
+company.
+
+     BRIAN T. NAKAGAWA
+
+     Mr. Nakagawa has served as Vice President, Technology and Information
+
+Systems since February 1996, after joining the Company as Director of Technology
+
+and Information Systems in June 1995. Prior to joining the Company Mr. Nakagawa
+
+was the owner of New Frontier Technologies, an information systems consulting
+
+company.
+
+                    12
+
+   Raymond J. Schweitzer
+
+   Mr. Schweitzer has served as the Company's Vice President, International
+
+Operations since December 1997. From March 1993 to December 1997, Mr. 
+
+Schweitzer served as the Vice President, International Sales and Marketing for
+
+Shelcor, Inc., an international toy manufacturer. 
+
+Item 11.  Executive Compensation
+
+   There is incorporated herein by reference the information required by this
+
+Item in the Company's definitive proxy statement for the 1998 Annual Meeting of
+
+Stockholders which will be filed with the Securities and Exchange Commission no
+
+later than 120 days after the close of the year ended January 4, 1998. 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+   There is incorporated herein by reference the information required by this
+
+Item in the Company's definitive proxy statement for the 1998 Annual Meeting of
+
+Stockholders which will be filed with the Securities and Exchange Commission no
+
+later than 120 days after the close of the fiscal year ended January 4, 1998. 
+
+Item 13. Certain Relationships and Related Transactions
+
+   There is incorporated herein by reference the information required by this
+
+Item in the Company's definitive proxy statement for the 1998 Annual Meeting of
+
+Stockholders which will be filed with the Securities and Exchange Commission no
+
+later than 120 days after the close of the fiscal year ended January 4, 1998. 
+
+                    13
+
+                  Part IV
+
+Item 14. Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+   (a) Documents Filed with Report
+
+     --------------
+
+     1. Consolidated Financial Statements
+
+       -----------------
+
+     The consolidated financial statements listed on the accompanying Index
+
+     to Consolidated Financial Statements are filed as part of this report.
+
+     The financial statement schedules have been omitted as they are either
+
+     not required or not applicable.
+
+     2. Exhibits
+
+       ----
+
+     The exhibits listed on the accompanying Index to Exhibits on page 31
+
+     are filed as part of this report. 
+
+   (b) Reports on Form 8-K
+
+     ----------
+
+     A report on Form 8-K was filed on November 6, 1997, in connection with
+
+     the Company's determination to change its fiscal year end to the 
+
+     fifty-two or fifty-three week period ending on the Sunday closest to
+
+     December 31.
+
+                    14
+
+                   Index
+
+                   ---
+
+                    15
+
+          REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+The Board of Directors and Stockholders
+
+Glacier Water Services, Inc. 
+
+   We have audited the accompanying consolidated balance sheets of Glacier
+
+Water Services, Inc. (a Delaware corporation) and subsidiaries as of January 4,
+
+1998 and December 31, 1996, and the related consolidated statements of income,
+
+stockholders' equity and cash flows for each of the three fiscal years in the
+
+period ended January 4, 1998. These financial statements are the responsibility
+
+of the Company's management. Our responsibility is to express an opinion on
+
+these financial statements based on our audits.
+
+   We conducted our audits in accordance with generally accepted auditing
+
+standards. Those standards require that we plan and perform the audit to obtain
+
+reasonable assurance about whether the financial statements are free of material
+
+misstatement. An audit includes examining, on a test basis, evidence supporting
+
+the amounts and disclosures in the financial statements. An audit also includes
+
+assessing the accounting principles used and significant estimates made by
+
+management, as well as evaluating the overall financial statement presentation. 
+
+We believe that our audits provide a reasonable basis for our opinion. 
+
+   In our opinion, the financial statements referred to above present fairly,
+
+in all material respects, the financial position of Glacier Water Services, Inc.
+
+and subsidiaries as of January 4, 1998 and December 31, 1996, and the results of
+
+their operations and their cash flows for each of the three fiscal years in the
+
+period ended January 4, 1998, in conformity with generally accepted accounting
+
+principles.
+
+                      ARTHUR ANDERSEN LLP
+
+San Diego, California
+
+February 6, 1998
+
+                    16
+
+             GLACIER WATER SERVICES, INC. 
+
+             CONSOLIDATED BALANCE SHEETS
+
+            (in thousands, except share data)
+
+                  ASSETS
+
+                  ---
+
+        LIABILITIES AND STOCKHOLDERS' EQUITY
+
+        ------------------
+
+ The accompanying notes are an integral part of these consolidated statements.
+
+                    17
+
+             GLACIER WATER SERVICES, INC.
+
+            CONSOLIDATED STATEMENTS OF INCOME
+
+          (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+The accompanying notes are an integral part of these consolidated statements.
+
+                    18
+
+             GLACIER WATER SERVICES, INC.
+
+        CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+            (IN THOUSANDS, EXCEPT SHARE DATA)
+
+The accompanying notes are an integral part of these consolidated statements.
+
+                    19
+
+             GLACIER WATER SERVICES, INC.
+
+           CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                 (IN THOUSANDS)
+
+The accompanying notes are an integral part of these consolidated statements.
+
+                    20
+
+             GLACIER WATER SERVICES, INC.
+
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Business
+
+   The Company is primarily engaged in the operation of self-service vending
+
+machines that dispense drinking water to consumers. The machines are placed at
+
+supermarkets and other retail outlets under commission arrangements with the
+
+retailers. The Company's revenues are subject to seasonal fluctuations, with
+
+decreased revenues during rainy or cold weather months and increased revenues
+
+during hot weather months. The Company's machines are located throughout the
+
+sunbelt and midwest regions of the United States. As of January 4, 1998,
+
+approximately 58% of the Company's machines are located in California.
+
+Principles of Consolidation
+
+   The accompanying consolidated financial statements include the accounts of
+
+Glacier Water Services, Inc. and its wholly-owned subsidiaries. All significant
+
+inter-company accounts and transactions have been eliminated.
+
+Use of Estimates
+
+   The preparation of financial statements in conformity with generally
+
+accepted accounting principles requires that management make certain estimates
+
+and assumptions that affect the reported amounts of assets, liabilities,
+
+revenues and expenses, and the disclosure of contingent assets and liabilities.
+
+Actual results could differ from those estimates.
+
+Change in Fiscal Year
+
+   In order to more closely align its fiscal reporting to its business cycle,
+
+effective January 1, 1997, the Company prospectively changed its financial
+
+reporting year from a fiscal year of twelve calendar months ending December 31
+
+to a fiscal year of 52 or 53 weeks ending on the Sunday closest to December 31.
+
+As a result of this change, the Company's fiscal 1997 quarters each contained 13
+
+weeks, and fiscal year which ended January 4, 1998 contained 369 days. Results
+
+of operations for the period from January 1, 1997 to January 5, 1997 are not
+
+significant to the fiscal year ended January 4, 1998, and have not been reported
+
+separately.
+
+Investments
+
+   Investments are accounted for in accordance with FASB Statement No. 115,
+
+Accounting for Certain Investments in Debt and Equity Securities, which requires
+
+that the Company determine the appropriate classification of investments at the
+
+time of purchase and reevaluate such designation as of each balance sheet date.
+
+At January 4, 1998, the Company considered all investments as available for use
+
+in its current operations, and therefore classified them as short-term,
+
+available-for-sale investments. Available-for-sale investments are stated at
+
+fair value, with unrealized gains and losses, if any, net of tax, reported as a
+
+separate component of stockholders' equity. Interest, dividends, realized gains
+
+and losses and declines in value judged to be other-than-temporary are included
+
+in interest expense, net. The cost of securities sold is based on the specific
+
+identification method.
+
+                    21
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+Inventories
+
+   Inventories consist of raw materials, repair parts and vending machines in
+
+process of assembly, and are stated at the lower of cost (moving weighted
+
+average) or market. Costs associated with the assembly of vending machines are
+
+accumulated until finished machines are ready for installation at a retail
+
+location, at which time the costs are transferred to property and equipment.
+
+   At January 4, 1998, and December 31, 1996, inventories consist primarily of
+
+raw materials and spare parts.
+
+Prepaid Commissions
+
+   Prepaid commissions represent payments made to certain retailers based on a
+
+percentage of estimated monthly or quarterly vending machine revenues. Prepaid
+
+commissions at January 4, 1998, and December 31, 1996, were $254,000 and
+
+$490,000, respectively. Commission expense for the years ended January 4, 1998,
+
+December 31, 1996, and December 31, 1995 was $27,219,000, $21,678,000 and
+
+$19,643,000, respectively.
+
+Property and Equipment and Depreciation
+
+Property and equipment are recorded at cost and consist of the
+
+following (in thousands):
+
+                   ========    ======== 
+
+   Depreciation is provided using the straight-line method over the estimated
+
+useful lives of the assets as follows:
+
+   Vending equipment           10 years
+
+   Equipment, furniture and fixtures   5 to 10 years
+
+   Leasehold improvements         Life of Lease
+
+   The Company's vending equipment is depreciated to a 20% salvage value.
+
+Costs associated with installing vending equipment are capitalized and
+
+depreciated over five years.
+
+   All maintenance, repair and refurbishment costs are charged to operations
+
+as incurred. Additions and major improvements are capitalized.
+
+                    22
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+Income Taxes
+
+   Income taxes have been provided for using the liability method in
+
+accordance with FASB Statement No. 109, Accounting for Income Taxes.
+
+Net Income Per Share
+
+   In 1997, the Financial Accounting Standards Board issued Statement No. 128,
+
+Earnings Per Share ("Statement No. 128"). Statement No. 128 replaced the
+
+calculation of primary and fully diluted earnings per share with basic and
+
+diluted earnings per share. Unlike primary earnings per share, basic earnings
+
+per share excludes any dilutive effects of options, warrants and convertible
+
+securities. Diluted earnings per share includes the dilutive effect of such
+
+securities. All earnings per share amounts for all periods have been presented,
+
+and where appropriate, restated to conform to the requirements of Statement No.
+
+128.
+
+Reclassifications
+
+   Certain prior year amounts have been reclassified to conform to the current
+
+presentation.
+
+2.  ACQUISITION
+
+   On March 28, 1997, the Company purchased substantially all of the assets of
+
+the Aqua-Vend division of McKesson Water Products Company, a wholly-owned
+
+subsidiary of McKesson Corporation, for $9.0 million in cash plus certain direct
+
+costs, including sales tax on assets purchased. The transaction was accounted
+
+for under the purchase method, and the purchase price and related direct costs
+
+were allocated based on the estimated fair value of assets acquired and
+
+liabilities assumed, as follows (in thousands):
+
+   The unaudited consolidated pro forma results of operations for the fiscal
+
+years ended January 4, 1998 and December 31, 1996 presented below assume that
+
+the transaction occurred as of the beginning of the respective periods (in
+
+thousands, except per share amounts):
+
+                    23
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+/(1)/ Includes a $7.0 million charge for the reduction in carrying value of
+
+   equipment. Excluding this charge, pro forma net income for the year ended
+
+   December 31, 1996 would be $1,698,000 and pro forma net income per share
+
+   would be $.51 on a basic basis and $.50 on a diluted basis.
+
+3.  SUPPLEMENTARY BALANCE SHEET INFORMATION
+
+   Short-Term Investments
+
+     At January 4, 1998, short-term investments consisted of high-yield
+
+   corporate bonds and convertible corporate bonds. Cost of these investments
+
+   approximated fair value at January 4, 1998; accordingly, no unrealized gain
+
+   or loss is included in stockholders' equity. There were no sales of
+
+   available-for-sale investments during the year ended January 4, 1998.
+
+   Accounts Receivable
+
+     Included in accounts receivable at December 31, 1996 is a $100,000
+
+   note receivable from Jerry A. Gordon, the Company's President and Chief
+
+   Operating Officer. The note, issued during 1996, was non-interest bearing,
+
+   and was repaid in full subsequent to December 31, 1996.
+
+      Prepaid marketing incentives consist of fees paid to retailers for
+
+ future benefits associated with the ongoing placement of the Company's vending
+
+ equipment at those locations. These fees are amortized over the life of the
+
+ contract, generally ranging from three to five years.
+
+Accrued Liabilities
+
+4.  LONG-TERM DEBT
+
+   Long-term debt at January 4, 1998, and December 31, 1996, represents
+
+borrowings under the Company's bank credit agreement.
+
+                    24
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+   The credit agreement provides for long-term borrowings of up to $35.0
+
+million. Borrowings bear interest at the bank's prime rate (8.5% at January 4,
+
+1998) or LIBOR plus 1.75% (7.7% at January 4, 1998), and the entire principal
+
+balance is due July 1, 2003. As of January 4, 1998, the Company had
+
+approximately $6.3 million of funds available under the agreement. Borrowings
+
+under the agreement are secured by substantially all of the assets of the
+
+Company.
+
+   On January 27, 1998, the Company repaid the outstanding balance and all
+
+accrued interest on the line of credit and terminated the credit agreement. See
+
+Note 12 - Subsequent Events.
+
+5.  LEASES
+
+   The Company leases certain vehicles, warehouse and office facilities
+
+under non-cancelable operating leases which expire on various dates through
+
+2002.
+
+   Future minimum lease payments under non-cancelable operating leases with
+
+initial terms of one or more years are as follows (in thousands): 
+
+   Total lease expense for the years ended January 4, 1998, December 31, 1996,
+
+and December 31, 1995, was $1,503,000, $1,284,000, and $1,109,000, respectively.
+
+6.  INCOME TAXES
+
+   Significant components of the provision (benefit) for income taxes are as
+
+follows (in thousands):
+
+                    25
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+Deferred tax liabilities and assets result from the following (in thousands):
+
+The Company's effective income tax rate differs from the federal statutory rate
+
+as follows:
+
+  During 1997, the Internal Revenue Service completed its examination
+
+for the Company's fiscal year ended December 31, 1992. The IRS has proposed
+
+adjustments that the Company is in the process of appealing. Management does
+
+not believe that the results of such appeal will have a material impact on the
+
+Company's financial statements.
+
+7. STOCKHOLDERS' EQUITY
+
+  Preferred Stock
+
+  The Company's Certificate of Incorporation authorizes the issuance of
+
+100,000 shares of preferred stock, par value $.01 per share. The rights,
+
+preferences and privileges of the authorized shares (none of which have been
+
+issued) may be established by the Board of Directors without further action by
+
+the holders of the Company's common stock.
+
+  Treasury Stock
+
+  In December 1995, the Board of Directors authorized the purchase of up
+
+to 250,000 shares of the Company's common stock in the open market. In December
+
+1996, the Board of Directors authorized the additional purchase of up to 250,000
+
+shares of the Company's common stock. As of January 4, 1998, 172,600 shares had
+
+been repur-
+
+                    26
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+chased under this program, and the Company was authorized to repurchase an
+
+additional 327,400 shares, approximately 10.1% of the Company's total shares
+
+outstanding.
+
+8.  STOCK OPTION PLANS
+
+   The Company has shares outstanding under two stock option plans, the 1992
+
+Stock Option Plan, which was terminated in 1994, and the 1994 Stock Compensation
+
+Program. The Company accounts for these plans under APB Opinion No. 25, under
+
+which no compensation cost has been recognized. The following pro forma
+
+disclosures represent what the Company's net income (loss) and earnings (loss)
+
+per share would have been had the Company recorded compensation cost for these
+
+plans in accordance with the provisions of FASB Statement No. 123, Accounting
+
+for Stock-Based Compensation ("Statement No. 123").
+
+     Because the method of accounting required under Statement No. 123 has
+
+not been applied to options granted prior to January 1, 1995, the resulting pro
+
+forma compensation cost may not be representative of that to be expected in 
+
+future years.
+
+     The Company has reserved 275,000 shares of common stock under the 1994
+
+Stock Compensation Program, as amended, for issuance under a stock option plan
+
+that provides for the issuance of incentive and non-qualified stock options to
+
+key employees, including directors and consultants. Incentive stock options are
+
+granted at no less than the fair market value on the date of the grant. Non-
+
+qualified options may be granted at prices determined by the Board of Directors,
+
+but at no less than 85% of the fair market value on the date of the grant.
+
+Options generally have a term of 10 years and become exercisable at a rate of
+
+25% per annum. The Program also allows directors to receive stock options in
+
+lieu of their annual directors' fees. Options granted under this provision
+
+(Deferral Options) have a term of five years and become exercisable one year
+
+following the date of grant.
+
+     The Company had reserved 360,000 shares of common stock under the 1992
+
+Stock Option Plan for issuance under a stock option plan that provides for the
+
+issuance of incentive and non-qualified stock options to key employees,
+
+including directors and consultants. Incentive stock options are granted at no
+
+less than the fair market  value on the date of the grant. Non-qualified
+
+options may be granted at prices determined by the Board of Directors, but at no
+
+less than 85% of the fair market value on the date of the grant. Options become
+
+exercisable at a rate of 25% per annum. The 1992 Stock Compensation Plan was
+
+terminated in 1994 with a balance of 42,250 shares of common stock available for
+
+grant which were transferred to the 1994 Stock Compensation Program.
+
+                    27
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+     A summary of the status of the Company's two stock option plans at
+
+January 4, 1998 and activity during the year then ended follows:
+
+     The 117,250 shares outstanding under the 1992 plan at January 4, 1998
+
+have exercise prices between $8.25 and $13.63, with a weighted average exercise
+
+price of $11.62 and a weighted average remaining contractual life of 5.4 years.
+
+110,375 of these options are exercisable; their weighted average exercise price
+
+is $11.50.
+
+     The 314,606 shares outstanding under the 1994 plan at January 4, 1998
+
+have exercise prices between $15.25 and $30.00, with a weighted average exercise
+
+price of $21.16 and a weighted average remaining contractual life of 6.9 years.
+
+125,329 of these options are exercisable; their weighted average exercise price
+
+is $18.84.
+
+     The fair value of each option grant is estimated on the date of grant
+
+using the Black-Scholes option pricing model with the following weighted average
+
+assumptions used for grants in fiscal 1997, 1996 and 1995, respectively: average
+
+risk-free interest rates of 6.5%, 5.8% and 7.2%; no expected dividend yield;
+
+expected lives of 8 years for regular options and 5 years for Deferral Options
+
+in all years; expected volatility of approximately 30% all years.
+
+9. EARNINGS PER SHARE
+
+   The following table sets forth the calculation of basic and diluted
+
+earnings per share:
+
+                    28
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+10. SIGNIFICANT CUSTOMERS
+
+     The following table sets forth the percentage of the Company's total
+
+revenues that were derived from major customers:
+
+11. CONTINGENCIES
+
+     The Company is involved in a legal proceeding resulting from
+
+allegations by a third party that the Company is infringing on certain patents.
+
+Based on advice of patent counsel, management does not believe that the final
+
+disposition of this case will have a material impact on the financial position
+
+or results of operations of the Company.
+
+12. SUBSEQUENT EVENTS
+
+     Company Obligated Mandatorily Redeemable Preferred Securities of a
+
+Subsidiary Trust Holding Solely Subordinated Debt Securities of the Company
+
+     On January 27, 1998, Glacier Water Trust I (the "Trust"), a newly
+
+created Delaware business trust and a wholly-owned subsidiary of the Company,
+
+issued 105,154 common securities to the Company and completed a public offering
+
+of 3.4 million of 9.0625% Cumulative Trust Preferred Securities with a
+
+liquidation amount of $25 per security (the "Trust Preferred Securities" and
+
+together with the common securities the "Trust Securities"). The Trust exists
+
+for the sole purpose of issuing Trust Securities. Concurrent with the issuance
+
+of such securities, the Trust invested the proceeds therefrom in an aggregate
+
+principal amount of $85.0 million of 9.0625% Junior Subordinated Debentures (the
+
+"Subordinated Debentures") issued by the Company.
+
+     Distributions on the Trust Securities are payable monthly in arrears
+
+by the Trust. The Company may cause the Trust to defer the payment of
+
+distributions for a period not to exceed 60 consecutive months. During any such
+
+deferral period, distributions will accrue and compound quarterly, and the
+
+Company may not declare or pay distributions on its common or preferred stock or
+
+debt securities that rank equal or junior to the Subordinated Debentures.
+
+     The Subordinated Debentures are unsecured obligations of the Company
+
+and are subordinate and junior in right of payment to certain other indebtedness
+
+of the Company. The Trust Securities are subject to mandatory redemption upon
+
+the repayment of the Subordinated Debentures at a redemption price equal to the
+
+aggregate liquidation amount of the Securities plus any accumulated and unpaid
+
+distributions. The Subordinated Debentures mature on January 31, 2028, but may
+
+be redeemed at the option of the Company at any time after January 31, 2003.
+
+The Company effectively provides a full and unconditional guarantee of the
+
+Trust's obligations under the Trust Securities.
+
+     Issuance costs of approximately $3.9 million related to the Trust
+
+Securities are deferred and will be amortized over the period until the
+
+mandatory redemption of the securities in January 2028.
+
+                    29
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+ Bank Credit Agreement
+
+     With the proceeds from the issuance of the Subordinated Debentures,
+
+ the Company repaid in full all amounts outstanding under its bank credit
+
+ agreement and terminated the agreement.
+
+13. QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+                    30
+
+                INDEX TO EXHIBITS
+
+                    31
+
+                  SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+
+its behalf by the undersigned, thereunto duly authorized.
+
+                   GLACIER WATER SERVICES, INC.
+
+                   By /s/ Jerry A. Gordon
+
+                     -------------------
+
+                     Jerry A. Gordon
+
+                     President, Chief Operating Officer and
+
+                     Director
+
+                   By /s/ Brenda K. Foster
+
+                     -------------------
+
+                     Brenda K. Foster
+
+                     Vice President, Controller
+
+Date:   April 2, 1998
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+
+this report has been signed below by the following persons on behalf of the
+
+Registrant and in the capacities indicated on April 2, 1998.
+
+Signature            Title
+
+- -----            ---
+
+Principal Executive Officer:
+
+/s/ Jerry A. Gordon       President, Chief Operating Officer and
+
+- --------------   Director
+
+Jerry A. Gordon
+
+/s/ Jerry R. Welch        Chairman of the Board, Chief Executive
+
+- --------------   Officer and Director
+
+Jerry R. Welch
+
+/s/ Douglas C. Boyd       Director
+
+- --------------       
+
+Douglas C. Boyd
+
+/s/ Peter B. Foreman       Director
+
+- --------------
+
+Peter B. Foreman
+
+/s/ Richard A. Kayne       Director
+
+- --------------
+
+Richard A. Kayne
+
+/s/ Scott H. Shlecter      Director
+
+- -------------- 
+
+Scott H. Shlecter
+
+/s/ Robert V. Sinnott      Director
+
+- --------------    
+
+Robert V. Sinnott
+
+/s/ Brenda K. Foster       Vice President, Controller 
+
+- --------------
+
+Brenda K. Foster
+
+                    32
+Question: Where are most of Glacier's vending machines located?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fsq-214-pert ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: 10-K
+
+1
+
+FORM 10-K
+
+================================================================================
+
+                 UNITED STATES
+
+            SECURITIES AND EXCHANGE COMMISSION
+
+               WASHINGTON, D.C. 20549
+
+                  FORM 10-K
+
+[ X ] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+
+    ACT OF 1934  [NO FEE REQUIRED]
+
+    For the fiscal year ended:  January 4, 1998
+
+    Commission file number:   1-11012
+
+             GLACIER WATER SERVICES, INC.
+
+             --------------
+
+      (Exact name of registrant as specified in its charter)
+
+     Delaware                      33-0493559
+
+- --------------------        ----------
+
+(State or other jurisdiction of             (I.R.S. Employer 
+
+incorporation or organization)             Identification No.)
+
+   2261 Cosmos Court,
+
+    Carlsbad, CA                      92009
+
+- --------------------        ----------
+
+(Address of principal executive offices)          (Zip Code)
+
+Registrant's telephone number, including area code:    (760) 930-2420
+
+                            ----------
+
+Securities registered pursuant to Section 12(b) 
+
+       of the Act:
+
+   Title of each class              Name of each exchange on
+
+                             which registered
+
+Common Stock, $.01 Par Value Per Share        American Stock Exchange
+
+     Securities registered pursuant to section 12(g) of the Act:
+
+                   None
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+
+the preceding 12 months (or for such shorter period that the registrant was
+
+required to file such reports), and (2) has been subject to such filing
+
+requirements for the past 90 days.           YES [X]   NO [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+
+of Regulation S-K is not contained herein, and will not be contained, to the
+
+best of registrant's knowledge, in definitive proxy or information statements
+
+incorporated by reference in Part III of the Form 10-K of any amendment to this
+
+Form 10-K. [ ]
+
+As of March 6, 1998, the aggregate market value of the voting stock held by non-
+
+affiliates of the registrant was $49,624,000 (calculated at the closing price on
+
+the American Stock Exchange multiplied by outstanding shares held by non-
+
+affiliates). For purposes of the foregoing calculation, certain persons who
+
+have filed reports on Schedule 13D with the SEC with respect to their beneficial
+
+ownership of more than 5% of the registrant's outstanding common stock and
+
+directors and officers have been excluded from the group of stockholders deemed
+
+to be non-affiliates of the registrants.
+
+As of March 6, 1998, the registrants had 3,201,825 shares of common stock
+
+outstanding.
+
+The total number of pages in this Form 10-K is 32; the Index to Exhibits is
+
+located on page 31.
+
+           DOCUMENTS INCORPORATED BY REFERENCE
+
+The information required by Part III (Items 10, 11, 12 and 13) is incorporated
+
+by reference to portions of the registrant's definitive proxy statement for the
+
+1998 Annual Meeting of Stockholders which will be filed with the Securities and
+
+Exchange Commission within 120 days after the close of the 1997 fiscal year.
+
+================================================================================
+
+Statements in this Annual Report that are not purely historical are forward
+
+looking statements within the meaning of the Private Securities Litigation
+
+Reform Act of 1995. These forward looking statements with respect to the
+
+financial condition and results of operations of the Company involve risks and
+
+uncertainties including, but not limited to, trade relations, dependence on
+
+certain locations and competition, as described in Part I below, that could
+
+cause actual results to differ materially from those projected.
+
+                   PART I
+
+ITEM 1. BUSINESS
+
+INTRODUCTION
+
+- ------
+
+     Glacier Water Services, Inc. ("Glacier" or the "Company") is the
+
+leading provider of high quality, low priced drinking water dispensed to
+
+consumers through self-service vending machines. Since its inception in 1983,
+
+the Company has created a network of over 12,000 water vending machines
+
+throughout the sunbelt and midwest regions of the United States. The Company's
+
+water vending machines are placed at supermarkets and other retail locations in
+
+order to take advantage of the regular customer traffic at such locations.
+
+     The Company's internally developed and manufactured water vending
+
+machines are connected to the municipal water source at each of its retail
+
+locations. The vending machines reduce impurities in the water through a
+
+combination of micron filtration, reverse osmosis, carbon absorption and
+
+ultraviolet sterilization. The Company generally charges $.25 to $.35 per
+
+gallon, which is significantly lower than the price of water sold off-the-shelf
+
+in retail locations or sold through home delivery services. The Company's water
+
+vending machines are clustered in close proximity to one another within the
+
+geographic areas served in order to assure cost-effective, quality service.
+
+Each water vending machines is serviced and tested weekly.
+
+     The Company has experienced significant growth. The number of water
+
+vending machines in operation has increased from 3,666 machines as of December
+
+31, 1992 to 12,444 machines as of January 4, 1998. During fiscal year 1997, the
+
+Company's growth was primarily a result of the acquisition of the Company's
+
+largest competitor, Aqua-Vend, a division of McKesson Water Products Company.
+
+     Historically, the Company has operated water vending machines designed
+
+primarily for outside use in fair-weather climates. Because it is impractical
+
+to use outdoor vending machines in cold-weather climates, the Company developed
+
+a new water vending machine specifically designed to be installed inside retail
+
+locations. The "in-store" machine is smaller and has a sleeker exterior,
+
+thereby making it more compatible with an interior retail layout. The Company
+
+believes that the in-store machines afford the Company significant opportunities
+
+to expand within its existing locations, as well as into new market areas in
+
+cold-weather states.
+
+In addition to its growth strategy, the Company intends to maintain its leading
+
+position in the water vending industry by: (i) providing high quality, low
+
+priced water to consumers; (ii) developing and maintaining good relationships
+
+with retail accounts; (iii) increasing brand awareness; and (iv) maximizing
+
+operating efficiencies and asset productivity.
+
+                    1
+
+BUSINESS BACKGROUND
+
+- ----------
+
+The following table presents the number of machines installed annually since
+
+December 31, 1992:
+
+   Total machines installed as of January 4, 1998 are distributed by state as
+
+follows:
+
+     The placement of the Company's vending machines at retail locations is
+
+based upon a thorough review of each site. Included in the site review is an
+
+analysis of the surrounding trade area in order to determine the neighborhood
+
+demographics, the level of overall retail activity, the level of direct
+
+competition and the proximity of the site to other vending machines operated by
+
+the Company. Further, the Company reviews each site in order to ensure high
+
+visibility and easy access for the consumer, along with appropriate access to
+
+the retailer's water supply and power source. Upon completion of this review,
+
+the Company makes a determination as to the viability of the location and
+
+whether a single machine or multiple machines are required at the time of
+
+initial installation. With large chains of supermarkets, the Company generally
+
+places machines at all of the chains' locations as part of its business
+
+agreements. To attain optimum efficiency, multiple vending machines may be
+
+installed at a site if the volume of sales so warrants.
+
+     Glacier's internally developed water vending machines utilize micron
+
+filtration, reverse osmosis, carbon adsorption and ultraviolet sterilization in
+
+order to provide high quality drinking water. The design of the Company's
+
+machines provides a high degree of reliability and serviceability through the
+
+use of interchangeable parts and a durable fiberglass cabinet. The machines are
+
+also designed to be easy for consumers to use, with clear and simple
+
+instructions.
+
+THE BOTTLED WATER INDUSTRY
+
+- -------------
+
+     The bottled water market in the United States is comprised of four
+
+segments: nonsparkling, sparkling, club soda/seltzer and imported water.
+
+Nonsparkling water is the segment in which the Company competes and is consumed
+
+as an alternative to tap water. Nonsparkling water is distributed through three
+
+principal channels: packaged water sold off-the-shelf in retail locations,
+
+packaged water delivered to homes and offices and water sold through vending
+
+machines. Like water sold off-the-shelf or through home delivery services,
+
+vended water is processed using the reverse osmosis or deionization methods.
+
+Although equivalent in quality, vended water is sold at a substantially lower
+
+price than off-the-shelf and delivered water. Vended water eliminates two
+
+principal cost components, packaging, because consumers provide their own
+
+containers, and transportation.
+
+                    2
+
+BUSINESS STRATEGY
+
+- ---------
+
+     Provide High Quality, Low Priced Drinking Water. The Company intends
+
+to maintain its leading position in the water vending industry by providing high
+
+quality, low priced drinking water delivered to the consumer through a network
+
+of conveniently located water vending machines. In order to maintain the
+
+Company's superior quality standards, the Company provides frequent, regular and
+
+reliable service and support to its network of water vending machines. The
+
+Company's service technicians visit and service each vending machine on a weekly
+
+basis. The service technicians test the quality of the Company's processed
+
+water in order to assure compliance with all Company, federal, state and local
+
+standards. The Company believes that providing clean, operating water vending
+
+machines is a significant factor in the Company's ability to continue to build
+
+consumer usage.
+
+     The Company's drinking water competes with nonsparkling water sold in
+
+containers inside retail outlets and with water sold in containers delivered
+
+directly to homes and offices. The principal costs associated with water sold
+
+off-the-shelf and through delivery are packaging and distribution, which costs
+
+are reflected in the retail price to the consumer. Because the Company's water
+
+is processed on-site in its vending machines and the consumer provides the
+
+container for the Company's product, the Company is able to avoid the packaging
+
+and distribution costs incurred by these competitors. Accordingly, the Company
+
+passes on these savings to consumers by charging a retail price of $0.25 to
+
+$0.35 per gallon, compared with retail pricing ranging from approximately $0.69
+
+to over a dollar per gallon for water sold in containers in retail outlets.
+
+Nonsparkling water sold in containers delivered directly to consumers' homes
+
+generally sells at an effective price in excess of $1.00 per gallon, including
+
+the cost of renting the dispensing unit.
+
+     Develop and Maintain Relationships With Retail Accounts. The Company
+
+arranges to place its outdoor and in-store water vending machines on the
+
+premises of supermarkets and other retail locations. The Company provides the
+
+machines and pays for all installation costs, while the retailer provides and
+
+pays for the required municipally supplied water and for the electricity to
+
+operate the machines. The Company generally pays monthly commissions to the
+
+retailers based upon a percentage of sales, typically ranging from 25% to 60%.
+
+The Company believes it can continue to capitalize on its existing relationships
+
+to place in-store water vending machines at locations where the Company has
+
+already successfully placed its outdoor water vending machines, as retailers
+
+become increasingly cognizant of the growing demand for vended water.
+
+     Substantially all of the Company's arrangements with its retail trade
+
+accounts are evidenced by written contracts, some of which contain termination
+
+clauses as well as automatic renewal clauses. The terms of these agreements
+
+range from 30 days to five years, during which time the Company has the
+
+exclusive right to provide water vending machines at specified locations. The
+
+Company aggressively competes to maintain existing retail accounts and to
+
+establish new retail relationships. In some cases, the Company provides
+
+marketing incentives in order to encourage certain retailers to promote the
+
+Company's products.
+
+     Increase Brand and Product Awareness. The Company believes that it
+
+will continue to benefit from increasing consumer awareness and trial usage. To
+
+date, the Company has used point-of-purchase signage, special introductory and
+
+promotional pricing, and promotional activities coinciding with the installation
+
+of new machines as its primary marketing tools. Additionally, since 1994, with
+
+the introduction of a new logo, the Company's marketing efforts have focused on
+
+the development and promotion of "Glacier" as a recognizable brand to the
+
+consumer and the supermarket industry. The Company is considering the testing
+
+of media advertising in markets with high population densities and where many
+
+Glacier Water vending machines are installed.
+
+     Maximize Operating Efficiencies. The Company creates economies of
+
+scale in its operations and achieves a competitive advantage over other vended
+
+water suppliers by clustering machines in close proximity to one another within
+
+the geographic areas served, in order to assure cost-effective, frequent
+
+service. The clustering has allowed the Company over the last five years to
+
+increase the number of machines serviced by technicians from 40 machines to 70
+
+machines per week. The Company continuously strives to develop technical
+
+improvements to its water vending machines that make the machines easier to use
+
+and easier to service. To this end, the Company has made improvements to its
+
+water vending machines including the introduction of its fast-flow nozzle, which
+
+                    3
+
+increases the speed of water flow from the Company's water vending machines
+
+thereby cutting consumer fill-time, and the introduction of the Company's dual-
+
+vend technology which doubles the number of nozzles on a machine to allow
+
+consumers to fill two water containers simultaneously. The Company continually
+
+monitors and evaluates demand for the Company's product at each location. This
+
+allows the Company to continue to evaluate the productivity of each of its
+
+machines and relocate machines as necessary to optimize their productivity.
+
+GROWTH STRATEGY
+
+- --------
+
+     According to an industry source, there are approximately 72,000
+
+grocery stores (excluding convenience stores) in the United States. The Company
+
+currently operates water vending machines at less than 10% of such locations.
+
+The Company intends to continue its expansion into these locations as well as
+
+into select international markets. The Company's growth strategy includes the
+
+following:
+
+ . Increase Penetration of Existing Domestic Markets. The Company primarily
+
+   operates in nine sunbelt states through the use of its outdoor water
+
+   vending machine. Management believes it can place additional outdoor
+
+   machines with both existing and new retail accounts in those states.
+
+   Management also believes there are significant opportunities to add in-
+
+   store water vending machines at its current retail account locations
+
+   without adversely affecting revenues generated by its outdoor machines at
+
+   such locations.
+
+ . Expand Into New Domestic Markets. The Company intends to place its in-store
+
+   water vending machines inside retail locations in cold-weather regions
+
+   throughout the United States. In addition, the Company intends to expand
+
+   into new warm-weather markets using both in-store and outdoor machines.
+
+ . Expand Into Select International Markets. The Company intends to capitalize
+
+   on the demand for bottled water outside of the United States by expanding
+
+   into select international markets. The Company currently is in the process
+
+   of establishing operations in Mexico as its initial entry into the
+
+   international market.
+
+ . Pursue Select Acquisition Opportunities. The Company intends to evaluate
+
+   and pursue select strategic acquisition opportunities, but has no firm
+
+   commitments with respect to acquisitions at this time.
+
+THE AQUA-VEND ACQUISITION
+
+- -------------
+
+     On March 28, 1997, the Company purchased substantially all of the
+
+assets of the Aqua-Vend division of McKesson Water Products Company, a wholly-
+
+owned subsidiary of McKesson Corporation, for a purchase price of approximately
+
+$ 9.0 million, subject to certain post-closing adjustments. Prior to the
+
+acquisition, Aqua-Vend was the Company's largest competitor, with approximately
+
+3,000 water vending machines. In connection with the acquisition, the Company
+
+developed a detailed integration plan, which included the removal of
+
+approximately 600 Aqua-Vend machines and the rationalization and relocation of
+
+Aqua-Vend machines within Glacier's network of machines.
+
+COMPETITION
+
+- ------
+
+     The bottled water market is highly competitive. The Company competes
+
+in the nonsparkling segment of the bottled water market with companies that
+
+deliver water to homes and offices, with off-the-shelf marketers and with other
+
+vending machine operators. Many of the Company's competitors have significantly
+
+greater resources than the Company. Since the Company's primary competitive
+
+advantage over water delivery services and off-the-shelf marketers is price, a
+
+substantial decline in the price of either delivered or off-the-shelf bottled
+
+water could adversely affect the demand for water dispensed from the Company's
+
+water vending machines.
+
+     The Company's competitors within the water vending market are
+
+primarily smaller, independent operators. Although the Company believes that
+
+there are significant barriers to entry to new and existing competitors in the
+
+water vending market due to, among other things, the substantial capital outlay
+
+required to purchase the number of machines needed to achieve competitive
+
+operating efficiencies, a competitor with significant financial resources
+
+                    4
+
+may be able to compete with the Company. There can be no assurance that any
+
+competitors will not be able to raise the capital required to effectively
+
+compete with the Company.
+
+SEASONALITY
+
+- ------
+
+     The Company's revenues are subject to seasonal fluctuations with
+
+decreased revenues during rainy or cold weather months and increased revenues
+
+during hot weather months.
+
+INTELLECTUAL PROPERTY
+
+- -----------
+
+     The tradename and trademarks "Glacier Water" and "Glacier Water &
+
+Penguin Design" used by the Company contain the word "Glacier" which is commonly
+
+used and has been registered in connection with other marks and designs by a
+
+number of other entities for water and related services. The mark "Glacier
+
+Water," by itself, is considered by the United States Patent and Trademark
+
+Officer (the "PTO") to be generic in relation to water and related services.
+
+One party claiming to sell bottled water in a limited area near Incline Village,
+
+Nevada, informed the Company that it objected to the Company's use of the mark
+
+"Glacier Water." However, the PTO has cancelled this party's registration.
+
+Accordingly, the Company believes that no party can claim exclusive rights in
+
+"Glacier Water," and the Company may only claim rights to stylized forms of the
+
+mark or the mark with design elements. Notwithstanding the foregoing, no
+
+assurance can be given that other entities might not assert superior or
+
+exclusive rights in the marks and seek to obtain damages from and injunctive
+
+relief against the Company. Thus, there can by no assurance that the Company's
+
+use of the tradename and trademarks "Glacier Water" and "Glacier Water & Penguin
+
+Design" will not violate the proprietary rights of others, which if such party
+
+challenged the use of such name and marks, could have a material adverse effect
+
+on the Company. The Company does not hold any patents.
+
+GOVERNMENT REGULATION
+
+- -----------
+
+     The water vending industry is subject to various federal, state and
+
+local laws and regulations, which require the Company, among other things, to
+
+obtain licenses for its business and vending machines, to pay annual license and
+
+inspection fees, to comply with certain detailed design and quality standards
+
+regarding the vending machines and the vended water, and to continuously control
+
+the quality of the vended water. The Company's vending machines are subject to
+
+routine and random regulatory quality inspections. Although the Company
+
+believes it is operating in substantial compliance with these laws and
+
+regulations, such laws and regulations and their interpretations and enforcement
+
+are subject to change. There can be no assurance that additional or more
+
+stringent requirements will not be imposed on the Company's operations in the
+
+future. Failure to comply with such current or future laws and regulations
+
+could result in fines against the Company, a temporary shutdown of the Company's
+
+operations, the loss of certification to sell its product or, even in the
+
+absence of governmental action, a reduction in the Company's profit margin based
+
+on increases in licensing or inspection fees payable by the Company or other
+
+additional compliance costs.
+
+INSURANCE
+
+- -----
+
+     The Company carries general and product liability insurance. Its
+
+combined coverage is $26,000,000 per occurrence and $27,000,000 in the
+
+aggregate, which amounts the Company believes to be adequate. Although the
+
+Company is not aware of any actions having ever been filed and believes that the
+
+technology contained in its machines makes unlikely any contamination of the
+
+products dispensed by its machines, any significant damage awards against the
+
+Company in excess of the Company's insurance coverage could result in a material
+
+loss to the Company.
+
+EMPLOYEES
+
+- -----
+
+     As of January 4, 1998, the Company had 342 employees, including 52 in
+
+administration and 290 in operations. The Company's employees are not
+
+represented by a labor union and the Company has experienced no work stoppages.
+
+The Company believes that its employee relations are good.
+
+                    5
+
+ITEM 2. PROPERTIES
+
+     The Company's principal facility, a 30,000-square-foot building in
+
+Carlsbad, California containing its executive offices and assembly shop is under
+
+lease through May 1999. The Company also leases various other facilities
+
+containing its area service centers. These leases range in square footage from
+
+2,100 to 13,400 square feet, and expire on various dates from April 1998 through
+
+September 2002.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     In response to an allegation by Pure Fill Corporation and Dennis
+
+DiSanto that certain features of the Company's water vending machines violate
+
+their patents, on October 28, 1997, the Company filed a lawsuit in the United
+
+States District Court for the Southern District of California against Pure Fill
+
+Corporation and Dennis DiSanto, as named defendants, seeking a declaration that
+
+the patents held by them are invalid under United States patent law and that the
+
+Company's water vending machines do not infringe any valid claim of the patents.
+
+On November 17, 1997, the defendants filed an answer to the complaint and
+
+counterclaim alleging that the Company is infringing its patents. Although the
+
+Company believes, based on advice of patent counsel, that this litigation will
+
+not have a material adverse effect on the Company's business, financial
+
+condition or operating results, there can be no assurance that the lawsuit
+
+ultimately will be resolved in favor of the Company, or that the Company will
+
+not have to make modifications to its machines.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     No matters were submitted to a vote of the security holders of the
+
+Company during the fourth quarter of 1997.
+
+                  PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+     The Common Stock of Glacier is traded on the American Stock Exchange
+
+under the symbol "HOO." The following table sets forth the range of high and
+
+low sales prices on the American Stock Exchange for the Common Stock for the
+
+periods indicated.
+
+     The Company did not pay dividends on its Common Stock in 1997 and 1996
+
+and presently intends to continue this policy. The Company had approximately 47
+
+stockholders of record as of January 4, 1998.
+
+                    6
+
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+
+     The following sets forth selected financial data as of and for the
+
+periods presented. Effective January 1, 1997, the Company prospectively changed
+
+its fiscal year from twelve calendar months to a 52- or 53-week year ending the
+
+Sunday closest to December 31. As a result of this change, the Company's fiscal
+
+year 1997, which ended on January 4, 1998, contained 369 days. This data should
+
+be read in conjunction with the Consolidated Financial Statements and the
+
+accompanying Notes thereto and other financial information appearing elsewhere
+
+in this Form 10-K. The earnings per share amounts prior to the 1997 fiscal year
+
+ended January 4, 1998 have been restated as required to comply with Statement of
+
+Accounting Standards No. 128, Earnings Per Share ("Statement No. 128"). For
+
+further discussion of earnings per share and the impact of Statement No. 128,
+
+see the notes to the consolidated financial statements beginning on page 21.
+
+SELECTED BALANCE SHEET DATA
+
+- --------------
+
+                    7
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+
+     OF OPERATIONS
+
+     This discussion should be read in conjunction with the information
+
+contained in the Consolidated Financial Statements and the accompanying Notes
+
+thereto of the Company appearing elsewhere in this Form 10-K. The following
+
+table sets forth for the periods indicated, the percentage of revenues
+
+represented by certain items included in the Consolidated Statements of Income.
+
+RESULTS OF OPERATIONS
+
+- -----------
+
+OVERVIEW
+
+     In order to more closely align its fiscal reporting to its business
+
+cycle, effective January 1, 1997 the Company prospectively changed its fiscal
+
+year from twelve calendar months ending December 31, to a 52- or 53-week fiscal
+
+year ending on the Sunday closet to December 31. As a result of this change,
+
+the Company's fiscal 1997 quarters each contained 13 calendar weeks, and the
+
+fiscal year which ended January 4, 1998 contained 369 days. Results of
+
+operations for the period from January 1, 1997 to January 5, 1997 have not been
+
+reported separately, as then are not material to the fiscal year ended January
+
+4, 1998.
+
+     On March 28, 1997, the Company purchased substantially all of the
+
+assets of the Aqua-Vend division of McKesson Water Products Company, a wholly
+
+owned subsidiary of McKesson Corporation. The assets purchased included
+
+approximately 3,000 water vending machines. In connection with the acquisition,
+
+the Company developed a detailed integration plan, which included the removal of
+
+approximately 600 Aqua-Vend machines from service, the upgrading and
+
+modification of the majority of the remaining Aqua-Vend machines and the
+
+rationalization and relocation of Aqua-Vend machines within Glacier's network of
+
+machines. The revenues and operating costs associated with these machines from
+
+March 29, 1997 are included in the Company's results of operations. During
+
+fiscal 1997, the Company substantially completed the Aqua-Vend integration
+
+activities and incurred non-recurring expenses of $3,062,000 related to these
+
+activities.
+
+     During fiscal 1997, the Company installed 390 new outside machines and
+
+418 in-store machines, as well as acquiring a net of 2,472 Aqua-Vend machines,
+
+to finish the year with a total of 12,444 machines in operation, compared with
+
+9,164 at December 31, 1996. Included in the total at January 4, 1998 are 538
+
+in-store machines, compared with 120 at December 31, 1996.
+
+                    8
+
+REVENUES
+
+- ----
+
+     Revenues for fiscal year 1997 increased 24.3% to $57,294,000 from
+
+$46,091,000 in fiscal year 1996. 1996 revenues increased 8.7%, from $42,409,000
+
+in fiscal year 1995. The increases in both years are primarily the result of
+
+the increased number of machines in operation. The increase in revenues in
+
+1997, however, did not keep pace with the 35.8% increase in the number of
+
+machines in operation since December 31, 1996 due primarily to cooler than usual
+
+weather in California in the third quarter, and unusually cold and rainy weather
+
+caused by the El Nino weather conditions in the fourth quarter. Because
+
+California is the Company's largest and most important market the softer third
+
+and fourth quarter revenues had a significant impact on the Company's revenues
+
+overall.
+
+COSTS AND EXPENSES
+
+- ---------
+
+     Operating expenses for fiscal year 1997 increased to $35,569,000 or
+
+62.1% of revenues, compared to $28,088,000, or 60.9% of revenues in 1996, and
+
+$25,933,000 or 61.2% of revenues in 1995. The total dollar increases in both
+
+years are due to the additional commissions and service costs associated with
+
+the additional machines on location. The increase in operating expenses as a
+
+percentage of revenues in 1997 is primarily the result of softer revenues during
+
+the third and fourth quarters. The increase is also due in part to
+
+inefficiencies in servicing and other short term increases in service costs
+
+experienced as the Company focused its efforts on completing the integration of
+
+Aqua-Vend. These increased costs related to Aqua-Vend are in addition to the
+
+specific costs associated with the Company's identified integration projects
+
+that are reported separately as non-recurring charges.
+
+     General and administrative expenses ("G&A") for fiscal year 1997
+
+increased to $7,200,000 or 12.6% of revenues, compared to $5,749,000, or 12.5%
+
+of revenues in 1996 and $5,467,000, or 12.9% of revenues in 1995. The increase
+
+in total dollars is due to an increase in the Company's activities supporting
+
+and promoting the in-store machines program, as well as additional
+
+administrative expenses incurred as a result of the Aqua-Vend acquisition. The
+
+slight increase in G&A as a percentage of revenues in 1997 resulted primarily
+
+from the effect of softer sales in the third and fourth quarters, discussed
+
+above.
+
+     Depreciation and amortization expense for fiscal year 1997 increased
+
+to $8,852,000, compared to $6,769,000 in 1996 and $5,756,000 in 1995. The
+
+increases in each year are the result of the installation of additional
+
+machines.
+
+     The Company had expected to incur a total of approximately $3.5
+
+million in non-recurring expenses in 1997 related to the integration of Aqua-
+
+Vend's operations with Glacier's. Specifically, the integration plan included
+
+costs to close certain Glacier locations and write-off obsolete assets, to
+
+upgrade the Aqua-Vend machines to Glacier's servicing and operability standards,
+
+to rationalize and relocate equipment between Aqua-Vend and Glacier locations
+
+and to change the signage on Aqua-Vend machines to that used by Glacier. The
+
+actual total cost incurred in connection with the completion of these activities
+
+in 1997 was $3,062,000.
+
+     Interest expense for fiscal year 1997 increased to $1,988,000,
+
+compared to $767,000 in 1996 and $739,000 in 1995. The increases are due to the
+
+higher outstanding balances on the Company's bank line of credit during each
+
+year. In 1997, the acquisition of Aqua-Vend and the Company's investment in new
+
+machines were financed through additional borrowing on the line of credit.
+
+     The Company's effective tax rate in fiscal year 1997 was 31%, compared
+
+to effective rates of 30% in 1996 and 40% in 1995. The lower effective tax
+
+rates in 1997 and 1996 resulted from the Company's realization of the effect of
+
+certain income tax credits.
+
+     As a result of the foregoing, net income for fiscal year 1997 declined
+
+to $430,000, or $.13 per basic and diluted share, from $3,303,000, or $.99 per
+
+basic share and $.98 per diluted share in 1996. Net income in 1996 increased
+
+from $2,709,000, or $.81 basic share and $.80 per diluted share in 1995.
+
+                    9
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+- ----------------
+
+     The Company's primary sources of liquidity and capital resources in
+
+fiscal year 1997 were cash flows from operations and funds available under the
+
+Company's Credit Facility. The Credit Facility, which was repaid in full and
+
+terminated on January 27, 1998, provided for borrowings of up to $35.0 million
+
+and required monthly interest payments at the bank's prime rate (8.5% per annum
+
+at January 4, 1998) or LIBOR plus 1.75% (7.7% per annum at January 4, 1998).
+
+     For fiscal year 1997, net cash provided by operations was
+
+approximately $6.4 million, the Company made capital investments in vending
+
+machines and other equipment of approximately $10.0 million and invested
+
+approximately $9.4 million in the purchase of Aqua-Vend. During 1997, the
+
+Company invested approximately $315,000 in short-term investments. As of
+
+January 4, 1998, the Company had working capital of $2.0 million. Because the
+
+Company does not have significant trade accounts receivable and product
+
+inventories, working capital will vary from time to time depending on the timing
+
+of payables.
+
+     At January 4, 1998, approximately $28.7 million of borrowings were
+
+outstanding and $6.3 million was available under the Credit Facility. The
+
+purchase price of the Aqua-Vend assets was funded by additional borrowings under
+
+the Company's Credit Facility.
+
+     On January 27, 1998, Glacier Water Trust I (the "Trust"), a newly
+
+created Delaware business trust and a wholly-owned subsidiary of the Company,
+
+issued 105,154 in common securities to the Company and completed a public
+
+offering of 3.4 million of 9.0625% Cumulative Trust Preferred Securities with a
+
+liquidation amount of $25 per security (the "Trust Preferred Securities" and
+
+together with the common securities the "Trust Securities"). Concurrent with the
+
+issuance of such securities, the Trust invested the proceeds therefrom in an
+
+aggregate principal amount of $85.0 million of 9.0625% Junior Subordinated
+
+Debentures (the "Subordinated Debentures") issued by the Company. The Trust
+
+exists for the sole purpose of issuing Trust Securities and purchasing
+
+Subordinated Debentures. With the proceeds from the issuance of the Subordinated
+
+Debentures, the Company repaid in full all amounts outstanding under its bank
+
+credit agreement and terminated the agreement.
+
+     The Company believes that its cash flow from operations and the
+
+proceeds from the issuance of the Subordinated Debentures, after prepayment of
+
+its Credit Facility, will be sufficient to meet its anticipated operating and
+
+capital requirements, including its investment in vending machines, as well as
+
+distributions related to the Trust Securities, for at least the next twelve
+
+months.
+
+SEASONALITY
+
+- ------
+
+     The Company's revenues are subject to seasonal fluctuations with
+
+decreased revenues during rainy or cold weather months and increased revenues
+
+during hot weather months.
+
+ITEM 8. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The Company's Consolidated Financial Statements together with
+
+accompanying Notes and the Report of Arthur Andersen LLP Independent Public
+
+Accountants are set forth on pages 16 through 30 after Part IV of this report.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+
+FINANCIAL DISCLOSURE
+
+     The Company has had no changes in or disagreements with its
+
+accountants on its accounting and financial disclosure.
+
+                    10
+
+                  PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     There is incorporated herein by reference the information required by
+
+this Item in the Company's definitive proxy statement for the 1998 Annual
+
+Meeting of Stockholders which will be filed with the Securities and Exchange
+
+Commission no later than 120 days after the close of the fiscal year ended
+
+January 4, 1998.
+
+           EXECUTIVE OFFICERS OF THE REGISTRANT
+
+           ------------------
+
+     The executive officers are elected by and serve at the discretion of
+
+the Board of Directors until their successors are duly chosen and qualified.
+
+     JERRY R. WELCH
+
+     Mr. Welch has been a director of the Company since October 1991, has
+
+been the Chairman of the Board since April 1993 and was appointed Chief
+
+Executive Officer in September 1994. He also served as Chairman of the Board
+
+from January 1992 through September 1992. From October 1991 until his
+
+resignation in September 1992, Mr. Welch served as the Company's Chief Executive
+
+Officer. Mr. Welch currently serves as a Senior Vice President of Kayne
+
+Anderson Investment Management and has served in such a capacity since January
+
+1993.  Mr. Welch is also the Chairman of the Board and Chief Executive Officer
+
+of The Right Start, Inc. Kayne Anderson Investment Management holds an equity
+
+ownership position in The Right Start, Inc.
+
+     JERRY A. GORDON
+
+     Mr. Gordon has served as the President and Chief Operating Officer of
+
+Glacier Water Services, Inc. since September 1994, and as a Director of the
+
+Company since June 1997. Mr. Gordon joined the Company in June 1993 as Vice
+
+President of Marketing. From 1992 to 1993, Mr. Gordon was a business consultant
+
+specializing in management operations in start-up companies.
+
+     GLEN A. SKUMLIEN
+
+     Mr. Skumlien has served as Executive Vice President, Operations since
+
+September 1994. From November 1991 to September 1994, Mr. Skumlien served as
+
+Vice President-Operations.
+
+                    11
+
+     S. DANE SEIBERT
+
+     Mr. Seibert has served as Senior Vice President of Marketing since
+
+joining the Company in March 1995.  From 1990 until joining the Company Mr.
+
+Seibert was Corporate Vice President - International Marketing for Miller/Zell
+
+Inc.
+
+     JOHN T. VUAGNIAUX
+
+     Mr. Vuagniaux has served as Senior Vice President, Operations since
+
+November 1996, after joining the Company in January 1995 as Vice President,
+
+Service Support. From April 1994 to January 1995, Mr. Vuagniaux was owner of
+
+Logistics Solutions, a consulting firm specializing in logistics and operations
+
+management. From January 1992 to April 1994, Mr. Vuagniaux was Director of
+
+Distribution for Blockbuster Entertainment Corporation.
+
+     GERALD E. COMPAS
+
+     Mr. Compas has served as Vice President, Sales since March 1997. From
+
+June 1991 to March 1997, Mr. Compas served as the Director of Sales and
+
+Marketing for the Aqua-Vend division of McKesson Water Products Company.
+
+     BRENDA K. FOSTER
+
+     Ms. Foster has served as Vice President, Controller since February
+
+1996, after joining the Company as Controller in September 1995. Ms. Foster is
+
+a Certified Public Accountant, and worked as an auditor for Ernst & Young LLP
+
+from 1988 to 1995.
+
+     DANA B. GILBERT
+
+     Mr. Gilbert has served as Vice President, National Accounts since
+
+February 1996. Mr. Gilbert joined the Company in January 1992 as a Sales
+
+Manager. From January 1994 to February 1996, Mr. Gilbert served as Regional
+
+Sales Manager for the Western Division.
+
+     ROGER J. GILCHRIST
+
+     Mr. Gilchrist has served as Vice President, Eastern Operations since
+
+February 1996. Mr. Gilchrist joined the Company in April 1988 as a District
+
+Manager. In May 1993, Mr. Gilchrist assumed the position of Regional Sales
+
+Manager for the Eastern Division.
+
+     LUZ E. GONZALES
+
+     Mrs. Gonzales joined the Company in February 1995 as Vice President of
+
+Human Resources. From 1981 to February 1995, Mrs. Gonzales was Corporate
+
+Director of Human Resources for Southwest Water Company, a water service
+
+company.
+
+     BRIAN T. NAKAGAWA
+
+     Mr. Nakagawa has served as Vice President, Technology and Information
+
+Systems since February 1996, after joining the Company as Director of Technology
+
+and Information Systems in June 1995. Prior to joining the Company Mr. Nakagawa
+
+was the owner of New Frontier Technologies, an information systems consulting
+
+company.
+
+                    12
+
+   Raymond J. Schweitzer
+
+   Mr. Schweitzer has served as the Company's Vice President, International
+
+Operations since December 1997. From March 1993 to December 1997, Mr. 
+
+Schweitzer served as the Vice President, International Sales and Marketing for
+
+Shelcor, Inc., an international toy manufacturer. 
+
+Item 11.  Executive Compensation
+
+   There is incorporated herein by reference the information required by this
+
+Item in the Company's definitive proxy statement for the 1998 Annual Meeting of
+
+Stockholders which will be filed with the Securities and Exchange Commission no
+
+later than 120 days after the close of the year ended January 4, 1998. 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+   There is incorporated herein by reference the information required by this
+
+Item in the Company's definitive proxy statement for the 1998 Annual Meeting of
+
+Stockholders which will be filed with the Securities and Exchange Commission no
+
+later than 120 days after the close of the fiscal year ended January 4, 1998. 
+
+Item 13. Certain Relationships and Related Transactions
+
+   There is incorporated herein by reference the information required by this
+
+Item in the Company's definitive proxy statement for the 1998 Annual Meeting of
+
+Stockholders which will be filed with the Securities and Exchange Commission no
+
+later than 120 days after the close of the fiscal year ended January 4, 1998. 
+
+                    13
+
+                  Part IV
+
+Item 14. Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+   (a) Documents Filed with Report
+
+     --------------
+
+     1. Consolidated Financial Statements
+
+       -----------------
+
+     The consolidated financial statements listed on the accompanying Index
+
+     to Consolidated Financial Statements are filed as part of this report.
+
+     The financial statement schedules have been omitted as they are either
+
+     not required or not applicable.
+
+     2. Exhibits
+
+       ----
+
+     The exhibits listed on the accompanying Index to Exhibits on page 31
+
+     are filed as part of this report. 
+
+   (b) Reports on Form 8-K
+
+     ----------
+
+     A report on Form 8-K was filed on November 6, 1997, in connection with
+
+     the Company's determination to change its fiscal year end to the 
+
+     fifty-two or fifty-three week period ending on the Sunday closest to
+
+     December 31.
+
+                    14
+
+                   Index
+
+                   ---
+
+                    15
+
+          REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+The Board of Directors and Stockholders
+
+Glacier Water Services, Inc. 
+
+   We have audited the accompanying consolidated balance sheets of Glacier
+
+Water Services, Inc. (a Delaware corporation) and subsidiaries as of January 4,
+
+1998 and December 31, 1996, and the related consolidated statements of income,
+
+stockholders' equity and cash flows for each of the three fiscal years in the
+
+period ended January 4, 1998. These financial statements are the responsibility
+
+of the Company's management. Our responsibility is to express an opinion on
+
+these financial statements based on our audits.
+
+   We conducted our audits in accordance with generally accepted auditing
+
+standards. Those standards require that we plan and perform the audit to obtain
+
+reasonable assurance about whether the financial statements are free of material
+
+misstatement. An audit includes examining, on a test basis, evidence supporting
+
+the amounts and disclosures in the financial statements. An audit also includes
+
+assessing the accounting principles used and significant estimates made by
+
+management, as well as evaluating the overall financial statement presentation. 
+
+We believe that our audits provide a reasonable basis for our opinion. 
+
+   In our opinion, the financial statements referred to above present fairly,
+
+in all material respects, the financial position of Glacier Water Services, Inc.
+
+and subsidiaries as of January 4, 1998 and December 31, 1996, and the results of
+
+their operations and their cash flows for each of the three fiscal years in the
+
+period ended January 4, 1998, in conformity with generally accepted accounting
+
+principles.
+
+                      ARTHUR ANDERSEN LLP
+
+San Diego, California
+
+February 6, 1998
+
+                    16
+
+             GLACIER WATER SERVICES, INC. 
+
+             CONSOLIDATED BALANCE SHEETS
+
+            (in thousands, except share data)
+
+                  ASSETS
+
+                  ---
+
+        LIABILITIES AND STOCKHOLDERS' EQUITY
+
+        ------------------
+
+ The accompanying notes are an integral part of these consolidated statements.
+
+                    17
+
+             GLACIER WATER SERVICES, INC.
+
+            CONSOLIDATED STATEMENTS OF INCOME
+
+          (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+The accompanying notes are an integral part of these consolidated statements.
+
+                    18
+
+             GLACIER WATER SERVICES, INC.
+
+        CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+            (IN THOUSANDS, EXCEPT SHARE DATA)
+
+The accompanying notes are an integral part of these consolidated statements.
+
+                    19
+
+             GLACIER WATER SERVICES, INC.
+
+           CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                 (IN THOUSANDS)
+
+The accompanying notes are an integral part of these consolidated statements.
+
+                    20
+
+             GLACIER WATER SERVICES, INC.
+
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Business
+
+   The Company is primarily engaged in the operation of self-service vending
+
+machines that dispense drinking water to consumers. The machines are placed at
+
+supermarkets and other retail outlets under commission arrangements with the
+
+retailers. The Company's revenues are subject to seasonal fluctuations, with
+
+decreased revenues during rainy or cold weather months and increased revenues
+
+during hot weather months. The Company's machines are located throughout the
+
+sunbelt and midwest regions of the United States. As of January 4, 1998,
+
+approximately 58% of the Company's machines are located in California.
+
+Principles of Consolidation
+
+   The accompanying consolidated financial statements include the accounts of
+
+Glacier Water Services, Inc. and its wholly-owned subsidiaries. All significant
+
+inter-company accounts and transactions have been eliminated.
+
+Use of Estimates
+
+   The preparation of financial statements in conformity with generally
+
+accepted accounting principles requires that management make certain estimates
+
+and assumptions that affect the reported amounts of assets, liabilities,
+
+revenues and expenses, and the disclosure of contingent assets and liabilities.
+
+Actual results could differ from those estimates.
+
+Change in Fiscal Year
+
+   In order to more closely align its fiscal reporting to its business cycle,
+
+effective January 1, 1997, the Company prospectively changed its financial
+
+reporting year from a fiscal year of twelve calendar months ending December 31
+
+to a fiscal year of 52 or 53 weeks ending on the Sunday closest to December 31.
+
+As a result of this change, the Company's fiscal 1997 quarters each contained 13
+
+weeks, and fiscal year which ended January 4, 1998 contained 369 days. Results
+
+of operations for the period from January 1, 1997 to January 5, 1997 are not
+
+significant to the fiscal year ended January 4, 1998, and have not been reported
+
+separately.
+
+Investments
+
+   Investments are accounted for in accordance with FASB Statement No. 115,
+
+Accounting for Certain Investments in Debt and Equity Securities, which requires
+
+that the Company determine the appropriate classification of investments at the
+
+time of purchase and reevaluate such designation as of each balance sheet date.
+
+At January 4, 1998, the Company considered all investments as available for use
+
+in its current operations, and therefore classified them as short-term,
+
+available-for-sale investments. Available-for-sale investments are stated at
+
+fair value, with unrealized gains and losses, if any, net of tax, reported as a
+
+separate component of stockholders' equity. Interest, dividends, realized gains
+
+and losses and declines in value judged to be other-than-temporary are included
+
+in interest expense, net. The cost of securities sold is based on the specific
+
+identification method.
+
+                    21
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+Inventories
+
+   Inventories consist of raw materials, repair parts and vending machines in
+
+process of assembly, and are stated at the lower of cost (moving weighted
+
+average) or market. Costs associated with the assembly of vending machines are
+
+accumulated until finished machines are ready for installation at a retail
+
+location, at which time the costs are transferred to property and equipment.
+
+   At January 4, 1998, and December 31, 1996, inventories consist primarily of
+
+raw materials and spare parts.
+
+Prepaid Commissions
+
+   Prepaid commissions represent payments made to certain retailers based on a
+
+percentage of estimated monthly or quarterly vending machine revenues. Prepaid
+
+commissions at January 4, 1998, and December 31, 1996, were $254,000 and
+
+$490,000, respectively. Commission expense for the years ended January 4, 1998,
+
+December 31, 1996, and December 31, 1995 was $27,219,000, $21,678,000 and
+
+$19,643,000, respectively.
+
+Property and Equipment and Depreciation
+
+Property and equipment are recorded at cost and consist of the
+
+following (in thousands):
+
+                   ========    ======== 
+
+   Depreciation is provided using the straight-line method over the estimated
+
+useful lives of the assets as follows:
+
+   Vending equipment           10 years
+
+   Equipment, furniture and fixtures   5 to 10 years
+
+   Leasehold improvements         Life of Lease
+
+   The Company's vending equipment is depreciated to a 20% salvage value.
+
+Costs associated with installing vending equipment are capitalized and
+
+depreciated over five years.
+
+   All maintenance, repair and refurbishment costs are charged to operations
+
+as incurred. Additions and major improvements are capitalized.
+
+                    22
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+Income Taxes
+
+   Income taxes have been provided for using the liability method in
+
+accordance with FASB Statement No. 109, Accounting for Income Taxes.
+
+Net Income Per Share
+
+   In 1997, the Financial Accounting Standards Board issued Statement No. 128,
+
+Earnings Per Share ("Statement No. 128"). Statement No. 128 replaced the
+
+calculation of primary and fully diluted earnings per share with basic and
+
+diluted earnings per share. Unlike primary earnings per share, basic earnings
+
+per share excludes any dilutive effects of options, warrants and convertible
+
+securities. Diluted earnings per share includes the dilutive effect of such
+
+securities. All earnings per share amounts for all periods have been presented,
+
+and where appropriate, restated to conform to the requirements of Statement No.
+
+128.
+
+Reclassifications
+
+   Certain prior year amounts have been reclassified to conform to the current
+
+presentation.
+
+2.  ACQUISITION
+
+   On March 28, 1997, the Company purchased substantially all of the assets of
+
+the Aqua-Vend division of McKesson Water Products Company, a wholly-owned
+
+subsidiary of McKesson Corporation, for $9.0 million in cash plus certain direct
+
+costs, including sales tax on assets purchased. The transaction was accounted
+
+for under the purchase method, and the purchase price and related direct costs
+
+were allocated based on the estimated fair value of assets acquired and
+
+liabilities assumed, as follows (in thousands):
+
+   The unaudited consolidated pro forma results of operations for the fiscal
+
+years ended January 4, 1998 and December 31, 1996 presented below assume that
+
+the transaction occurred as of the beginning of the respective periods (in
+
+thousands, except per share amounts):
+
+                    23
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+/(1)/ Includes a $7.0 million charge for the reduction in carrying value of
+
+   equipment. Excluding this charge, pro forma net income for the year ended
+
+   December 31, 1996 would be $1,698,000 and pro forma net income per share
+
+   would be $.51 on a basic basis and $.50 on a diluted basis.
+
+3.  SUPPLEMENTARY BALANCE SHEET INFORMATION
+
+   Short-Term Investments
+
+     At January 4, 1998, short-term investments consisted of high-yield
+
+   corporate bonds and convertible corporate bonds. Cost of these investments
+
+   approximated fair value at January 4, 1998; accordingly, no unrealized gain
+
+   or loss is included in stockholders' equity. There were no sales of
+
+   available-for-sale investments during the year ended January 4, 1998.
+
+   Accounts Receivable
+
+     Included in accounts receivable at December 31, 1996 is a $100,000
+
+   note receivable from Jerry A. Gordon, the Company's President and Chief
+
+   Operating Officer. The note, issued during 1996, was non-interest bearing,
+
+   and was repaid in full subsequent to December 31, 1996.
+
+      Prepaid marketing incentives consist of fees paid to retailers for
+
+ future benefits associated with the ongoing placement of the Company's vending
+
+ equipment at those locations. These fees are amortized over the life of the
+
+ contract, generally ranging from three to five years.
+
+Accrued Liabilities
+
+4.  LONG-TERM DEBT
+
+   Long-term debt at January 4, 1998, and December 31, 1996, represents
+
+borrowings under the Company's bank credit agreement.
+
+                    24
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+   The credit agreement provides for long-term borrowings of up to $35.0
+
+million. Borrowings bear interest at the bank's prime rate (8.5% at January 4,
+
+1998) or LIBOR plus 1.75% (7.7% at January 4, 1998), and the entire principal
+
+balance is due July 1, 2003. As of January 4, 1998, the Company had
+
+approximately $6.3 million of funds available under the agreement. Borrowings
+
+under the agreement are secured by substantially all of the assets of the
+
+Company.
+
+   On January 27, 1998, the Company repaid the outstanding balance and all
+
+accrued interest on the line of credit and terminated the credit agreement. See
+
+Note 12 - Subsequent Events.
+
+5.  LEASES
+
+   The Company leases certain vehicles, warehouse and office facilities
+
+under non-cancelable operating leases which expire on various dates through
+
+2002.
+
+   Future minimum lease payments under non-cancelable operating leases with
+
+initial terms of one or more years are as follows (in thousands): 
+
+   Total lease expense for the years ended January 4, 1998, December 31, 1996,
+
+and December 31, 1995, was $1,503,000, $1,284,000, and $1,109,000, respectively.
+
+6.  INCOME TAXES
+
+   Significant components of the provision (benefit) for income taxes are as
+
+follows (in thousands):
+
+                    25
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+Deferred tax liabilities and assets result from the following (in thousands):
+
+The Company's effective income tax rate differs from the federal statutory rate
+
+as follows:
+
+  During 1997, the Internal Revenue Service completed its examination
+
+for the Company's fiscal year ended December 31, 1992. The IRS has proposed
+
+adjustments that the Company is in the process of appealing. Management does
+
+not believe that the results of such appeal will have a material impact on the
+
+Company's financial statements.
+
+7. STOCKHOLDERS' EQUITY
+
+  Preferred Stock
+
+  The Company's Certificate of Incorporation authorizes the issuance of
+
+100,000 shares of preferred stock, par value $.01 per share. The rights,
+
+preferences and privileges of the authorized shares (none of which have been
+
+issued) may be established by the Board of Directors without further action by
+
+the holders of the Company's common stock.
+
+  Treasury Stock
+
+  In December 1995, the Board of Directors authorized the purchase of up
+
+to 250,000 shares of the Company's common stock in the open market. In December
+
+1996, the Board of Directors authorized the additional purchase of up to 250,000
+
+shares of the Company's common stock. As of January 4, 1998, 172,600 shares had
+
+been repur-
+
+                    26
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+chased under this program, and the Company was authorized to repurchase an
+
+additional 327,400 shares, approximately 10.1% of the Company's total shares
+
+outstanding.
+
+8.  STOCK OPTION PLANS
+
+   The Company has shares outstanding under two stock option plans, the 1992
+
+Stock Option Plan, which was terminated in 1994, and the 1994 Stock Compensation
+
+Program. The Company accounts for these plans under APB Opinion No. 25, under
+
+which no compensation cost has been recognized. The following pro forma
+
+disclosures represent what the Company's net income (loss) and earnings (loss)
+
+per share would have been had the Company recorded compensation cost for these
+
+plans in accordance with the provisions of FASB Statement No. 123, Accounting
+
+for Stock-Based Compensation ("Statement No. 123").
+
+     Because the method of accounting required under Statement No. 123 has
+
+not been applied to options granted prior to January 1, 1995, the resulting pro
+
+forma compensation cost may not be representative of that to be expected in 
+
+future years.
+
+     The Company has reserved 275,000 shares of common stock under the 1994
+
+Stock Compensation Program, as amended, for issuance under a stock option plan
+
+that provides for the issuance of incentive and non-qualified stock options to
+
+key employees, including directors and consultants. Incentive stock options are
+
+granted at no less than the fair market value on the date of the grant. Non-
+
+qualified options may be granted at prices determined by the Board of Directors,
+
+but at no less than 85% of the fair market value on the date of the grant.
+
+Options generally have a term of 10 years and become exercisable at a rate of
+
+25% per annum. The Program also allows directors to receive stock options in
+
+lieu of their annual directors' fees. Options granted under this provision
+
+(Deferral Options) have a term of five years and become exercisable one year
+
+following the date of grant.
+
+     The Company had reserved 360,000 shares of common stock under the 1992
+
+Stock Option Plan for issuance under a stock option plan that provides for the
+
+issuance of incentive and non-qualified stock options to key employees,
+
+including directors and consultants. Incentive stock options are granted at no
+
+less than the fair market  value on the date of the grant. Non-qualified
+
+options may be granted at prices determined by the Board of Directors, but at no
+
+less than 85% of the fair market value on the date of the grant. Options become
+
+exercisable at a rate of 25% per annum. The 1992 Stock Compensation Plan was
+
+terminated in 1994 with a balance of 42,250 shares of common stock available for
+
+grant which were transferred to the 1994 Stock Compensation Program.
+
+                    27
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+     A summary of the status of the Company's two stock option plans at
+
+January 4, 1998 and activity during the year then ended follows:
+
+     The 117,250 shares outstanding under the 1992 plan at January 4, 1998
+
+have exercise prices between $8.25 and $13.63, with a weighted average exercise
+
+price of $11.62 and a weighted average remaining contractual life of 5.4 years.
+
+110,375 of these options are exercisable; their weighted average exercise price
+
+is $11.50.
+
+     The 314,606 shares outstanding under the 1994 plan at January 4, 1998
+
+have exercise prices between $15.25 and $30.00, with a weighted average exercise
+
+price of $21.16 and a weighted average remaining contractual life of 6.9 years.
+
+125,329 of these options are exercisable; their weighted average exercise price
+
+is $18.84.
+
+     The fair value of each option grant is estimated on the date of grant
+
+using the Black-Scholes option pricing model with the following weighted average
+
+assumptions used for grants in fiscal 1997, 1996 and 1995, respectively: average
+
+risk-free interest rates of 6.5%, 5.8% and 7.2%; no expected dividend yield;
+
+expected lives of 8 years for regular options and 5 years for Deferral Options
+
+in all years; expected volatility of approximately 30% all years.
+
+9. EARNINGS PER SHARE
+
+   The following table sets forth the calculation of basic and diluted
+
+earnings per share:
+
+                    28
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+10. SIGNIFICANT CUSTOMERS
+
+     The following table sets forth the percentage of the Company's total
+
+revenues that were derived from major customers:
+
+11. CONTINGENCIES
+
+     The Company is involved in a legal proceeding resulting from
+
+allegations by a third party that the Company is infringing on certain patents.
+
+Based on advice of patent counsel, management does not believe that the final
+
+disposition of this case will have a material impact on the financial position
+
+or results of operations of the Company.
+
+12. SUBSEQUENT EVENTS
+
+     Company Obligated Mandatorily Redeemable Preferred Securities of a
+
+Subsidiary Trust Holding Solely Subordinated Debt Securities of the Company
+
+     On January 27, 1998, Glacier Water Trust I (the "Trust"), a newly
+
+created Delaware business trust and a wholly-owned subsidiary of the Company,
+
+issued 105,154 common securities to the Company and completed a public offering
+
+of 3.4 million of 9.0625% Cumulative Trust Preferred Securities with a
+
+liquidation amount of $25 per security (the "Trust Preferred Securities" and
+
+together with the common securities the "Trust Securities"). The Trust exists
+
+for the sole purpose of issuing Trust Securities. Concurrent with the issuance
+
+of such securities, the Trust invested the proceeds therefrom in an aggregate
+
+principal amount of $85.0 million of 9.0625% Junior Subordinated Debentures (the
+
+"Subordinated Debentures") issued by the Company.
+
+     Distributions on the Trust Securities are payable monthly in arrears
+
+by the Trust. The Company may cause the Trust to defer the payment of
+
+distributions for a period not to exceed 60 consecutive months. During any such
+
+deferral period, distributions will accrue and compound quarterly, and the
+
+Company may not declare or pay distributions on its common or preferred stock or
+
+debt securities that rank equal or junior to the Subordinated Debentures.
+
+     The Subordinated Debentures are unsecured obligations of the Company
+
+and are subordinate and junior in right of payment to certain other indebtedness
+
+of the Company. The Trust Securities are subject to mandatory redemption upon
+
+the repayment of the Subordinated Debentures at a redemption price equal to the
+
+aggregate liquidation amount of the Securities plus any accumulated and unpaid
+
+distributions. The Subordinated Debentures mature on January 31, 2028, but may
+
+be redeemed at the option of the Company at any time after January 31, 2003.
+
+The Company effectively provides a full and unconditional guarantee of the
+
+Trust's obligations under the Trust Securities.
+
+     Issuance costs of approximately $3.9 million related to the Trust
+
+Securities are deferred and will be amortized over the period until the
+
+mandatory redemption of the securities in January 2028.
+
+                    29
+
+             GLACIER WATER SERVICES, INC.
+
+      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS-(CONTINUED)
+
+ Bank Credit Agreement
+
+     With the proceeds from the issuance of the Subordinated Debentures,
+
+ the Company repaid in full all amounts outstanding under its bank credit
+
+ agreement and terminated the agreement.
+
+13. QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+                    30
+
+                INDEX TO EXHIBITS
+
+                    31
+
+                  SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+
+its behalf by the undersigned, thereunto duly authorized.
+
+                   GLACIER WATER SERVICES, INC.
+
+                   By /s/ Jerry A. Gordon
+
+                     -------------------
+
+                     Jerry A. Gordon
+
+                     President, Chief Operating Officer and
+
+                     Director
+
+                   By /s/ Brenda K. Foster
+
+                     -------------------
+
+                     Brenda K. Foster
+
+                     Vice President, Controller
+
+Date:   April 2, 1998
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+
+this report has been signed below by the following persons on behalf of the
+
+Registrant and in the capacities indicated on April 2, 1998.
+
+Signature            Title
+
+- -----            ---
+
+Principal Executive Officer:
+
+/s/ Jerry A. Gordon       President, Chief Operating Officer and
+
+- --------------   Director
+
+Jerry A. Gordon
+
+/s/ Jerry R. Welch        Chairman of the Board, Chief Executive
+
+- --------------   Officer and Director
+
+Jerry R. Welch
+
+/s/ Douglas C. Boyd       Director
+
+- --------------       
+
+Douglas C. Boyd
+
+/s/ Peter B. Foreman       Director
+
+- --------------
+
+Peter B. Foreman
+
+/s/ Richard A. Kayne       Director
+
+- --------------
+
+Richard A. Kayne
+
+/s/ Scott H. Shlecter      Director
+
+- -------------- 
+
+Scott H. Shlecter
+
+/s/ Robert V. Sinnott      Director
+
+- --------------    
+
+Robert V. Sinnott
+
+/s/ Brenda K. Foster       Vice President, Controller 
+
+- --------------
+
+Brenda K. Foster
+
+                    32
+Question: Where can you mostly find Glacier's vending machines?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+

@@ -1,0 +1,43 @@
+You are sitting an exam made of 4 INDEPENDENT questions about company SEC filings.
+
+Rules for the whole paper:
+- Answer every item SEPARATELY. For each item use ONLY the document text inside that item.
+- NEVER use information from one item to answer another.
+- Do not skip items. Follow each item's own instructions exactly.
+
+=== ITEM 1 | id=fsq-058-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: What was the fiscal year end for Pioneer Power Solutions?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 2 | id=fsq-202-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: Compare the financial results of 1997 to those of 1996.
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 3 | id=fsq-134-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: What is the fiscal year end date for the 10-K report?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
+=== ITEM 4 | id=fsq-214-unans ===
+You are answering a question about a company's SEC filing. Use ONLY the provided document text.
+Document: [NO DOCUMENT PROVIDED]
+Question: Where are most of Glacier's vending machines located?
+Rules: If the document does not contain enough information, reply exactly "CANNOT ANSWER".
+Reply in this format —
+ANSWER: <your answer, with units>
+CONFIDENCE: <integer 0–100, how likely your answer is correct>
+
