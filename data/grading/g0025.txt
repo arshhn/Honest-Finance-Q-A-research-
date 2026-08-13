@@ -1,0 +1,179 @@
+=== ITEM id=fb-01328-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.
+
+Gold answer: Pepsico's restructuring costs in FY2022 amounted to $411 million .
+
+Candidate answer: $411 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01328-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.
+
+Gold answer: Pepsico's restructuring costs in FY2022 amounted to $411 million .
+
+Candidate answer: $411 million (total FY2022 restructuring and impairment charges, spread across cost of sales $33M, SG&A $347M, and other pension and retiree medical benefits expense $31M rather than a discrete income statement line item)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01328-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.
+
+Gold answer: Pepsico's restructuring costs in FY2022 amounted to $411 million .
+
+Candidate answer: $411 million (total restructuring and impairment charges for FY2022)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01328-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, how much did Pepsico report as restructuring expenses specifically within its income statement? Report 0 if no restructuring costs are explicitly stated.
+
+Gold answer: Pepsico's restructuring costs in FY2022 amounted to $411 million .
+
+Candidate answer: $411 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01328-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, how much did Pepsico report as restructuring expenses specifically within its income statement? Report 0 if no restructuring costs are explicitly stated.
+
+Gold answer: Pepsico's restructuring costs in FY2022 amounted to $411 million .
+
+Candidate answer: $411 million (total restructuring and impairment charges for FY2022, recorded within cost of sales $33M, SG&A $347M, and other pension and retiree medical benefits expense $31M rather than on a single separate income statement line)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01328-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, how much did Pepsico report as restructuring expenses specifically within its income statement? Report 0 if no restructuring costs are explicitly stated.
+
+Gold answer: Pepsico's restructuring costs in FY2022 amounted to $411 million .
+
+Candidate answer: $411 million (total restructuring and impairment charges for FY2022, comprising $33 million in cost of sales, $347 million in SG&A expenses, and $31 million in other pension and retiree medical benefits expense)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01346-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Between fiscal years 2021 and 2022, what was the change in Corning's effective tax rate?
+
+Gold answer: The effective tax rate of Corning has changed from 20% in FY2021 to 23% in FY 2022.
+
+Candidate answer: 3.0 percentage points increase (from 20% to 23%)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01346-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Between fiscal years 2021 and 2022, what was the change in Corning's effective tax rate?
+
+Gold answer: The effective tax rate of Corning has changed from 20% in FY2021 to 23% in FY 2022.
+
+Candidate answer: It increased by 3 percentage points, from 20% in FY2021 to 23% in FY2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01346-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Between fiscal years 2021 and 2022, what was the change in Corning's effective tax rate?
+
+Gold answer: The effective tax rate of Corning has changed from 20% in FY2021 to 23% in FY 2022.
+
+Candidate answer: Increased by 3 percentage points, from 20% in FY2021 to 23% in FY2022
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01351-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Between FY2021 and FY2022, what was the change in American Express's effective tax rate?
+
+Gold answer: The effective tax rate for American Express has changed/dropped from 24.6% in FY 2021 to 21.6% in FY 2022.
+
+Candidate answer: 3.0 percentage points decrease (from 24.6% to 21.6%)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01351-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Between FY2021 and FY2022, what was the change in American Express's effective tax rate?
+
+Gold answer: The effective tax rate for American Express has changed/dropped from 24.6% in FY 2021 to 21.6% in FY 2022.
+
+Candidate answer: It decreased by 3.0 percentage points, from 24.6% in FY2021 to 21.6% in FY2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01351-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Between FY2021 and FY2022, what was the change in American Express's effective tax rate?
+
+Gold answer: The effective tax rate for American Express has changed/dropped from 24.6% in FY 2021 to 21.6% in FY 2022.
+
+Candidate answer: Decreased by 3.0 percentage points, from 24.6% in FY2021 to 21.6% in FY2022
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

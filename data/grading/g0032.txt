@@ -1,0 +1,179 @@
+=== ITEM id=fb-01981-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2022, did American Express succeed in keeping its existing card members from leaving?
+
+Gold answer: Yes
+
+Candidate answer: Yes — the document states that "Card Member retention remained high" in 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02024-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY 2021, how much did Verizon expect to pay for its retirees in 2024?
+
+Gold answer: The estimated pension benefits were $1097 million, and the estimated health care and life insurance benefits were $862 million.
+
+Candidate answer: $1,959 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02024-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY 2021, how much did Verizon expect to pay for its retirees in 2024?
+
+Gold answer: The estimated pension benefits were $1097 million, and the estimated health care and life insurance benefits were $862 million.
+
+Candidate answer: About $1,959 million (approximately $2.0 billion) in expected 2024 retiree benefit payments — $1,097 million pension benefits plus $862 million health care and life.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02024-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY 2021, how much did Verizon expect to pay for its retirees in 2024?
+
+Gold answer: The estimated pension benefits were $1097 million, and the estimated health care and life insurance benefits were $862 million.
+
+Candidate answer: $1,959 million (Pension Benefits $1,097 million + Health Care and Life $862 million, for 2024)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02024-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on figures reported for fiscal year 2021, what amount did Verizon anticipate paying toward its retirees' expenses in 2024?
+
+Gold answer: The estimated pension benefits were $1097 million, and the estimated health care and life insurance benefits were $862 million.
+
+Candidate answer: $1,959 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02024-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on figures reported for fiscal year 2021, what amount did Verizon anticipate paying toward its retirees' expenses in 2024?
+
+Gold answer: The estimated pension benefits were $1097 million, and the estimated health care and life insurance benefits were $862 million.
+
+Candidate answer: About $1,959 million (approximately $2.0 billion) in estimated 2024 benefit payments to retirees — $1,097 million of pension benefits plus $862 million of health care and life benefits.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02024-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on figures reported for fiscal year 2021, what amount did Verizon anticipate paying toward its retirees' expenses in 2024?
+
+Gold answer: The estimated pension benefits were $1097 million, and the estimated health care and life insurance benefits were $862 million.
+
+Candidate answer: $1,959 million (Pension Benefits $1,097 million + Health Care and Life $862 million, for 2024)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02049-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In terms of Value at Risk, was JPM's exposure to risk lower in Q2 of fiscal year 2023 relative to the corresponding quarter a year earlier?
+
+Gold answer: Yes. It decreased.
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02049-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In terms of Value at Risk, was JPM's exposure to risk lower in Q2 of fiscal year 2023 relative to the corresponding quarter a year earlier?
+
+Gold answer: Yes. It decreased.
+
+Candidate answer: Yes. Average total Risk Management VaR was $47 million for the three months ended June 30, 2023 versus $54 million for the three months ended June 30, 2022, a decrease of $7 million (maximum also fell from $71 million to $56 million), so JPM's risk exposure was lower year over year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02049-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In terms of Value at Risk, was JPM's exposure to risk lower in Q2 of fiscal year 2023 relative to the corresponding quarter a year earlier?
+
+Gold answer: Yes. It decreased.
+
+Candidate answer: Yes. Average Total VaR for the three months ended June 30, 2023 was $47 million, versus $54 million for the three months ended June 30, 2022 (a $7 million decrease), so JPM's VaR exposure was lower in Q2 2023 than in Q2 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02416-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are three main companies acquired by Pfizer mentioned in this 10K report?
+
+Gold answer: Trillium, Array, and Therachon
+
+Candidate answer: Arena Pharmaceuticals, Biohaven Pharmaceutical, and Global Blood Therapeutics.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02416-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are three main companies acquired by Pfizer mentioned in this 10K report?
+
+Gold answer: Trillium, Array, and Therachon
+
+Candidate answer: Arena Pharmaceuticals, Biohaven Pharmaceutical, and Global Blood Therapeutics
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

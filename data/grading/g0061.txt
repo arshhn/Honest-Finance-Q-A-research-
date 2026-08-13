@@ -1,0 +1,179 @@
+=== ITEM id=fb-01902-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which Best Buy product category performed the best (by top line) in the domestic (USA) Market during Q2 of FY2024?
+
+Gold answer: The entertainment segment experienced the highest growth of 9% during Q2 FY2024, primarily from gaming division.
+
+Candidate answer: Entertainment — it posted the strongest top-line performance in the Domestic segment in Q2 FY2024, with 9.0% comparable sales growth (driven primarily by gaming, partially offset by declines in virtual reality and drones), ahead of Services at 7.6% growth; all other categories declined (Computing and Mobile Phones -6.4%, Consumer Electronics -5.7%, Appliances -16.1%).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01902-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which Best Buy product category performed the best (by top line) in the domestic (USA) Market during Q2 of FY2024?
+
+Gold answer: The entertainment segment experienced the highest growth of 9% during Q2 FY2024, primarily from gaming division.
+
+Candidate answer: Entertainment (comparable sales growth of 9.0%, the highest among the revenue categories listed)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01928-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What Was AMCOR's Adjusted Non GAAP EBITDA for FY 2023
+
+Gold answer: AMCOR's Adj. EBITDA was $2,018mn in FY 2023
+
+Candidate answer: Approximately $2.2 billion (roughly US$2,150–2,200 million) in adjusted (non-GAAP) EBITDA for fiscal year 2023 (year ended 30 June 2023), derived from adjusted EBIT of about $1.7 billion plus roughly $0.45 billion of depreciation and amortization.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01928-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What Was AMCOR's Adjusted Non GAAP EBITDA for FY 2023
+
+Gold answer: AMCOR's Adj. EBITDA was $2,018mn in FY 2023
+
+Candidate answer: Approximately $2.02 billion (~US$2,020 million) in Adjusted EBITDA for FY2023 (fiscal year ended June 30, 2023)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01928-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What Was AMCOR's Adjusted Non GAAP EBITDA for FY 2023
+
+Gold answer: AMCOR's Adj. EBITDA was $2,018mn in FY 2023
+
+Candidate answer: 2,018 million dollars
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01928-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What Was AMCOR's Adjusted Non GAAP EBITDA for FY 2023
+
+Gold answer: AMCOR's Adj. EBITDA was $2,018mn in FY 2023
+
+Candidate answer: $2,018 million (Adjusted EBITDA for the twelve months ended June 30, 2023)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01928-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What Was AMCOR's Adjusted Non GAAP EBITDA for FY 2023
+
+Gold answer: AMCOR's Adj. EBITDA was $2,018mn in FY 2023
+
+Candidate answer: $2,018 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01930-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much was the Real change in Sales for AMCOR in FY 2023 vs FY 2022, if we exclude the impact of FX movement, passthrough costs and one-off items?
+
+Gold answer: The Real Growth was flat in FY 2023 vs FY 2022.
+
+Candidate answer: Approximately -2% (a low-single-digit decline). Amcor's FY2023 reported net sales were ~$14,694 million vs ~$14,544 million in FY2022 (+1%). On a comparable constant-currency basis (excluding FX, the Russia exit/divestitures and other one-off items) sales rose about 7%, but that included roughly 9 percentage points of benefit from price increases passed through for raw-material and other inflationary costs. Stripping that passthrough out, the "real" underlying sales change was about -2%, i.e. roughly $250-300 million lower on an ~$14.5 billion base — reflecting lower volumes.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01930-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much was the Real change in Sales for AMCOR in FY 2023 vs FY 2022, if we exclude the impact of FX movement, passthrough costs and one-off items?
+
+Gold answer: The Real Growth was flat in FY 2023 vs FY 2022.
+
+Candidate answer: 0%
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01930-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much was the Real change in Sales for AMCOR in FY 2023 vs FY 2022, if we exclude the impact of FX movement, passthrough costs and one-off items?
+
+Gold answer: The Real Growth was flat in FY 2023 vs FY 2022.
+
+Candidate answer: Essentially zero — about 0% (flat). Amcor's total comparable constant currency net sales growth for the twelve months ended June 30, 2023 was 0% (shown as a blank/dash in the table), i.e. no real change versus FY2022 once FX (-3%), raw material pass-through (+5%) and items affecting comparability (-1%) are excluded from the 4% constant currency growth. This is consistent with volume -3% offset by price/mix +3%. In dollar terms that is roughly no change on the ~$14.7 billion sales base (reported $14,694m vs $14,544m, a ~$150m or ~1% increase before these adjustments). By segment, comparable constant currency growth was +1% for Flexibles and -3% for Rigid Packaging.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01930-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much was the Real change in Sales for AMCOR in FY 2023 vs FY 2022, if we exclude the impact of FX movement, passthrough costs and one-off items?
+
+Gold answer: The Real Growth was flat in FY 2023 vs FY 2022.
+
+Candidate answer: Approximately 0% (flat) — the Comparable Constant Currency Growth % for Total Net Sales, Twelve Months Ended June 30, FY2023 vs FY2022, computed as Constant Currency Growth (4%) minus Raw Material Pass Through (5%) minus Items affecting comparability (-1%) = 0%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01935-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the key agenda of the AMCOR's 8k filing dated 1st July 2022?
+
+Gold answer: Amcor Finance (USA), Inc. and Amcor Flexibles North America, Inc., entered into supplemental indentures relating to Guaranteed Senior Notes due 2026 and 2028. This involved the substitution of the Substitute Issuer (Amcor Flexibles North America) for the Former Issuer (Amcor Finance) and the assumption of covenants under the indentures. (In essence a novation agreement)
+
+Candidate answer: To disclose the substitution of Amcor Flexibles North America, Inc. as the issuer in place of Amcor Finance (USA), Inc., and the supplemental indentures whereby the Substitute Issuer assumed the covenants of the Former Issuer under the indentures governing the 3.625% Guaranteed Senior Notes due 2026 and 4.500% Guaranteed Senior Notes due 2028.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

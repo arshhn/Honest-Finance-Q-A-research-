@@ -1,0 +1,179 @@
+=== ITEM id=fsq-139-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Break down the revenue sources for 2019.
+
+Gold answer: For 2019, Helios Technologies anticipates total revenue to be between $590 million and $600 million. This breaks down into two segments: Hydraulics, projected to contribute between $464 million and $469 million, and Electronics, expected to contribute between $126 million and $131 million.
+
+Candidate answer: For 2019, consolidated revenue is expected to be between $590 million and $600 million, with the Hydraulics segment contributing between $464 million and $469 million and the Electronics segment contributing between $126 million and $131 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-139-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Break down the revenue sources for 2019.
+
+Gold answer: For 2019, Helios Technologies anticipates total revenue to be between $590 million and $600 million. This breaks down into two segments: Hydraulics, projected to contribute between $464 million and $469 million, and Electronics, expected to contribute between $126 million and $131 million.
+
+Candidate answer: Per the company's 2019 outlook, consolidated revenue for full year 2019 is expected to be between $590 million and $600 million, made up of: the Hydraulics segment contributing between $464 million and $469 million, and the Electronics segment contributing between $126 million and $131 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-140-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the main categories leading in product sales for Nike?
+
+Gold answer: The top-selling product categories for Nike are running, cross-training, basketball, soccer, sport-inspired urban shoes, and children's shoes.
+
+Candidate answer: Running, cross-training, basketball, soccer, sport-inspired urban shoes, and children's shoes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-140-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the main categories leading in product sales for Nike?
+
+Gold answer: The top-selling product categories for Nike are running, cross-training, basketball, soccer, sport-inspired urban shoes, and children's shoes.
+
+Candidate answer: Nike's top-selling (leading) product categories are running, cross-training, basketball, soccer, sport-inspired urban shoes, and children's shoes, which the company expects to continue to lead in product sales in the near future.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-140-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the main categories leading in product sales for Nike?
+
+Gold answer: The top-selling product categories for Nike are running, cross-training, basketball, soccer, sport-inspired urban shoes, and children's shoes.
+
+Candidate answer: Running, cross-training, basketball, soccer, sport-inspired urban shoes, and children's shoes are currently NIKE's top-selling product categories.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-140-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the main categorise beading in product safes for Nike?
+
+Gold answer: The top-selling product categories for Nike are running, cross-training, basketball, soccer, sport-inspired urban shoes, and children's shoes.
+
+Candidate answer: Nike's top-selling (leading) product categories are running, cross-training, basketball, soccer, sport-inspired urban shoes, and children's shoes, which the company expects to continue to lead in product sales in the near future.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-140-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the main categorise beading in product safes for Nike?
+
+Gold answer: The top-selling product categories for Nike are running, cross-training, basketball, soccer, sport-inspired urban shoes, and children's shoes.
+
+Candidate answer: Running, cross-training, basketball, soccer, sport-inspired urban shoes, and children's shoes are currently NIKE's top-selling product categories.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-143-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Weight Watchers International's main revenue source?
+
+Gold answer: Weight Watchers International's primary revenue sources are subscriptions for their commitment plans for Weight Watchers meetings and Online subscriptions.
+
+Candidate answer: Subscriptions for commitment plans for Weight Watchers meetings and Online subscriptions
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-143-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Weight Watchers International's main revenue source?
+
+Gold answer: Weight Watchers International's primary revenue sources are subscriptions for their commitment plans for Weight Watchers meetings and Online subscriptions.
+
+Candidate answer: Its primary sources of revenue are subscriptions for its commitment plans for Weight Watchers meetings and Online subscriptions (with North America contributing 69.7% of total revenues in fiscal 2017; product sales in meetings and online were about 13.2% of revenues).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-143-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Weight Watchers International's main revenue source?
+
+Gold answer: Weight Watchers International's primary revenue sources are subscriptions for their commitment plans for Weight Watchers meetings and Online subscriptions.
+
+Candidate answer: Its primary sources of revenue are subscriptions for its commitment plans for Weight Watchers meetings and Online subscriptions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-143-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Weight Watchers International's main revenue source?
+
+Gold answer: Weight Watchers International's primary revenue sources are subscriptions for their commitment plans for Weight Watchers meetings and Online subscriptions.
+
+Candidate answer: Subscriptions for commitment plans for Weight Watchers meetings and Online subscriptions
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-143-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Weight Watchers International's main revenue source?
+
+Gold answer: Weight Watchers International's primary revenue sources are subscriptions for their commitment plans for Weight Watchers meetings and Online subscriptions.
+
+Candidate answer: Subscriptions — specifically, subscriptions for its commitment plans for Weight Watchers meetings and its Online (digital) subscriptions are the primary sources of revenue. (Product sales in the meetings and Online businesses were approximately 13.2% of revenues, and franchise revenues were less than 1% of total revenues, in fiscal 2017.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

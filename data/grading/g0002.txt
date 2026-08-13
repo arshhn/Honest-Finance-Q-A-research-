@@ -1,0 +1,179 @@
+=== ITEM id=fb-00216-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: No. The quick ratio was approximately 0.54 for Verizon. It indicated that Verizon does not have a healthy liquidity profile.
+
+Candidate answer: No. Verizon's FY2022 quick ratio is roughly 0.6 (well below 1.0), so on a strict quick-ratio basis its liquidity profile does not look healthy — current liabilities substantially exceed cash, short-term investments and receivables. That said, for a large, stable, investment-grade telecom with highly predictable subscriber cash flows and ready access to commercial paper and revolving credit, a sub-1.0 quick ratio is normal and not necessarily a sign of distress.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00216-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: No. The quick ratio was approximately 0.54 for Verizon. It indicated that Verizon does not have a healthy liquidity profile.
+
+Candidate answer: No — Verizon's FY2022 quick ratio was well below 1 (roughly 0.6), indicating weak short-term liquidity by this measure; however, the quick ratio is of limited relevance for a capital-intensive telecom like Verizon since it relies on stable, recurring cash flows and revolving credit facilities rather than liquid current assets to meet obligations
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00216-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: No. The quick ratio was approximately 0.54 for Verizon. It indicated that Verizon does not have a healthy liquidity profile.
+
+Candidate answer: Verizon's quick ratio of approximately 0.71 does not indicate a reasonably healthy liquidity profile. However, the quick ratio is not relevant for measuring Verizon's true liquidity because as a regulated utility with stable operating cash flows and reliable access to capital markets, it does not depend on liquid current assets in the same way traditional businesses do
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00216-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: No. The quick ratio was approximately 0.54 for Verizon. It indicated that Verizon does not have a healthy liquidity profile.
+
+Candidate answer: No — the quick ratio suggests a weak liquidity profile. Quick assets (cash and equivalents $2,605 million + net accounts receivable $24,506 million = $27,111 million) divided by total current liabilities of $50,171 million gives a quick ratio of roughly 0.54x, well under 1.0x.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00216-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: No. The quick ratio was approximately 0.54 for Verizon. It indicated that Verizon does not have a healthy liquidity profile.
+
+Candidate answer: No, Verizon's quick ratio (Cash and cash equivalents + Accounts receivable, net) / Total current liabilities = (2,605 + 24,506) / 50,171 ≈ 0.54, well below 1.0, indicating a fairly weak (not sound) liquidity position
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00216-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, does Verizon exhibit a fairly sound liquidity position when assessed via its quick ratio? Should the quick ratio not be a suitable liquidity metric in this case, indicate that and provide the reasoning.
+
+Gold answer: No. The quick ratio was approximately 0.54 for Verizon. It indicated that Verizon does not have a healthy liquidity profile.
+
+Candidate answer: The quick ratio of approximately 0.71 suggests weak liquidity. However, the quick ratio is not a suitable liquidity metric for Verizon because as a regulated utility with stable, predictable operating cash flows and access to debt markets, it does not rely as heavily on liquid current assets as traditional businesses
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00216-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, does Verizon exhibit a fairly sound liquidity position when assessed via its quick ratio? Should the quick ratio not be a suitable liquidity metric in this case, indicate that and provide the reasoning.
+
+Gold answer: No. The quick ratio was approximately 0.54 for Verizon. It indicated that Verizon does not have a healthy liquidity profile.
+
+Candidate answer: No — liquidity looks weak on this measure. Quick assets of cash and equivalents $2,605 million plus net accounts receivable $24,506 million = $27,111 million against total current liabilities of $50,171 million, a quick ratio of about 0.54x, well below 1.0x, so on-hand liquid assets cover only roughly half of current obligations.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00216-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, does Verizon exhibit a fairly sound liquidity position when assessed via its quick ratio? Should the quick ratio not be a suitable liquidity metric in this case, indicate that and provide the reasoning.
+
+Gold answer: No. The quick ratio was approximately 0.54 for Verizon. It indicated that Verizon does not have a healthy liquidity profile.
+
+Candidate answer: No, Verizon's quick ratio (Cash and cash equivalents + Accounts receivable, net) / Total current liabilities = (2,605 + 24,506) / 50,171 ≈ 0.54, well below 1.0, indicating a fairly weak (not sound) liquidity position
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00222-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, does AMD maintain a sufficiently strong liquidity position when evaluated through its quick ratio? Should the quick ratio not be a suitable liquidity measure in this case, please indicate that and provide the reasoning.
+
+Gold answer: Yes. The quick ratio is 1.57, calculated as (cash and cash equivalents+Short term investments+Accounts receivable, net+receivables from related parties)/ (current liabilities).
+
+Candidate answer: Yes, AMD maintains a sufficiently strong liquidity position with a quick ratio of 1.77, which is well above the 1.0 threshold typically considered healthy
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00222-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, does AMD maintain a sufficiently strong liquidity position when evaluated through its quick ratio? Should the quick ratio not be a suitable liquidity measure in this case, please indicate that and provide the reasoning.
+
+Gold answer: Yes. The quick ratio is 1.57, calculated as (cash and cash equivalents+Short term investments+Accounts receivable, net+receivables from related parties)/ (current liabilities).
+
+Candidate answer: Yes. AMD's FY2022 quick ratio is roughly 1.57x — quick assets of about $9,983 million (cash and equivalents $4,835M + short-term investments $1,020M + accounts receivable, net $4,126M + receivables from related parties $2M) divided by total current liabilities of $6,369M. A quick ratio well above 1.0x indicates AMD can cover its near-term obligations without relying on selling inventory, so its liquidity position is strong.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00222-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, does AMD maintain a sufficiently strong liquidity position when evaluated through its quick ratio? Should the quick ratio not be a suitable liquidity measure in this case, please indicate that and provide the reasoning.
+
+Gold answer: Yes. The quick ratio is 1.57, calculated as (cash and cash equivalents+Short term investments+Accounts receivable, net+receivables from related parties)/ (current liabilities).
+
+Candidate answer: Yes, AMD's quick ratio for FY2022 is approximately 1.57 ((Cash and cash equivalents $4,835M + Short-term investments $1,020M + Accounts receivable, net $4,126M) / Total current liabilities $6,369M = $9,981M / $6,369M ≈ 1.57), which is above 1.0, indicating a strong liquidity position.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00283-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much does Pfizer expect to pay to spin off Upjohn in the future in USD million?
+
+Gold answer: 77.78
+
+Candidate answer: $700 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

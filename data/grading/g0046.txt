@@ -1,0 +1,181 @@
+=== ITEM id=fb-00685-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Yes, the margins have been consistent, there has been a minor decline of 1.1% in gross margins between FY2022 and FY2023.
+
+Candidate answer: Yes. Best Buy's gross margins are historically consistent, with year-over-year fluctuations not exceeding approximately 1.07 percentage points. The gross margins are 22.37% (FY 2021), 22.49% (FY 2022), and 21.42% (FY 2023), all remaining within a roughly 2% range. Gross margins are a relevant metric for a retail company.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00685-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Yes, the margins have been consistent, there has been a minor decline of 1.1% in gross margins between FY2022 and FY2023.
+
+Candidate answer: Yes — gross margins are historically consistent, varying by only about 1 percentage point over the three years shown. Gross margin = gross profit / revenue: FY2023 = 9,912/46,298 = 21.4%; FY2022 = 11,640/51,761 = 22.5%; FY2021 = 10,573/47,262 = 22.4%. Year-over-year changes are roughly -1.1 percentage points (FY2022 to FY2023) and +0.1 percentage points (FY2021 to FY2022), both well within a ~2% band. Gross margin is a relevant metric here: this is a retailer with a large cost of sales (about 78-79% of revenue), so gross margin is a meaningful measure of merchandising and pricing performance.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00685-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Yes, the margins have been consistent, there has been a minor decline of 1.1% in gross margins between FY2022 and FY2023.
+
+Candidate answer: Yes, gross margins are relevant and historically consistent, fluctuating less than 2% year over year. Gross margin (gross profit/revenue) was 22.37% in FY2021 ($10,573/$47,262), 22.49% in FY2022 ($11,640/$51,761), and 21.41% in FY2023 ($9,912/$46,298). The year-over-year changes are about 0.12 percentage points (FY2021 to FY2022) and about 1.08 percentage points (FY2022 to FY2023), both within roughly 2%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00711-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has JnJ sold its inventory in FY2022? Calculate inventory turnover ratio for FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: JnJ sold its inventory 2.7 times in FY2022.
+
+Candidate answer: Approximately 4.2 times. JnJ's inventory turnover ratio for FY2022 is calculated as Cost of Products Sold ($37.8B) divided by average inventory ($9.05B). Conventional inventory management is meaningful for JnJ as a diversified healthcare company with pharmaceutical, medical device, and consumer health products that require inventory management as part of normal operations.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00711-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has JnJ sold its inventory in FY2022? Calculate inventory turnover ratio for FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: JnJ sold its inventory 2.7 times in FY2022.
+
+Candidate answer: Approximately 2.7 times per year. Conventional inventory turnover is meaningful for J&J, since it is a manufacturer of pharmaceuticals, medtech devices and consumer health products that carries real physical inventory. Calculation (FY2022, year ended Jan 1, 2023): Cost of products sold ≈ $31.1 billion; inventories ≈ $12.5 billion at FY2022 year-end and ≈ $10.4 billion at FY2021 year-end, giving average inventory ≈ $11.4 billion. Inventory turnover = 31.1 / 11.4 ≈ 2.7x (about 134 days of inventory on hand). Using ending inventory instead of the average gives ≈ 2.5x.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00711-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has JnJ sold its inventory in FY2022? Calculate inventory turnover ratio for FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: JnJ sold its inventory 2.7 times in FY2022.
+
+Candidate answer: Approximately 2.5x for FY2022. Using J&J's FY2022 10-K figures: Cost of products sold ≈ $29.3–29.9 billion and average inventory ≈ $11.8–12.0 billion (inventory of roughly $12.48 billion at year-end 2022 vs. ~$11.1 billion at year-end 2021), giving inventory turnover ≈ COGS / average inventory ≈ 2.5 times per year (roughly 145–150 days of inventory on hand). Conventional inventory turnover is meaningful for J&J since it manufactures and sells physical pharmaceutical, medtech, and consumer health products.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00711-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has JnJ sold its inventory in FY2022? Calculate inventory turnover ratio for FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: JnJ sold its inventory 2.7 times in FY2022.
+
+Candidate answer: The inventory turnover ratio for FY2022 is approximately 2.72 times. This is calculated as Cost of Products Sold ($31,089 million) divided by Average Inventory ($11,435 million, calculated as ($12,483 million + $10,387 million) / 2). Conventional inventory management is meaningful for Johnson & Johnson as a manufacturing company with physical pharmaceutical and healthcare products requiring proper inventory management.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00711-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has JnJ sold its inventory in FY2022? Calculate inventory turnover ratio for FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: JnJ sold its inventory 2.7 times in FY2022.
+
+Candidate answer: Approximately 2.7 times. Inventory turnover (FY2022) = Cost of products sold / Average inventory = $31,089M / (($12,483M + $10,387M)/2) = $31,089M / $11,435M ≈ 2.72x. (Using ending inventory instead of average gives $31,089M / $12,483M ≈ 2.49x.) Conventional inventory management is meaningful for J&J — it is a pharmaceutical, medtech and consumer health manufacturer carrying physical inventory, so the ratio is a valid measure; it sold and replaced its inventory roughly 2.7 times during FY2022, implying about 134 days of inventory on hand.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00711-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has JnJ sold its inventory in FY2022? Calculate inventory turnover ratio for FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: JnJ sold its inventory 2.7 times in FY2022.
+
+Candidate answer: Approximately 2.7 times (inventory turnover ≈ 2.7x for FY2022). Calculation: Inventory turnover = Cost of products sold ÷ Average inventory = $31,089M ÷ [($12,483M + $10,387M)/2 = $11,435M] ≈ 2.72x. (If using ending inventory instead of average, turnover = $31,089M ÷ $12,483M ≈ 2.49x.) This is a conventional, meaningful metric for J&J since it is a manufacturer/seller of pharmaceutical, medical device, and consumer products that carries physical inventory, so inventory turnover analysis is applicable.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00720-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of the FY2022 for American Express? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Performance is not measured through gross margin
+
+Candidate answer: Gross margin is not a useful metric for American Express because it is a financial services company, not a product-based business. American Express's revenue is generated primarily through interchange fees on card transactions, cardholder annual fees, finance charges, and other service fees—not through markup on products or cost of goods sold. As such, American Express does not report or analyze "gross margin" in its SEC filings. Instead, financial analysts use metrics such as net revenues (broken down by revenue category), operating income, net profit margin, and return on equity (ROE) to evaluate the company's financial performance.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00720-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of the FY2022 for American Express? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Performance is not measured through gross margin
+
+Candidate answer: Gross margin is not a useful or meaningful metric for American Express, and the company does not report it (no "cost of goods sold" or gross profit line appears in its FY2022 income statement). Amex is an integrated payments company — a card network plus a bank holding company — so its economics are not production-and-sale of goods. Its income statement runs from total revenues net of interest expense (discount revenue, net card fees, service fees, processed revenue, and net interest income) down through provisions for credit losses and operating expenses (including card member rewards, card member services, business development, and marketing) to pre-tax income. There is no meaningful separation of "cost of revenue" from operating expense, so any gross-margin figure would be an arbitrary construct.
+
+The relevant FY2022 profitability drivers instead were: total revenues net of interest expense of roughly $52.9 billion, up about 25% year over year, driven by record Card Member spending as travel and entertainment recovered post-pandemic, higher net card fee revenue from premium fee-based product growth, and sharply higher net interest income as loan balances rebounded and rates rose. Offsetting this, provisions for credit losses swung to roughly $2.2 billion (from a large reserve release in 2021) as reserves were rebuilt on growing loan balances, and expenses rose on higher rewards, Card Member travel/services usage, and marketing investment. Net income was about $7.5 billion. Appropriate margin/return metrics for a company like this are pre-tax margin, net income margin on revenues net of interest expense, net interest margin, return on equity (about 30% in 2022), and efficiency ratio — not gross margin.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00720-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of the FY2022 for American Express? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Performance is not measured through gross margin
+
+Candidate answer: Gross margin is not a meaningful or typically reported metric for American Express. Amex is a financial services company (card issuer/payments network) generating revenue mainly through discount revenue from merchants, net interest income on cardmember loans, and card fees, rather than through selling goods with an associated cost of goods sold. Financial companies generally do not present a COGS/gross margin line; instead, performance is better tracked via metrics like net interest margin, total revenues net of interest expense, provisions for credit losses, and expense ratios. For FY2022, Amex's total revenues net of interest expense grew to roughly $52.9 billion (from ~$43.7 billion in FY2021) on the back of the recovery in travel and card spending, while net income declined to roughly $7.5 billion (from ~$8.1 billion in FY2021), mainly due to higher provisions for credit losses (as it built reserves amid loan growth and macro uncertainty) and higher operating expenses, rather than any "gross margin" dynamic.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

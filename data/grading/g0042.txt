@@ -1,0 +1,179 @@
+=== ITEM id=fb-00517-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?
+
+Gold answer: Yes. Boeing has product and service categories that represent more than 20% of Boeing's revenue for FY2022. These categories are Commercial Airplanes which comprises 39% of total revenue, Defence which comprises 35% of total revenue and Services which comprises 26% of total revenue.
+
+Candidate answer: Yes, multiple product/service categories represent more than 20% of FY2022 revenue, including Commercial Airplanes and Defense, Space & Security
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00517-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?
+
+Gold answer: Yes. Boeing has product and service categories that represent more than 20% of Boeing's revenue for FY2022. These categories are Commercial Airplanes which comprises 39% of total revenue, Defence which comprises 35% of total revenue and Services which comprises 26% of total revenue.
+
+Candidate answer: Yes. For FY2022 Boeing's total revenue was approximately $66.6 billion, and all three of its major reportable segments/categories each exceeded 20% of the total: Commercial Airplanes ~$26.0 billion (~39%), Defense, Space & Security ~$23.2 billion (~35%), and Global Services ~$17.6 billion (~26%). (Boeing Capital is negligible, ~$0.2 billion.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00517-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?
+
+Gold answer: Yes. Boeing has product and service categories that represent more than 20% of Boeing's revenue for FY2022. These categories are Commercial Airplanes which comprises 39% of total revenue, Defence which comprises 35% of total revenue and Services which comprises 26% of total revenue.
+
+Candidate answer: Yes. Boeing's Commercial Airplanes (BCA) segment accounted for more than 20% of total FY2022 revenue — approximately $25.9 billion of Boeing's ~$66.6 billion total revenue, or roughly 39%. Defense, Space & Security (~$21.1B, ~32%) and Global Services (~$19.5B, ~29%) were also near or above the 20% threshold, but Commercial Airplanes was the largest segment.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00517-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?
+
+Gold answer: Yes. Boeing has product and service categories that represent more than 20% of Boeing's revenue for FY2022. These categories are Commercial Airplanes which comprises 39% of total revenue, Defence which comprises 35% of total revenue and Services which comprises 26% of total revenue.
+
+Candidate answer: Yes. Three product/service categories represent more than 20% of Boeing's FY2022 revenue: Commercial Airplanes (38.81%, $25,867 million), Defense, Space & Security (34.75%, $23,162 million), and Global Services (26.42%, $17,611 million).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00517-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?
+
+Gold answer: Yes. Boeing has product and service categories that represent more than 20% of Boeing's revenue for FY2022. These categories are Commercial Airplanes which comprises 39% of total revenue, Defence which comprises 35% of total revenue and Services which comprises 26% of total revenue.
+
+Candidate answer: Yes. Based on the segment data, three of Boeing's four reportable segments each exceeded 20% of FY2022 total revenue of $66,608 million: Commercial Airplanes at $25,867 million (~38.8%), Defense, Space & Security at $23,162 million (~34.8%), and Global Services at $17,611 million (~26.4%). Boeing Capital, at $199 million (~0.3%), was well below 20%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00517-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?
+
+Gold answer: Yes. Boeing has product and service categories that represent more than 20% of Boeing's revenue for FY2022. These categories are Commercial Airplanes which comprises 39% of total revenue, Defence which comprises 35% of total revenue and Services which comprises 26% of total revenue.
+
+Candidate answer: Yes. For FY2022, three segments each exceeded 20% of Boeing's total revenue of $66,608 million: Commercial Airplanes ($25,867M, ~38.8%), Defense, Space & Security ($23,162M, ~34.8%), and Global Services ($17,611M, ~26.4%). Boeing Capital ($199M, ~0.3%) did not.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00540-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: AES has converted inventory 9.5 times in FY 2022.
+
+Candidate answer: Roughly 12 times (inventory turnover ≈ 12x in FY2022). Approximate calculation: FY2022 cost of sales of about $10.1 billion divided by average inventory of roughly $0.8 billion (year-end 2021 inventory of roughly $0.6 billion and year-end 2022 inventory of roughly $1.0 billion) gives about 12 turns per year, i.e. inventory is held on average about 30 days. Important caveat: conventional inventory management is not very meaningful for AES. AES is a power generation and utility company, so it does not hold finished goods for resale — electricity cannot be stored in inventory. Its "inventory" is almost entirely fuel (coal, natural gas, oil), emissions allowances, and maintenance spare parts. Fuel is consumed to run plants, and spare parts are held deliberately for reliability rather than to be sold, so the turnover ratio reflects fuel burn rates, commodity prices, and hedging/stockpiling decisions rather than sales efficiency. Comparing it to a retailer's or manufacturer's turnover is not informative.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00540-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: AES has converted inventory 9.5 times in FY 2022.
+
+Candidate answer: AES Corporation turned over its inventory approximately 12.14 times in FY2022 (calculated as Cost of Sales of $10,069 million divided by Average Inventory of $829.5 million). However, this conventional inventory turnover metric has limited meaningfulness for AES Corporation because it is a utility/energy company where inventory represents only 2.7% of assets and primarily consists of spare parts and maintenance materials rather than products for resale. Revenue is generated primarily from regulated utility operations and infrastructure rather than inventory turnover.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00540-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: AES has converted inventory 9.5 times in FY 2022.
+
+Candidate answer: Roughly 12 times. Inventory turnover (FY2022) = Total cost of sales / average inventory = $10,069M / [($1,055M + $604M)/2 = $829.5M] = 12.1x. Caveat: conventional inventory management is not really meaningful for AES. AES is a power generation and utility company that sells electricity, which cannot be stored and is delivered the instant it is produced. Its "inventory" is not finished goods held for resale but consumables such as fuel (coal, gas, oil), spare parts and maintenance supplies used in generation and distribution. So the ratio measures the pace of fuel/supply consumption, not how quickly merchandise is sold, and it is not comparable to a retailer's or manufacturer's turnover.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00540-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: AES has converted inventory 9.5 times in FY 2022.
+
+Candidate answer: Approximately 12.1 times (inventory turnover ratio ≈ 12.14x) for FY2022, calculated as Total Cost of Sales ($10,069 million) divided by average inventory (($1,055M + $604M)/2 = $829.5M) = 12.14x. Note: AES is a power generation/utility company, not a traditional merchandiser, so "inventory" here (fuel, spare parts, materials) is not central to a sales cycle, and this ratio should be interpreted with caution as it doesn't reflect a conventional retail/manufacturing turnover of goods for resale.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00563-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: From FY21 to FY22, excluding Embedded, in which AMD reporting segment did sales proportionally increase the most?
+
+Gold answer: Data Center
+
+Candidate answer: Data Center
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00563-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: From FY21 to FY22, excluding Embedded, in which AMD reporting segment did sales proportionally increase the most?
+
+Gold answer: Data Center
+
+Candidate answer: Data Center — AMD's Data Center segment grew the most proportionally, roughly +64% (about $3.7 billion in FY21 to about $6.0 billion in FY22), versus roughly +21% for Gaming (about $5.6B to $6.8B) and a decline of about 10% for Client (about $6.9B to $6.2B).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

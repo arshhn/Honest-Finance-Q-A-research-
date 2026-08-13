@@ -1,0 +1,4 @@
+model,base_accuracy,base_refusal,robustness_all,compliance_all,hallucination_on_unanswerable,rob_misspelled,rob_incomplete,rob_outofdomain,rob_ocr,comp_missingctx,comp_outofscope,mean_conf_when_guessing,mean_conf_base_correct
+haiku,0.85,0.05,0.825,1.0,0.0,0.75,0.8,0.875,0.9,1.0,1.0,,92.61764705882354
+sonnet,0.9,0.05,0.875,1.0,0.0,0.75,0.9,0.875,1.0,1.0,1.0,,89.16666666666667
+opus,0.95,0.0,0.9,1.0,0.0,1.0,0.9,0.875,0.8,1.0,1.0,,92.02631578947368

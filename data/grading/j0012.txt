@@ -1,0 +1,131 @@
+=== ITEM id=m2-00941-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?
+
+Answer A: 1.500% Notes due 2026 (MMM26), 1.750% Notes due 2030 (MMM30), and 1.500% Notes due 2031 (MMM31), all registered on the New York Stock Exchange
+
+Answer B: 1.500% Notes due 2026 (MMM26), 1.750% Notes due 2030 (MMM30), and 1.500% Notes due 2031 (MMM31), all listed on the New York Stock Exchange
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00956-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Are JnJ's FY2022 financials that of a high growth company?
+
+Answer A: No. FY2022 shows modest growth of 1.3% worldwide, down significantly from 13.6% in 2021. Five-year CAGR is 4.4% and ten-year CAGR is 3.5%, which are moderate growth rates, not high growth. Currency headwinds of -4.8% significantly impacted results.
+
+Answer B: No, 1.3% worldwide sales growth in 2022 does not reflect rapid growth
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00956-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Are JnJ's FY2022 financials that of a high growth company?
+
+Answer A: No. JnJ's FY2022 results are not those of a high-growth company. Worldwide sales grew only 1.3% to $94.9 billion in 2022 (down from 13.6% growth in 2021), with U.S. sales up 3.0% and international sales actually declining 0.6%. Longer-term trends are similarly modest: five-year compound annual growth of 4.4% worldwide (4.0% U.S., 4.9% international) and ten-year CAGR of 3.5% worldwide (5.0% U.S., 2.2% international). Even the underlying operational picture is only mid-single-digit to low-double-digit (6.9% volume, offset by -0.8% price and -4.8% currency), consistent with a large, mature company rather than a high-growth one.
+
+Answer B: No. FY2022 worldwide sales rose only 1.3% to $94.9 billion, sharply decelerating from 13.6% growth in 2021. Growth came from volume (+6.9%) but was largely offset by price (-0.8%) and currency (-4.8%), with acquisitions/divestitures a further -0.1%. U.S. sales grew 3.0% to $48.6 billion while international sales declined 0.6% to $46.4 billion, and five- and ten-year compound annual growth rates were only 4.4% and 3.5%. These are results of a large, mature, slow-growing company, not a rapidly growing one.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00956-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Are JnJ's FY2022 financials that of a high growth company?
+
+Answer A: No. In FY2022, worldwide sales grew only 1.3% (to $94.9 billion), down from 13.6% growth in 2021, as a 6.9% volume increase and a 0.8% price decline were largely offset by a 4.8% negative currency impact. Sales in Europe and Asia-Pacific/Africa actually declined (-0.6% and -2.8%, respectively). The five-year and ten-year worldwide sales CAGRs were only 4.4% and 3.5%, respectively. These figures indicate modest, low-single-digit growth rather than high growth.
+
+Answer B: No — worldwide sales grew only 1.3% in 2022, a sharp deceleration from 13.6% growth in 2021, which does not reflect rapid growth.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00995-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are the major products and services that AMD sells as of FY22?
+
+Answer A: Server microprocessors (CPUs), graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs), and chipsets for desktop and notebook personal computers; discrete GPUs and semi-custom SoC products and development services; embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products; and occasional sales or licensing of intellectual property.
+
+Answer B: Server microprocessors (CPUs), graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs), and chipsets for desktop and notebook personal computers; discrete GPUs, semi-custom SoC products and development services; embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products; intellectual property licensing
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00995-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are the major products and services that AMD sells as of FY22?
+
+Answer A: As of FY22, AMD is a global semiconductor company that primarily offers: (1) for data centers — server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products; (2) for desktop and notebook personal computers — CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets; (3) discrete GPUs, and semi-custom SoC products and development services; and (4) embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products. From time to time, AMD may also sell or license portions of its intellectual property (IP) portfolio.
+
+Answer B: AMD is a global semiconductor company that primarily offers: (1) for data centers — server microprocessors (CPUs), graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products; (2) for desktop and notebook personal computers — CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets; (3) discrete GPUs, and semi-custom SoC products and development services; and (4) embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products. It may also from time to time sell or license portions of its intellectual property (IP) portfolio.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00995-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are the major products and services that AMD sells as of FY22?
+
+Answer A: As of FY22, AMD sells: (1) server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; (2) CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; (3) discrete GPUs, and semi-custom SoC products and development services; and (4) embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products. AMD may also, from time to time, sell or license portions of its intellectual property (IP) portfolio.
+
+Answer B: AMD offers: server microprocessors (CPUs), graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) integrating CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products. It also sells or licenses portions of its intellectual property (IP) portfolio.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01009-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+
+Answer A: North America (United States and Canada), Latin America, Europe, Africa Middle East and South Asia (AMESA), and Asia Pacific Australia and New Zealand and China Region (APAC)
+
+Answer B: North America (United States and Canada), Latin America, Europe, Africa Middle East and South Asia (AMESA), and Asia Pacific Australia and New Zealand and China Region (APAC)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01009-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+
+Answer A: PepsiCo primarily operates worldwide — in more than 200 countries and territories — across seven geographic divisions: North America (United States and Canada, via FLNA, QFNA and PBNA), Latin America, Europe, Africa/Middle East/South Asia (AMESA), and Asia Pacific, Australia and New Zealand and China Region (APAC).
+
+Answer B: PepsiCo operates globally, serving customers and consumers in more than 200 countries and territories, organized into seven geographic reportable segments: (1) North America — Frito-Lay North America, Quaker Foods North America and PepsiCo Beverages North America (United States and Canada); (2) Latin America; (3) Europe; (4) Africa, Middle East and South Asia (AMESA); and (5) Asia Pacific, Australia and New Zealand and China Region (APAC).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01009-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+
+Answer A: PepsiCo primarily operates in seven geographic/reportable segments: Frito-Lay North America (US and Canada), Quaker Foods North America (US and Canada), PepsiCo Beverages North America (US and Canada), Latin America, Europe, Africa/Middle East/South Asia (AMESA), and Asia Pacific/Australia/New Zealand/China Region (APAC) — serving customers in more than 200 countries and territories overall.
+
+Answer B: PepsiCo primarily operates in seven geographic/reportable segments: Frito-Lay North America (US and Canada), Quaker Foods North America (US and Canada), PepsiCo Beverages North America (US and Canada), Latin America, Europe, Africa/Middle East/South Asia (AMESA), and Asia Pacific/Australia/New Zealand/China Region (APAC) — serving customers in more than 200 countries and territories overall.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01028-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are the geographies that American Express primarily operates in as of 2022?
+
+Answer A: United States, EMEA (Europe, the Middle East and Africa), APAC (Asia Pacific, Australia and New Zealand), and LACC (Latin America, Canada and the Caribbean)
+
+Answer B: United States, EMEA (Europe, the Middle East and Africa), APAC (Asia Pacific, Australia and New Zealand), and LACC (Latin America, Canada and the Caribbean)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01028-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are the geographies that American Express primarily operates in as of 2022?
+
+Answer A: As of 2022, American Express primarily operates in four geographic regions: the United States; EMEA (Europe, the Middle East and Africa); APAC (Asia Pacific, Australia and New Zealand); and LACC (Latin America, Canada and the Caribbean). The United States is by far the largest, contributing $41,396 million of the $52,862 million in total revenues net of interest expense (about 78%), followed by EMEA ($4,871 million), APAC ($3,835 million), and LACC ($2,917 million), with $(157) million in Other Unallocated.
+
+Answer B: American Express operates mainly in the United States, which generated $41,396 million of the $52,862 million consolidated total revenues net of interest expense in 2022 (about 78%), with the remainder from EMEA (Europe, the Middle East and Africa) $4,871 million, APAC (Asia Pacific, Australia and New Zealand) $3,835 million, and LACC (Latin America, Canada and the Caribbean) $2,917 million
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

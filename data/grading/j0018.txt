@@ -1,0 +1,131 @@
+=== ITEM id=m2-01488-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which business segment of JnJ will be treated as a discontinued operation from August 30, 2023 onward?
+
+Answer A: The Consumer Health business (Kenvue Inc., formerly Johnson & Johnson's Consumer Health business)
+
+Answer B: The Consumer Health business (the former Johnson & Johnson Consumer Health segment, separated as Kenvue Inc.) will be presented as discontinued operations.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01488-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which business segment of JnJ will be treated as a discontinued operation from August 30, 2023 onward?
+
+Answer A: Consumer Health business (formerly Kenvue Inc.)
+
+Answer B: The Consumer Health business (Kenvue Inc., formerly J&J's Consumer Health segment) will be classified as discontinued operations.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01490-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the amount of the gain accruing to JnJ as a result of the separation of its Consumer Health business segment, as of August 30, 2023?
+
+Answer A: approximately $20 billion
+
+Answer B: Approximately $20 billion
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01490-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the amount of the gain accruing to JnJ as a result of the separation of its Consumer Health business segment, as of August 30, 2023?
+
+Answer A: Approximately $20 billion (a gain to be recorded in the third quarter of 2023 from presenting the Consumer Health business as discontinued operations)
+
+Answer B: Approximately $20 billion. Johnson & Johnson will present its Consumer Health business as discontinued operations, including a gain of approximately $20 billion recognized in the third quarter of 2023 as a result of completing the Kenvue exchange offer.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01490-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the amount of the gain accruing to JnJ as a result of the separation of its Consumer Health business segment, as of August 30, 2023?
+
+Answer A: Approximately $20 billion
+
+Answer B: approximately $20 billion
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01491-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the amount of the cash proceeds that JnJ realised from the separation of Kenvue (formerly Consumer Health business segment), as of August 30, 2023?
+
+Answer A: $13.2 billion
+
+Answer B: $13.2 billion
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01491-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the amount of the cash proceeds that JnJ realised from the separation of Kenvue (formerly Consumer Health business segment), as of August 30, 2023?
+
+Answer A: $13.2 billion in cash proceeds (from the Kenvue debt offering and initial public offering)
+
+Answer B: $13.2 billion in cash proceeds, from the Kenvue debt offering and initial public offering (with J&J retaining a 9.5% equity stake in Kenvue).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01491-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the amount of the cash proceeds that JnJ realised from the separation of Kenvue (formerly Consumer Health business segment), as of August 30, 2023?
+
+Answer A: $13.2 billion
+
+Answer B: $13.2 billion
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01858-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does 3M maintain a stable trend of dividend distribution?
+
+Answer A: Yes, 3M maintains a stable trend of dividend distribution, with 65 consecutive years of dividend increases. In 2023, the company declared Q1 and Q2 dividends of $1.50 per share, representing a 1% increase from the prior year.
+
+Answer B: Yes, 3M has consistently maintained a steady pattern in its dividend payouts, having increased dividends for 65 consecutive years.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01858-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does 3M maintain a stable trend of dividend distribution?
+
+Answer A: Yes. 3M shows a stable, consistently rising dividend trend. In February 2023 the Board declared a first-quarter 2023 dividend of $1.50 per share, a 1 percent increase, marking the 65th consecutive year of dividend increases for 3M, and in May 2023 the Board declared a second-quarter 2023 dividend of the same $1.50 per share.
+
+Answer B: Yes. The filing indicates a steady, consistent dividend pattern: in February 2023 3M declared a first-quarter 2023 dividend of $1.50 per share, a 1 percent increase, marking the 65th consecutive year of dividend increases, and in May 2023 it declared a second-quarter 2023 dividend of $1.50 per share.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01865-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?
+
+Answer A: Consumer
+
+Answer B: Consumer segment held back 3M's total growth with negative organic sales of (0.9)% versus total company organic sales growth of 1.2%
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01865-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?
+
+Answer A: The Consumer segment. Excluding M&A (acquisitions/divestitures) and looking at organic sales change for 2022, Consumer was the only segment with a decline at (0.9)%, versus positive organic growth in Safety and Industrial (+1.0%), Transportation and Electronics (+1.2%), and Health Care (+3.2%), against total company organic growth of +1.2%.
+
+Answer B: The Consumer segment. Excluding acquisitions and divestitures, Consumer was the only segment with negative organic sales growth in 2022 at (0.9)%, versus positive organic growth for Safety and Industrial (1.0%), Transportation and Electronics (1.2%) and Health Care (3.2%), dragging on the total company organic growth of 1.2%.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

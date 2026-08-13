@@ -1,0 +1,179 @@
+=== ITEM id=fb-00563-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: From FY21 to FY22, excluding Embedded, in which AMD reporting segment did sales proportionally increase the most?
+
+Gold answer: Data Center
+
+Candidate answer: Data Center segment (revenue grew from ~$3.694 billion in FY21 to ~$6.043 billion in FY22, an increase of roughly 64%, the largest proportional increase among Data Center, Client, and Gaming, excluding Embedded)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00563-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: From FY21 to FY22, excluding Embedded, in which AMD reporting segment did sales proportionally increase the most?
+
+Gold answer: Data Center
+
+Candidate answer: Data Center
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00563-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: From FY21 to FY22, excluding Embedded, in which AMD reporting segment did sales proportionally increase the most?
+
+Gold answer: Data Center
+
+Candidate answer: Data Center — net revenue rose from $3,694 million (FY21) to $6,043 million (FY22), an increase of about 64%, versus Gaming's ~21% ($5,607M to $6,805M) and Client's ~10% decline ($6,887M to $6,201M).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00563-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: From FY21 to FY22, excluding Embedded, in which AMD reporting segment did sales proportionally increase the most?
+
+Gold answer: Data Center
+
+Candidate answer: Data Center (net revenue increased ~64%, from $3,694 million in FY21 to $6,043 million in FY22)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00585-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does Boeing's effective tax rate in FY2022 compare to FY2021?
+
+Gold answer: Effective tax rate in FY2022 was 0.62%, compared to  -14.76% in FY2021.
+
+Candidate answer: Boeing's effective tax rate fell sharply from FY2021 to FY2022. In FY2021 Boeing recorded a pre-tax loss of roughly $(5.0) billion with an income tax benefit of about $0.74 billion, an effective tax rate of roughly 14-15% (a benefit). In FY2022 Boeing again had a pre-tax loss of roughly $(5.0) billion but recorded essentially no net tax effect (a benefit/expense of only about $30 million), giving an effective tax rate of well under 1% (roughly 0-1%). So the effective rate dropped by roughly 14 percentage points, driven mainly by valuation allowances recorded against U.S. deferred tax assets, which stopped the losses from generating a meaningful tax benefit.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00585-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does Boeing's effective tax rate in FY2022 compare to FY2021?
+
+Gold answer: Effective tax rate in FY2022 was 0.62%, compared to  -14.76% in FY2021.
+
+Candidate answer: Boeing's effective tax rate in FY2022 (0.62%) was significantly lower than in FY2021 (-14.76%). In 2022, Boeing had a minimal tax expense, while in 2021, Boeing received a substantial tax benefit.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00585-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does Boeing's effective tax rate in FY2022 compare to FY2021?
+
+Gold answer: Effective tax rate in FY2022 was 0.62%, compared to  -14.76% in FY2021.
+
+Candidate answer: Boeing's effective tax rate fell sharply from FY2021 to FY2022. In FY2021 Boeing recorded a $743M tax benefit on a $5,033M pre-tax loss, an effective rate of about 14.8% (a benefit that reduced the net loss). In FY2022 it recorded a $31M tax expense on a $5,022M pre-tax loss, an effective rate of roughly -0.6% (i.e., about 0.6% expense despite the loss). That is a swing of about 15.4 percentage points, so FY2022's tax line provided essentially no benefit versus FY2021.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00585-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does Boeing's effective tax rate in FY2022 compare to FY2021?
+
+Gold answer: Effective tax rate in FY2022 was 0.62%, compared to  -14.76% in FY2021.
+
+Candidate answer: In FY2022, Boeing had a pretax loss of $5,022M and income tax expense of $31M, an effective tax rate of approximately -0.6% (small expense despite a loss). In FY2021, Boeing had a pretax loss of $5,033M and an income tax benefit of $743M, an effective tax rate of approximately +14.8% (benefit). So the effective rate moved from about +14.8% (net benefit) in FY2021 to about -0.6% (net expense) in FY2022, a roughly 15 percentage point unfavorable swing.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00591-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Adobe have an improving Free cashflow conversion as of FY2022?
+
+Gold answer: Yes, the FCF conversion (using net income as the denominator) for Adobe has improved by ~13% from 143% in 2021 to 156% in 2022
+
+Candidate answer: Yes. Adobe's free cash flow conversion (FCF / net income) improved in FY2022. FY2022: cash from operations ~$7,838 million less capex ~$442 million = FCF ~$7,396 million against net income ~$4,756 million, a conversion of roughly 155%. FY2021: cash from operations ~$7,230 million less capex ~$348 million = FCF ~$6,882 million against net income ~$4,822 million, a conversion of roughly 143%. So conversion rose by about 12-13 percentage points year over year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00591-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Adobe have an improving Free cashflow conversion as of FY2022?
+
+Gold answer: Yes, the FCF conversion (using net income as the denominator) for Adobe has improved by ~13% from 143% in 2021 to 156% in 2022
+
+Candidate answer: Yes. Adobe's free cash flow conversion (FCF/Net income) improved in FY2022, rising to roughly 150-160% of net income (FCF of ~$7.4B on net income of ~$4.75B) compared with roughly 140-150% in FY2021 (FCF of ~$7.0B on net income of ~$4.82B), as operating cash flow grew faster than net income.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00591-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Adobe have an improving Free cashflow conversion as of FY2022?
+
+Gold answer: Yes, the FCF conversion (using net income as the denominator) for Adobe has improved by ~13% from 143% in 2021 to 156% in 2022
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00591-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Adobe have an improving Free cashflow conversion as of FY2022?
+
+Gold answer: Yes, the FCF conversion (using net income as the denominator) for Adobe has improved by ~13% from 143% in 2021 to 156% in 2022
+
+Candidate answer: Yes. Free cash flow conversion (FCF / net income) improved in FY2022. FCF = operating cash flow less purchases of property and equipment: FY2022 = $7,838M - $442M = $7,396M vs. net income of $4,756M, a conversion of ~156%. FY2021 = $7,230M - $348M = $6,882M vs. net income of $4,822M, or ~143%; FY2020 = $5,727M - $419M = $5,308M vs. net income of $5,260M, or ~101%. So conversion rose from ~101% to ~143% to ~156%, a clear improving trend.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

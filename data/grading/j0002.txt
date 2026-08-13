@@ -1,0 +1,131 @@
+=== ITEM id=m2-00299-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which of JPM's business segments had the lowest net revenue in 2021 Q1?
+
+Answer A: Corporate, with total net revenue of $(473) million (a net loss) in 2021 Q1
+
+Answer B: Corporate, with total net revenue of $(473) million in Q1 2021 (a net loss), the smallest among JPM's segments
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00302-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+
+Answer A: Yes, Pfizer grew its property, plant and equipment between FY20 and FY21
+
+Answer B: Yes, Pfizer's property, plant and equipment increased
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00302-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+
+Answer A: Yes. Property, plant and equipment (PP&E) grew from $13,745 million at year-end 2020 to $14,882 million at year-end 2021, an increase of $1,137 million (about 8.3%).
+
+Answer B: Yes. Property, plant and equipment increased from $13,745 million in 2020 to $14,882 million in 2021, an increase of $1,137 million (about 8.3%).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00302-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+
+Answer A: Yes, Pfizer's PP&E grew from $13,745 million in FY2020 to $14,882 million in FY2021.
+
+Answer B: Yes, Pfizer's PP&E increased, from $13,745 million in FY2020 to $14,882 million in FY2021.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00382-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+
+Answer A: Las Vegas Strip Resorts
+
+Answer B: Las Vegas Strip Resorts
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00382-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+
+Answer A: Las Vegas Strip Resorts, with Adjusted Property EBITDAR of $3,142,308 thousand (about $3.14 billion) for the twelve months ended December 31, 2022, compared with $1,294,630 thousand for Regional Operations and negative $203,136 thousand for MGM China.
+
+Answer B: Las Vegas Strip Resorts, with Adjusted Property EBITDAR of $3,142,308 thousand (about $3.14 billion) for the twelve months ended December 31, 2022, versus $1,294,630 thousand for Regional Operations and a loss of $203,136 thousand for MGM China.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00382-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+
+Answer A: Las Vegas Strip Resorts, with $3,142,308 thousand of Adjusted Property EBITDAR for the twelve months ended December 31, 2022.
+
+Answer B: Las Vegas Strip Resorts, with $3,142,308 thousand of Adjusted Property EBITDAR for the twelve months ended December 31, 2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00394-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: In 2022 Q2, which of JPM's business segments had the highest net income?
+
+Answer A: Corporate & Investment Bank, $3,725 million
+
+Answer B: Corporate & Investment Bank
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00394-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: In 2022 Q2, which of JPM's business segments had the highest net income?
+
+Answer A: Corporate & Investment Bank, with net income of $3,725 million for the three months ended June 30, 2022
+
+Answer B: The Corporate & Investment Bank, with net income of $3,725 million in Q2 2022 (vs. $3,100 million for Consumer & Community Banking).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00394-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: In 2022 Q2, which of JPM's business segments had the highest net income?
+
+Answer A: Corporate & Investment Bank (CIB), with net income of $3,725 million in Q2 2022, the highest among all segments.
+
+Answer B: Corporate & Investment Bank, with $3,725 million net income
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00407-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?
+
+Answer A: Corporate bonds
+
+Answer B: Corporate bonds
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00407-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?
+
+Answer A: Corporate bonds, at $416,420 thousand (~$416.4 million) as of June 30, 2023 — the largest short-term investment category.
+
+Answer B: Corporate bonds, at $416,420 thousand (approximately $416.4 million) as of June 30, 2023
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

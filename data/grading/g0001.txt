@@ -1,0 +1,179 @@
+=== ITEM id=fb-00080-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on PayPal's fiscal year 2022 figures, is its working capital positive? If working capital isn't a meaningful metric for this particular company, please indicate that and provide your reasoning.
+
+Gold answer: Yes. Paypal has a positive working capital of $ 1.6Bn as of FY2022 end.
+
+Candidate answer: Yes, positive: FY2022 total current assets of $57,517 million less total current liabilities of $45,101 million gives working capital of about $12,416 million (roughly $12.4 billion). Caveat: for PayPal the headline metric is somewhat less meaningful because both sides are dominated by custodial balances — funds receivable and customer accounts of $36,357M and funds payable and amounts due to customers of $40,107M — which are customer money held and owed rather than PayPal's own working capital. Excluding those custodial items, current assets of about $21,160M still exceed current liabilities of about $4,994M, so the positive working capital conclusion holds either way.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00080-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on PayPal's fiscal year 2022 figures, is its working capital positive? If working capital isn't a meaningful metric for this particular company, please indicate that and provide your reasoning.
+
+Gold answer: Yes. Paypal has a positive working capital of $ 1.6Bn as of FY2022 end.
+
+Candidate answer: Yes, working capital is positive: Total current assets ($57,517M) minus total current liabilities ($45,101M) = approximately $12,416 million. However, working capital may not be a fully meaningful liquidity metric for PayPal because current assets and liabilities include large offsetting customer-related balances (Funds receivable and customer accounts of $36,357M and Funds payable and amounts due to customers of $40,107M) that are not typical operating working capital items for a non-financial company.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00206-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has JPM maintained relatively stable gross margins over time, staying within about a 2% variance year to year? If gross margin isn't a meaningful metric for this type of company, please say so and explain the reasoning.
+
+Gold answer: Since JPM is a financial institution, gross margin is not a relevant metric.
+
+Candidate answer: Gross margin is not a meaningful metric for JPMorgan Chase. As a financial holding company/bank, it does not sell goods and reports no revenue-less-cost-of-goods-sold; its economics are driven by net interest income, noninterest revenue, provision for credit losses and noninterest expense, so measures such as net interest margin, efficiency ratio, ROE and ROTCE are used instead. In addition, the provided document contains no income statement data, so no gross margin trend or variance could be computed from it.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00215-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+
+Gold answer: Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00215-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+
+Gold answer: Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.
+
+Candidate answer: Yes. Verizon is highly capital intensive: FY2022 capital expenditures were about $23.1 billion on roughly $136.8 billion of revenue (~17% of revenue), with net property, plant and equipment of roughly $107 billion on about $380 billion of total assets, plus large spectrum license balances and significant related debt.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00215-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+
+Gold answer: Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.
+
+Candidate answer: Yes, Verizon is a capital-intensive business based on FY2022 data, spending roughly $23 billion in capital expenditures that year to build out its network infrastructure.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00215-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+
+Gold answer: Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.
+
+Candidate answer: Yes. Verizon is a capital intensive business based on FY2022 data, with $23.1 billion in capital expenditures, $107.4 billion in property plant and equipment net, and $149.8 billion in wireless licenses.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00215-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+
+Gold answer: Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.
+
+Candidate answer: Yes. Verizon is capital intensive: FY2022 capital expenditures were $23.1 billion (about 16.9% of $136,835 million in consolidated operating revenues), and fixed/long-lived assets dominate the balance sheet — $307,689 million gross property, plant and equipment ($107,434 million net) and $149,796 million of wireless licenses out of $379,680 million total assets.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00215-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+
+Gold answer: Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.
+
+Candidate answer: Yes, Verizon is capital intensive: gross property, plant and equipment of $307,689 million (net $107,434 million) out of total assets of $379,680 million, and 2022 capital expenditures of $23.1 billion.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00215-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on Verizon's fiscal year 2022 financial figures, would you classify its operations as capital intensive?
+
+Gold answer: Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.
+
+Candidate answer: Yes. Verizon's operations are capital intensive, evidenced by $23.1 billion in annual capital expenditures in 2022, $107.4 billion in property plant and equipment, and $149.8 billion in wireless licenses.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00215-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on Verizon's fiscal year 2022 financial figures, would you classify its operations as capital intensive?
+
+Gold answer: Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.
+
+Candidate answer: Yes — Verizon is highly capital intensive. In FY2022 it spent $23.1 billion on capital expenditures (including ~$6.2 billion C-Band), about 16.9% of its $136,835 million of consolidated operating revenues, and its balance sheet is dominated by long-lived assets: gross property, plant and equipment of $307,689 million ($107,434 million net) plus $149,796 million of wireless licenses, together roughly 68% of $379,680 million total assets.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00215-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on Verizon's fiscal year 2022 financial figures, would you classify its operations as capital intensive?
+
+Gold answer: Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.
+
+Candidate answer: Yes, Verizon's operations appear capital intensive: gross property, plant and equipment of $307,689 million (net $107,434 million) versus total assets of $379,680 million, and 2022 capital expenditures of $23.1 billion (including ~$6.2 billion in C-Band related capex).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

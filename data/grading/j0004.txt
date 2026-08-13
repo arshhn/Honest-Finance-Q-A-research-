@@ -1,0 +1,131 @@
+=== ITEM id=m2-00494-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+
+Answer A: For FY2023 Boeing forecasts: (1) 787 program — currently producing at low rates, expected to gradually increase to 5 airplanes per month in 2023; (2) 777X — production currently paused, expected to resume in 2023; (3) 737 program — has faced operational and supply chain challenges stabilizing production at 31 per month, with plans to gradually increase rates based on market demand and supply chain capacity (no specific target rate or date given).
+
+Answer B: For 2023 Boeing projects: the 787 program, currently producing at low rates, to gradually increase to 5 airplanes per month in 2023; 777X production, currently paused, to resume in 2023; and the 737 program, which has faced operational and supply chain challenges stabilizing production at 31 per month, to gradually increase production rates based on market demand and supply chain capacity.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00494-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+
+Answer A: For FY2023, Boeing forecasts: (1) 787 program producing at low rates, expected to gradually increase to 5 per month in 2023; (2) 777X production, currently paused, expected to resume in 2023; (3) 737 program, currently stabilizing at 31 per month, with plans to gradually increase production rates based on market demand and supply chain capacity (no specific target rate given for 737 in 2023).
+
+Answer B: Boeing expects the 787 program to gradually increase production to 5 per month in 2023; production of the 777X, currently paused, is expected to resume in 2023; and the 737 program, which has been stabilizing at 31 per month, is planned to gradually increase based on market demand and supply chain capacity.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00499-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is 3M a capital-intensive business based on FY2022 data?
+
+Answer A: Yes, 3M is a capital-intensive business based on FY2022 data. The company maintains substantial property, plant, and equipment investments (approximately $9.2 billion net), engages in ongoing capital expenditures representing over 5% of annual sales, and recognizes significant depreciation expense, all indicating a business model requiring substantial fixed asset investments to operate.
+
+Answer B: Yes, 3M's business is moderately capital-intensive. In FY2022, capital expenditures were $1,749 million (5.1% of $34,229 million in net sales), with property, plant and equipment representing $9,178 million (19.8% of total assets). These metrics indicate moderate capital requirements typical of diversified manufacturing.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00499-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is 3M a capital-intensive business based on FY2022 data?
+
+Answer A: No — 3M is only moderately capital-intensive, not a heavily capital-intensive business. FY2022 capital expenditures were $1,749 million, just 5.1% of net sales of $34,229 million, and depreciation and amortization was $1,831 million, or 5.3% of net sales. Net property, plant and equipment of $9,178 million is only about 19.8% of total assets of $46,455 million (gross PP&E $25,998 million, ~65% already depreciated), while goodwill and intangibles together ($12,790M + $4,699M = $17,489 million) exceed net PP&E — indicating an asset base weighted toward intangibles rather than fixed plant. Net sales are roughly 3.7x net PP&E, and operating cash flow of $5,591 million comfortably covered capex ~3.2x, leaving substantial free cash flow. This profile is typical of a diversified industrial/technology manufacturer with moderate fixed-asset needs, not a capital-intensive business like a utility, telecom, or heavy materials producer.
+
+Answer B: No — on FY2022 figures 3M is only moderately capital-intensive, not a heavily capital-intensive business. Capital expenditures were $1,749 million, or about 5.1% of $34,229 million net sales; depreciation and amortization was $1,831 million, about 5.4% of sales. Net property, plant and equipment was $9,178 million ($25,998 million gross less $16,820 million accumulated depreciation), only about 19.8% of $46,455 million total assets, and net sales were roughly 3.7x net PP&E. By contrast, intangibles plus goodwill totaled $17,489 million ($12,790M goodwill + $4,699M intangibles), nearly twice net PP&E, and R&D was $1,862 million (5.4% of sales). Operating cash flow of $5,591 million covered capex more than 3x over. This profile — mid-single-digit capex intensity, fixed assets under a fifth of the balance sheet, and more value in intangibles/goodwill than in plant — indicates a diversified manufacturer with meaningful but not dominant fixed-asset requirements, well below the capital intensity of utilities, telecom, or heavy industry.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00499-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is 3M a capital-intensive business based on FY2022 data?
+
+Answer A: Not highly capital-intensive. FY2022: net PP&E was $9,178M vs. total assets of $46,455M (~19.8%); capital expenditures were $1,749M vs. net sales of $34,229M (~5.1%); depreciation and amortization was $1,831M vs. net sales (~5.3%). These ratios are moderate, not indicative of a heavily capital-intensive business.
+
+Answer B: Moderately capital-intensive. Net PP&E was $9,178 million against total assets of $46,455 million (~19.8%) and net sales of $34,229 million (~26.8% of sales), and capital expenditures were $1,749 million (~5.1% of sales) versus depreciation and amortization of $1,831 million. These ratios indicate a meaningful but not extreme reliance on fixed assets, consistent with a diversified industrial/manufacturing company rather than a highly capital-intensive business like utilities or heavy manufacturing.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00517-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?
+
+Answer A: Yes. Three product/service categories represent more than 20% of Boeing's FY2022 revenue: Commercial Airplanes (38.81%, $25,867 million), Defense, Space & Security (34.75%, $23,162 million), and Global Services (26.42%, $17,611 million).
+
+Answer B: Yes. Commercial Airplanes (38.8%), Defense, Space & Security (34.7%), and Global Services (26.4%) all accounted for over 20% of total revenue.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00517-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?
+
+Answer A: Yes. Based on the segment data, three of Boeing's four reportable segments each exceeded 20% of FY2022 total revenue of $66,608 million: Commercial Airplanes at $25,867 million (~38.8%), Defense, Space & Security at $23,162 million (~34.8%), and Global Services at $17,611 million (~26.4%). Boeing Capital, at $199 million (~0.3%), was well below 20%.
+
+Answer B: Yes. Based on the FY2022 segment revenue data, three segments each exceeded 20% of total revenue of $66,608 million: Commercial Airplanes $25,867M (~38.8%), Defense, Space & Security $23,162M (~34.8%), and Global Services $17,611M (~26.4%). Boeing Capital ($199M, ~0.3%) did not.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00517-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?
+
+Answer A: Yes. For FY2022, three segments each exceeded 20% of Boeing's total revenue of $66,608 million: Commercial Airplanes ($25,867M, ~38.8%), Defense, Space & Security ($23,162M, ~34.8%), and Global Services ($17,611M, ~26.4%). Boeing Capital ($199M, ~0.3%) did not.
+
+Answer B: Yes — in FY2022, Commercial Airplanes ($25,867M, ~38.8% of total revenue), Defense, Space & Security ($23,162M, ~34.8%), and Global Services ($17,611M, ~26.4%) each accounted for over 20% of Boeing's total revenue of $66,608 million.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00521-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?
+
+Answer A: None. The "Acquisitions, net of cash acquired" line is blank (zero) for both the fiscal year ended January 28, 2023 and the fiscal year ended January 29, 2022; the only acquisition outflow shown is $1,220 thousand in the fiscal year ended January 30, 2021. No acquisitions are named in this document.
+
+Answer B: None. The consolidated statements of cash flows show no cash outflow on the "Acquisitions, net of cash acquired" line for the fiscal years ended January 28, 2023 and January 29, 2022 (the only acquisition spending shown is $1,220 thousand in the fiscal year ended January 30, 2021). The document does not name any acquisitions.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00521-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?
+
+Answer A: None — the "Acquisitions, net of cash acquired" line is blank (no amount reported) for both fiscal 2023 and fiscal 2022; only fiscal 2021 shows an acquisition of $1,220 thousand.
+
+Answer B: None — the "Acquisitions, net of cash acquired" line is blank (no amount reported) for both fiscal 2023 and fiscal 2022; only fiscal 2021 shows an acquisition of $1,220 thousand.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00540-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Answer A: AES Corporation turned over its inventory approximately 12.14 times in FY2022 (calculated as Cost of Sales of $10,069 million divided by Average Inventory of $829.5 million). However, this conventional inventory turnover metric has limited meaningfulness for AES Corporation because it is a utility/energy company where inventory represents only 2.7% of assets and primarily consists of spare parts and maintenance materials rather than products for resale. Revenue is generated primarily from regulated utility operations and infrastructure rather than inventory turnover.
+
+Answer B: Standard inventory turnover metric is not meaningful for this utility/energy company; AES primarily generates and distributes electric power rather than manufacturing or reselling goods, so inventory is not a core operational metric.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00540-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Answer A: Roughly 12 times. Inventory turnover (FY2022) = Total cost of sales / average inventory = $10,069M / [($1,055M + $604M)/2 = $829.5M] = 12.1x. Caveat: conventional inventory management is not really meaningful for AES. AES is a power generation and utility company that sells electricity, which cannot be stored and is delivered the instant it is produced. Its "inventory" is not finished goods held for resale but consumables such as fuel (coal, gas, oil), spare parts and maintenance supplies used in generation and distribution. So the ratio measures the pace of fuel/supply consumption, not how quickly merchandise is sold, and it is not comparable to a retailer's or manufacturer's turnover.
+
+Answer B: Approximately 12.14 times (FY2022 cost of sales of $10,069M / average inventory of $829.5M, i.e., (1,055 + 604)/2). Caveat: AES is a power generation and utility company, so "inventory" is mainly fuel, spare parts and consumable supplies used to produce electricity rather than merchandise held for resale; a conventional inventory turnover ratio therefore has limited meaning as a measure of inventory management efficiency for this business.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

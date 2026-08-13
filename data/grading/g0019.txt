@@ -1,0 +1,188 @@
+=== ITEM id=fb-00917-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For AMD's fiscal year 2022, what factors contributed to the shift in operating margin? If operating margin isn't a meaningful metric for this type of company, please indicate that and provide your reasoning.
+
+Gold answer: The decrease in AMD's operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition
+
+Candidate answer: Operating margin is a meaningful metric for AMD (a semiconductor company). It fell sharply in FY2022: operating income was $1.3 billion on net revenue of $23.6 billion (about 5-6%), versus operating income of $3.6 billion on $16.4 billion of revenue in 2021 (about 22%). Per the filing, the decrease in operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition, which also drove gross margin down to 45% of net revenue in 2022 from 48% in 2021. Revenue mix effects were a partial offset/context: revenue grew 44%, with Data Center up 64%, Gaming up 21% and a significant Embedded increase (Xilinx product sales), partially offset by a 10% decline in Client segment revenue due to a weak PC market and inventory correction across the PC supply chain.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00917-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For AMD's fiscal year 2022, what factors contributed to the shift in operating margin? If operating margin isn't a meaningful metric for this type of company, please indicate that and provide your reasoning.
+
+Gold answer: The decrease in AMD's operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition
+
+Candidate answer: AMD's operating margin declined in FY2022 (operating income fell to $1.3 billion from $3.6 billion in 2021, despite net revenue rising 44% to $23.6 billion), primarily due to amortization of intangible assets associated with the Xilinx acquisition, which also drove gross margin down from 48% to 45%. Operating margin is a meaningful metric for AMD as a semiconductor company with substantial recurring operating costs and R&D investment.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00941-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of the second quarter of 2023, which of 3M's debt securities are listed for trading on a national securities exchange?
+
+Gold answer: Following debt securities registered under 3M's name are listed to trade on the New York Stock Exchange:
+-1.500% Notes due 2026 (Trading Symbol: MMM26)
+-1.750% Notes due 2030 (Trading Symbol: MMM30)
+-1.500% Notes due 2031 (Trading Symbol: MMM31)
+
+Candidate answer: 1.500% Notes due 2026 (MMM26), 1.750% Notes due 2030 (MMM30), and 1.500% Notes due 2031 (MMM31), all listed on the New York Stock Exchange
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00941-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of the second quarter of 2023, which of 3M's debt securities are listed for trading on a national securities exchange?
+
+Gold answer: Following debt securities registered under 3M's name are listed to trade on the New York Stock Exchange:
+-1.500% Notes due 2026 (Trading Symbol: MMM26)
+-1.750% Notes due 2030 (Trading Symbol: MMM30)
+-1.500% Notes due 2031 (Trading Symbol: MMM31)
+
+Candidate answer: Three series of notes are registered under Section 12(b) and listed on the New York Stock Exchange: 1.500% Notes due 2026 (symbol MMM26), 1.750% Notes due 2030 (symbol MMM30), and 1.500% Notes due 2031 (symbol MMM31).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00941-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of the second quarter of 2023, which of 3M's debt securities are listed for trading on a national securities exchange?
+
+Gold answer: Following debt securities registered under 3M's name are listed to trade on the New York Stock Exchange:
+-1.500% Notes due 2026 (Trading Symbol: MMM26)
+-1.750% Notes due 2030 (Trading Symbol: MMM30)
+-1.500% Notes due 2031 (Trading Symbol: MMM31)
+
+Candidate answer: 1.500% Notes due 2026 (MMM26), 1.750% Notes due 2030 (MMM30), and 1.500% Notes due 2031 (MMM31), all listed on the New York Stock Exchange
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00956-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Do Johnson & Johnson's fiscal year 2022 financial results reflect a company experiencing rapid growth?
+
+Gold answer: No, JnJ's FY2022 financials are not of a high growth company as sales grew by 1.3% in FY2022.
+
+Candidate answer: No, 1.3% worldwide sales growth in 2022 does not reflect rapid growth
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00956-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Do Johnson & Johnson's fiscal year 2022 financial results reflect a company experiencing rapid growth?
+
+Gold answer: No, JnJ's FY2022 financials are not of a high growth company as sales grew by 1.3% in FY2022.
+
+Candidate answer: No. FY2022 worldwide sales rose only 1.3% to $94.9 billion, sharply decelerating from 13.6% growth in 2021. Growth came from volume (+6.9%) but was largely offset by price (-0.8%) and currency (-4.8%), with acquisitions/divestitures a further -0.1%. U.S. sales grew 3.0% to $48.6 billion while international sales declined 0.6% to $46.4 billion, and five- and ten-year compound annual growth rates were only 4.4% and 3.5%. These are results of a large, mature, slow-growing company, not a rapidly growing one.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00956-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Do Johnson & Johnson's fiscal year 2022 financial results reflect a company experiencing rapid growth?
+
+Gold answer: No, JnJ's FY2022 financials are not of a high growth company as sales grew by 1.3% in FY2022.
+
+Candidate answer: No — worldwide sales grew only 1.3% in 2022, a sharp deceleration from 13.6% growth in 2021, which does not reflect rapid growth.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00995-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, what key products and services does AMD offer?
+
+Gold answer: AMD sells server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+
+Candidate answer: Server microprocessors (CPUs), graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs), and chipsets for desktop and notebook personal computers; discrete GPUs, semi-custom SoC products and development services; embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products; intellectual property licensing
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00995-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, what key products and services does AMD offer?
+
+Gold answer: AMD sells server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+
+Candidate answer: AMD is a global semiconductor company that primarily offers: (1) for data centers — server microprocessors (CPUs), graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products; (2) for desktop and notebook personal computers — CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets; (3) discrete GPUs, and semi-custom SoC products and development services; and (4) embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products. It may also from time to time sell or license portions of its intellectual property (IP) portfolio.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00995-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, what key products and services does AMD offer?
+
+Gold answer: AMD sells server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+
+Candidate answer: AMD offers: server microprocessors (CPUs), graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) integrating CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products. It also sells or licenses portions of its intellectual property (IP) portfolio.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01009-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+
+Gold answer: As of FY2022, Pepsico primarily operates in the following geographies: North America, Latin America, Europe, Africa, Middle East, South Asia, Asia Pacific, Australia, New Zealand and China.
+
+Candidate answer: North America, Europe, AMEA (Africa, Middle East, South Asia), and LAM (Latin America)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

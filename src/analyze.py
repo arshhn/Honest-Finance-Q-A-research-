@@ -24,7 +24,8 @@ MODELS = ["haiku", "sonnet", "opus"]
 TARGETS = [0.05, 0.10]
 
 raw = pd.read_csv(ROOT / "results" / "raw_answers.csv")
-grades = pd.read_csv(ROOT / "results" / "grades.csv")
+_gf = ROOT / "results" / "grades_final.csv"
+grades = pd.read_csv(_gf if _gf.exists() else ROOT / "results" / "grades.csv")
 m2 = pd.read_csv(ROOT / "results" / "m2_agreement.csv", dtype={"qid": str})
 master = raw.merge(grades[["custom_id", "grade_primary", "grade_method", "scale_error"]], on="custom_id")
 master["correct"] = master.grade_primary == "correct"

@@ -1,0 +1,120 @@
+=== ITEM id=m2-02024-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of FY 2021, how much did Verizon expect to pay for its retirees in 2024?
+
+Answer A: About $1,959 million (approximately $2.0 billion) in expected 2024 retiree benefit payments — $1,097 million pension benefits plus $862 million health care and life.
+
+Answer B: About $1,959 million (approximately $2.0 billion) in estimated 2024 benefit payments to retirees — $1,097 million of pension benefits plus $862 million of health care and life benefits.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02024-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of FY 2021, how much did Verizon expect to pay for its retirees in 2024?
+
+Answer A: $1,959 million (Pension Benefits $1,097 million + Health Care and Life $862 million, for 2024)
+
+Answer B: $1,959 million (Pension Benefits $1,097 million + Health Care and Life $862 million, for 2024)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02049-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Looking at VaR, did the risk that JPM faced in the second fiscal quarter of 2023 decrease compared to the same period in the prior year?
+
+Answer A: Yes. Average total VaR decreased by $7 million for the three months ended June 30, 2023 compared with June 30, 2022 (from $54 million to $47 million). Minimum VaR decreased from $41 million to $36 million, and maximum VaR decreased from $71 million to $56 million.
+
+Answer B: Yes
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02049-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Looking at VaR, did the risk that JPM faced in the second fiscal quarter of 2023 decrease compared to the same period in the prior year?
+
+Answer A: Yes. Average Total VaR fell from $54 million in Q2 2022 to $47 million in Q2 2023, a decrease of $7 million (about 13%). Minimum Total VaR also declined from $41 million to $36 million and maximum Total VaR from $71 million to $56 million, so by the VaR measure JPM's market risk in the second fiscal quarter of 2023 was lower than in the same period of the prior year (driven mainly by risk reductions in Credit Portfolio VaR and fixed income).
+
+Answer B: Yes. Average total Risk Management VaR was $47 million for the three months ended June 30, 2023 versus $54 million for the three months ended June 30, 2022, a decrease of $7 million (maximum also fell from $71 million to $56 million), so JPM's risk exposure was lower year over year.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02049-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Looking at VaR, did the risk that JPM faced in the second fiscal quarter of 2023 decrease compared to the same period in the prior year?
+
+Answer A: Yes. Average Total VaR for the three months ended June 30, 2023 was $47 million, down from $54 million for the same period ended June 30, 2022 — a decrease of $7 million.
+
+Answer B: Yes. Average Total VaR for the three months ended June 30, 2023 was $47 million, versus $54 million for the three months ended June 30, 2022 (a $7 million decrease), so JPM's VaR exposure was lower in Q2 2023 than in Q2 2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02416-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are three main companies acquired by Pfizer mentioned in this 10K report?
+
+Answer A: Trillium, Array, and Therachon
+
+Answer B: Trillium, Array, and Therachon
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02416-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are three main companies acquired by Pfizer mentioned in this 10K report?
+
+Answer A: Trillium, Array, and Therachon. Trillium (acquired November 17, 2021) for $18.50 per share in cash, total consideration $2.0 billion net of cash acquired; Array (acquired July 30, 2019) for $48 per share in cash, total fair value of consideration transferred $11.2 billion ($10.9 billion net of cash acquired); Therachon (acquired July 1, 2019) for $340 million upfront plus potential milestone payments of up to $470 million, total consideration transferred $322 million.
+
+Answer B: Trillium, Array, and Therachon. Trillium was acquired November 17, 2021 for $18.50 per share in cash, total consideration $2.0 billion net of cash acquired; Array was acquired July 30, 2019 for $48 per share in cash, total consideration transferred of $11.2 billion ($10.9 billion net of cash acquired); Therachon was acquired July 1, 2019 for $340 million upfront plus up to $470 million in potential milestone payments, with total consideration transferred of $322 million.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02416-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are three main companies acquired by Pfizer mentioned in this 10K report?
+
+Answer A: Trillium, Array, and Therachon
+
+Answer B: Trillium, Array, and Therachon
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02419-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of Q2'2023, is Pfizer spinning off any large business segments?
+
+Answer A: No. Pfizer is not spinning off any large business segments as of Q2 2023. The Upjohn separation was completed in the past, and Biopharma is currently the only reportable segment.
+
+Answer B: No. The document does not indicate Pfizer announced plans for major business segment divestitures or spin-offs specifically during Q2 2023. References to Upjohn separation appear to be from prior periods.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02419-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of Q2'2023, is Pfizer spinning off any large business segments?
+
+Answer A: No large business segment spin-off is described. The filing shows Pfizer still operates two segments (Biopharma and Business Innovation, with Biopharma the only reportable segment) and describes only (i) the ongoing separation of Upjohn, expected to cost approximately $700 million, of which roughly 90% has been incurred since inception through Q2 2023 (i.e., largely complete), and (ii) a proposed divestiture of its early-stage rare disease gene therapy portfolio to Alexion (a subsidiary of AstraZeneca) for total consideration of up to $1 billion plus tiered royalties, expected to close in Q3 2023 — an asset/portfolio sale, not a segment spin-off. Pfizer is instead expanding via the proposed acquisition of Seagen and reorganizing R&D into an Oncology R&D platform and a Pfizer R&D platform.
+
+Answer B: No. In Q2 2023 Pfizer did not announce the divestiture or spin-off of a major business segment (its segments are Biopharma and Business Innovation, with Biopharma the only reportable segment). The only divestiture announced was the proposed sale/license of its early-stage rare disease gene therapy portfolio to Alexion (AstraZeneca) for up to $1 billion plus royalties, which is an asset portfolio rather than a business segment. The document also refers to ongoing costs of the previously completed Upjohn separation and an internal R&D reorganization, not a new segment spin-off.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02419-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of Q2'2023, is Pfizer spinning off any large business segments?
+
+Answer A: No. The document does not indicate Pfizer is spinning off any large business segment as of Q2 2023; it operates through one reportable segment (Biopharma). The only divestiture mentioned is a proposed sale of its early-stage rare disease gene therapy portfolio (assets, not a segment) to Alexion, and the Upjohn separation costs referenced are for a separation already largely completed (about 90% of costs incurred by Q2 2023).
+
+Answer B: No — the document does not indicate Pfizer announced plans to divest or spin off a major business segment in Q2 2023; it discusses completing the previously announced (already executed) Upjohn separation costs and a proposed divestiture of its early-stage rare disease gene therapy portfolio (a product/asset portfolio, not a reportable business segment), while Biopharma remains its only reportable segment.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

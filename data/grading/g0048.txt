@@ -1,0 +1,179 @@
+=== ITEM id=fb-00757-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did AMD report customer concentration in FY22?
+
+Gold answer: Yes, one customer accounted for 16% of consolidated net revenue
+
+Candidate answer: Yes, AMD reported customer concentration in FY22. One customer accounted for 16% of consolidated net revenue for the year ended December 31, 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00757-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did AMD report customer concentration in FY22?
+
+Gold answer: Yes, one customer accounted for 16% of consolidated net revenue
+
+Candidate answer: Yes. AMD reported that one customer accounted for 16% of consolidated net revenue for the year ended December 31, 2022. Sales to this customer consisted of products from AMD's Gaming segment, and AMD stated a loss of this customer would have a material adverse effect on its business.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00757-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did AMD report customer concentration in FY22?
+
+Gold answer: Yes, one customer accounted for 16% of consolidated net revenue
+
+Candidate answer: Yes — one customer accounted for 16% of consolidated net revenue for the year ended December 31, 2022 (sales from the Gaming segment).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00790-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is CVS Health a capital-intensive business based on FY2022 data?
+
+Gold answer: Yes, CVS Health requires an extensive asset base to operate, which is evident from its ROA of only 1.82% in 2022 and 3.39% in 2021, though it should be noted that a significant portion of this asset base is goodwill, and CVS's fixed assets/total assets ratio is on the lower side of 5.6%.
+
+Candidate answer: Yes, CVS Health is a capital-intensive business based on FY2022 data, primarily due to its extensive retail pharmacy network, distribution infrastructure, and clinic operations, though this is partially offset by lower capital intensity in PBM and insurance segments.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00790-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is CVS Health a capital-intensive business based on FY2022 data?
+
+Gold answer: Yes, CVS Health requires an extensive asset base to operate, which is evident from its ROA of only 1.82% in 2022 and 3.39% in 2021, though it should be noted that a significant portion of this asset base is goodwill, and CVS's fixed assets/total assets ratio is on the lower side of 5.6%.
+
+Candidate answer: No. CVS Health is not a capital-intensive business based on FY2022 data. It generated roughly $322 billion in total revenues while carrying only about $13 billion of net property and equipment (~4% of ~$228 billion total assets), and capital expenditures were roughly $2.7-2.8 billion, or under 1% of revenue (~0.9%). Fixed-asset turnover is therefore extremely high (revenue/net PP&E of roughly 25x). CVS is an asset-light, distribution- and services-driven business (retail pharmacy, PBM, and health insurance) whose balance sheet is dominated by goodwill/intangibles from acquisitions and by working-capital items such as receivables and inventory, not by plant and equipment.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00790-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is CVS Health a capital-intensive business based on FY2022 data?
+
+Gold answer: Yes, CVS Health requires an extensive asset base to operate, which is evident from its ROA of only 1.82% in 2022 and 3.39% in 2021, though it should be noted that a significant portion of this asset base is goodwill, and CVS's fixed assets/total assets ratio is on the lower side of 5.6%.
+
+Candidate answer: No. CVS Health is not particularly capital-intensive in FY2022: capital expenditures were roughly $2.5–3 billion against total revenue of about $322.5 billion (capex/revenue near 1%), and net property & equipment was roughly $12 billion versus total assets of about $228 billion. These ratios are low compared to truly capital-intensive industries (e.g., telecom, utilities, manufacturing), reflecting CVS's business mix of retail pharmacy, pharmacy benefit management (Caremark), and health insurance (Aetna), which are more working-capital and goodwill/intangible-heavy (CVS carries roughly $95 billion of goodwill) than fixed-asset-heavy.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00790-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is CVS Health a capital-intensive business based on FY2022 data?
+
+Gold answer: Yes, CVS Health requires an extensive asset base to operate, which is evident from its ROA of only 1.82% in 2022 and 3.39% in 2021, though it should be noted that a significant portion of this asset base is goodwill, and CVS's fixed assets/total assets ratio is on the lower side of 5.6%.
+
+Candidate answer: CVS Health exhibits moderate capital intensity. Based on FY2022 data, property and equipment represents 4.0% of revenues ($12.9B of $322.5B), supplemented by operating lease right-of-use assets of $17.9B (5.5% of revenues). For a retail pharmacy and healthcare services company, these metrics indicate meaningful capital requirements for store networks and facilities, though lower than capital-intensive industries like utilities or telecommunications.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00790-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is CVS Health a capital-intensive business based on FY2022 data?
+
+Gold answer: Yes, CVS Health requires an extensive asset base to operate, which is evident from its ROA of only 1.82% in 2022 and 3.39% in 2021, though it should be noted that a significant portion of this asset base is goodwill, and CVS's fixed assets/total assets ratio is on the lower side of 5.6%.
+
+Candidate answer: No — CVS Health is not a capital-intensive business based on FY2022 data. Net property and equipment was only $12,873 million, or about 5.6% of total assets of $228,275 million, and equal to just ~4.0% of total revenues of $322,467 million (revenue/net PP&E of roughly 25x). Total asset turnover was about 1.4x ($322,467M revenue / $228,275M total assets). The balance sheet is dominated by intangible-type and working-capital/insurance items rather than fixed assets — goodwill of $78,150 million and intangible assets, net of $24,754 million together are about $102,904 million (~45% of total assets), plus accounts receivable of $27,276 million and inventories of $19,090 million. CVS also leases rather than owns most of its store base (operating lease right-of-use assets of $17,872 million, well above owned PP&E). So CVS is better characterized as a low-fixed-asset, high-turnover retail/pharmacy-services and insurance business, though it is balance-sheet heavy overall due to goodwill and intangibles from acquisitions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00790-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is CVS Health a capital-intensive business based on FY2022 data?
+
+Gold answer: Yes, CVS Health requires an extensive asset base to operate, which is evident from its ROA of only 1.82% in 2022 and 3.39% in 2021, though it should be noted that a significant portion of this asset base is goodwill, and CVS's fixed assets/total assets ratio is on the lower side of 5.6%.
+
+Candidate answer: No — CVS Health does not appear capital-intensive in FY2022. Net property and equipment was only $12,873 million against total assets of $228,275 million (about 5.6%), a small share of the balance sheet. Most assets are instead goodwill ($78,150 million), intangible assets ($24,754 million), inventories ($19,090 million), and receivables ($27,276 million), indicating the business is driven more by scale, brand/pharmacy relationships, and working capital than by heavy fixed-asset investment.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00799-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has AMCOR's quick ratio improved or declined between FY2023 and FY2022? If the quick ratio is not something that a financial analyst would ask about a company like this, then state that and explain why.
+
+Gold answer: The quick ratio has slightly improved from 0.67 times to 0.69 times between FY 2023 and FY 2022.(3.4% jump)
+
+Candidate answer: Yes, AMCOR's quick ratio improved from 0.669 in FY2022 to 0.691 in FY2023. This is an appropriate metric for financial analysts to examine for manufacturing companies like Amcor, as it measures short-term liquidity by excluding inventory from current assets.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00799-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has AMCOR's quick ratio improved or declined between FY2023 and FY2022? If the quick ratio is not something that a financial analyst would ask about a company like this, then state that and explain why.
+
+Gold answer: The quick ratio has slightly improved from 0.67 times to 0.69 times between FY 2023 and FY 2022.(3.4% jump)
+
+Candidate answer: Improved. Amcor's quick ratio rose slightly from FY2022 to FY2023. Using the strict definition (cash + trade receivables) / total current liabilities: FY2023 = ($689M + $1,875M) / $4,476M = 0.57x, versus FY2022 = ($775M + $1,935M) / $5,103M = 0.53x — an improvement of about 0.04x. The broader definition (current assets less inventories) / current liabilities gives the same direction: FY2023 = ($5,308M - $2,213M) / $4,476M = 0.69x versus FY2022 = ($5,853M - $2,439M) / $5,103M = 0.67x. The improvement is driven mainly by the $627M drop in current liabilities (largely a $383M reduction in trade payables) outweighing the decline in cash and receivables. The quick ratio is a reasonable metric for a packaging manufacturer like Amcor, though both years are below 1.0x, which is typical for an inventory-heavy industrial with large trade payables balances.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00799-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has AMCOR's quick ratio improved or declined between FY2023 and FY2022? If the quick ratio is not something that a financial analyst would ask about a company like this, then state that and explain why.
+
+Gold answer: The quick ratio has slightly improved from 0.67 times to 0.69 times between FY 2023 and FY 2022.(3.4% jump)
+
+Candidate answer: Improved. Quick ratio = (Cash and cash equivalents + Trade receivables, net) / Total current liabilities. FY2023: (689 + 1,875) / 4,476 = 2,564 / 4,476 ≈ 0.57. FY2022: (775 + 1,935) / 5,103 = 2,710 / 5,103 ≈ 0.53. The quick ratio rose from approximately 0.53 to approximately 0.57 between FY2022 and FY2023, indicating an improvement in Amcor's short-term liquidity position (excluding inventory).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

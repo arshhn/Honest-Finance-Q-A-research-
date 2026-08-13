@@ -1,0 +1,193 @@
+=== ITEM id=fb-01028-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that American Express primarily operates in as of 2022?
+
+Gold answer: United States, EMEA, APAC, and LACC
+
+Candidate answer: United States, EMEA (Europe, the Middle East and Africa), APAC (Asia Pacific, Australia and New Zealand), and LACC (Latin America, Canada and the Caribbean)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01028-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that American Express primarily operates in as of 2022?
+
+Gold answer: United States, EMEA, APAC, and LACC
+
+Candidate answer: As of 2022, American Express primarily operates in four geographic regions: the United States; EMEA (Europe, the Middle East and Africa); APAC (Asia Pacific, Australia and New Zealand); and LACC (Latin America, Canada and the Caribbean). The United States is by far the largest, contributing $41,396 million of the $52,862 million in total revenues net of interest expense (about 78%), followed by EMEA ($4,871 million), APAC ($3,835 million), and LACC ($2,917 million), with $(157) million in Other Unallocated.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01028-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that American Express primarily operates in as of 2022?
+
+Gold answer: United States, EMEA, APAC, and LACC
+
+Candidate answer: United States, EMEA (Europe, the Middle East and Africa), APAC (Asia Pacific, Australia and New Zealand), and LACC (Latin America, Canada and the Caribbean)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01077-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are major acquisitions that Best Buy has done in FY2023, FY2022 and FY2021?
+
+Gold answer: Best Buy closed two acquisitions, both these companies were already partially owned by Best Buy, but Best Buy acquired all outstanding shares of these two companies during FY 2022: (1) Current Health Ltd and (2) Two Peaks, LLC d/b/a Yardbird Furniture
+
+Candidate answer: Best Buy made only two notable acquisitions across these three fiscal years, both relatively small: (1) FY2022 (ended Jan 29, 2022) — Current Health Ltd., a UK-based care-at-home technology platform, acquired in November 2021 for roughly $400 million in cash; (2) FY2023 (ended Jan 28, 2023) — Two Peaks, LLC (d/b/a Yardbird), an outdoor furniture retailer, acquired in October 2022 for approximately $80 million (well under $100 million) in cash. In FY2021 (ended Jan 30, 2021) Best Buy did not complete any major acquisitions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01077-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are major acquisitions that Best Buy has done in FY2023, FY2022 and FY2021?
+
+Gold answer: Best Buy closed two acquisitions, both these companies were already partially owned by Best Buy, but Best Buy acquired all outstanding shares of these two companies during FY 2022: (1) Current Health Ltd and (2) Two Peaks, LLC d/b/a Yardbird Furniture
+
+Candidate answer: In FY2021 (ended January 2021), Best Buy did not complete any major acquisitions. In FY2022 (ended January 2022), Best Buy acquired Current Health (a UK-based remote patient monitoring/virtual care platform, acquired in October 2021 for approximately $400 million) and Yardbird (an outdoor furniture retailer, acquired in November 2021). In FY2023 (ended January 2023), Best Buy did not complete any major acquisitions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01077-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are major acquisitions that Best Buy has done in FY2023, FY2022 and FY2021?
+
+Gold answer: Best Buy closed two acquisitions, both these companies were already partially owned by Best Buy, but Best Buy acquired all outstanding shares of these two companies during FY 2022: (1) Current Health Ltd and (2) Two Peaks, LLC d/b/a Yardbird Furniture
+
+Candidate answer: Best Buy's Acquisitions note discloses two acquisitions, both completed in fiscal 2022: (1) Current Health Ltd., a care-at-home technology platform, acquired November 2, 2021 for net cash consideration of $389 million, including $351 million of tax-deductible goodwill assigned to the Best Buy Health reporting unit (Domestic reportable segment, Services revenue category); and (2) Two Peaks, LLC d/b/a Yardbird Furniture, a direct-to-consumer outdoor furniture company, acquired November 4, 2021 for net cash consideration of $79 million, including $47 million of tax-deductible goodwill assigned to the Best Buy Domestic reporting unit. Total net cash consideration for the two fiscal 2022 deals was $468 million. Both were accounted for under the acquisition method and neither was material to results of operations. No acquisitions are disclosed for fiscal 2023 or fiscal 2021 in the provided text.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01077-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are major acquisitions that Best Buy has done in FY2023, FY2022 and FY2021?
+
+Gold answer: Best Buy closed two acquisitions, both these companies were already partially owned by Best Buy, but Best Buy acquired all outstanding shares of these two companies during FY 2022: (1) Current Health Ltd and (2) Two Peaks, LLC d/b/a Yardbird Furniture
+
+Candidate answer: In fiscal 2022, Best Buy acquired Current Health Ltd. for net cash consideration of $389 million (including $351 million of goodwill) and Two Peaks, LLC d/b/a Yardbird Furniture for net cash consideration of $79 million (including $47 million of goodwill). The document does not disclose any acquisitions for fiscal 2023 or fiscal 2021.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01079-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are major acquisitions that AMCOR has done in FY2023, FY2022 and FY2021?
+
+Gold answer: Amcor completed these acquisitions during FY2023:
+-100% equity interest of a flexibles manufacturing company in the Czech Republic
+- 100% equity interest in a medical device packaging manufacturing site in
+Shanghai, China.
+-acquisition of a New Zealand-based leading manufacturer of state-of-the-art, automated protein
+packaging machines.
+
+Candidate answer: Amcor's acquisition activity in these years was relatively small (no large, transformative deals after the 2019 Bemis combination):
+
+- FY2021 (year ended June 30, 2021): no major/material acquisitions — the year was focused on integrating Bemis and on portfolio divestitures (e.g., the three European plants divested as a condition of the Bemis deal). Acquisition spend was immaterial (roughly $50 million or less).
+- FY2022 (year ended June 30, 2022): three bolt-on acquisitions totaling roughly $250 million — (1) a flexible packaging business in the Czech Republic (~$60 million), (2) a medical device packaging plant in Shanghai, China, and (3) Moda Systems, a New Zealand–based packaging equipment/vacuum-packaging business (completed February 2022).
+- FY2023 (year ended June 30, 2023): no major acquisitions; only small bolt-on activity (net cash paid for acquisitions in the tens of millions of dollars), with capital deployed mainly to capex, dividends and share buybacks.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01079-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are major acquisitions that AMCOR has done in FY2023, FY2022 and FY2021?
+
+Gold answer: Amcor completed these acquisitions during FY2023:
+-100% equity interest of a flexibles manufacturing company in the Czech Republic
+- 100% equity interest in a medical device packaging manufacturing site in
+Shanghai, China.
+-acquisition of a New Zealand-based leading manufacturer of state-of-the-art, automated protein
+packaging machines.
+
+Candidate answer: In FY2023 (year ended June 30, 2023) Amcor completed three acquisitions, all within the Flexibles reportable segment: (1) August 1, 2022 — 100% equity interest in a Czech Republic flexible packaging manufacturing plant for $59 million (including a $5 million deferred portion paid in Q1 FY2024), recognizing $36 million of identifiable net assets and $23 million of goodwill; (2) March 17, 2023 — 100% equity interest in a medical device packaging manufacturing site in Shanghai, China for $60 million (including $20 million of contingent consideration payable over three years), recognizing $21 million of identifiable net assets and $39 million of goodwill; and (3) May 31, 2023 — a New Zealand-based manufacturer of automated protein packaging machines for $45 million (including $13 million of contingent consideration payable over two years), recognizing $9 million of identifiable net assets and $36 million of goodwill. Total FY2023 acquisition consideration was approximately $164 million. For FY2022, the document discloses no acquisitions (only the disposal of non-core Flexibles assets, with a $10 million expense) and it also covers the Russian business divestiture completed December 23, 2022 ($365 million net cash consideration, $215 million pre-tax gain). The document provides no information on FY2021 acquisitions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01091-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Boeing reported any materially important ongoing legal battles from FY2022?
+
+Gold answer: Yes. Multiple lawsuits have been filed against Boeing resulting from a 2018 Lion Air crash and a 2019 Ethiopian Airlines crash.
+
+Candidate answer: Yes. Boeing reported materially important ongoing legal battles in FY2022, primarily involving 737 MAX crash litigation (civil suits from crash victims' families), Department of Justice criminal investigation, and investor class actions related to misleading statements about the aircraft.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01091-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Boeing reported any materially important ongoing legal battles from FY2022?
+
+Gold answer: Yes. Multiple lawsuits have been filed against Boeing resulting from a 2018 Lion Air crash and a 2019 Ethiopian Airlines crash.
+
+Candidate answer: Yes. Boeing's FY2022 Form 10-K discloses several material ongoing legal matters, nearly all tied to the 737 MAX. The principal ones are: (1) civil litigation from the Lion Air Flight 610 (Oct 2018) and Ethiopian Airlines Flight 302 (Mar 2019) crashes — wrongful-death/personal-injury suits by victims' families, most filed in the U.S. District Court for the Northern District of Illinois, many of which Boeing has settled or is settling but which remain a source of loss exposure; (2) the January 2021 Deferred Prosecution Agreement with the U.S. Department of Justice resolving a criminal conspiracy-to-defraud-the-FAA charge for roughly $2.5 billion total (a $243.6 million criminal penalty, ~$1.77 billion in airline customer compensation, and a $500 million crash-victim beneficiaries fund), under which Boeing remained subject to a three-year DPA term and continuing obligations (the DPA's term ran into January 2024, and victims' families were litigating in the Northern District of Texas seeking to reopen it under the Crime Victims' Rights Act); (3) a federal securities class action in the Northern District of Illinois brought on behalf of purchasers of Boeing stock alleging misstatements about 737 MAX safety and the MCAS system; (4) shareholder derivative actions against current and former directors and officers alleging breach of fiduciary duty in board oversight of MAX safety — the Delaware Court of Chancery derivative litigation was settled in FY2022 for approximately $237.5 million, funded essentially entirely by D&O insurance; and (5) various other matters including commercial disputes/claims from airline customers over 737 MAX and 787 delivery delays, an Embraer arbitration arising from the terminated strategic partnership, and government investigations/subpoenas (SEC, DOJ, Congress) relating to the MAX and to 787 production and quality issues. Boeing states in the 10-K that it cannot reasonably estimate a range of loss for certain of these matters and that outcomes could be material to its results of operations, financial position, or cash flows.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01091-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Boeing reported any materially important ongoing legal battles from FY2022?
+
+Gold answer: Yes. Multiple lawsuits have been filed against Boeing resulting from a 2018 Lion Air crash and a 2019 Ethiopian Airlines crash.
+
+Candidate answer: Yes. In its FY2022 Form 10-K, Boeing disclosed several materially important ongoing legal proceedings, most significantly matters arising from the two 737 MAX crashes (Lion Air and Ethiopian Airlines) and the MCAS flight control system. These included the January 2021 Deferred Prosecution Agreement (DPA) with the U.S. Department of Justice resolving a criminal fraud conspiracy charge (with related disputes/appeals over Boeing's compliance and victims' rights continuing into 2022), numerous wrongful-death and personal injury lawsuits from the crash victims' families, shareholder derivative lawsuits and securities class actions (including In re The Boeing Company Derivative Litigation and a securities fraud class action) alleging failures of oversight related to the 737 MAX, and various regulatory investigations/litigation tied to the MAX grounding and recertification. Boeing also faced ongoing government contract-related litigation and export control/compliance matters. These were disclosed as material legal contingencies in the Legal Proceedings and Commitments and Contingencies sections of the 10-K.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

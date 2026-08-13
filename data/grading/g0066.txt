@@ -1,0 +1,179 @@
+=== ITEM id=fb-10136-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: We want to calculate a financial metric. Please help us compute it by basing your answers off of the cash flow statement and the income statement. Here's the question: what is the FY2022 retention ratio (using total cash dividends paid and net income attributable to shareholders) for General Mills? Round answer to two decimal places.
+
+Gold answer: 0.54
+
+Candidate answer: 0.36
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-10420-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on the information provided primarily in the statement of financial position and the statement of income, what is AES's FY2022 return on assets (ROA)? ROA is defined as: FY2022 net income / (average total assets between FY2021 and FY2022). Round your answer to two decimal places.
+
+Gold answer: -0.02
+
+Candidate answer: -1.42%
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-10420-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on the information provided primarily in the statement of financial position and the statement of income, what is AES's FY2022 return on assets (ROA)? ROA is defined as: FY2022 net income / (average total assets between FY2021 and FY2022). Round your answer to two decimal places.
+
+Gold answer: -0.02
+
+Candidate answer: -0.01 (i.e., ROA of about -1.42%; net loss of $505 million / average total assets of $35,663 million)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-10420-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on the information provided primarily in the statement of financial position and the statement of income, what is AES's FY2022 return on assets (ROA)? ROA is defined as: FY2022 net income / (average total assets between FY2021 and FY2022). Round your answer to two decimal places.
+
+Gold answer: -0.02
+
+Candidate answer: -1.42%
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-004-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What types of securities has Brightcove registered?
+
+Gold answer: Brightcove has registered securities pursuant to Section 12(b) of the Securities Act. They have no securities registered pursuant to Section 12(g) of the Act.
+
+Candidate answer: Common Stock
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-004-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What types of securities has Brightcove registered?
+
+Gold answer: Brightcove has registered securities pursuant to Section 12(b) of the Securities Act. They have no securities registered pursuant to Section 12(g) of the Act.
+
+Candidate answer: Common stock, $0.001 par value per share — registered under Section 12(b) of the Exchange Act and listed on the NASDAQ Global Market (symbol BCOV); no securities are registered under Section 12(g) (None).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-004-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What types of securites has Brightcove registered?
+
+Gold answer: Brightcove has registered securities pursuant to Section 12(b) of the Securities Act. They have no securities registered pursuant to Section 12(g) of the Act.
+
+Candidate answer: Common Stock
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-004-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What types of securites has Brightcove registered?
+
+Gold answer: Brightcove has registered securities pursuant to Section 12(b) of the Securities Act. They have no securities registered pursuant to Section 12(g) of the Act.
+
+Candidate answer: Common stock, $0.001 par value per share — registered under Section 12(b) of the Exchange Act and listed on the NASDAQ Global Market (symbol BCOV); no securities are registered under Section 12(g) (None).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-008-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the top two risks mentioned in the context?
+
+Gold answer: The top two risks mentioned are the dependence on the oil and natural gas industry and market prices, and the impact of global economic conditions. Fluctuations in oil and gas prices, driven by factors like global supply and demand, geopolitical events, and technological advancements, directly impact the company's revenue and profitability. Additionally, global economic conditions and volatility in commodity prices can lead to customers reducing their drilling and well completion programs, further impacting demand for the company's services.
+
+Candidate answer: Dependence on oil and natural gas industry and market prices for oil and natural gas, and global economic conditions
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-008-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the top two risks mentioned in the context?
+
+Gold answer: The top two risks mentioned are the dependence on the oil and natural gas industry and market prices, and the impact of global economic conditions. Fluctuations in oil and gas prices, driven by factors like global supply and demand, geopolitical events, and technological advancements, directly impact the company's revenue and profitability. Additionally, global economic conditions and volatility in commodity prices can lead to customers reducing their drilling and well completion programs, further impacting demand for the company's services.
+
+Candidate answer: The first two risk factors listed in Item 1A are: (1) dependence on the oil and natural gas industry and market prices for oil and natural gas — declines in customers' operating and capital expenditures and in oil and natural gas prices may adversely affect operating results (oil fell 42% from a Q4 2018 high of $76.40/barrel on October 3, 2018 to a low of $44.48/barrel in late December 2018); and (2) global economic conditions may adversely affect operating results — economic slowdown, commodity price volatility and reduced access to capital markets could cut customers' drilling and completion programs and demand for the company's services.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-008-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: W hat are the top two risks mentioned in the context?
+
+Gold answer: The top two risks mentioned are the dependence on the oil and natural gas industry and market prices, and the impact of global economic conditions. Fluctuations in oil and gas prices, driven by factors like global supply and demand, geopolitical events, and technological advancements, directly impact the company's revenue and profitability. Additionally, global economic conditions and volatility in commodity prices can lead to customers reducing their drilling and well completion programs, further impacting demand for the company's services.
+
+Candidate answer: Dependence on oil and natural gas industry and market prices for oil and natural gas, and global economic conditions
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-008-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: W hat are the top two risks mentioned in the context?
+
+Gold answer: The top two risks mentioned are the dependence on the oil and natural gas industry and market prices, and the impact of global economic conditions. Fluctuations in oil and gas prices, driven by factors like global supply and demand, geopolitical events, and technological advancements, directly impact the company's revenue and profitability. Additionally, global economic conditions and volatility in commodity prices can lead to customers reducing their drilling and well completion programs, further impacting demand for the company's services.
+
+Candidate answer: The first two risk factors listed in Item 1A are: (1) dependence on the oil and natural gas industry and market prices for oil and natural gas — declines in customers' operating and capital expenditures and in oil and natural gas prices may adversely affect operating results (oil fell 42% from a Q4 2018 high of $76.40/barrel on October 3, 2018 to a low of $44.48/barrel in late December 2018); and (2) global economic conditions may adversely affect operating results — economic slowdown, commodity price volatility and reduced access to capital markets could cut customers' drilling and completion programs and demand for the company's services.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

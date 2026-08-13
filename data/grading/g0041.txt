@@ -1,0 +1,206 @@
+=== ITEM id=fb-00494-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+
+Gold answer: Boeing forecasts an increase in the production rates for the 737, 777X and 787 aircrafts in 2023.
+
+Candidate answer: Boeing is forecasting the following production rate changes for FY2023: (1) 787 program will gradually increase to 5 per month in 2023; (2) 777X production is currently paused and is expected to resume in 2023; (3) 737 program is currently stabilized at 31 per month with plans to gradually increase 737 production rates based on market demand and supply chain capacity.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00494-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+
+Gold answer: Boeing forecasts an increase in the production rates for the 737, 777X and 787 aircrafts in 2023.
+
+Candidate answer: For FY2023 Boeing forecasts: (1) 787 program — currently producing at low rates, expected to gradually increase to 5 airplanes per month in 2023; (2) 777X — production currently paused, expected to resume in 2023; (3) 737 program — has faced operational and supply chain challenges stabilizing production at 31 per month, with plans to gradually increase rates based on market demand and supply chain capacity (no specific target rate or date given).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00494-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+
+Gold answer: Boeing forecasts an increase in the production rates for the 737, 777X and 787 aircrafts in 2023.
+
+Candidate answer: For FY2023, Boeing forecasts: (1) 787 program producing at low rates, expected to gradually increase to 5 per month in 2023; (2) 777X production, currently paused, expected to resume in 2023; (3) 737 program, currently stabilizing at 31 per month, with plans to gradually increase production rates based on market demand and supply chain capacity (no specific target rate given for 737 in 2023).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00499-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is 3M a capital-intensive business based on FY2022 data?
+
+Gold answer: No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%
+
+Candidate answer: Yes. Based on FY2022 data, 3M's PP&E comprises approximately 20-22% of total assets and capital expenditures represent roughly 2-3% of revenues, characteristic of capital-intensive diversified manufacturing operations.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00499-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is 3M a capital-intensive business based on FY2022 data?
+
+Gold answer: No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%
+
+Candidate answer: No — 3M is only moderately capital intensive, not a heavily capital-intensive business. In FY2022, capital expenditures were roughly $1.7-1.8 billion on net sales of about $34.2 billion, i.e. only ~5% of revenue (and roughly in line with annual depreciation & amortization of ~$1.8 billion, so it is essentially just maintaining its asset base rather than making outsized reinvestment). Net property, plant and equipment of roughly $9 billion represented only about 20% of total assets of ~$46.5 billion, implying a fixed-asset turnover of roughly 3.5-4x. Those ratios are typical of a diversified, brand- and IP-driven industrial manufacturer rather than of capital-intensive sectors such as utilities, telecom, semiconductors, or heavy materials, where capex often runs 15-25%+ of sales and net PP&E is a majority of assets.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00499-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is 3M a capital-intensive business based on FY2022 data?
+
+Gold answer: No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%
+
+Candidate answer: No — 3M is only moderately capital-intensive, not a highly capital-intensive business. Based on FY2022 figures (revenue ~$34.2B, capital expenditures ~$1.7B, net PP&E ~$8.9B, total assets ~$30.6B), capex was roughly 5% of revenue and net PP&E was roughly 26-29% of total assets and about the same share of revenue. These ratios are modest compared to truly capital-intensive industries (e.g., utilities, telecom, oil & gas, semiconductors), where capex/revenue often exceeds 10-15% and PP&E dominates the balance sheet. 3M's asset base is more weighted toward goodwill/intangibles (from acquisitions) and working capital than fixed plant, and its capex needs are recurring/maintenance-level rather than requiring heavy ongoing reinvestment, so it is best described as a diversified industrial with moderate, not high, capital intensity.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00499-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is 3M a capital-intensive business based on FY2022 data?
+
+Gold answer: No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%
+
+Candidate answer: Yes, 3M is a capital-intensive business based on FY2022 data. The company maintains substantial property, plant, and equipment investments (approximately $9.2 billion net), engages in ongoing capital expenditures representing over 5% of annual sales, and recognizes significant depreciation expense, all indicating a business model requiring substantial fixed asset investments to operate.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00499-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is 3M a capital-intensive business based on FY2022 data?
+
+Gold answer: No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%
+
+Candidate answer: No — 3M is only moderately capital-intensive, not a heavily capital-intensive business. FY2022 capital expenditures were $1,749 million, just 5.1% of net sales of $34,229 million, and depreciation and amortization was $1,831 million, or 5.3% of net sales. Net property, plant and equipment of $9,178 million is only about 19.8% of total assets of $46,455 million (gross PP&E $25,998 million, ~65% already depreciated), while goodwill and intangibles together ($12,790M + $4,699M = $17,489 million) exceed net PP&E — indicating an asset base weighted toward intangibles rather than fixed plant. Net sales are roughly 3.7x net PP&E, and operating cash flow of $5,591 million comfortably covered capex ~3.2x, leaving substantial free cash flow. This profile is typical of a diversified industrial/technology manufacturer with moderate fixed-asset needs, not a capital-intensive business like a utility, telecom, or heavy materials producer.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00499-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is 3M a capital-intensive business based on FY2022 data?
+
+Gold answer: No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%
+
+Candidate answer: Not highly capital-intensive. FY2022: net PP&E was $9,178M vs. total assets of $46,455M (~19.8%); capital expenditures were $1,749M vs. net sales of $34,229M (~5.1%); depreciation and amortization was $1,831M vs. net sales (~5.3%). These ratios are moderate, not indicative of a heavily capital-intensive business.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00499-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on 3M's FY2022 financial data, would you characterize its business as capital-intensive?
+
+Gold answer: No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%
+
+Candidate answer: Yes, 3M's business is moderately capital-intensive. In FY2022, capital expenditures were $1,749 million (5.1% of $34,229 million in net sales), with property, plant and equipment representing $9,178 million (19.8% of total assets). These metrics indicate moderate capital requirements typical of diversified manufacturing.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00499-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on 3M's FY2022 financial data, would you characterize its business as capital-intensive?
+
+Gold answer: No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%
+
+Candidate answer: No — on FY2022 figures 3M is only moderately capital-intensive, not a heavily capital-intensive business. Capital expenditures were $1,749 million, or about 5.1% of $34,229 million net sales; depreciation and amortization was $1,831 million, about 5.4% of sales. Net property, plant and equipment was $9,178 million ($25,998 million gross less $16,820 million accumulated depreciation), only about 19.8% of $46,455 million total assets, and net sales were roughly 3.7x net PP&E. By contrast, intangibles plus goodwill totaled $17,489 million ($12,790M goodwill + $4,699M intangibles), nearly twice net PP&E, and R&D was $1,862 million (5.4% of sales). Operating cash flow of $5,591 million covered capex more than 3x over. This profile — mid-single-digit capex intensity, fixed assets under a fifth of the balance sheet, and more value in intangibles/goodwill than in plant — indicates a diversified manufacturer with meaningful but not dominant fixed-asset requirements, well below the capital intensity of utilities, telecom, or heavy industry.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00499-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on 3M's FY2022 financial data, would you characterize its business as capital-intensive?
+
+Gold answer: No, the company is managing its CAPEX and Fixed Assets pretty efficiently, which is evident from below key metrics:
+CAPEX/Revenue Ratio: 5.1%
+Fixed assets/Total Assets: 20%
+Return on Assets= 12.4%
+
+Candidate answer: Moderately capital-intensive. Net PP&E was $9,178 million against total assets of $46,455 million (~19.8%) and net sales of $34,229 million (~26.8% of sales), and capital expenditures were $1,749 million (~5.1% of sales) versus depreciation and amortization of $1,831 million. These ratios indicate a meaningful but not extreme reliance on fixed assets, consistent with a diversified industrial/manufacturing company rather than a highly capital-intensive business like utilities or heavy manufacturing.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

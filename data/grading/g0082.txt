@@ -1,0 +1,179 @@
+=== ITEM id=fsq-180-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the address of Concho's head quarters?
+
+Gold answer: Concho's headquarters is located at One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701.
+
+Candidate answer: One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-184-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is a drawback of staggered board terms according to the form?
+
+Gold answer: According to the form, a drawback of staggered board terms is that it may preserve current management and the board in a hostile tender offer. This can negatively impact stockholders who want to participate in a tender offer or replace board members.
+
+Candidate answer: The drawback of staggered board terms is that only one class of directors can be replaced at a single annual stockholders' meeting, which delays complete replacement or removal of the Board by stockholders. This provision may tend to preserve current management and the Board in a hostile tender offer situation, and may have an adverse impact on stockholders who want to participate in a tender offer or who want to replace some or all members of the Board.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-184-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is a drawback of staggered board terms according to the form?
+
+Gold answer: According to the form, a drawback of staggered board terms is that it may preserve current management and the board in a hostile tender offer. This can negatively impact stockholders who want to participate in a tender offer or replace board members.
+
+Candidate answer: Because the Board is divided into three staggered classes with three-year terms, only one class of directors can be replaced at a single annual stockholders' meeting. These provisions may tend to preserve current management and the Board in a hostile tender offer, and may have an adverse impact on stockholders who may want to participate in such a tender offer, or who may want to replace some or all of the members of the Board (i.e., they could prevent or delay stockholders' attempts to replace or remove current management).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-184-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is a drawback of staggered board terms according to the form?
+
+Gold answer: According to the form, a drawback of staggered board terms is that it may preserve current management and the board in a hostile tender offer. This can negatively impact stockholders who want to participate in a tender offer or replace board members.
+
+Candidate answer: A drawback is that staggered board terms (three classes of directors, each serving three-year terms, with only one class replaceable at each annual meeting) tend to preserve current management and the board, and can have an adverse impact on stockholders who want to participate in a hostile tender offer or who want to replace some or all board members.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-184-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is a drawback of staggered board terms accoring to yhe form?
+
+Gold answer: According to the form, a drawback of staggered board terms is that it may preserve current management and the board in a hostile tender offer. This can negatively impact stockholders who want to participate in a tender offer or replace board members.
+
+Candidate answer: They may tend to preserve current management and the Board in a hostile tender offer and may have an adverse impact on stockholders who want to replace directors, because only one class of directors can be replaced at a single annual stockholders' meeting
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-184-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is a drawback of staggered board terms accoring to yhe form?
+
+Gold answer: According to the form, a drawback of staggered board terms is that it may preserve current management and the board in a hostile tender offer. This can negatively impact stockholders who want to participate in a tender offer or replace board members.
+
+Candidate answer: Because the Board is divided into three staggered classes with three-year terms, only one class of directors can be replaced at any single annual stockholders' meeting. This tends to preserve current management and the Board in a hostile tender offer, and can adversely impact stockholders who may want to participate in such a tender offer or who may want to replace some or all of the members of the Board — i.e., it could prevent or delay stockholders' attempts to replace or remove current management.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-184-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is a drawback of staggered board terms accoring to yhe form?
+
+Gold answer: According to the form, a drawback of staggered board terms is that it may preserve current management and the board in a hostile tender offer. This can negatively impact stockholders who want to participate in a tender offer or replace board members.
+
+Candidate answer: A staggered board (three classes of directors, each serving three-year terms, with only one class replaced at a single annual meeting) can preserve current management and the Board, adversely affecting stockholders who want to replace some or all directors or participate in a hostile tender offer.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-197-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who is the manager of the United States Natural Gas Fund (UNG)?
+
+Gold answer: The general partner of UNG, and therefore the entity responsible for its management, is United States Commodity Funds LLC (USCF).
+
+Candidate answer: United States Commodity Funds LLC (USCF)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-197-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who is the manager of the United States Natural Gas Fund (UNG)?
+
+Gold answer: The general partner of UNG, and therefore the entity responsible for its management, is United States Commodity Funds LLC (USCF).
+
+Candidate answer: United States Commodity Funds LLC ("USCF"), UNG's general partner, manages UNG. UNG has no executive officers or employees; under the LP Agreement, USCF has full management control and manages UNG's day-to-day operations through its Management Directors.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-197-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who is the manager of the United States Natural Gas Fund (UNG)?
+
+Gold answer: The general partner of UNG, and therefore the entity responsible for its management, is United States Commodity Funds LLC (USCF).
+
+Candidate answer: United States Commodity Funds LLC (USCF), UNG's general partner, manages UNG's affairs pursuant to the LP Agreement.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-197-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who manages UNG?
+
+Gold answer: The general partner of UNG, and therefore the entity responsible for its management, is United States Commodity Funds LLC (USCF).
+
+Candidate answer: United States Commodity Funds LLC (USCF)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-197-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who manages UNG?
+
+Gold answer: The general partner of UNG, and therefore the entity responsible for its management, is United States Commodity Funds LLC (USCF).
+
+Candidate answer: United States Commodity Funds LLC ("USCF"), the general partner of UNG, manages UNG. UNG has no executive officers or employees, and pursuant to the LP Agreement its affairs are managed by USCF through its Management Directors.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

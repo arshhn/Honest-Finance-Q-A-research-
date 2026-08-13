@@ -1,0 +1,179 @@
+=== ITEM id=fb-00807-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For 3M's fiscal Q2 2023, does the company's quick ratio indicate a sufficiently sound liquidity position? Should the quick ratio not be an appropriate liquidity measure, note that and provide the reasoning.
+
+Gold answer: No. The quick ratio for 3M was 0.96 by Jun'23 close, which needs a bit of an improvement to touch the 1x mark
+
+Candidate answer: Quick ratio is an appropriate measure here, and it indicates a somewhat tight, below-benchmark liquidity position. At June 30, 2023, quick assets were cash and equivalents $4,258 million + current marketable securities $56 million + net accounts receivable $4,947 million = $9,261 million against total current liabilities of $10,936 million, a quick ratio of about 0.85 (versus about $8,425 million / $9,523 million = 0.88 at December 31, 2022). Being below 1.0 and declining, it does not indicate a comfortably sound liquidity cushion, though 3M holds $5,280 million of inventories supporting a current ratio of about 1.44; note also that other liabilities jumped to $14,651 million from $5,615 million and equity fell to $7,857 million, signaling rising obligations.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00807-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For 3M's fiscal Q2 2023, does the company's quick ratio indicate a sufficiently sound liquidity position? Should the quick ratio not be an appropriate liquidity measure, note that and provide the reasoning.
+
+Gold answer: No. The quick ratio for 3M was 0.96 by Jun'23 close, which needs a bit of an improvement to touch the 1x mark
+
+Candidate answer: Quick ratio = (Cash $4,258M + Marketable securities $56M + Accounts receivable $4,947M) / Current liabilities $10,936M ≈ 0.85, which is below the commonly cited benchmark of 1.0, indicating quick assets do not fully cover current liabilities — a relatively tight, not clearly sufficient, liquidity position by this measure.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00822-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did any of the board nominees receive a noticeably higher number of "against" votes compared to the rest?
+
+Gold answer: Yes, his name is Richard A. Johnson
+
+Candidate answer: Yes, Richard A. Johnson received 16,105,005 votes against, which is noticeably higher than other nominees
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00822-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did any of the board nominees receive a noticeably higher number of "against" votes compared to the rest?
+
+Gold answer: Yes, his name is Richard A. Johnson
+
+Candidate answer: Yes — Richard A. Johnson received 16,105,005 votes against, far more than any other nominee (all others ranged from about 294,935 to 6,074,467 against).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00822-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did any of the board nominees receive a noticeably higher number of "against" votes compared to the rest?
+
+Gold answer: Yes, his name is Richard A. Johnson
+
+Candidate answer: Yes, Richard A. Johnson received noticeably more 'against' votes (16,105,005) than the other nominees, who each received roughly 4-6 million 'against' votes.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00839-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Foot Locker's newly appointed CEO previously served as CEO at a company comparable to Foot Locker?
+
+Gold answer: Yes. She was previous CEO of Ulta Beauty which means she had to manage a large retail company that has brick and mortar + online business. So yes she was a CEO in a similar company to Foot Locker before this.
+
+Candidate answer: No. While Ms. Dillon previously served as CEO of Ulta Beauty (a retail company), it operates in the beauty and cosmetics sector, not footwear and apparel, making it not comparable to Foot Locker's retail footwear business.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00839-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Foot Locker's newly appointed CEO previously served as CEO at a company comparable to Foot Locker?
+
+Gold answer: Yes. She was previous CEO of Ulta Beauty which means she had to manage a large retail company that has brick and mortar + online business. So yes she was a CEO in a similar company to Foot Locker before this.
+
+Candidate answer: Yes. Mary N. Dillon previously served as Chief Executive Officer (July 2013-June 2021) and later Executive Chair of Ulta Beauty, Inc., a large U.S. specialty retail chain, which is broadly comparable to Foot Locker as a specialty retailer. She was also President and CEO of United States Cellular Corporation (2010-2013), which is not a comparable retailer.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00839-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Foot Locker's newly appointed CEO previously served as CEO at a company comparable to Foot Locker?
+
+Gold answer: Yes. She was previous CEO of Ulta Beauty which means she had to manage a large retail company that has brick and mortar + online business. So yes she was a CEO in a similar company to Foot Locker before this.
+
+Candidate answer: Yes — Mary N. Dillon, Foot Locker's newly appointed President and CEO, previously served as Chief Executive Officer of Ulta Beauty, Inc. (July 2013 through June 2021), a large specialty retailer comparable in scale and consumer-retail nature to Foot Locker.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00859-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?
+
+Gold answer: Cross currency swaps. Its notional value was $32,502 million.
+
+Candidate answer: Cross currency swaps, which had the largest notional value (roughly $32-33 billion) among Verizon's derivative instruments in FY2021
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00859-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?
+
+Gold answer: Cross currency swaps. Its notional value was $32,502 million.
+
+Candidate answer: Cross-currency swaps
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00859-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?
+
+Gold answer: Cross currency swaps. Its notional value was $32,502 million.
+
+Candidate answer: Cross currency swaps, $32,502 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00859-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?
+
+Gold answer: Cross currency swaps. Its notional value was $32,502 million.
+
+Candidate answer: Cross currency swaps, with a notional amount of $32,502 million at December 31, 2021
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

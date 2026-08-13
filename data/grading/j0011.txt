@@ -1,0 +1,131 @@
+=== ITEM id=m2-00839-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?
+
+Answer A: Yes. Mary N. Dillon, the new President and CEO, previously served as CEO of Ulta Beauty, Inc. (a specialty retailer) from July 2013 through June 2021, and also as President and CEO of United States Cellular Corporation from 2010 through 2013.
+
+Answer B: Yes — Mary N. Dillon, Foot Locker's newly appointed President and CEO, previously served as Chief Executive Officer of Ulta Beauty, Inc. (July 2013 through June 2021), a large specialty retailer comparable in scale and consumer-retail nature to Foot Locker.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00859-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?
+
+Answer A: Cross currency swaps, $32,502 million
+
+Answer B: Cross currency swaps, $32,502 million
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00859-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?
+
+Answer A: Cross currency swaps, with a notional amount of $32,502 million at December 31, 2021
+
+Answer B: Cross currency swaps, with a notional amount of $32,502 million at December 31, 2021
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00859-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?
+
+Answer A: Cross currency swaps, with a notional value of $32,502 million
+
+Answer B: Cross currency swaps, with a notional value of $32,502 million
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00882-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?
+
+Answer A: $8,400,000,000
+
+Answer B: $8,400,000,000
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00882-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?
+
+Answer A: $8,400,000,000 (approximately $8.4 billion) in total — up to $4,200,000,000 under the 2023 364 Day Credit Agreement and up to $4,200,000,000 under the 2023 Five Year Credit Agreement (each expandable to $4,950,000,000 with lender agreement, for a potential combined total of $9,900,000,000).
+
+Answer B: $8,400,000,000 (approximately $8.4 billion) — $4,200,000,000 under the 2023 364 Day Credit Agreement plus $4,200,000,000 under the 2023 Five Year Credit Agreement. (If commitments were increased with lender agreement, the combined maximum could rise to $9,900,000,000, i.e., $4,950,000,000 per facility.)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00882-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?
+
+Answer A: $8,400,000,000 (the $4,200,000,000 364-day agreement plus the $4,200,000,000 five-year agreement)
+
+Answer B: $8,400,000,000 (the $4,200,000,000 364-day agreement plus the $4,200,000,000 five-year agreement)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00917-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Answer A: Operating margin for AMD declined from approximately 21.95% in 2021 to approximately 5.5% in 2022, primarily driven by amortization of intangible assets associated with the Xilinx acquisition. The document does not suggest operating margin is not a useful metric, though it should be noted that the significant decline is largely attributable to acquisition-related intangible asset amortization rather than changes in core operations.
+
+Answer B: Operating margin is a meaningful metric for AMD. The shift from 22% in 2021 to 5.5% in 2022 was primarily driven by amortization of intangible assets associated with the Xilinx acquisition.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00917-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Answer A: Operating margin is a useful metric for AMD (a semiconductor product company), so the premise stands. AMD's operating margin fell sharply in FY22: operating income was $1.3 billion on net revenue of $23.6 billion, or roughly 5.5%, versus operating income of $3.6 billion on net revenue of $16.4 billion in 2021, or roughly 22% — a decline of about 16-17 percentage points. Per the filing, the decrease in operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition. The same factor also compressed gross margin, which fell from 48% of net revenue in 2021 to 45% in 2022, again primarily due to Xilinx-related intangible asset amortization. Revenue mix effects behind the 44% revenue growth (Data Center up 64%, Gaming up 21%, a large Embedded increase from Xilinx product sales, partially offset by a 10% Client decline on weak PC demand and inventory corrections) did not offset the acquisition-related amortization drag. Note the percentage margins for 2022 and the change in percentage points are computed from the dollar figures given in the document; the document states the margin driver qualitatively rather than quantifying each component.
+
+Answer B: Operating margin is a meaningful metric for AMD (a semiconductor company). It fell sharply in FY2022: operating income was $1.3 billion on net revenue of $23.6 billion (about 5-6%), versus operating income of $3.6 billion on $16.4 billion of revenue in 2021 (about 22%). Per the filing, the decrease in operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition, which also drove gross margin down to 45% of net revenue in 2022 from 48% in 2021. Revenue mix effects were a partial offset/context: revenue grew 44%, with Data Center up 64%, Gaming up 21% and a significant Embedded increase (Xilinx product sales), partially offset by a 10% decline in Client segment revenue due to a weak PC market and inventory correction across the PC supply chain.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00917-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Answer A: Operating margin (operating income/net revenue) fell from about 22% in 2021 ($3.6B operating income / $16.4B net revenue) to about 5.5% in 2022 ($1.3B operating income / $23.6B net revenue). The document states this decline in operating income was "primarily driven by amortization of intangible assets associated with the Xilinx acquisition," which also cut gross margin from 48% to 45%. Operating margin is still a useful metric here, though the 2022 figure is depressed by acquisition-related non-cash amortization charges rather than a decline in underlying operating performance (revenue in fact grew 44%).
+
+Answer B: AMD's operating margin declined in FY2022 (operating income fell to $1.3 billion from $3.6 billion in 2021, despite net revenue rising 44% to $23.6 billion), primarily due to amortization of intangible assets associated with the Xilinx acquisition, which also drove gross margin down from 48% to 45%. Operating margin is a meaningful metric for AMD as a semiconductor company with substantial recurring operating costs and R&D investment.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00941-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?
+
+Answer A: 1.500% Notes due 2026, 1.750% Notes due 2030, and 1.500% Notes due 2031 are registered to trade on the New York Stock Exchange
+
+Answer B: 1.500% Notes due 2026 (MMM26), 1.750% Notes due 2030 (MMM30), and 1.500% Notes due 2031 (MMM31), all listed on the New York Stock Exchange
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00941-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?
+
+Answer A: Three series of notes are registered under Section 12(b) and listed on the New York Stock Exchange: the 1.500% Notes due 2026 (trading symbol MMM26), the 1.750% Notes due 2030 (MMM30), and the 1.500% Notes due 2031 (MMM31).
+
+Answer B: Three series of notes are registered under Section 12(b) and listed on the New York Stock Exchange: 1.500% Notes due 2026 (symbol MMM26), 1.750% Notes due 2030 (symbol MMM30), and 1.500% Notes due 2031 (symbol MMM31).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

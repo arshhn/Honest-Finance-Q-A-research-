@@ -1,0 +1,179 @@
+=== ITEM id=fb-00394-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2022 Q2, which of JPM's business segments had the highest net income?
+
+Gold answer: Corporate & Investment Bank. Its net income was $3725 million.
+
+Candidate answer: Corporate & Investment Bank (CIB)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00394-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2022 Q2, which of JPM's business segments had the highest net income?
+
+Gold answer: Corporate & Investment Bank. Its net income was $3725 million.
+
+Candidate answer: Corporate & Investment Bank, $3,725 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00394-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2022 Q2, which of JPM's business segments had the highest net income?
+
+Gold answer: Corporate & Investment Bank. Its net income was $3725 million.
+
+Candidate answer: Corporate & Investment Bank, with net income of $3,725 million for the three months ended June 30, 2022
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00394-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2022 Q2, which of JPM's business segments had the highest net income?
+
+Gold answer: Corporate & Investment Bank. Its net income was $3725 million.
+
+Candidate answer: Corporate & Investment Bank (CIB), with net income of $3,725 million in Q2 2022, the highest among all segments.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00438-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.
+
+Candidate answer: No — Adobe's operating margin was not improving as of FY2022; it declined that year. Operating margin is a meaningful metric for Adobe (a software company with substantial operating leverage), so it is worth evaluating. Approximate figures: FY2020 revenue ~$12.87 billion with operating income ~$4.24 billion, an operating margin of roughly 32.9%; FY2021 revenue ~$15.79 billion with operating income ~$5.80 billion, an operating margin of roughly 36.8%; FY2022 (fiscal year ended December 2, 2022) revenue ~$17.61 billion with operating income ~$6.10 billion, an operating margin of roughly 34.6%. So the margin expanded by about 4 percentage points in FY2021 but contracted by roughly 2 percentage points in FY2022, driven by faster growth in operating expenses (headcount/compensation, marketing) and FX headwinds relative to revenue growth. Over the three-year window the level remains high (mid-30s percent) and above FY2020, but the FY2022 trend is deteriorating rather than improving.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00438-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.
+
+Candidate answer: No. Adobe's GAAP operating margin profile was not improving as of FY2022 — it declined slightly year-over-year. In FY2021, Adobe reported revenue of about $15.79 billion and GAAP operating income of about $5.80 billion, an operating margin of roughly 36.7%. In FY2022, revenue grew to about $17.61 billion but GAAP operating income was about $6.10 billion, an operating margin of roughly 34.6% — a decrease of about 2 percentage points, driven mainly by higher operating expenses (including elevated stock-based compensation and costs related to the terminated Figma acquisition, such as the termination fee). Operating margin is a useful and meaningful metric for Adobe, since it is a mature, profitable software company with stable, comparable operating cost structures across periods, so the metric is not distorted or inapplicable here.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00438-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.
+
+Candidate answer: No. Adobe's operating margin declined to 34.64% in FY2022 from 36.75% in FY2021, despite remaining above FY2020's 32.91%. The operating margin profile is not improving as of FY2022. Operating margin is a useful metric for Adobe as a software-subscription company with high gross margins, reflecting operational efficiency and expense management.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00438-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.
+
+Candidate answer: No — operating margin is a useful metric for Adobe (a software company with a normal cost/opex structure), but it is not improving as of FY2022. Operating margin = operating income / total revenue: FY2022 = $6,098M / $17,606M = 34.6%; FY2021 = $5,802M / $15,785M = 36.8%; FY2020 = $4,237M / $12,868M = 32.9%. So margin expanded ~3.8 percentage points from FY2020 to FY2021, then contracted ~2.1 percentage points in FY2022. The FY2022 deterioration reflects operating expenses growing 15.1% ($8,118M to $9,343M) versus revenue growth of 11.5% ($15,785M to $17,606M) — mainly R&D (+17.6%) and sales and marketing (+15.0%) — while gross margin was essentially flat (87.7% in FY2022 vs. 88.2% in FY2021), so the margin decline is opex-driven. Net: FY2022 margin is still above FY2020 but is trending down year over year, so the profile is not improving.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00438-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.
+
+Candidate answer: No. Operating margin (operating income / total revenue) was 32.9% in FY2020 (4,237/12,868), rose to 36.8% in FY2021 (5,802/15,785), but then declined to 34.6% in FY2022 (6,098/17,606). So as of FY2022, the operating margin profile is not improving — it contracted year-over-year versus FY2021, even though it remains above the FY2020 level.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00460-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was there any change in the number of Best Buy stores between Q2 of FY2024 and FY2023?
+
+Gold answer: Yes, there is decline in number stores by 1.32% from 982 stores in Q2 FY 2023 to 969 by the end of Q2 FY2024.
+
+Candidate answer: Yes — the store count declined. At the end of Q2 FY2024 (quarter ended July 29, 2023) Best Buy operated roughly 1,120 stores, versus roughly 1,140 at the end of Q2 FY2023 (quarter ended July 30, 2022) — a net decrease of about 20 stores (roughly 2%), driven mainly by closures of U.S. Domestic-segment large-format Best Buy stores (about 975 U.S. Best Buy stores vs. about 990 a year earlier). The direction of change (a decrease) is reliable; the exact counts are approximate.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00460-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was there any change in the number of Best Buy stores between Q2 of FY2024 and FY2023?
+
+Gold answer: Yes, there is decline in number stores by 1.32% from 982 stores in Q2 FY 2023 to 969 by the end of Q2 FY2024.
+
+Candidate answer: Yes, the number of Best Buy stores decreased from 930 to 907 stores, a decrease of 23 stores.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00460-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was there any change in the number of Best Buy stores between Q2 of FY2024 and FY2023?
+
+Gold answer: Yes, there is decline in number stores by 1.32% from 982 stores in Q2 FY 2023 to 969 by the end of Q2 FY2024.
+
+Candidate answer: Yes. Best Buy branded stores decreased by 23 stores year-over-year: 907 stores at the end of Q2 fiscal 2024 versus 930 at the end of Q2 fiscal 2023. (Within Q2 fiscal 2024 itself, the count went from 908 at the beginning to 907 at the end — 0 opened, 1 closed — while in Q2 fiscal 2023 it went from 931 to 930, with 1 opened and 2 closed.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

@@ -1,0 +1,131 @@
+=== ITEM id=m2-01328-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.
+
+Answer A: $411 million (total FY2022 restructuring and impairment charges, spread across cost of sales $33M, SG&A $347M, and other pension and retiree medical benefits expense $31M rather than a discrete income statement line item)
+
+Answer B: $411 million (total restructuring and impairment charges for FY2022, recorded within cost of sales $33M, SG&A $347M, and other pension and retiree medical benefits expense $31M rather than on a single separate income statement line)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01328-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.
+
+Answer A: $411 million (total restructuring and impairment charges for FY2022)
+
+Answer B: $411 million (total restructuring and impairment charges for FY2022, comprising $33 million in cost of sales, $347 million in SG&A expenses, and $31 million in other pension and retiree medical benefits expense)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01346-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: How much has the effective tax rate of Corning changed between FY2021 and FY2022?
+
+Answer A: 3 percentage points
+
+Answer B: 3.0 percentage points increase (from 20% to 23%)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01346-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: How much has the effective tax rate of Corning changed between FY2021 and FY2022?
+
+Answer A: Corning's effective tax rate increased by 3 percentage points, from 20% in FY2021 to 23% in FY2022.
+
+Answer B: It increased by 3 percentage points, from 20% in FY2021 to 23% in FY2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01346-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: How much has the effective tax rate of Corning changed between FY2021 and FY2022?
+
+Answer A: The effective tax rate increased by 3 percentage points, from 20% in FY2021 to 23% in FY2022.
+
+Answer B: Increased by 3 percentage points, from 20% in FY2021 to 23% in FY2022
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01351-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: How much has the effective tax rate of American Express changed between FY2021 and FY2022?
+
+Answer A: Decreased by 3.0 percentage points (from 24.6% in 2021 to 21.6% in 2022)
+
+Answer B: 3.0 percentage points decrease (from 24.6% to 21.6%)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01351-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: How much has the effective tax rate of American Express changed between FY2021 and FY2022?
+
+Answer A: American Express's effective tax rate decreased by 3.0 percentage points, from 24.6% in FY2021 to 21.6% in FY2022 (a decline of about 12% in relative terms).
+
+Answer B: It decreased by 3.0 percentage points, from 24.6% in FY2021 to 21.6% in FY2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01351-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: How much has the effective tax rate of American Express changed between FY2021 and FY2022?
+
+Answer A: The effective tax rate decreased by 3.0 percentage points, from 24.6% in FY2021 to 21.6% in FY2022.
+
+Answer B: Decreased by 3.0 percentage points, from 24.6% in FY2021 to 21.6% in FY2022
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01474-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+
+Answer A: Strong start to the year and resilient performance of categories and geographies in the first quarter
+
+Answer B: Strong start to the year and resilient business performance across categories and geographies
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01474-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+
+Answer A: Because of a strong start to the year: PepsiCo delivered strong first-quarter performance and business momentum, with its categories and geographies remaining resilient (Q1 organic revenue growth of 14.3% and net revenue growth of 10.2%). On that basis it raised full-year 2023 organic revenue growth guidance to 8% (from 6%) and core constant currency EPS growth to 9% (from 8%), which management attributed to investments made to become a Faster, Stronger and Better organization by Winning with pep+.
+
+Answer B: Because of its strong start to the year — first-quarter performance and business momentum were strong, with categories and geographies remaining resilient, which led PepsiCo to raise full-year 2023 organic revenue growth guidance to 8% (from 6%) and core constant currency EPS growth to 9% (from 8%).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01474-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+
+Answer A: PepsiCo raised its full-year 2023 guidance because of its strong Q1 2023 performance and business momentum, with categories and geographies remaining resilient; net revenue grew 10.2% (organic revenue growth of 14.3%), reflecting a strong start to the year that gave management confidence to raise full-year organic revenue growth guidance to 8% (from 6%) and core constant currency EPS growth guidance to 9% (from 8%).
+
+Answer B: PepsiCo raised its full-year 2023 guidance due to its strong start to the year and business momentum, with its categories and geographies remaining resilient during the first quarter.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01476-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?
+
+Answer A: 1 percentage point
+
+Answer B: 1 percentage point
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

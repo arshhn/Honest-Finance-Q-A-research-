@@ -1,0 +1,186 @@
+=== ITEM id=fb-00956-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JnJ's FY2022 financials that of a high growth company?
+
+Gold answer: No, JnJ's FY2022 financials are not of a high growth company as sales grew by 1.3% in FY2022.
+
+Candidate answer: No. FY2022 shows modest growth of 1.3% worldwide, down significantly from 13.6% in 2021. Five-year CAGR is 4.4% and ten-year CAGR is 3.5%, which are moderate growth rates, not high growth. Currency headwinds of -4.8% significantly impacted results.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00956-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JnJ's FY2022 financials that of a high growth company?
+
+Gold answer: No, JnJ's FY2022 financials are not of a high growth company as sales grew by 1.3% in FY2022.
+
+Candidate answer: No. JnJ's FY2022 results are not those of a high-growth company. Worldwide sales grew only 1.3% to $94.9 billion in 2022 (down from 13.6% growth in 2021), with U.S. sales up 3.0% and international sales actually declining 0.6%. Longer-term trends are similarly modest: five-year compound annual growth of 4.4% worldwide (4.0% U.S., 4.9% international) and ten-year CAGR of 3.5% worldwide (5.0% U.S., 2.2% international). Even the underlying operational picture is only mid-single-digit to low-double-digit (6.9% volume, offset by -0.8% price and -4.8% currency), consistent with a large, mature company rather than a high-growth one.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00956-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JnJ's FY2022 financials that of a high growth company?
+
+Gold answer: No, JnJ's FY2022 financials are not of a high growth company as sales grew by 1.3% in FY2022.
+
+Candidate answer: No. In FY2022, worldwide sales grew only 1.3% (to $94.9 billion), down from 13.6% growth in 2021, as a 6.9% volume increase and a 0.8% price decline were largely offset by a 4.8% negative currency impact. Sales in Europe and Asia-Pacific/Africa actually declined (-0.6% and -2.8%, respectively). The five-year and ten-year worldwide sales CAGRs were only 4.4% and 3.5%, respectively. These figures indicate modest, low-single-digit growth rather than high growth.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00995-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the major products and services that AMD sells as of FY22?
+
+Gold answer: AMD sells server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+
+Candidate answer: AMD's major products and services as of FY22 include: (1) Ryzen and Ryzen PRO processors for consumer and commercial PCs; (2) EPYC server processors for data centers; (3) Radeon graphics processing units (GPUs) for gaming and professional use; (4) INSTINCT data center GPUs for AI and machine learning; (5) custom semi-custom processors for gaming consoles including PlayStation 5 and Xbox Series X; and (6) embedded processors. Revenue is organized primarily across two segments: Computing and Graphics (CPUs and consumer GPUs), and Enterprise, Embedded and Semi-Custom (data center, embedded, and console processors).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00995-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the major products and services that AMD sells as of FY22?
+
+Gold answer: AMD sells server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+
+Candidate answer: As of FY22 (fiscal year ended Dec. 31, 2022), AMD sells x86 microprocessors and GPUs for data center, client (PC), gaming, and embedded markets, reported in four segments:
+
+1. Data Center — server CPUs (EPYC), data center GPUs/accelerators (Instinct), data processing units (DPUs, from the Pensando acquisition), FPGAs and adaptive SoCs used in data centers, and Adaptive/AI SmartNICs.
+2. Client — CPUs (Ryzen, Athlon), accelerated processing units (APUs, which integrate CPU and GPU on one die), and chipsets for desktop and notebook PCs.
+3. Gaming — discrete graphics cards/GPUs (Radeon) for desktops and notebooks, professional graphics (Radeon Pro), and semi-custom SoC products (game console chips for Sony PlayStation and Microsoft Xbox), plus related semi-custom development services.
+4. Embedded — embedded CPUs and GPUs, and embedded FPGAs, adaptive SoCs and SOMs (largely from the Xilinx acquisition completed in February 2022), sold into industrial, automotive, networking/communications, aerospace/defense, healthcare, and test/measurement markets.
+
+AMD also generates revenue from development services, software/tools supporting these products, and IP/technology licensing (including royalties from joint ventures/licensing arrangements). Note: AMD is fabless, so these products are manufactured by third-party foundries.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00995-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the major products and services that AMD sells as of FY22?
+
+Gold answer: AMD sells server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+
+Candidate answer: As of FY22 (fiscal year ended December 31, 2022), AMD's major products and services, organized by its four reportable segments, were: (1) Data Center segment — server microprocessors (EPYC CPUs), data center GPUs (Instinct accelerators for AI/HPC), and adaptive/embedded compute products used in servers; (2) Client segment — Ryzen desktop and notebook microprocessors/APUs, and chipsets for PCs; (3) Gaming segment — Radeon discrete graphics cards/GPUs for desktops and notebooks, and semi-custom SoC products (game console processors) sold to customers such as Microsoft (Xbox) and Sony (PlayStation); and (4) Embedded segment — embedded processors, FPGAs, and adaptive SoCs (largely from the Xilinx acquisition completed in February 2022), used in industrial, communications, automotive, and aerospace/defense applications. AMD also offers software, development tools, and solutions (e.g., ROCm software stack) supporting these hardware products.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00995-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the major products and services that AMD sells as of FY22?
+
+Gold answer: AMD sells server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+
+Candidate answer: Server microprocessors (CPUs), graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs), and chipsets for desktop and notebook personal computers; discrete GPUs and semi-custom SoC products and development services; embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products; and occasional sales or licensing of intellectual property.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00995-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the major products and services that AMD sells as of FY22?
+
+Gold answer: AMD sells server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+
+Candidate answer: As of FY22, AMD is a global semiconductor company that primarily offers: (1) for data centers — server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products; (2) for desktop and notebook personal computers — CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets; (3) discrete GPUs, and semi-custom SoC products and development services; and (4) embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products. From time to time, AMD may also sell or license portions of its intellectual property (IP) portfolio.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00995-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the major products and services that AMD sells as of FY22?
+
+Gold answer: AMD sells server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; discrete GPUs, and semi-custom SoC products and development services; and embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products.
+
+Candidate answer: As of FY22, AMD sells: (1) server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs), and Adaptive System-on-Chip (SoC) products for data centers; (2) CPUs, accelerated processing units (APUs) that integrate CPUs and GPUs, and chipsets for desktop and notebook personal computers; (3) discrete GPUs, and semi-custom SoC products and development services; and (4) embedded CPUs, GPUs, APUs, FPGAs, and Adaptive SoC products. AMD may also, from time to time, sell or license portions of its intellectual property (IP) portfolio.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01028-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that American Express primarily operates in as of 2022?
+
+Gold answer: United States, EMEA, APAC, and LACC
+
+Candidate answer: United States and International markets (Europe, Asia-Pacific, Latin America, and Canada)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01028-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that American Express primarily operates in as of 2022?
+
+Gold answer: United States, EMEA, APAC, and LACC
+
+Candidate answer: American Express operates globally, but its business is concentrated in four reported geographic regions: (1) the United States — by far its largest market, generating roughly three-quarters of total revenues; (2) EMEA (Europe, the Middle East and Africa); (3) APAC/JAPA (Japan, Asia-Pacific and Australia); and (4) LACC (Latin America, Canada and the Caribbean). Overseas markets outside the U.S. collectively account for roughly 20-25% of revenues.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01028-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that American Express primarily operates in as of 2022?
+
+Gold answer: United States, EMEA, APAC, and LACC
+
+Candidate answer: United States, United Kingdom, Mexico, Australia, Canada, Japan, and other international markets
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

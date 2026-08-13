@@ -1,0 +1,181 @@
+=== ITEM id=fb-00720-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of the FY2022 for American Express? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Performance is not measured through gross margin
+
+Candidate answer: Gross margin is not a useful metric for a company like American Express. American Express is a financial services company, not a product-based or manufacturing company. It does not have traditional cost of goods sold. Instead, financial services companies focus on metrics like net interest margin (total interest income minus total interest expense divided by average earning assets), operating expense ratios, and credit loss provisions. American Express's performance is driven by non-interest revenues (discount revenue, card fees, service fees), interest income, provisions for credit losses, and operating expenses—not gross margin.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00720-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of the FY2022 for American Express? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Performance is not measured through gross margin
+
+Candidate answer: Gross margin is not a useful or meaningful metric for American Express, and it cannot be calculated from this income statement. Amex is a payments/lending company, not a manufacturer or reseller: its consolidated statements of income contain no "cost of goods sold" or "cost of revenue" line, so there is no gross profit figure from which to derive a gross margin. Its revenue is instead composed of discount revenue ($30,739 million in FY2022), net card fees ($6,070 million), service fees and other revenue ($4,521 million), processed revenue ($1,637 million) and net interest income ($9,895 million), and the "costs" it incurs — Card Member rewards, business development, Card Member services, marketing, salaries, and provisions for credit losses — are operating and credit costs rather than product costs. Analysts therefore look at total revenues net of interest expense, net interest income/margin, provisions for credit losses, operating-expense efficiency, and pretax/net margin instead.
+
+Using the closest meaningful substitutes from the document, FY2022 profitability actually declined: total revenues net of interest expense rose 24.7% to $52,862 million (from $42,380 million in FY2021), but pretax income fell to $9,585 million from $10,689 million and net income fell to $7,514 million from $8,060 million. Net income as a percentage of total revenues net of interest expense fell to 14.2% in FY2022 from 19.0% in FY2021. The drivers were (i) a swing in provisions for credit losses to a $2,182 million charge in FY2022 from a $1,419 million benefit (reserve release) in FY2021 — a roughly $3.6 billion adverse swing — and (ii) a $7,985 million (24.1%) increase in total expenses to $41,095 million, led by Card Member rewards (+$2,995 million to $14,002 million), business development (+$1,181 million), Card Member services (+$966 million), salaries and employee benefits (+$1,012 million) and other, net (+$1,664 million), all reflecting higher Card Member spending and engagement. These more than offset the strong revenue growth in discount revenue and net interest income (the latter helped by interest on loans rising to $11,967 million despite total interest expense more than doubling to $2,763 million).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00720-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of the FY2022 for American Express? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Performance is not measured through gross margin
+
+Candidate answer: Gross margin is not a useful or applicable metric for American Express. The income statement provided is structured like that of a financial services/payments company, not a product-based business — it has no "cost of goods sold" or "cost of revenue" line item from which a gross margin could be calculated. Instead, the statement presents Total revenues net of interest expense ($52,862 million in FY2022, up from $42,380 million in FY2021), which already nets interest expense ($2,763 million in 2022) against interest income, followed by Provisions for credit losses ($2,182 million in 2022) and then various operating Expenses (Card Member rewards, Business development, Card Member services, Marketing, Salaries and employee benefits, Other, net — totaling $41,095 million in 2022). Because revenue for a card-issuing/financial company is not tied to unit production costs, standard gross margin analysis does not meaningfully apply; profitability is instead better assessed via metrics like net interest income, provisions for credit losses, total expenses as a percentage of revenue, pretax margin, and net income margin.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00723-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMEX have an improving operating margin profile as of 2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Performance is not measured through operating margin
+
+Candidate answer: Yes. AMEX demonstrated an improving operating margin profile in 2022, with margins of approximately 17-18%, improving from 2021 levels. This reflects strong revenue growth from travel and entertainment spending recovery. Operating margin is a useful metric for AMEX, though financial services companies also benefit from analysis using efficiency ratios and return on equity.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00723-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMEX have an improving operating margin profile as of 2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Performance is not measured through operating margin
+
+Candidate answer: Operating margin is not a meaningful metric for American Express, and on the closest substitutes its margin profile was declining, not improving, in 2022. Why the metric doesn't apply: Amex is a financial institution (a card issuer plus a global payments network with a large lending book funded by deposits and debt). It does not report "operating income," "cost of goods sold," or a gross-profit line. Its top line is "total revenues net of interest expense," i.e., interest expense — a financing cost that for an industrial company sits below the operating line — is already netted out of revenue, so any margin computed on it is not comparable to a non-financial operating margin. Its largest cost items are also not operating costs in the industrial sense: provisions for credit losses (a reserve-driven, highly cyclical charge) and customer engagement/rewards costs that are economically contra-revenue. Appropriate metrics instead are pre-tax margin, return on equity, net interest margin, the efficiency ratio (operating expense to revenue), and net card fee/billed business growth. On the substance for FY2022: revenues net of interest expense were roughly $52.9 billion, up about 25% year over year from roughly $42.4 billion in 2021, on record billed business and strong travel/entertainment recovery. But pre-tax income was roughly $9.1 billion versus roughly $9.9 billion in 2021, and net income was about $7.5 billion versus about $8.1 billion, so pre-tax margin compressed from roughly 23% to roughly 17% and return on equity fell from roughly 33% to roughly 32%. The compression is mostly mechanical: 2021 benefited from large credit-reserve releases, whereas 2022 swung to a provision build of roughly $2.2 billion as reserves were rebuilt on growing loan balances, and marketing plus card-member rewards/engagement spending rose sharply to fund acquisition and premium-card refreshes. So: revenue growth was strong and credit quality remained excellent, but the margin profile as of 2022 was deteriorating year over year rather than improving.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00723-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMEX have an improving operating margin profile as of 2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Performance is not measured through operating margin
+
+Candidate answer: Operating margin is not a particularly useful or standard metric for American Express, and the company does not report it as a headline metric. AMEX is a financial services/card-issuing company whose income statement is structured differently from a typical operating business: "revenue" includes interest income and card fee income, and major cost lines include interest expense and provisions for credit losses, which are credit-cycle-driven rather than purely operational. For 2022 specifically, AMEX's pretax income margin actually declined versus 2021 because provisions for credit losses swung from a large net benefit/release in 2021 (as reserves built during COVID were released) to a net build in 2022, which depressed profitability even as revenues grew strongly (~25% net revenue growth) on the back of travel and spending recovery. So a naive "operating margin" calculated from GAAP line items would look worse in 2022 than 2021, but this decline mainly reflects the reserve-build/release cycle rather than a genuine deterioration in the underlying business. Analysts typically instead look at metrics like return on equity, the efficiency ratio (opex as % of net revenue), net income margin adjusted for credit reserve dynamics, or card member spending and loan growth to assess AMEX's operating performance.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00723-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMEX have an improving operating margin profile as of 2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Performance is not measured through operating margin
+
+Candidate answer: Operating margin is not a particularly useful metric for evaluating American Express, a financial services company. Financial institutions are better evaluated using return on assets (ROA), return on equity (ROE), and net interest margin. However, if calculated, AMEX's traditional operating margin declined from 25.2% in 2021 to 18.1% in 2022, indicating AMEX does not have an improving operating margin profile as of 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00723-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMEX have an improving operating margin profile as of 2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Performance is not measured through operating margin
+
+Candidate answer: Operating margin is not a meaningful metric for American Express as presented in this statement, and on the closest available proxy the margin is not improving. Why the metric doesn't apply: AmEx is a lending/payments financial institution, and its income statement has no "operating income" line — there is no gross profit or cost-of-goods structure. Instead, revenue is reported as "Total revenues net of interest expense," meaning interest expense (a financing cost that a non-financial firm would exclude from operating income) is netted against revenue rather than sitting below it. Credit provisions ($2,182M in 2022 vs. $(1,419)M in 2021 vs. $4,730M in 2020) are a core operating cost that swings violently with reserve releases/builds, and rewards/business development costs are contra-revenue-like customer acquisition costs. Any "operating margin" would therefore be an arbitrary construct dependent on where interest expense and provisions are placed. The closest usable proxy — pretax margin on total revenues net of interest expense — deteriorated in 2022: 9,585/52,862 = 18.1% in 2022, versus 10,689/42,380 = 25.2% in 2021 and 4,296/36,087 = 11.9% in 2020. Net income margin likewise fell to 7,514/52,862 = 14.2% in 2022 from 8,060/42,380 = 19.0% in 2021 (vs. 3,135/36,087 = 8.7% in 2020). So while 2022 revenue grew 24.7% to $52,862M, expenses grew faster (total expenses +24.1% to $41,095M) and provisions swung by ~$3.6B from a benefit to a charge, so profitability ratios worsened year over year — though the 2021 comparison is flattered by the one-time reserve release. Better metrics for this company are return on equity, net interest margin, efficiency/expense ratios, and pretax margin.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00723-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMEX have an improving operating margin profile as of 2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Performance is not measured through operating margin
+
+Candidate answer: No. Using pretax income as a proxy for operating margin (pretax income / total revenues net of interest expense), AMEX's margin was 18.1% in 2022 ($9,585M / $52,862M), down from 25.2% in 2021 ($10,689M / $42,380M), though up from 11.9% in 2020 ($4,296M / $36,087M). So the margin declined in 2022 versus 2021 — not an improving trend as of 2022 — largely because provisions for credit losses swung from a $1,419M net benefit in 2021 to a $2,182M expense in 2022, rather than because of deteriorating cost control (total expenses as a share of net revenues actually improved slightly, from 78.1% in 2021 to 77.7% in 2022). Also note: "operating margin" is not a particularly clean or standard metric for a company structured like AMEX, since it is a bank-holding/card-issuer whose income statement already nets interest expense against revenue and includes credit-loss provisions that behave more like a financial-services-specific cost driven by the credit cycle than a typical operating expense; pretax margin, provision-adjusted margin, or return on assets/equity are generally more informative for this business model.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00757-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did AMD report customer concentration in FY22?
+
+Gold answer: Yes, one customer accounted for 16% of consolidated net revenue
+
+Candidate answer: Yes, AMD reported customer concentration in FY22
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00757-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did AMD report customer concentration in FY22?
+
+Gold answer: Yes, one customer accounted for 16% of consolidated net revenue
+
+Candidate answer: Yes. In its FY2022 Form 10-K (fiscal year ended December 31, 2022), AMD disclosed customer concentration, stating that one customer accounted for approximately 16% of consolidated net revenue in 2022 (sales made primarily to AMD's Gaming/semi-custom segment). AMD also flagged reliance on a small number of customers as a risk factor. (The "yes" is high confidence; the exact ~16% figure is lower confidence.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00757-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did AMD report customer concentration in FY22?
+
+Gold answer: Yes, one customer accounted for 16% of consolidated net revenue
+
+Candidate answer: Yes. In its FY2022 Form 10-K, AMD disclosed customer concentration risk, stating that a small number of customers accounted for a significant portion of net revenue, including at least one customer that individually represented more than 10% of consolidated net revenue (driven largely by semi-custom/Gaming segment sales to console makers such as Microsoft and Sony).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

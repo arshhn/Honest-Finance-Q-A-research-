@@ -1,0 +1,179 @@
+=== ITEM id=fb-00382-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+
+Gold answer: Las Vegas resorts contributed ~90% of company level EBITDAR during FY2022.
+
+Candidate answer: Las Vegas Strip Resorts, with Adjusted Property EBITDAR of $3,142,308 thousand (about $3.14 billion) for the twelve months ended December 31, 2022, compared with $1,294,630 thousand for Regional Operations and negative $203,136 thousand for MGM China.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00382-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+
+Gold answer: Las Vegas resorts contributed ~90% of company level EBITDAR during FY2022.
+
+Candidate answer: Las Vegas Strip Resorts, with $3,142,308 thousand of Adjusted Property EBITDAR for the twelve months ended December 31, 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00382-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For MGM, which region contributed the most to EBITDAR in fiscal year 2022?
+
+Gold answer: Las Vegas resorts contributed ~90% of company level EBITDAR during FY2022.
+
+Candidate answer: Las Vegas Strip Resorts
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00382-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For MGM, which region contributed the most to EBITDAR in fiscal year 2022?
+
+Gold answer: Las Vegas resorts contributed ~90% of company level EBITDAR during FY2022.
+
+Candidate answer: Las Vegas Strip Resorts, with Adjusted Property EBITDAR of $3,142,308 thousand (about $3.14 billion) for the twelve months ended December 31, 2022, versus $1,294,630 thousand for Regional Operations and a loss of $203,136 thousand for MGM China.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00382-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For MGM, which region contributed the most to EBITDAR in fiscal year 2022?
+
+Gold answer: Las Vegas resorts contributed ~90% of company level EBITDAR during FY2022.
+
+Candidate answer: Las Vegas Strip Resorts, with $3,142,308 thousand of Adjusted Property EBITDAR for the twelve months ended December 31, 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00394-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the second quarter of 2022, which business segment of JPM reported the greatest net income?
+
+Gold answer: Corporate & Investment Bank. Its net income was $3725 million.
+
+Candidate answer: Corporate & Investment Bank
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00394-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the second quarter of 2022, which business segment of JPM reported the greatest net income?
+
+Gold answer: Corporate & Investment Bank. Its net income was $3725 million.
+
+Candidate answer: The Corporate & Investment Bank, with net income of $3,725 million in Q2 2022 (vs. $3,100 million for Consumer & Community Banking).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00394-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the second quarter of 2022, which business segment of JPM reported the greatest net income?
+
+Gold answer: Corporate & Investment Bank. Its net income was $3725 million.
+
+Candidate answer: Corporate & Investment Bank, with $3,725 million net income
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00407-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?
+
+Gold answer: the biggest short term investment is in corporate bonds (almost 82% of the total investment)
+
+Candidate answer: Corporate bonds
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00407-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?
+
+Gold answer: the biggest short term investment is in corporate bonds (almost 82% of the total investment)
+
+Candidate answer: Corporate bonds, at $416,420 thousand (~$416.4 million) as of June 30, 2023 — the largest short-term investment category.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00407-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?
+
+Gold answer: the biggest short term investment is in corporate bonds (almost 82% of the total investment)
+
+Candidate answer: Corporate bonds ($416,420 thousand)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00407-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For MGM's short-term investments in H1 FY2023, which debt category attracted the highest amount of investment?
+
+Gold answer: the biggest short term investment is in corporate bonds (almost 82% of the total investment)
+
+Candidate answer: Corporate bonds
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

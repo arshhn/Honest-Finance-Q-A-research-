@@ -1,0 +1,179 @@
+=== ITEM id=fb-00460-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was there any change in the number of Best Buy stores between Q2 of FY2024 and FY2023?
+
+Gold answer: Yes, there is decline in number stores by 1.32% from 982 stores in Q2 FY 2023 to 969 by the end of Q2 FY2024.
+
+Candidate answer: Yes. The number of Best Buy stores decreased from 930 at the end of Q2 FY2023 to 907 at the end of Q2 FY2024, a decrease of 23 stores.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00464-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Boeing's business subject to cyclicality?
+
+Gold answer: Yes, Boeing's business is subject to cyclicality due to its exposure to the airline industry which is a cyclical industry.
+
+Candidate answer: Yes, Boeing's business is subject to cyclicality, particularly driven by the commercial aviation segment which is sensitive to economic cycles affecting airline profitability and fleet investment decisions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00464-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Boeing's business subject to cyclicality?
+
+Gold answer: Yes, Boeing's business is subject to cyclicality due to its exposure to the airline industry which is a cyclical industry.
+
+Candidate answer: Yes. Boeing's business is subject to significant cyclicality. Its commercial airplanes segment in particular follows the cyclical nature of the airline industry and broader global economic cycles — demand for new aircraft depends on airline passenger and cargo traffic growth, airline profitability, fleet replacement cycles, aircraft financing availability, fuel prices, and general economic conditions, all of which are cyclical. Boeing's SEC filings (Form 10-K risk factors) explicitly note that the commercial aviation market is cyclical and that downturns (e.g., recessions, pandemics, geopolitical events, terrorism) can cause order deferrals and cancellations that materially affect revenues and earnings. Its defense, space and security segment is less tied to the commercial cycle but is exposed to government budget cycles, which partially offsets—but does not eliminate—overall cyclicality.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00464-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Boeing's business subject to cyclicality?
+
+Gold answer: Yes, Boeing's business is subject to cyclicality due to its exposure to the airline industry which is a cyclical industry.
+
+Candidate answer: Yes. Boeing's business is subject to significant cyclicality, primarily driven by the commercial aviation industry, which fluctuates with global economic conditions, airline profitability, fuel prices, and air travel demand. Its defense segment is also subject to cyclical government budget and procurement cycles.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00464-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Boeing's business subject to cyclicality?
+
+Gold answer: Yes, Boeing's business is subject to cyclicality due to its exposure to the airline industry which is a cyclical industry.
+
+Candidate answer: Yes. The document explicitly states that "the airline industry has been cyclical and very competitive and has experienced significant profit swings," and Boeing depends heavily on commercial airlines for its business.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00464-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Boeing's business subject to cyclicality?
+
+Gold answer: Yes, Boeing's business is subject to cyclicality due to its exposure to the airline industry which is a cyclical industry.
+
+Candidate answer: Yes. The document states that Boeing depends heavily on commercial airlines and that "[h]istorically, the airline industry has been cyclical and very competitive and has experienced significant profit swings and constant challenges to be more cost competitive." Because demand for Boeing's commercial aircraft is driven by long-term airline passenger and cargo traffic trends, airline profitability, economic growth, and similar macroeconomic factors, deterioration in the global economy or the airline industry can reduce new orders and cause postponements or cancellations, lowering revenues, profitability, cash flows, and backlog.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00464-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Boeing's business subject to cyclicality?
+
+Gold answer: Yes, Boeing's business is subject to cyclicality due to its exposure to the airline industry which is a cyclical industry.
+
+Candidate answer: Yes. The document states that the airline industry "has been cyclical and very competitive and has experienced significant profit swings," and since Boeing's commercial aircraft business depends heavily on commercial airlines, it is subject to this cyclicality.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00476-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under American Express' name as of 2022?
+
+Gold answer: There are none
+
+Candidate answer: None. As of its 2022 Form 10-K, the only security American Express Company had registered under Section 12(b) and listed on a national securities exchange (the New York Stock Exchange, ticker AXP) was its Common Shares, par value $0.20 per share — no debt securities were registered/listed in the company's name.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00476-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under American Express' name as of 2022?
+
+Gold answer: There are none
+
+Candidate answer: None. The cover page's list of securities registered pursuant to Section 12(b) of the Act contains only one class — Common Shares (par value $0.20 per share), trading symbol AXP, on the New York Stock Exchange — and securities registered under Section 12(g) are stated as "None." No debt securities are registered to trade on a national securities exchange under American Express Company's name as of the 2022 Form 10-K.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00494-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+
+Gold answer: Boeing forecasts an increase in the production rates for the 737, 777X and 787 aircrafts in 2023.
+
+Candidate answer: Boeing forecasted increased 737 MAX production rates targeting approximately 45-50+ aircraft per month in FY2023, with plans to reach higher monthly production rates by end of 2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00494-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+
+Gold answer: Boeing forecasts an increase in the production rates for the 737, 777X and 787 aircrafts in 2023.
+
+Candidate answer: Boeing's FY2023 outlook called for stepping commercial airplane production rates up across several programs: the 737 program, then building at roughly 31 airplanes per month, was expected to rise to about 38 per month during 2023 (with a further increase toward roughly 50 per month in the 2025/2026 timeframe); the 787 program, running at a low rate of about 3 per month, was expected to increase to about 5 per month by late 2023/2024, heading toward 10 per month later in the decade; the 767 program was planned at about 3 per month, moving to roughly 4 per month; and the 777/777X program was expected to run at a combined low rate of about 2-3 per month, with 777X first delivery pushed into 2024/2025.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00494-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+
+Gold answer: Boeing forecasts an increase in the production rates for the 737, 777X and 787 aircrafts in 2023.
+
+Candidate answer: For FY2023, Boeing guided to the following production rate increases: 737 MAX production rate increasing to 38 aircraft/month (with plans to reach 50/month by 2025/2026); 787 Dreamliner rate increasing to 5 aircraft/month by year-end 2023 (with a path toward 10/month by 2025/2026); and continued low-rate, gradual production of the 777/777X while awaiting certification, with 777 deliveries resuming later in the year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

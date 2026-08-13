@@ -1,0 +1,131 @@
+=== ITEM id=m2-00790-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is CVS Health a capital-intensive business based on FY2022 data?
+
+Answer A: No — CVS Health does not appear capital-intensive in FY2022. Net property and equipment was only $12,873 million against total assets of $228,275 million (about 5.6%), a small share of the balance sheet. Most assets are instead goodwill ($78,150 million), intangible assets ($24,754 million), inventories ($19,090 million), and receivables ($27,276 million), indicating the business is driven more by scale, brand/pharmacy relationships, and working capital than by heavy fixed-asset investment.
+
+Answer B: No — CVS Health does not appear to be a heavily capital-intensive business in FY2022; net property and equipment was only $12,873M, about 5.6% of total assets of $228,275M, with most of the balance sheet (Goodwill $78,150M, Intangible assets $24,754M) reflecting acquired assets rather than physical capital investment.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00799-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has AMCOR's quick ratio improved or declined between FY2023 and FY2022? If the quick ratio is not something that a financial analyst would ask about a company like this, then state that and explain why.
+
+Answer A: Yes, AMCOR's quick ratio improved from 0.669 in FY2022 to 0.691 in FY2023. This is an appropriate metric for financial analysts to examine for manufacturing companies like Amcor, as it measures short-term liquidity by excluding inventory from current assets.
+
+Answer B: The quick ratio increased from 0.67 to 0.69 between FY2022 and FY2023
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00799-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has AMCOR's quick ratio improved or declined between FY2023 and FY2022? If the quick ratio is not something that a financial analyst would ask about a company like this, then state that and explain why.
+
+Answer A: Improved. Amcor's quick ratio rose slightly from FY2022 to FY2023. Using the strict definition (cash + trade receivables) / total current liabilities: FY2023 = ($689M + $1,875M) / $4,476M = 0.57x, versus FY2022 = ($775M + $1,935M) / $5,103M = 0.53x — an improvement of about 0.04x. The broader definition (current assets less inventories) / current liabilities gives the same direction: FY2023 = ($5,308M - $2,213M) / $4,476M = 0.69x versus FY2022 = ($5,853M - $2,439M) / $5,103M = 0.67x. The improvement is driven mainly by the $627M drop in current liabilities (largely a $383M reduction in trade payables) outweighing the decline in cash and receivables. The quick ratio is a reasonable metric for a packaging manufacturer like Amcor, though both years are below 1.0x, which is typical for an inventory-heavy industrial with large trade payables balances.
+
+Answer B: It went up. Quick ratio = (cash and cash equivalents + trade receivables) / total current liabilities: FY2022 = (775 + 1,935) / 5,103 = 0.53; FY2023 = (689 + 1,875) / 4,476 = 0.57. The quick ratio is a relevant metric here — Amcor is a packaging manufacturer with substantial inventories, so excluding inventory from liquidity is meaningful.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00799-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has AMCOR's quick ratio improved or declined between FY2023 and FY2022? If the quick ratio is not something that a financial analyst would ask about a company like this, then state that and explain why.
+
+Answer A: Improved. Quick ratio = (Cash and cash equivalents + Trade receivables, net) / Total current liabilities. FY2023: (689 + 1,875) / 4,476 = 2,564 / 4,476 ≈ 0.57. FY2022: (775 + 1,935) / 5,103 = 2,710 / 5,103 ≈ 0.53. The quick ratio rose from approximately 0.53 to approximately 0.57 between FY2022 and FY2023, indicating an improvement in Amcor's short-term liquidity position (excluding inventory).
+
+Answer B: Amcor's quick ratio increased between FY2022 and FY2023, from approximately 0.53 ((775+1,935)/5,103) to approximately 0.57 ((689+1,875)/4,476). The quick ratio is a reasonably relevant liquidity metric for Amcor as a packaging manufacturer, though working capital/current ratio may be equally or more informative given the company carries significant inventory as part of normal operations.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00807-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Answer A: 3M's quick ratio for Q2 2023 is approximately 0.96, which is slightly below the healthy benchmark of 1.0. This indicates 3M has $0.96 of quick assets for every $1.00 of current liabilities. While not critical, this suggests a marginally tight liquidity position that would not be considered reasonably healthy. A more robust profile would show a quick ratio above 1.0.
+
+Answer B: No, the quick ratio of approximately 0.96 indicates tight liquidity as quick assets fall slightly short of current liabilities
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00807-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Answer A: No — 3M's quick ratio at June 30, 2023 is about 0.85, below 1.0, so its short-term liquidity is somewhat weak rather than comfortably healthy. Quick assets = cash and cash equivalents $4,258M + current marketable securities $56M + net accounts receivable $4,947M = $9,261M; divided by total current liabilities of $10,936M = 0.85. This means the most liquid assets cover only ~85% of current liabilities, so 3M would need to convert inventory ($5,280M) or draw on external financing to fully meet near-term obligations. (Context: the ratio deteriorated from Dec 31, 2022, when quick assets of $8,425M over current liabilities of $9,523M gave ~0.88.) The quick ratio is a relevant liquidity measure here, though for a large investment-grade issuer like 3M with substantial cash generation and access to credit markets, a sub-1.0 quick ratio is not necessarily alarming on its own.
+
+Answer B: Quick ratio is an appropriate measure here, and it indicates a somewhat tight, below-benchmark liquidity position. At June 30, 2023, quick assets were cash and equivalents $4,258 million + current marketable securities $56 million + net accounts receivable $4,947 million = $9,261 million against total current liabilities of $10,936 million, a quick ratio of about 0.85 (versus about $8,425 million / $9,523 million = 0.88 at December 31, 2022). Being below 1.0 and declining, it does not indicate a comfortably sound liquidity cushion, though 3M holds $5,280 million of inventories supporting a current ratio of about 1.44; note also that other liabilities jumped to $14,651 million from $5,615 million and equity fell to $7,857 million, signaling rising obligations.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00807-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Answer A: Quick ratio = (Total current assets - Total inventories) / Total current liabilities = (15,754 - 5,280) / 10,936 = 10,474 / 10,936 ≈ 0.96. Since this is just below 1.0, 3M's liquidity profile is only marginally healthy — current liabilities slightly exceed its quick assets (cash, marketable securities, and receivables), meaning it cannot fully cover short-term obligations without selling inventory, though a ratio near 1.0 is not a severe liquidity concern.
+
+Answer B: Quick ratio = (Cash $4,258M + Marketable securities $56M + Accounts receivable $4,947M) / Current liabilities $10,936M ≈ 0.85, which is below the commonly cited benchmark of 1.0, indicating quick assets do not fully cover current liabilities — a relatively tight, not clearly sufficient, liquidity position by this measure.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00822-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Were there any board member nominees who had substantially more votes against joining than the other nominees?
+
+Answer A: Yes, Richard A. Johnson had substantially more votes against joining than the other nominees, with 16,105,005 votes against compared to the next highest nominee (Dona D. Young) who received 6,074,467 votes against.
+
+Answer B: Yes, Richard A. Johnson received 16,105,005 votes against, which is noticeably higher than other nominees
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00822-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Were there any board member nominees who had substantially more votes against joining than the other nominees?
+
+Answer A: Yes — Richard A. Johnson stood out. He received 16,105,005 votes against, roughly three times more than any other nominee (all others ranged from 294,935 to 6,074,467 votes against). Note that his abstentions were also far lower (77,685 vs. roughly 10.7 million for every other nominee), suggesting votes that were abstentions for others were cast against him. The next-highest against totals were Dona D. Young (6,074,467) and Alan D. Feldman (5,184,437); Virginia C. Drosos had the fewest (294,935).
+
+Answer B: Yes — Richard A. Johnson received 16,105,005 votes against, far more than any other nominee (all others ranged from about 294,935 to 6,074,467 against).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00822-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Were there any board member nominees who had substantially more votes against joining than the other nominees?
+
+Answer A: Yes. Richard A. Johnson received substantially more "Votes Against" (16,105,005) than any other nominee — the next highest was Dona D. Young with 6,074,467, and most other nominees had between about 294,935 and 5,753,395 votes against.
+
+Answer B: Yes, Richard A. Johnson received noticeably more 'against' votes (16,105,005) than the other nominees, who each received roughly 4-6 million 'against' votes.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00839-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?
+
+Answer A: Yes. Mary N. Dillon was Chief Executive Officer of Ulta Beauty, Inc. from 2013 to 2021, a specialty retail company structurally similar to Foot Locker, though operating in the beauty category rather than footwear and apparel.
+
+Answer B: No. While Ms. Dillon previously served as CEO of Ulta Beauty (a retail company), it operates in the beauty and cosmetics sector, not footwear and apparel, making it not comparable to Foot Locker's retail footwear business.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00839-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?
+
+Answer A: Yes. Mary N. Dillon, appointed President and CEO effective September 1, 2022, previously served as Chief Executive Officer of Ulta Beauty, Inc. (July 2013 – June 2021, plus Executive Chair June 2021 – June 2022), a specialty retail chain comparable to Foot Locker. She also served as President and CEO of United States Cellular Corporation (2010–2013), though that is not a similar retail business. Her broader consumer-brand background includes Global Chief Marketing Officer/EVP of McDonald's (2005–2010) and President of PepsiCo's Quaker Foods division (2004–2005).
+
+Answer B: Yes. Mary N. Dillon previously served as Chief Executive Officer (July 2013-June 2021) and later Executive Chair of Ulta Beauty, Inc., a large U.S. specialty retail chain, which is broadly comparable to Foot Locker as a specialty retailer. She was also President and CEO of United States Cellular Corporation (2010-2013), which is not a comparable retailer.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

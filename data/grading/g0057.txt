@@ -1,0 +1,179 @@
+=== ITEM id=fb-01290-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who are the primary customers of Boeing as of FY2022?
+
+Gold answer: Boeing's primary customers as of FY2022 are a limited number of commercial airlines and the US government. The US government accounted for 40% of Boeing's total revenues in FY2022.
+
+Candidate answer: Boeing's primary customers as of FY2022 were (1) commercial airlines — Boeing states it "depend[s] heavily on commercial airlines" and derives "a significant portion of our revenues from a limited number of commercial airlines" — and (2) the U.S. government, primarily the U.S. Department of Defense along with other agencies such as NASA; in 2022, 40% of Boeing's revenues (approximately 40% of total revenue) were earned pursuant to U.S. government contracts, including Foreign Military Sales made through the U.S. government.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01290-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who are the primary customers of Boeing as of FY2022?
+
+Gold answer: Boeing's primary customers as of FY2022 are a limited number of commercial airlines and the US government. The US government accounted for 40% of Boeing's total revenues in FY2022.
+
+Candidate answer: Commercial airlines (a limited number of major commercial airline customers) and the U.S. government, primarily the U.S. Department of Defense (in 2022, 40% of Boeing's revenues came from U.S. government contracts, including Foreign Military Sales)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01346-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much has the effective tax rate of Corning changed between FY2021 and FY2022?
+
+Gold answer: The effective tax rate of Corning has changed from 20% in FY2021 to 23% in FY 2022.
+
+Candidate answer: 3 percentage points
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01346-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much has the effective tax rate of Corning changed between FY2021 and FY2022?
+
+Gold answer: The effective tax rate of Corning has changed from 20% in FY2021 to 23% in FY 2022.
+
+Candidate answer: Corning's effective tax rate increased by 3 percentage points, from 20% in FY2021 to 23% in FY2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01346-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much has the effective tax rate of Corning changed between FY2021 and FY2022?
+
+Gold answer: The effective tax rate of Corning has changed from 20% in FY2021 to 23% in FY 2022.
+
+Candidate answer: The effective tax rate increased by 3 percentage points, from 20% in FY2021 to 23% in FY2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01351-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much has the effective tax rate of American Express changed between FY2021 and FY2022?
+
+Gold answer: The effective tax rate for American Express has changed/dropped from 24.6% in FY 2021 to 21.6% in FY 2022.
+
+Candidate answer: American Express's effective tax rate declined by roughly 3 percentage points, from about 24.6% in FY2021 to about 21.6% in FY2022. The decrease was driven largely by the FY2021 rate being elevated relative to FY2022, with FY2022 benefiting from discrete tax items/geographic mix of income.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01351-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much has the effective tax rate of American Express changed between FY2021 and FY2022?
+
+Gold answer: The effective tax rate for American Express has changed/dropped from 24.6% in FY 2021 to 21.6% in FY 2022.
+
+Candidate answer: American Express's effective tax rate decreased from approximately 24.6% in FY2021 to approximately 21.4% in FY2022, a decline of roughly 3.2 percentage points.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01351-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much has the effective tax rate of American Express changed between FY2021 and FY2022?
+
+Gold answer: The effective tax rate for American Express has changed/dropped from 24.6% in FY 2021 to 21.6% in FY 2022.
+
+Candidate answer: Decreased by 3.0 percentage points (from 24.6% in 2021 to 21.6% in 2022)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01351-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much has the effective tax rate of American Express changed between FY2021 and FY2022?
+
+Gold answer: The effective tax rate for American Express has changed/dropped from 24.6% in FY 2021 to 21.6% in FY 2022.
+
+Candidate answer: American Express's effective tax rate decreased by 3.0 percentage points, from 24.6% in FY2021 to 21.6% in FY2022 (a decline of about 12% in relative terms).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01351-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much has the effective tax rate of American Express changed between FY2021 and FY2022?
+
+Gold answer: The effective tax rate for American Express has changed/dropped from 24.6% in FY 2021 to 21.6% in FY 2022.
+
+Candidate answer: The effective tax rate decreased by 3.0 percentage points, from 24.6% in FY2021 to 21.6% in FY2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01484-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How did JnJ's US sales growth compare to international sales growth in FY2022?
+
+Gold answer: US sales increased 3.0% vs international sales decline of 0.6%.
+
+Candidate answer: In FY2022 Johnson & Johnson's U.S. sales outgrew international sales on a reported basis. Total worldwide sales were about $94.9 billion, up roughly 1.3% versus 2021. U.S. sales were approximately $48.6 billion, up about 3% year over year, while international sales were approximately $46.3 billion, down roughly 1% (a decline of about 1-2%). The gap was driven almost entirely by foreign-exchange headwinds: on an operational (constant-currency) basis international sales actually grew in the mid-single digits (roughly 5-6%), comparable to or better than U.S. growth, but unfavorable currency translation of roughly 6-7 percentage points turned that into a reported decline.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01484-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How did JnJ's US sales growth compare to international sales growth in FY2022?
+
+Gold answer: US sales increased 3.0% vs international sales decline of 0.6%.
+
+Candidate answer: In FY2022, Johnson & Johnson's U.S. sales grew faster than its international sales. U.S. sales rose roughly high-single-digits year over year, while international sales growth was much weaker (roughly flat to low-single-digit decline) on a reported basis, mainly because unfavorable foreign currency translation significantly reduced reported international revenue growth even though operational (constant currency) growth was healthier internationally.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

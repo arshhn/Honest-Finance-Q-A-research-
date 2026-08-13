@@ -1,0 +1,149 @@
+=== ITEM id=fb-00005-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on the FY2022 figures, did Corning maintain positive working capital? Should working capital not be a meaningful or applicable metric for this company, please indicate that and provide your reasoning.
+
+Gold answer: Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.
+
+Candidate answer: Yes, Corning maintained positive working capital in FY2022: total current assets of $7,453 million minus total current liabilities of $5,175 million equals positive working capital of $2,278 million. Working capital is a meaningful metric for Corning as a manufacturing company with substantial inventory and receivables.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00215-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+
+Gold answer: Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.
+
+Candidate answer: Yes. Verizon is capital intensive: FY2022 capital expenditures were $23.1 billion (about 16.9% of $136,835 million in consolidated operating revenues), and fixed/long-lived assets dominate the balance sheet — $307,689 million gross property, plant and equipment ($107,434 million net) and $149,796 million of wireless licenses out of $379,680 million total assets.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00288-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Cash & Cash equivalents decrease from FY 2023 to Q2 of FY2024?
+
+Gold answer: Yes, there was a decline of ~42% between FY2023 and Q2 of FY 2024.
+
+Candidate answer: Yes, cash and cash equivalents decreased from $1,874 million as of January 28, 2023 (FY2023 year-end) to $1,093 million as of July 29, 2023 (Q2 FY2024)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00438-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, has Adobe's operating margin trended upward? If operating margin isn't a meaningful measure for this type of company, say so and explain the reasoning.
+
+Gold answer: No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.
+
+Candidate answer: No. Operating margin is a meaningful measure for Adobe, and it declined in FY2022: operating income of $6,098M on revenue of $17,606M gives a 34.6% margin, down from 36.8% in FY2021 ($5,802M / $15,785M), though still above FY2020's 32.9% ($4,237M / $12,868M)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00438-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, has Adobe's operating margin trended upward? If operating margin isn't a meaningful measure for this type of company, say so and explain the reasoning.
+
+Gold answer: No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.
+
+Candidate answer: No, operating margin declined in FY2022, from approximately 36.8% of revenue in FY2021 ($5,802M/$15,785M) to approximately 34.6% in FY2022 ($6,098M/$17,606M)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00521-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?
+
+Gold answer: Ulta Beauty did not make any acquisitions in FY2023 and FY2022.
+
+Candidate answer: None — the "Acquisitions, net of cash acquired" line is blank (no amount reported) for both fiscal 2023 and fiscal 2022; only fiscal 2021 shows an acquisition of $1,220 thousand.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00591-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, has Adobe's free cash flow conversion been trending upward?
+
+Gold answer: Yes, the FCF conversion (using net income as the denominator) for Adobe has improved by ~13% from 143% in 2021 to 156% in 2022
+
+Candidate answer: Yes, trending upward. FCF conversion (Free Cash Flow / Net Income), where FCF = operating cash flow minus purchases of property and equipment: FY2020 ~$5,308M/$5,260M = 1.01; FY2021 ~$6,882M/$4,822M = 1.43; FY2022 ~$7,396M/$4,756M = 1.56.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00735-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+
+Gold answer: No, Pepsico is not involved in material legal battles.
+
+Candidate answer: No. In its FY2022 and FY2021 10-K filings, PepsiCo did not report any materially important ongoing legal proceedings outside the ordinary course of business; it stated it was not currently party to any legal proceedings expected to have a material adverse effect on its financial condition.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00735-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+
+Gold answer: No, Pepsico is not involved in material legal battles.
+
+Candidate answer: No. Management states that the final outcome of litigation and proceedings will not have a material adverse effect on financial condition, but no materially important ongoing legal battles are specifically disclosed.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00746-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?
+
+Gold answer: There are none
+
+Candidate answer: None - Ulta Beauty had no debt securities registered to trade on a national securities exchange as of FY2023; only its common stock is registered.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

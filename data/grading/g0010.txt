@@ -1,0 +1,179 @@
+=== ITEM id=fb-00585-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Comparing FY2021 to FY2022, how did Boeing's effective tax rate change?
+
+Gold answer: Effective tax rate in FY2022 was 0.62%, compared to  -14.76% in FY2021.
+
+Candidate answer: It fell sharply. In FY2021 Boeing recorded a $743M tax benefit on a $5,033M pre-tax loss, an effective rate of about 14.8% (benefit). In FY2022 it recorded a $31M tax expense on a $5,022M pre-tax loss, an effective rate of about -0.6%. That is a decline of roughly 15.4 percentage points.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00585-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Comparing FY2021 to FY2022, how did Boeing's effective tax rate change?
+
+Gold answer: Effective tax rate in FY2022 was 0.62%, compared to  -14.76% in FY2021.
+
+Candidate answer: The document shows Boeing had a net loss in both years, making the 'effective tax rate' calculation unusual/less meaningful. Based on income tax (expense)/benefit relative to loss before income taxes: FY2021 = $743M benefit / $5,033M pretax loss ≈ 14.8% effective benefit rate; FY2022 = $31M expense / $5,022M pretax loss ≈ -0.6% (i.e., tax expense despite a pretax loss). So the effective tax rate swung from roughly a 14.8% benefit in 2021 to roughly a 0.6% expense in 2022, a decline/reversal of about 15.4 percentage points.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00591-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, has Adobe's free cash flow conversion been trending upward?
+
+Gold answer: Yes, the FCF conversion (using net income as the denominator) for Adobe has improved by ~13% from 143% in 2021 to 156% in 2022
+
+Candidate answer: Yes, Adobe's free cash flow has been trending upward from $5,308 million (2020) to $6,882 million (2021) to $7,396 million (2022)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00591-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, has Adobe's free cash flow conversion been trending upward?
+
+Gold answer: Yes, the FCF conversion (using net income as the denominator) for Adobe has improved by ~13% from 143% in 2021 to 156% in 2022
+
+Candidate answer: Yes. Free cash flow (operating cash flow less purchases of property and equipment) rose from $5,308 million in FY2020 to $6,882 million in FY2021 to $7,396 million in FY2022, and FCF conversion of net income improved from about 101% (5,308/5,260) to about 143% (6,882/4,822) to about 156% (7,396/4,756) — an upward trend.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00591-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, has Adobe's free cash flow conversion been trending upward?
+
+Gold answer: Yes, the FCF conversion (using net income as the denominator) for Adobe has improved by ~13% from 143% in 2021 to 156% in 2022
+
+Candidate answer: Yes, trending upward. FCF conversion (Free Cash Flow / Net Income), where FCF = operating cash flow minus purchases of property and equipment: FY2020 ~$5,308M/$5,260M = 1.01; FY2021 ~$6,882M/$4,822M = 1.43; FY2022 ~$7,396M/$4,756M = 1.56.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00601-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove the reduction in SG&A expense as a percent of net sales in FY2023?
+
+Gold answer: Lower marketing expenses and leverage of incentive compensation due to higher sales. The answer here assumes FY2023 refers to the 12 months ended on January 28, 2023 (although the company refers to this period as its fiscal 2022.
+
+Candidate answer: Operational efficiency and increased sales leverage
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00601-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove the reduction in SG&A expense as a percent of net sales in FY2023?
+
+Gold answer: Lower marketing expenses and leverage of incentive compensation due to higher sales. The answer here assumes FY2023 refers to the 12 months ended on January 28, 2023 (although the company refers to this period as its fiscal 2022.
+
+Candidate answer: The reduction in SG&A expense as a percent of net sales in FY2023 was driven by leverage from higher net sales (sales growth outpacing SG&A growth), including leverage on fixed store and corporate overhead costs.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00601-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove the reduction in SG&A expense as a percent of net sales in FY2023?
+
+Gold answer: Lower marketing expenses and leverage of incentive compensation due to higher sales. The answer here assumes FY2023 refers to the 12 months ended on January 28, 2023 (although the company refers to this period as its fiscal 2022.
+
+Candidate answer: The decline (to 23.5% of net sales from 23.9%) was driven primarily by lower marketing expenses and leverage of incentive compensation due to higher sales, partially offset by deleverage of corporate overhead from strategic investments and deleverage of store payroll and benefits from wage investments.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00601-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What caused SG&A expense as a percentage of net sales to decrease in fiscal year 2023?
+
+Gold answer: Lower marketing expenses and leverage of incentive compensation due to higher sales. The answer here assumes FY2023 refers to the 12 months ended on January 28, 2023 (although the company refers to this period as its fiscal 2022.
+
+Candidate answer: SG&A as a percentage of net sales decreased (to 23.5% from 23.9%) primarily due to lower marketing expenses and leverage of incentive compensation from higher sales, partially offset by deleverage of corporate overhead due to strategic investments and deleverage of store payroll and benefits due to wage investments.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00603-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove the increase in Ulta Beauty's merchandise inventories balance at end of FY2023?
+
+Gold answer: Increase in Merchandise inventories balance was driven by the opening of 47 new stores. The answer here assumes FY2023 refers to the 12 months ended on January 28, 2023 (although the company refers to this period as its fiscal 2022.
+
+Candidate answer: Business expansion and increased consumer demand
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00603-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove the increase in Ulta Beauty's merchandise inventories balance at end of FY2023?
+
+Gold answer: Increase in Merchandise inventories balance was driven by the opening of 47 new stores. The answer here assumes FY2023 refers to the 12 months ended on January 28, 2023 (although the company refers to this period as its fiscal 2022.
+
+Candidate answer: The increase was driven mainly by inventory to support new store openings and higher sales volume, together with higher per-unit product costs from inflation and higher in-transit/distribution center inventory — i.e., growth in the business rather than a slowdown in sell-through.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00603-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove the increase in Ulta Beauty's merchandise inventories balance at end of FY2023?
+
+Gold answer: Increase in Merchandise inventories balance was driven by the opening of 47 new stores. The answer here assumes FY2023 refers to the 12 months ended on January 28, 2023 (although the company refers to this period as its fiscal 2022.
+
+Candidate answer: The increase in Ulta Beauty's merchandise inventories at the end of FY2023 was primarily driven by inventory needed to support new store growth and higher net sales.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

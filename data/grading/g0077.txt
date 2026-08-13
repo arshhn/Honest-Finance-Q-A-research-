@@ -1,0 +1,179 @@
+=== ITEM id=fsq-134-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the fiscal year end date for the 10-K report?
+
+Gold answer: The fiscal year end date for the 10-K report is March 31.
+
+Candidate answer: March 31, 2018
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-134-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: When does the financial year end for the 10-K filing?
+
+Gold answer: The fiscal year end date for the 10-K report is March 31.
+
+Candidate answer: March 31, 2018
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-134-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: When does the financial year end for the 10-K filing?
+
+Gold answer: The fiscal year end date for the 10-K report is March 31.
+
+Candidate answer: March 31, 2018 (fiscal year ended March 31)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-134-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: When does the financial year end for the 10-K filing?
+
+Gold answer: The fiscal year end date for the 10-K report is March 31.
+
+Candidate answer: March 31, 2018
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-137-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the primary office location for Aemetis?
+
+Gold answer: The primary office location for Aemetis is at 20400 Stevens Creek Blvd., Suite 700, Cupertino, CA.
+
+Candidate answer: Aemetis, Inc.'s principal executive offices are located at 20400 Stevens Creek Blvd., Suite 700, Cupertino, CA 95014.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-137-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the primary office location for Aemetis?
+
+Gold answer: The primary office location for Aemetis is at 20400 Stevens Creek Blvd., Suite 700, Cupertino, CA.
+
+Candidate answer: 20400 Stevens Creek Blvd., Suite 700, Cupertino, CA 95014
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-137-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: primary office location for Aemetis?
+
+Gold answer: The primary office location for Aemetis is at 20400 Stevens Creek Blvd., Suite 700, Cupertino, CA.
+
+Candidate answer: 20400 Stevens Creek Blvd., Suite 700, Cupertino, California
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-137-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: primary office location for Aemetis?
+
+Gold answer: The primary office location for Aemetis is at 20400 Stevens Creek Blvd., Suite 700, Cupertino, CA.
+
+Candidate answer: Aemetis' principal executive offices are located at 20400 Stevens Creek Blvd., Suite 700, Cupertino, CA 95014 (telephone (408) 213-0940).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-137-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: primary office location for Aemetis?
+
+Gold answer: The primary office location for Aemetis is at 20400 Stevens Creek Blvd., Suite 700, Cupertino, CA.
+
+Candidate answer: 20400 Stevens Creek Blvd., Suite 700, Cupertino, CA 95014
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-139-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Break down the revenue sources for 2019.
+
+Gold answer: For 2019, Helios Technologies anticipates total revenue to be between $590 million and $600 million. This breaks down into two segments: Hydraulics, projected to contribute between $464 million and $469 million, and Electronics, expected to contribute between $126 million and $131 million.
+
+Candidate answer: 2019 revenue breakdown by segment: Hydraulics segment $464-469 million, Electronics segment $126-131 million, Total consolidated revenue $590-600 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-139-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Break down the revenue sources for 2019.
+
+Gold answer: For 2019, Helios Technologies anticipates total revenue to be between $590 million and $600 million. This breaks down into two segments: Hydraulics, projected to contribute between $464 million and $469 million, and Electronics, expected to contribute between $126 million and $131 million.
+
+Candidate answer: The filing only provides 2019 guidance (not actual results). For full year 2019, consolidated revenue is expected to be between $590 million and $600 million, broken down by segment as: Hydraulics segment $464 million to $469 million, and Electronics segment $126 million to $131 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-139-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Break down the revenue sources for 2019.
+
+Gold answer: For 2019, Helios Technologies anticipates total revenue to be between $590 million and $600 million. This breaks down into two segments: Hydraulics, projected to contribute between $464 million and $469 million, and Electronics, expected to contribute between $126 million and $131 million.
+
+Candidate answer: Per the 2019 Outlook, consolidated revenue for full year 2019 is expected to be between $590 million and $600 million, broken down by segment as: Hydraulics segment contributing between $464 million and $469 million, and Electronics segment contributing between $126 million and $131 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

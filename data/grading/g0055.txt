@@ -1,0 +1,185 @@
+=== ITEM id=fb-01226-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges
+
+Candidate answer: 3M's operating income margin fell 1.7 percentage points, from 20.8% of net sales in FY2021 to 19.1% in FY2022. Operating margin is a useful metric for 3M (a diversified industrial manufacturer), and the change decomposes as follows (all as a percent of net sales): (1) Cost of sales rose 3.0 pp, to 56.2% from 53.2%, driven by 2022 special-item costs for significant litigation from additional commitments on PFAS-related matters at the Zwijndrecht, Belgium site, higher raw materials and logistics costs, manufacturing productivity headwinds magnified by the shutdown of certain Belgium operations and restarting previously-idled operations, and investments in growth, productivity and sustainability — partially offset by higher selling prices. (2) SG&A rose 6.1 pp, to 26.5% from 20.4%, driven by increased special-item litigation costs, primarily a ~$1.2 billion pre-tax Q2 2022 charge related to steps toward resolving Combat Arms Earplugs litigation, impairment costs related to exiting PFAS manufacturing, costs of exiting Russia, divestiture-related restructuring charges, and continued investment in key growth initiatives — partially offset by restructuring benefits and ongoing cost management. (3) Goodwill impairment expense added 0.8 pp (new in 2022), a charge on the Advanced Materials reporting unit tied to the commitment to exit PFAS manufacturing. Partially offsetting these headwinds: (4) a gain on business divestitures of 8.0 pp of sales (an 8.0 pp benefit), reflecting the Q3 2022 pre-tax gain of $2.7 billion ($2.7 billion after tax) on the split-off and combination of the Food Safety business with Neogen Corporation, and (5) R&D declined 0.2 pp, to 5.4% from 5.6%. Ongoing worldwide ERP deployment investments also affected cost of sales, SG&A and R&D. Net effect: cost of sales +3.0, SG&A +6.1, goodwill impairment +0.8, R&D -0.2, divestiture gain -8.0 = 1.7 pp of margin compression.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01226-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges
+
+Candidate answer: Operating income margin declined 1.7 percentage points in FY2022, from 20.8% to 19.1% of net sales. This was driven primarily by: (1) Cost of sales rising 3.0 points (to 56.2% of sales) due to 2022 special item litigation costs (PFAS-related commitments at the Zwijndrecht, Belgium site), higher raw materials and logistics costs, and manufacturing productivity headwinds from the Belgium shutdown/restart, partially offset by higher selling prices; and (2) SG&A rising 6.1 points (to 26.5% of sales) due to special item litigation costs — mainly a ~$1.2 billion pre-tax charge from Combat Arms Earplugs litigation — plus PFAS exit impairment costs, Russia exit costs, and divestiture-related restructuring charges, partially offset by restructuring benefits and cost management. These pressures were partially offset by an 8.0-point benefit from a gain on business divestitures (a $2.7 billion pre-tax gain from the Food Safety business split-off/combination with Neogen Corporation), but that offset was itself reduced by a 0.8-point goodwill impairment expense related to the Advanced Materials reporting unit (from 3M's exit from PFAS manufacturing). R&D expense declined slightly (0.2 points). Net effect: cost of sales and SG&A increases outweighed the divestiture gain, producing the 1.7-point margin decline.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01244-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health paid dividends to common shareholders in Q2 of FY2022?
+
+Gold answer: Yes, CVS paid a $ 0.55 dividend per share every quarter in FY2022
+
+Candidate answer: Yes, CVS Health paid dividends to common shareholders in Q2 FY2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01244-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health paid dividends to common shareholders in Q2 of FY2022?
+
+Gold answer: Yes, CVS paid a $ 0.55 dividend per share every quarter in FY2022
+
+Candidate answer: Yes. CVS Health paid a quarterly cash dividend to common shareholders in Q2 of fiscal 2022, at a rate of $0.55 per common share (approximately $0.7 billion for the quarter).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01244-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health paid dividends to common shareholders in Q2 of FY2022?
+
+Gold answer: Yes, CVS paid a $ 0.55 dividend per share every quarter in FY2022
+
+Candidate answer: Yes. CVS Health paid a quarterly cash dividend of $0.55 per common share during Q2 FY2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01244-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health paid dividends to common shareholders in Q2 of FY2022?
+
+Gold answer: Yes, CVS paid a $ 0.55 dividend per share every quarter in FY2022
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01244-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health paid dividends to common shareholders in Q2 of FY2022?
+
+Gold answer: Yes, CVS paid a $ 0.55 dividend per share every quarter in FY2022
+
+Candidate answer: Yes. CVS Health paid a quarterly cash dividend of $0.55 per share in each quarter of 2022, including Q2 FY2022, and the document states the company has paid cash dividends every quarter since becoming a public company.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01244-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health paid dividends to common shareholders in Q2 of FY2022?
+
+Gold answer: Yes, CVS paid a $ 0.55 dividend per share every quarter in FY2022
+
+Candidate answer: Yes. CVS Health paid a quarterly cash dividend of $0.55 per share during 2022 (including Q2 2022), consistent with its practice of paying cash dividends every quarter since becoming a public company.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01275-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?
+
+Gold answer: Best Buy generated the most cash flow from operating activities in FY 2023 ($1.8 bn)
+
+Candidate answer: Operating activities
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01275-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?
+
+Gold answer: Best Buy generated the most cash flow from operating activities in FY 2023 ($1.8 bn)
+
+Candidate answer: Operating activities. In FY2023 (fiscal year ended January 28, 2023), Best Buy generated roughly $1.8 billion of net cash provided by operating activities, while both investing activities (approximately -$1.0 billion) and financing activities (approximately -$1.7 billion) were net uses of cash.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01275-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?
+
+Gold answer: Best Buy generated the most cash flow from operating activities in FY 2023 ($1.8 bn)
+
+Candidate answer: Operating activities brought in the most cash for Best Buy in FY2023 (fiscal year ended February 2023) — net cash provided by operating activities was roughly $2.2 billion, while investing activities and financing activities both used (net negative) cash.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01275-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?
+
+Gold answer: Best Buy generated the most cash flow from operating activities in FY 2023 ($1.8 bn)
+
+Candidate answer: Operating activities ($1,824 million)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

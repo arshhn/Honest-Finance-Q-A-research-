@@ -1,0 +1,179 @@
+=== ITEM id=fb-00407-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For MGM's short-term investments in H1 FY2023, which debt category attracted the highest amount of investment?
+
+Gold answer: the biggest short term investment is in corporate bonds (almost 82% of the total investment)
+
+Candidate answer: Corporate bonds, at $416,420 thousand (approximately $416.4 million) as of June 30, 2023
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00407-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For MGM's short-term investments in H1 FY2023, which debt category attracted the highest amount of investment?
+
+Gold answer: the biggest short term investment is in corporate bonds (almost 82% of the total investment)
+
+Candidate answer: Corporate bonds, at $416,420 thousand
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00438-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, has Adobe's operating margin trended upward? If operating margin isn't a meaningful measure for this type of company, say so and explain the reasoning.
+
+Gold answer: No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.
+
+Candidate answer: No, Adobe's operating margin did not trend upward for fiscal year 2022. The operating margin decreased from 36.7% in FY2021 to 34.6% in FY2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00438-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, has Adobe's operating margin trended upward? If operating margin isn't a meaningful measure for this type of company, say so and explain the reasoning.
+
+Gold answer: No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.
+
+Candidate answer: No. Operating margin is a meaningful measure for Adobe, and it declined in FY2022: operating income of $6,098M on revenue of $17,606M gives a 34.6% margin, down from 36.8% in FY2021 ($5,802M / $15,785M), though still above FY2020's 32.9% ($4,237M / $12,868M)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00438-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, has Adobe's operating margin trended upward? If operating margin isn't a meaningful measure for this type of company, say so and explain the reasoning.
+
+Gold answer: No the operating margins of Adobe have recently declined from 36.8% in FY 2021 to 34.6% in FY2022. A drop by 2.2% in a year.
+
+Candidate answer: No, operating margin declined in FY2022, from approximately 36.8% of revenue in FY2021 ($5,802M/$15,785M) to approximately 34.6% in FY2022 ($6,098M/$17,606M)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00460-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did the total number of Best Buy stores change from Q2 FY2023 to Q2 FY2024?
+
+Gold answer: Yes, there is decline in number stores by 1.32% from 982 stores in Q2 FY 2023 to 969 by the end of Q2 FY2024.
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00460-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did the total number of Best Buy stores change from Q2 FY2023 to Q2 FY2024?
+
+Gold answer: Yes, there is decline in number stores by 1.32% from 982 stores in Q2 FY 2023 to 969 by the end of Q2 FY2024.
+
+Candidate answer: Yes. Total Domestic segment stores at the end of the second quarter fell from 982 in fiscal 2023 to 969 in fiscal 2024, a decrease of 13 stores; Best Buy-branded stores specifically fell from 930 to 907, a decrease of 23 stores.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00460-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did the total number of Best Buy stores change from Q2 FY2023 to Q2 FY2024?
+
+Gold answer: Yes, there is decline in number stores by 1.32% from 982 stores in Q2 FY 2023 to 969 by the end of Q2 FY2024.
+
+Candidate answer: Yes, total Best Buy stores decreased from 930 at the end of Q2 FY2023 to 907 at the end of Q2 FY2024, a decrease of 23 stores.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00464-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Boeing's business tend to fluctuate with economic cycles?
+
+Gold answer: Yes, Boeing's business is subject to cyclicality due to its exposure to the airline industry which is a cyclical industry.
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00464-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Boeing's business tend to fluctuate with economic cycles?
+
+Gold answer: Yes, Boeing's business is subject to cyclicality due to its exposure to the airline industry which is a cyclical industry.
+
+Candidate answer: Yes. Boeing states that market conditions significantly affect demand for its commercial aircraft, that the principal drivers of long-term traffic growth are sustained economic growth and political stability, and that the airline industry has historically been cyclical and very competitive with significant profit swings. Significant deterioration in the global economic environment could result in fewer new orders, postponed or cancelled orders, and lower revenues, profitability and cash flows, so its business does fluctuate with economic cycles.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00464-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Boeing's business tend to fluctuate with economic cycles?
+
+Gold answer: Yes, Boeing's business is subject to cyclicality due to its exposure to the airline industry which is a cyclical industry.
+
+Candidate answer: Yes — the document states the airline industry (which drives demand for Boeing's commercial aircraft) has historically been cyclical and very competitive, so Boeing's business tends to fluctuate with economic cycles.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00476-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of 2022, which of American Express' debt securities are listed for trading on a national securities exchange?
+
+Gold answer: There are none
+
+Candidate answer: None. The only security registered under Section 12(b) and listed on a national securities exchange (the New York Stock Exchange) is the Common Shares (par value $0.20 per share), trading symbol AXP; no debt securities are listed, and securities registered under Section 12(g) are None.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

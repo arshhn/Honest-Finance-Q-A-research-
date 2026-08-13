@@ -1,0 +1,179 @@
+=== ITEM id=fsq-014-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the fiscal year end date for PCM, Inc.?
+
+Gold answer: The fiscal year end date for PCM, Inc. is December 31st.
+
+Candidate answer: December 31, 2017
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-014-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the fiscal year end date for PCM, Inc.?
+
+Gold answer: The fiscal year end date for PCM, Inc. is December 31st.
+
+Candidate answer: December 31, 2017 (fiscal year ends December 31)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-014-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the fiscal year end date for PCM, Inc.?
+
+Gold answer: The fiscal year end date for PCM, Inc. is December 31st.
+
+Candidate answer: December 31, 2017
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-014-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the financial year end date for PCM, Inc.?
+
+Gold answer: The fiscal year end date for PCM, Inc. is December 31st.
+
+Candidate answer: December 31, 2017
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-014-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the financial year end date for PCM, Inc.?
+
+Gold answer: The fiscal year end date for PCM, Inc. is December 31st.
+
+Candidate answer: December 31, 2017 (fiscal year ends December 31)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-014-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the financial year end date for PCM, Inc.?
+
+Gold answer: The fiscal year end date for PCM, Inc. is December 31st.
+
+Candidate answer: December 31, 2017
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-019-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the segments in which Sonoco Products Company operates?
+
+Gold answer: Sonoco Products Company operates in the following segments: Consumer Packaging, Display and Packaging, Paper and Industrial Converted Products, and Protective Solutions.
+
+Candidate answer: Consumer Packaging, Display and Packaging, Paper and Industrial Converted Products, and Protective Solutions
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-019-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the segments in which Sonoco Products Company operates?
+
+Gold answer: Sonoco Products Company operates in the following segments: Consumer Packaging, Display and Packaging, Paper and Industrial Converted Products, and Protective Solutions.
+
+Candidate answer: Sonoco reports its financial results in four reportable segments: Consumer Packaging; Paper and Industrial Converted Products; Display and Packaging; and Protective Solutions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-019-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the segments in which Sonoco Products Company operates?
+
+Gold answer: Sonoco Products Company operates in the following segments: Consumer Packaging, Display and Packaging, Paper and Industrial Converted Products, and Protective Solutions.
+
+Candidate answer: Sonoco Products Company operates in four reportable segments: Consumer Packaging, Paper and Industrial Converted Products, Display and Packaging, and Protective Solutions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-019-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the segments in which Sonoco Products Company operates?
+
+Gold answer: Sonoco Products Company operates in the following segments: Consumer Packaging, Display and Packaging, Paper and Industrial Converted Products, and Protective Solutions.
+
+Candidate answer: Consumer Packaging, Display and Packaging, Paper and Industrial Converted Products, and Protective Solutions
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-019-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the segments in which Sonoco Products Company operates?
+
+Gold answer: Sonoco Products Company operates in the following segments: Consumer Packaging, Display and Packaging, Paper and Industrial Converted Products, and Protective Solutions.
+
+Candidate answer: Sonoco reports its financial results in four reportable segments: Consumer Packaging; Paper and Industrial Converted Products; Display and Packaging; and Protective Solutions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-019-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the segments in which Sonoco Products Company operates?
+
+Gold answer: Sonoco Products Company operates in the following segments: Consumer Packaging, Display and Packaging, Paper and Industrial Converted Products, and Protective Solutions.
+
+Candidate answer: Consumer Packaging, Paper and Industrial Converted Products, Display and Packaging, and Protective Solutions
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

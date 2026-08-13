@@ -1,0 +1,179 @@
+=== ITEM id=fb-06741-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the FY2018 - FY2020 3 year average unadjusted EBITDA % margin for Walmart? Define unadjusted EBITDA as unadjusted operating income + depreciation and amortization from the cash flow statement. Answer in units of percents and round to one decimal place. Calculate what was asked by utilizing the line items clearly shown in the P&L statement and the cash flow statement.
+
+Gold answer: 6.2%
+
+Candidate answer: ANSWER: 5.0%
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-10420-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Using data drawn mainly from the balance sheet and the income statement, calculate AES's return on assets (ROA) for fiscal year 2022, where ROA equals FY2022 net income divided by the average total assets across FY2021 and FY2022. Give your answer rounded to two decimal places.
+
+Gold answer: -0.02
+
+Candidate answer: ROA = FY2022 net loss of $(505) million / average total assets of $35,663 million ((38,363 + 32,963)/2) = -0.01 (i.e., approximately -1.42%, or -1.4%)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-10499-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Kraft Heinz's FY2019 inventory turnover ratio? Inventory turnover ratio is defined as: (FY2019 COGS) / (average inventory between FY2018 and FY2019). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the balance sheet and the P&L statement.
+
+Gold answer: 6.25
+
+Candidate answer: ANSWER: 2.67
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-10499-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Kraft Heinz's FY2019 inventory turnover ratio? Inventory turnover ratio is defined as: (FY2019 COGS) / (average inventory between FY2018 and FY2019). Round your answer to two decimal places. Please base your judgments on the information provided primarily in the balance sheet and the P&L statement.
+
+Gold answer: 6.25
+
+Candidate answer: approximately 6.4x
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00005-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.
+
+Candidate answer: Yes, Corning had positive working capital in FY2022, with approximately $2.8 billion in working capital (current assets exceeding current liabilities).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00005-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.
+
+Candidate answer: Yes. Corning had positive working capital at FY2022 year-end (Dec 31, 2022). Total current assets were roughly $7.5 billion (approximately: cash ~$1.7B, trade receivables ~$1.7B, inventories ~$2.9B, other current assets ~$1.2B) against total current liabilities of roughly $5.0 billion (accounts payable ~$1.8B, other accrued liabilities ~$3.1B, current portion of debt ~$0.1B), giving working capital of roughly $2.5 billion and a current ratio of about 1.5x. Working capital is a relevant metric for Corning, since it is a capital-intensive manufacturer with meaningful inventory and receivables balances (not a bank or insurer, where the metric would be less meaningful). Figures are approximate from memory; exact amounts should be verified against the 10-K balance sheet.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00005-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.
+
+Candidate answer: Yes. Based on Corning's FY2022 10-K, total current assets were approximately $7.3–7.4 billion and total current liabilities were approximately $4.8–4.9 billion, resulting in positive working capital of roughly $2.4–2.5 billion (current ratio of about 1.5).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00005-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.
+
+Candidate answer: Yes, Corning has positive working capital based on FY2022 data. Working capital = $2,278 million. This is a useful and relevant metric for the company, as it demonstrates Corning's ability to cover short-term obligations with current assets.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00005-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.
+
+Candidate answer: Yes. Corning had positive working capital at FY2022 year-end (December 31, 2022): total current assets of $7,453 million less total current liabilities of $5,175 million = $2,278 million of working capital (current ratio of about 1.44x). Working capital is a relevant metric here — Corning is a manufacturer with meaningful inventories ($2,904 million) and trade receivables ($1,721 million), so the current asset/current liability comparison is a meaningful gauge of short-term liquidity.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00005-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.
+
+Candidate answer: Yes, Corning has positive working capital in FY2022. Total current assets were $7,453 million and total current liabilities were $5,175 million, resulting in working capital of $2,278 million ($7,453M - $5,175M).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00070-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: No, American Water Works had negative working capital of -$1561M in FY 2022.
+
+Candidate answer: No. American Water Works had negative working capital in FY2022 — current assets of roughly $1.4 billion versus current liabilities of roughly $2.7 billion, i.e. working capital of approximately -$1.3 billion (USD). That said, working capital is not a particularly meaningful metric for a regulated water utility like AWK. Its revenues are rate-regulated, highly predictable, and collected from a large, diversified customer base with minimal receivable risk; it carries essentially no inventory of finished goods; and it deliberately funds a large, continuous rate-base capital program with short-term commercial paper that is periodically termed out into long-term debt. That short-term borrowing plus the current portion of long-term debt is what drives current liabilities above current assets. Liquidity for such a company is better assessed through committed revolving credit facilities, access to commercial paper and long-term debt markets, operating cash flow relative to interest, and credit ratings, rather than the current ratio.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00070-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: No, American Water Works had negative working capital of -$1561M in FY 2022.
+
+Candidate answer: No. Based on FY2022 data, American Water Works had negative working capital — current liabilities exceeded current assets. This is typical for regulated water utilities like American Water Works: they have predictable, regulated revenue streams and rely on capital markets/credit facilities rather than short-term liquidity buffers, so a working-capital deficit is common and not considered a red flag. As such, working capital is a less meaningful liquidity metric for this company than it would be for a typical industrial or retail business.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

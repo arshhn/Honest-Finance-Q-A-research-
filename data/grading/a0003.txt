@@ -1,0 +1,151 @@
+=== ITEM id=fb-00494-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+
+Gold answer: Boeing forecasts an increase in the production rates for the 737, 777X and 787 aircrafts in 2023.
+
+Candidate answer: Boeing is forecasting the following production rate changes for FY2023: (1) 787 program will gradually increase to 5 per month in 2023; (2) 777X production is currently paused and is expected to resume in 2023; (3) 737 program is currently stabilized at 31 per month with plans to gradually increase 737 production rates based on market demand and supply chain capacity.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00517-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?
+
+Gold answer: Yes. Boeing has product and service categories that represent more than 20% of Boeing's revenue for FY2022. These categories are Commercial Airplanes which comprises 39% of total revenue, Defence which comprises 35% of total revenue and Services which comprises 26% of total revenue.
+
+Candidate answer: Yes. Boeing's Commercial Airplanes (BCA) segment accounted for more than 20% of total FY2022 revenue — approximately $25.9 billion of Boeing's ~$66.6 billion total revenue, or roughly 39%. Defense, Space & Security (~$21.1B, ~32%) and Global Services (~$19.5B, ~29%) were also near or above the 20% threshold, but Commercial Airplanes was the largest segment.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00540-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: AES has converted inventory 9.5 times in FY 2022.
+
+Candidate answer: Roughly 12 times. Inventory turnover (FY2022) = Total cost of sales / average inventory = $10,069M / [($1,055M + $604M)/2 = $829.5M] = 12.1x. Caveat: conventional inventory management is not really meaningful for AES. AES is a power generation and utility company that sells electricity, which cannot be stored and is delivered the instant it is produced. Its "inventory" is not finished goods held for resale but consumables such as fuel (coal, gas, oil), spare parts and maintenance supplies used in generation and distribution. So the ratio measures the pace of fuel/supply consumption, not how quickly merchandise is sold, and it is not comparable to a retailer's or manufacturer's turnover.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00540-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.
+
+Gold answer: AES has converted inventory 9.5 times in FY 2022.
+
+Candidate answer: Approximately 12.1 times (inventory turnover ratio ≈ 12.14x) for FY2022, calculated as Total Cost of Sales ($10,069 million) divided by average inventory (($1,055M + $604M)/2 = $829.5M) = 12.14x. Note: AES is a power generation/utility company, not a traditional merchandiser, so "inventory" here (fuel, spare parts, materials) is not central to a sales cycle, and this ratio should be interpreted with caution as it doesn't reflect a conventional retail/manufacturing turnover of goods for resale.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00563-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: From FY21 to FY22, excluding Embedded, in which AMD reporting segment did sales proportionally increase the most?
+
+Gold answer: Data Center
+
+Candidate answer: Data Center
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00651-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?
+
+Gold answer: No, rate of growth in adjusted EPS is expected to decelerate slightly from 3.6% in FY2022 to 3.5% in FY2023.
+
+Candidate answer: No. Adjusted EPS growth is expected to decelerate from 3.6% in 2022 to 3.5% in 2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00678-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Yes. Boeing has an improving gross margin profile as of FY2022. Gross profit improved from $3,017 million in FY2021 to $3,502 million in FY2022. Gross margin % improved from 4.8% in FY2021 to 5.3% in FY2022.
+
+Candidate answer: Yes — Boeing's gross margin is improving, though it remains very thin. Using total revenues less total costs and expenses (cost of products, cost of services, and Boeing Capital interest expense): FY2022 gross profit of $3,502 million on $66,608 million of revenue = 5.3% gross margin; FY2021 $3,017 million on $62,286 million = 4.8%; FY2020 negative $5,685 million on $58,158 million = (9.8)%. So gross margin improved by roughly 0.4 percentage points in 2022 and by about 15 percentage points versus 2020. Gross margin is a meaningful metric for Boeing as a manufacturer, but with caveats: it is unusually low for an industrial, still recovering from the 737 MAX/787 and COVID-era charges, and Boeing remained unprofitable overall (net loss attributable to shareholders of $4,935 million, or $8.30 per share, in FY2022) because R&D, G&A, and interest expense exceed the gross profit.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00685-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Yes, the margins have been consistent, there has been a minor decline of 1.1% in gross margins between FY2022 and FY2023.
+
+Candidate answer: Yes, gross margins are a relevant and meaningful metric for Best Buy (a consumer electronics retailer), and they have historically been fairly consistent, generally staying within roughly a 1–2 percentage point band year over year. Best Buy's gross margin has typically run in the low-to-mid 20% range (approximately 22%–24% of revenue in most recent fiscal years), with gradual, incremental changes driven by shifts in product mix (e.g., lower-margin consumer electronics vs. higher-margin services, appliances, and membership revenue), promotional intensity, and supply chain costs, rather than large year-to-year swings. There have been some modest deviations (for example, a temporary dip or rise of a couple points during unusual periods such as the pandemic-driven demand surge in 2020–2021 followed by normalization), but overall the trend has not shown fluctuations dramatically larger than about 2% in a typical year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00720-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of the FY2022 for American Express? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Performance is not measured through gross margin
+
+Candidate answer: Gross margin is not a useful or meaningful metric for American Express, and the company does not report it (no "cost of goods sold" or gross profit line appears in its FY2022 income statement). Amex is an integrated payments company — a card network plus a bank holding company — so its economics are not production-and-sale of goods. Its income statement runs from total revenues net of interest expense (discount revenue, net card fees, service fees, processed revenue, and net interest income) down through provisions for credit losses and operating expenses (including card member rewards, card member services, business development, and marketing) to pre-tax income. There is no meaningful separation of "cost of revenue" from operating expense, so any gross-margin figure would be an arbitrary construct.
+
+The relevant FY2022 profitability drivers instead were: total revenues net of interest expense of roughly $52.9 billion, up about 25% year over year, driven by record Card Member spending as travel and entertainment recovered post-pandemic, higher net card fee revenue from premium fee-based product growth, and sharply higher net interest income as loan balances rebounded and rates rose. Offsetting this, provisions for credit losses swung to roughly $2.2 billion (from a large reserve release in 2021) as reserves were rebuilt on growing loan balances, and expenses rose on higher rewards, Card Member travel/services usage, and marketing investment. Net income was about $7.5 billion. Appropriate margin/return metrics for a company like this are pre-tax margin, net income margin on revenues net of interest expense, net interest margin, return on equity (about 30% in 2022), and efficiency ratio — not gross margin.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00839-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?
+
+Gold answer: Yes. She was previous CEO of Ulta Beauty which means she had to manage a large retail company that has brick and mortar + online business. So yes she was a CEO in a similar company to Foot Locker before this.
+
+Candidate answer: No. Foot Locker's CEO Elliott Hill, who took over in August 2024, previously spent his career at Nike (most recently as President of Consumer, Product & Brand), but he had not previously served as CEO of Nike or any other company before joining Foot Locker.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

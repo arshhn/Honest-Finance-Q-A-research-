@@ -1,0 +1,131 @@
+=== ITEM id=m2-01254-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has MGM Resorts paid dividends to common shareholders in FY2022?
+
+Answer A: Yes. MGM Resorts maintained an annual dividend of $0.01 per share throughout 2022.
+
+Answer B: Yes. MGM Resorts maintained an annual dividend of $0.01 per share throughout 2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01254-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has MGM Resorts paid dividends to common shareholders in FY2022?
+
+Answer A: Yes. MGM Resorts maintained an annual dividend of $0.01 per share throughout 2022, so dividends were paid to common shareholders in FY2022; the dividend was suspended only as announced on February 8, 2023.
+
+Answer B: Yes. MGM Resorts maintained an annual dividend of $0.01 per share throughout 2022, so it did pay dividends to common shareholders in FY2022 (dividends were only suspended by the Board announcement of February 8, 2023).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01254-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has MGM Resorts paid dividends to common shareholders in FY2022?
+
+Answer A: Yes, MGM Resorts paid an annual dividend of $0.01 per share throughout FY2022 to common shareholders.
+
+Answer B: Yes, MGM Resorts paid dividends to common shareholders during FY2022, maintaining an annual dividend of $0.01 per share throughout the year.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01275-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?
+
+Answer A: Operating activities ($1,824 million)
+
+Answer B: Operating activities generated the highest cash inflow at $1,824 million
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01275-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?
+
+Answer A: Operating activities, which provided $1,824 million of cash in FY2023 (vs. investing activities using $962 million and financing activities using $1,806 million).
+
+Answer B: Operating activities generated the highest cash inflow for Best Buy in FY2023, at $1,824 million (investing used $(962) million and financing used $(1,806) million).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01275-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?
+
+Answer A: Operating activities, which provided $1,824 million in cash in FY2023, compared to cash used in investing activities of $(962) million and cash used in financing activities of $(1,806) million.
+
+Answer B: Operating activities, with total cash provided of $1,824 million (the only positive category, versus outflows of $(962) million investing and $(1,806) million financing)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01279-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?
+
+Answer A: Operating activities, which brought in $3,565 million in cash flow
+
+Answer B: Operating activities
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01279-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?
+
+Answer A: Operating activities, which provided $3,565 million in net cash in FY22 (vs. $1,999 million provided by investing and $3,264 million used in financing).
+
+Answer B: Operating activities, with net cash provided of $3,565 million in FY2022 (versus $1,999 million provided by investing activities and $3,264 million used in financing activities).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01279-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?
+
+Answer A: Operating activities, which provided net cash of $3,565 million in FY22, compared to $1,999 million provided by investing activities and $3,264 million used in financing activities.
+
+Answer B: Operating activities, which generated $3,565 million of positive net cash flow in FY22 (compared to $1,999 million from investing activities and -$3,264 million from financing activities).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01290-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Who are the primary customers of Boeing as of FY2022?
+
+Answer A: Boeing's primary customers as of FY2022 are: (1) Commercial airlines, from which the company derives a significant portion of revenues from a limited number of customers, and (2) The U.S. government, primarily the Department of Defense, from which 40% of revenues were earned in 2022 pursuant to U.S. government contracts.
+
+Answer B: Commercial airlines and the U.S. government
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01290-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Who are the primary customers of Boeing as of FY2022?
+
+Answer A: Boeing's primary customers as of FY2022 were (1) commercial airlines — Boeing states it "depend[s] heavily on commercial airlines" and derives "a significant portion of our revenues from a limited number of commercial airlines" — and (2) the U.S. government, primarily the U.S. Department of Defense along with other agencies such as NASA; in 2022, 40% of Boeing's revenues (approximately 40% of total revenue) were earned pursuant to U.S. government contracts, including Foreign Military Sales made through the U.S. government.
+
+Answer B: The document does not name any individual customers, but it identifies two main customer groups: (1) commercial airlines — the company states it depends heavily on commercial airlines and derives a significant portion of revenues from a limited number of commercial airline customers; and (2) the U.S. government — primarily defense-related programs with the U.S. Department of Defense, plus other agencies including NASA, with 40% of 2022 revenues earned pursuant to U.S. government contracts (including foreign military sales through the U.S. government).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01328-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.
+
+Answer A: $411 million
+
+Answer B: $411 million
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

@@ -1,0 +1,179 @@
+=== ITEM id=fsq-092-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the financial commitment details for United's future aircraft purchases mentioned in the K-10 filings?
+
+Gold answer: As of December 31, 2017, United Airlines had a financial commitment of $22.2 billion for the acquisition of new aircraft, related spare engines, aircraft improvements, and other obligations. This includes firm commitments to purchase 228 new aircraft from Boeing and Airbus. The delivery of these aircraft is scheduled between 2018 and 2027.  In 2018, United Airlines expects to take delivery of 10 Boeing 737 MAX aircraft, seven Boeing 787 aircraft, and four Boeing 777-300ER aircraft. Additionally, they have a contract to purchase three used Boeing 767-300ER aircraft from Hawaiian Airlines, Inc., expected to be delivered in the second half of 2018.
+
+Candidate answer: As of December 31, 2017, United (UAL) had firm commitments to purchase 228 new aircraft from Boeing and Airbus, plus related agreements with engine manufacturers, maintenance providers and others. Its commitments relating to the acquisition of aircraft and related spare engines, aircraft improvements and other related obligations aggregated approximately $22.2 billion. The ordered aircraft are scheduled for delivery from 2018 through 2027, with 2018 deliveries expected to include 10 Boeing 737 MAX, seven Boeing 787 and four Boeing 777-300ER aircraft; United also contracted to buy three used Boeing 767-300ER aircraft from Hawaiian Airlines (delivery in the second half of 2018). For 2018, the Company expected gross capital expenditures of $3.6 billion to $3.8 billion.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-092-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the financial commitment details for United's future aircraft purchases mentioned in the K-10 filings?
+
+Gold answer: As of December 31, 2017, United Airlines had a financial commitment of $22.2 billion for the acquisition of new aircraft, related spare engines, aircraft improvements, and other obligations. This includes firm commitments to purchase 228 new aircraft from Boeing and Airbus. The delivery of these aircraft is scheduled between 2018 and 2027.  In 2018, United Airlines expects to take delivery of 10 Boeing 737 MAX aircraft, seven Boeing 787 aircraft, and four Boeing 777-300ER aircraft. Additionally, they have a contract to purchase three used Boeing 767-300ER aircraft from Hawaiian Airlines, Inc., expected to be delivered in the second half of 2018.
+
+Candidate answer: As of December 31, 2017, United had firm commitments to purchase 228 new aircraft from The Boeing Company and Airbus S.A.S., along with related agreements with engine manufacturers, maintenance providers and others. The Company's total commitments relating to the acquisition of aircraft and related spare engines, aircraft improvements and other related obligations aggregated to $22.2 billion.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-092-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the financial commitment details for United's future aircraft p urchases mentioned in the K-10 filings?
+
+Gold answer: As of December 31, 2017, United Airlines had a financial commitment of $22.2 billion for the acquisition of new aircraft, related spare engines, aircraft improvements, and other obligations. This includes firm commitments to purchase 228 new aircraft from Boeing and Airbus. The delivery of these aircraft is scheduled between 2018 and 2027.  In 2018, United Airlines expects to take delivery of 10 Boeing 737 MAX aircraft, seven Boeing 787 aircraft, and four Boeing 777-300ER aircraft. Additionally, they have a contract to purchase three used Boeing 767-300ER aircraft from Hawaiian Airlines, Inc., expected to be delivered in the second half of 2018.
+
+Candidate answer: As of December 31, 2017, United had firm commitments to purchase 228 new aircraft from Boeing and Airbus, with total commitments relating to aircraft acquisition, spare engines, aircraft improvements and related obligations aggregated at $22.2 billion. For 2018, the Company expected between $3.6 billion and $3.8 billion in gross capital expenditures, with expected deliveries of 10 Boeing 737 MAX aircraft, 7 Boeing 787 aircraft, and 4 Boeing 777-300ER aircraft.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-092-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the financial commitment details for United's future aircraft p urchases mentioned in the K-10 filings?
+
+Gold answer: As of December 31, 2017, United Airlines had a financial commitment of $22.2 billion for the acquisition of new aircraft, related spare engines, aircraft improvements, and other obligations. This includes firm commitments to purchase 228 new aircraft from Boeing and Airbus. The delivery of these aircraft is scheduled between 2018 and 2027.  In 2018, United Airlines expects to take delivery of 10 Boeing 737 MAX aircraft, seven Boeing 787 aircraft, and four Boeing 777-300ER aircraft. Additionally, they have a contract to purchase three used Boeing 767-300ER aircraft from Hawaiian Airlines, Inc., expected to be delivered in the second half of 2018.
+
+Candidate answer: As of December 31, 2017, United (UAL) had firm commitments to purchase 228 new aircraft from Boeing and Airbus, plus related agreements with engine manufacturers, maintenance providers and others. Its commitments relating to the acquisition of aircraft and related spare engines, aircraft improvements and other related obligations aggregated approximately $22.2 billion. The ordered aircraft are scheduled for delivery from 2018 through 2027, with 2018 deliveries expected to include 10 Boeing 737 MAX, seven Boeing 787 and four Boeing 777-300ER aircraft; United also contracted to buy three used Boeing 767-300ER aircraft from Hawaiian Airlines (delivery in the second half of 2018). For 2018, the Company expected gross capital expenditures of $3.6 billion to $3.8 billion.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-092-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the financial commitment details for United's future aircraft p urchases mentioned in the K-10 filings?
+
+Gold answer: As of December 31, 2017, United Airlines had a financial commitment of $22.2 billion for the acquisition of new aircraft, related spare engines, aircraft improvements, and other obligations. This includes firm commitments to purchase 228 new aircraft from Boeing and Airbus. The delivery of these aircraft is scheduled between 2018 and 2027.  In 2018, United Airlines expects to take delivery of 10 Boeing 737 MAX aircraft, seven Boeing 787 aircraft, and four Boeing 777-300ER aircraft. Additionally, they have a contract to purchase three used Boeing 767-300ER aircraft from Hawaiian Airlines, Inc., expected to be delivered in the second half of 2018.
+
+Candidate answer: As of December 31, 2017, United had firm commitments to purchase 228 new aircraft from The Boeing Company and Airbus S.A.S., along with related agreements with engine manufacturers, maintenance providers and others. The Company's total commitments relating to the acquisition of aircraft and related spare engines, aircraft improvements and other related obligations aggregated to $22.2 billion.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-093-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many full service branch offices does CNB Bank operate?
+
+Gold answer: CNB Bank operates 41 full-service branch offices.
+
+Candidate answer: 41 full-service branch offices
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-093-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many full service branch offices does CNB Bank operate?
+
+Gold answer: CNB Bank operates 41 full-service branch offices.
+
+Candidate answer: 41 full service branch offices (plus one loan production office)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-093-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many full service branch offices does CNB Bank operate?
+
+Gold answer: CNB Bank operates 41 full-service branch offices.
+
+Candidate answer: 41 full service branch offices
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-093-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: full service branch offices, CNB Bank?
+
+Gold answer: CNB Bank operates 41 full-service branch offices.
+
+Candidate answer: 41
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-093-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: full service branch offices, CNB Bank?
+
+Gold answer: CNB Bank operates 41 full-service branch offices.
+
+Candidate answer: 41 full service branch offices
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-093-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: full service branch offices, CNB Bank?
+
+Gold answer: CNB Bank operates 41 full-service branch offices.
+
+Candidate answer: 41 full service branch offices
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-105-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the notes from August 2017 and November 2017.
+
+Gold answer: In August 2017, the company issued \$10.3 million in Senior Secured Convertible Notes and a warrant for 1,892,972 shares of common stock at a \$3.25 exercise price. In November 2017, the company issued \$100 million in senior convertible notes: \$5 million Series A Senior Bridge Convertible Notes and \$95 million Series B Senior Secured Bridge Convertible Notes.  The November notes were for cash payments of \$5 million and secured promissory notes for \$95 million with a \$20,650,000 aggregate mandatory prepayment obligation.
+
+Candidate answer: The August 2017 Notes had a principal amount of $10,300,000 and included 1,892,972 warrants exercisable at $3.25 per share. The November 2017 Notes had a principal amount of $100,000,000 (consisting of Series A Senior Bridge Convertible Notes of $5,000,000 and Series B Senior Secured Bridge Convertible Notes of $95,000,000), with consideration consisting of $5,000,000 cash and $95,000,000 in promissory notes with approximately $20,650,000 mandatory prepayment obligation. The November notes were significantly larger and structured as bridge notes rather than straight convertible notes.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

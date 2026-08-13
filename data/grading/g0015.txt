@@ -1,0 +1,179 @@
+=== ITEM id=fb-00735-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+
+Gold answer: No, Pepsico is not involved in material legal battles.
+
+Candidate answer: No. In its FY2022 and FY2021 Form 10-K filings PepsiCo did not disclose any legal proceedings it considered material; it stated it is party to various lawsuits, claims and tax/regulatory proceedings in the ordinary course of business, but that management does not believe the ultimate resolution of these matters will have a material adverse effect on its financial condition, results of operations or cash flows.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00735-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+
+Gold answer: No, Pepsico is not involved in material legal battles.
+
+Candidate answer: No. In its FY2022 and FY2021 10-K filings, PepsiCo did not report any materially important ongoing legal proceedings outside the ordinary course of business; it stated it was not currently party to any legal proceedings expected to have a material adverse effect on its financial condition.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00735-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+
+Gold answer: No, Pepsico is not involved in material legal battles.
+
+Candidate answer: No. Management states that the final outcome of litigation and proceedings will not have a material adverse effect on financial condition, but no materially important ongoing legal battles are specifically disclosed.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00735-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+
+Gold answer: No, Pepsico is not involved in material legal battles.
+
+Candidate answer: No. PepsiCo states it is party to a variety of litigation, claims, and legal or regulatory proceedings, but management believes the final outcome will not have a material adverse effect on its financial condition, results of operations, or cash flows — i.e., no materially important ongoing legal battles were disclosed.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00735-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+
+Gold answer: No, Pepsico is not involved in material legal battles.
+
+Candidate answer: No. The document states that while Pepsico and its subsidiaries are party to various litigation, claims, and legal/regulatory proceedings, management believes the final outcome will not have a material adverse effect on its financial condition, results of operations, or cash flows; no specific materially important ongoing legal matters are disclosed.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00735-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Pepsico disclose any significant ongoing litigation during FY2022 and FY2021?
+
+Gold answer: No, Pepsico is not involved in material legal battles.
+
+Candidate answer: No. While Pepsico discloses it is party to various litigation and claims, management states these will not have a material adverse effect. No specific significant ongoing litigation is disclosed in the document.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00735-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Pepsico disclose any significant ongoing litigation during FY2022 and FY2021?
+
+Gold answer: No, Pepsico is not involved in material legal battles.
+
+Candidate answer: No. PepsiCo discloses that it and its subsidiaries are party to a variety of litigation, claims, and legal or regulatory proceedings, but management believes the final outcome will not have a material adverse effect on its financial condition, results of operations, or cash flows — so no significant/material ongoing litigation was disclosed.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00735-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Pepsico disclose any significant ongoing litigation during FY2022 and FY2021?
+
+Gold answer: No, Pepsico is not involved in material legal battles.
+
+Candidate answer: No. Pepsico discloses that it is party to various litigation and legal proceedings but states management believes none will have a material adverse effect on its financial condition, results of operations, or cash flows, so no significant ongoing litigation is specifically identified.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00746-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?
+
+Gold answer: There are none
+
+Candidate answer: None. Ulta Beauty has no debt securities registered on a national securities exchange; the only security registered under Section 12(b) is its common stock, par value $0.01 per share, listed on the NASDAQ Global Select Market under the symbol ULTA.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00746-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?
+
+Gold answer: There are none
+
+Candidate answer: None - Ulta Beauty had no debt securities registered to trade on a national securities exchange as of FY2023; only its common stock is registered.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00746-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?
+
+Gold answer: There are none
+
+Candidate answer: None. No debt securities are registered on a national securities exchange under Ulta Beauty's name; the only class registered pursuant to Section 12(b) is common stock, par value $0.01 per share (ULTA, The NASDAQ Global Select Market), with none registered under Section 12(g).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00746-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?
+
+Gold answer: There are none
+
+Candidate answer: None — the only security registered pursuant to Section 12(b) and listed on a national exchange is Ulta Beauty's common stock (ULTA) on The NASDAQ Global Select Market; no debt securities are listed.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

@@ -1,0 +1,179 @@
+=== ITEM id=fb-00005-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on the FY2022 figures, did Corning maintain positive working capital? Should working capital not be a meaningful or applicable metric for this company, please indicate that and provide your reasoning.
+
+Gold answer: Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.
+
+Candidate answer: Yes, Corning maintained positive working capital of $2,278 million in FY2022
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00005-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on the FY2022 figures, did Corning maintain positive working capital? Should working capital not be a meaningful or applicable metric for this company, please indicate that and provide your reasoning.
+
+Gold answer: Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.
+
+Candidate answer: Yes, positive working capital of $2,278 million ($7,453 million total current assets less $5,175 million total current liabilities). Working capital is a meaningful metric for Corning, a manufacturer with normal inventory, receivables and payables cycles.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00005-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on the FY2022 figures, did Corning maintain positive working capital? Should working capital not be a meaningful or applicable metric for this company, please indicate that and provide your reasoning.
+
+Gold answer: Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.
+
+Candidate answer: Yes, Corning maintained positive working capital in FY2022: total current assets of $7,453 million minus total current liabilities of $5,175 million equals positive working capital of $2,278 million. Working capital is a meaningful metric for Corning as a manufacturing company with substantial inventory and receivables.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00070-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on American Water Works' FY2022 figures, does the company have a positive amount of working capital? In case working capital isn't a meaningful or applicable metric for this business, please indicate that and provide the reasoning.
+
+Gold answer: No, American Water Works had negative working capital of -$1561M in FY 2022.
+
+Candidate answer: No. American Water Works has negative working capital of approximately -$1,561 million in FY2022. However, negative working capital is not unusual or necessarily problematic for regulated utilities due to advance customer payments and regulatory recovery mechanisms.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00070-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on American Water Works' FY2022 figures, does the company have a positive amount of working capital? In case working capital isn't a meaningful or applicable metric for this business, please indicate that and provide the reasoning.
+
+Gold answer: No, American Water Works had negative working capital of -$1561M in FY 2022.
+
+Candidate answer: No. Working capital is meaningful for American Water Works, but it is negative in FY2022: total current assets of $1,250 million less total current liabilities of $2,811 million = -$1,561 million (current ratio ~0.44). This is typical for a regulated water utility, which relies on short-term debt and steady, predictable customer cash collections rather than a large current-asset buffer.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00070-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on American Water Works' FY2022 figures, does the company have a positive amount of working capital? In case working capital isn't a meaningful or applicable metric for this business, please indicate that and provide the reasoning.
+
+Gold answer: No, American Water Works had negative working capital of -$1561M in FY 2022.
+
+Candidate answer: No. Working capital is negative: Total current assets $1,250 million minus Total current liabilities $2,811 million = -$1,561 million as of December 31, 2022. Note: for capital-intensive, rate-regulated water utilities like American Water Works, negative working capital is common and not necessarily a sign of liquidity distress, since growth is funded through long-term debt/equity rather than short-term assets.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00080-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Paypal has a positive working capital of $ 1.6Bn as of FY2022 end.
+
+Candidate answer: Yes. PayPal had positive working capital at year-end FY2022 — current assets of roughly $57.5 billion versus current liabilities of roughly $45.1 billion, giving working capital of about $12 billion (current ratio ~1.3)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00080-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Paypal has a positive working capital of $ 1.6Bn as of FY2022 end.
+
+Candidate answer: Working capital is not a particularly meaningful metric for PayPal because its balance sheet is dominated by large, largely offsetting current items (cash and customer accounts/funds receivable vs. funds payable and amounts due to customers) tied to its payments/clearing operations rather than traditional operating working capital; on a simple current assets minus current liabilities basis, PayPal did have positive working capital in FY2022
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00080-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Paypal has a positive working capital of $ 1.6Bn as of FY2022 end.
+
+Candidate answer: Yes, PayPal has positive working capital of 12,416 million USD. However, working capital is not a particularly useful or relevant metric for this company because it includes large offsetting customer fund items (receivables of 36,357M and payables of 40,107M) that represent customer account balances, not operational working capital needs.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00080-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Paypal has a positive working capital of $ 1.6Bn as of FY2022 end.
+
+Candidate answer: Yes. PayPal had positive working capital of $12,416 million at FY2022 year-end (total current assets $57,517 million less total current liabilities $45,101 million). Caveat: working capital is of limited usefulness for PayPal because a large share of both sides is customer-related — funds receivable and customer accounts of $36,357 million and funds payable and amounts due to customers of $40,107 million are custodial balances held on behalf of customers rather than operating assets/liabilities; excluding them, working capital would be roughly $16,166 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00080-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: Yes. Paypal has a positive working capital of $ 1.6Bn as of FY2022 end.
+
+Candidate answer: Yes, working capital is positive: Total current assets ($57,517M) minus total current liabilities ($45,101M) = approximately $12,416 million. However, working capital may not be a fully meaningful liquidity metric for PayPal because current assets and liabilities include large offsetting customer-related balances (Funds receivable and customer accounts of $36,357M and Funds payable and amounts due to customers of $40,107M) that are not typical operating items for a non-financial company.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00080-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Based on PayPal's fiscal year 2022 figures, is its working capital positive? If working capital isn't a meaningful metric for this particular company, please indicate that and provide your reasoning.
+
+Gold answer: Yes. Paypal has a positive working capital of $ 1.6Bn as of FY2022 end.
+
+Candidate answer: Yes, working capital is positive at 12,416 million USD. However, this metric has limited meaningfulness for PayPal because current assets and current liabilities include large offsetting customer fund items (receivables of 36,357M and payables of 40,107M) that represent customer accounts rather than operational working capital needs.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

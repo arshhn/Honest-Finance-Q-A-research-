@@ -1,0 +1,179 @@
+=== ITEM id=fb-00222-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: Yes. The quick ratio is 1.57, calculated as (cash and cash equivalents+Short term investments+Accounts receivable, net+receivables from related parties)/ (current liabilities).
+
+Candidate answer: Yes — AMD's FY22 quick ratio of about 1.57x indicates a reasonably healthy liquidity profile. Quick ratio = (current assets excluding inventories and prepaid/other current assets) / total current liabilities = ($4,835M cash and equivalents + $1,020M short-term investments + $4,126M accounts receivable, net + $2M receivables from related parties) / $6,369M total current liabilities = $9,983M / $6,369M ≈ 1.57. This means AMD held roughly $1.57 of highly liquid assets per $1.00 of current liabilities at December 31, 2022, comfortably above 1.0x, so it could cover near-term obligations without relying on selling its $3,771M of inventories. (For context, the FY21 quick ratio was ($2,535M + $1,073M + $2,706M + $2M) / $4,240M = $6,316M / $4,240M ≈ 1.49, so liquidity improved modestly year over year.) The quick ratio is a relevant liquidity measure here because AMD is a product (semiconductor) company with meaningful inventory that the quick ratio appropriately excludes.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00222-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: Yes. The quick ratio is 1.57, calculated as (cash and cash equivalents+Short term investments+Accounts receivable, net+receivables from related parties)/ (current liabilities).
+
+Candidate answer: Yes, AMD's quick ratio for FY22 is approximately 1.77 ((Total current assets $15,019M − Inventories $3,771M) / Total current liabilities $6,369M = $11,248M / $6,369M ≈ 1.77), which is above 1.0 and indicates a reasonably healthy liquidity profile, as AMD can cover its current liabilities with its more liquid current assets without needing to sell inventory.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00288-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was there any drop in Cash & Cash equivalents between FY 2023 and Q2 of FY2024?
+
+Gold answer: Yes, there was a decline of ~42% between FY2023 and Q2 of FY 2024.
+
+Candidate answer: Yes, cash and cash equivalents decreased by $781 million (from $1,874 million at January 28, 2023 to $1,093 million at July 29, 2023).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00288-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was there any drop in Cash & Cash equivalents between FY 2023 and Q2 of FY2024?
+
+Gold answer: Yes, there was a decline of ~42% between FY2023 and Q2 of FY 2024.
+
+Candidate answer: Yes. Cash and cash equivalents decreased by $781 million, from $1,874 million at January 28, 2023 (fiscal 2023 year-end) to $1,093 million at July 29, 2023 (end of Q2 fiscal 2024) — a decline of about 41.7%. The document attributes the decrease primarily to the timing and volume of inventory purchases and payments, dividend payments and capital expenditures, partially offset by earnings.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00288-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was there any drop in Cash & Cash equivalents between FY 2023 and Q2 of FY2024?
+
+Gold answer: Yes, there was a decline of ~42% between FY2023 and Q2 of FY 2024.
+
+Candidate answer: Yes. Cash and cash equivalents decreased from $1,874 million at January 28, 2023 (fiscal year-end 2023) to $1,093 million at July 29, 2023 (Q2 FY2024), a decline of $781 million, primarily due to the timing and volume of inventory purchases and payments, dividend payments and capital expenditures, partially offset by earnings.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00299-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which of JPM's business segments had the lowest net revenue in 2021 Q1?
+
+Gold answer: Corporate. Its net revenue was -$473 million.
+
+Candidate answer: Commercial Banking (CB) — approximately $2.4 billion in net revenue for Q1 2021, the lowest of JPMorgan Chase's four main business segments (CCB ~$12.5B, CIB ~$14.6B, AWM ~$4.1B). Note: the residual "Corporate" line is not a business segment and was lower/negative.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00299-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which of JPM's business segments had the lowest net revenue in 2021 Q1?
+
+Gold answer: Corporate. Its net revenue was -$473 million.
+
+Candidate answer: Commercial Banking (CB)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00299-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which of JPM's business segments had the lowest net revenue in 2021 Q1?
+
+Gold answer: Corporate. Its net revenue was -$473 million.
+
+Candidate answer: Corporate ($473) million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00299-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which of JPM's business segments had the lowest net revenue in 2021 Q1?
+
+Gold answer: Corporate. Its net revenue was -$473 million.
+
+Candidate answer: Commercial Banking, with total net revenue of $2,393 million in Q1 2021 (the lowest of the four business segments; the non-business "Corporate" line was $(473) million).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00299-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which of JPM's business segments had the lowest net revenue in 2021 Q1?
+
+Gold answer: Corporate. Its net revenue was -$473 million.
+
+Candidate answer: Corporate, with total net revenue of $(473) million (a net loss) in 2021 Q1
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00394-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2022 Q2, which of JPM's business segments had the highest net income?
+
+Gold answer: Corporate & Investment Bank. Its net income was $3725 million.
+
+Candidate answer: Corporate & Investment Bank
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00394-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2022 Q2, which of JPM's business segments had the highest net income?
+
+Gold answer: Corporate & Investment Bank. Its net income was $3725 million.
+
+Candidate answer: The Corporate & Investment Bank (CIB) segment, with net income of approximately $3.7 billion in Q2 2022 (vs. roughly $3.1 billion for Consumer & Community Banking, ~$1.0 billion for Asset & Wealth Management, and ~$1.0 billion for Commercial Banking).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

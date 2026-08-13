@@ -1,0 +1,179 @@
+=== ITEM id=fsq-121-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Generate a short note on Premier's financial performance in 2017.
+
+Gold answer: Premier's financial performance in 2017 was positive. The bank's net interest income as a percentage of average earning assets increased to 4.18% due to increases in yields on earning assets. This was driven by the cumulative effect of continuing increases in the target federal funds rate by the Federal Reserve. Although the provision for loan losses reduced net credit income, non-interest income increased to its highest ratio in five years. Additionally, non-interest expenses decreased, contributing to an improved overall profitability for the year.
+
+Candidate answer: In 2017, Premier Financial Bancorp had net income of $14.819 million, up from $12.174 million in 2016 and $12.446 million in 2015. Basic EPS was $1.39 (vs $1.16 in 2016 and $1.38 in 2015) and diluted EPS was $1.38 (vs $1.15 in 2016 and $1.35 in 2015). Return on average assets (ROA) improved to 0.99% from 0.82% in 2016. Net interest margin increased to 4.18% of average earning assets (from 3.93% in 2016), non-interest income rose to 0.62% of average earning assets (a 5-year high), and non-interest expense fell to 2.90% of average earning assets (a 5-year low), with total non-interest expense decreasing by $975,000, or 2.4%. The net overhead ratio improved to 2.28% from 2.40% in 2016. Total assets were $1.493 billion at December 31, 2017 (down slightly from $1.496 billion at year-end 2016), total deposits were $1.273 billion, and total stockholders' equity was $183.4 million. The improvement in net income was largely due to increases in net interest income and non-interest income plus a decrease in non-interest expense, partially offset by a higher provision for loan losses and higher income tax expense.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-121-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Premier's financial performance in 2017?
+
+Gold answer: Premier's financial performance in 2017 was positive. The bank's net interest income as a percentage of average earning assets increased to 4.18% due to increases in yields on earning assets. This was driven by the cumulative effect of continuing increases in the target federal funds rate by the Federal Reserve. Although the provision for loan losses reduced net credit income, non-interest income increased to its highest ratio in five years. Additionally, non-interest expenses decreased, contributing to an improved overall profitability for the year.
+
+Candidate answer: Premier Financial Bancorp's 2017 performance showed net income of $14.819 million (up from $12.174 million in 2016), basic earnings per share of $1.39 (up from $1.16), and return on assets of 0.99% (up from 0.82%). The company had total assets of $1.493 billion, deposits of $1.273 billion, stockholders' equity of $183.4 million, and a net interest margin of 4.18%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-121-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Premier's financial performance in 2017?
+
+Gold answer: Premier's financial performance in 2017 was positive. The bank's net interest income as a percentage of average earning assets increased to 4.18% due to increases in yields on earning assets. This was driven by the cumulative effect of continuing increases in the target federal funds rate by the Federal Reserve. Although the provision for loan losses reduced net credit income, non-interest income increased to its highest ratio in five years. Additionally, non-interest expenses decreased, contributing to an improved overall profitability for the year.
+
+Candidate answer: In 2017 Premier's net income was $14.819 million, up from $12.174 million in 2016, with basic EPS of $1.39 (diluted $1.38) versus $1.16 ($1.15) in 2016. Return on average assets improved to 0.99% from 0.82%, and return on average earning assets was 1.07%. The net interest margin rose to 4.18% of average earning assets from 3.93%, non-interest income increased 5.7% (0.62% of average earning assets), and non-interest expense decreased $975,000, or 2.4% (2.90% of average earning assets), improving the net overhead ratio to 2.28% from 2.40%; these gains more than offset a higher loan loss provision (0.18% of average earning assets) and higher income tax expense. Total assets were $1.493 billion, deposits $1.273 billion and stockholders' equity $183.4 million at December 31, 2017, with total loans up $24.2 million, or 2.4%, and capital ratios of 13.9% CET1, 14.4% Tier 1, 15.6% total capital and a 10.7% leverage ratio.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-121-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Premier's financial performance in 2017?
+
+Gold answer: Premier's financial performance in 2017 was positive. The bank's net interest income as a percentage of average earning assets increased to 4.18% due to increases in yields on earning assets. This was driven by the cumulative effect of continuing increases in the target federal funds rate by the Federal Reserve. Although the provision for loan losses reduced net credit income, non-interest income increased to its highest ratio in five years. Additionally, non-interest expenses decreased, contributing to an improved overall profitability for the year.
+
+Candidate answer: In 2017, Premier Financial Bancorp had net income of $14.819 million, up from $12.174 million in 2016 and $12.446 million in 2015. Basic EPS was $1.39 (vs $1.16 in 2016) and diluted EPS was $1.38 (vs $1.15 in 2016). ROA improved to 0.99% from 0.82% in 2016. Net interest margin rose to 4.18% of average earning assets, non-interest income increased to 0.62% of average earning assets, and non-interest expense fell to 2.90% of average earning assets (total non-interest expense down $975,000, or 2.4%). The net overhead ratio improved to 2.28% from 2.40% in 2016. Total assets were $1.493 billion at December 31, 2017, total deposits were $1.273 billion, and total stockholders' equity was $183.4 million. The increase in net income was largely due to higher net interest income and non-interest income along with lower non-interest expense, partly offset by a higher loan loss provision and higher income tax expense.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-128-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many shares of common stock were outstanding as of February 8, 2019?
+
+Gold answer: As of February 8, 2019, there were 368,272,261 shares of the registrant's common stock outstanding.
+
+Candidate answer: 368,272,261 shares
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-128-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many shares of common stock were outstanding as of February 8, 2019?
+
+Gold answer: As of February 8, 2019, there were 368,272,261 shares of the registrant's common stock outstanding.
+
+Candidate answer: 368,272,261 shares of common stock
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-128-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many shares of common stock were outstanding as of February 8, 2019?
+
+Gold answer: As of February 8, 2019, there were 368,272,261 shares of the registrant's common stock outstanding.
+
+Candidate answer: 368,272,261 shares
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-128-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many shares of common stuck were outstanding is of February 8, 2019?
+
+Gold answer: As of February 8, 2019, there were 368,272,261 shares of the registrant's common stock outstanding.
+
+Candidate answer: 368,272,261 shares
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-128-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many shares of common stuck were outstanding is of February 8, 2019?
+
+Gold answer: As of February 8, 2019, there were 368,272,261 shares of the registrant's common stock outstanding.
+
+Candidate answer: 368,272,261 shares of common stock
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-128-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many shares of common stuck were outstanding is of February 8, 2019?
+
+Gold answer: As of February 8, 2019, there were 368,272,261 shares of the registrant's common stock outstanding.
+
+Candidate answer: 368,272,261 shares
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-134-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the fiscal year end date for the 10-K report?
+
+Gold answer: The fiscal year end date for the 10-K report is March 31.
+
+Candidate answer: March 31, 2018
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-134-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the fiscal year end date for the 10-K report?
+
+Gold answer: The fiscal year end date for the 10-K report is March 31.
+
+Candidate answer: March 31, 2018 (fiscal year ended March 31)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

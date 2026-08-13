@@ -1,0 +1,179 @@
+=== ITEM id=fb-01476-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?
+
+Gold answer: Pepsico raised full year guidance in respect of core constant currency EPS growth by 1 percentage point.
+
+Candidate answer: 1 percentage point (from 8% to 9%)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01476-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the first quarter of fiscal year 2023, by how many percentage points did Pepsico increase its full-year outlook for core constant-currency EPS growth?
+
+Gold answer: Pepsico raised full year guidance in respect of core constant currency EPS growth by 1 percentage point.
+
+Candidate answer: 1 percentage point
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01476-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the first quarter of fiscal year 2023, by how many percentage points did Pepsico increase its full-year outlook for core constant-currency EPS growth?
+
+Gold answer: Pepsico raised full year guidance in respect of core constant currency EPS growth by 1 percentage point.
+
+Candidate answer: 1 percentage point (raised to 9% from the previous 8% core constant currency EPS growth)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01476-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the first quarter of fiscal year 2023, by how many percentage points did Pepsico increase its full-year outlook for core constant-currency EPS growth?
+
+Gold answer: Pepsico raised full year guidance in respect of core constant currency EPS growth by 1 percentage point.
+
+Candidate answer: 1 percentage point (core constant currency EPS growth guidance raised from 8% to 9%)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01482-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?
+
+Gold answer: The shareholder proposal for a congruency report by Pepsico on net-zero emissions policies was defeated.
+
+Candidate answer: The proposal was defeated — shareholders voted against the net-zero congruency report proposal, which received only a small minority of votes cast (roughly 8%)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01482-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?
+
+Gold answer: The shareholder proposal for a congruency report by Pepsico on net-zero emissions policies was defeated.
+
+Candidate answer: The shareholder proposal requesting a congruency report on net-zero policies did not pass — it failed to receive majority shareholder support (the PepsiCo board recommended voting against it)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01482-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?
+
+Gold answer: The shareholder proposal for a congruency report by Pepsico on net-zero emissions policies was defeated.
+
+Candidate answer: Defeated
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01482-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?
+
+Gold answer: The shareholder proposal for a congruency report by Pepsico on net-zero emissions policies was defeated.
+
+Candidate answer: It was defeated: 19,718,780 For, 977,228,788 Against, 23,200,321 Abstentions, and 172,969,325 Broker Non-Votes.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01482-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?
+
+Gold answer: The shareholder proposal for a congruency report by Pepsico on net-zero emissions policies was defeated.
+
+Candidate answer: The proposal was defeated: For 19,718,780; Against 977,228,788; Abstain 23,200,321; Broker Non-Votes 172,969,325.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01482-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In the May 3, 2023 Pepsico Annual General Meeting, how did shareholders vote on the proposal requesting that Pepsico issue a congruency report regarding its net-zero emissions policies?
+
+Gold answer: The shareholder proposal for a congruency report by Pepsico on net-zero emissions policies was defeated.
+
+Candidate answer: The proposal was defeated. Votes: 19,718,780 for, 977,228,788 against, 23,200,321 abstain.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01482-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In the May 3, 2023 Pepsico Annual General Meeting, how did shareholders vote on the proposal requesting that Pepsico issue a congruency report regarding its net-zero emissions policies?
+
+Gold answer: The shareholder proposal for a congruency report by Pepsico on net-zero emissions policies was defeated.
+
+Candidate answer: The proposal was defeated: 19,718,780 votes For, 977,228,788 Against, 23,200,321 Abstain, and 172,969,325 Broker Non-Votes.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01482-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In the May 3, 2023 Pepsico Annual General Meeting, how did shareholders vote on the proposal requesting that Pepsico issue a congruency report regarding its net-zero emissions policies?
+
+Gold answer: The shareholder proposal for a congruency report by Pepsico on net-zero emissions policies was defeated.
+
+Candidate answer: The proposal was defeated: For 19,718,780; Against 977,228,788; Abstain 23,200,321; Broker Non-Votes 172,969,325.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

@@ -1,0 +1,179 @@
+=== ITEM id=fb-00563-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking at AMD's segments other than Embedded, which one saw the largest percentage growth in sales between FY21 and FY22?
+
+Gold answer: Data Center
+
+Candidate answer: Data Center, which grew about 64% (from $3,694 million in FY2021 to $6,043 million in FY2022), versus Gaming's ~21% growth and Client's ~10% decline.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00563-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking at AMD's segments other than Embedded, which one saw the largest percentage growth in sales between FY21 and FY22?
+
+Gold answer: Data Center
+
+Candidate answer: Data Center, which grew about 64% (from $3,694 million in FY2021 to $6,043 million in FY2022), compared to Gaming's growth of about 21% and Client's decline of 10%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00566-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?
+
+Gold answer: No. Verizon's debt decreased by $229 million.
+
+Candidate answer: Yes, Verizon increased debt
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00566-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?
+
+Gold answer: No. Verizon's debt decreased by $229 million.
+
+Candidate answer: No, not materially. Verizon's total debt (long-term debt plus debt maturing within one year) was roughly flat at about $150.6 billion at year-end 2022 versus about $150.9 billion at year-end 2021 — a slight decrease of roughly $0.3 billion.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00566-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?
+
+Gold answer: No. Verizon's debt decreased by $229 million.
+
+Candidate answer: Yes, Verizon increased its total debt on the balance sheet between FY2021 and FY2022, largely due to financing for the TracFone acquisition and C-band spectrum license purchases.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00566-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?
+
+Gold answer: No. Verizon's debt decreased by $229 million.
+
+Candidate answer: No
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00566-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?
+
+Gold answer: No. Verizon's debt decreased by $229 million.
+
+Candidate answer: No. Verizon's total debt decreased slightly, from $150,868 million in 2021 to $150,639 million in 2022 (a decline of about $229 million).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00566-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?
+
+Gold answer: No. Verizon's debt decreased by $229 million.
+
+Candidate answer: No, Verizon's total debt decreased from $150,868 million (2021) to $150,639 million (2022)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00566-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Verizon's total debt reported on the balance sheet rise from fiscal year 2021 to fiscal year 2022?
+
+Gold answer: No. Verizon's debt decreased by $229 million.
+
+Candidate answer: No
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00566-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Verizon's total debt reported on the balance sheet rise from fiscal year 2021 to fiscal year 2022?
+
+Gold answer: No. Verizon's debt decreased by $229 million.
+
+Candidate answer: No. Total debt slightly decreased, from $150,868 million at December 31, 2021 to $150,639 million at December 31, 2022, a decline of $229 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00566-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Verizon's total debt reported on the balance sheet rise from fiscal year 2021 to fiscal year 2022?
+
+Gold answer: No. Verizon's debt decreased by $229 million.
+
+Candidate answer: No, Verizon's total debt on the balance sheet declined slightly from $150,868 million at year-end 2021 to $150,639 million at year-end 2022
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00585-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Comparing FY2021 to FY2022, how did Boeing's effective tax rate change?
+
+Gold answer: Effective tax rate in FY2022 was 0.62%, compared to  -14.76% in FY2021.
+
+Candidate answer: Boeing's effective tax position shifted from a tax benefit of approximately 14.8% in FY2021 (benefit on losses) to a small tax expense of approximately 0.6% in FY2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

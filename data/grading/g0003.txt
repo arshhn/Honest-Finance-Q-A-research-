@@ -1,0 +1,179 @@
+=== ITEM id=fb-00283-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much does Pfizer expect to pay to spin off Upjohn in the future in USD million?
+
+Gold answer: 77.78
+
+Candidate answer: Approximately $70 million USD (about 10% of the roughly $700 million of total expected Upjohn separation costs remains, since approximately 90% had already been incurred through the second quarter of 2023)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00283-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How much does Pfizer expect to pay to spin off Upjohn in the future in USD million?
+
+Gold answer: 77.78
+
+Candidate answer: approximately $700 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00283-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the projected future payment amount, in USD million, that Pfizer anticipates for the Upjohn spin-off?
+
+Gold answer: 77.78
+
+Candidate answer: Approximately $70 million (based on total expected separation costs of $700 million, with approximately 90% already incurred through Q2 2023, leaving approximately 10% for future payments)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00283-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the projected future payment amount, in USD million, that Pfizer anticipates for the Upjohn spin-off?
+
+Gold answer: 77.78
+
+Candidate answer: Approximately $70 million USD (total expected Upjohn separation costs are about $700 million, of which roughly 90% had been incurred through Q2 2023, leaving about 10%, or ~$70 million, still to be paid)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00283-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the projected future payment amount, in USD million, that Pfizer anticipates for the Upjohn spin-off?
+
+Gold answer: 77.78
+
+Candidate answer: approximately $700 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00288-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Cash & Cash equivalents decrease from FY 2023 to Q2 of FY2024?
+
+Gold answer: Yes, there was a decline of ~42% between FY2023 and Q2 of FY 2024.
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00288-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Cash & Cash equivalents decrease from FY 2023 to Q2 of FY2024?
+
+Gold answer: Yes, there was a decline of ~42% between FY2023 and Q2 of FY 2024.
+
+Candidate answer: Yes. Cash and cash equivalents decreased from $1,874 million at January 28, 2023 (fiscal 2023 year-end) to $1,093 million at July 29, 2023 (Q2 fiscal 2024), a decrease of $781 million (about 42%), primarily due to the timing and volume of inventory purchases and payments, dividend payments and capital expenditures, partially offset by earnings.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00288-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Cash & Cash equivalents decrease from FY 2023 to Q2 of FY2024?
+
+Gold answer: Yes, there was a decline of ~42% between FY2023 and Q2 of FY 2024.
+
+Candidate answer: Yes, cash and cash equivalents decreased from $1,874 million as of January 28, 2023 (FY2023 year-end) to $1,093 million as of July 29, 2023 (Q2 FY2024)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00299-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among JPM's business segments, which one recorded the smallest net revenue during Q1 2021?
+
+Gold answer: Corporate. Its net revenue was -$473 million.
+
+Candidate answer: Corporate segment with $(473) million in net revenue
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00299-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among JPM's business segments, which one recorded the smallest net revenue during Q1 2021?
+
+Gold answer: Corporate. Its net revenue was -$473 million.
+
+Candidate answer: Commercial Banking, with total net revenue of $2,393 million in Q1 2021 (the lowest of the business segments; the non-operating Corporate line was $(473) million)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00299-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among JPM's business segments, which one recorded the smallest net revenue during Q1 2021?
+
+Gold answer: Corporate. Its net revenue was -$473 million.
+
+Candidate answer: Corporate, with total net revenue of $(473) million in Q1 2021 (a net loss), the smallest among JPM's segments
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00302-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+
+Gold answer: Yes, change in PPNE was positive year over year
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

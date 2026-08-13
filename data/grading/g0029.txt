@@ -1,0 +1,179 @@
+=== ITEM id=fb-01491-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of August 30, 2023, how much cash did JnJ receive from separating Kenvue (previously the Consumer Health business segment)?
+
+Gold answer: JnJ realised $13.2 billion in cash proceeds from the separation of Kenvue.
+
+Candidate answer: $13.2 billion
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01491-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of August 30, 2023, how much cash did JnJ receive from separating Kenvue (previously the Consumer Health business segment)?
+
+Gold answer: JnJ realised $13.2 billion in cash proceeds from the separation of Kenvue.
+
+Candidate answer: $13.2 billion in cash proceeds, from the Kenvue debt offering and initial public offering (with J&J retaining a 9.5% equity stake in Kenvue).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01491-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of August 30, 2023, how much cash did JnJ receive from separating Kenvue (previously the Consumer Health business segment)?
+
+Gold answer: JnJ realised $13.2 billion in cash proceeds from the separation of Kenvue.
+
+Candidate answer: $13.2 billion
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01858-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has 3M consistently maintained a steady pattern in its dividend payouts?
+
+Gold answer: Yes, not only they distribute the dividends on a routine basis, 3M has also been increasing the per share dividend for consecutive 65 years
+
+Candidate answer: Yes, 3M has consistently maintained a steady pattern in its dividend payouts, having increased dividends for 65 consecutive years.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01858-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has 3M consistently maintained a steady pattern in its dividend payouts?
+
+Gold answer: Yes, not only they distribute the dividends on a routine basis, 3M has also been increasing the per share dividend for consecutive 65 years
+
+Candidate answer: Yes. The filing indicates a steady, consistent dividend pattern: in February 2023 3M declared a first-quarter 2023 dividend of $1.50 per share, a 1 percent increase, marking the 65th consecutive year of dividend increases, and in May 2023 it declared a second-quarter 2023 dividend of $1.50 per share.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01865-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Excluding M&A effects, which segment held back 3M's total growth in 2022?
+
+Gold answer: The consumer segment shrunk by 0.9% organically.
+
+Candidate answer: Consumer segment held back 3M's total growth with negative organic sales of (0.9)% versus total company organic sales growth of 1.2%
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01865-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Excluding M&A effects, which segment held back 3M's total growth in 2022?
+
+Gold answer: The consumer segment shrunk by 0.9% organically.
+
+Candidate answer: The Consumer segment. Excluding acquisitions and divestitures, Consumer was the only segment with negative organic sales growth in 2022 at (0.9)%, versus positive organic growth for Safety and Industrial (1.0%), Transportation and Electronics (1.2%) and Health Care (3.2%), dragging on the total company organic growth of 1.2%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01865-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Excluding M&A effects, which segment held back 3M's total growth in 2022?
+
+Gold answer: The consumer segment shrunk by 0.9% organically.
+
+Candidate answer: The Consumer segment, whose organic sales declined (0.9)% in 2022, holding back the Total Company's organic sales growth of 1.2%
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01911-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was MGM's interest coverage ratio using FY2022 Adjusted EBIT as the numerator and annual Interest Expense as the denominator?
+
+Gold answer: As adjusted EBIT is negative, coverage ratio is zero
+
+Candidate answer: 2.42
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01911-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was MGM's interest coverage ratio using FY2022 Adjusted EBIT as the numerator and annual Interest Expense as the denominator?
+
+Gold answer: As adjusted EBIT is negative, coverage ratio is zero
+
+Candidate answer: Approximately -3.25x. Derivation (FY2022, $ thousands): Adjusted EBIT = Adjusted EBITDAR 3,497,254 - depreciation & amortization 3,482,050 - triple-net operating lease and ground lease rent expense 1,950,566 = -1,935,362; divided by interest expense, net of amounts capitalized of 594,954 = -3.25. The negative result reflects the very large FY2022 D&A and rent charges, so MGM's Adjusted EBIT did not cover interest expense on this basis.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01911-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, what figure results from dividing MGM's Adjusted EBIT by its annual Interest Expense to determine the interest coverage ratio?
+
+Gold answer: As adjusted EBIT is negative, coverage ratio is zero
+
+Candidate answer: 2.42
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01911-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, what figure results from dividing MGM's Adjusted EBIT by its annual Interest Expense to determine the interest coverage ratio?
+
+Gold answer: As adjusted EBIT is negative, coverage ratio is zero
+
+Candidate answer: Approximately -3.25x. Derivation (FY2022, $ thousands): Adjusted EBIT = Adjusted EBITDAR 3,497,254 - depreciation & amortization 3,482,050 - triple-net operating lease and ground lease rent expense 1,950,566 = -1,935,362; divided by interest expense, net of amounts capitalized of 594,954 = -3.25. The negative result reflects the very large FY2022 D&A and rent charges, so MGM's Adjusted EBIT did not cover interest expense on this basis.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

@@ -1,0 +1,179 @@
+=== ITEM id=fb-01163-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?
+
+Gold answer: Among the three, cash flow from operations was the highest for Nike in FY2023.
+
+Candidate answer: Operating activities
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01163-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?
+
+Gold answer: Among the three, cash flow from operations was the highest for Nike in FY2023.
+
+Candidate answer: Operating activities — Nike's cash flow from operations was strongly positive in FY2023 (roughly $5.8 billion), while investing and financing activities were net cash outflows.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01163-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?
+
+Gold answer: Among the three, cash flow from operations was the highest for Nike in FY2023.
+
+Candidate answer: Operating activities brought in the most cash for Nike in FY2023, while investing and financing activities were net cash outflows.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01163-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?
+
+Gold answer: Among the three, cash flow from operations was the highest for Nike in FY2023.
+
+Candidate answer: Operating activities brought in the most cash flow at $5,841 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01163-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?
+
+Gold answer: Among the three, cash flow from operations was the highest for Nike in FY2023.
+
+Candidate answer: Operating activities, which provided $5,841 million in FY2023 (investing provided $564 million; financing used $(7,447) million).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01163-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?
+
+Gold answer: Among the three, cash flow from operations was the highest for Nike in FY2023.
+
+Candidate answer: Operating activities generated the most cash, $5,841 million, in FY2023
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01163-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Nike in FY2023, which of the three activity categories—operating, investing, or financing—generated the largest positive cash flow, or, if all were negative, showed the smallest cash outflow?
+
+Gold answer: Among the three, cash flow from operations was the highest for Nike in FY2023.
+
+Candidate answer: Operating activities generated the largest positive cash flow at $5,841 million in FY2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01163-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Nike in FY2023, which of the three activity categories—operating, investing, or financing—generated the largest positive cash flow, or, if all were negative, showed the smallest cash outflow?
+
+Gold answer: Among the three, cash flow from operations was the highest for Nike in FY2023.
+
+Candidate answer: Operating activities generated the largest positive cash flow for Nike in FY2023, at $5,841 million (vs. $564 million from investing and $(7,447) million used in financing).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01163-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Nike in FY2023, which of the three activity categories—operating, investing, or financing—generated the largest positive cash flow, or, if all were negative, showed the smallest cash outflow?
+
+Gold answer: Among the three, cash flow from operations was the highest for Nike in FY2023.
+
+Candidate answer: Operating activities, which generated $5,841 million in cash in FY2023, the largest positive figure compared to $564 million from investing activities and -$7,447 million from financing activities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01198-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For AMD's fiscal year 2022, what were the main factors behind the change in revenue?
+
+Gold answer: In 2022, AMD reported Higher sales of their EPYC server processors, higher semi-custom product sales, and the inclusion of Xilinx embedded product sales
+
+Candidate answer: 64% increase in Data Center segment revenue from EPYC server processors, 21% increase in Gaming segment revenue from semi-custom products, and significant increase in Embedded segment revenue from Xilinx acquisition, partially offset by 10% decrease in Client segment revenue from weak PC market and inventory correction.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01198-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For AMD's fiscal year 2022, what were the main factors behind the change in revenue?
+
+Gold answer: In 2022, AMD reported Higher sales of their EPYC server processors, higher semi-custom product sales, and the inclusion of Xilinx embedded product sales
+
+Candidate answer: AMD's fiscal 2022 net revenue was $23.6 billion, up 44% from $16.4 billion in 2021. The increase was driven by: (1) a 64% increase in Data Center segment revenue, primarily from higher sales of EPYC server processors; (2) a 21% increase in Gaming segment revenue, primarily from higher semi-custom product sales; and (3) a significant increase in Embedded segment revenue driven by the inclusion of Xilinx embedded product sales (following the February 2022 Xilinx acquisition). This growth was partially offset by a 10% decrease in Client segment revenue, primarily due to lower processor shipments from a weak PC market and significant inventory correction actions across the PC supply chain.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01198-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For AMD's fiscal year 2022, what were the main factors behind the change in revenue?
+
+Gold answer: In 2022, AMD reported Higher sales of their EPYC server processors, higher semi-custom product sales, and the inclusion of Xilinx embedded product sales
+
+Candidate answer: Net revenue rose 44% to $23.6 billion, driven by a 64% increase in Data Center segment revenue (higher EPYC server processor sales), a 21% increase in Gaming segment revenue (higher semi-custom product sales), and a significant increase in Embedded segment revenue (inclusion of Xilinx embedded product sales), partially offset by a 10% decrease in Client segment revenue due to a weak PC market and inventory correction actions across the PC supply chain
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

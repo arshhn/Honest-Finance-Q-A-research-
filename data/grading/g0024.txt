@@ -1,0 +1,179 @@
+=== ITEM id=fb-01254-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: During fiscal year 2022, did MGM Resorts distribute any dividends to holders of its common stock?
+
+Gold answer: Yes. MGM maintained 0.01$ per share annual dividend through out FY 2022.
+
+Candidate answer: Yes. MGM Resorts maintained an annual dividend of $0.01 per share throughout 2022, so it did pay dividends to common shareholders in FY2022 (dividends were only suspended by the Board announcement of February 8, 2023).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01254-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: During fiscal year 2022, did MGM Resorts distribute any dividends to holders of its common stock?
+
+Gold answer: Yes. MGM maintained 0.01$ per share annual dividend through out FY 2022.
+
+Candidate answer: Yes, MGM Resorts paid dividends to common shareholders during FY2022, maintaining an annual dividend of $0.01 per share throughout the year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01275-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Best Buy's FY2023, which of the three activity categories—operating, investing, or financing—generated the highest cash inflow, or if none were positive, showed the smallest cash outflow?
+
+Gold answer: Best Buy generated the most cash flow from operating activities in FY 2023 ($1.8 bn)
+
+Candidate answer: Operating activities generated the highest cash inflow at $1,824 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01275-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Best Buy's FY2023, which of the three activity categories—operating, investing, or financing—generated the highest cash inflow, or if none were positive, showed the smallest cash outflow?
+
+Gold answer: Best Buy generated the most cash flow from operating activities in FY 2023 ($1.8 bn)
+
+Candidate answer: Operating activities generated the highest cash inflow for Best Buy in FY2023, at $1,824 million (investing used $(962) million and financing used $(1,806) million).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01275-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Best Buy's FY2023, which of the three activity categories—operating, investing, or financing—generated the highest cash inflow, or if none were positive, showed the smallest cash outflow?
+
+Gold answer: Best Buy generated the most cash flow from operating activities in FY 2023 ($1.8 bn)
+
+Candidate answer: Operating activities, with total cash provided of $1,824 million (the only positive category, versus outflows of $(962) million investing and $(1,806) million financing)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01279-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For AMD in FY22, which category among operating, investing, and financing activities generated the largest positive cash flow, or if all were negative, the smallest cash outflow?
+
+Gold answer: In 2022, AMD brought in the most cashflow from Operations
+
+Candidate answer: Operating activities
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01279-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For AMD in FY22, which category among operating, investing, and financing activities generated the largest positive cash flow, or if all were negative, the smallest cash outflow?
+
+Gold answer: In 2022, AMD brought in the most cashflow from Operations
+
+Candidate answer: Operating activities, with net cash provided of $3,565 million in FY2022 (versus $1,999 million provided by investing activities and $3,264 million used in financing activities).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01279-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For AMD in FY22, which category among operating, investing, and financing activities generated the largest positive cash flow, or if all were negative, the smallest cash outflow?
+
+Gold answer: In 2022, AMD brought in the most cashflow from Operations
+
+Candidate answer: Operating activities, which generated $3,565 million of positive net cash flow in FY22 (compared to $1,999 million from investing activities and -$3,264 million from financing activities).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01290-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, who are Boeing's main customers?
+
+Gold answer: Boeing's primary customers as of FY2022 are a limited number of commercial airlines and the US government. The US government accounted for 40% of Boeing's total revenues in FY2022.
+
+Candidate answer: Commercial airlines and the U.S. government
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01290-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, who are Boeing's main customers?
+
+Gold answer: Boeing's primary customers as of FY2022 are a limited number of commercial airlines and the US government. The US government accounted for 40% of Boeing's total revenues in FY2022.
+
+Candidate answer: The document does not name any individual customers, but it identifies two main customer groups: (1) commercial airlines — the company states it depends heavily on commercial airlines and derives a significant portion of revenues from a limited number of commercial airline customers; and (2) the U.S. government — primarily defense-related programs with the U.S. Department of Defense, plus other agencies including NASA, with 40% of 2022 revenues earned pursuant to U.S. government contracts (including foreign military sales through the U.S. government).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01328-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.
+
+Gold answer: Pepsico's restructuring costs in FY2022 amounted to $411 million .
+
+Candidate answer: 0 — PepsiCo's FY2022 income statement does not present a separate restructuring cost line item (such charges are embedded in cost of sales and SG&A and disclosed only in the notes)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01328-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.
+
+Gold answer: Pepsico's restructuring costs in FY2022 amounted to $411 million .
+
+Candidate answer: 0 (PepsiCo's FY2022 income statement does not include a separately outlined restructuring costs line item)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

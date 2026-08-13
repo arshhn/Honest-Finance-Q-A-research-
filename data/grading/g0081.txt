@@ -1,0 +1,251 @@
+=== ITEM id=fsq-171-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue in 2018?
+
+Gold answer: The total revenue for fiscal year 2018 was $28.1 million.
+
+Candidate answer: $28.1 million (total revenues for the fiscal year ended March 31, 2018, up 2%, or $0.7 million, from $27.5 million in the prior fiscal year).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-175-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the main business of Sound Financial Bancorp?
+
+Gold answer: Sound Financial Bancorp's primary business involves attracting retail and commercial deposits from the public and local governments. They then invest these funds, along with borrowed funds, in various loans. These loans include:
+
+*   Mortgages on one- to four-family residences (including home equity loans and lines of credit)
+*   Loans for commercial and multifamily real estate, construction, and land
+*   Consumer and commercial business loans (including unsecured lines of credit, secured term loans, and lines of credit secured by inventory, equipment, and accounts receivable)
+
+Additionally, they offer a range of secured and unsecured consumer loan products such as:
+
+*   Manufactured home loans
+*   Floating home loans
+*   Automobile loans
+*   Boat loans
+*   Recreational vehicle loans
+
+Candidate answer: Sound Financial Bancorp is a bank holding company that attracts retail and commercial deposits and invests those funds in loans secured by residential mortgages, commercial and multifamily real estate, construction and land loans, consumer loans, and commercial business loans.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-175-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the main business of Sound Financial Bancorp?
+
+Gold answer: Sound Financial Bancorp's primary business involves attracting retail and commercial deposits from the public and local governments. They then invest these funds, along with borrowed funds, in various loans. These loans include:
+
+*   Mortgages on one- to four-family residences (including home equity loans and lines of credit)
+*   Loans for commercial and multifamily real estate, construction, and land
+*   Consumer and commercial business loans (including unsecured lines of credit, secured term loans, and lines of credit secured by inventory, equipment, and accounts receivable)
+
+Additionally, they offer a range of secured and unsecured consumer loan products such as:
+
+*   Manufactured home loans
+*   Floating home loans
+*   Automobile loans
+*   Boat loans
+*   Recreational vehicle loans
+
+Candidate answer: Sound Financial Bancorp is a Maryland-incorporated bank holding company whose business is conducted substantially through its wholly owned subsidiary, Sound Community Bank, a Washington state-chartered commercial bank. Its principal business consists of attracting retail and commercial deposits from the general public and local governments and investing those funds, along with borrowed funds, in loans — first and second mortgages on one- to four-family residences (including home equity loans and lines of credit), commercial and multifamily real estate, construction and land, consumer and commercial business loans. It also focuses on residential mortgage originations, selling many conforming loans to Fannie Mae (generally with servicing retained to generate noninterest income) while retaining others in portfolio. At December 31, 2017 it had total consolidated assets of $645.2 million, net loans of $543.4 million, deposits of $514.4 million and stockholders' equity of $65.2 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-175-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the main business of Sound Financial Bancorp?
+
+Gold answer: Sound Financial Bancorp's primary business involves attracting retail and commercial deposits from the public and local governments. They then invest these funds, along with borrowed funds, in various loans. These loans include:
+
+*   Mortgages on one- to four-family residences (including home equity loans and lines of credit)
+*   Loans for commercial and multifamily real estate, construction, and land
+*   Consumer and commercial business loans (including unsecured lines of credit, secured term loans, and lines of credit secured by inventory, equipment, and accounts receivable)
+
+Additionally, they offer a range of secured and unsecured consumer loan products such as:
+
+*   Manufactured home loans
+*   Floating home loans
+*   Automobile loans
+*   Boat loans
+*   Recreational vehicle loans
+
+Candidate answer: Sound Financial Bancorp is a bank holding company for its wholly owned subsidiary, Sound Community Bank, a Washington state-chartered commercial bank. Its principal business consists of attracting retail and commercial deposits from the general public and local governments and investing those funds, along with borrowed funds, in loans secured by first and second mortgages on one- to four-family residences (including home equity loans and lines of credit), commercial and multifamily real estate, construction and land, and consumer and commercial business loans.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-175-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the main business of Sound Financial Bancorp?
+
+Gold answer: Sound Financial Bancorp's primary business involves attracting retail and commercial deposits from the public and local governments. They then invest these funds, along with borrowed funds, in various loans. These loans include:
+
+*   Mortgages on one- to four-family residences (including home equity loans and lines of credit)
+*   Loans for commercial and multifamily real estate, construction, and land
+*   Consumer and commercial business loans (including unsecured lines of credit, secured term loans, and lines of credit secured by inventory, equipment, and accounts receivable)
+
+Additionally, they offer a range of secured and unsecured consumer loan products such as:
+
+*   Manufactured home loans
+*   Floating home loans
+*   Automobile loans
+*   Boat loans
+*   Recreational vehicle loans
+
+Candidate answer: Sound Financial Bancorp is a bank holding company whose main business consists of accepting retail and commercial deposits from the general public and local governments, and investing those funds in loans secured by mortgages on residential and commercial real estate, construction loans, commercial business loans, and consumer loans. The company also provides mortgage servicing.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-175-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the main business of Sound Financial Bancorp?
+
+Gold answer: Sound Financial Bancorp's primary business involves attracting retail and commercial deposits from the public and local governments. They then invest these funds, along with borrowed funds, in various loans. These loans include:
+
+*   Mortgages on one- to four-family residences (including home equity loans and lines of credit)
+*   Loans for commercial and multifamily real estate, construction, and land
+*   Consumer and commercial business loans (including unsecured lines of credit, secured term loans, and lines of credit secured by inventory, equipment, and accounts receivable)
+
+Additionally, they offer a range of secured and unsecured consumer loan products such as:
+
+*   Manufactured home loans
+*   Floating home loans
+*   Automobile loans
+*   Boat loans
+*   Recreational vehicle loans
+
+Candidate answer: Sound Financial Bancorp is a Maryland-incorporated bank holding company whose business is conducted substantially through its wholly owned subsidiary, Sound Community Bank, a Washington state-chartered commercial bank. Its principal business consists of attracting retail and commercial deposits from the general public and local governments and investing those funds, along with borrowed funds, in loans secured by first and second mortgages on one- to four-family residences (including home equity loans and lines of credit), commercial and multifamily real estate, construction and land, consumer loans (including manufactured home, floating home, automobile, boat and recreational vehicle loans) and commercial business loans. It also originates residential mortgage loans, many of which are sold to Fannie Mae (generally with servicing retained), with a portion retained in portfolio. At December 31, 2017 it had total consolidated assets of $645.2 million, net loans of $543.4 million, deposits of $514.4 million and stockholders' equity of $65.2 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-175-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the main business of Sound Financial Bancorp?
+
+Gold answer: Sound Financial Bancorp's primary business involves attracting retail and commercial deposits from the public and local governments. They then invest these funds, along with borrowed funds, in various loans. These loans include:
+
+*   Mortgages on one- to four-family residences (including home equity loans and lines of credit)
+*   Loans for commercial and multifamily real estate, construction, and land
+*   Consumer and commercial business loans (including unsecured lines of credit, secured term loans, and lines of credit secured by inventory, equipment, and accounts receivable)
+
+Additionally, they offer a range of secured and unsecured consumer loan products such as:
+
+*   Manufactured home loans
+*   Floating home loans
+*   Automobile loans
+*   Boat loans
+*   Recreational vehicle loans
+
+Candidate answer: Sound Financial Bancorp is a bank holding company for its wholly owned subsidiary, Sound Community Bank, a Washington state-chartered commercial bank. Its principal business consists of attracting retail and commercial deposits from the general public and local governments and investing those funds, along with borrowed funds, in loans secured by first and second mortgages on one- to four-family residences (including home equity loans and lines of credit), commercial and multifamily real estate, construction and land, and consumer and commercial business loans.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-180-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the address of Concho's headquarters?
+
+Gold answer: Concho's headquarters is located at One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701.
+
+Candidate answer: One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-180-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the address of Concho's headquarters?
+
+Gold answer: Concho's headquarters is located at One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701.
+
+Candidate answer: One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-180-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the address of Concho's headquarters?
+
+Gold answer: Concho's headquarters is located at One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701.
+
+Candidate answer: One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-180-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the address of Concho's head quarters?
+
+Gold answer: Concho's headquarters is located at One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701.
+
+Candidate answer: One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-180-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the address of Concho's head quarters?
+
+Gold answer: Concho's headquarters is located at One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701.
+
+Candidate answer: One Concho Center, 600 West Illinois Avenue, Midland, Texas 79701
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

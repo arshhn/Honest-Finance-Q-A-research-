@@ -1,0 +1,179 @@
+=== ITEM id=fb-00678-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Yes. Boeing has an improving gross margin profile as of FY2022. Gross profit improved from $3,017 million in FY2021 to $3,502 million in FY2022. Gross margin % improved from 4.8% in FY2021 to 5.3% in FY2022.
+
+Candidate answer: Yes — modestly. Boeing's gross margin has been improving off a very depressed base, though it remains far below historical levels. Approximate figures from the consolidated statements of operations: FY2020 revenue ~$58.2B vs. cost of sales ~$63.8B, i.e. gross profit of roughly -$5.7B, a gross margin of about -9.8%; FY2021 revenue ~$62.3B vs. cost of sales ~$59.2B, gross profit ~$3.0B, about 4.9%; FY2022 revenue ~$66.6B vs. cost of sales ~$63.1B, gross profit ~$3.5B, about 5.3%. So the trend is improving (-9.8% to +4.9% to +5.3%), driven by 737 MAX and 787 deliveries resuming and fewer abnormal production/charge items, but the FY2022 improvement over FY2021 is only about 40 basis points and margins are still very thin versus the low-to-mid teens Boeing earned pre-2019. Gross margin is a usable but noisy metric for Boeing: as a long-cycle aerospace and defense manufacturer using program and contract accounting, reported cost of sales absorbs large reach-forward loss charges (notably on fixed-price defense programs such as KC-46A, VC-25B and Starliner) and abnormal production costs, so period-to-period gross margin swings reflect estimate revisions and one-off charges as much as underlying unit economics. Segment operating margins, program accounting quantities, and free cash flow are more informative.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00678-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Yes. Boeing has an improving gross margin profile as of FY2022. Gross profit improved from $3,017 million in FY2021 to $3,502 million in FY2022. Gross margin % improved from 4.8% in FY2021 to 5.3% in FY2022.
+
+Candidate answer: No. Boeing's gross margin profile was not improving as of FY2022 — it remained thin/negative and did not show a clear improving trend. Boeing's income statement shows revenue less "Cost of products" and "Cost of services," and in FY2022 the company continued to record substantial abnormal charges (e.g., on the 777X, KC-46A Tanker, T-7A, and commercial 787 programs), which kept gross margin depressed and volatile rather than steadily improving relative to prior years. Because these program-specific charges (forward losses, reach-forward losses) are large, non-recurring, and tied to fixed-price development programs rather than to changes in underlying unit production efficiency, gross margin is also a somewhat less clean/useful indicator of core operating trend for Boeing than it would be for a typical manufacturer — analysts often instead track core operating margin and free cash flow to assess trajectory.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00678-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Yes. Boeing has an improving gross margin profile as of FY2022. Gross profit improved from $3,017 million in FY2021 to $3,502 million in FY2022. Gross margin % improved from 4.8% in FY2021 to 5.3% in FY2022.
+
+Candidate answer: Yes, Boeing has an improving gross margin profile as of FY2022. Gross margin improved from -9.70% in 2020 to 4.89% in 2021 to 5.30% in 2022, showing a clear positive trend.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00678-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Yes. Boeing has an improving gross margin profile as of FY2022. Gross profit improved from $3,017 million in FY2021 to $3,502 million in FY2022. Gross margin % improved from 4.8% in FY2021 to 5.3% in FY2022.
+
+Candidate answer: Yes — Boeing's gross margin is improving, though it remains very thin. Using total revenues less total costs and expenses (cost of products, cost of services, and Boeing Capital interest expense): FY2022 gross profit of $3,502 million on $66,608 million of revenue = 5.3% gross margin; FY2021 $3,017 million on $62,286 million = 4.8%; FY2020 negative $5,685 million on $58,158 million = (9.8)%. So gross margin improved by roughly 0.4 percentage points in 2022 and by about 15 percentage points versus 2020. Gross margin is a meaningful metric for Boeing as a manufacturer, but with caveats: it is unusually low for an industrial, still recovering from the 737 MAX/787 and COVID-era charges, and Boeing remained unprofitable overall (net loss attributable to shareholders of $4,935 million, or $8.30 per share, in FY2022) because R&D, G&A, and interest expense exceed the gross profit.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00678-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Yes. Boeing has an improving gross margin profile as of FY2022. Gross profit improved from $3,017 million in FY2021 to $3,502 million in FY2022. Gross margin % improved from 4.8% in FY2021 to 5.3% in FY2022.
+
+Candidate answer: Yes, Boeing's gross margin improved in FY2022, continuing a positive trend from FY2020. Using Total revenues less Cost of products and Cost of services (excluding Boeing Capital interest expense): FY2020 gross profit = $58,158M - ($54,568M + $9,232M) = -$5,642M, a gross margin of approximately -9.7%. FY2021 gross profit = $62,286M - ($49,954M + $9,283M) = $3,049M, a margin of approximately 4.9%. FY2022 gross profit = $66,608M - ($53,969M + $9,109M) = $3,530M, a margin of approximately 5.3%. So gross margin rose from roughly -9.7% in 2020 to 4.9% in 2021 to 5.3% in 2022, an improving trend, though the FY2022 improvement over FY2021 (about 0.4 percentage points) is modest.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00684-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: No. For AMCOR there has been a slight decline in gross margins by 0.8%.
+
+Candidate answer: No. Gross margin is a meaningful metric for Amcor (it is a manufacturer of plastic/flexible and rigid packaging, so it reports a true cost of sales), but the profile was not improving in FY2023 (fiscal year ended June 30, 2023). Amcor's gross margin was roughly 18-19% in FY2023 versus roughly 19-19.5% in FY2022 — i.e., roughly 40-60 basis points of contraction on net sales of about $14.7 billion (gross profit of roughly $2.8 billion). Sales grew only about 1% and that growth was driven almost entirely by raw-material cost pass-through pricing rather than volume, which mechanically dilutes the margin percentage, while volumes declined and inflation in resin, film, labor and energy outpaced price recovery. So FY2023 shows flat-to-slightly-deteriorating gross margin, not an improving trend.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00684-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: No. For AMCOR there has been a slight decline in gross margins by 0.8%.
+
+Candidate answer: No, Amcor does not have an improving gross margin profile. Gross margin declined from 21.24% in FY2021 to 19.39% in FY2022 to 18.55% in FY2023, demonstrating a deteriorating trend.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00684-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: No. For AMCOR there has been a slight decline in gross margins by 0.8%.
+
+Candidate answer: No. Amcor's gross margin has declined steadily: FY2021 21.2% ($2,732M / $12,861M), FY2022 19.4% ($2,820M / $14,544M), and FY2023 18.5% ($2,725M / $14,694M) — roughly a 270 basis point deterioration over two years, with about 84 bps of that in FY2023 alone. Sales grew ~1.0% in FY2023 while cost of sales grew ~2.1%, so gross profit fell in absolute terms ($2,820M to $2,725M) despite higher revenue. Gross margin is a meaningful metric here: Amcor is a packaging manufacturer that sells physical products, so cost of sales captures real input, resin, and conversion costs.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00684-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: No. For AMCOR there has been a slight decline in gross margins by 0.8%.
+
+Candidate answer: No. Gross margin declined: FY2021 ~21.2% ($2,732M/$12,861M), FY2022 ~19.4% ($2,820M/$14,544M), FY2023 ~18.5% ($2,725M/$14,694M). Despite rising net sales, gross margin has fallen each year, so Amcor's gross margin profile is worsening, not improving, as of FY2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00685-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Yes, the margins have been consistent, there has been a minor decline of 1.1% in gross margins between FY2022 and FY2023.
+
+Candidate answer: No. Best Buy's gross margins have historically fluctuated more than roughly 2% year-to-year, particularly during the 2020-2023 period when supply chain disruptions and competitive pricing pressures affected margins. Gross margins are a relevant and important metric for a retailer like Best Buy, as they reflect pricing power and operational efficiency in a highly competitive electronics retail market.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00685-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Yes, the margins have been consistent, there has been a minor decline of 1.1% in gross margins between FY2022 and FY2023.
+
+Candidate answer: Yes. Gross margin is a relevant and meaningful metric for Best Buy — it is a product-selling retailer, so revenue less cost of goods sold (merchandise cost, plus costs of services, warranties, and delivery/distribution) is a core measure of its economics. And historically Best Buy's gross margin rate has been quite stable, moving within roughly 1-2 percentage points a year and staying in a narrow band of about 21%-24% over the past decade-plus. Approximate reported gross profit rates by fiscal year: FY2015 ~22.5%, FY2016 ~23.0%, FY2017 ~24.0%, FY2018 ~23.4%, FY2019 ~23.2%, FY2020 ~23.2%, FY2021 ~22.1%, FY2022 ~22.6%, FY2023 ~21.5%, FY2024 ~21.9%, FY2025 ~22.6%. The largest single-year swings are on the order of 0.5-1.1 percentage points (e.g., the FY2021 pandemic-mix decline and the FY2023 decline driven by lower product margin rates and promotional activity), so the answer is yes — consistent, with year-over-year variation generally well under about 2 percentage points. Note this stability sits at a much lower level than software or services companies because consumer-electronics retail is a high-volume, low-margin business; the swing factors are product mix (services, membership, and Best Buy Health carry higher margins than computing and mobile phones), promotional intensity, and supply-chain/freight costs.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00685-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Yes, the margins have been consistent, there has been a minor decline of 1.1% in gross margins between FY2022 and FY2023.
+
+Candidate answer: Yes, gross margins are a relevant and meaningful metric for Best Buy (a consumer electronics retailer), and they have historically been fairly consistent, generally staying within roughly a 1–2 percentage point band year over year. Best Buy's gross margin has typically run in the low-to-mid 20% range (approximately 22%–24% of revenue in most recent fiscal years), with gradual, incremental changes driven by shifts in product mix (e.g., lower-margin consumer electronics vs. higher-margin services, appliances, and membership revenue), promotional intensity, and supply chain costs, rather than large year-to-year swings. There have been some modest deviations (for example, a temporary dip or rise of a couple points during unusual periods such as the pandemic-driven demand surge in 2020–2021 followed by normalization), but overall the trend has not shown fluctuations dramatically larger than about 2% in a typical year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

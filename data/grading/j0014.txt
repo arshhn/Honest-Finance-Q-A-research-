@@ -1,0 +1,131 @@
+=== ITEM id=m2-01163-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?
+
+Answer A: Operating activities brought in the most cash flow at $5,841 million
+
+Answer B: Operating activities generated the largest positive cash flow at $5,841 million in FY2023.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01163-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?
+
+Answer A: Operating activities, which provided $5,841 million in FY2023 (investing provided $564 million; financing used $(7,447) million).
+
+Answer B: Operating activities generated the largest positive cash flow for Nike in FY2023, at $5,841 million (vs. $564 million from investing and $(7,447) million used in financing).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01163-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?
+
+Answer A: Operating activities generated the most cash, $5,841 million, in FY2023
+
+Answer B: Operating activities, which generated $5,841 million in cash in FY2023, the largest positive figure compared to $564 million from investing activities and -$7,447 million from financing activities.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01198-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove revenue change as of the FY22 for AMD?
+
+Answer A: AMD's FY22 net revenue increased 44% (from $16.4 billion in 2021 to $23.6 billion in 2022) driven by: (1) a 64% increase in Data Center segment revenue primarily from higher sales of EPYC server processors, (2) a 21% increase in Gaming segment revenue primarily from higher semi-custom product sales, and (3) a significant increase in Embedded segment revenue from the inclusion of Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue due to weak PC market conditions and inventory correction.
+
+Answer B: 64% increase in Data Center segment revenue from EPYC server processors, 21% increase in Gaming segment revenue from semi-custom products, and significant increase in Embedded segment revenue from Xilinx acquisition, partially offset by 10% decrease in Client segment revenue from weak PC market and inventory correction.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01198-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove revenue change as of the FY22 for AMD?
+
+Answer A: Net revenue for FY2022 was $23.6 billion, up 44% from $16.4 billion in 2021. The increase was driven by a 64% increase in Data Center segment revenue (primarily higher EPYC server processor sales), a 21% increase in Gaming segment revenue (primarily higher semi-custom product sales), and a significant increase in Embedded segment revenue driven by the inclusion of Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue, primarily due to lower processor shipments from a weak PC market and significant inventory correction actions across the PC supply chain.
+
+Answer B: AMD's fiscal 2022 net revenue was $23.6 billion, up 44% from $16.4 billion in 2021. The increase was driven by: (1) a 64% increase in Data Center segment revenue, primarily from higher sales of EPYC server processors; (2) a 21% increase in Gaming segment revenue, primarily from higher semi-custom product sales; and (3) a significant increase in Embedded segment revenue driven by the inclusion of Xilinx embedded product sales (following the February 2022 Xilinx acquisition). This growth was partially offset by a 10% decrease in Client segment revenue, primarily due to lower processor shipments from a weak PC market and significant inventory correction actions across the PC supply chain.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01198-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove revenue change as of the FY22 for AMD?
+
+Answer A: Net revenue for FY2022 was $23.6 billion, up 44% from $16.4 billion in FY2021. The increase was driven by a 64% increase in Data Center segment revenue (higher EPYC server processor sales), a 21% increase in Gaming segment revenue (higher semi-custom product sales), and a significant increase in Embedded segment revenue (from the inclusion of Xilinx embedded product sales). This growth was partially offset by a 10% decrease in Client segment revenue due to lower processor shipments from a weak PC market and inventory correction actions across the PC supply chain.
+
+Answer B: Net revenue rose 44% to $23.6 billion, driven by a 64% increase in Data Center segment revenue (higher EPYC server processor sales), a 21% increase in Gaming segment revenue (higher semi-custom product sales), and a significant increase in Embedded segment revenue (inclusion of Xilinx embedded product sales), partially offset by a 10% decrease in Client segment revenue due to a weak PC market and inventory correction actions across the PC supply chain
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01226-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Answer A: 3M's operating margin declined 1.7 percentage points from 20.8% (2021) to 19.1% (2022). Primary drivers were: Cost of sales increased 3.0 pp due to PFAS litigation costs, higher raw materials/logistics, manufacturing headwinds from Belgium operations, and growth investments (partially offset by price increases). SG&A increased 6.1 pp primarily from Combat Arms Earplugs litigation charge (~$1.2B), PFAS exit impairments, Russia exit costs, restructuring charges, and growth investments (partially offset by restructuring benefits). Goodwill impairment added 0.8 pp from PFAS exit. R&D decreased 0.2 pp. Operating margin remains a useful metric for this company as management treats it as a key performance indicator.
+
+Answer B: Operating margin declined 1.7 percentage points due to higher PFAS litigation costs, Combat Arms Earplugs litigation charge (~$1.2 billion), increased raw materials and logistics costs, manufacturing productivity headwinds from Belgium operations shutdown and restart, impairment costs for exiting PFAS manufacturing, Russia exit costs, and divestiture restructuring charges, partially offset by selling price increases.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01226-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Answer A: 3M's operating income margin fell 1.7 percentage points, from 20.8% of net sales in FY2021 to 19.1% in FY2022. Operating margin is a useful metric for 3M (a diversified industrial manufacturer), and the change decomposes as follows (all as a percent of net sales): (1) Cost of sales rose 3.0 pp, to 56.2% from 53.2%, driven by 2022 special-item costs for significant litigation from additional commitments on PFAS-related matters at the Zwijndrecht, Belgium site, higher raw materials and logistics costs, manufacturing productivity headwinds magnified by the shutdown of certain Belgium operations and restarting previously-idled operations, and investments in growth, productivity and sustainability — partially offset by higher selling prices. (2) SG&A rose 6.1 pp, to 26.5% from 20.4%, driven by increased special-item litigation costs, primarily a ~$1.2 billion pre-tax Q2 2022 charge related to steps toward resolving Combat Arms Earplugs litigation, impairment costs related to exiting PFAS manufacturing, costs of exiting Russia, divestiture-related restructuring charges, and continued investment in key growth initiatives — partially offset by restructuring benefits and ongoing cost management. (3) Goodwill impairment expense added 0.8 pp (new in 2022), a charge on the Advanced Materials reporting unit tied to the commitment to exit PFAS manufacturing. Partially offsetting these headwinds: (4) a gain on business divestitures of 8.0 pp of sales (an 8.0 pp benefit), reflecting the Q3 2022 pre-tax gain of $2.7 billion ($2.7 billion after tax) on the split-off and combination of the Food Safety business with Neogen Corporation, and (5) R&D declined 0.2 pp, to 5.4% from 5.6%. Ongoing worldwide ERP deployment investments also affected cost of sales, SG&A and R&D. Net effect: cost of sales +3.0, SG&A +6.1, goodwill impairment +0.8, R&D -0.2, divestiture gain -8.0 = 1.7 pp of margin compression.
+
+Answer B: Operating margin is a meaningful metric for 3M (a diversified industrial manufacturer). It fell 1.7 percentage points, from 20.8% of net sales in 2021 to 19.1% in 2022. Drivers: (1) Cost of sales rose 3.0 pts (to 56.2%) on 2022 special-item costs for significant litigation from additional commitments to address PFAS matters at the Zwijndrecht, Belgium site, higher raw materials and logistics costs, manufacturing productivity headwinds magnified by the Belgium shutdown and restarting previously-idled operations, and investments in growth/productivity/sustainability, partially offset by higher selling prices. (2) SG&A rose 6.1 pts (to 26.5%) on special-item litigation costs, primarily steps toward resolving Combat Arms Earplugs litigation (a Q2 2022 pre-tax charge of approximately $1.2 billion), impairment costs from exiting PFAS manufacturing, costs of exiting Russia, divestiture-related restructuring charges, and continued investment in key growth initiatives, partially offset by restructuring benefits and ongoing cost management. (3) Goodwill impairment expense added 0.8 pts, related to the Advanced Materials reporting unit following the commitment to exit PFAS manufacturing. Partially offsetting these: (4) a gain on business divestitures of -8.0 pts, from the Q3 2022 pre-tax gain of $2.7 billion ($2.7 billion after tax) on the split-off and combination of the Food Safety business with Neogen Corporation, and (5) R&D down 0.2 pts (to 5.4%). Ongoing worldwide ERP deployment investments also affected cost of sales, SG&A and R&D.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01226-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Answer A: Operating income margin declined 1.7 percentage points in FY2022, from 20.8% to 19.1% of net sales. This was driven primarily by: (1) Cost of sales rising 3.0 points (to 56.2% of sales) due to 2022 special item litigation costs (PFAS-related commitments at the Zwijndrecht, Belgium site), higher raw materials and logistics costs, and manufacturing productivity headwinds from the Belgium shutdown/restart, partially offset by higher selling prices; and (2) SG&A rising 6.1 points (to 26.5% of sales) due to special item litigation costs — mainly a ~$1.2 billion pre-tax charge from Combat Arms Earplugs litigation — plus PFAS exit impairment costs, Russia exit costs, and divestiture-related restructuring charges, partially offset by restructuring benefits and cost management. These pressures were partially offset by an 8.0-point benefit from a gain on business divestitures (a $2.7 billion pre-tax gain from the Food Safety business split-off/combination with Neogen Corporation), but that offset was itself reduced by a 0.8-point goodwill impairment expense related to the Advanced Materials reporting unit (from 3M's exit from PFAS manufacturing). R&D expense declined slightly (0.2 points). Net effect: cost of sales and SG&A increases outweighed the divestiture gain, producing the 1.7-point margin decline.
+
+Answer B: Operating income margin is a meaningful metric for 3M (an industrial manufacturer), and it declined from 20.8% in 2021 to 19.1% in 2022, a decrease of 1.7 percentage points. The decline was driven by: (1) a higher cost of sales ratio (56.2% vs 53.2%), due to 2022 special item costs for PFAS-related litigation at the Zwijndrecht, Belgium site, higher raw materials and logistics costs, manufacturing productivity headwinds (magnified by the Belgium operations shutdown/restart), and growth/productivity/sustainability investments, partly offset by higher selling prices; (2) a higher SG&A ratio (26.5% vs 20.4%), driven by special item litigation costs including a ~$1.2 billion Q2 2022 pre-tax charge for Combat Arms Earplugs litigation, PFAS-exit impairment costs, Russia-exit costs, and divestiture-related restructuring charges, partly offset by restructuring benefits and cost management; (3) a new 0.8% goodwill impairment charge related to the Advanced Materials reporting unit from the PFAS manufacturing exit. These were partially offset by (4) a lower R&D ratio (5.4% vs 5.6%) and (5) an 8.0% gain on business divestitures (the $2.7 billion pre-tax gain on the Food Safety business split-off/combination with Neogen).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01244-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has CVS Health paid dividends to common shareholders in Q2 of FY2022?
+
+Answer A: Yes
+
+Answer B: Yes
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01244-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has CVS Health paid dividends to common shareholders in Q2 of FY2022?
+
+Answer A: Yes. CVS Health paid a quarterly cash dividend of $0.55 per share in each quarter of 2022, including Q2 FY2022, and the document states the company has paid cash dividends every quarter since becoming a public company.
+
+Answer B: Yes. CVS Health paid a quarterly cash dividend of $0.55 per common share in each quarter of 2022, including Q2 2022, and has paid cash dividends every quarter since becoming a public company.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01244-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has CVS Health paid dividends to common shareholders in Q2 of FY2022?
+
+Answer A: Yes. CVS Health paid a quarterly cash dividend of $0.55 per share during 2022 (including Q2 2022), consistent with its practice of paying cash dividends every quarter since becoming a public company.
+
+Answer B: Yes. CVS Health paid a quarterly cash dividend of $0.55 per share during 2022 (which would include Q2 2022), and the document states the company has paid cash dividends every quarter since becoming a public company.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

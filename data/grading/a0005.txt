@@ -1,0 +1,149 @@
+=== ITEM id=fb-08286-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: By drawing conclusions from the information stated only in the income statement, what is Amazon's FY2019 net income attributable to shareholders (in USD millions)?
+
+Gold answer: $11588.00
+
+Candidate answer: $11,588 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-08286-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: By drawing conclusions from the information stated only in the income statement, what is Amazon's FY2019 net income attributable to shareholders (in USD millions)?
+
+Gold answer: $11588.00
+
+Candidate answer: $11,588 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-08286-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: By drawing conclusions from the information stated only in the income statement, what is Amazon's FY2019 net income attributable to shareholders (in USD millions)?
+
+Gold answer: $11588.00
+
+Candidate answer: $11,588 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-09724-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Coca Cola's FY2021 COGS % margin? Calculate what was asked by utilizing the line items clearly shown in the income statement.
+
+Gold answer: 39.7%
+
+Candidate answer: FY2021 COGS margin = 15,357 / 38,655 = 39.7%
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-10285-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: We need to calculate a financial metric by using information only provided within the balance sheet. Please answer the following question: what is Boeing's year end FY2018 net property, plant, and equipment (in USD millions)?
+
+Gold answer: $12645.00
+
+Candidate answer: $12,645 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-03882-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking only at the balance sheet, what net accounts receivable figure did Amcor report at the close of fiscal year 2020, expressed in millions of US dollars?
+
+Gold answer: $1616.00
+
+Candidate answer: $1,615.9 million (trade receivables, net, as of June 30, 2020)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-014-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the fiscal year end date for PCM, Inc.?
+
+Gold answer: The fiscal year end date for PCM, Inc. is December 31st.
+
+Candidate answer: December 31, 2017 (fiscal year ends December 31)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-029-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: impact of interest rate changes on operations?
+
+Gold answer: Changes in interest rates can significantly impact our operations. As we use debt to finance investments, rising interest rates increase our cost of capital, potentially reducing net investment income and impacting the value of our common stock and return on invested capital. Conversely, falling interest rates increase the likelihood of prepayment on our loans and investments. If we cannot reinvest these funds at similar or better terms, our results of operations and financial condition could be negatively affected.
+
+Candidate answer: Rising interest rates increase the company's cost of funds, which reduces net investment income. Rising interest rates may also decrease the value of fixed-rate investments and increase interest expense. Conversely, falling interest rates increase the probability of loan prepayments, making it difficult to reinvest at the same terms or rates.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-093-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many full service branch offices does CNB Bank operate?
+
+Gold answer: CNB Bank operates 41 full-service branch offices.
+
+Candidate answer: 41 full-service branch offices
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-105-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the notes from August 2017 and November 2017.
+
+Gold answer: In August 2017, the company issued \$10.3 million in Senior Secured Convertible Notes and a warrant for 1,892,972 shares of common stock at a \$3.25 exercise price. In November 2017, the company issued \$100 million in senior convertible notes: \$5 million Series A Senior Bridge Convertible Notes and \$95 million Series B Senior Secured Bridge Convertible Notes.  The November notes were for cash payments of \$5 million and secured promissory notes for \$95 million with a \$20,650,000 aggregate mandatory prepayment obligation.
+
+Candidate answer: The August 2017 Notes had a principal amount of $10,300,000 and included 1,892,972 warrants exercisable at $3.25 per share. The November 2017 Notes had a principal amount of $100,000,000 (consisting of Series A Senior Bridge Convertible Notes of $5,000,000 and Series B Senior Secured Bridge Convertible Notes of $95,000,000), with consideration consisting of $5,000,000 cash and $95,000,000 in promissory notes with approximately $20,650,000 mandatory prepayment obligation. The November notes were significantly larger and structured as bridge notes rather than straight convertible notes.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

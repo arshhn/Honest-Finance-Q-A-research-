@@ -1,0 +1,179 @@
+=== ITEM id=fsq-080-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What caused the high effective tax rate in 2017?
+
+Gold answer: The high effective tax rate in 2017 was primarily due to earnings in international jurisdictions currently under an income tax holiday and a $62.4 million expense related to the US 2017 Tax Act.
+
+Candidate answer: The 2017 reported effective tax rate of 87.8% was driven primarily by $62.4 million of expense related to the U.S. 2017 Tax Act (Tax Cuts and Jobs Act). Other items affecting it were earnings in international jurisdictions under an income tax holiday, $0.6 million of benefit from provision-to-return adjustments, a $1.9 million benefit related to impairments, $0.4 million of expense from disposition of assets, $0.6 million of expense from changes in valuation allowances, a $2.2 million benefit from excess taxes on equity compensation, a $5.8 million benefit related to restructuring charges, and a $2.1 million benefit from finalization of a transition service agreement. Excluding these items, the 2017 effective tax rate would have been 24.4%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-080-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What caused the high effective tax rate in 2017?
+
+Gold answer: The high effective tax rate in 2017 was primarily due to earnings in international jurisdictions currently under an income tax holiday and a $62.4 million expense related to the US 2017 Tax Act.
+
+Candidate answer: The 2017 effective tax rate of 87.8% (vs. 25.6% in 2016) was driven mainly by $62.4 million of expense related to the US 2017 Tax Act, along with earnings in international jurisdictions under an income tax holiday, $0.4 million expense from disposition of assets, $0.6 million expense from changes in valuation allowances, partially offset by $0.6 million benefit from provision to return adjustments, $1.9 million benefit related to impairments, $2.2 million benefit related to excess taxes on equity compensation, $5.8 million benefit related to restructuring charges, and $2.1 million benefit related to finalization of a transition service agreement. Excluding these items, the effective tax rate would have been 24.4%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-080-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What caused the nigh effective tax race in 2017?
+
+Gold answer: The high effective tax rate in 2017 was primarily due to earnings in international jurisdictions currently under an income tax holiday and a $62.4 million expense related to the US 2017 Tax Act.
+
+Candidate answer: The effective tax rate in 2017 was primarily impacted by $62.4 million of expense related to the US 2017 Tax Act (Tax Cuts and Jobs Act), which resulted in the 87.8% effective tax rate. Without this and other adjustments, the effective tax rate would have been 24.4%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-080-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What caused the nigh effective tax race in 2017?
+
+Gold answer: The high effective tax rate in 2017 was primarily due to earnings in international jurisdictions currently under an income tax holiday and a $62.4 million expense related to the US 2017 Tax Act.
+
+Candidate answer: The high 2017 effective tax rate of 87.8% was caused primarily by $62.4 million of expense related to the U.S. 2017 Tax Act (Tax Cuts and Jobs Act). It was also impacted by earnings in international jurisdictions under an income tax holiday, $0.6 million of benefit from provision-to-return adjustments, a $1.9 million benefit related to impairments, $0.4 million of expense from disposition of assets, $0.6 million of expense from changes in valuation allowances, a $2.2 million benefit from excess taxes on equity compensation, a $5.8 million benefit related to restructuring charges, and a $2.1 million benefit from finalization of a transition service agreement. Without these items the 2017 effective tax rate would have been 24.4%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-080-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What caused the nigh effective tax race in 2017?
+
+Gold answer: The high effective tax rate in 2017 was primarily due to earnings in international jurisdictions currently under an income tax holiday and a $62.4 million expense related to the US 2017 Tax Act.
+
+Candidate answer: The 2017 effective tax rate of 87.8% (vs. 25.6% in 2016) was driven mainly by $62.4 million of expense related to the US 2017 Tax Act, along with earnings in international jurisdictions under an income tax holiday, $0.4 million expense from disposition of assets, $0.6 million expense from changes in valuation allowances, partially offset by $0.6 million benefit from provision to return adjustments, $1.9 million benefit related to impairments, $2.2 million benefit related to excess taxes on equity compensation, $5.8 million benefit related to restructuring charges, and $2.1 million benefit related to finalization of a transition service agreement. Excluding these items, the effective tax rate would have been 24.4%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-084-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the aggregate market value of the voting Common Stock held by nonaffiliates on March 19, 1999?
+
+Gold answer: The aggregate market value of voting Common Stock held by nonaffiliates of the registrant was $184,044,861 based on the last reported sale price of the Common Stock on the Nasdaq consolidated transaction reporting system on March 19, 1999.
+
+Candidate answer: $184,044,861
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-084-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the aggregate market value of the voting Common Stock held by nonaffiliates on March 19, 1999?
+
+Gold answer: The aggregate market value of voting Common Stock held by nonaffiliates of the registrant was $184,044,861 based on the last reported sale price of the Common Stock on the Nasdaq consolidated transaction reporting system on March 19, 1999.
+
+Candidate answer: $184,044,861 (aggregate market value of voting Common Stock held by nonaffiliates, based on the last reported sale price on Nasdaq on March 19, 1999)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-084-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the aggregate market value of the voting Common Stock held by nonaffiliates on March 19, 1999?
+
+Gold answer: The aggregate market value of voting Common Stock held by nonaffiliates of the registrant was $184,044,861 based on the last reported sale price of the Common Stock on the Nasdaq consolidated transaction reporting system on March 19, 1999.
+
+Candidate answer: $184,044,861
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-084-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the agregate market value of the voting Common Stock helded by nonaffiliates on March 19, 1999?
+
+Gold answer: The aggregate market value of voting Common Stock held by nonaffiliates of the registrant was $184,044,861 based on the last reported sale price of the Common Stock on the Nasdaq consolidated transaction reporting system on March 19, 1999.
+
+Candidate answer: $184,044,861
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-084-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the agregate market value of the voting Common Stock helded by nonaffiliates on March 19, 1999?
+
+Gold answer: The aggregate market value of voting Common Stock held by nonaffiliates of the registrant was $184,044,861 based on the last reported sale price of the Common Stock on the Nasdaq consolidated transaction reporting system on March 19, 1999.
+
+Candidate answer: $184,044,861 (aggregate market value of voting Common Stock held by nonaffiliates, based on the last reported sale price on Nasdaq on March 19, 1999)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-084-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the agregate market value of the voting Common Stock helded by nonaffiliates on March 19, 1999?
+
+Gold answer: The aggregate market value of voting Common Stock held by nonaffiliates of the registrant was $184,044,861 based on the last reported sale price of the Common Stock on the Nasdaq consolidated transaction reporting system on March 19, 1999.
+
+Candidate answer: $184,044,861
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-092-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the financial commitment details for United's future aircraft purchases mentioned in the K-10 filings?
+
+Gold answer: As of December 31, 2017, United Airlines had a financial commitment of $22.2 billion for the acquisition of new aircraft, related spare engines, aircraft improvements, and other obligations. This includes firm commitments to purchase 228 new aircraft from Boeing and Airbus. The delivery of these aircraft is scheduled between 2018 and 2027.  In 2018, United Airlines expects to take delivery of 10 Boeing 737 MAX aircraft, seven Boeing 787 aircraft, and four Boeing 777-300ER aircraft. Additionally, they have a contract to purchase three used Boeing 767-300ER aircraft from Hawaiian Airlines, Inc., expected to be delivered in the second half of 2018.
+
+Candidate answer: As of December 31, 2017, United had firm commitments to purchase 228 new aircraft from Boeing and Airbus, with total commitments relating to aircraft acquisition, spare engines, aircraft improvements and related obligations aggregated at $22.2 billion. For 2018, the Company expected between $3.6 billion and $3.8 billion in gross capital expenditures, with expected deliveries of 10 Boeing 737 MAX aircraft, 7 Boeing 787 aircraft, and 4 Boeing 777-300ER aircraft.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

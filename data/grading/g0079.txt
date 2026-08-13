@@ -1,0 +1,179 @@
+=== ITEM id=fsq-143-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Weight Watchers International's main revenue source?
+
+Gold answer: Weight Watchers International's primary revenue sources are subscriptions for their commitment plans for Weight Watchers meetings and Online subscriptions.
+
+Candidate answer: Subscriptions - specifically, subscriptions for commitment plans for Weight Watchers meetings and Online subscriptions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-147-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Watsco's strategy for growth in existing markets?
+
+Gold answer: Watsco's strategy for growth in existing markets centers around customer service, product expansion, and technology implementation. They aim to satisfy the higher-growth, higher-margin replacement market by offering a wide range of products, maintaining a dense network of warehouses, ensuring well-stocked inventories, providing technical expertise at the point of sale, collaborating with customers on marketing, and developing technology to enhance customer service.
+
+Candidate answer: Watsco's strategy for growth in existing markets focuses on customer service, product expansion, and the implementation of technology. Specifically, they: (i) offer a broad range of product lines; (ii) maintain a strong density of warehouse locations; (iii) maintain well-stocked inventories; (iv) provide a high degree of technical expertise at point of sale; (v) collaborate with customers to advertise and market their business in local markets; and (vi) develop and implement technology to enhance customer service capabilities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-147-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Watsco's strategy for growth in existing markets?
+
+Gold answer: Watsco's strategy for growth in existing markets centers around customer service, product expansion, and technology implementation. They aim to satisfy the higher-growth, higher-margin replacement market by offering a wide range of products, maintaining a dense network of warehouses, ensuring well-stocked inventories, providing technical expertise at the point of sale, collaborating with customers on marketing, and developing technology to enhance customer service.
+
+Candidate answer: Watsco's strategy for growth in existing markets focuses on customer service, product expansion, and the implementation of technology to satisfy the needs of the higher growth, higher margin replacement market, in which customers generally demand immediate, convenient, and reliable service. It responds by (i) offering a broad range of product lines, including the equipment, parts, and supplies needed for a contractor to install or repair a central air conditioner, furnace, or refrigeration system; (ii) maintaining a strong density of warehouse locations for increased customer convenience; (iii) maintaining well-stocked inventories so orders are filled in a timely manner; (iv) providing a high degree of technical expertise at the point of sale; (v) collaborating with customers to advertise and market their business and services in local markets; and (vi) developing and implementing technology to further enhance customer service capabilities. In addition to the replacement market, Watsco also sells to the new construction market (new homes and commercial construction).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-147-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Watsco's strategy for growth in existing markets?
+
+Gold answer: Watsco's strategy for growth in existing markets centers around customer service, product expansion, and technology implementation. They aim to satisfy the higher-growth, higher-margin replacement market by offering a wide range of products, maintaining a dense network of warehouses, ensuring well-stocked inventories, providing technical expertise at the point of sale, collaborating with customers on marketing, and developing technology to enhance customer service.
+
+Candidate answer: Watsco's strategy for growth in existing markets focuses on customer service, product expansion, and the implementation of technology to satisfy the needs of the higher growth, higher margin replacement market. It responds to this by: (i) offering a broad range of product lines including equipment, parts, and supplies; (ii) maintaining a strong density of warehouse locations for customer convenience; (iii) maintaining well-stocked inventories to ensure timely order fulfillment; (iv) providing a high degree of technical expertise at the point of sale; (v) collaborating with customers to advertise and market their business and services in local markets; and (vi) developing and implementing technology to enhance customer service capabilities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-147-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Watsco's strategy for growth in existing markets?
+
+Gold answer: Watsco's strategy for growth in existing markets centers around customer service, product expansion, and technology implementation. They aim to satisfy the higher-growth, higher-margin replacement market by offering a wide range of products, maintaining a dense network of warehouses, ensuring well-stocked inventories, providing technical expertise at the point of sale, collaborating with customers on marketing, and developing technology to enhance customer service.
+
+Candidate answer: Our strategy for growth in existing markets focuses on customer service, product expansion, and the implementation of technology to satisfy the needs of the higher growth, higher margin replacement market. We respond by: (i) offering a broad range of product lines, including the necessary equipment, parts, and supplies to enable a contractor to install or repair a central air conditioner, furnace, or refrigeration system, (ii) maintaining a strong density of warehouse locations for increased customer convenience, (iii) maintaining well-stocked inventories to ensure that customer orders are filled in a timely manner, (iv) providing a high degree of technical expertise at the point of sale, (v) collaborating with customers to advertise and market their business and services in local markets, and (vi) developing and implementing technology to further enhance customer service capabilities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-147-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Watsco's strategy for growth in existing markets?
+
+Gold answer: Watsco's strategy for growth in existing markets centers around customer service, product expansion, and technology implementation. They aim to satisfy the higher-growth, higher-margin replacement market by offering a wide range of products, maintaining a dense network of warehouses, ensuring well-stocked inventories, providing technical expertise at the point of sale, collaborating with customers on marketing, and developing technology to enhance customer service.
+
+Candidate answer: Watsco's strategy for growth in existing markets focuses on customer service, product expansion, and the implementation of technology to satisfy the needs of the higher growth, higher margin replacement market, in which customers generally demand immediate, convenient and reliable service. Watsco responds to this need by: (i) offering a broad range of product lines, including the necessary equipment, parts and supplies to enable a contractor to install or repair a central air conditioner, furnace or refrigeration system; (ii) maintaining a strong density of warehouse locations for increased customer convenience; (iii) maintaining well-stocked inventories to ensure that customer orders are filled in a timely manner; (iv) providing a high degree of technical expertise at the point of sale; (v) collaborating with customers to advertise and market their business and services in local markets; and (vi) developing and implementing technology to further enhance customer service capabilities. The company believes these concepts provide a competitive advantage over smaller, less-capitalized competitors and over factory-operated distribution networks. In addition to the replacement market, Watsco also sells to the new construction market (new homes and commercial construction).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-147-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Watsco's strategy for growth in existing markets?
+
+Gold answer: Watsco's strategy for growth in existing markets centers around customer service, product expansion, and technology implementation. They aim to satisfy the higher-growth, higher-margin replacement market by offering a wide range of products, maintaining a dense network of warehouses, ensuring well-stocked inventories, providing technical expertise at the point of sale, collaborating with customers on marketing, and developing technology to enhance customer service.
+
+Candidate answer: Watsco's strategy for growth in existing markets focuses on customer service, product expansion, and implementation of technology, achieved by: (i) offering a broad range of product lines including equipment, parts, and supplies; (ii) maintaining a strong density of warehouse locations for customer convenience; (iii) maintaining well-stocked inventories to ensure timely order fulfillment; (iv) providing a high degree of technical expertise at the point of sale; (v) collaborating with customers to advertise and market their business and services in local markets; and (vi) developing and implementing technology to further enhance customer service capabilities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-155-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Sonic's plan for expanding its DVD related business?
+
+Gold answer: Sonic plans to expand its DVD-related business by focusing on professional applications, providing high-performance tools, offering flexible configurations, and expanding its range of product offerings to cater to various segments, including corporate, industrial, prosumer, and consumer markets.
+
+Candidate answer: Focus on professional applications for highest quality DVD disc production, develop high performance tools offering maximum processing power and facility efficiency, implement flexible configurations as modular workgroup solutions for easy workflow adjustment, and offer a range of product offerings targeting professional, corporate, prosumer and consumer markets including feature films, videos, recorded music, and corporate/industrial applications.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-155-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Sonic's plan for expanding its DVD related business?
+
+Gold answer: Sonic plans to expand its DVD-related business by focusing on professional applications, providing high-performance tools, offering flexible configurations, and expanding its range of product offerings to cater to various segments, including corporate, industrial, prosumer, and consumer markets.
+
+Candidate answer: Sonic expects its DVD-related business to account for an increasing portion of overall business, and plans to expand it by continuing a strategy built on four elements: (1) Focus on Professional Applications - DVD products/services aimed at video and audio professionals, continuing to evolve DVD premastering tools fully compatible with industry-standard input formats and typical professional equipment; (2) High Performance Tools - offering the highest levels of performance in processing power/sophistication and facility efficiency; (3) Flexible Configurations - continuing the modular "workgroup" DVD Creator design (separable audio, video and authoring subsystems) so facilities can rearrange DVD workflow quickly as the format evolves; and (4) Range of Product Offerings - evolving each element of the DVD premastering tool set (video, audio, authoring) to address emerging segments such as corporate/industrial, prosumer and consumer uses. In addition, Sonic introduced the simplified DVDit! authoring product line (standard and LE versions) and plans a bundling strategy - OEM bundling agreements for DVDit!-LE with web-based upgrades to the full version, possible sales through conventional computer resale channels, and bundling DVDit! copies with DVD Creator systems so professional customers can seed clients - plus phased addition of complete DVD-Audio support during the balance of 1999.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-155-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Sonic's plan for expanding its DVD related business?
+
+Gold answer: Sonic plans to expand its DVD-related business by focusing on professional applications, providing high-performance tools, offering flexible configurations, and expanding its range of product offerings to cater to various segments, including corporate, industrial, prosumer, and consumer markets.
+
+Candidate answer: Sonic expects its DVD-related business to account for an increasing portion of its overall business, continuing its strategy of: (1) focusing on professional applications by evolving DVD-related premastering tools compatible with industry-standard formats and equipment; (2) offering high-performance tools maximizing power, sophistication, and facility efficiency; (3) maintaining flexible, modular "workgroup" configurations (DVD Creator) that can be quickly rearranged to comply with the still-evolving DVD workflow; and (4) expanding its range of product offerings to address corporate, industrial, prosumer, and consumer segments, including via the newly introduced DVDit! authoring product line (standard and LE versions). For DVDit!, Sonic plans a bundling strategy with OEM partners to include DVDit!-LE with their products, offering web-based upgrades to the full version, possible sale through conventional computer industry resale channels, and bundling DVDit! with DVD Creator systems so professional customers can seed clients to leverage the professional DVD business.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-155-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Sonic's plan for expanding its DVD related business?
+
+Gold answer: Sonic plans to expand its DVD-related business by focusing on professional applications, providing high-performance tools, offering flexible configurations, and expanding its range of product offerings to cater to various segments, including corporate, industrial, prosumer, and consumer markets.
+
+Candidate answer: Sonic's plan for expanding its DVD related business includes: expecting DVD-related business to account for an increasing portion of overall business in the future; focusing on professional applications with high performance tools; offering flexible configurations to allow facilities to quickly re-arrange DVD workflow; providing a range of product offerings for corporate, industrial, prosumer, and consumer venues; introducing DVDit! as a simplified interactive video authoring tool for consumers and semi-professionals; bundling DVDit! with OEM partners and offering upgrades over the web; designing DVDit! to be compatible with professional DVD Creator systems by allowing authoring scripts to be uploaded for professional finishing; and planning phased release of DVD-Audio support while working closely with player manufacturers and content publishers.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-155-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Sonic's plan for expanding its DVD related business?
+
+Gold answer: Sonic plans to expand its DVD-related business by focusing on professional applications, providing high-performance tools, offering flexible configurations, and expanding its range of product offerings to cater to various segments, including corporate, industrial, prosumer, and consumer markets.
+
+Candidate answer: Sonic expects its DVD-related business to account for an increasing portion of overall business, and plans to expand it by: (1) continuing to focus on professional applications, evolving DVD premastering tools that are fully compliant with worldwide standards and compatible with industry-standard input formats and professional video/audio equipment; (2) offering high performance tools with the highest levels of processing power, sophistication and facility efficiency; (3) offering flexible, modular "workgroup" configurations (modular audio, video and authoring subsystems) so facilities can re-arrange DVD workflow easily as the format evolves; and (4) broadening its range of product offerings by evolving each element of its DVD premastering tool set - video, audio and authoring - to address emerging segments including corporate and industrial settings and "prosumer"/consumer venues. Related specifics include the new DVDit! authoring product line (standard and "LE" versions) to be expanded via a bundling strategy with OEM partners, with paid upgrades to the full version sold over the web and possibly through conventional computer resale channels, plus bundling DVDit! with DVD Creator systems; and introducing complete DVD-Audio support on a phased release basis during the balance of 1999, working closely with player manufacturers and early DVD-Audio content publishers.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

@@ -1,0 +1,179 @@
+=== ITEM id=fsq-197-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who manages UNG?
+
+Gold answer: The general partner of UNG, and therefore the entity responsible for its management, is United States Commodity Funds LLC (USCF).
+
+Candidate answer: United States Commodity Funds LLC (USCF), which is UNG's general partner, manages UNG.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-202-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the financial results of 1997 to those of 1996.
+
+Gold answer: In 1997, Cerus Corporation experienced significant financial growth compared to 1996. Revenue increased substantially, driven by growth in revenue from Baxter, particularly due to milestone and license fee recognition related to the platelet program. Research and development expenses also saw a notable increase, primarily attributed to investments in platelet and plasma programs, including toxicology studies, compound manufacturing development, and clinical trials. General and administrative expenses increased due to company expansion and increased personnel. Interest income rose significantly in 1997, largely due to higher average cash balances from the company's initial public offering and a private placement to Baxter.
+
+Candidate answer: In 1997, Cerus Corporation's revenue was $6.2 million, up significantly from $2.9 million in 1996, primarily due to milestone and license fee revenue of approximately $1.7 million related to the platelet program and increased development revenue from FFP and red blood cell programs. However, expenses increased substantially: Research and Development expenses rose from $12.1 million in 1996 to $19.6 million in 1997, driven by third-party toxicology studies, compound manufacturing development, and initiation of clinical trials. General and Administrative expenses increased from $2.2 million to $3.2 million. As a result, the net loss increased from $10.2 million in 1996 to $14.7 million in 1997. Interest income rose from $482,000 to $1.2 million due to higher average cash balances from the IPO proceeds. Net cash used in operating activities more than doubled from $8.9 million in 1996 to $16.6 million in 1997.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-202-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the financial results of 1997 to those of 1996.
+
+Gold answer: In 1997, Cerus Corporation experienced significant financial growth compared to 1996. Revenue increased substantially, driven by growth in revenue from Baxter, particularly due to milestone and license fee recognition related to the platelet program. Research and development expenses also saw a notable increase, primarily attributed to investments in platelet and plasma programs, including toxicology studies, compound manufacturing development, and clinical trials. General and administrative expenses increased due to company expansion and increased personnel. Interest income rose significantly in 1997, largely due to higher average cash balances from the company's initial public offering and a private placement to Baxter.
+
+Candidate answer: Cerus Corporation's 1997 results improved on the revenue line but showed much larger spending and a wider loss than 1996. Revenue earned under the Baxter Agreements rose to $6.2 million in 1997 from $2.9 million in 1996 (an increase of about $3.3 million), representing 90% of total revenue in 1997 versus 79% in 1996 (implying total revenue of roughly $6.9 million in 1997 versus roughly $3.7 million in 1996). The increase reflected approximately $1.7 million of platelet-program milestone and license fee revenue recognized in 1997 (none in 1996) plus increased FFP and red blood cell development revenue. Government grant revenue was essentially flat, approximately $660,000 in 1997 versus $758,000 in 1996. Expenses rose sharply: research and development expenses were $19.6 million in 1997 versus $12.1 million in 1996 (up about $7.5 million), driven by third-party toxicology, compound manufacturing development and clinical trial costs, higher personnel and facilities costs, and including a $5.5 million payment to Baxter in 1997 for development costs in exchange for an additional 2.2% share of platelet system adjusted product revenue. General and administrative expenses were approximately $3.2 million in 1997 versus $2.2 million in 1996 (up about $1.0 million). Interest income increased to approximately $1.2 million in 1997 from $482,000 in 1996 on higher average cash balances following the IPO and the Baxter private placement, while interest expense was roughly unchanged at about $15,000 in 1997 versus $18,000 in 1996. As a result, the net loss widened to $14.7 million in 1997 from $10.2 million in 1996 (about $4.5 million larger), and net cash used in operating activities rose to approximately $16.6 million in 1997 from approximately $8.9 million in 1996. Accumulated deficit was approximately $34.9 million at December 31, 1997, and the Company had cash and cash equivalents of approximately $11.6 million plus short-term investments of approximately $10.0 million at that date.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-202-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the financial results of 1997 to those of 1996.
+
+Gold answer: In 1997, Cerus Corporation experienced significant financial growth compared to 1996. Revenue increased substantially, driven by growth in revenue from Baxter, particularly due to milestone and license fee recognition related to the platelet program. Research and development expenses also saw a notable increase, primarily attributed to investments in platelet and plasma programs, including toxicology studies, compound manufacturing development, and clinical trials. General and administrative expenses increased due to company expansion and increased personnel. Interest income rose significantly in 1997, largely due to higher average cash balances from the company's initial public offering and a private placement to Baxter.
+
+Candidate answer: 1997 results were worse than 1996: net loss grew to $14.7 million in 1997 from $10.2 million in 1996. Total revenue increased to approximately $6.9 million in 1997 (Baxter revenue of $6.2 million, 90% of total, plus government grant revenue of $660,000) from approximately $3.7 million in 1996 (Baxter revenue of $2.9 million, 79% of total, plus government grant revenue of $758,000). R&D expenses rose to $19.6 million in 1997 from $12.1 million in 1996. G&A expenses rose to $3.2 million in 1997 from $2.2 million in 1996. Interest income rose to approximately $1.2 million in 1997 from $482,000 in 1996. Interest expense was relatively unchanged (~$15,000 vs ~$18,000). Net cash used in operating activities increased to approximately $16.6 million in 1997 from $8.9 million in 1996. At year-end 1997 the Company had cash and cash equivalents of ~$11.6 million and short-term investments of ~$10.0 million, and an accumulated deficit of ~$34.9 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-202-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the financial results of 1997 to those of 1996.
+
+Gold answer: In 1997, Cerus Corporation experienced significant financial growth compared to 1996. Revenue increased substantially, driven by growth in revenue from Baxter, particularly due to milestone and license fee recognition related to the platelet program. Research and development expenses also saw a notable increase, primarily attributed to investments in platelet and plasma programs, including toxicology studies, compound manufacturing development, and clinical trials. General and administrative expenses increased due to company expansion and increased personnel. Interest income rose significantly in 1997, largely due to higher average cash balances from the company's initial public offering and a private placement to Baxter.
+
+Candidate answer: In 1997, Cerus Corporation's revenue was $6.2 million, up significantly from $2.9 million in 1996, primarily due to milestone and license fee revenue of approximately $1.7 million related to the platelet program and increased development revenue from FFP and red blood cell programs. However, expenses increased substantially: Research and Development expenses rose from $12.1 million in 1996 to $19.6 million in 1997, driven by third-party toxicology studies, compound manufacturing development, and initiation of clinical trials. General and Administrative expenses increased from $2.2 million to $3.2 million. As a result, the net loss increased from $10.2 million in 1996 to $14.7 million in 1997. Interest income rose from $482,000 to $1.2 million due to higher average cash balances from the IPO proceeds. Net cash used in operating activities more than doubled from $8.9 million in 1996 to $16.6 million in 1997.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-202-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the financial results of 1997 to those of 1996.
+
+Gold answer: In 1997, Cerus Corporation experienced significant financial growth compared to 1996. Revenue increased substantially, driven by growth in revenue from Baxter, particularly due to milestone and license fee recognition related to the platelet program. Research and development expenses also saw a notable increase, primarily attributed to investments in platelet and plasma programs, including toxicology studies, compound manufacturing development, and clinical trials. General and administrative expenses increased due to company expansion and increased personnel. Interest income rose significantly in 1997, largely due to higher average cash balances from the company's initial public offering and a private placement to Baxter.
+
+Candidate answer: Cerus Corporation's 1997 results improved on the revenue line but showed much larger spending and a wider loss than 1996. Revenue earned under the Baxter Agreements rose to $6.2 million in 1997 from $2.9 million in 1996 (an increase of about $3.3 million), representing 90% of total revenue in 1997 versus 79% in 1996 (implying total revenue of roughly $6.9 million in 1997 versus roughly $3.7 million in 1996). The increase reflected approximately $1.7 million of platelet-program milestone and license fee revenue recognized in 1997 (none in 1996) plus increased FFP and red blood cell development revenue. Government grant revenue was essentially flat, approximately $660,000 in 1997 versus $758,000 in 1996. Expenses rose sharply: research and development expenses were $19.6 million in 1997 versus $12.1 million in 1996 (up about $7.5 million), driven by third-party toxicology, compound manufacturing development and clinical trial costs, higher personnel and facilities costs, and including a $5.5 million payment to Baxter in 1997 for development costs in exchange for an additional 2.2% share of platelet system adjusted product revenue. General and administrative expenses were approximately $3.2 million in 1997 versus $2.2 million in 1996 (up about $1.0 million). Interest income increased to approximately $1.2 million in 1997 from $482,000 in 1996 on higher average cash balances following the IPO and the Baxter private placement, while interest expense was roughly unchanged at about $15,000 in 1997 versus $18,000 in 1996. As a result, the net loss widened to $14.7 million in 1997 from $10.2 million in 1996 (about $4.5 million larger), and net cash used in operating activities rose to approximately $16.6 million in 1997 from approximately $8.9 million in 1996. Accumulated deficit was approximately $34.9 million at December 31, 1997, and the Company had cash and cash equivalents of approximately $11.6 million plus short-term investments of approximately $10.0 million at that date.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-202-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the financial results of 1997 to those of 1996.
+
+Gold answer: In 1997, Cerus Corporation experienced significant financial growth compared to 1996. Revenue increased substantially, driven by growth in revenue from Baxter, particularly due to milestone and license fee recognition related to the platelet program. Research and development expenses also saw a notable increase, primarily attributed to investments in platelet and plasma programs, including toxicology studies, compound manufacturing development, and clinical trials. General and administrative expenses increased due to company expansion and increased personnel. Interest income rose significantly in 1997, largely due to higher average cash balances from the company's initial public offering and a private placement to Baxter.
+
+Candidate answer: 1997 results were worse than 1996: net loss grew to $14.7 million in 1997 from $10.2 million in 1996. Total revenue increased to approximately $6.9 million in 1997 (Baxter revenue of $6.2 million, 90% of total, plus government grant revenue of $660,000) from approximately $3.7 million in 1996 (Baxter revenue of $2.9 million, 79% of total, plus government grant revenue of $758,000). R&D expenses rose to $19.6 million in 1997 from $12.1 million in 1996. G&A expenses rose to $3.2 million in 1997 from $2.2 million in 1996. Interest income rose to approximately $1.2 million in 1997 from $482,000 in 1996. Interest expense was relatively unchanged (~$15,000 vs ~$18,000). Net cash used in operating activities increased to approximately $16.6 million in 1997 from $8.9 million in 1996. At year-end 1997 the Company had cash and cash equivalents of ~$11.6 million and short-term investments of ~$10.0 million, and an accumulated deficit of ~$34.9 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-203-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the dual class stock structure for QAD?
+
+Gold answer: QAD has a dual class stock structure with Class B common stock having one vote per share and Class A common stock having 1/20th vote per share.
+
+Candidate answer: QAD has a dual class stock structure consisting of Class B common stock with one vote per share and Class A common stock with 1/20th vote per share, creating a 20-to-1 voting ratio. As of January 31, 2018, Class B stockholders held approximately 80% of the voting power. Class A shares have a 20% higher dividend per share than Class B shares.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-203-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the dual class stock structure for QAD?
+
+Gold answer: QAD has a dual class stock structure with Class B common stock having one vote per share and Class A common stock having 1/20th vote per share.
+
+Candidate answer: QAD has two classes of common stock, created by a recapitalization plan approved by shareholders on December 14, 2010, and traded on NASDAQ as "QADA" (Class A) and "QADB" (Class B). Class B common stock has one vote per share while Class A common stock has 1/20th of a vote per share (a 20-to-1 voting ratio in favor of Class B), and Class A carries a 20% higher dividend than Class B (in fiscal 2018 the four quarterly cash dividends were $0.072 per Class A share versus $0.06 per Class B share). As of January 31, 2018, holders of Class B stock together held approximately 80% of the voting power of outstanding capital stock, and Karl Lopker and Pamela Lopker jointly and beneficially owned about 42% of the outstanding Class A and Class B shares, representing roughly 68% of the voting power. Because of the 20-to-1 ratio, Class B holders retain majority voting control even when Class B represents as little as 5% of outstanding shares. As of July 31, 2017 there were 15,997,908 Class A and 3,212,663 Class B shares outstanding; as of March 31, 2018, 16,042,279 Class A and 3,218,246 Class B shares.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-203-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the dual class stock structure for QAD?
+
+Gold answer: QAD has a dual class stock structure with Class B common stock having one vote per share and Class A common stock having 1/20th vote per share.
+
+Candidate answer: QAD has a dual class common stock structure consisting of Class A common stock and Class B common stock. Class B common stock has one vote per share, while Class A common stock has 1/20th of a vote per share (a 20-to-1 voting ratio). Class A shares receive a 20% higher dividend than Class B shares (e.g., $0.072 per Class A share vs. $0.06 per Class B share in fiscal 2018 quarterly dividends). As of January 31, 2018, holders of Class B common stock together held approximately 80% of the voting power of outstanding capital stock, even though there are fewer Class B shares than Class A shares. Because of the 20-to-1 voting ratio, Class B holders can continue to control a majority of the combined voting power even when Class B shares represent as little as 5% of all outstanding Class A shares. As of March 31, 2018, there were 16,042,279 shares of Class A common stock outstanding and 3,218,246 shares of Class B common stock outstanding. Karl Lopker and Pamela Lopker jointly and beneficially owned approximately 42% of the outstanding Class A and Class B shares, representing approximately 68% of the voting power, giving them sufficient control to determine stockholder votes. As a result of this concentrated control, QAD qualifies as a "controlled company" and is exempt from certain NASDAQ corporate governance requirements (e.g., majority independent board, independent compensation committee).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-203-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the dual class stock structure for QAD?
+
+Gold answer: QAD has a dual class stock structure with Class B common stock having one vote per share and Class A common stock having 1/20th vote per share.
+
+Candidate answer: Class B common stock has one vote per share and Class A common stock has 1/20th vote per share (a 20-to-1 voting ratio favoring Class B)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-203-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the dual class stock structure for QAD?
+
+Gold answer: QAD has a dual class stock structure with Class B common stock having one vote per share and Class A common stock having 1/20th vote per share.
+
+Candidate answer: QAD has a dual-class common stock structure consisting of Class A common stock and Class B common stock. Class B common stock carries one vote per share, while Class A common stock carries 1/20th of a vote per share (a 20-to-1 voting ratio in favor of Class B). Class A shares receive a 20% higher dividend than Class B shares (in fiscal 2018, four quarterly cash dividends of $0.072 per Class A share and $0.06 per Class B share). There are fewer Class B shares than Class A shares. The two classes trade on NASDAQ under the symbols "QADA" (Class A) and "QADB" (Class B), and the structure was established by a Recapitalization approved by shareholders on December 14, 2010. As of January 31, 2018, Class B holders together held approximately 80% of the voting power of outstanding capital stock, and Karl Lopker and Pamela Lopker jointly and beneficially owned approximately 42% of outstanding Class A and Class B shares, representing approximately 68% of the voting power. Because of the 20-to-1 ratio, Class B holders can control a majority of combined voting power even when Class B shares represent as little as 5% of outstanding shares.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

@@ -1,0 +1,179 @@
+=== ITEM id=fb-00476-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of 2022, which of American Express' debt securities are listed for trading on a national securities exchange?
+
+Gold answer: There are none
+
+Candidate answer: None — the filing shows only Common Shares (par value $0.20) registered under Section 12(b) and trading on the NYSE under symbol AXP; no debt securities are listed as registered under Section 12(b), and Section 12(g) registration is 'None.'
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00494-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2023, what changes to its production rates is Boeing projecting?
+
+Gold answer: Boeing forecasts an increase in the production rates for the 737, 777X and 787 aircrafts in 2023.
+
+Candidate answer: Boeing projects to gradually increase 787 production to 5 per month, resume 777X production, and gradually increase 737 production rates from 31 per month based on market demand and supply chain capacity.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00494-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2023, what changes to its production rates is Boeing projecting?
+
+Gold answer: Boeing forecasts an increase in the production rates for the 737, 777X and 787 aircrafts in 2023.
+
+Candidate answer: For 2023 Boeing projects: the 787 program, currently producing at low rates, to gradually increase to 5 airplanes per month in 2023; 777X production, currently paused, to resume in 2023; and the 737 program, which has faced operational and supply chain challenges stabilizing production at 31 per month, to gradually increase production rates based on market demand and supply chain capacity.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00494-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2023, what changes to its production rates is Boeing projecting?
+
+Gold answer: Boeing forecasts an increase in the production rates for the 737, 777X and 787 aircrafts in 2023.
+
+Candidate answer: Boeing expects the 787 program to gradually increase production to 5 per month in 2023; production of the 777X, currently paused, is expected to resume in 2023; and the 737 program, which has been stabilizing at 31 per month, is planned to gradually increase based on market demand and supply chain capacity.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00517-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, did Boeing have any product or service categories that accounted for over 20% of its total revenue?
+
+Gold answer: Yes. Boeing has product and service categories that represent more than 20% of Boeing's revenue for FY2022. These categories are Commercial Airplanes which comprises 39% of total revenue, Defence which comprises 35% of total revenue and Services which comprises 26% of total revenue.
+
+Candidate answer: Yes. Commercial Airplanes (38.8%), Defense, Space & Security (34.7%), and Global Services (26.4%) all accounted for over 20% of total revenue.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00517-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, did Boeing have any product or service categories that accounted for over 20% of its total revenue?
+
+Gold answer: Yes. Boeing has product and service categories that represent more than 20% of Boeing's revenue for FY2022. These categories are Commercial Airplanes which comprises 39% of total revenue, Defence which comprises 35% of total revenue and Services which comprises 26% of total revenue.
+
+Candidate answer: Yes. Based on the FY2022 segment revenue data, three segments each exceeded 20% of total revenue of $66,608 million: Commercial Airplanes $25,867M (~38.8%), Defense, Space & Security $23,162M (~34.8%), and Global Services $17,611M (~26.4%). Boeing Capital ($199M, ~0.3%) did not.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00517-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, did Boeing have any product or service categories that accounted for over 20% of its total revenue?
+
+Gold answer: Yes. Boeing has product and service categories that represent more than 20% of Boeing's revenue for FY2022. These categories are Commercial Airplanes which comprises 39% of total revenue, Defence which comprises 35% of total revenue and Services which comprises 26% of total revenue.
+
+Candidate answer: Yes — in FY2022, Commercial Airplanes ($25,867M, ~38.8% of total revenue), Defense, Space & Security ($23,162M, ~34.8%), and Global Services ($17,611M, ~26.4%) each accounted for over 20% of Boeing's total revenue of $66,608 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00521-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?
+
+Gold answer: Ulta Beauty did not make any acquisitions in FY2023 and FY2022.
+
+Candidate answer: None — Ulta Beauty did not complete any major acquisitions in FY2023 or FY2022; its growth was organic (new stores, remodels, the Ulta Beauty at Target partnership) rather than acquisition-driven.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00521-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?
+
+Gold answer: Ulta Beauty did not make any acquisitions in FY2023 and FY2022.
+
+Candidate answer: None. The "Acquisitions, net of cash acquired" line is blank (zero) for both the fiscal year ended January 28, 2023 and the fiscal year ended January 29, 2022; the only acquisition outflow shown is $1,220 thousand in the fiscal year ended January 30, 2021. No acquisitions are named in this document.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00521-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?
+
+Gold answer: Ulta Beauty did not make any acquisitions in FY2023 and FY2022.
+
+Candidate answer: None — the "Acquisitions, net of cash acquired" line is blank (no amount reported) for both fiscal 2023 and fiscal 2022; only fiscal 2021 shows an acquisition of $1,220 thousand.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00521-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which significant acquisitions did Ulta Beauty complete during fiscal years 2023 and 2022?
+
+Gold answer: Ulta Beauty did not make any acquisitions in FY2023 and FY2022.
+
+Candidate answer: None. The consolidated statements of cash flows show no cash outflow on the "Acquisitions, net of cash acquired" line for the fiscal years ended January 28, 2023 and January 29, 2022 (the only acquisition spending shown is $1,220 thousand in the fiscal year ended January 30, 2021). The document does not name any acquisitions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00521-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which significant acquisitions did Ulta Beauty complete during fiscal years 2023 and 2022?
+
+Gold answer: Ulta Beauty did not make any acquisitions in FY2023 and FY2022.
+
+Candidate answer: None — the "Acquisitions, net of cash acquired" line is blank (no amount reported) for both fiscal 2023 and fiscal 2022; only fiscal 2021 shows an acquisition of $1,220 thousand.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

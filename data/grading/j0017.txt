@@ -1,0 +1,131 @@
+=== ITEM id=m2-01476-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?
+
+Answer A: 1 percentage point (from 8% to 9% core constant currency EPS growth)
+
+Answer B: 1 percentage point (raised to 9% from the previous 8% core constant currency EPS growth)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01476-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?
+
+Answer A: 1 percentage point (from 8% to 9%)
+
+Answer B: 1 percentage point (core constant currency EPS growth guidance raised from 8% to 9%)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01482-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?
+
+Answer A: Defeated
+
+Answer B: The proposal was defeated. Votes: 19,718,780 for, 977,228,788 against, 23,200,321 abstain.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01482-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?
+
+Answer A: It was defeated: 19,718,780 For, 977,228,788 Against, 23,200,321 Abstentions, and 172,969,325 Broker Non-Votes.
+
+Answer B: The proposal was defeated: 19,718,780 votes For, 977,228,788 Against, 23,200,321 Abstain, and 172,969,325 Broker Non-Votes.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01482-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?
+
+Answer A: The proposal was defeated: For 19,718,780; Against 977,228,788; Abstain 23,200,321; Broker Non-Votes 172,969,325.
+
+Answer B: The proposal was defeated: For 19,718,780; Against 977,228,788; Abstain 23,200,321; Broker Non-Votes 172,969,325.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01484-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: How did JnJ's US sales growth compare to international sales growth in FY2022?
+
+Answer A: In FY2022, US sales grew 3.0%, while International sales grew 9.1% on an operational basis (excluding currency effects), meaning International growth outpaced US growth by 6.1 percentage points. On a reported basis, however, US grew 3.0% while International declined (0.6)% due to negative currency translation impacts of 9.7%.
+
+Answer B: US sales growth of 3.0% was lower than international sales growth of 9.1%
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01484-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: How did JnJ's US sales growth compare to international sales growth in FY2022?
+
+Answer A: In FY2022, U.S. sales grew faster than international sales on a reported basis, but slower on an operational (constant-currency) basis. U.S. sales were $48,580 million vs. $47,156 million in 2021, up 3.0% reported (also +3.0% operational and +3.0% adjusted operational, with no currency impact). International sales were $46,363 million vs. $46,619 million, down 0.6% reported, but up 9.1% operationally (+9.3% adjusted operational), as a (9.7)% currency headwind more than offset underlying growth. So the reported gap was about 3.6 percentage points in favor of the U.S., while operationally international outgrew the U.S. by roughly 6.1 percentage points. Worldwide sales were $94,943 million, +1.3% reported and +6.1% operational.
+
+Answer B: On a reported basis U.S. sales grew faster: U.S. full-year 2022 sales of $48,580 million rose 3.0%, while International sales of $46,363 million declined 0.6%. However, that gap is entirely a currency effect — excluding translational currency, International operational growth was 9.1% (9.3% adjusted operational) versus 3.0% for the U.S., so international underlying growth actually outpaced domestic, dragged down by a 9.7% currency headwind.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01484-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: How did JnJ's US sales growth compare to international sales growth in FY2022?
+
+Answer A: In FY2022, U.S. sales grew 3.0% (reported) year-over-year, while International sales declined 0.6% (reported). So U.S. sales growth outpaced International, which actually contracted, a gap of about 3.6 percentage points.
+
+Answer B: In FY2022, J&J's U.S. (domestic) reported sales grew 3.0% while international reported sales declined 0.6%, so domestic sales growth significantly outpaced international sales growth (a gap of about 3.6 percentage points).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01487-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?
+
+Answer A: Yes, net earnings as a percent of sales increased from 20.0% in Q2 FY2022 to 20.1% in Q2 FY2023.
+
+Answer B: Yes
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01487-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?
+
+Answer A: Yes. Net earnings as a percent of sales rose slightly, from 20.0% in Q2 FY2022 to 20.1% in Q2 FY2023 — an increase of about 0.1 percentage point (net earnings of $5,144 million on $25,530 million of sales vs. $4,814 million on $24,020 million).
+
+Answer B: Yes. Net earnings as a percentage of sales rose slightly, from 20.0% in Q2 FY2022 to 20.1% in Q2 FY2023, an increase of about 0.1 percentage point
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01487-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?
+
+Answer A: Yes, it increased from 20.0% of sales in Q2 FY2022 to 20.1% of sales in Q2 FY2023.
+
+Answer B: Yes, it rose slightly, from 20.0% of sales in Q2 FY2022 to 20.1% of sales in Q2 FY2023
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01488-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which business segment of JnJ will be treated as a discontinued operation from August 30, 2023 onward?
+
+Answer A: Consumer Health
+
+Answer B: Consumer Health business
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

@@ -1,0 +1,179 @@
+=== ITEM id=fb-00302-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+
+Gold answer: Yes, change in PPNE was positive year over year
+
+Candidate answer: Yes. Pfizer's net property, plant and equipment grew from roughly $13.7 billion at year-end FY2020 to roughly $14.9 billion at year-end FY2021, an increase of about $1.2 billion (roughly 9%), reflecting COVID-19 vaccine and treatment capacity investment.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00302-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+
+Gold answer: Yes, change in PPNE was positive year over year
+
+Candidate answer: Yes, Pfizer's net property, plant and equipment (PP&E) grew from FY2020 to FY2021.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00302-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+
+Gold answer: Yes, change in PPNE was positive year over year
+
+Candidate answer: Yes, Pfizer grew its property, plant and equipment between FY20 and FY21
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00302-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+
+Gold answer: Yes, change in PPNE was positive year over year
+
+Candidate answer: Yes. Property, plant and equipment (PP&E) grew from $13,745 million at year-end 2020 to $14,882 million at year-end 2021, an increase of $1,137 million (about 8.3%).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00302-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did Pfizer grow its PPNE between FY20 and FY21?
+
+Gold answer: Yes, change in PPNE was positive year over year
+
+Candidate answer: Yes, Pfizer's PP&E grew from $13,745 million in FY2020 to $14,882 million in FY2021.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00302-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Between fiscal years 2020 and 2021, did Pfizer's PP&E increase?
+
+Gold answer: Yes, change in PPNE was positive year over year
+
+Candidate answer: Yes, Pfizer's property, plant and equipment increased
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00302-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Between fiscal years 2020 and 2021, did Pfizer's PP&E increase?
+
+Gold answer: Yes, change in PPNE was positive year over year
+
+Candidate answer: Yes. Property, plant and equipment increased from $13,745 million in 2020 to $14,882 million in 2021, an increase of $1,137 million (about 8.3%).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00302-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Between fiscal years 2020 and 2021, did Pfizer's PP&E increase?
+
+Gold answer: Yes, change in PPNE was positive year over year
+
+Candidate answer: Yes, Pfizer's PP&E increased, from $13,745 million in FY2020 to $14,882 million in FY2021.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00382-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+
+Gold answer: Las Vegas resorts contributed ~90% of company level EBITDAR during FY2022.
+
+Candidate answer: Las Vegas Strip
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00382-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+
+Gold answer: Las Vegas resorts contributed ~90% of company level EBITDAR during FY2022.
+
+Candidate answer: Las Vegas Strip Resorts. In FY2022 MGM's Las Vegas Strip Resorts segment contributed the largest share of Adjusted Property EBITDAR — roughly $2.9 billion of about $3.6 billion total segment EBITDAR (~80%), well ahead of Regional Operations (~$1.1 billion) and MGM China (which was negative, roughly -$0.4 billion, due to COVID-19 restrictions in Macau).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00382-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+
+Gold answer: Las Vegas resorts contributed ~90% of company level EBITDAR during FY2022.
+
+Candidate answer: Las Vegas Strip Resorts had the highest EBITDAR contribution for MGM in FY2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00382-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which region had the Highest EBITDAR Contribution for MGM during FY2022?
+
+Gold answer: Las Vegas resorts contributed ~90% of company level EBITDAR during FY2022.
+
+Candidate answer: Las Vegas Strip Resorts
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

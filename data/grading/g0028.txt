@@ -1,0 +1,179 @@
+=== ITEM id=fb-01484-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In FY2022, how did Johnson & Johnson's domestic (US) sales growth stack up against its international sales growth?
+
+Gold answer: US sales increased 3.0% vs international sales decline of 0.6%.
+
+Candidate answer: US sales growth of 3.0% was lower than international sales growth of 9.1%
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01484-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In FY2022, how did Johnson & Johnson's domestic (US) sales growth stack up against its international sales growth?
+
+Gold answer: US sales increased 3.0% vs international sales decline of 0.6%.
+
+Candidate answer: On a reported basis U.S. sales grew faster: U.S. full-year 2022 sales of $48,580 million rose 3.0%, while International sales of $46,363 million declined 0.6%. However, that gap is entirely a currency effect — excluding translational currency, International operational growth was 9.1% (9.3% adjusted operational) versus 3.0% for the U.S., so international underlying growth actually outpaced domestic, dragged down by a 9.7% currency headwind.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01484-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In FY2022, how did Johnson & Johnson's domestic (US) sales growth stack up against its international sales growth?
+
+Gold answer: US sales increased 3.0% vs international sales decline of 0.6%.
+
+Candidate answer: In FY2022, J&J's U.S. (domestic) reported sales grew 3.0% while international reported sales declined 0.6%, so domestic sales growth significantly outpaced international sales growth (a gap of about 3.6 percentage points).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01487-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Johnson & Johnson, did net earnings expressed as a percentage of sales rise when comparing Q2 FY2023 to Q2 FY2022?
+
+Gold answer: Yes, net earnings as a percent of sales increased from 20% in Q2 of FY2022 to 20.1% in Q2 of FY2023.
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01487-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Johnson & Johnson, did net earnings expressed as a percentage of sales rise when comparing Q2 FY2023 to Q2 FY2022?
+
+Gold answer: Yes, net earnings as a percent of sales increased from 20% in Q2 of FY2022 to 20.1% in Q2 of FY2023.
+
+Candidate answer: Yes. Net earnings as a percentage of sales rose slightly, from 20.0% in Q2 FY2022 to 20.1% in Q2 FY2023, an increase of about 0.1 percentage point
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01487-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Johnson & Johnson, did net earnings expressed as a percentage of sales rise when comparing Q2 FY2023 to Q2 FY2022?
+
+Gold answer: Yes, net earnings as a percent of sales increased from 20% in Q2 of FY2022 to 20.1% in Q2 of FY2023.
+
+Candidate answer: Yes, it rose slightly, from 20.0% of sales in Q2 FY2022 to 20.1% of sales in Q2 FY2023
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01488-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Starting on August 30, 2023, which of JnJ's business segments will be classified as a discontinued operation?
+
+Gold answer: The Consumer Health business segment will be treated as a discontinued operation from August 30, 2023 onward.
+
+Candidate answer: Consumer Health business
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01488-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Starting on August 30, 2023, which of JnJ's business segments will be classified as a discontinued operation?
+
+Gold answer: The Consumer Health business segment will be treated as a discontinued operation from August 30, 2023 onward.
+
+Candidate answer: The Consumer Health business (the former Johnson & Johnson Consumer Health segment, separated as Kenvue Inc.) will be presented as discontinued operations.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01488-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Starting on August 30, 2023, which of JnJ's business segments will be classified as a discontinued operation?
+
+Gold answer: The Consumer Health business segment will be treated as a discontinued operation from August 30, 2023 onward.
+
+Candidate answer: The Consumer Health business (Kenvue Inc., formerly J&J's Consumer Health segment) will be classified as discontinued operations.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01490-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of August 30, 2023, what dollar gain did JnJ recognize from spinning off its Consumer Health business segment?
+
+Gold answer: JnJ will make a gain of approximately $20 billion from the separation of its Consumer Health business segment.
+
+Candidate answer: Approximately $20 billion
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01490-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of August 30, 2023, what dollar gain did JnJ recognize from spinning off its Consumer Health business segment?
+
+Gold answer: JnJ will make a gain of approximately $20 billion from the separation of its Consumer Health business segment.
+
+Candidate answer: Approximately $20 billion. Johnson & Johnson will present its Consumer Health business as discontinued operations, including a gain of approximately $20 billion recognized in the third quarter of 2023 as a result of completing the Kenvue exchange offer.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01490-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of August 30, 2023, what dollar gain did JnJ recognize from spinning off its Consumer Health business segment?
+
+Gold answer: JnJ will make a gain of approximately $20 billion from the separation of its Consumer Health business segment.
+
+Candidate answer: approximately $20 billion
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

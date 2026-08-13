@@ -1,0 +1,179 @@
+=== ITEM id=fb-01009-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+
+Gold answer: As of FY2022, Pepsico primarily operates in the following geographies: North America, Latin America, Europe, Africa, Middle East, South Asia, Asia Pacific, Australia, New Zealand and China.
+
+Candidate answer: PepsiCo operates in more than 200 countries and territories worldwide, organized into its reportable segments: North America (Frito-Lay North America, Quaker Foods North America, PepsiCo Beverages North America), Latin America, Europe, Africa/Middle East/South Asia (AMESA), and Asia Pacific, Australia/New Zealand and China Region (APAC). The United States is by far its largest market (roughly 60% of net revenue).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01009-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+
+Gold answer: As of FY2022, Pepsico primarily operates in the following geographies: North America, Latin America, Europe, Africa, Middle East, South Asia, Asia Pacific, Australia, New Zealand and China.
+
+Candidate answer: PepsiCo operates globally across North America, Latin America, Europe, Africa, the Middle East, and Asia Pacific (Asia, Australia/New Zealand, and China region).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01009-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+
+Gold answer: As of FY2022, Pepsico primarily operates in the following geographies: North America, Latin America, Europe, Africa, Middle East, South Asia, Asia Pacific, Australia, New Zealand and China.
+
+Candidate answer: North America (United States and Canada), Latin America, Europe, Africa Middle East and South Asia (AMESA), and Asia Pacific Australia and New Zealand and China Region (APAC)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01009-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+
+Gold answer: As of FY2022, Pepsico primarily operates in the following geographies: North America, Latin America, Europe, Africa, Middle East, South Asia, Asia Pacific, Australia, New Zealand and China.
+
+Candidate answer: PepsiCo primarily operates worldwide — in more than 200 countries and territories — across seven geographic divisions: North America (United States and Canada, via FLNA, QFNA and PBNA), Latin America, Europe, Africa/Middle East/South Asia (AMESA), and Asia Pacific, Australia and New Zealand and China Region (APAC).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01009-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the geographies that Pepsico primarily operates in as of FY2022?
+
+Gold answer: As of FY2022, Pepsico primarily operates in the following geographies: North America, Latin America, Europe, Africa, Middle East, South Asia, Asia Pacific, Australia, New Zealand and China.
+
+Candidate answer: PepsiCo primarily operates in seven geographic/reportable segments: Frito-Lay North America (US and Canada), Quaker Foods North America (US and Canada), PepsiCo Beverages North America (US and Canada), Latin America, Europe, Africa/Middle East/South Asia (AMESA), and Asia Pacific/Australia/New Zealand/China Region (APAC) — serving customers in more than 200 countries and territories overall.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01009-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, in which geographic regions does Pepsico mainly conduct its business?
+
+Gold answer: As of FY2022, Pepsico primarily operates in the following geographies: North America, Latin America, Europe, Africa, Middle East, South Asia, Asia Pacific, Australia, New Zealand and China.
+
+Candidate answer: North America (United States and Canada), Latin America, Europe, Africa Middle East and South Asia (AMESA), and Asia Pacific Australia and New Zealand and China Region (APAC)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01009-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, in which geographic regions does Pepsico mainly conduct its business?
+
+Gold answer: As of FY2022, Pepsico primarily operates in the following geographies: North America, Latin America, Europe, Africa, Middle East, South Asia, Asia Pacific, Australia, New Zealand and China.
+
+Candidate answer: PepsiCo operates globally, serving customers and consumers in more than 200 countries and territories, organized into seven geographic reportable segments: (1) North America — Frito-Lay North America, Quaker Foods North America and PepsiCo Beverages North America (United States and Canada); (2) Latin America; (3) Europe; (4) Africa, Middle East and South Asia (AMESA); and (5) Asia Pacific, Australia and New Zealand and China Region (APAC).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01009-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2022, in which geographic regions does Pepsico mainly conduct its business?
+
+Gold answer: As of FY2022, Pepsico primarily operates in the following geographies: North America, Latin America, Europe, Africa, Middle East, South Asia, Asia Pacific, Australia, New Zealand and China.
+
+Candidate answer: PepsiCo primarily operates in seven geographic/reportable segments: Frito-Lay North America (US and Canada), Quaker Foods North America (US and Canada), PepsiCo Beverages North America (US and Canada), Latin America, Europe, Africa/Middle East/South Asia (AMESA), and Asia Pacific/Australia/New Zealand/China Region (APAC) — serving customers in more than 200 countries and territories overall.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01028-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of 2022, in which regions does American Express mainly conduct its business?
+
+Gold answer: United States, EMEA, APAC, and LACC
+
+Candidate answer: United States, EMEA (Europe, the Middle East and Africa), APAC (Asia Pacific, Australia and New Zealand), and LACC (Latin America, Canada and the Caribbean)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01028-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of 2022, in which regions does American Express mainly conduct its business?
+
+Gold answer: United States, EMEA, APAC, and LACC
+
+Candidate answer: American Express operates mainly in the United States, which generated $41,396 million of the $52,862 million consolidated total revenues net of interest expense in 2022 (about 78%), with the remainder from EMEA (Europe, the Middle East and Africa) $4,871 million, APAC (Asia Pacific, Australia and New Zealand) $3,835 million, and LACC (Latin America, Canada and the Caribbean) $2,917 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01028-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of 2022, in which regions does American Express mainly conduct its business?
+
+Gold answer: United States, EMEA, APAC, and LACC
+
+Candidate answer: United States, EMEA (Europe, Middle East and Africa), APAC (Asia Pacific, Australia and New Zealand), and LACC (Latin America, Canada and the Caribbean)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01077-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which significant acquisitions did Best Buy complete during fiscal years 2021, 2022, and 2023?
+
+Gold answer: Best Buy closed two acquisitions, both these companies were already partially owned by Best Buy, but Best Buy acquired all outstanding shares of these two companies during FY 2022: (1) Current Health Ltd and (2) Two Peaks, LLC d/b/a Yardbird Furniture
+
+Candidate answer: Current Health Ltd. and Yardbird Furniture (both in fiscal 2022). Document does not provide information about acquisitions in fiscal 2021 or 2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

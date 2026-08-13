@@ -1,0 +1,131 @@
+=== ITEM id=m2-00585-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: How does Boeing's effective tax rate in FY2022 compare to FY2021?
+
+Answer A: In FY2022, Boeing had a pretax loss of $5,022M and income tax expense of $31M, an effective tax rate of approximately -0.6% (small expense despite a loss). In FY2021, Boeing had a pretax loss of $5,033M and an income tax benefit of $743M, an effective tax rate of approximately +14.8% (benefit). So the effective rate moved from about +14.8% (net benefit) in FY2021 to about -0.6% (net expense) in FY2022, a roughly 15 percentage point unfavorable swing.
+
+Answer B: The document shows Boeing had a net loss in both years, making the 'effective tax rate' calculation unusual/less meaningful. Based on income tax (expense)/benefit relative to loss before income taxes: FY2021 = $743M benefit / $5,033M pretax loss ≈ 14.8% effective benefit rate; FY2022 = $31M expense / $5,022M pretax loss ≈ -0.6% (i.e., tax expense despite a pretax loss). So the effective tax rate swung from roughly a 14.8% benefit in 2021 to roughly a 0.6% expense in 2022, a decline/reversal of about 15.4 percentage points.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00591-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Adobe have an improving Free cashflow conversion as of FY2022?
+
+Answer A: Yes
+
+Answer B: Yes, Adobe's free cash flow has been trending upward from $5,308 million (2020) to $6,882 million (2021) to $7,396 million (2022)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00591-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Adobe have an improving Free cashflow conversion as of FY2022?
+
+Answer A: Yes. Free cash flow conversion (FCF / net income) improved in FY2022. FCF = operating cash flow less purchases of property and equipment: FY2022 = $7,838M - $442M = $7,396M vs. net income of $4,756M, a conversion of ~156%. FY2021 = $7,230M - $348M = $6,882M vs. net income of $4,822M, or ~143%; FY2020 = $5,727M - $419M = $5,308M vs. net income of $5,260M, or ~101%. So conversion rose from ~101% to ~143% to ~156%, a clear improving trend.
+
+Answer B: Yes. Free cash flow (operating cash flow less purchases of property and equipment) rose from $5,308 million in FY2020 to $6,882 million in FY2021 to $7,396 million in FY2022, and FCF conversion of net income improved from about 101% (5,308/5,260) to about 143% (6,882/4,822) to about 156% (7,396/4,756) — an upward trend.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00591-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Adobe have an improving Free cashflow conversion as of FY2022?
+
+Answer A: Yes. Free cash flow (operating cash flow minus capex) conversion, measured as FCF/Net income, improved each year: FY2020 = $5,308M/$5,260M ≈ 100.9%; FY2021 = $6,882M/$4,822M ≈ 142.7%; FY2022 = $7,396M/$4,756M ≈ 155.5%. So FY2022 shows improving free cash flow conversion versus the prior two years.
+
+Answer B: Yes, trending upward. FCF conversion (Free Cash Flow / Net Income), where FCF = operating cash flow minus purchases of property and equipment: FY2020 ~$5,308M/$5,260M = 1.01; FY2021 ~$6,882M/$4,822M = 1.43; FY2022 ~$7,396M/$4,756M = 1.56.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00601-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove the reduction in SG&A expense as a percent of net sales in FY2023?
+
+Answer A: The decline (to 23.5% of net sales from 23.9%) was driven primarily by lower marketing expenses and leverage of incentive compensation due to higher sales, partially offset by deleverage of corporate overhead from strategic investments and deleverage of store payroll and benefits from wage investments.
+
+Answer B: SG&A as a percentage of net sales decreased (to 23.5% from 23.9%) primarily due to lower marketing expenses and leverage of incentive compensation from higher sales, partially offset by deleverage of corporate overhead due to strategic investments and deleverage of store payroll and benefits due to wage investments.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00603-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove the increase in Ulta Beauty's merchandise inventories balance at end of FY2023?
+
+Answer A: The $104.2 million increase in merchandise inventories, net (to $1.6 billion from $1.5 billion) was primarily due to the opening of 47 new stores since January 29, 2022, inventory to support new brand launches and brand expansions, and inventory cost increases.
+
+Answer B: Merchandise inventories, net rose $104.2 million to $1.6 billion at the end of the fourth quarter (from $1.5 billion a year earlier), primarily due to: (1) the opening of 47 new stores since January 29, 2022; (2) inventory to support new brand launches and brand expansions; and (3) inventory cost increases.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00605-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What percent of Ulta Beauty's total spend on stock repurchases for FY 2023 occurred in Q4 of FY2023?
+
+Answer A: Approximately 36.5% (Q4 repurchases of $328.1 million divided by full-year repurchases of $900.0 million)
+
+Answer B: About 36.5%. The document (covering fiscal 2022, the year ended January 28, 2023) reports fourth-quarter repurchases of $328.1 million out of $900.0 million repurchased for the full year, i.e., 328.1 / 900.0 = 36.5%.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00605-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What percent of Ulta Beauty's total spend on stock repurchases for FY 2023 occurred in Q4 of FY2023?
+
+Answer A: Approximately 36.5% ($328.1 million Q4 repurchases out of $900.0 million total fiscal-year repurchases).
+
+Answer B: Approximately 36.5% ($328.1 million Q4 repurchases out of $900.0 million total fiscal-year repurchases).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00606-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Did Ulta Beauty's wages expense as a percent of net sales increase or decrease in FY2023?
+
+Answer A: Increased. The filing cites deleverage of store payroll and benefits due to wage investments, meaning wages expense rose as a percent of net sales.
+
+Answer B: It went up (increased). The filing attributes SG&A movement partly to deleverage of store payroll and benefits due to wage investments, i.e., wages rose as a percentage of net sales.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00651-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?
+
+Answer A: No. Adjusted EPS growth is expected to decelerate from 3.6% in 2022 to 3.5% in 2023.
+
+Answer B: No, adjusted EPS growth is projected to slow from 3.6% in 2022 to 3.5% in 2023
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00651-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?
+
+Answer A: No. Adjusted EPS growth is guided to decelerate slightly. FY2022 adjusted EPS was $10.15, up 3.6%, while the 2023 guidance is for adjusted operational EPS of $10.50, reflecting growth of 3.5% — roughly flat to marginally slower (about 10 basis points lower) than 2022's pace. (Note the 2023 figure is an operational growth measure, so it is not perfectly comparable to the 3.6% reported adjusted EPS growth in 2022.)
+
+Answer B: No — it is guided to be essentially flat to very slightly slower. The company guides 2023 adjusted operational EPS of $10.50, reflecting growth of 3.5%, versus 2022 adjusted EPS growth of 3.6%, so adjusted EPS growth is not projected to accelerate.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00669-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Answer A: Gross margin decreased in FY2022, primarily driven by: (1) one-time COVID-19 vaccine manufacturing exit related costs; (2) currency impacts in the Pharmaceutical segment; and (3) commodity inflation in the MedTech and Consumer Health segments, partially offset by supply chain benefits in the Consumer Health segment. The document does not explicitly evaluate whether gross margin is a useful metric for J&J, though it emphasizes earnings before provision for taxes as the primary profitability measure.
+
+Answer B: ANSWER: Cost of products sold increased as a percent to sales driven by: one-time COVID-19 vaccine manufacturing exit related costs, currency impacts in the Pharmaceutical segment, commodity inflation in the MedTech and Consumer Health segments, partially offset by supply chain benefits in the Consumer Health segment.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

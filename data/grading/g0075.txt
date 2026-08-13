@@ -1,0 +1,215 @@
+=== ITEM id=fsq-114-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How are dividends taxed for a Real Estate Investment Trust (REIT)?
+
+Gold answer: Dividends from REITs are generally not eligible for the preferential tax rates applicable to qualified dividend income, meaning they are taxed at the shareholder's ordinary income tax rate.
+
+Candidate answer: The REIT is generally not taxed at the corporate level on income it distributes to shareholders, provided it distributes at least 90% of its REIT taxable income (excluding net capital gains) each year. Shareholders are taxed on the dividends they receive. Under the Tax Cuts and Jobs Act (Code Section 199A), individual taxpayers and estates/trusts may deduct 20% of the aggregate amount of 'qualified REIT dividends' from their taxable income, effectively lowering the tax on that portion; qualified REIT dividends exclude any portion of a dividend classified as a capital gain dividend or as qualified dividend income, which are taxed under separate rules. Any taxable income the REIT fails to distribute (including undistributed net capital gains) is taxed to the REIT itself at regular corporate rates, though properly designated undistributed capital gains avoid taxation at the shareholder level.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-114-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How do taxes work on the money given out by a Real Estate Investment Trust as dividends?
+
+Gold answer: Dividends from REITs are generally not eligible for the preferential tax rates applicable to qualified dividend income, meaning they are taxed at the shareholder's ordinary income tax rate.
+
+Candidate answer: REITs are not taxed at the corporate level on distributed taxable income. Shareholders pay income tax on dividends as ordinary income. Under the Tax Cuts and Jobs Act, subject to income limitations, individuals, estates and trusts may deduct 20% of qualified REIT dividends (excluding capital gains and qualified dividend income). REITs must distribute at least 90% of taxable income annually to maintain REIT status. REITs pay federal corporate tax on undistributed income and may incur 4% excise tax if distributions are insufficient.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-114-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How do taxes work on the money given out by a Real Estate Investment Trust as dividends?
+
+Gold answer: Dividends from REITs are generally not eligible for the preferential tax rates applicable to qualified dividend income, meaning they are taxed at the shareholder's ordinary income tax rate.
+
+Candidate answer: Because the company qualifies as a REIT under Sections 856-860 of the Internal Revenue Code, with limited exceptions it is not taxed at the corporate level under Federal and certain state income tax laws on the taxable income it distributes to shareholders, so the tax is generally borne by shareholders on the dividends they receive. It must distribute at least 90% of taxable income; any undistributed taxable income, including undistributed net capital gains, is taxed at regular corporate rates (though properly designated undistributed capital gains effectively avoid taxation at the shareholder level). For shareholders, under the Tax Cuts and Jobs Act of 2017, new Code Section 199A (effective for tax years beginning after December 31, 2017 and before January 1, 2026) allows an individual taxpayer, and estates and trusts, subject to certain income limitations, to deduct 20% of the aggregate amount of qualified REIT dividends received from taxable income. Qualified REIT dividends exclude any portion of a REIT dividend classified as a capital gain dividend or as qualified dividend income.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-114-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How do taxes work on the money given out by a Real Estate Investment Trust as dividends?
+
+Gold answer: Dividends from REITs are generally not eligible for the preferential tax rates applicable to qualified dividend income, meaning they are taxed at the shareholder's ordinary income tax rate.
+
+Candidate answer: Under REIT tax rules, the REIT itself is generally not taxed at the corporate level on taxable income it distributes to shareholders (a REIT must distribute at least 90% of its REIT taxable income, excluding net capital gains, to maintain this treatment). Shareholders are taxed on the dividends they receive. Under the Tax Cuts and Jobs Act (Code Section 199A), an individual taxpayer and estates and trusts may deduct 20% of the aggregate amount of 'qualified REIT dividends' from their taxable income; however, qualified REIT dividends do not include any portion of a dividend that is classified as a capital gain dividend or as qualified dividend income (those portions are taxed under their own separate rules). Any taxable income the REIT does not distribute (including undistributed net capital gains) is taxed to the REIT at regular corporate rates, though properly designated undistributed capital gains effectively avoid taxation at the shareholder level.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-120-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does the bank manage its interest rate risk according to the text?
+
+Gold answer: The bank manages its interest rate risk by: 
+
+1. **Asset/Liability Management:** They regularly review the maturity and repricing of interest-earning assets and interest-bearing liabilities to minimize exposure to interest rate changes.
+2. **Asset Liability Committee (ALCO) Oversight:** The ALCO, part of the Board of Directors, oversees the review process and establishes policies to control interest rate sensitivity.
+3. **Monitoring Rate Sensitivity:** The bank actively monitors rate sensitivity to reduce vulnerability to interest rate fluctuations while maintaining adequate capital and liquidity.
+4. **GAP Analysis:** They use GAP analysis, which measures the difference between interest-bearing assets and liabilities, to monitor sensitivity to interest rate changes.
+5. **Interest Rate Risk Profile:** The bank maintains an interest rate risk profile based on a twelve-month balance sheet forecast to assess and manage potential impacts.
+
+Candidate answer: The bank's principal objective is to minimize exposure to changes in interest rates through an ongoing review of the maturity and repricing of interest-earning assets and interest-bearing liabilities. The Asset Liability Committee (ALCO) oversees this review and establishes policies to control interest rate sensitivity. The company monitors rate sensitivity using its asset/liability management policy, monthly and quarterly financial reports, and simulation modeling. The bank uses GAP analysis, which measures the difference in volume between interest bearing assets and interest bearing liabilities, as a means of monitoring sensitivity to changes in interest rates. The company is liability sensitive, meaning if interest rates fall, interest income will fall slower than interest expense and net interest income will likely increase, while if interest rates rise, interest income will rise slower than interest expense and net interest income will likely decrease.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-120-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does the bank manage its interest rate risk according to the text?
+
+Gold answer: The bank manages its interest rate risk by: 
+
+1. **Asset/Liability Management:** They regularly review the maturity and repricing of interest-earning assets and interest-bearing liabilities to minimize exposure to interest rate changes.
+2. **Asset Liability Committee (ALCO) Oversight:** The ALCO, part of the Board of Directors, oversees the review process and establishes policies to control interest rate sensitivity.
+3. **Monitoring Rate Sensitivity:** The bank actively monitors rate sensitivity to reduce vulnerability to interest rate fluctuations while maintaining adequate capital and liquidity.
+4. **GAP Analysis:** They use GAP analysis, which measures the difference between interest-bearing assets and liabilities, to monitor sensitivity to interest rate changes.
+5. **Interest Rate Risk Profile:** The bank maintains an interest rate risk profile based on a twelve-month balance sheet forecast to assess and manage potential impacts.
+
+Candidate answer: The Company manages interest rate risk through its asset/liability management policy, whose principal objective is to minimize exposure to changes in interest rates by an ongoing review of the maturity and repricing of interest-earning assets and interest-bearing liabilities — in part by controlling the mix of interest rate sensitive assets and interest rate sensitive liabilities. The Asset Liability Committee (ALCO), which meets as part of the Board of Directors meeting, oversees this review and establishes policies to control interest rate sensitivity. Management is guided by the asset/liability management policy, monthly and quarterly financial reports, and simulation modeling to evaluate and manage rate sensitivity, and it monitors GAP (the difference in volume between interest bearing assets and interest bearing liabilities, with NOW and savings accounts categorized by their estimated decay rates) plus a twelve-month balance-sheet forecast of the interest rate risk profile at December 31, 2017 (personal savings repriced quarterly; NOW and business savings repricing every 4 to 12 months). The Company is liability sensitive and states it monitors interest rate exposure and believes it is well positioned for future market rate adjustments; it also notes that interest rate risk management techniques are not exact.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-120-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does the bank manage its interest rate risk according to the text?
+
+Gold answer: The bank manages its interest rate risk by: 
+
+1. **Asset/Liability Management:** They regularly review the maturity and repricing of interest-earning assets and interest-bearing liabilities to minimize exposure to interest rate changes.
+2. **Asset Liability Committee (ALCO) Oversight:** The ALCO, part of the Board of Directors, oversees the review process and establishes policies to control interest rate sensitivity.
+3. **Monitoring Rate Sensitivity:** The bank actively monitors rate sensitivity to reduce vulnerability to interest rate fluctuations while maintaining adequate capital and liquidity.
+4. **GAP Analysis:** They use GAP analysis, which measures the difference between interest-bearing assets and liabilities, to monitor sensitivity to interest rate changes.
+5. **Interest Rate Risk Profile:** The bank maintains an interest rate risk profile based on a twelve-month balance sheet forecast to assess and manage potential impacts.
+
+Candidate answer: By controlling the mix of interest rate sensitive assets and interest rate sensitive liabilities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-120-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does the bank manage its' interest rate risk accoring to the text?
+
+Gold answer: The bank manages its interest rate risk by: 
+
+1. **Asset/Liability Management:** They regularly review the maturity and repricing of interest-earning assets and interest-bearing liabilities to minimize exposure to interest rate changes.
+2. **Asset Liability Committee (ALCO) Oversight:** The ALCO, part of the Board of Directors, oversees the review process and establishes policies to control interest rate sensitivity.
+3. **Monitoring Rate Sensitivity:** The bank actively monitors rate sensitivity to reduce vulnerability to interest rate fluctuations while maintaining adequate capital and liquidity.
+4. **GAP Analysis:** They use GAP analysis, which measures the difference between interest-bearing assets and liabilities, to monitor sensitivity to interest rate changes.
+5. **Interest Rate Risk Profile:** The bank maintains an interest rate risk profile based on a twelve-month balance sheet forecast to assess and manage potential impacts.
+
+Candidate answer: The bank's principal objective is to minimize exposure to changes in interest rates through an ongoing review of the maturity and repricing of interest-earning assets and interest-bearing liabilities. The Asset Liability Committee (ALCO) oversees this review and establishes policies to control interest rate sensitivity. The company monitors rate sensitivity using its asset/liability management policy, monthly and quarterly financial reports, and simulation modeling. The bank uses GAP analysis, which measures the difference in volume between interest bearing assets and interest bearing liabilities, as a means of monitoring sensitivity to changes in interest rates. The company is liability sensitive, meaning if interest rates fall, interest income will fall slower than interest expense and net interest income will likely increase, while if interest rates rise, interest income will rise slower than interest expense and net interest income will likely decrease.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-120-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does the bank manage its' interest rate risk accoring to the text?
+
+Gold answer: The bank manages its interest rate risk by: 
+
+1. **Asset/Liability Management:** They regularly review the maturity and repricing of interest-earning assets and interest-bearing liabilities to minimize exposure to interest rate changes.
+2. **Asset Liability Committee (ALCO) Oversight:** The ALCO, part of the Board of Directors, oversees the review process and establishes policies to control interest rate sensitivity.
+3. **Monitoring Rate Sensitivity:** The bank actively monitors rate sensitivity to reduce vulnerability to interest rate fluctuations while maintaining adequate capital and liquidity.
+4. **GAP Analysis:** They use GAP analysis, which measures the difference between interest-bearing assets and liabilities, to monitor sensitivity to interest rate changes.
+5. **Interest Rate Risk Profile:** The bank maintains an interest rate risk profile based on a twelve-month balance sheet forecast to assess and manage potential impacts.
+
+Candidate answer: The Company manages interest rate risk through its asset/liability management policy, whose principal objective is to minimize exposure to changes in interest rates by an ongoing review of the maturity and repricing of interest-earning assets and interest-bearing liabilities — in part by controlling the mix of interest rate sensitive assets and interest rate sensitive liabilities. The Asset Liability Committee (ALCO), which meets as part of the Board of Directors meeting, oversees this review and establishes policies to control interest rate sensitivity. Management is guided by the asset/liability management policy, monthly and quarterly financial reports, and simulation modeling to evaluate and manage rate sensitivity, and it monitors GAP (the difference in volume between interest bearing assets and interest bearing liabilities, with NOW and savings accounts categorized by their estimated decay rates) plus a twelve-month balance-sheet forecast of the interest rate risk profile at December 31, 2017 (personal savings repriced quarterly; NOW and business savings repricing every 4 to 12 months). The Company is liability sensitive and states it monitors interest rate exposure and believes it is well positioned for future market rate adjustments; it also notes that interest rate risk management techniques are not exact.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-120-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How does the bank manage its' interest rate risk accoring to the text?
+
+Gold answer: The bank manages its interest rate risk by: 
+
+1. **Asset/Liability Management:** They regularly review the maturity and repricing of interest-earning assets and interest-bearing liabilities to minimize exposure to interest rate changes.
+2. **Asset Liability Committee (ALCO) Oversight:** The ALCO, part of the Board of Directors, oversees the review process and establishes policies to control interest rate sensitivity.
+3. **Monitoring Rate Sensitivity:** The bank actively monitors rate sensitivity to reduce vulnerability to interest rate fluctuations while maintaining adequate capital and liquidity.
+4. **GAP Analysis:** They use GAP analysis, which measures the difference between interest-bearing assets and liabilities, to monitor sensitivity to interest rate changes.
+5. **Interest Rate Risk Profile:** The bank maintains an interest rate risk profile based on a twelve-month balance sheet forecast to assess and manage potential impacts.
+
+Candidate answer: By controlling the mix of interest rate sensitive assets and interest rate sensitive liabilities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-121-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Generate a short note on Premier's financial performance in 2017.
+
+Gold answer: Premier's financial performance in 2017 was positive. The bank's net interest income as a percentage of average earning assets increased to 4.18% due to increases in yields on earning assets. This was driven by the cumulative effect of continuing increases in the target federal funds rate by the Federal Reserve. Although the provision for loan losses reduced net credit income, non-interest income increased to its highest ratio in five years. Additionally, non-interest expenses decreased, contributing to an improved overall profitability for the year.
+
+Candidate answer: Premier Financial Bancorp's 2017 financial performance showed improvement. Net income increased to $14.819 million from $12.174 million in 2016, driven by increases in net interest income and non-interest income complemented by decreased non-interest expense. Basic earnings per share rose to $1.39 from $1.16. Return on assets improved to 0.99% from 0.82%. The company ended 2017 with total consolidated assets of $1.493 billion, deposits of $1.273 billion, and stockholders' equity of $183.4 million. Net interest margin increased to 4.18% from 3.93%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-121-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Generate a short note on Premier's financial performance in 2017.
+
+Gold answer: Premier's financial performance in 2017 was positive. The bank's net interest income as a percentage of average earning assets increased to 4.18% due to increases in yields on earning assets. This was driven by the cumulative effect of continuing increases in the target federal funds rate by the Federal Reserve. Although the provision for loan losses reduced net credit income, non-interest income increased to its highest ratio in five years. Additionally, non-interest expenses decreased, contributing to an improved overall profitability for the year.
+
+Candidate answer: Premier had a strong 2017. Net income rose to $14.819 million from $12.174 million in 2016 (and $12.446 million in 2015), driven by higher net interest income and non-interest income plus lower non-interest expense, which more than offset a higher provision for loan losses and higher income tax expense. Basic EPS was $1.39 (vs. $1.16 in 2016) and diluted EPS $1.38 (vs. $1.15). Return on average assets improved to 0.99% from 0.82% in 2016, while return on average earning assets was 1.07%. Net interest margin (net interest income as a percent of average earning assets) increased 25 basis points to 4.18% from 3.93%, as the yield on earning assets rose 23 basis points while the cost of interest-bearing liabilities fell 1 basis point; net credit income was 4.00% after an 0.18% provision for loan losses. Non-interest income reached 0.62% of average earning assets (up 5.7% in dollars), non-interest expense fell $975,000, or 2.4%, to 2.90% of average earning assets, and the net overhead ratio improved to 2.28% from 2.40%. Total consolidated assets were $1.493 billion at December 31, 2017 (vs. $1.496 billion at year-end 2016), with deposits of $1.273 billion and stockholders' equity of $183.4 million; total loans grew $24.2 million, or 2.4%, and average loans grew $42.4 million, or 4.2%. Capital remained strong, with CET1 at 13.9%, Tier 1 at 14.4%, total capital at 15.6% of risk-weighted assets and a leverage ratio of 10.7%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

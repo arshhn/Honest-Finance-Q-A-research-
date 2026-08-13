@@ -1,0 +1,44 @@
+=== ITEM id=fsq-128-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many shares of common stock were outstanding as of February 8, 2019?
+
+Gold answer: As of February 8, 2019, there were 368,272,261 shares of the registrant's common stock outstanding.
+
+Candidate answer: 368,272,261 shares of common stock
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-184-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is a drawback of staggered board terms according to the form?
+
+Gold answer: According to the form, a drawback of staggered board terms is that it may preserve current management and the board in a hostile tender offer. This can negatively impact stockholders who want to participate in a tender offer or replace board members.
+
+Candidate answer: Because the Board is divided into three staggered classes with three-year terms, only one class of directors can be replaced at a single annual stockholders' meeting. These provisions may tend to preserve current management and the Board in a hostile tender offer, and may have an adverse impact on stockholders who may want to participate in such a tender offer, or who may want to replace some or all of the members of the Board (i.e., they could prevent or delay stockholders' attempts to replace or remove current management).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-202-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the financial results of 1997 to those of 1996.
+
+Gold answer: In 1997, Cerus Corporation experienced significant financial growth compared to 1996. Revenue increased substantially, driven by growth in revenue from Baxter, particularly due to milestone and license fee recognition related to the platelet program. Research and development expenses also saw a notable increase, primarily attributed to investments in platelet and plasma programs, including toxicology studies, compound manufacturing development, and clinical trials. General and administrative expenses increased due to company expansion and increased personnel. Interest income rose significantly in 1997, largely due to higher average cash balances from the company's initial public offering and a private placement to Baxter.
+
+Candidate answer: Cerus Corporation's 1997 results improved on the revenue line but showed much larger spending and a wider loss than 1996. Revenue earned under the Baxter Agreements rose to $6.2 million in 1997 from $2.9 million in 1996 (an increase of about $3.3 million), representing 90% of total revenue in 1997 versus 79% in 1996 (implying total revenue of roughly $6.9 million in 1997 versus roughly $3.7 million in 1996). The increase reflected approximately $1.7 million of platelet-program milestone and license fee revenue recognized in 1997 (none in 1996) plus increased FFP and red blood cell development revenue. Government grant revenue was essentially flat, approximately $660,000 in 1997 versus $758,000 in 1996. Expenses rose sharply: research and development expenses were $19.6 million in 1997 versus $12.1 million in 1996 (up about $7.5 million), driven by third-party toxicology, compound manufacturing development and clinical trial costs, higher personnel and facilities costs, and including a $5.5 million payment to Baxter in 1997 for development costs in exchange for an additional 2.2% share of platelet system adjusted product revenue. General and administrative expenses were approximately $3.2 million in 1997 versus $2.2 million in 1996 (up about $1.0 million). Interest income increased to approximately $1.2 million in 1997 from $482,000 in 1996 on higher average cash balances following the IPO and the Baxter private placement, while interest expense was roughly unchanged at about $15,000 in 1997 versus $18,000 in 1996. As a result, the net loss widened to $14.7 million in 1997 from $10.2 million in 1996 (about $4.5 million larger), and net cash used in operating activities rose to approximately $16.6 million in 1997 from approximately $8.9 million in 1996. Accumulated deficit was approximately $34.9 million at December 31, 1997, and the Company had cash and cash equivalents of approximately $11.6 million plus short-term investments of approximately $10.0 million at that date.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

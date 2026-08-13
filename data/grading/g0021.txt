@@ -1,0 +1,184 @@
+=== ITEM id=fb-01077-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which significant acquisitions did Best Buy complete during fiscal years 2021, 2022, and 2023?
+
+Gold answer: Best Buy closed two acquisitions, both these companies were already partially owned by Best Buy, but Best Buy acquired all outstanding shares of these two companies during FY 2022: (1) Current Health Ltd and (2) Two Peaks, LLC d/b/a Yardbird Furniture
+
+Candidate answer: The document discloses two acquisitions, both completed in fiscal 2022: (1) Current Health Ltd., a care-at-home technology platform, acquired November 2, 2021 for net cash consideration of $389 million (including $351 million of goodwill assigned to the Best Buy Health reporting unit); and (2) Two Peaks, LLC d/b/a Yardbird Furniture, a direct-to-consumer outdoor furniture company, acquired November 4, 2021 for net cash consideration of $79 million (including $47 million of goodwill assigned to the Best Buy Domestic reporting unit). No acquisitions are disclosed for fiscal 2021 or fiscal 2023, and both fiscal 2022 acquisitions were stated to be not material to results of operations.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01077-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which significant acquisitions did Best Buy complete during fiscal years 2021, 2022, and 2023?
+
+Gold answer: Best Buy closed two acquisitions, both these companies were already partially owned by Best Buy, but Best Buy acquired all outstanding shares of these two companies during FY 2022: (1) Current Health Ltd and (2) Two Peaks, LLC d/b/a Yardbird Furniture
+
+Candidate answer: Current Health Ltd. (acquired November 2, 2021, for $389 million net cash, fiscal 2022) and Two Peaks, LLC d/b/a Yardbird Furniture (acquired November 4, 2021, for $79 million net cash, fiscal 2022); no significant acquisitions are described for fiscal 2021 or fiscal 2023 in the document
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01079-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which significant acquisitions did AMCOR complete during FY2021, FY2022, and FY2023?
+
+Gold answer: Amcor completed these acquisitions during FY2023:
+-100% equity interest of a flexibles manufacturing company in the Czech Republic
+- 100% equity interest in a medical device packaging manufacturing site in
+Shanghai, China.
+-acquisition of a New Zealand-based leading manufacturer of state-of-the-art, automated protein
+packaging machines.
+
+Candidate answer: AMCOR completed three significant acquisitions in FY2023: a Czech Republic flexible packaging manufacturing plant, a medical device packaging manufacturing site in Shanghai China, and a New Zealand automated protein packaging machine manufacturer. No acquisitions are documented for FY2021 or FY2022 in the provided text.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01091-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, did Boeing disclose any significant litigation or legal proceedings still unresolved?
+
+Gold answer: Yes. Multiple lawsuits have been filed against Boeing resulting from a 2018 Lion Air crash and a 2019 Ethiopian Airlines crash.
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01091-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, did Boeing disclose any significant litigation or legal proceedings still unresolved?
+
+Gold answer: Yes. Multiple lawsuits have been filed against Boeing resulting from a 2018 Lion Air crash and a 2019 Ethiopian Airlines crash.
+
+Candidate answer: Yes. For FY2022 Boeing disclosed multiple unresolved legal matters: multiple legal actions filed as a result of the October 29, 2018 Lion Air Flight 610 and March 10, 2019 Ethiopian Airlines Flight 302 accidents, for which it cannot reasonably estimate a range of loss on remaining pending lawsuits and other 737 MAX-related matters; and a dispute with Embraer S.A. over Boeing's 2020 termination of the joint venture agreements, currently in arbitration expected to be completed in late 2023 or early 2024. (It also settled an SEC investigation in September 2022 with a $200 million civil penalty paid in October 2022.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01091-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, did Boeing disclose any significant litigation or legal proceedings still unresolved?
+
+Gold answer: Yes. Multiple lawsuits have been filed against Boeing resulting from a 2018 Lion Air crash and a 2019 Ethiopian Airlines crash.
+
+Candidate answer: Yes — as of FY2022, Boeing disclosed unresolved litigation, including remaining pending lawsuits related to the 737 MAX accidents (Lion Air Flight 610 and Ethiopian Airlines Flight 302) for which no range of loss can be reasonably estimated, and an ongoing arbitration dispute with Embraer over Boeing's termination of their joint venture agreements.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01107-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: During fiscal years 2020, 2021, and 2022, did CVS Health disclose any significant, ongoing litigation matters?
+
+Gold answer: Yes, CVS Health has been involved in multiple ongoing legal battles. Some notable legal dispute areas for CVS are: (1) usual and customary pricing litigation: where it's claimed that CVSâs retail pharmacies overcharged for prescription drugs; (2) PBM litigation and investigations: where it's claimed that that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products; and (3) controlled substances litigation: legal matters around opioids for which CVS has agreed to pay up to $4.3 billion to claimants in remediation and $625 million to attorneys and fees
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01107-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: During fiscal years 2020, 2021, and 2022, did CVS Health disclose any significant, ongoing litigation matters?
+
+Gold answer: Yes, CVS Health has been involved in multiple ongoing legal battles. Some notable legal dispute areas for CVS are: (1) usual and customary pricing litigation: where it's claimed that CVSâs retail pharmacies overcharged for prescription drugs; (2) PBM litigation and investigations: where it's claimed that that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products; and (3) controlled substances litigation: legal matters around opioids for which CVS has agreed to pay up to $4.3 billion to claimants in remediation and $625 million to attorneys and fees
+
+Candidate answer: Yes. The filing discloses multiple significant, ongoing legal matters spanning those years, including: usual and customary pricing litigation over alleged prescription drug overcharges (with a related October 2022 shareholder litigation demand to the Board); PBM litigation and investigations regarding drug pricing and manufacturer rebates, including suits by state Attorneys General and putative class actions plus FTC and state AG subpoenas/CIDs, and the United States ex rel. Behnke False Claims Act case (complaint unsealed April 2018); and controlled substances/opioid litigation, including the In re National Prescription Opiate Litigation MDL No. 2804, a November 2021 jury finding of liability in federal court in Ohio followed by an August 2022 judgment of $651 million jointly against three defendants payable over 15 years (under appeal, no liability accrued), a March 2022 Florida settlement of $484 million payable over 18 years (a $484 million liability recorded in the three months ended March 31, 2022), 2022 settlements with New Mexico, West Virginia and the Cherokee Nation, and a December 2022 formal settlement with state Attorneys General and the PEC of up to approximately $4.3 billion in opioid remediation plus $625 million in attorneys' fees and additional remediation payable over 10 years beginning in 2023, along with a December 2022 tribal settlement of up to $113 million in remediation plus $18 million in fees.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01107-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: During fiscal years 2020, 2021, and 2022, did CVS Health disclose any significant, ongoing litigation matters?
+
+Gold answer: Yes, CVS Health has been involved in multiple ongoing legal battles. Some notable legal dispute areas for CVS are: (1) usual and customary pricing litigation: where it's claimed that CVSâs retail pharmacies overcharged for prescription drugs; (2) PBM litigation and investigations: where it's claimed that that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products; and (3) controlled substances litigation: legal matters around opioids for which CVS has agreed to pay up to $4.3 billion to claimants in remediation and $625 million to attorneys and fees
+
+Candidate answer: Yes — the document discloses multiple significant, ongoing litigation matters spanning 2020–2022, including Usual and Customary Pricing Litigation, PBM Litigation and Investigations (including the Behnke qui tam case), and extensive Controlled Substances/Opioid Litigation (e.g., the November 2021 Ohio jury verdict and August 2022 $651 million judgment, the March 2022 Florida settlement, and the December 2022 multistate and tribal settlement agreements worth up to approximately $4.3 billion plus $625 million in fees).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01148-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In which industry does AMCOR mainly conduct its business?
+
+Gold answer: Amcor is a global leader in packaging production for various use cases.
+
+Candidate answer: Packaging industry
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01148-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In which industry does AMCOR mainly conduct its business?
+
+Gold answer: Amcor is a global leader in packaging production for various use cases.
+
+Candidate answer: Packaging - Amcor plc is a global leader in developing and producing responsible packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01148-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In which industry does AMCOR mainly conduct its business?
+
+Gold answer: Amcor is a global leader in packaging production for various use cases.
+
+Candidate answer: The responsible/consumer packaging industry (packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

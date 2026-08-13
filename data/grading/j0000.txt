@@ -1,0 +1,131 @@
+=== ITEM id=m2-00005-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Answer A: Yes, Corning has positive working capital based on FY2022 data. Working capital = $2,278 million. This is a useful and relevant metric for the company, as it demonstrates Corning's ability to cover short-term obligations with current assets.
+
+Answer B: Yes, Corning maintained positive working capital of $2,278 million in FY2022
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00005-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Answer A: Yes. Corning had positive working capital at FY2022 year-end (December 31, 2022): total current assets of $7,453 million less total current liabilities of $5,175 million = $2,278 million of working capital (current ratio of about 1.44x). Working capital is a relevant metric here — Corning is a manufacturer with meaningful inventories ($2,904 million) and trade receivables ($1,721 million), so the current asset/current liability comparison is a meaningful gauge of short-term liquidity.
+
+Answer B: Yes, positive working capital of $2,278 million ($7,453 million total current assets less $5,175 million total current liabilities). Working capital is a meaningful metric for Corning, a manufacturer with normal inventory, receivables and payables cycles.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00005-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Answer A: Yes, Corning has positive working capital in FY2022. Total current assets were $7,453 million and total current liabilities were $5,175 million, resulting in working capital of $2,278 million ($7,453M - $5,175M).
+
+Answer B: Yes, Corning maintained positive working capital in FY2022: total current assets of $7,453 million minus total current liabilities of $5,175 million equals positive working capital of $2,278 million. Working capital is a meaningful metric for Corning as a manufacturing company with substantial inventory and receivables.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00070-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Answer A: No. American Water Works does not have positive working capital in FY2022. Working capital is negative at approximately -$1,561 million (current assets of $1,250 million minus current liabilities of $2,811 million).
+
+Answer B: No. American Water Works has negative working capital of approximately -$1,561 million in FY2022. However, negative working capital is not unusual or necessarily problematic for regulated utilities due to advance customer payments and regulatory recovery mechanisms.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00070-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Answer A: No. As of December 31, 2022, American Water Works had negative working capital of approximately -$1,561 million (total current assets of $1,250 million less total current liabilities of $2,811 million). That said, working capital is not a particularly useful or relevant metric for this company: American Water is a regulated water utility, a capital-intensive business whose value and liquidity profile rest on its long-lived rate-base assets ($23,223 million of net property, plant and equipment) and on continuous access to capital markets rather than on a stock of net current assets. Utilities like this routinely run negative working capital because they collect cash from customers quickly, carry minimal inventory ($98 million of materials and supplies), and fund operations with short-term debt ($1,175 million) and commercial paper that is regularly refinanced or termed out into long-term debt. The negative balance here is largely a financing artifact — short-term debt plus current maturities of long-term debt total $1,456 million of the $2,811 million in current liabilities — not a sign of distress.
+
+Answer B: No. Working capital is meaningful for American Water Works, but it is negative in FY2022: total current assets of $1,250 million less total current liabilities of $2,811 million = -$1,561 million (current ratio ~0.44). This is typical for a regulated water utility, which relies on short-term debt and steady, predictable customer cash collections rather than a large current-asset buffer.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00070-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Answer A: No. As of December 31, 2022, American Water Works had total current assets of $1,250 million and total current liabilities of $2,811 million, resulting in negative working capital of $(1,561) million ($1,250M − $2,811M). However, working capital is not a particularly meaningful red flag for a regulated water utility like American Water Works: utilities typically operate with negative working capital because they have stable, predictable cash flows from regulated rate-based revenues, ready access to capital markets (evidenced by their large long-term debt and capitalization structure), and low liquidity risk, so they do not need to hold large current asset balances to cover current liabilities.
+
+Answer B: No. Working capital is negative: Total current assets $1,250 million minus Total current liabilities $2,811 million = -$1,561 million as of December 31, 2022. Note: for capital-intensive, rate-regulated water utilities like American Water Works, negative working capital is common and not necessarily a sign of liquidity distress, since growth is funded through long-term debt/equity rather than short-term assets.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00080-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Answer A: Yes, PayPal has positive working capital of 12,416 million USD. However, working capital is not a particularly useful or relevant metric for this company because it includes large offsetting customer fund items (receivables of 36,357M and payables of 40,107M) that represent customer account balances, not operational working capital needs.
+
+Answer B: Yes, working capital is positive at 12,416 million USD. However, this metric has limited meaningfulness for PayPal because current assets and current liabilities include large offsetting customer fund items (receivables of 36,357M and payables of 40,107M) that represent customer accounts rather than operational working capital needs.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00080-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Answer A: Yes. PayPal had positive working capital of $12,416 million at FY2022 year-end (total current assets $57,517 million less total current liabilities $45,101 million). Caveat: working capital is of limited usefulness for PayPal because a large share of both sides is customer-related — funds receivable and customer accounts of $36,357 million and funds payable and amounts due to customers of $40,107 million are custodial balances held on behalf of customers rather than operating assets/liabilities; excluding them, working capital would be roughly $16,166 million.
+
+Answer B: Yes, positive: FY2022 total current assets of $57,517 million less total current liabilities of $45,101 million gives working capital of about $12,416 million (roughly $12.4 billion). Caveat: for PayPal the headline metric is somewhat less meaningful because both sides are dominated by custodial balances — funds receivable and customer accounts of $36,357M and funds payable and amounts due to customers of $40,107M — which are customer money held and owed rather than PayPal's own working capital. Excluding those custodial items, current assets of about $21,160M still exceed current liabilities of about $4,994M, so the positive working capital conclusion holds either way.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00080-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Answer A: Yes, working capital is positive: Total current assets ($57,517M) minus total current liabilities ($45,101M) = approximately $12,416 million. However, working capital may not be a fully meaningful liquidity metric for PayPal because current assets and liabilities include large offsetting customer-related balances (Funds receivable and customer accounts of $36,357M and Funds payable and amounts due to customers of $40,107M) that are not typical operating items for a non-financial company.
+
+Answer B: Yes, working capital is positive: Total current assets ($57,517M) minus total current liabilities ($45,101M) = approximately $12,416 million. However, working capital may not be a fully meaningful liquidity metric for PayPal because current assets and liabilities include large offsetting customer-related balances (Funds receivable and customer accounts of $36,357M and Funds payable and amounts due to customers of $40,107M) that are not typical operating working capital items for a non-financial company.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00206-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Are JPM's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Answer A: Gross margin is not a relevant metric for JPMorgan Chase, so the consistency question cannot be assessed on that basis. Per the document, JPMorgan Chase & Co. is a financial holding company and a financial services firm (leading in investment banking, consumer and small business financial services, commercial banking, financial transaction processing, and asset management), with $3.7 trillion in assets and $292.3 billion in stockholders' equity as of December 31, 2022. Banks do not sell goods with a cost of goods sold, so there is no "revenue minus COGS" gross profit line and therefore no gross margin. Bank profitability is instead measured with metrics such as net interest income/net interest margin, noninterest revenue, the overhead (efficiency) ratio, return on equity, return on tangible common equity, and return on assets. In addition, this excerpt (Item 1. Business — Overview, Business segments, Competition) contains no income statement or multi-year financial data, so no year-over-year margin trend of any kind could be computed from it.
+
+Answer B: Gross margin is not a meaningful metric for JPMorgan Chase. As a financial holding company/bank, it does not sell goods and reports no revenue-less-cost-of-goods-sold; its economics are driven by net interest income, noninterest revenue, provision for credit losses and noninterest expense, so measures such as net interest margin, efficiency ratio, ROE and ROTCE are used instead. In addition, the provided document contains no income statement data, so no gross margin trend or variance could be computed from it.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00215-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+
+Answer A: Yes. Verizon is a capital intensive business based on FY2022 data, with $23.1 billion in capital expenditures, $107.4 billion in property plant and equipment net, and $149.8 billion in wireless licenses.
+
+Answer B: Yes. Verizon's operations are capital intensive, evidenced by $23.1 billion in annual capital expenditures in 2022, $107.4 billion in property plant and equipment, and $149.8 billion in wireless licenses.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00215-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+
+Answer A: Yes. Verizon is capital intensive: FY2022 capital expenditures were $23.1 billion (about 16.9% of $136,835 million in consolidated operating revenues), and fixed/long-lived assets dominate the balance sheet — $307,689 million gross property, plant and equipment ($107,434 million net) and $149,796 million of wireless licenses out of $379,680 million total assets.
+
+Answer B: Yes — Verizon is highly capital intensive. In FY2022 it spent $23.1 billion on capital expenditures (including ~$6.2 billion C-Band), about 16.9% of its $136,835 million of consolidated operating revenues, and its balance sheet is dominated by long-lived assets: gross property, plant and equipment of $307,689 million ($107,434 million net) plus $149,796 million of wireless licenses, together roughly 68% of $379,680 million total assets.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

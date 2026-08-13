@@ -1,0 +1,131 @@
+=== ITEM id=m2-01028-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are the geographies that American Express primarily operates in as of 2022?
+
+Answer A: United States, EMEA (Europe, the Middle East and Africa), APAC (Asia Pacific, Australia and New Zealand), and LACC (Latin America, Canada and the Caribbean)
+
+Answer B: United States, EMEA (Europe, Middle East and Africa), APAC (Asia Pacific, Australia and New Zealand), and LACC (Latin America, Canada and the Caribbean)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01077-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are major acquisitions that Best Buy has done in FY2023, FY2022 and FY2021?
+
+Answer A: Best Buy's Acquisitions note discloses two acquisitions, both completed in fiscal 2022: (1) Current Health Ltd., a care-at-home technology platform, acquired November 2, 2021 for net cash consideration of $389 million, including $351 million of tax-deductible goodwill assigned to the Best Buy Health reporting unit (Domestic reportable segment, Services revenue category); and (2) Two Peaks, LLC d/b/a Yardbird Furniture, a direct-to-consumer outdoor furniture company, acquired November 4, 2021 for net cash consideration of $79 million, including $47 million of tax-deductible goodwill assigned to the Best Buy Domestic reporting unit. Total net cash consideration for the two fiscal 2022 deals was $468 million. Both were accounted for under the acquisition method and neither was material to results of operations. No acquisitions are disclosed for fiscal 2023 or fiscal 2021 in the provided text.
+
+Answer B: The document discloses two acquisitions, both completed in fiscal 2022: (1) Current Health Ltd., a care-at-home technology platform, acquired November 2, 2021 for net cash consideration of $389 million (including $351 million of goodwill assigned to the Best Buy Health reporting unit); and (2) Two Peaks, LLC d/b/a Yardbird Furniture, a direct-to-consumer outdoor furniture company, acquired November 4, 2021 for net cash consideration of $79 million (including $47 million of goodwill assigned to the Best Buy Domestic reporting unit). No acquisitions are disclosed for fiscal 2021 or fiscal 2023, and both fiscal 2022 acquisitions were stated to be not material to results of operations.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01077-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What are major acquisitions that Best Buy has done in FY2023, FY2022 and FY2021?
+
+Answer A: In fiscal 2022, Best Buy acquired Current Health Ltd. for net cash consideration of $389 million (including $351 million of goodwill) and Two Peaks, LLC d/b/a Yardbird Furniture for net cash consideration of $79 million (including $47 million of goodwill). The document does not disclose any acquisitions for fiscal 2023 or fiscal 2021.
+
+Answer B: Current Health Ltd. (acquired November 2, 2021, for $389 million net cash, fiscal 2022) and Two Peaks, LLC d/b/a Yardbird Furniture (acquired November 4, 2021, for $79 million net cash, fiscal 2022); no significant acquisitions are described for fiscal 2021 or fiscal 2023 in the document
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01091-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has Boeing reported any materially important ongoing legal battles from FY2022?
+
+Answer A: Yes, Boeing reported materially important ongoing legal battles in FY2022, including remaining pending lawsuits related to 737 MAX accidents and an ongoing Embraer arbitration dispute. Additionally, Boeing settled an SEC investigation in September 2022 resulting in a $200 million civil penalty.
+
+Answer B: Yes
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01091-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has Boeing reported any materially important ongoing legal battles from FY2022?
+
+Answer A: Yes. Boeing discloses two materially important ongoing legal matters as of FY2022: (1) multiple legal actions arising from the October 29, 2018 Lion Air Flight 610 and March 10, 2019 Ethiopian Airlines Flight 302 crashes and the 737 MAX — during 2021 Boeing entered a Deferred Prosecution Agreement with the U.S. DOJ and a proposed settlement of a shareholder derivative suit (yielding $219 million received in Q2 2022), and in September 2022 settled an SEC investigation with a civil penalty causing a $200 million earnings charge paid in October 2022, while remaining lawsuits continue with no reasonably estimable range of loss; and (2) arbitration with Embraer S.A. over Boeing's 2020 termination of the 2019 joint venture agreements (including the planned 80% stake for $4,200 million), which Embraer disputes, with no reasonably estimable range of loss and completion expected in late 2023 or early 2024.
+
+Answer B: Yes. For FY2022 Boeing disclosed multiple unresolved legal matters: multiple legal actions filed as a result of the October 29, 2018 Lion Air Flight 610 and March 10, 2019 Ethiopian Airlines Flight 302 accidents, for which it cannot reasonably estimate a range of loss on remaining pending lawsuits and other 737 MAX-related matters; and a dispute with Embraer S.A. over Boeing's 2020 termination of the joint venture agreements, currently in arbitration expected to be completed in late 2023 or early 2024. (It also settled an SEC investigation in September 2022 with a $200 million civil penalty paid in October 2022.)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01091-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has Boeing reported any materially important ongoing legal battles from FY2022?
+
+Answer A: Yes. As of FY2022, Boeing still faces materially important ongoing legal matters: (1) multiple pending lawsuits and other matters related to the 737 MAX accidents (Lion Air Flight 610, October 29, 2018, and Ethiopian Airlines Flight 302, March 10, 2019), for which Boeing states it cannot reasonably estimate a range of loss not covered by insurance; and (2) an arbitration dispute with Embraer S.A. over Boeing's termination of the 2019 joint venture agreements (an ~80% stake acquisition valued at $4,200), which Embraer disputed and which was in arbitration expected to conclude in late 2023 or early 2024, with no reasonably estimable range of loss.
+
+Answer B: Yes — as of FY2022, Boeing disclosed unresolved litigation, including remaining pending lawsuits related to the 737 MAX accidents (Lion Air Flight 610 and Ethiopian Airlines Flight 302) for which no range of loss can be reasonably estimated, and an ongoing arbitration dispute with Embraer over Boeing's termination of their joint venture agreements.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01107-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?
+
+Answer A: Yes. CVS Health has reported materially important ongoing legal battles, most significantly: (1) Opioid litigation resulting in a December 2022 settlement with state Attorneys General for approximately $4.3 billion in remediation and $625 million in attorneys' fees over 10 years, and a December 2022 tribal settlement for $113 million in remediation and $18 million in attorneys' fees; (2) A November 2021 jury verdict of $651 million (to be paid over 15 years) in federal court in Ohio for opioid claims, which the Company is appealing; (3) State settlements including $484 million with Florida (March 2022), and settlements with New Mexico, West Virginia, and Cherokee Nation in 2022; (4) Ongoing PBM litigation and investigations regarding drug pricing and rebate arrangements; and (5) Usual and Customary Pricing litigation alleging overcharging for prescription drugs.
+
+Answer B: Yes
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01107-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?
+
+Answer A: Yes. CVS Health has disclosed several material, long-running legal matters that span 2020–2022 (with roots going back much further): (1) Usual and Customary Pricing Litigation — numerous suits, some certified class actions, alleging its retail pharmacies overcharged by not submitting correct usual and customary prices, plus an October 2022 shareholder litigation demand to the Board; (2) PBM Litigation and Investigations — multiple suits by state Attorneys General, governmental subdivisions and putative classes over drug pricing and manufacturer rebate arrangements, plus FTC and multi-state AG subpoenas/CIDs into PBM pricing and rebates, and the qui tam case U.S. ex rel. Behnke v. CVS Caremark (complaint filed Feb 2014, unsealed April 2018, government declined to intervene) alleging misrepresented Medicare Part D prices; and (3) Controlled Substances (Opioid) Litigation — the consolidated MDL No. 2804 (In re National Prescription Opiate Litigation, N.D. Ohio) begun in December 2017 with hundreds of federal cases plus many state-court cases and state AG suits, in which a November 2021 Ohio federal jury found the Company liable and an August 2022 judgment of $651 million jointly against three defendants payable over 15 years (under appeal, no liability accrued); a March 2022 Florida settlement of $484 million payable over 18 years (a $484 million liability recorded in Q1 2022); 2022 settlements with New Mexico, West Virginia and the Cherokee Nation; a December 2022 formal settlement with state AGs and the Plaintiffs' Executive Committee of up to approximately $4.3 billion in opioid remediation plus $625 million in attorneys' fees/costs and additional remediation, payable over 10 years beginning in 2023 (45 states, D.C. and all eligible U.S. territories elected to join); and a December 2022 tribal settlement of up to $113 million in remediation plus $18 million in fees over 10 years. The Company states none of its accruals for outstanding legal matters are material individually or in the aggregate to its financial condition, but notes that substantial unanticipated verdicts, fines or rulings could have a material adverse effect on its results of operations and that governmental investigation outcomes could be material.
+
+Answer B: Yes. The filing discloses multiple significant, ongoing legal matters spanning those years, including: usual and customary pricing litigation over alleged prescription drug overcharges (with a related October 2022 shareholder litigation demand to the Board); PBM litigation and investigations regarding drug pricing and manufacturer rebates, including suits by state Attorneys General and putative class actions plus FTC and state AG subpoenas/CIDs, and the United States ex rel. Behnke False Claims Act case (complaint unsealed April 2018); and controlled substances/opioid litigation, including the In re National Prescription Opiate Litigation MDL No. 2804, a November 2021 jury finding of liability in federal court in Ohio followed by an August 2022 judgment of $651 million jointly against three defendants payable over 15 years (under appeal, no liability accrued), a March 2022 Florida settlement of $484 million payable over 18 years (a $484 million liability recorded in the three months ended March 31, 2022), 2022 settlements with New Mexico, West Virginia and the Cherokee Nation, and a December 2022 formal settlement with state Attorneys General and the PEC of up to approximately $4.3 billion in opioid remediation plus $625 million in attorneys' fees and additional remediation payable over 10 years beginning in 2023, along with a December 2022 tribal settlement of up to $113 million in remediation plus $18 million in fees.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01107-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?
+
+Answer A: Yes. The document describes several materially significant ongoing legal matters involving CVS Health during this period. In 2021 (November), CVS was among chain pharmacies found liable by a federal jury in Ohio in opioid litigation, and in August 2022 the court entered a joint judgment of $651 million (payable over 15 years) against the three defendants, which CVS is appealing without having accrued a liability. In 2022, CVS entered into multiple opioid-related settlements: a $484 million settlement with the State of Florida (recorded as a liability in Q1 2022), agreements with New Mexico, West Virginia, and the Cherokee Nation, and in December 2022 a broader settlement framework with a leadership group of state Attorneys General (up to approximately $4.3 billion in remediation plus $625 million in fees, payable over 10 years starting 2023) and a separate tribal settlement (up to $113 million plus $18 million in fees). The document also references ongoing PBM-related lawsuits and investigations (including FTC and state AG probes) and "usual and customary pricing" litigation, with an October 2022 shareholder litigation demand noted, though it does not specify a distinct 2020 legal event.
+
+Answer B: Yes — the document discloses multiple significant, ongoing litigation matters spanning 2020–2022, including Usual and Customary Pricing Litigation, PBM Litigation and Investigations (including the Behnke qui tam case), and extensive Controlled Substances/Opioid Litigation (e.g., the November 2021 Ohio jury verdict and August 2022 $651 million judgment, the March 2022 Florida settlement, and the December 2022 multistate and tribal settlement agreements worth up to approximately $4.3 billion plus $625 million in fees).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01148-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What industry does AMCOR primarily operate in?
+
+Answer A: Packaging (specifically responsible packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products)
+
+Answer B: Packaging industry
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01148-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What industry does AMCOR primarily operate in?
+
+Answer A: Packaging — Amcor plc develops and produces responsible packaging (primary packaging for fast-moving consumer goods) for food, beverage, pharmaceutical, medical, home and personal-care, and other products.
+
+Answer B: Packaging - Amcor plc is a global leader in developing and producing responsible packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01148-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What industry does AMCOR primarily operate in?
+
+Answer A: The packaging industry (responsible packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products)
+
+Answer B: The responsible/consumer packaging industry (packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

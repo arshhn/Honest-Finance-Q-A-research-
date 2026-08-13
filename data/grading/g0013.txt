@@ -1,0 +1,179 @@
+=== ITEM id=fb-00685-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Best Buy maintained relatively stable gross margins over time, staying within about a 2% annual swing? If gross margin isn't a meaningful metric for this type of company, please note that and explain the reasoning.
+
+Gold answer: Yes, the margins have been consistent, there has been a minor decline of 1.1% in gross margins between FY2022 and FY2023.
+
+Candidate answer: Yes, gross margin is a meaningful metric for Best Buy (a retailer) and it has been relatively stable: FY2021 gross margin was 22.4% (10,573/47,262), FY2022 was 22.5% (11,640/51,761), and FY2023 was 21.4% (9,912/46,298) — a swing of about +0.1 percentage points from FY2021 to FY2022 and about -1.1 percentage points from FY2022 to FY2023, both within roughly a 2% annual swing.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00702-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?
+
+Gold answer: Yes, the gain on completion of Consumer Healthcare JV Transaction
+
+Candidate answer: Yes. Pfizer's 2019 net income was substantially boosted by non-recurring, non-operating items — principally the roughly $8.1 billion pre-tax gain recognized on the completion of the Consumer Healthcare joint venture transaction with GlaxoSmithKline (Pfizer contributed its Consumer Healthcare business in exchange for a 32% equity stake). This gain, reported outside normal ongoing business operations, was the dominant driver of the year's increase in net income.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00702-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?
+
+Gold answer: Yes, the gain on completion of Consumer Healthcare JV Transaction
+
+Candidate answer: Yes - Pfizer recognized a substantial one-time gain in 2019 from the divestiture of its Consumer Healthcare business into the Pfizer/GSK Consumer Healthcare joint venture, which was not part of its standard ongoing business operations and boosted net income.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00702-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?
+
+Gold answer: Yes, the gain on completion of Consumer Healthcare JV Transaction
+
+Candidate answer: Yes, a gain of 8.107 billion USD on completion of Consumer Healthcare JV transaction
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00702-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?
+
+Gold answer: Yes, the gain on completion of Consumer Healthcare JV Transaction
+
+Candidate answer: Yes. In 2019 Pfizer recorded an $8,107 million gain on completion of the Consumer Healthcare JV transaction, and also $5,318 million of discontinued operations income, net of tax — both outside normal ongoing operations and both substantially increasing 2019 net income of $16,026 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00702-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?
+
+Gold answer: Yes, the gain on completion of Consumer Healthcare JV Transaction
+
+Candidate answer: Yes — a $8,107 million gain on completion of the Consumer Healthcare JV transaction in 2019, a non-operating, non-recurring item outside standard business operations that substantially boosted net income that year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00702-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2019, did Pfizer experience any non-recurring, outside-the-ordinary-course occurrences that meaningfully boosted its net income?
+
+Gold answer: Yes, the gain on completion of Consumer Healthcare JV Transaction
+
+Candidate answer: Yes, a gain of 8.107 billion USD on completion of Consumer Healthcare JV transaction
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00702-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2019, did Pfizer experience any non-recurring, outside-the-ordinary-course occurrences that meaningfully boosted its net income?
+
+Gold answer: Yes, the gain on completion of Consumer Healthcare JV Transaction
+
+Candidate answer: Yes. Fiscal 2019 net income was boosted by non-recurring items: an $8,107 million gain on completion of the Consumer Healthcare JV transaction, and $5,318 million of income from discontinued operations, net of tax. Together these non-operating/non-recurring items account for the bulk of the $16,026 million of net income attributable to Pfizer shareholders in 2019.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00702-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2019, did Pfizer experience any non-recurring, outside-the-ordinary-course occurrences that meaningfully boosted its net income?
+
+Gold answer: Yes, the gain on completion of Consumer Healthcare JV Transaction
+
+Candidate answer: Yes. Pfizer recorded an $8,107 million gain on completion of the Consumer Healthcare JV transaction in 2019, a non-recurring, outside-the-ordinary-course item that meaningfully boosted net income.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00711-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Approximately how many times did JnJ turn over its inventory during FY2022? Compute the FY2022 inventory turnover ratio; if standard inventory management doesn't meaningfully apply to this company, note that and explain the reasoning.
+
+Gold answer: JnJ sold its inventory 2.7 times in FY2022.
+
+Candidate answer: 2.72
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00711-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Approximately how many times did JnJ turn over its inventory during FY2022? Compute the FY2022 inventory turnover ratio; if standard inventory management doesn't meaningfully apply to this company, note that and explain the reasoning.
+
+Gold answer: JnJ sold its inventory 2.7 times in FY2022.
+
+Candidate answer: Approximately 2.72 times (COGS $31,089M / average inventory of ($12,483M + $10,387M)/2 = $11,435M). Standard inventory management does apply to J&J — it is a manufacturer of pharmaceutical, medical device, and consumer health products carrying real physical inventory, so the ratio is meaningful.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00711-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Approximately how many times did JnJ turn over its inventory during FY2022? Compute the FY2022 inventory turnover ratio; if standard inventory management doesn't meaningfully apply to this company, note that and explain the reasoning.
+
+Gold answer: JnJ sold its inventory 2.7 times in FY2022.
+
+Candidate answer: Approximately 2.72 times
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

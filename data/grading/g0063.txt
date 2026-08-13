@@ -1,0 +1,179 @@
+=== ITEM id=fb-01981-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was American Express able to retain card members during 2022?
+
+Gold answer: Yes
+
+Candidate answer: Yes. American Express retained its Card Members well in 2022 — attrition stayed low and retention rates remained strong (historically ~98% on premium/fee-based products), while the base grew rather than shrank: total cards-in-force rose to roughly 133 million at year-end 2022 (up from about 122 million a year earlier), on roughly 12.5 million new card acquisitions, and net card fee revenue grew about 18-20% to roughly $6.1 billion, which reflects continued renewals of fee-paying Card Members.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01981-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was American Express able to retain card members during 2022?
+
+Gold answer: Yes
+
+Candidate answer: Yes. American Express reported strong card member retention during 2022, with retention rates remaining high (around 98%), alongside record card member spending and continued growth in new card acquisitions.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01981-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was American Express able to retain card members during 2022?
+
+Gold answer: Yes
+
+Candidate answer: Yes, American Express was able to retain card members during 2022. The company explicitly reported that Card Member retention remained high in 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01981-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was American Express able to retain card members during 2022?
+
+Gold answer: Yes
+
+Candidate answer: Yes. The document states that in 2022 "Card Member retention remained high," alongside record levels of new card acquisitions, which together drove a 17 percent year-over-year increase in net card fees. American Express attributes this to investments in its premium value propositions. (No specific numeric retention rate is disclosed in the document.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01981-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was American Express able to retain card members during 2022?
+
+Gold answer: Yes
+
+Candidate answer: Yes. The document states that net card fees increased 17 percent year-over-year, as new card acquisitions reached record levels in 2022 and Card Member retention remained high.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02049-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking at VaR, did the risk that JPM faced in the second fiscal quarter of 2023 decrease compared to the same period in the prior year?
+
+Gold answer: Yes. It decreased.
+
+Candidate answer: Yes — JPMorgan's market risk as measured by Value-at-Risk declined year over year in the second quarter of 2023. Average total/CIB trading VaR for 2Q23 was roughly in the mid-$40 millions (approximately $45–50 million) versus roughly $55–60 million in 2Q22, a decrease of on the order of $10 million (roughly 15–20%), reflecting lower market volatility and reduced risk positioning relative to the elevated levels of mid-2022. (Direction of change is what I am confident about; the specific dollar amounts are approximate recollections, not verified against the 10-Q.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02049-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking at VaR, did the risk that JPM faced in the second fiscal quarter of 2023 decrease compared to the same period in the prior year?
+
+Gold answer: Yes. It decreased.
+
+Candidate answer: Yes. Average total VaR decreased by $7 million for the three months ended June 30, 2023 compared with June 30, 2022 (from $54 million to $47 million). Minimum VaR decreased from $41 million to $36 million, and maximum VaR decreased from $71 million to $56 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02049-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking at VaR, did the risk that JPM faced in the second fiscal quarter of 2023 decrease compared to the same period in the prior year?
+
+Gold answer: Yes. It decreased.
+
+Candidate answer: Yes. Average Total VaR fell from $54 million in Q2 2022 to $47 million in Q2 2023, a decrease of $7 million (about 13%). Minimum Total VaR also declined from $41 million to $36 million and maximum Total VaR from $71 million to $56 million, so by the VaR measure JPM's market risk in the second fiscal quarter of 2023 was lower than in the same period of the prior year (driven mainly by risk reductions in Credit Portfolio VaR and fixed income).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02049-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking at VaR, did the risk that JPM faced in the second fiscal quarter of 2023 decrease compared to the same period in the prior year?
+
+Gold answer: Yes. It decreased.
+
+Candidate answer: Yes. Average Total VaR for the three months ended June 30, 2023 was $47 million, down from $54 million for the same period ended June 30, 2022 — a decrease of $7 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02119-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: If JPM went bankrupted by the end by 2021 Q1 and liquidated all of its assets to pay its shareholders, how much could each shareholder get?
+
+Gold answer: They could receive $66.56 per share.
+
+Candidate answer: Approximately $100-110 per share (book value basis); realistic liquidation ~$75-90 per share
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02119-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: If JPM went bankrupted by the end by 2021 Q1 and liquidated all of its assets to pay its shareholders, how much could each shareholder get?
+
+Gold answer: They could receive $66.56 per share.
+
+Candidate answer: Roughly $82 per common share. As of March 31, 2021 (Q1 2021), JPMorgan Chase had total assets of about $3.69 trillion and total liabilities of about $3.4 trillion, leaving total stockholders' equity of roughly $290 billion. After deducting about $30 billion of preferred stock, common equity was about $250 billion against roughly 3.05 billion common shares outstanding — i.e., a book value of about $82 per share (tangible book value about $67 per share). In a real liquidation the realizable amount would likely be less.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02608-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In agreement with the information outlined in the income statement, what is the FY2015 - FY2017 3 year average net profit margin (as a %) for Best Buy? Answer in units of percents and round to one decimal place.
+
+Gold answer: 2.8%
+
+Candidate answer: 3.4%
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

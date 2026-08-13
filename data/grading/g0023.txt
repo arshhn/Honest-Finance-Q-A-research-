@@ -1,0 +1,188 @@
+=== ITEM id=fb-01226-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, what factors contributed to the change in 3M's operating margin? If operating margin isn't a meaningful metric for this type of company, please say so and explain the reasoning.
+
+Gold answer: Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges
+
+Candidate answer: Operating margin declined 1.7 percentage points due to higher PFAS litigation costs, Combat Arms Earplugs litigation charge (~$1.2 billion), increased raw materials and logistics costs, manufacturing productivity headwinds from Belgium operations shutdown and restart, impairment costs for exiting PFAS manufacturing, Russia exit costs, and divestiture restructuring charges, partially offset by selling price increases.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01226-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, what factors contributed to the change in 3M's operating margin? If operating margin isn't a meaningful metric for this type of company, please say so and explain the reasoning.
+
+Gold answer: Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges
+
+Candidate answer: Operating margin is a meaningful metric for 3M (a diversified industrial manufacturer). It fell 1.7 percentage points, from 20.8% of net sales in 2021 to 19.1% in 2022. Drivers: (1) Cost of sales rose 3.0 pts (to 56.2%) on 2022 special-item costs for significant litigation from additional commitments to address PFAS matters at the Zwijndrecht, Belgium site, higher raw materials and logistics costs, manufacturing productivity headwinds magnified by the Belgium shutdown and restarting previously-idled operations, and investments in growth/productivity/sustainability, partially offset by higher selling prices. (2) SG&A rose 6.1 pts (to 26.5%) on special-item litigation costs, primarily steps toward resolving Combat Arms Earplugs litigation (a Q2 2022 pre-tax charge of approximately $1.2 billion), impairment costs from exiting PFAS manufacturing, costs of exiting Russia, divestiture-related restructuring charges, and continued investment in key growth initiatives, partially offset by restructuring benefits and ongoing cost management. (3) Goodwill impairment expense added 0.8 pts, related to the Advanced Materials reporting unit following the commitment to exit PFAS manufacturing. Partially offsetting these: (4) a gain on business divestitures of -8.0 pts, from the Q3 2022 pre-tax gain of $2.7 billion ($2.7 billion after tax) on the split-off and combination of the Food Safety business with Neogen Corporation, and (5) R&D down 0.2 pts (to 5.4%). Ongoing worldwide ERP deployment investments also affected cost of sales, SG&A and R&D.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01226-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, what factors contributed to the change in 3M's operating margin? If operating margin isn't a meaningful metric for this type of company, please say so and explain the reasoning.
+
+Gold answer: Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges
+
+Candidate answer: Operating income margin is a meaningful metric for 3M (an industrial manufacturer), and it declined from 20.8% in 2021 to 19.1% in 2022, a decrease of 1.7 percentage points. The decline was driven by: (1) a higher cost of sales ratio (56.2% vs 53.2%), due to 2022 special item costs for PFAS-related litigation at the Zwijndrecht, Belgium site, higher raw materials and logistics costs, manufacturing productivity headwinds (magnified by the Belgium operations shutdown/restart), and growth/productivity/sustainability investments, partly offset by higher selling prices; (2) a higher SG&A ratio (26.5% vs 20.4%), driven by special item litigation costs including a ~$1.2 billion Q2 2022 pre-tax charge for Combat Arms Earplugs litigation, PFAS-exit impairment costs, Russia-exit costs, and divestiture-related restructuring charges, partly offset by restructuring benefits and cost management; (3) a new 0.8% goodwill impairment charge related to the Advanced Materials reporting unit from the PFAS manufacturing exit. These were partially offset by (4) a lower R&D ratio (5.4% vs 5.6%) and (5) an 8.0% gain on business divestitures (the $2.7 billion pre-tax gain on the Food Safety business split-off/combination with Neogen).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01244-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Q2 of fiscal year 2022, did CVS Health distribute dividends to its common shareholders?
+
+Gold answer: Yes, CVS paid a $ 0.55 dividend per share every quarter in FY2022
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01244-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Q2 of fiscal year 2022, did CVS Health distribute dividends to its common shareholders?
+
+Gold answer: Yes, CVS paid a $ 0.55 dividend per share every quarter in FY2022
+
+Candidate answer: Yes. CVS Health paid a quarterly cash dividend of $0.55 per common share in each quarter of 2022, including Q2 2022, and has paid cash dividends every quarter since becoming a public company.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01244-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For Q2 of fiscal year 2022, did CVS Health distribute dividends to its common shareholders?
+
+Gold answer: Yes, CVS paid a $ 0.55 dividend per share every quarter in FY2022
+
+Candidate answer: Yes. CVS Health paid a quarterly cash dividend of $0.55 per share during 2022 (which would include Q2 2022), and the document states the company has paid cash dividends every quarter since becoming a public company.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01254-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has MGM Resorts paid dividends to common shareholders in FY2022?
+
+Gold answer: Yes. MGM maintained 0.01$ per share annual dividend through out FY 2022.
+
+Candidate answer: Yes. MGM Resorts paid a nominal annual cash dividend of $0.01 per common share in FY2022 (approximately $5 million in total), while returning far more capital via share repurchases.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01254-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has MGM Resorts paid dividends to common shareholders in FY2022?
+
+Gold answer: Yes. MGM maintained 0.01$ per share annual dividend through out FY 2022.
+
+Candidate answer: No, MGM Resorts did not pay dividends to common shareholders in FY2022 (it has not paid a common dividend since suspending it in 2008).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01254-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has MGM Resorts paid dividends to common shareholders in FY2022?
+
+Gold answer: Yes. MGM maintained 0.01$ per share annual dividend through out FY 2022.
+
+Candidate answer: Yes. MGM Resorts maintained an annual dividend of $0.01 per share throughout 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01254-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has MGM Resorts paid dividends to common shareholders in FY2022?
+
+Gold answer: Yes. MGM maintained 0.01$ per share annual dividend through out FY 2022.
+
+Candidate answer: Yes. MGM Resorts maintained an annual dividend of $0.01 per share throughout 2022, so dividends were paid to common shareholders in FY2022; the dividend was suspended only as announced on February 8, 2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01254-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has MGM Resorts paid dividends to common shareholders in FY2022?
+
+Gold answer: Yes. MGM maintained 0.01$ per share annual dividend through out FY 2022.
+
+Candidate answer: Yes, MGM Resorts paid an annual dividend of $0.01 per share throughout FY2022 to common shareholders.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01254-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: During fiscal year 2022, did MGM Resorts distribute any dividends to holders of its common stock?
+
+Gold answer: Yes. MGM maintained 0.01$ per share annual dividend through out FY 2022.
+
+Candidate answer: Yes. MGM Resorts maintained an annual dividend of $0.01 per share throughout 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

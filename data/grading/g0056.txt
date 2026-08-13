@@ -1,0 +1,179 @@
+=== ITEM id=fb-01275-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?
+
+Gold answer: Best Buy generated the most cash flow from operating activities in FY 2023 ($1.8 bn)
+
+Candidate answer: Operating activities, which provided $1,824 million of cash in FY2023 (vs. investing activities using $962 million and financing activities using $1,806 million).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01275-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?
+
+Gold answer: Best Buy generated the most cash flow from operating activities in FY 2023 ($1.8 bn)
+
+Candidate answer: Operating activities, which provided $1,824 million in cash in FY2023, compared to cash used in investing activities of $(962) million and cash used in financing activities of $(1,806) million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01279-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?
+
+Gold answer: In 2022, AMD brought in the most cashflow from Operations
+
+Candidate answer: Operating activities
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01279-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?
+
+Gold answer: In 2022, AMD brought in the most cashflow from Operations
+
+Candidate answer: Operating activities. AMD's FY2022 net cash provided by operating activities was approximately $3.57 billion (about $3,565 million), which exceeded both investing activities (roughly +$1.9–2.0 billion net inflow, boosted by cash acquired in the Xilinx deal and investment maturities) and financing activities (roughly a $3.3 billion net outflow, driven mainly by ~$3.7 billion of share repurchases).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01279-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?
+
+Gold answer: In 2022, AMD brought in the most cashflow from Operations
+
+Candidate answer: Operating activities brought in the most cash for AMD in FY22 (net cash provided by operating activities was positive, roughly $3.5 billion), while investing activities and financing activities both used (lost) cash that year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01279-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?
+
+Gold answer: In 2022, AMD brought in the most cashflow from Operations
+
+Candidate answer: Operating activities, which brought in $3,565 million in cash flow
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01279-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?
+
+Gold answer: In 2022, AMD brought in the most cashflow from Operations
+
+Candidate answer: Operating activities, which provided $3,565 million in net cash in FY22 (vs. $1,999 million provided by investing and $3,264 million used in financing).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01279-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?
+
+Gold answer: In 2022, AMD brought in the most cashflow from Operations
+
+Candidate answer: Operating activities, which provided net cash of $3,565 million in FY22, compared to $1,999 million provided by investing activities and $3,264 million used in financing activities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01290-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who are the primary customers of Boeing as of FY2022?
+
+Gold answer: Boeing's primary customers as of FY2022 are a limited number of commercial airlines and the US government. The US government accounted for 40% of Boeing's total revenues in FY2022.
+
+Candidate answer: The U.S. Government and commercial airlines. The U.S. Government is the largest customer for Boeing's Defense, Space & Security segment, while commercial airlines are the primary customers for the Commercial Airplanes segment.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01290-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who are the primary customers of Boeing as of FY2022?
+
+Gold answer: Boeing's primary customers as of FY2022 are a limited number of commercial airlines and the US government. The US government accounted for 40% of Boeing's total revenues in FY2022.
+
+Candidate answer: Boeing's primary customers as of FY2022 were (1) commercial airlines and aircraft leasing companies worldwide, which buy its commercial jetliners and related support services, and (2) the U.S. government — principally the U.S. Department of Defense and NASA — along with allied/foreign governments purchasing defense, space and security products through direct commercial sales and U.S. Foreign Military Sales. The U.S. government accounted for roughly 40% of Boeing's total consolidated revenues in 2022 (about $26 billion of ~$66.6 billion), and no single commercial customer accounted for a comparably large share.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01290-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who are the primary customers of Boeing as of FY2022?
+
+Gold answer: Boeing's primary customers as of FY2022 are a limited number of commercial airlines and the US government. The US government accounted for 40% of Boeing's total revenues in FY2022.
+
+Candidate answer: Boeing's primary customers as of FY2022 fall into two main groups: (1) commercial airlines and aircraft leasing companies worldwide, which purchase jets from Boeing Commercial Airplanes, and (2) the U.S. government (principally the Department of Defense and NASA) and allied foreign governments/militaries, served through Boeing Defense, Space & Security and Global Services. The U.S. government is Boeing's single largest customer, representing a substantial share (roughly 40%+) of total company revenue in 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01290-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Who are the primary customers of Boeing as of FY2022?
+
+Gold answer: Boeing's primary customers as of FY2022 are a limited number of commercial airlines and the US government. The US government accounted for 40% of Boeing's total revenues in FY2022.
+
+Candidate answer: Boeing's primary customers as of FY2022 are: (1) Commercial airlines, from which the company derives a significant portion of revenues from a limited number of customers, and (2) The U.S. government, primarily the Department of Defense, from which 40% of revenues were earned in 2022 pursuant to U.S. government contracts.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

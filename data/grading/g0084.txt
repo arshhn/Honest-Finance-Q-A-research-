@@ -1,0 +1,179 @@
+=== ITEM id=fsq-203-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the dual class stock structure for QAD?
+
+Gold answer: QAD has a dual class stock structure with Class B common stock having one vote per share and Class A common stock having 1/20th vote per share.
+
+Candidate answer: QAD has a dual class common stock structure consisting of Class A common stock and Class B common stock. Class B common stock carries one vote per share, while Class A common stock carries 1/20th of a vote per share (a 20-to-1 voting ratio in favor of Class B). As of January 31, 2018, holders of Class B common stock collectively held approximately 80% of the voting power of QAD's outstanding capital stock, even though Class B represents a much smaller portion of total shares outstanding, meaning Class B holders can control matters submitted to a stockholder vote even if their share holdings fall to as little as 5% of outstanding Class A shares. Karl Lopker and Pamela Lopker jointly owned approximately 42% of the outstanding Class A and Class B shares, representing approximately 68% of the voting power.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-204-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total asset size of Colony Bank at the end of 2018?
+
+Gold answer: At the end of 2018, Colony Bank had approximately $1.25 billion in total assets.
+
+Candidate answer: approximately $1.25 billion
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-204-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total asset size of Colony Bank at the end of 2018?
+
+Gold answer: At the end of 2018, Colony Bank had approximately $1.25 billion in total assets.
+
+Candidate answer: Approximately $1.25 billion in total assets as of December 31, 2018.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-204-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total asset size of Colony Bank at the end of 2018?
+
+Gold answer: At the end of 2018, Colony Bank had approximately $1.25 billion in total assets.
+
+Candidate answer: Approximately $1.25 billion in total assets
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-204-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total as set size of Colony Bank at the end of 2018?
+
+Gold answer: At the end of 2018, Colony Bank had approximately $1.25 billion in total assets.
+
+Candidate answer: approximately $1.25 billion
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-204-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total as set size of Colony Bank at the end of 2018?
+
+Gold answer: At the end of 2018, Colony Bank had approximately $1.25 billion in total assets.
+
+Candidate answer: Approximately $1.25 billion in total assets as of December 31, 2018.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-204-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total as set size of Colony Bank at the end of 2018?
+
+Gold answer: At the end of 2018, Colony Bank had approximately $1.25 billion in total assets.
+
+Candidate answer: Approximately $1.25 billion in total assets
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-211-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue last year?
+
+Gold answer: The total revenue for the fiscal year ended October 31, 2017, was $367,955.
+
+Candidate answer: $249,682
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-211-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue last year?
+
+Gold answer: The total revenue for the fiscal year ended October 31, 2017, was $367,955.
+
+Candidate answer: $249,682 in total revenue for the fiscal year ended October 31, 2018 (versus $367,955 for fiscal year ended October 31, 2017). Note: the cover page of the filing states revenues for the most recent fiscal year were $277,966, which conflicts with the $249,682 figure in the Results of Operations discussion.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-211-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue last year?
+
+Gold answer: The total revenue for the fiscal year ended October 31, 2017, was $367,955.
+
+Candidate answer: $367,955 (total revenue for fiscal year ended October 31, 2017, referred to in the document as "last year")
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-211-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue last year?
+
+Gold answer: The total revenue for the fiscal year ended October 31, 2017, was $367,955.
+
+Candidate answer: $249,682
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-211-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue last year?
+
+Gold answer: The total revenue for the fiscal year ended October 31, 2017, was $367,955.
+
+Candidate answer: $249,682 in total revenue for the fiscal year ended October 31, 2018 (versus $367,955 for the fiscal year ended October 31, 2017). Note: the cover page states revenues for the most recent fiscal year were $277,966, which conflicts with the Results of Operations figure.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

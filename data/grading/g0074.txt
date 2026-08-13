@@ -1,0 +1,179 @@
+=== ITEM id=fsq-109-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What factors contribute to the bank's net interest income?
+
+Gold answer: The bank's net interest income is driven by a positive shift in earning asset mix due to growth in the loan and investment portfolios, coupled with higher short-term interest rates. This is partially offset by a higher rate paid on negotiated rate deposits.
+
+Candidate answer: Net interest income is the difference between interest and fees earned on interest-earning assets (loans and investment securities) and interest paid on interest-bearing liabilities (principally deposits and borrowings), so it is driven by: (1) the volume/mix of earning assets and interest-bearing liabilities — in 2017 taxable-equivalent net interest income rose $5.2 million, or 6.6%, to $84.2 million on a positive shift in earning asset mix from growth in the loan portfolio (average loan growth of $76 million, or 5.0%) and investment portfolio; (2) the level of market interest rates — higher short-term rates helped, partially offset by a higher rate paid on negotiated-rate deposits; and (3) repricing/maturity mismatch (interest rate risk), since income falls if more interest-earning assets than interest-bearing liabilities reprice or mature when rates decline, or more interest-bearing liabilities than earning assets reprice or mature when rates rise, with interest rate adjustment caps on adjustable-rate loans limiting increases. Market rates themselves are affected by inflation, recession, unemployment, the federal funds target rate, money supply, and domestic and international events/financial markets. On a reported basis, net interest income was up $5.0 million, or 6.4%, in 2017.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-109-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What factors contribute to the bank's net interest income?
+
+Gold answer: The bank's net interest income is driven by a positive shift in earning asset mix due to growth in the loan and investment portfolios, coupled with higher short-term interest rates. This is partially offset by a higher rate paid on negotiated rate deposits.
+
+Candidate answer: Net interest income is the difference between interest and fees received on interest-earning assets (such as loans and securities) and interest paid on interest-bearing liabilities (principally deposits and borrowings). It is affected by factors such as the volume and mix of loans and investments, short-term interest rates, the rate paid on negotiated rate deposits, and shifts in earning asset mix due to growth in the loan and investment portfolios.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-109-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: factors, bank's net interest income?
+
+Gold answer: The bank's net interest income is driven by a positive shift in earning asset mix due to growth in the loan and investment portfolios, coupled with higher short-term interest rates. This is partially offset by a higher rate paid on negotiated rate deposits.
+
+Candidate answer: The factors affecting Capital City Bank's net interest income include: (1) changes in market interest rates influenced by inflation, recession, unemployment, federal funds target rate, money supply, and domestic/international events; (2) repricing and maturity timing of interest-earning assets versus interest-bearing liabilities; (3) the difference between short-term and long-term interest rates (yield curve); (4) interest rate adjustment caps on adjustable-rate loans; and (5) increased competition for deposits from repeal of Regulation Q in a normalized interest rate environment.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-109-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: factors, bank's net interest income?
+
+Gold answer: The bank's net interest income is driven by a positive shift in earning asset mix due to growth in the loan and investment portfolios, coupled with higher short-term interest rates. This is partially offset by a higher rate paid on negotiated rate deposits.
+
+Candidate answer: Net interest income is the difference between income on interest-earning assets (loans, investment securities) and expense on interest-bearing liabilities (deposits, borrowings), and the filing identifies these factors affecting it: changes in market interest rates, which are driven by inflation, recession, unemployment, the federal funds target rate, money supply, domestic and international events, and changes in U.S. and other financial markets; repricing/maturity mismatches (net interest income falls if more interest-earning assets than interest-bearing liabilities reprice or mature when rates are declining, or more interest-bearing liabilities than assets reprice when rates are rising); changes in the spread between short-term and long-term rates (short-term deposits fund longer-term assets); interest-rate adjustment caps limiting increases on adjustable-rate loans; and deposit price competition (e.g., after repeal of Regulation Q). In 2017 taxable-equivalent net interest income rose $5.2 million, or 6.6%, to $84.2 million, with a net interest margin of 3.37%, up 12 basis points from 3.25% in 2016, driven by a 14 basis point increase in earning asset yield partly offset by a 2 basis point reduction in cost of funds.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-109-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: factors, bank's net interest income?
+
+Gold answer: The bank's net interest income is driven by a positive shift in earning asset mix due to growth in the loan and investment portfolios, coupled with higher short-term interest rates. This is partially offset by a higher rate paid on negotiated rate deposits.
+
+Candidate answer: The filing states that net interest income (the difference between income on interest-earning assets, such as loans and investment securities, and expense on interest-bearing liabilities, such as deposits and borrowings) is affected by factors including: unpredictable changes in market interest rates (driven by inflation, recession, unemployment, the federal funds target rate, money supply, and domestic/international events); a mismatch where more interest-earning assets than interest-bearing liabilities reprice or mature during a period of declining rates (or vice versa during rising rates); changes in the spread between short-term and long-term interest rates, since the company funds longer-term assets with short-term deposits, causing assets/liabilities to reprice at different speeds and affecting net interest margin; and interest rate adjustment caps on adjustable-rate loans that can limit rate increases if market rates rise rapidly.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-110-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many common shares were outstanding as of March 14, 2019?
+
+Gold answer: As of March 14, 2019, there were 14,222,378 shares of Sotherly Hotels Inc.'s common stock issued and outstanding.
+
+Candidate answer: 14,222,378 shares
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-110-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many common shares were outstanding as of March 14, 2019?
+
+Gold answer: As of March 14, 2019, there were 14,222,378 shares of Sotherly Hotels Inc.'s common stock issued and outstanding.
+
+Candidate answer: 14,222,378 shares of common stock
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-110-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How many common shares were outstanding as of March 14, 2019?
+
+Gold answer: As of March 14, 2019, there were 14,222,378 shares of Sotherly Hotels Inc.'s common stock issued and outstanding.
+
+Candidate answer: 14,222,378 shares
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-110-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total number of regular shares on March 14, 2019?
+
+Gold answer: As of March 14, 2019, there were 14,222,378 shares of Sotherly Hotels Inc.'s common stock issued and outstanding.
+
+Candidate answer: 14,222,378 shares
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-110-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total number of regular shares on March 14, 2019?
+
+Gold answer: As of March 14, 2019, there were 14,222,378 shares of Sotherly Hotels Inc.'s common stock issued and outstanding.
+
+Candidate answer: 14,222,378 shares of common stock issued and outstanding
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-110-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total number of regular shares on March 14, 2019?
+
+Gold answer: As of March 14, 2019, there were 14,222,378 shares of Sotherly Hotels Inc.'s common stock issued and outstanding.
+
+Candidate answer: 14,222,378 shares
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-114-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How are dividends taxed for a Real Estate Investment Trust (REIT)?
+
+Gold answer: Dividends from REITs are generally not eligible for the preferential tax rates applicable to qualified dividend income, meaning they are taxed at the shareholder's ordinary income tax rate.
+
+Candidate answer: A REIT that qualifies under Sections 856-860 of the Internal Revenue Code is generally not taxed at the corporate level under Federal and certain state income tax laws on taxable income it distributes to shareholders (subject to limited exceptions), so distributed income is taxed at the shareholder level; the REIT must meet a 90% distribution requirement, and it is taxed at regular corporate rates on any undistributed taxable income, including undistributed net capital gains (properly designated undistributed capital gains effectively avoid taxation at the shareholder level). At the shareholder level, under the Tax Cuts and Jobs Act of 2017, Code Section 199A (effective for tax years beginning after December 31, 2017 and before January 1, 2026) permits individual taxpayers and estates and trusts, subject to certain income limitations, to deduct 20% of the aggregate amount of qualified REIT dividends they receive from their taxable income. Qualified REIT dividends do not include any portion of a dividend classified as a capital gain dividend or qualified dividend income.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

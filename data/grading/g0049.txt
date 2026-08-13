@@ -1,0 +1,179 @@
+=== ITEM id=fb-00807-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: No. The quick ratio for 3M was 0.96 by Jun'23 close, which needs a bit of an improvement to touch the 1x mark
+
+Candidate answer: No — 3M's liquidity looked strained rather than healthy at Q2 FY2023. The quick ratio ((cash + marketable securities + receivables) / current liabilities) was roughly 0.8x (approximately 0.7–0.9x) as of June 30, 2023: about $4.3B cash and short-term investments plus roughly $4.9–5.0B of accounts receivable against roughly $11–12B+ of current liabilities, which were elevated by large accrued litigation/settlement liabilities (PFAS and Combat Arms). A quick ratio below 1.0x means the most liquid assets did not fully cover current obligations, so 3M was reliant on operating cash flow and its commercial paper/credit facilities rather than on-hand liquid assets. The quick ratio is a relevant, if incomplete, liquidity gauge here — it usefully strips out inventory, but it understates 3M's true flexibility because the company generates substantial recurring free cash flow and the litigation accruals are payable over many years rather than within the next 12 months.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00807-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: No. The quick ratio for 3M was 0.96 by Jun'23 close, which needs a bit of an improvement to touch the 1x mark
+
+Candidate answer: 3M's quick ratio for Q2 2023 is approximately 0.96, which is slightly below the healthy benchmark of 1.0. This indicates 3M has $0.96 of quick assets for every $1.00 of current liabilities. While not critical, this suggests a marginally tight liquidity position that would not be considered reasonably healthy. A more robust profile would show a quick ratio above 1.0.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00807-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: No. The quick ratio for 3M was 0.96 by Jun'23 close, which needs a bit of an improvement to touch the 1x mark
+
+Candidate answer: No — 3M's quick ratio at June 30, 2023 is about 0.85, below 1.0, so its short-term liquidity is somewhat weak rather than comfortably healthy. Quick assets = cash and cash equivalents $4,258M + current marketable securities $56M + net accounts receivable $4,947M = $9,261M; divided by total current liabilities of $10,936M = 0.85. This means the most liquid assets cover only ~85% of current liabilities, so 3M would need to convert inventory ($5,280M) or draw on external financing to fully meet near-term obligations. (Context: the ratio deteriorated from Dec 31, 2022, when quick assets of $8,425M over current liabilities of $9,523M gave ~0.88.) The quick ratio is a relevant liquidity measure here, though for a large investment-grade issuer like 3M with substantial cash generation and access to credit markets, a sub-1.0 quick ratio is not necessarily alarming on its own.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00807-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: No. The quick ratio for 3M was 0.96 by Jun'23 close, which needs a bit of an improvement to touch the 1x mark
+
+Candidate answer: Quick ratio = (Total current assets - Total inventories) / Total current liabilities = (15,754 - 5,280) / 10,936 = 10,474 / 10,936 ≈ 0.96. Since this is just below 1.0, 3M's liquidity profile is only marginally healthy — current liabilities slightly exceed its quick assets (cash, marketable securities, and receivables), meaning it cannot fully cover short-term obligations without selling inventory, though a ratio near 1.0 is not a severe liquidity concern.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00822-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Were there any board member nominees who had substantially more votes against joining than the other nominees?
+
+Gold answer: Yes, his name is Richard A. Johnson
+
+Candidate answer: Yes, Richard A. Johnson had substantially more votes against joining than the other nominees, with 16,105,005 votes against compared to the next highest nominee (Dona D. Young) who received 6,074,467 votes against.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00822-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Were there any board member nominees who had substantially more votes against joining than the other nominees?
+
+Gold answer: Yes, his name is Richard A. Johnson
+
+Candidate answer: Yes — Richard A. Johnson stood out. He received 16,105,005 votes against, roughly three times more than any other nominee (all others ranged from 294,935 to 6,074,467 votes against). Note that his abstentions were also far lower (77,685 vs. roughly 10.7 million for every other nominee), suggesting votes that were abstentions for others were cast against him. The next-highest against totals were Dona D. Young (6,074,467) and Alan D. Feldman (5,184,437); Virginia C. Drosos had the fewest (294,935).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00822-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Were there any board member nominees who had substantially more votes against joining than the other nominees?
+
+Gold answer: Yes, his name is Richard A. Johnson
+
+Candidate answer: Yes. Richard A. Johnson received substantially more "Votes Against" (16,105,005) than any other nominee — the next highest was Dona D. Young with 6,074,467, and most other nominees had between about 294,935 and 5,753,395 votes against.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00839-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?
+
+Gold answer: Yes. She was previous CEO of Ulta Beauty which means she had to manage a large retail company that has brick and mortar + online business. So yes she was a CEO in a similar company to Foot Locker before this.
+
+Candidate answer: Yes. Foot Locker's CEO, Mary N. Dillon (appointed September 1, 2022), had prior chief executive experience at comparable consumer-facing specialty retail companies: she served as Chief Executive Officer of Ulta Beauty, Inc. — a large U.S. specialty retail chain — from 2013 to 2021 (and as Executive Chair thereafter), and earlier as President and CEO of U.S. Cellular Corporation (2010–2013). So while Ulta is beauty rather than athletic footwear, her experience running a big-box/mall-based specialty retailer is directly analogous to Foot Locker's business.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00839-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?
+
+Gold answer: Yes. She was previous CEO of Ulta Beauty which means she had to manage a large retail company that has brick and mortar + online business. So yes she was a CEO in a similar company to Foot Locker before this.
+
+Candidate answer: No. Foot Locker's CEO Elliott Hill, who took over in August 2024, previously spent his career at Nike (most recently as President of Consumer, Product & Brand), but he had not previously served as CEO of Nike or any other company before joining Foot Locker.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00839-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?
+
+Gold answer: Yes. She was previous CEO of Ulta Beauty which means she had to manage a large retail company that has brick and mortar + online business. So yes she was a CEO in a similar company to Foot Locker before this.
+
+Candidate answer: Yes. Mary N. Dillon was Chief Executive Officer of Ulta Beauty, Inc. from 2013 to 2021, a specialty retail company structurally similar to Foot Locker, though operating in the beauty category rather than footwear and apparel.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00839-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?
+
+Gold answer: Yes. She was previous CEO of Ulta Beauty which means she had to manage a large retail company that has brick and mortar + online business. So yes she was a CEO in a similar company to Foot Locker before this.
+
+Candidate answer: Yes. Mary N. Dillon, appointed President and CEO effective September 1, 2022, previously served as Chief Executive Officer of Ulta Beauty, Inc. (July 2013 – June 2021, plus Executive Chair June 2021 – June 2022), a specialty retail chain comparable to Foot Locker. She also served as President and CEO of United States Cellular Corporation (2010–2013), though that is not a similar retail business. Her broader consumer-brand background includes Global Chief Marketing Officer/EVP of McDonald's (2005–2010) and President of PepsiCo's Quaker Foods division (2004–2005).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00839-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?
+
+Gold answer: Yes. She was previous CEO of Ulta Beauty which means she had to manage a large retail company that has brick and mortar + online business. So yes she was a CEO in a similar company to Foot Locker before this.
+
+Candidate answer: Yes. Mary N. Dillon, the new President and CEO, previously served as CEO of Ulta Beauty, Inc. (a specialty retailer) from July 2013 through June 2021, and also as President and CEO of United States Cellular Corporation from 2010 through 2013.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

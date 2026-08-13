@@ -1,0 +1,188 @@
+=== ITEM id=fb-01148-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What industry does AMCOR primarily operate in?
+
+Gold answer: Amcor is a global leader in packaging production for various use cases.
+
+Candidate answer: Packaging (specifically responsible packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01148-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What industry does AMCOR primarily operate in?
+
+Gold answer: Amcor is a global leader in packaging production for various use cases.
+
+Candidate answer: Packaging — Amcor plc develops and produces responsible packaging (primary packaging for fast-moving consumer goods) for food, beverage, pharmaceutical, medical, home and personal-care, and other products.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01148-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What industry does AMCOR primarily operate in?
+
+Gold answer: Amcor is a global leader in packaging production for various use cases.
+
+Candidate answer: The packaging industry (responsible packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01198-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove revenue change as of the FY22 for AMD?
+
+Gold answer: In 2022, AMD reported Higher sales of their EPYC server processors, higher semi-custom product sales, and the inclusion of Xilinx embedded product sales
+
+Candidate answer: Data Center segment growth (EPYC processor expansion in cloud and enterprise), partially offset by Client segment weakness
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01198-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove revenue change as of the FY22 for AMD?
+
+Gold answer: In 2022, AMD reported Higher sales of their EPYC server processors, higher semi-custom product sales, and the inclusion of Xilinx embedded product sales
+
+Candidate answer: AMD's FY2022 revenue was approximately $23.6 billion, up about $7.2 billion (roughly 44%) from $16.4 billion in FY2021. The increase was driven primarily by the Xilinx acquisition (which created the Embedded segment, contributing roughly $4.6 billion of revenue, up over 1,800%) and by Data Center segment growth of about 64% to roughly $6.0 billion on higher EPYC server processor sales. Gaming segment revenue also rose modestly (about 21% to roughly $6.8 billion) on semi-custom console SoC sales. These gains were partially offset by a decline in the Client segment (down about 10% to roughly $6.2 billion) due to weak PC/consumer demand and inventory correction in the second half of the year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01198-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove revenue change as of the FY22 for AMD?
+
+Gold answer: In 2022, AMD reported Higher sales of their EPYC server processors, higher semi-custom product sales, and the inclusion of Xilinx embedded product sales
+
+Candidate answer: AMD's FY22 revenue was approximately $23.6 billion, up about 44% year-over-year from $16.4 billion in FY21. The increase was primarily driven by the acquisition of Xilinx (and Pensando), which contributed significant embedded-segment revenue, along with strong growth in the Data Center segment from EPYC server processor sales. This was partially offset by a steep decline in Client segment (PC) revenue in the second half of 2022 due to weak PC market demand and customer inventory correction, as well as a decline in Gaming segment semi-custom revenue.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01198-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove revenue change as of the FY22 for AMD?
+
+Gold answer: In 2022, AMD reported Higher sales of their EPYC server processors, higher semi-custom product sales, and the inclusion of Xilinx embedded product sales
+
+Candidate answer: AMD's FY22 net revenue increased 44% (from $16.4 billion in 2021 to $23.6 billion in 2022) driven by: (1) a 64% increase in Data Center segment revenue primarily from higher sales of EPYC server processors, (2) a 21% increase in Gaming segment revenue primarily from higher semi-custom product sales, and (3) a significant increase in Embedded segment revenue from the inclusion of Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue due to weak PC market conditions and inventory correction.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01198-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove revenue change as of the FY22 for AMD?
+
+Gold answer: In 2022, AMD reported Higher sales of their EPYC server processors, higher semi-custom product sales, and the inclusion of Xilinx embedded product sales
+
+Candidate answer: Net revenue for FY2022 was $23.6 billion, up 44% from $16.4 billion in 2021. The increase was driven by a 64% increase in Data Center segment revenue (primarily higher EPYC server processor sales), a 21% increase in Gaming segment revenue (primarily higher semi-custom product sales), and a significant increase in Embedded segment revenue driven by the inclusion of Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue, primarily due to lower processor shipments from a weak PC market and significant inventory correction actions across the PC supply chain.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01198-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove revenue change as of the FY22 for AMD?
+
+Gold answer: In 2022, AMD reported Higher sales of their EPYC server processors, higher semi-custom product sales, and the inclusion of Xilinx embedded product sales
+
+Candidate answer: Net revenue for FY2022 was $23.6 billion, up 44% from $16.4 billion in FY2021. The increase was driven by a 64% increase in Data Center segment revenue (higher EPYC server processor sales), a 21% increase in Gaming segment revenue (higher semi-custom product sales), and a significant increase in Embedded segment revenue (from the inclusion of Xilinx embedded product sales). This growth was partially offset by a 10% decrease in Client segment revenue due to lower processor shipments from a weak PC market and inventory correction actions across the PC supply chain.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01226-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges
+
+Candidate answer: 3M's GAAP operating margin fell roughly 1.7 percentage points in FY2022, to about 19.1% (operating income ~$6.5 billion on ~$34.2 billion of net sales) from about 20.8% in FY2021 (~$7.4 billion on ~$35.4 billion). Operating margin is a meaningful metric for 3M, since it is a diversified industrial manufacturer. The main drivers of the decline were: (1) large special/litigation-related charges, principally the ~$1.0 billion pre-tax charge tied to the Aearo/Combat Arms earplug trust commitment plus other legal and environmental (PFAS/respirator) costs, which alone cost roughly 3 percentage points of margin; (2) restructuring and divestiture/separation-related costs as 3M announced the Health Care spin and exited Russia and PFAS manufacturing; (3) continued raw material, logistics and wage inflation, and manufacturing productivity/supply-chain inefficiencies; (4) lower volumes and negative mix from the fall-off in disposable respirator demand and weak consumer electronics/China-related end markets, which reduced operating leverage; and (5) an unfavorable foreign-currency translation headwind from a strong U.S. dollar. Partially offsetting these were selling-price increases that outpaced prior-year pricing, and tight discretionary spending and overhead control. Note that the large gain on the Food Safety business split-off in 2022 was recorded below the operating line (in other income), so it did not help operating margin. Figures are approximate and should be confirmed against 3M's FY2022 Form 10-K.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01226-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges
+
+Candidate answer: 3M's operating margin declined in FY2022 versus FY2021, driven primarily by: (1) large litigation-related charges, most notably provisions tied to the Combat Arms earplugs (Aearo Technologies) litigation and PFAS-related environmental litigation/remediation, which hit operating income directly; (2) significant cost inflation in raw materials, energy, and freight/logistics that outpaced price increases; (3) supply chain disruptions and lower production volumes/manufacturing inefficiencies; and (4) restructuring and impairment charges. GAAP operating margin fell from roughly 20-21% in FY2021 to roughly the mid-teens (approximately 13-16%) in FY2022, with the litigation charges being the single largest driver of the year-over-year decline. Operating margin is a meaningful metric for 3M (a diversified industrials/manufacturing company), though large one-time litigation and impairment charges make GAAP margin volatile, so analysts often also look at adjusted/non-GAAP operating margin to assess underlying business trends.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01226-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: Operating Margin for 3M in FY2022 has decreased by 1.7% primarily due to: 
+-Decrease in gross Margin
+-mostly one-off charges including Combat Arms Earplugs litigation, impairment related to exiting PFAS manufacturing, costs related to exiting Russia and divestiture-related restructuring
+charges
+
+Candidate answer: 3M's operating margin declined 1.7 percentage points from 20.8% (2021) to 19.1% (2022). Primary drivers were: Cost of sales increased 3.0 pp due to PFAS litigation costs, higher raw materials/logistics, manufacturing headwinds from Belgium operations, and growth investments (partially offset by price increases). SG&A increased 6.1 pp primarily from Combat Arms Earplugs litigation charge (~$1.2B), PFAS exit impairments, Russia exit costs, restructuring charges, and growth investments (partially offset by restructuring benefits). Goodwill impairment added 0.8 pp from PFAS exit. R&D decreased 0.2 pp. Operating margin remains a useful metric for this company as management treats it as a key performance indicator.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

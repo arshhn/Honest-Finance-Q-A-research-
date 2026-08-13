@@ -41,4 +41,6 @@ def dump_single(keys, out_name):
 n_single = dump_single(["fb_main", "fb_para"], "fb_single.results.jsonl")
 bj = [p for p in paths.get("fb_batched", []) if pathlib.Path(p).exists()]
 n_batched, n_equiv = batched_to_batchraw(bj, RAW / "fb_batched.results.jsonl") if bj else (0, 0)
-print(f"single={n_single} batched={n_batched} equivalence={n_equiv}")
+fj = [p for p in paths.get("fsq", []) if pathlib.Path(p).exists()]
+n_fsq, _ = batched_to_batchraw(fj, RAW / "fsq_batched.results.jsonl") if fj else (0, 0)
+print(f"single={n_single} batched={n_batched} equivalence={n_equiv} fsq={n_fsq}")

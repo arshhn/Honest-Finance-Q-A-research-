@@ -1,0 +1,131 @@
+=== ITEM id=m2-00407-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?
+
+Answer A: Corporate bonds ($416,420 thousand)
+
+Answer B: Corporate bonds, at $416,420 thousand
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00438-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Answer A: No. Adobe's operating margin declined to 34.64% in FY2022 from 36.75% in FY2021, despite remaining above FY2020's 32.91%. The operating margin profile is not improving as of FY2022. Operating margin is a useful metric for Adobe as a software-subscription company with high gross margins, reflecting operational efficiency and expense management.
+
+Answer B: No, Adobe's operating margin did not trend upward for fiscal year 2022. The operating margin decreased from 36.7% in FY2021 to 34.6% in FY2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00438-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Answer A: No — operating margin is a useful metric for Adobe (a software company with a normal cost/opex structure), but it is not improving as of FY2022. Operating margin = operating income / total revenue: FY2022 = $6,098M / $17,606M = 34.6%; FY2021 = $5,802M / $15,785M = 36.8%; FY2020 = $4,237M / $12,868M = 32.9%. So margin expanded ~3.8 percentage points from FY2020 to FY2021, then contracted ~2.1 percentage points in FY2022. The FY2022 deterioration reflects operating expenses growing 15.1% ($8,118M to $9,343M) versus revenue growth of 11.5% ($15,785M to $17,606M) — mainly R&D (+17.6%) and sales and marketing (+15.0%) — while gross margin was essentially flat (87.7% in FY2022 vs. 88.2% in FY2021), so the margin decline is opex-driven. Net: FY2022 margin is still above FY2020 but is trending down year over year, so the profile is not improving.
+
+Answer B: No. Operating margin is a meaningful measure for Adobe, and it declined in FY2022: operating income of $6,098M on revenue of $17,606M gives a 34.6% margin, down from 36.8% in FY2021 ($5,802M / $15,785M), though still above FY2020's 32.9% ($4,237M / $12,868M)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00438-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.
+
+Answer A: No. Operating margin (operating income / total revenue) was 32.9% in FY2020 (4,237/12,868), rose to 36.8% in FY2021 (5,802/15,785), but then declined to 34.6% in FY2022 (6,098/17,606). So as of FY2022, the operating margin profile is not improving — it contracted year-over-year versus FY2021, even though it remains above the FY2020 level.
+
+Answer B: No, operating margin declined in FY2022, from approximately 36.8% of revenue in FY2021 ($5,802M/$15,785M) to approximately 34.6% in FY2022 ($6,098M/$17,606M)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00460-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Was there any change in the number of Best Buy stores between Q2 of FY2024 and FY2023?
+
+Answer A: Yes, the number of Best Buy stores decreased from 930 to 907 stores, a decrease of 23 stores.
+
+Answer B: Yes
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00460-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Was there any change in the number of Best Buy stores between Q2 of FY2024 and FY2023?
+
+Answer A: Yes. Best Buy branded stores decreased by 23 stores year-over-year: 907 stores at the end of Q2 fiscal 2024 versus 930 at the end of Q2 fiscal 2023. (Within Q2 fiscal 2024 itself, the count went from 908 at the beginning to 907 at the end — 0 opened, 1 closed — while in Q2 fiscal 2023 it went from 931 to 930, with 1 opened and 2 closed.)
+
+Answer B: Yes. Total Domestic segment stores at the end of the second quarter fell from 982 in fiscal 2023 to 969 in fiscal 2024, a decrease of 13 stores; Best Buy-branded stores specifically fell from 930 to 907, a decrease of 23 stores.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00460-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Was there any change in the number of Best Buy stores between Q2 of FY2024 and FY2023?
+
+Answer A: Yes. The number of Best Buy stores decreased from 930 at the end of Q2 FY2023 to 907 at the end of Q2 FY2024, a decrease of 23 stores.
+
+Answer B: Yes, total Best Buy stores decreased from 930 at the end of Q2 FY2023 to 907 at the end of Q2 FY2024, a decrease of 23 stores.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00464-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is Boeing's business subject to cyclicality?
+
+Answer A: Yes. The document explicitly states that "the airline industry has been cyclical and very competitive and has experienced significant profit swings," and Boeing depends heavily on commercial airlines for its business.
+
+Answer B: Yes
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00464-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is Boeing's business subject to cyclicality?
+
+Answer A: Yes. The document states that Boeing depends heavily on commercial airlines and that "[h]istorically, the airline industry has been cyclical and very competitive and has experienced significant profit swings and constant challenges to be more cost competitive." Because demand for Boeing's commercial aircraft is driven by long-term airline passenger and cargo traffic trends, airline profitability, economic growth, and similar macroeconomic factors, deterioration in the global economy or the airline industry can reduce new orders and cause postponements or cancellations, lowering revenues, profitability, cash flows, and backlog.
+
+Answer B: Yes. Boeing states that market conditions significantly affect demand for its commercial aircraft, that the principal drivers of long-term traffic growth are sustained economic growth and political stability, and that the airline industry has historically been cyclical and very competitive with significant profit swings. Significant deterioration in the global economic environment could result in fewer new orders, postponed or cancelled orders, and lower revenues, profitability and cash flows, so its business does fluctuate with economic cycles.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00464-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is Boeing's business subject to cyclicality?
+
+Answer A: Yes. The document states that the airline industry "has been cyclical and very competitive and has experienced significant profit swings," and since Boeing's commercial aircraft business depends heavily on commercial airlines, it is subject to this cyclicality.
+
+Answer B: Yes — the document states the airline industry (which drives demand for Boeing's commercial aircraft) has historically been cyclical and very competitive, so Boeing's business tends to fluctuate with economic cycles.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00476-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which debt securities are registered to trade on a national securities exchange under American Express' name as of 2022?
+
+Answer A: None. The cover page's list of securities registered pursuant to Section 12(b) of the Act contains only one class — Common Shares (par value $0.20 per share), trading symbol AXP, on the New York Stock Exchange — and securities registered under Section 12(g) are stated as "None." No debt securities are registered to trade on a national securities exchange under American Express Company's name as of the 2022 Form 10-K.
+
+Answer B: None. The only security registered under Section 12(b) and listed on a national securities exchange (the New York Stock Exchange) is the Common Shares (par value $0.20 per share), trading symbol AXP; no debt securities are listed, and securities registered under Section 12(g) are None.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00494-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What production rate changes is Boeing forecasting for FY2023?
+
+Answer A: Boeing is forecasting the following production rate changes for FY2023: (1) 787 program will gradually increase to 5 per month in 2023; (2) 777X production is currently paused and is expected to resume in 2023; (3) 737 program is currently stabilized at 31 per month with plans to gradually increase 737 production rates based on market demand and supply chain capacity.
+
+Answer B: Boeing projects to gradually increase 787 production to 5 per month, resume 777X production, and gradually increase 737 production rates from 31 per month based on market demand and supply chain capacity.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

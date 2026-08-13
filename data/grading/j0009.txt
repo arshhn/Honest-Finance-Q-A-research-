@@ -1,0 +1,131 @@
+=== ITEM id=m2-00724-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: For Pfizer, which geographic region had the biggest drop in Q22023 year over year revenues (on a percentage basis)?
+
+Answer A: Developed Rest of World, with Q2 2023 revenues of $1,305 million versus $5,034 million in Q2 2022, a 74% decline (the largest percentage drop of any region).
+
+Answer B: Developed Rest of World, with a 74% year-over-year decline in Q2 2023 revenues (to $1,305 million from $5,034 million). By comparison: Developed Europe (56)%, Emerging Markets (53)%, and the United States (45)%.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00724-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: For Pfizer, which geographic region had the biggest drop in Q22023 year over year revenues (on a percentage basis)?
+
+Answer A: Developed Rest of World, which declined 74% year over year in Q2 2023 (from $5,034 million to $1,305 million)
+
+Answer B: Developed Rest of World, with a 74% year-over-year revenue decline in Q2 2023 (from $5,034 million to $1,305 million), the largest percentage drop among Pfizer's geographic regions (compared to United States -45%, Developed Europe -56%, and Emerging Markets -53%).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00735-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+
+Answer A: No. Management states that the final outcome of litigation and proceedings will not have a material adverse effect on financial condition, but no materially important ongoing legal battles are specifically disclosed.
+
+Answer B: No. While Pepsico discloses it is party to various litigation and claims, management states these will not have a material adverse effect. No specific significant ongoing litigation is disclosed in the document.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00735-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+
+Answer A: No. PepsiCo states it is party to a variety of litigation, claims, and legal or regulatory proceedings, but management believes the final outcome will not have a material adverse effect on its financial condition, results of operations, or cash flows — i.e., no materially important ongoing legal battles were disclosed.
+
+Answer B: No. PepsiCo discloses that it and its subsidiaries are party to a variety of litigation, claims, and legal or regulatory proceedings, but management believes the final outcome will not have a material adverse effect on its financial condition, results of operations, or cash flows — so no significant/material ongoing litigation was disclosed.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00735-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?
+
+Answer A: No. The document states that while Pepsico and its subsidiaries are party to various litigation, claims, and legal/regulatory proceedings, management believes the final outcome will not have a material adverse effect on its financial condition, results of operations, or cash flows; no specific materially important ongoing legal matters are disclosed.
+
+Answer B: No. Pepsico discloses that it is party to various litigation and legal proceedings but states management believes none will have a material adverse effect on its financial condition, results of operations, or cash flows, so no significant ongoing litigation is specifically identified.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00746-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?
+
+Answer A: None. No debt securities are registered on a national securities exchange under Ulta Beauty's name; the only class registered pursuant to Section 12(b) is common stock, par value $0.01 per share (ULTA, The NASDAQ Global Select Market), with none registered under Section 12(g).
+
+Answer B: None. Ulta Beauty has no debt securities listed on a national securities exchange; the only security registered under Section 12(b) is its common stock, par value $0.01 per share (ticker ULTA, NASDAQ Global Select Market), and no securities are registered under Section 12(g).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00746-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?
+
+Answer A: None — the only security registered pursuant to Section 12(b) and listed on a national exchange is Ulta Beauty's common stock (ULTA) on The NASDAQ Global Select Market; no debt securities are listed.
+
+Answer B: None — the document shows only common stock (ULTA) registered under Section 12(b) and listed on The NASDAQ Global Select Market; no debt securities are listed.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00757-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Did AMD report customer concentration in FY22?
+
+Answer A: Yes, AMD reported customer concentration in FY22. One customer accounted for 16% of consolidated net revenue for the year ended December 31, 2022.
+
+Answer B: Yes
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00757-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Did AMD report customer concentration in FY22?
+
+Answer A: Yes. AMD reported that one customer accounted for 16% of consolidated net revenue for the year ended December 31, 2022. Sales to this customer consisted of products from AMD's Gaming segment, and AMD stated a loss of this customer would have a material adverse effect on its business.
+
+Answer B: Yes. AMD disclosed customer concentration: one customer accounted for 16% of consolidated net revenue for the year ended December 31, 2022 (sales of Gaming segment products), and a loss of this customer would have a material adverse effect on its business.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00757-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Did AMD report customer concentration in FY22?
+
+Answer A: Yes — one customer accounted for 16% of consolidated net revenue for the year ended December 31, 2022 (sales from the Gaming segment).
+
+Answer B: Yes, AMD reported customer concentration — one customer accounted for 16% of consolidated net revenue for fiscal year 2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00790-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is CVS Health a capital-intensive business based on FY2022 data?
+
+Answer A: CVS Health exhibits moderate capital intensity. Based on FY2022 data, property and equipment represents 4.0% of revenues ($12.9B of $322.5B), supplemented by operating lease right-of-use assets of $17.9B (5.5% of revenues). For a retail pharmacy and healthcare services company, these metrics indicate meaningful capital requirements for store networks and facilities, though lower than capital-intensive industries like utilities or telecommunications.
+
+Answer B: Yes, based on significant property, equipment, and operating lease obligations indicating capital intensity
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00790-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is CVS Health a capital-intensive business based on FY2022 data?
+
+Answer A: No — CVS Health is not a capital-intensive business based on FY2022 data. Net property and equipment was only $12,873 million, or about 5.6% of total assets of $228,275 million, and equal to just ~4.0% of total revenues of $322,467 million (revenue/net PP&E of roughly 25x). Total asset turnover was about 1.4x ($322,467M revenue / $228,275M total assets). The balance sheet is dominated by intangible-type and working-capital/insurance items rather than fixed assets — goodwill of $78,150 million and intangible assets, net of $24,754 million together are about $102,904 million (~45% of total assets), plus accounts receivable of $27,276 million and inventories of $19,090 million. CVS also leases rather than owns most of its store base (operating lease right-of-use assets of $17,872 million, well above owned PP&E). So CVS is better characterized as a low-fixed-asset, high-turnover retail/pharmacy-services and insurance business, though it is balance-sheet heavy overall due to goodwill and intangibles from acquisitions.
+
+Answer B: No. CVS Health is not a capital-intensive business. At December 31, 2022, net property and equipment was only $12,873 million out of $228,275 million of total assets (about 5.6%), while the balance sheet is dominated by receivables, inventories, goodwill and intangibles. Its FY2022 cost structure is driven by cost of products sold ($196,892 million) and benefit costs ($71,281 million) on $322,467 million of revenues, which is characteristic of a retail/pharmacy and health-insurance services business rather than a heavy fixed-asset business.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

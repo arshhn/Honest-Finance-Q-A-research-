@@ -1,0 +1,179 @@
+=== ITEM id=fsq-058-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the fiscal year end for Pioneer Power Solutions?
+
+Gold answer: Pioneer Power Solutions' fiscal year ended on December 31, 2018.
+
+Candidate answer: December 31, 2018
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-058-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the fiscal year end for Pioneer Power Solutions?
+
+Gold answer: Pioneer Power Solutions' fiscal year ended on December 31, 2018.
+
+Candidate answer: December 31 (fiscal year ended December 31, 2018)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-058-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the financial year end date for Pioneer Power Solutions?
+
+Gold answer: Pioneer Power Solutions' fiscal year ended on December 31, 2018.
+
+Candidate answer: December 31, 2018
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-058-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the financial year end date for Pioneer Power Solutions?
+
+Gold answer: Pioneer Power Solutions' fiscal year ended on December 31, 2018.
+
+Candidate answer: December 31, 2018
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-058-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the financial year end date for Pioneer Power Solutions?
+
+Gold answer: Pioneer Power Solutions' fiscal year ended on December 31, 2018.
+
+Candidate answer: December 31 (fiscal year ended December 31, 2018)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-074-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the primary reasons for Surna’s engineering services?
+
+Gold answer: Surna focuses on securing sales contracts and beginning the engineering and design phase early in the customer's planning process for several reasons: assisting customers with engineering and design plans as part of their licensing application process, ensuring customers have appropriately sized equipment for their needs, better positioning Surna to utilize its proprietary equipment for the project at an earlier stage, and reducing a customer's time to market.
+
+Candidate answer: Customers use Surna's engineering services because they want experts to design their facilities and rely on Surna's reputation and technical experience. The services deliver practical solutions to complicated problems in three primary areas: (i) precision climate and environmental controls, (ii) energy and water efficiency, and (iii) building code and permitting.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-074-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the primary reasons for Surna’s engineering services?
+
+Gold answer: Surna focuses on securing sales contracts and beginning the engineering and design phase early in the customer's planning process for several reasons: assisting customers with engineering and design plans as part of their licensing application process, ensuring customers have appropriately sized equipment for their needs, better positioning Surna to utilize its proprietary equipment for the project at an earlier stage, and reducing a customer's time to market.
+
+Candidate answer: Customers engage Surna for their environmental and climate control systems because they want experts to design their facilities, and they come to Surna because of its reputation. Surna's engineering services provide energy- and water-efficient solutions with precise temperature, humidity, light and process controls to meet the unique demands of a cannabis cultivation environment, satisfy evolving code and regulatory requirements at the state, provincial and local levels, and improve crop quality and yield while optimizing the resource efficiency of controlled-environment cultivation facilities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-074-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the primary reasons for Surna’s engineering services?
+
+Gold answer: Surna focuses on securing sales contracts and beginning the engineering and design phase early in the customer's planning process for several reasons: assisting customers with engineering and design plans as part of their licensing application process, ensuring customers have appropriately sized equipment for their needs, better positioning Surna to utilize its proprietary equipment for the project at an earlier stage, and reducing a customer's time to market.
+
+Candidate answer: Customers engage Surna for their environmental and climate control systems (engineering services) because they want experts to design their facilities, and they come to Surna because of its reputation.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-074-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the usual reasons for using Surna's engineering services?
+
+Gold answer: Surna focuses on securing sales contracts and beginning the engineering and design phase early in the customer's planning process for several reasons: assisting customers with engineering and design plans as part of their licensing application process, ensuring customers have appropriately sized equipment for their needs, better positioning Surna to utilize its proprietary equipment for the project at an earlier stage, and reducing a customer's time to market.
+
+Candidate answer: Customers use Surna's engineering services because they want experts to design their facilities and come to Surna because of its reputation. The services address three primary problem areas: (i) precision climate and environmental controls, (ii) energy and water efficiency, and (iii) building code and permitting.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-074-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the usual reasons for using Surna's engineering services?
+
+Gold answer: Surna focuses on securing sales contracts and beginning the engineering and design phase early in the customer's planning process for several reasons: assisting customers with engineering and design plans as part of their licensing application process, ensuring customers have appropriately sized equipment for their needs, better positioning Surna to utilize its proprietary equipment for the project at an earlier stage, and reducing a customer's time to market.
+
+Candidate answer: Customers engage Surna for their environmental and climate control systems because they want experts to design their facilities, and they come to Surna because of its reputation. Surna's engineering (mechanical/environmental control) services provide energy- and water-efficient solutions delivering precise temperature, humidity, light and process control to meet the demands of a cannabis cultivation environment, satisfy evolving state, provincial and local code and regulatory requirements, and improve crop quality and yield while optimizing resource efficiency.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-074-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are the usual reasons for using Surna's engineering services?
+
+Gold answer: Surna focuses on securing sales contracts and beginning the engineering and design phase early in the customer's planning process for several reasons: assisting customers with engineering and design plans as part of their licensing application process, ensuring customers have appropriately sized equipment for their needs, better positioning Surna to utilize its proprietary equipment for the project at an earlier stage, and reducing a customer's time to market.
+
+Candidate answer: Customers engage Surna for their environmental and climate control systems (engineering services) because they want experts to design their facilities, and they come to Surna because of its reputation.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-080-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What caused the high effective tax rate in 2017?
+
+Gold answer: The high effective tax rate in 2017 was primarily due to earnings in international jurisdictions currently under an income tax holiday and a $62.4 million expense related to the US 2017 Tax Act.
+
+Candidate answer: The high effective tax rate of 87.8% in 2017 was primarily caused by $62.4 million of expense related to the US 2017 Tax Act (Tax Cuts and Jobs Act). Without this and other adjustments, the effective tax rate would have been 24.4%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

@@ -1,0 +1,193 @@
+=== ITEM id=fb-01091-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Boeing reported any materially important ongoing legal battles from FY2022?
+
+Gold answer: Yes. Multiple lawsuits have been filed against Boeing resulting from a 2018 Lion Air crash and a 2019 Ethiopian Airlines crash.
+
+Candidate answer: Yes, Boeing reported materially important ongoing legal battles in FY2022, including remaining pending lawsuits related to 737 MAX accidents and an ongoing Embraer arbitration dispute. Additionally, Boeing settled an SEC investigation in September 2022 resulting in a $200 million civil penalty.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01091-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Boeing reported any materially important ongoing legal battles from FY2022?
+
+Gold answer: Yes. Multiple lawsuits have been filed against Boeing resulting from a 2018 Lion Air crash and a 2019 Ethiopian Airlines crash.
+
+Candidate answer: Yes. Boeing discloses two materially important ongoing legal matters as of FY2022: (1) multiple legal actions arising from the October 29, 2018 Lion Air Flight 610 and March 10, 2019 Ethiopian Airlines Flight 302 crashes and the 737 MAX — during 2021 Boeing entered a Deferred Prosecution Agreement with the U.S. DOJ and a proposed settlement of a shareholder derivative suit (yielding $219 million received in Q2 2022), and in September 2022 settled an SEC investigation with a civil penalty causing a $200 million earnings charge paid in October 2022, while remaining lawsuits continue with no reasonably estimable range of loss; and (2) arbitration with Embraer S.A. over Boeing's 2020 termination of the 2019 joint venture agreements (including the planned 80% stake for $4,200 million), which Embraer disputes, with no reasonably estimable range of loss and completion expected in late 2023 or early 2024.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01091-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Boeing reported any materially important ongoing legal battles from FY2022?
+
+Gold answer: Yes. Multiple lawsuits have been filed against Boeing resulting from a 2018 Lion Air crash and a 2019 Ethiopian Airlines crash.
+
+Candidate answer: Yes. As of FY2022, Boeing still faces materially important ongoing legal matters: (1) multiple pending lawsuits and other matters related to the 737 MAX accidents (Lion Air Flight 610, October 29, 2018, and Ethiopian Airlines Flight 302, March 10, 2019), for which Boeing states it cannot reasonably estimate a range of loss not covered by insurance; and (2) an arbitration dispute with Embraer S.A. over Boeing's termination of the 2019 joint venture agreements (an ~80% stake acquisition valued at $4,200), which Embraer disputed and which was in arbitration expected to conclude in late 2023 or early 2024, with no reasonably estimable range of loss.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01107-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?
+
+Gold answer: Yes, CVS Health has been involved in multiple ongoing legal battles. Some notable legal dispute areas for CVS are: (1) usual and customary pricing litigation: where it's claimed that CVSâs retail pharmacies overcharged for prescription drugs; (2) PBM litigation and investigations: where it's claimed that that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products; and (3) controlled substances litigation: legal matters around opioids for which CVS has agreed to pay up to $4.3 billion to claimants in remediation and $625 million to attorneys and fees
+
+Candidate answer: Yes, CVS Health reported materially important ongoing legal matters during 2022, 2021, and 2020, including significant opioid-related litigation and settlements.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01107-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?
+
+Gold answer: Yes, CVS Health has been involved in multiple ongoing legal battles. Some notable legal dispute areas for CVS are: (1) usual and customary pricing litigation: where it's claimed that CVSâs retail pharmacies overcharged for prescription drugs; (2) PBM litigation and investigations: where it's claimed that that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products; and (3) controlled substances litigation: legal matters around opioids for which CVS has agreed to pay up to $4.3 billion to claimants in remediation and $625 million to attorneys and fees
+
+Candidate answer: Yes. Across its FY2020, FY2021 and FY2022 Form 10-K filings, CVS Health disclosed several materially important ongoing legal matters, the largest of which was opioid litigation. Key items:
+
+1. Opioid litigation (the dominant matter in all three years) — thousands of suits by states, counties, cities, tribes, hospitals and individuals against CVS/Caremark as a pharmacy dispenser and PBM, consolidated largely in the federal opioid MDL (MDL 2804, N.D. Ohio) plus many state-court cases. In November 2021 a federal jury in the Lake and Trumbull County, Ohio "Track 3" trial found CVS (along with Walgreens and Walmart) liable for creating a public nuisance; in August 2022 the court entered an abatement judgment of roughly $650 million against the three chains jointly (CVS's share about $82 million plus injunctive relief), which CVS appealed. In the fourth quarter of 2022 CVS recorded a legal charge of approximately $5.2 billion (pre-tax) in connection with agreements in principle to resolve substantially all opioid claims by states, subdivisions and tribes — roughly $4.9 billion payable to states/subdivisions over 10 years and about $130 million to tribes over 2 years; CVS also settled with Florida (~$484 million) and with New York (~$110 million) during 2021-2022.
+
+2. Usual and customary / prescription pricing litigation — long-running consumer and payor class actions alleging CVS's Health Savings Pass generic program prices should have been reported as the "usual and customary" price (e.g., Corcoran v. CVS Health, State of Mississippi and other state/qui tam and False Claims Act-type actions), disclosed in all three years.
+
+3. PBM-related matters — insulin/diabetes drug pricing lawsuits by states, health plans and consumers alleging that rebate practices inflated list prices; suits and state attorney general investigations over PBM rebate and pricing practices; and government investigations of Caremark.
+
+4. Government investigations and False Claims Act matters — DOJ and state investigations and qui tam suits, including Controlled Substances Act civil claims relating to dispensing practices, Omnicare-related False Claims Act litigation (U.S. ex rel. Bassan/DOJ complaint-in-intervention alleging dispensing on expired or otherwise invalid prescriptions to long-term care residents), Medicare Part D and Medicaid reimbursement matters, and Aetna-related risk-adjustment/Medicare Advantage inquiries.
+
+5. Securities and shareholder litigation — securities class actions and derivative suits relating to the Omnicare acquisition/long-term care business goodwill impairments and the Aetna merger disclosures.
+
+6. Antitrust — the Blue Cross Blue Shield antitrust settlement matter affecting Aetna, and other antitrust/consumer claims.
+
+CVS stated in each of these 10-Ks that these matters could have a material adverse effect on its results of operations, cash flows and/or financial condition, and the 2022 opioid charge of roughly $5.2 billion was itself material to that year's results.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01107-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?
+
+Gold answer: Yes, CVS Health has been involved in multiple ongoing legal battles. Some notable legal dispute areas for CVS are: (1) usual and customary pricing litigation: where it's claimed that CVSâs retail pharmacies overcharged for prescription drugs; (2) PBM litigation and investigations: where it's claimed that that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products; and (3) controlled substances litigation: legal matters around opioids for which CVS has agreed to pay up to $4.3 billion to claimants in remediation and $625 million to attorneys and fees
+
+Candidate answer: Yes. CVS Health's 10-K filings for fiscal years 2020, 2021, and 2022 each disclosed materially significant ongoing legal proceedings, most notably: (1) opioid-related litigation — thousands of lawsuits and multidistrict litigation (MDL) brought by state, local, and other governmental entities, as well as individuals, alleging CVS's pharmacy and PBM operations contributed to the opioid crisis (CVS reached settlements, including a roughly $5 billion nationwide opioid settlement framework agreed to in 2022, to be paid out over time); (2) qui tam/False Claims Act litigation related to Omnicare's institutional pharmacy practices; (3) litigation and government investigations concerning PBM (pharmacy benefit management) and drug-pricing practices, including antitrust and ERISA-based claims alleging overcharging or anticompetitive conduct; and (4) various securities and shareholder derivative lawsuits. These matters were disclosed as ongoing, material contingencies in the "Legal Proceedings" and commitments/contingencies notes across the 2020, 2021, and 2022 Annual Reports (Form 10-K).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01107-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?
+
+Gold answer: Yes, CVS Health has been involved in multiple ongoing legal battles. Some notable legal dispute areas for CVS are: (1) usual and customary pricing litigation: where it's claimed that CVSâs retail pharmacies overcharged for prescription drugs; (2) PBM litigation and investigations: where it's claimed that that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products; and (3) controlled substances litigation: legal matters around opioids for which CVS has agreed to pay up to $4.3 billion to claimants in remediation and $625 million to attorneys and fees
+
+Candidate answer: Yes. CVS Health has reported materially important ongoing legal battles, most significantly: (1) Opioid litigation resulting in a December 2022 settlement with state Attorneys General for approximately $4.3 billion in remediation and $625 million in attorneys' fees over 10 years, and a December 2022 tribal settlement for $113 million in remediation and $18 million in attorneys' fees; (2) A November 2021 jury verdict of $651 million (to be paid over 15 years) in federal court in Ohio for opioid claims, which the Company is appealing; (3) State settlements including $484 million with Florida (March 2022), and settlements with New Mexico, West Virginia, and Cherokee Nation in 2022; (4) Ongoing PBM litigation and investigations regarding drug pricing and rebate arrangements; and (5) Usual and Customary Pricing litigation alleging overcharging for prescription drugs.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01107-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?
+
+Gold answer: Yes, CVS Health has been involved in multiple ongoing legal battles. Some notable legal dispute areas for CVS are: (1) usual and customary pricing litigation: where it's claimed that CVSâs retail pharmacies overcharged for prescription drugs; (2) PBM litigation and investigations: where it's claimed that that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products; and (3) controlled substances litigation: legal matters around opioids for which CVS has agreed to pay up to $4.3 billion to claimants in remediation and $625 million to attorneys and fees
+
+Candidate answer: Yes. CVS Health has disclosed several material, long-running legal matters that span 2020–2022 (with roots going back much further): (1) Usual and Customary Pricing Litigation — numerous suits, some certified class actions, alleging its retail pharmacies overcharged by not submitting correct usual and customary prices, plus an October 2022 shareholder litigation demand to the Board; (2) PBM Litigation and Investigations — multiple suits by state Attorneys General, governmental subdivisions and putative classes over drug pricing and manufacturer rebate arrangements, plus FTC and multi-state AG subpoenas/CIDs into PBM pricing and rebates, and the qui tam case U.S. ex rel. Behnke v. CVS Caremark (complaint filed Feb 2014, unsealed April 2018, government declined to intervene) alleging misrepresented Medicare Part D prices; and (3) Controlled Substances (Opioid) Litigation — the consolidated MDL No. 2804 (In re National Prescription Opiate Litigation, N.D. Ohio) begun in December 2017 with hundreds of federal cases plus many state-court cases and state AG suits, in which a November 2021 Ohio federal jury found the Company liable and an August 2022 judgment of $651 million jointly against three defendants payable over 15 years (under appeal, no liability accrued); a March 2022 Florida settlement of $484 million payable over 18 years (a $484 million liability recorded in Q1 2022); 2022 settlements with New Mexico, West Virginia and the Cherokee Nation; a December 2022 formal settlement with state AGs and the Plaintiffs' Executive Committee of up to approximately $4.3 billion in opioid remediation plus $625 million in attorneys' fees/costs and additional remediation, payable over 10 years beginning in 2023 (45 states, D.C. and all eligible U.S. territories elected to join); and a December 2022 tribal settlement of up to $113 million in remediation plus $18 million in fees over 10 years. The Company states none of its accruals for outstanding legal matters are material individually or in the aggregate to its financial condition, but notes that substantial unanticipated verdicts, fines or rulings could have a material adverse effect on its results of operations and that governmental investigation outcomes could be material.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01107-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?
+
+Gold answer: Yes, CVS Health has been involved in multiple ongoing legal battles. Some notable legal dispute areas for CVS are: (1) usual and customary pricing litigation: where it's claimed that CVSâs retail pharmacies overcharged for prescription drugs; (2) PBM litigation and investigations: where it's claimed that that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products; and (3) controlled substances litigation: legal matters around opioids for which CVS has agreed to pay up to $4.3 billion to claimants in remediation and $625 million to attorneys and fees
+
+Candidate answer: Yes. The document describes several materially significant ongoing legal matters involving CVS Health during this period. In 2021 (November), CVS was among chain pharmacies found liable by a federal jury in Ohio in opioid litigation, and in August 2022 the court entered a joint judgment of $651 million (payable over 15 years) against the three defendants, which CVS is appealing without having accrued a liability. In 2022, CVS entered into multiple opioid-related settlements: a $484 million settlement with the State of Florida (recorded as a liability in Q1 2022), agreements with New Mexico, West Virginia, and the Cherokee Nation, and in December 2022 a broader settlement framework with a leadership group of state Attorneys General (up to approximately $4.3 billion in remediation plus $625 million in fees, payable over 10 years starting 2023) and a separate tribal settlement (up to $113 million plus $18 million in fees). The document also references ongoing PBM-related lawsuits and investigations (including FTC and state AG probes) and "usual and customary pricing" litigation, with an October 2022 shareholder litigation demand noted, though it does not specify a distinct 2020 legal event.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01148-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What industry does AMCOR primarily operate in?
+
+Gold answer: Amcor is a global leader in packaging production for various use cases.
+
+Candidate answer: Packaging manufacturing
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01148-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What industry does AMCOR primarily operate in?
+
+Gold answer: Amcor is a global leader in packaging production for various use cases.
+
+Candidate answer: Packaging — Amcor is a global packaging company that develops and produces flexible and rigid packaging (plastic, film, fiber/paper, and aluminum-based) primarily for the food, beverage, healthcare/pharmaceutical, home and personal care, and other consumer products markets.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01148-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What industry does AMCOR primarily operate in?
+
+Gold answer: Amcor is a global leader in packaging production for various use cases.
+
+Candidate answer: Packaging — Amcor is a global packaging company that develops and manufactures responsible packaging solutions (plastic, aluminum, fiber, etc.) for food, beverage, pharmaceutical, medical, home, and personal-care products.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

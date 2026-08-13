@@ -1,0 +1,104 @@
+=== ITEM id=fsq-211-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue last year?
+
+Gold answer: The total revenue for the fiscal year ended October 31, 2017, was $367,955.
+
+Candidate answer: $367,955 (total revenue for fiscal year ended October 31, 2017, referred to in the document as "last year")
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-214-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Where are most of Glacier's vending machines located?
+
+Gold answer: As of January 4, 1998, approximately 58% of the Company's vending machines are located in California.
+
+Candidate answer: California (approximately 58% of machines)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-214-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Where are most of Glacier's vending machines located?
+
+Gold answer: As of January 4, 1998, approximately 58% of the Company's vending machines are located in California.
+
+Candidate answer: Most of Glacier's vending machines are located in California — approximately 58% of the Company's machines as of January 4, 1998 (out of 12,444 machines total, distributed across the sunbelt and midwest regions of the United States).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-214-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Where are most of Glacier's vending machines located?
+
+Gold answer: As of January 4, 1998, approximately 58% of the Company's vending machines are located in California.
+
+Candidate answer: California (approximately 58% of the Company's water vending machines are located in California)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-214-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Where can you mostly find Glacier's vending machines?
+
+Gold answer: As of January 4, 1998, approximately 58% of the Company's vending machines are located in California.
+
+Candidate answer: California and the sunbelt and midwest regions of the United States. As of January 4, 1998, approximately 58% of the Company's machines are located in California.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-214-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Where can you mostly find Glacier's vending machines?
+
+Gold answer: As of January 4, 1998, approximately 58% of the Company's vending machines are located in California.
+
+Candidate answer: Mostly at supermarkets and other retail locations throughout the sunbelt and midwest regions of the United States — with approximately 58% of the Company's 12,444 machines located in California as of January 4, 1998 (the Company operates primarily in nine sunbelt states).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-214-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Where can you mostly find Glacier's vending machines?
+
+Gold answer: As of January 4, 1998, approximately 58% of the Company's vending machines are located in California.
+
+Candidate answer: Throughout the sunbelt and midwest regions of the United States, placed at supermarkets and other retail locations (with California accounting for approximately 58% of the Company's machines).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

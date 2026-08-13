@@ -1,0 +1,179 @@
+=== ITEM id=fb-00591-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Adobe have an improving Free cashflow conversion as of FY2022?
+
+Gold answer: Yes, the FCF conversion (using net income as the denominator) for Adobe has improved by ~13% from 143% in 2021 to 156% in 2022
+
+Candidate answer: Yes. Free cash flow (operating cash flow minus capex) conversion, measured as FCF/Net income, improved each year: FY2020 = $5,308M/$5,260M ≈ 100.9%; FY2021 = $6,882M/$4,822M ≈ 142.7%; FY2022 = $7,396M/$4,756M ≈ 155.5%. So FY2022 shows improving free cash flow conversion versus the prior two years.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00651-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?
+
+Gold answer: No, rate of growth in adjusted EPS is expected to decelerate slightly from 3.6% in FY2022 to 3.5% in FY2023.
+
+Candidate answer: Yes, but only modestly. J&J's initial FY2023 guidance called for adjusted (reported) EPS of roughly $10.45–$10.65, versus FY2022 adjusted EPS of $10.15 — implying roughly 3%–5% growth (about 4% at the midpoint), a slight acceleration from the ~3.6% adjusted EPS growth delivered in FY2022 ($10.15 vs. $9.80 in FY2021). So the expected acceleration is marginal, not a step-change.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00651-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?
+
+Gold answer: No, rate of growth in adjusted EPS is expected to decelerate slightly from 3.6% in FY2022 to 3.5% in FY2023.
+
+Candidate answer: No — J&J's adjusted EPS growth was expected to decelerate/remain roughly flat in FY2023, not accelerate, largely due to the Kenvue consumer health spin-off and currency headwinds.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00651-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?
+
+Gold answer: No, rate of growth in adjusted EPS is expected to decelerate slightly from 3.6% in FY2022 to 3.5% in FY2023.
+
+Candidate answer: No. Adjusted EPS growth is expected to decelerate from 3.6% in 2022 to 3.5% in 2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00651-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?
+
+Gold answer: No, rate of growth in adjusted EPS is expected to decelerate slightly from 3.6% in FY2022 to 3.5% in FY2023.
+
+Candidate answer: No. Adjusted EPS growth is guided to decelerate slightly. FY2022 adjusted EPS was $10.15, up 3.6%, while the 2023 guidance is for adjusted operational EPS of $10.50, reflecting growth of 3.5% — roughly flat to marginally slower (about 10 basis points lower) than 2022's pace. (Note the 2023 figure is an operational growth measure, so it is not perfectly comparable to the 3.6% reported adjusted EPS growth in 2022.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00651-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?
+
+Gold answer: No, rate of growth in adjusted EPS is expected to decelerate slightly from 3.6% in FY2022 to 3.5% in FY2023.
+
+Candidate answer: No. The document guides 2023 adjusted operational EPS growth of 3.5%, which is slightly lower than the 2022 full-year adjusted EPS growth of 3.6%, so growth is expected to decelerate slightly, not accelerate.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00669-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: For FY22, JnJ had changes in gross margin due to: One-time COVID-19 vaccine manufacturing exit related costs, Currency impacts in the Pharmaceutical segment, Commodity inflation in the MedTech and Consumer Health segments, partially offset by Supply chain benefits in the Consumer Health segment.
+
+Candidate answer: Gross margin is a meaningful metric for J&J (it sells physical products — drugs, medical devices, consumer health goods). In FY2022 it declined modestly: cost of products sold was roughly $31.1 billion on reported sales of roughly $94.9 billion, giving a gross margin of about 67% versus about 68% in FY2021 — i.e., a contraction of roughly 100 basis points (cost of products sold rose from about 31.8% to about 32.7% of sales). The main drivers J&J cited were: (1) one-time COVID-19 vaccine manufacturing exit/inventory-related costs; (2) commodity, freight and other input-cost inflation, hitting the Consumer Health segment hardest; (3) unfavorable foreign-currency translation (the dollar strengthened sharply in 2022, with total sales up only ~1.3% reported versus ~6.1% operational); and (4) intangible amortization and product-mix effects. These were partially offset by favorable Pharmaceutical segment mix (higher-margin drugs such as DARZALEX, STELARA and ERLEADA growing faster) and supply-chain cost-improvement programs, plus price increases taken later in the year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00669-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: For FY22, JnJ had changes in gross margin due to: One-time COVID-19 vaccine manufacturing exit related costs, Currency impacts in the Pharmaceutical segment, Commodity inflation in the MedTech and Consumer Health segments, partially offset by Supply chain benefits in the Consumer Health segment.
+
+Candidate answer: For FY2022, Johnson & Johnson's gross margin declined modestly versus FY2021 (roughly from the high-60s% to around 66-67% of sales). The compression was driven primarily by: (1) unfavorable foreign currency translation as the US dollar strengthened; (2) higher manufacturing, input, and freight/logistics costs amid broader inflationary pressure; (3) an unfavorable product mix, including a decline in higher-margin COVID-19 vaccine (Janssen) revenue compared to 2021; and (4) competitive pricing pressure in some segments (e.g., biosimilar competition in Pharmaceutical, price erosion in Medical Devices/Consumer Health). These pressures were only partially offset by volume growth and new product launches. Gross margin is a meaningful and commonly used metric for J&J since it is a diversified but still primarily product-manufacturing company (pharmaceuticals, medical devices, and consumer health products) with substantial cost of goods sold, so it is a useful indicator of underlying manufacturing and mix economics, though it should be viewed alongside segment-level trends given the diversity of J&J's three (formerly) reporting segments.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00669-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: For FY22, JnJ had changes in gross margin due to: One-time COVID-19 vaccine manufacturing exit related costs, Currency impacts in the Pharmaceutical segment, Commodity inflation in the MedTech and Consumer Health segments, partially offset by Supply chain benefits in the Consumer Health segment.
+
+Candidate answer: Gross margin decreased in FY2022, primarily driven by: (1) one-time COVID-19 vaccine manufacturing exit related costs; (2) currency impacts in the Pharmaceutical segment; and (3) commodity inflation in the MedTech and Consumer Health segments, partially offset by supply chain benefits in the Consumer Health segment. The document does not explicitly evaluate whether gross margin is a useful metric for J&J, though it emphasizes earnings before provision for taxes as the primary profitability measure.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00669-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: For FY22, JnJ had changes in gross margin due to: One-time COVID-19 vaccine manufacturing exit related costs, Currency impacts in the Pharmaceutical segment, Commodity inflation in the MedTech and Consumer Health segments, partially offset by Supply chain benefits in the Consumer Health segment.
+
+Candidate answer: Gross margin declined in FY2022 because cost of products sold rose as a percent to sales. The document attributes that increase to: (1) one-time COVID-19 vaccine manufacturing exit related costs, (2) currency impacts in the Pharmaceutical segment, and (3) commodity inflation in the MedTech and Consumer Health segments — partially offset by supply chain benefits in the Consumer Health segment. A partial offset also came from lower intangible asset amortization expense included in cost of products sold, which fell to $4.3 billion in FY2022 from $4.7 billion in FY2021. Gross margin is a useful metric for J&J, since it is a manufacturer of pharmaceutical, medical device, and consumer health products with a meaningful cost of products sold. (Note: the document does not state the gross margin percentages themselves; consolidated pre-tax earnings margin fell to 22.9% from 24.3%.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00669-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: For FY22, JnJ had changes in gross margin due to: One-time COVID-19 vaccine manufacturing exit related costs, Currency impacts in the Pharmaceutical segment, Commodity inflation in the MedTech and Consumer Health segments, partially offset by Supply chain benefits in the Consumer Health segment.
+
+Candidate answer: The document indicates gross margin declined in FY2022 (i.e., cost of products sold increased as a percent of sales), driven by: (1) one-time COVID-19 vaccine manufacturing exit related costs, (2) currency impacts in the Pharmaceutical segment, and (3) commodity inflation in the MedTech and Consumer Health segments — partially offset by supply chain benefits in the Consumer Health segment. Consistent with this, consolidated earnings before provision for taxes on income (pretax margin) fell from 24.3% of sales in 2021 to 22.9% in 2022. The document does not provide explicit gross margin percentages or dollar figures for FY2022 or FY2021, nor does it state whether gross margin is or is not a useful metric for a diversified company like this, so no conclusion can be drawn from the text on that latter point.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00678-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Gold answer: Yes. Boeing has an improving gross margin profile as of FY2022. Gross profit improved from $3,017 million in FY2021 to $3,502 million in FY2022. Gross margin % improved from 4.8% in FY2021 to 5.3% in FY2022.
+
+Candidate answer: Boeing did not have an improving gross margin profile in FY2022. However, gross margin is not a useful metric for assessing Boeing. As an aerospace and defense contractor, Boeing's business relies on percentage-of-completion and cost-plus contract accounting where gross margin does not reflect true program profitability. Operating margin and segment-level operating profit are more meaningful indicators of performance for this type of company, and these metrics show Boeing faced margin pressures in 2022 from 737 MAX and 787 production challenges.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

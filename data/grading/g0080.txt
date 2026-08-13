@@ -1,0 +1,187 @@
+=== ITEM id=fsq-155-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is Sonic's plan for expanding its DVD related business?
+
+Gold answer: Sonic plans to expand its DVD-related business by focusing on professional applications, providing high-performance tools, offering flexible configurations, and expanding its range of product offerings to cater to various segments, including corporate, industrial, prosumer, and consumer markets.
+
+Candidate answer: Sonic planned to grow its DVD-related business (which it expected to account for an increasing portion of overall revenue) by continuing a strategy built on: (1) focusing on professional applications/highest quality DVD compliance with worldwide standards, (2) offering high-performance tools maximizing facility efficiency, (3) flexible/modular "workgroup" configurations (audio, video and authoring subsystems) that can be rearranged as DVD premastering evolves, and (4) broadening its range of product offerings to address emerging Hollywood, Corporate and Multimedia segment needs. It also launched DVDit!, a simplified consumer/prosumer DVD authoring product line (standard and LE versions) introduced in April 1999, which it planned to distribute via bundling agreements with OEM partners (bundling the LE version with their products), then offer web-based upgrades to the full version, and possibly sell through conventional computer-industry resale channels; DVDit! was designed to be compatible with DVD Creator so professional customers could seed clients with DVDit! copies to leverage their professional DVD business.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-161-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Create a blog introduction discussing Ideal Power's innovative technologies.
+
+Gold answer: { "query": "Create a blog introduction discussing Ideal Power's innovative technologies.", "answer": "In a world hungry for energy efficiency, Ideal Power Inc. emerges as a beacon of innovation. This company isn't just keeping pace with the demand for cutting-edge power conversion solutions—it's setting the pace.  Join us as we delve into the heart of Ideal Power's game-changing technologies, exploring how their proprietary Power Packet Switching Architecture (PPSA™) is revolutionizing the way we think about power conversion." }
+
+Candidate answer: Ideal Power Inc. is revolutionizing the electrical power conversion industry with its proprietary Power Packet Switching Architecture™ (PPSA™) technology. This innovative platform represents a significant advancement in power conversion efficiency, offering superior performance metrics in size, weight, built-in isolation, and multi-port capabilities compared to traditional power conversion systems. By utilizing standardized hardware with application-specific embedded software, PPSA™ enables customers to effectively manage electricity consumption, reduce demand charges, minimize fossil fuel consumption, and integrate renewable energy sources to form their own microgrids. Additionally, Ideal Power is developing the groundbreaking B-TRAN™ bi-directional switch technology, which testing shows can reduce electrical losses to less than 40% compared to conventional power switches like silicon IGBTs. This next-generation innovation promises enhanced power density and reduced material costs, positioning Ideal Power at the forefront of renewable energy and power conversion evolution.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-161-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Create a blog introduction discussing Ideal Power's innovative technologies.
+
+Gold answer: { "query": "Create a blog introduction discussing Ideal Power's innovative technologies.", "answer": "In a world hungry for energy efficiency, Ideal Power Inc. emerges as a beacon of innovation. This company isn't just keeping pace with the demand for cutting-edge power conversion solutions—it's setting the pace.  Join us as we delve into the heart of Ideal Power's game-changing technologies, exploring how their proprietary Power Packet Switching Architecture (PPSA™) is revolutionizing the way we think about power conversion." }
+
+Candidate answer: Rethinking Power Conversion: Inside Ideal Power's Technology Portfolio
+
+Every solar panel, battery bank, and microgrid on the planet runs into the same stubborn problem: the world generates and stores a growing share of its electricity as direct current, while the grid and most equipment still run on alternating current. Bridging that gap takes power conversion hardware, and Austin, Texas-based Ideal Power Inc. has spent more than a decade arguing that the conventional way of building it is heavier, bulkier, and less efficient than it needs to be.
+
+At the core of the company's approach is its proprietary Power Packet Switching Architecture, or PPSA. Instead of the continuous power flow used by traditional converters, which depends on relatively heavy and expensive magnetic components and bulk capacitors, PPSA uses indirect power flow: energy passes through input switches, is briefly stored in a proprietary AC link inductor, and is then released to the output switches once it reaches the correct voltage and frequency. Fast switching algorithms move quantum packets of power between ports. The payoff is a converter that eliminates most of the passive components of conventional designs, including the separate isolation transformer, while delivering advantages in size and weight and offering built-in isolation plus bi-directional and multi-port capability. Because PPSA pairs standardized hardware with application-specific embedded software, one platform can serve on-grid and off-grid uses alike, and it underpins the company's commercial products, including the multi-port Stabiliti power conversion systems and the SunDial line, whose patented ability to be deployed first as a standard commercial PV inverter and later field-upgraded to add energy storage the company believes is unique in the market.
+
+The more ambitious project sits one layer down, at the semiconductor itself. Today's products rely on insulated gate bipolar transistors (IGBTs), which switch power in only one direction and need blocking diodes, forcing Ideal Power to double up components to achieve bi-directional conversion, with each added device introducing voltage drops and waste heat. The company's answer is the B-TRAN, a bi-directional bipolar transistor designed to replace two pairs of IGBTs and diodes with a single switch. Progress has been real: after a semiconductor fabricator successfully tested single-sided B-TRAN silicon dies in 2016, the company completed proof-of-concept testing of double-sided B-TRAN prototypes in the first quarter of 2018, with test results measuring B-TRAN electrical losses at less than 40% of those of conventional switches such as silicon IGBTs, and validating that the devices can be made with conventional silicon fabrication equipment and processes.
+
+Backing all of this is an intellectual property position the company treats as central to its business: as of December 31, 2017, PPSA and the bi-directional switch technologies were protected by a portfolio of 66 US and 12 foreign issued patents, including 38 US and five foreign patents tied to PPSA and 28 US and seven foreign patents covering the operation, control, and manufacturing of the B-TRAN. With a strategy that begins with selling PPSA-based products into the solar-plus-storage and microgrid markets and aims to expand through licensing to OEMs and eventually into the multi-billion dollar power semiconductor market, Ideal Power is betting that better switching is the foundation for a cleaner, more flexible grid.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-161-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Create a blog introduction discussing Ideal Power's innovative technologies.
+
+Gold answer: { "query": "Create a blog introduction discussing Ideal Power's innovative technologies.", "answer": "In a world hungry for energy efficiency, Ideal Power Inc. emerges as a beacon of innovation. This company isn't just keeping pace with the demand for cutting-edge power conversion solutions—it's setting the pace.  Join us as we delve into the heart of Ideal Power's game-changing technologies, exploring how their proprietary Power Packet Switching Architecture (PPSA™) is revolutionizing the way we think about power conversion." }
+
+Candidate answer: Ideal Power Inc. is redefining how the world converts and manages electrical power. At the heart of its approach is Power Packet Switching Architecture™ (PPSA™), a proprietary technology that uses indirect power flow—temporarily storing power in an AC link inductor and using fast switching algorithms to transfer "quantum packets" of power between ports. Unlike traditional power conversion systems, which rely on heavy, expensive magnetic components and bulk capacitors, PPSA™ eliminates most of these passive components while still delivering built-in isolation and bi-directional, multi-port capabilities—all in a smaller, lighter package. Backed by a patent portfolio of 66 US and 12 foreign issued patents (as of December 31, 2017), Ideal Power is also developing a next-generation power switch called the bi-directional bipolar transistor (B-TRAN™), which early testing suggests could cut electrical losses to less than 40% of conventional switches like silicon IGBTs. Through products such as its Stabiliti™ and SunDial™ power conversion systems, Ideal Power is bringing these innovations to the solar-plus-storage and microgrid markets, helping customers manage energy consumption, integrate renewables, and build resilient, self-sufficient power systems.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-161-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: blog intro, Ideal Power's innovative tech?
+
+Gold answer: { "query": "Create a blog introduction discussing Ideal Power's innovative technologies.", "answer": "In a world hungry for energy efficiency, Ideal Power Inc. emerges as a beacon of innovation. This company isn't just keeping pace with the demand for cutting-edge power conversion solutions—it's setting the pace.  Join us as we delve into the heart of Ideal Power's game-changing technologies, exploring how their proprietary Power Packet Switching Architecture (PPSA™) is revolutionizing the way we think about power conversion." }
+
+Candidate answer: Ideal Power designs, markets and sells electrical power conversion products using its proprietary Power Packet Switching Architecture (PPSA™), a power conversion technology that improves upon existing technologies in key product metrics such as size and weight while providing built-in isolation and bi-directional and multi-port capabilities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-161-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: blog intro, Ideal Power's innovative tech?
+
+Gold answer: { "query": "Create a blog introduction discussing Ideal Power's innovative technologies.", "answer": "In a world hungry for energy efficiency, Ideal Power Inc. emerges as a beacon of innovation. This company isn't just keeping pace with the demand for cutting-edge power conversion solutions—it's setting the pace.  Join us as we delve into the heart of Ideal Power's game-changing technologies, exploring how their proprietary Power Packet Switching Architecture (PPSA™) is revolutionizing the way we think about power conversion." }
+
+Candidate answer: Ideal Power Inc. (Austin, Texas) is rethinking how electricity gets converted. Its proprietary Power Packet Switching Architecture (PPSA) moves power indirectly, storing it briefly in a proprietary AC link inductor and using fast switching algorithms to transfer "quantum packets" of power between ports. Because PPSA eliminates most of the heavy passive components traditional converters rely on — the separate isolation transformer and most inductors and bulk capacitors — its power conversion systems are smaller and lighter while adding built-in isolation plus bi-directional, multi-port capability, all on standardized hardware running application-specific embedded software. Those advantages show up in real products: the Stabiliti multi-port PCS, which lets a site form and manage a microgrid from solar and battery storage even when the utility grid is down, and SunDial and SunDial Plus, whose patented design can be deployed first as a standard commercial PV inverter and later field-upgraded to add energy storage using the same inverter — a capability the company believes is unique in the market. The next act is silicon. Ideal Power has patented the B-TRAN, a bi-directional bipolar transistor meant to replace two pairs of IGBTs and diodes in a single device. In the first quarter of 2018 the company completed proof-of-concept testing of double-sided B-TRAN prototypes, with measured electrical losses at less than 40% of conventional switches such as silicon IGBTs — pointing toward higher efficiency, less heat, greater power density and lower material cost, with potential uses spanning solar inverters, microgrids, electric vehicle drivetrains, energy storage, solid-state breakers and variable frequency drives. Backing all of it is a patent portfolio of 66 US and 12 foreign issued patents as of December 31, 2017, including 28 US and seven foreign patents covering the B-TRAN.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-161-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: blog intro, Ideal Power's innovative tech?
+
+Gold answer: { "query": "Create a blog introduction discussing Ideal Power's innovative technologies.", "answer": "In a world hungry for energy efficiency, Ideal Power Inc. emerges as a beacon of innovation. This company isn't just keeping pace with the demand for cutting-edge power conversion solutions—it's setting the pace.  Join us as we delve into the heart of Ideal Power's game-changing technologies, exploring how their proprietary Power Packet Switching Architecture (PPSA™) is revolutionizing the way we think about power conversion." }
+
+Candidate answer: Ideal Power Inc. has developed a proprietary power conversion technology called Power Packet Switching Architecture (PPSA), which uses indirect power flow — power flows through input switches and is temporarily stored in a proprietary AC link inductor, then released via fast switching algorithms that transfer quantum packets of power between ports. Unlike traditional power conversion systems that rely on heavy, expensive magnetic components and bulk capacitors, PPSA eliminates most of these passive components (including the separate isolation transformer), resulting in products that are smaller and lighter while still providing built-in isolation and bi-directional, multi-port capabilities. As of December 31, 2017, this technology was protected by 38 US patents and five foreign patents, part of a broader patent portfolio of 66 US and 12 foreign issued patents. Ideal Power is also developing a next-generation power switch, the bi-directional bipolar transistor (B-TRAN), designed to replace pairs of IGBTs and diodes in its products and potentially in the broader power semiconductor market, with early testing showing electrical losses at less than 40% of conventional IGBTs.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-171-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue in 2018?
+
+Gold answer: The total revenue for fiscal year 2018 was $28.1 million.
+
+Candidate answer: $28.1 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-171-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue in 2018?
+
+Gold answer: The total revenue for fiscal year 2018 was $28.1 million.
+
+Candidate answer: $28.1 million (total revenues for the fiscal year ended March 31, 2018, up 2% or $0.7 million from $27.5 million in fiscal 2017)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-171-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue in 2018?
+
+Gold answer: The total revenue for fiscal year 2018 was $28.1 million.
+
+Candidate answer: $28.1 million (total revenues for the fiscal year ended March 31, 2018)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-171-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue in 2018?
+
+Gold answer: The total revenue for fiscal year 2018 was $28.1 million.
+
+Candidate answer: $28.1 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-171-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the total revenue in 2018?
+
+Gold answer: The total revenue for fiscal year 2018 was $28.1 million.
+
+Candidate answer: Total revenues were $28.1 million for the fiscal year ended March 31, 2018 (up 2%, or $0.7 million, from $27.5 million in fiscal 2017)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

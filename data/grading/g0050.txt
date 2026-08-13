@@ -1,0 +1,201 @@
+=== ITEM id=fb-00917-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: The decrease in AMD's operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition
+
+Candidate answer: AMD's GAAP operating margin collapsed in FY22 (fiscal year ended Dec 31, 2022) to roughly 5% — about $1.3 billion of operating income on $23.6 billion of revenue — down from roughly 22% in FY21 (about $3.6 billion on $16.4 billion). That is a decline on the order of 17 percentage points, and essentially all of it is acquisition accounting rather than a collapse in the underlying business.
+
+Main drivers:
+1. Amortization of acquisition-related intangibles from the Xilinx (closed Feb 2022) and Pensando deals — roughly $3.5 billion of amortization in FY22 versus a negligible amount (~$0.1 billion) in FY21. This flows through both cost of sales (pulling GAAP gross margin down to ~45% from ~48%) and operating expenses, and by itself accounts for the great majority of the margin decline.
+2. Other acquisition-related and integration charges, plus a large step-up in stock-based compensation (roughly $1.1–1.4 billion) from Xilinx retention and converted awards.
+3. A much larger operating expense base: R&D rose to about $5.0 billion from about $2.8 billion, and marketing/G&A also grew, as the Xilinx headcount was consolidated — opex grew faster than revenue in 2H22 when revenue growth stalled.
+4. Deterioration in the Client (PC) segment in 2H22 — the PC market downturn caused a sharp revenue decline, inventory/pricing charges, and Client segment operating income fell to roughly break-even/negative for the year, dragging the consolidated mix.
+
+Partial offsets: revenue grew about 44% year over year, and the Data Center and the newly added Embedded (Xilinx) segments carried very high segment operating margins (Embedded around 50%+, Data Center around 30%), which is why non-GAAP operating margin held up at roughly 27% versus about 27% in FY21. The GAAP-vs-non-GAAP gap is the clearest evidence that the FY22 margin decline was driven by purchase-accounting amortization and stock-based compensation rather than by core operating deterioration — though the Client segment weakness in the second half was a genuine business drag.
+
+Operating margin is a useful metric for AMD (a fabless semiconductor company with real product revenue and operating leverage), but for FY22 specifically the GAAP figure is distorted by Xilinx purchase accounting, so non-GAAP operating margin and segment-level operating income are the more informative reads.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00917-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: The decrease in AMD's operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition
+
+Candidate answer: AMD's GAAP operating margin fell sharply in FY22, to roughly 5-6% of revenue (from about 22% in FY21), even though revenue grew slightly to ~$23.6 billion. The main driver was a large non-cash goodwill impairment charge (~$1.1 billion) taken against the Xilinx reporting unit in Q3 2022, combined with substantially higher acquisition-related amortization of intangible assets stemming from the Xilinx and Pensando acquisitions (which closed in 2022). Additional pressure came from elevated operating expenses (R&D and SG&A) as AMD scaled up investment following these acquisitions, and from margin compression in the Client segment due to a PC market downturn and related inventory/channel write-downs. Excluding the impairment and acquisition-related amortization, AMD's non-GAAP operating margin was much healthier (mid-20s percent), so the GAAP operating margin decline is largely a function of one-time/non-cash acquisition accounting items rather than a deterioration in the core business.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00917-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: The decrease in AMD's operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition
+
+Candidate answer: Operating margin for AMD declined from approximately 21.95% in 2021 to approximately 5.5% in 2022, primarily driven by amortization of intangible assets associated with the Xilinx acquisition. The document does not suggest operating margin is not a useful metric, though it should be noted that the significant decline is largely attributable to acquisition-related intangible asset amortization rather than changes in core operations.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00917-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: The decrease in AMD's operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition
+
+Candidate answer: Operating margin is a useful metric for AMD (a semiconductor product company), so the premise stands. AMD's operating margin fell sharply in FY22: operating income was $1.3 billion on net revenue of $23.6 billion, or roughly 5.5%, versus operating income of $3.6 billion on net revenue of $16.4 billion in 2021, or roughly 22% — a decline of about 16-17 percentage points. Per the filing, the decrease in operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition. The same factor also compressed gross margin, which fell from 48% of net revenue in 2021 to 45% in 2022, again primarily due to Xilinx-related intangible asset amortization. Revenue mix effects behind the 44% revenue growth (Data Center up 64%, Gaming up 21%, a large Embedded increase from Xilinx product sales, partially offset by a 10% Client decline on weak PC demand and inventory corrections) did not offset the acquisition-related amortization drag. Note the percentage margins for 2022 and the change in percentage points are computed from the dollar figures given in the document; the document states the margin driver qualitatively rather than quantifying each component.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00917-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.
+
+Gold answer: The decrease in AMD's operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition
+
+Candidate answer: Operating margin (operating income/net revenue) fell from about 22% in 2021 ($3.6B operating income / $16.4B net revenue) to about 5.5% in 2022 ($1.3B operating income / $23.6B net revenue). The document states this decline in operating income was "primarily driven by amortization of intangible assets associated with the Xilinx acquisition," which also cut gross margin from 48% to 45%. Operating margin is still a useful metric here, though the 2022 figure is depressed by acquisition-related non-cash amortization charges rather than a decline in underlying operating performance (revenue in fact grew 44%).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00941-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?
+
+Gold answer: Following debt securities registered under 3M's name are listed to trade on the New York Stock Exchange:
+-1.500% Notes due 2026 (Trading Symbol: MMM26)
+-1.750% Notes due 2030 (Trading Symbol: MMM30)
+-1.500% Notes due 2031 (Trading Symbol: MMM31)
+
+Candidate answer: 3M's cover-page listing of securities registered under Section 12(b) shows two debt series registered on the New York Stock Exchange: the 1.500% Notes due 2026 (trading symbol MMM26) and the 1.750% Notes due 2030 (trading symbol MMM30). (Its common stock, par value $0.01 per share, symbol MMM, is also registered on the NYSE but is equity, not debt.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00941-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?
+
+Gold answer: Following debt securities registered under 3M's name are listed to trade on the New York Stock Exchange:
+-1.500% Notes due 2026 (Trading Symbol: MMM26)
+-1.750% Notes due 2030 (Trading Symbol: MMM30)
+-1.500% Notes due 2031 (Trading Symbol: MMM31)
+
+Candidate answer: 1.500% Notes due 2026, 1.750% Notes due 2030, and 1.500% Notes due 2031 are registered to trade on the New York Stock Exchange
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00941-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?
+
+Gold answer: Following debt securities registered under 3M's name are listed to trade on the New York Stock Exchange:
+-1.500% Notes due 2026 (Trading Symbol: MMM26)
+-1.750% Notes due 2030 (Trading Symbol: MMM30)
+-1.500% Notes due 2031 (Trading Symbol: MMM31)
+
+Candidate answer: Three series of notes are registered under Section 12(b) and listed on the New York Stock Exchange: the 1.500% Notes due 2026 (trading symbol MMM26), the 1.750% Notes due 2030 (MMM30), and the 1.500% Notes due 2031 (MMM31).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00941-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?
+
+Gold answer: Following debt securities registered under 3M's name are listed to trade on the New York Stock Exchange:
+-1.500% Notes due 2026 (Trading Symbol: MMM26)
+-1.750% Notes due 2030 (Trading Symbol: MMM30)
+-1.500% Notes due 2031 (Trading Symbol: MMM31)
+
+Candidate answer: 1.500% Notes due 2026 (MMM26), 1.750% Notes due 2030 (MMM30), and 1.500% Notes due 2031 (MMM31), all registered on the New York Stock Exchange
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00956-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JnJ's FY2022 financials that of a high growth company?
+
+Gold answer: No, JnJ's FY2022 financials are not of a high growth company as sales grew by 1.3% in FY2022.
+
+Candidate answer: No. J&J's FY2022 financials do not reflect a high growth company. As a mature healthcare conglomerate with revenues around $95 billion and modest single-digit revenue growth (~5-6%), J&J is characterized by stable, predictable performance typical of an established, dividend-paying company, not a high-growth enterprise.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00956-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JnJ's FY2022 financials that of a high growth company?
+
+Gold answer: No, JnJ's FY2022 financials are not of a high growth company as sales grew by 1.3% in FY2022.
+
+Candidate answer: No. Johnson & Johnson's FY2022 financials are not those of a high-growth company. Total revenue was about $94.9 billion in FY2022 versus about $93.8 billion in FY2021, roughly 1.3% year-over-year growth (low single digits, and roughly flat or negative in real terms after inflation). Net earnings actually declined, to roughly $17.9 billion in FY2022 from about $20.9 billion in FY2021. JnJ is a mature, slow-growth healthcare conglomerate that returns cash via dividends (raised for 60 consecutive years) and buybacks rather than a high-growth company.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00956-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JnJ's FY2022 financials that of a high growth company?
+
+Gold answer: No, JnJ's FY2022 financials are not of a high growth company as sales grew by 1.3% in FY2022.
+
+Candidate answer: No. J&J's FY2022 financials were not those of a high-growth company. FY2022 revenue was about $95.0 billion, up roughly 1-2% year-over-year from ~$93.8 billion in FY2021 (low single-digit growth), and net earnings actually declined year-over-year (partly due to items like talc-related litigation charges and currency headwinds). This is consistent with J&J's profile as a mature, large-cap, diversified healthcare company with steady, low single-digit organic growth and stable margins/dividends, not a high-growth profile.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

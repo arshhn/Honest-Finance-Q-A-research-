@@ -1,0 +1,131 @@
+=== ITEM id=m2-00215-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Is Verizon a capital intensive business based on FY 2022 data?
+
+Answer A: Yes, Verizon is capital intensive: gross property, plant and equipment of $307,689 million (net $107,434 million) out of total assets of $379,680 million, and 2022 capital expenditures of $23.1 billion.
+
+Answer B: Yes, Verizon's operations appear capital intensive: gross property, plant and equipment of $307,689 million (net $107,434 million) versus total assets of $379,680 million, and 2022 capital expenditures of $23.1 billion (including ~$6.2 billion in C-Band related capex).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00216-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Answer A: Verizon's quick ratio of approximately 0.71 does not indicate a reasonably healthy liquidity profile. However, the quick ratio is not relevant for measuring Verizon's true liquidity because as a regulated utility with stable operating cash flows and reliable access to capital markets, it does not depend on liquid current assets in the same way traditional businesses do
+
+Answer B: The quick ratio of approximately 0.71 suggests weak liquidity. However, the quick ratio is not a suitable liquidity metric for Verizon because as a regulated utility with stable, predictable operating cash flows and access to debt markets, it does not rely as heavily on liquid current assets as traditional businesses
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00216-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Answer A: No — the quick ratio suggests a weak liquidity profile. Quick assets (cash and equivalents $2,605 million + net accounts receivable $24,506 million = $27,111 million) divided by total current liabilities of $50,171 million gives a quick ratio of roughly 0.54x, well under 1.0x.
+
+Answer B: No — liquidity looks weak on this measure. Quick assets of cash and equivalents $2,605 million plus net accounts receivable $24,506 million = $27,111 million against total current liabilities of $50,171 million, a quick ratio of about 0.54x, well below 1.0x, so on-hand liquid assets cover only roughly half of current obligations.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00216-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Answer A: No, Verizon's quick ratio (Cash and cash equivalents + Accounts receivable, net) / Total current liabilities = (2,605 + 24,506) / 50,171 ≈ 0.54, well below 1.0, indicating a fairly weak (not sound) liquidity position
+
+Answer B: No, Verizon's quick ratio (Cash and cash equivalents + Accounts receivable, net) / Total current liabilities = (2,605 + 24,506) / 50,171 ≈ 0.54, well below 1.0, indicating a fairly weak (not sound) liquidity position
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00222-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Answer A: Yes, AMD has a reasonably healthy liquidity profile based on its quick ratio for FY22. The quick ratio is approximately 1.57, which is well above the 1.0 threshold and indicates strong liquidity. This means AMD has $1.57 in liquid assets for every $1.00 in current liabilities.
+
+Answer B: Yes, AMD maintains a sufficiently strong liquidity position with a quick ratio of 1.77, which is well above the 1.0 threshold typically considered healthy
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00222-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Answer A: Yes — AMD's FY22 quick ratio of about 1.57x indicates a reasonably healthy liquidity profile. Quick ratio = (current assets excluding inventories and prepaid/other current assets) / total current liabilities = ($4,835M cash and equivalents + $1,020M short-term investments + $4,126M accounts receivable, net + $2M receivables from related parties) / $6,369M total current liabilities = $9,983M / $6,369M ≈ 1.57. This means AMD held roughly $1.57 of highly liquid assets per $1.00 of current liabilities at December 31, 2022, comfortably above 1.0x, so it could cover near-term obligations without relying on selling its $3,771M of inventories. (For context, the FY21 quick ratio was ($2,535M + $1,073M + $2,706M + $2M) / $4,240M = $6,316M / $4,240M ≈ 1.49, so liquidity improved modestly year over year.) The quick ratio is a relevant liquidity measure here because AMD is a product (semiconductor) company with meaningful inventory that the quick ratio appropriately excludes.
+
+Answer B: Yes. AMD's FY2022 quick ratio is roughly 1.57x — quick assets of about $9,983 million (cash and equivalents $4,835M + short-term investments $1,020M + accounts receivable, net $4,126M + receivables from related parties $2M) divided by total current liabilities of $6,369M. A quick ratio well above 1.0x indicates AMD can cover its near-term obligations without relying on selling inventory, so its liquidity position is strong.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00222-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Answer A: Yes, AMD's quick ratio for FY22 is approximately 1.77 ((Total current assets $15,019M − Inventories $3,771M) / Total current liabilities $6,369M = $11,248M / $6,369M ≈ 1.77), which is above 1.0 and indicates a reasonably healthy liquidity profile, as AMD can cover its current liabilities with its more liquid current assets without needing to sell inventory.
+
+Answer B: Yes, AMD's quick ratio for FY2022 is approximately 1.57 ((Cash and cash equivalents $4,835M + Short-term investments $1,020M + Accounts receivable, net $4,126M) / Total current liabilities $6,369M = $9,981M / $6,369M ≈ 1.57), which is above 1.0, indicating a strong liquidity position.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00288-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Was there any drop in Cash & Cash equivalents between FY 2023 and Q2 of FY2024?
+
+Answer A: Yes, cash and cash equivalents decreased by $781 million (from $1,874 million at January 28, 2023 to $1,093 million at July 29, 2023).
+
+Answer B: Yes
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00288-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Was there any drop in Cash & Cash equivalents between FY 2023 and Q2 of FY2024?
+
+Answer A: Yes. Cash and cash equivalents decreased by $781 million, from $1,874 million at January 28, 2023 (fiscal 2023 year-end) to $1,093 million at July 29, 2023 (end of Q2 fiscal 2024) — a decline of about 41.7%. The document attributes the decrease primarily to the timing and volume of inventory purchases and payments, dividend payments and capital expenditures, partially offset by earnings.
+
+Answer B: Yes. Cash and cash equivalents decreased from $1,874 million at January 28, 2023 (fiscal 2023 year-end) to $1,093 million at July 29, 2023 (Q2 fiscal 2024), a decrease of $781 million (about 42%), primarily due to the timing and volume of inventory purchases and payments, dividend payments and capital expenditures, partially offset by earnings.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00288-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Was there any drop in Cash & Cash equivalents between FY 2023 and Q2 of FY2024?
+
+Answer A: Yes. Cash and cash equivalents decreased from $1,874 million at January 28, 2023 (fiscal year-end 2023) to $1,093 million at July 29, 2023 (Q2 FY2024), a decline of $781 million, primarily due to the timing and volume of inventory purchases and payments, dividend payments and capital expenditures, partially offset by earnings.
+
+Answer B: Yes, cash and cash equivalents decreased from $1,874 million as of January 28, 2023 (FY2023 year-end) to $1,093 million as of July 29, 2023 (Q2 FY2024)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00299-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which of JPM's business segments had the lowest net revenue in 2021 Q1?
+
+Answer A: Corporate ($473) million
+
+Answer B: Corporate segment with $(473) million in net revenue
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00299-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Which of JPM's business segments had the lowest net revenue in 2021 Q1?
+
+Answer A: Commercial Banking, with total net revenue of $2,393 million in Q1 2021 (the lowest of the four business segments; the non-business "Corporate" line was $(473) million).
+
+Answer B: Commercial Banking, with total net revenue of $2,393 million in Q1 2021 (the lowest of the business segments; the non-operating Corporate line was $(473) million)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

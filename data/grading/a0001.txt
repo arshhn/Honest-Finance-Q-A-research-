@@ -1,0 +1,154 @@
+=== ITEM id=fb-00859-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking at all the derivative instruments Verizon employed to hedge against foreign currency exchange rate or interest rate fluctuations, which single instrument carried the largest notional value in fiscal year 2021?
+
+Gold answer: Cross currency swaps. Its notional value was $32,502 million.
+
+Candidate answer: Cross currency swaps, with a notional value of $32,502 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01079-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which significant acquisitions did AMCOR complete during FY2021, FY2022, and FY2023?
+
+Gold answer: Amcor completed these acquisitions during FY2023:
+-100% equity interest of a flexibles manufacturing company in the Czech Republic
+- 100% equity interest in a medical device packaging manufacturing site in
+Shanghai, China.
+-acquisition of a New Zealand-based leading manufacturer of state-of-the-art, automated protein
+packaging machines.
+
+Candidate answer: AMCOR completed three significant acquisitions in FY2023: a Czech Republic flexible packaging manufacturing plant, a medical device packaging manufacturing site in Shanghai China, and a New Zealand automated protein packaging machine manufacturer. No acquisitions are documented for FY2021 or FY2022 in the provided text.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01474-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the first quarter of fiscal year 2023, what was the reason Pepsico increased its guidance for the entire FY2023?
+
+Gold answer: Pepsico experienced a strong start to FY2023.
+
+Candidate answer: Because of its strong start to the year — first-quarter performance and business momentum were strong, with categories and geographies remaining resilient, which led PepsiCo to raise full-year 2023 organic revenue growth guidance to 8% (from 6%) and core constant currency EPS growth to 9% (from 8%).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01490-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of August 30, 2023, what dollar gain did JnJ recognize from spinning off its Consumer Health business segment?
+
+Gold answer: JnJ will make a gain of approximately $20 billion from the separation of its Consumer Health business segment.
+
+Candidate answer: approximately $20 billion
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01912-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, which of MGM's regions posted the weakest revenue results?
+
+Gold answer: MGM China experienced the worst topline performance amongst the other regions presented. Its revenue declined 44% in FY2022 whereas the other regions presented increased their revenues.
+
+Candidate answer: MGM China — net revenues of $674 million in 2022 versus $1.2 billion in 2021, a 44% decrease (the only reported segment with declining revenue; Las Vegas Strip Resorts rose 77% to $8.4 billion and Regional Operations rose 12% to $3.8 billion). MGM China also posted an Adjusted Property EBITDAR loss of $203 million versus $25 million of EBITDAR in the prior year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01935-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What main topic did AMCOR address in its 8-K filing submitted on July 1, 2022?
+
+Gold answer: Amcor Finance (USA), Inc. and Amcor Flexibles North America, Inc., entered into supplemental indentures relating to Guaranteed Senior Notes due 2026 and 2028. This involved the substitution of the Substitute Issuer (Amcor Flexibles North America) for the Former Issuer (Amcor Finance) and the assumption of covenants under the indentures. (In essence a novation agreement)
+
+Candidate answer: Substitution of issuers on senior notes, specifically the substitution of Amcor Flexibles North America, Inc. (Substitute Issuer) for Amcor Finance (USA), Inc. (Former Issuer) under existing debt indentures.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02416-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are three main companies acquired by Pfizer mentioned in this 10K report?
+
+Gold answer: Trillium, Array, and Therachon
+
+Candidate answer: Arena Pharmaceuticals, Biohaven Pharmaceutical, and Global Blood Therapeutics
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02416-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: According to this 10K filing, which three companies does it name as major acquisitions made by Pfizer?
+
+Gold answer: Trillium, Array, and Therachon
+
+Candidate answer: Trillium, Array, and Therachon
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-03069-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Imagine you're an equity research analyst working offline with no access to financial data providers. Based solely on the figures presented in the income statement and cash flow statement, calculate AMD's depreciation and amortization expense (as reported in the cash flow statement) as a percentage of revenue for fiscal year 2015.
+
+Gold answer: 4.2%
+
+Candidate answer: Approximately 4.2% ($167 million D&A / $3,991 million net revenue)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-03620-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: From the perspective of an investment analyst limited strictly to the income statement and statement of cash flows, calculate PepsiCo's FY2022 non-adjusted EBITDA minus capital expenditures, where non-adjusted EBITDA equals non-adjusted operating income plus depreciation and amortization taken from the cash flow statement. Provide the result in millions of USD.
+
+Gold answer: $9068.00
+
+Candidate answer: $9,068 million (EBITDA of $14,275 million = Operating Profit $11,512M + D&A $2,763M; minus capex $5,207M)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

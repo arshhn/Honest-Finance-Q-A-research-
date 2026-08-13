@@ -1,0 +1,179 @@
+=== ITEM id=fsq-029-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the impact of interest rate changes on our operations?
+
+Gold answer: Changes in interest rates can significantly impact our operations. As we use debt to finance investments, rising interest rates increase our cost of capital, potentially reducing net investment income and impacting the value of our common stock and return on invested capital. Conversely, falling interest rates increase the likelihood of prepayment on our loans and investments. If we cannot reinvest these funds at similar or better terms, our results of operations and financial condition could be negatively affected.
+
+Candidate answer: Changes in interest rates have multiple significant impacts on operations. Rising interest rates increase the company's cost of funds and reduce net investment income. Increases in interest rates make it easier to meet or exceed the incentive fee Hurdle Rate, potentially increasing incentive fees payable to the Investment Adviser. Interest rate increases may decrease the value of fixed-rate investments held in the portfolio and increase interest expense, thereby decreasing net income. Conversely, falling interest rates increase the probability that loans and other portfolio investments will be pre-paid. Interest rate changes affect the company's cost of capital, net investment income, value of common stock, and rate of return on invested capital. The company may use interest rate hedging activities to manage exposure to interest rate fluctuations.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-029-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the impact of interest rate changes on our operations?
+
+Gold answer: Changes in interest rates can significantly impact our operations. As we use debt to finance investments, rising interest rates increase our cost of capital, potentially reducing net investment income and impacting the value of our common stock and return on invested capital. Conversely, falling interest rates increase the likelihood of prepayment on our loans and investments. If we cannot reinvest these funds at similar or better terms, our results of operations and financial condition could be negatively affected.
+
+Candidate answer: Because the company uses debt to finance its investments, its net investment income depends in part on the spread between the rate at which it borrows funds and the rate at which it invests them, so a significant change in market interest rates may have a material adverse effect on net investment income. In periods of RISING rates: (1) cost of funds increases, which could reduce net investment income; (2) rates on its debt investments (typically floating, LIBOR-based) rise, which makes it easier to meet or exceed the fixed incentive fee Hurdle Rate (1.75% per quarter in the example) and may result in a substantial increase in incentive fees payable to the Investment Adviser on Pre-Incentive Fee Net Investment Income; (3) the value of any fixed-rate investments held may decline and interest expense may increase, decreasing net income and potentially making the common stock less attractive and reducing its market value if the distribution rate cannot be increased. In periods of FALLING rates, the probability that loans and other portfolio investments are prepaid increases, with no assurance new loans can be made on the same terms, adversely affecting results of operations and financial condition. The company may use interest rate hedging techniques (to the extent permitted by the 1940 Act, and subject to CFTC rules), but these may limit its ability to benefit from lower rates on the hedged portfolio. Quantitatively, based on outstanding indebtedness of $185.0 million as of December 31, 2017 and effective annualized rates of 4.01% (Credit Facility) and 6.5% (Senior Notes), the investment portfolio must earn an annual return of at least 1.9% to cover annual interest payments. In addition, the announced cessation of LIBOR support after 2021 creates uncertainty whose effect on net investment income cannot yet be determined.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-029-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the impact of interest rate changes on our operations?
+
+Gold answer: Changes in interest rates can significantly impact our operations. As we use debt to finance investments, rising interest rates increase our cost of capital, potentially reducing net investment income and impacting the value of our common stock and return on invested capital. Conversely, falling interest rates increase the likelihood of prepayment on our loans and investments. If we cannot reinvest these funds at similar or better terms, our results of operations and financial condition could be negatively affected.
+
+Candidate answer: Interest rate changes affect the company's operations in several ways: (1) Since it finances investments with debt (Credit Facility and Senior Notes) at rates tied in part to LIBOR, rising interest rates increase its cost of funds, which could reduce net investment income; conversely, falling interest rates increase the risk that portfolio loans and other investments will be pre-paid, and the company may not be able to make new loans on the same or better terms, adversely affecting results of operations and financial condition. (2) Because the company's loans typically carry floating rates based on LIBOR, a rise in interest rates leads to higher interest rates on its debt investments, which would make it easier to meet or exceed the incentive fee Hurdle Rate and could substantially increase incentive fees payable to the Investment Adviser. (3) An increase in interest rates may decrease the value of investments earning fixed interest rates and may increase interest expense, decreasing net income, and could make the company's common stock less attractive if it cannot increase its distribution rate, potentially reducing the market value of its stock. Based on outstanding indebtedness of $185.0 million as of December 31, 2017 at average costs of funds of 4.01% (Credit Facility) and 6.5% (Senior Notes), the investment portfolio must earn an annual return of at least 1.9% to cover annual interest payments on that debt.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-029-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: impact of interest rate changes on operations?
+
+Gold answer: Changes in interest rates can significantly impact our operations. As we use debt to finance investments, rising interest rates increase our cost of capital, potentially reducing net investment income and impacting the value of our common stock and return on invested capital. Conversely, falling interest rates increase the likelihood of prepayment on our loans and investments. If we cannot reinvest these funds at similar or better terms, our results of operations and financial condition could be negatively affected.
+
+Candidate answer: Rising interest rates increase the company's cost of funds, which reduces net investment income. Rising interest rates may also decrease the value of fixed-rate investments and increase interest expense. Conversely, falling interest rates increase the probability of loan prepayments, making it difficult to reinvest at the same terms or rates.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-029-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: impact of interest rate changes on operations?
+
+Gold answer: Changes in interest rates can significantly impact our operations. As we use debt to finance investments, rising interest rates increase our cost of capital, potentially reducing net investment income and impacting the value of our common stock and return on invested capital. Conversely, falling interest rates increase the likelihood of prepayment on our loans and investments. If we cannot reinvest these funds at similar or better terms, our results of operations and financial condition could be negatively affected.
+
+Candidate answer: Because the company uses debt to finance investments, its net investment income depends on the spread between its borrowing rate and its investment yield, so changes in market interest rates can materially affect cost of capital, net investment income, the value of its common stock and its rate of return on invested capital. In periods of rising rates, cost of funds increases (as of December 31, 2017 it had $185.0 million of outstanding indebtedness with effective annualized rates of 4.01% on the Credit Facility and 6.5% on the Senior Notes, requiring an annual portfolio return of at least 1.9% just to cover interest payments), which could reduce net investment income; rising rates also raise rates on its floating-rate (LIBOR-based) debt investments, making it easier to exceed the incentive fee Hurdle Rate and potentially substantially increasing incentive fees payable to the Investment Adviser, while decreasing the value of fixed-rate investments and increasing interest expense, thereby decreasing net income and possibly reducing the market value of the common stock. In periods of falling rates, prepayments of loans become more likely and new loans may not be made on equally favorable terms, adversely affecting results of operations and financial condition. The company may use interest rate hedging techniques permitted under the 1940 Act, which may limit its ability to benefit from lower rates; adverse developments from rate changes or hedging could have a material adverse effect on its business, financial condition and results of operations. In addition, the planned post-2021 discontinuation of LIBOR creates uncertainty whose potential effect on net investment income cannot yet be determined.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-029-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: impact of interest rate changes on operations?
+
+Gold answer: Changes in interest rates can significantly impact our operations. As we use debt to finance investments, rising interest rates increase our cost of capital, potentially reducing net investment income and impacting the value of our common stock and return on invested capital. Conversely, falling interest rates increase the likelihood of prepayment on our loans and investments. If we cannot reinvest these funds at similar or better terms, our results of operations and financial condition could be negatively affected.
+
+Candidate answer: Rising interest rates increase WhiteHorse Finance's cost of funds on its outstanding debt (Credit Facility and Senior Notes), which reduces net investment income; a rise in rates also makes it easier to meet/exceed the incentive fee Hurdle Rate, potentially substantially increasing incentive fees paid to the Investment Adviser, and can decrease the value of fixed-rate investments held while increasing interest expense (decreasing net income). Falling interest rates increase the likelihood that portfolio loans will be prepaid, and the company may not be able to reinvest on equally favorable terms, adversely affecting results of operations and financial condition.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-037-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the aggregate market value of shares of common stock held by non-affiliates as of March 19, 1999?
+
+Gold answer: The aggregate market value of shares of common stock held by non-affiliates as of March 19, 1999 was $2,561,000,000.
+
+Candidate answer: $2,561,000,000
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-037-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the aggregate market value of shares of common stock held by non-affiliates as of March 19, 1999?
+
+Gold answer: The aggregate market value of shares of common stock held by non-affiliates as of March 19, 1999 was $2,561,000,000.
+
+Candidate answer: $2,561,000,000 (aggregate market value of common stock held by non-affiliates at March 19, 1999)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-037-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What is the aggregate market value of shares of common stock held by non-affiliates as of March 19, 1999?
+
+Gold answer: The aggregate market value of shares of common stock held by non-affiliates as of March 19, 1999 was $2,561,000,000.
+
+Candidate answer: $2,561,000,000
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-037-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: aggregate market value, shares, non-affiliates, March 19, 1999?
+
+Gold answer: The aggregate market value of shares of common stock held by non-affiliates as of March 19, 1999 was $2,561,000,000.
+
+Candidate answer: $2,561,000,000 (aggregate market value of common stock held by non-affiliates at March 19, 1999)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-037-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: aggregate market value, shares, non-affiliates, March 19, 1999?
+
+Gold answer: The aggregate market value of shares of common stock held by non-affiliates as of March 19, 1999 was $2,561,000,000.
+
+Candidate answer: $2,561,000,000
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-058-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What was the fiscal year end for Pioneer Power Solutions?
+
+Gold answer: Pioneer Power Solutions' fiscal year ended on December 31, 2018.
+
+Candidate answer: December 31, 2018
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

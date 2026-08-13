@@ -1,0 +1,179 @@
+=== ITEM id=fsq-105-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the notes from August 2017 and November 2017.
+
+Gold answer: In August 2017, the company issued \$10.3 million in Senior Secured Convertible Notes and a warrant for 1,892,972 shares of common stock at a \$3.25 exercise price. In November 2017, the company issued \$100 million in senior convertible notes: \$5 million Series A Senior Bridge Convertible Notes and \$95 million Series B Senior Secured Bridge Convertible Notes.  The November notes were for cash payments of \$5 million and secured promissory notes for \$95 million with a \$20,650,000 aggregate mandatory prepayment obligation.
+
+Candidate answer: Both were senior secured convertible notes sold to the same Investor under securities purchase agreements, but they differed greatly in size, structure and consideration. August 2017 Notes: issued August 16, 2017 under the "August Purchase Agreement" in an aggregate principal amount of $10,300,000, and issued together with a warrant to purchase 1,892,972 shares of common stock, exercisable for five years at an exercise price of $3.25 per share. November 2017 Notes: issued in November 2017 in an aggregate principal amount of $100,000,000 (about 9.7x larger), split into (i) Series A Senior Bridge Convertible Notes of $5,000,000 and (ii) Series B Senior Secured Bridge Convertible Notes of $95,000,000, with no accompanying warrant; consideration was $5,000,000 in cash plus secured promissory notes payable by the Investor to the Company of $95,000,000 principal, with an aggregate mandatory prepayment obligation of approximately $20,650,000. Both were later amended (e.g., the Fourth Amendment and Exchange Agreement of November 21, 2017 reduced registered shares and exchanged the August Warrants for an Exchanged Warrant, and later amendments to both the August 2017 Notes and November 2017 Notes covered interest deferral, Event of Default waivers, Permitted Indebtedness and conversion-price rights). As of April 11, 2018 all obligations under the August 2017 Notes had been satisfied (the Investor sold all 3,043,030 registered shares, and the Exchanged Warrant was converted into 4,353,581 shares), while the November 2017 Notes remained subject to ongoing amendment/restatement arrangements.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-105-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare the notes from August 2017 and November 2017.
+
+Gold answer: In August 2017, the company issued \$10.3 million in Senior Secured Convertible Notes and a warrant for 1,892,972 shares of common stock at a \$3.25 exercise price. In November 2017, the company issued \$100 million in senior convertible notes: \$5 million Series A Senior Bridge Convertible Notes and \$95 million Series B Senior Secured Bridge Convertible Notes.  The November notes were for cash payments of \$5 million and secured promissory notes for \$95 million with a \$20,650,000 aggregate mandatory prepayment obligation.
+
+Candidate answer: The August 2017 Notes were Senior Secured Convertible Notes issued under an August Purchase Agreement in the aggregate principal amount of $10,300,000, paired with a warrant to purchase 1,892,972 shares of common stock exercisable for five years at $3.25 per share. The November 2017 Notes were senior convertible notes issued for an aggregate principal amount of $100,000,000, consisting of (i) Series A Senior Bridge Convertible Notes of $5,000,000 and (ii) Series B Senior Secured Bridge Convertible Notes of $95,000,000, with consideration of $5,000,000 cash plus secured promissory notes payable by the Investor of $95,000,000 (with a mandatory prepayment obligation of approximately $20,650,000). Thus the November 2017 Notes were roughly 9.7x larger in principal amount than the August 2017 Notes, and unlike the August 2017 Notes (single tranche plus a warrant), the November 2017 Notes were structured in two series (A and B) with a portion funded via investor promissory notes rather than cash.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-105-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare August 2017 and November 2017 notes.
+
+Gold answer: In August 2017, the company issued \$10.3 million in Senior Secured Convertible Notes and a warrant for 1,892,972 shares of common stock at a \$3.25 exercise price. In November 2017, the company issued \$100 million in senior convertible notes: \$5 million Series A Senior Bridge Convertible Notes and \$95 million Series B Senior Secured Bridge Convertible Notes.  The November notes were for cash payments of \$5 million and secured promissory notes for \$95 million with a \$20,650,000 aggregate mandatory prepayment obligation.
+
+Candidate answer: The August 2017 Notes were $10,300,000 in principal amount with a warrant to purchase 1,892,972 shares. The November 2017 Notes were $100,000,000 in principal amount ($5,000,000 Series A and $95,000,000 Series B). The November 2017 Notes were approximately 9.7 times larger than the August 2017 Notes. August 2017 Notes required investor cash payment; November 2017 Notes consisted of $5 million cash and $95 million in secured promissory notes from the Investor with approximately $20,650,000 mandatory prepayment obligation.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-105-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare August 2017 and November 2017 notes.
+
+Gold answer: In August 2017, the company issued \$10.3 million in Senior Secured Convertible Notes and a warrant for 1,892,972 shares of common stock at a \$3.25 exercise price. In November 2017, the company issued \$100 million in senior convertible notes: \$5 million Series A Senior Bridge Convertible Notes and \$95 million Series B Senior Secured Bridge Convertible Notes.  The November notes were for cash payments of \$5 million and secured promissory notes for \$95 million with a \$20,650,000 aggregate mandatory prepayment obligation.
+
+Candidate answer: August 2017 Notes: Senior Secured Convertible Notes sold to the Investor in August 2017 (completed August 16, 2017) in aggregate principal amount of $10,300,000, issued together with a warrant to purchase 1,892,972 shares of common stock, exercisable for five years at $3.25 per share; a resale registration statement (File No. 333-220488) initially covering 9,084,133 shares was amended down to 3,043,030 shares and declared effective December 4, 2017, and as of April 11, 2018 all 3,043,030 shares had been sold and all obligations under the August 2017 Notes satisfied (the August Warrant was later exchanged for an Exchange Warrant that converted into 4,353,581 shares). November 2017 Notes: senior convertible notes sold in November 2017 (issued November 7, 2017) in a much larger aggregate principal amount of $100,000,000, consisting of (i) Series A Senior Bridge Convertible Notes of $5,000,000 and (ii) Series B Senior Secured Bridge Convertible Notes of $95,000,000, for consideration of $5,000,000 in cash plus secured promissory notes payable by the Investor to the Company of $95,000,000 with an aggregate mandatory prepayment obligation of approximately $20,650,000; no warrants were issued with them. The Company repaid in cash all $26,650,000 of unrestricted principal under the November 7, 2017 notes, and no unrestricted principal remained outstanding as of the report date. Both were convertible notes issued to the same institutional Investor and were amended by the Fourth Amendment and Exchange Agreement (November 21, 2017); the November 2017 notes (with the January 23, 2018 notes) carry event-of-default rights including an interest rate increase to 15% per year for one month and 18% thereafter, an alternate conversion price subject to a default floor price ranging from $1.83 to $11.44, and mandatory redemption at the greater of 125% of the amount redeemed or a market-price-based formula.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-105-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Compare August 2017 and November 2017 notes.
+
+Gold answer: In August 2017, the company issued \$10.3 million in Senior Secured Convertible Notes and a warrant for 1,892,972 shares of common stock at a \$3.25 exercise price. In November 2017, the company issued \$100 million in senior convertible notes: \$5 million Series A Senior Bridge Convertible Notes and \$95 million Series B Senior Secured Bridge Convertible Notes.  The November notes were for cash payments of \$5 million and secured promissory notes for \$95 million with a \$20,650,000 aggregate mandatory prepayment obligation.
+
+Candidate answer: The August 2017 Notes and the November 2017 Notes were both Senior Secured Convertible Notes issued to the same Investor, but differed greatly in size and structure. The August 2017 Notes (issued under the August Purchase Agreement) had an aggregate principal amount of $10,300,000, and were sold together with a 5-year warrant to purchase 1,892,972 shares of common stock at an exercise price of $3.25 per share. The November 2017 Notes, issued under a securities purchase agreement in November 2017, had a much larger aggregate principal amount of $100,000,000, consisting of (i) Series A Senior Bridge Convertible Notes of $5,000,000 and (ii) Series B Senior Secured Bridge Convertible Notes of $95,000,000; consideration for these notes consisted of $5,000,000 in cash plus secured promissory notes payable by the Investor to the Company of $95,000,000, with an aggregate mandatory prepayment obligation of approximately $20,650,000. Thus the November 2017 Notes were roughly 9.7 times larger in principal amount than the August 2017 Notes ($100,000,000 vs. $10,300,000).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-108-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was our revenue from Walmart greater than from Target in 2018?
+
+Gold answer: Yes, revenue from Walmart (4% of total revenue) was lower than revenue from Target (6% of total revenue) in 2018.
+
+Candidate answer: No
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-108-base--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was our revenue from Walmart greater than from Target in 2018?
+
+Gold answer: Yes, revenue from Walmart (4% of total revenue) was lower than revenue from Target (6% of total revenue) in 2018.
+
+Candidate answer: No. In FY 2018 revenue from the Company's four Wal-Mart licenses was approximately 4% of total revenue, versus approximately 6% of total revenue from the Target licenses, so Walmart revenue was lower (about 2 percentage points less) than Target revenue.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-108-base--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was our revenue from Walmart greater than from Target in 2018?
+
+Gold answer: Yes, revenue from Walmart (4% of total revenue) was lower than revenue from Target (6% of total revenue) in 2018.
+
+Candidate answer: No. In 2018, Walmart represented approximately 4% of total revenue, while Target represented approximately 6%, so revenue from Walmart was less than from Target.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-108-pert--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was our revenue from Walmart greater t han from Target in 2018?
+
+Gold answer: Yes, revenue from Walmart (4% of total revenue) was lower than revenue from Target (6% of total revenue) in 2018.
+
+Candidate answer: No
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-108-pert--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was our revenue from Walmart greater t han from Target in 2018?
+
+Gold answer: Yes, revenue from Walmart (4% of total revenue) was lower than revenue from Target (6% of total revenue) in 2018.
+
+Candidate answer: No. In FY 2018 revenue from the Company's four Wal-Mart licenses was approximately 4% of total revenue, versus approximately 6% of total revenue from the Target licenses, so Walmart revenue was lower (about 2 percentage points less) than Target revenue.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-108-pert--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Was our revenue from Walmart greater t han from Target in 2018?
+
+Gold answer: Yes, revenue from Walmart (4% of total revenue) was lower than revenue from Target (6% of total revenue) in 2018.
+
+Candidate answer: No. In 2018, Walmart represented approximately 4% of total revenue, while Target represented approximately 6%, so revenue from Walmart was less than from Target.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fsq-109-base--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What factors contribute to the bank's net interest income?
+
+Gold answer: The bank's net interest income is driven by a positive shift in earning asset mix due to growth in the loan and investment portfolios, coupled with higher short-term interest rates. This is partially offset by a higher rate paid on negotiated rate deposits.
+
+Candidate answer: Net interest income is the difference between interest and fees received on interest-earning assets such as loans and securities, and interest paid on interest-bearing liabilities such as deposits and borrowings. Key factors include growth in loan and investment portfolios, higher short-term interest rates, and increases in earning asset yield, partially offset by higher rates paid on negotiated deposits and changes in cost of funds.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

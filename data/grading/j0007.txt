@@ -1,0 +1,131 @@
+=== ITEM id=m2-00669-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Answer A: Gross margin declined in FY2022 because cost of products sold rose as a percent to sales. The document attributes that increase to: (1) one-time COVID-19 vaccine manufacturing exit related costs, (2) currency impacts in the Pharmaceutical segment, and (3) commodity inflation in the MedTech and Consumer Health segments — partially offset by supply chain benefits in the Consumer Health segment. A partial offset also came from lower intangible asset amortization expense included in cost of products sold, which fell to $4.3 billion in FY2022 from $4.7 billion in FY2021. Gross margin is a useful metric for J&J, since it is a manufacturer of pharmaceutical, medical device, and consumer health products with a meaningful cost of products sold. (Note: the document does not state the gross margin percentages themselves; consolidated pre-tax earnings margin fell to 22.9% from 24.3%.)
+
+Answer B: Gross margin is a meaningful metric for J&J (it sells products and reports cost of products sold). In FY2022 gross margin declined, because cost of products sold rose as a percent to sales. The document attributes that increase to: (1) one-time COVID-19 vaccine manufacturing exit related costs, (2) currency impacts in the Pharmaceutical segment, and (3) commodity inflation in the MedTech and Consumer Health segments — partially offset by supply chain benefits in the Consumer Health segment. (Relatedly, intangible asset amortization included in cost of products sold declined from $4.7 billion in 2021 to $4.3 billion in 2022.)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00669-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.
+
+Answer A: The document indicates gross margin declined in FY2022 (i.e., cost of products sold increased as a percent of sales), driven by: (1) one-time COVID-19 vaccine manufacturing exit related costs, (2) currency impacts in the Pharmaceutical segment, and (3) commodity inflation in the MedTech and Consumer Health segments — partially offset by supply chain benefits in the Consumer Health segment. Consistent with this, consolidated earnings before provision for taxes on income (pretax margin) fell from 24.3% of sales in 2021 to 22.9% in 2022. The document does not provide explicit gross margin percentages or dollar figures for FY2022 or FY2021, nor does it state whether gross margin is or is not a useful metric for a diversified company like this, so no conclusion can be drawn from the text on that latter point.
+
+Answer B: Gross margin (i.e., cost of products sold as a % of sales) worsened in FY2022, driven by: (1) one-time COVID-19 vaccine manufacturing exit related costs, (2) unfavorable currency impacts in the Pharmaceutical segment, and (3) commodity inflation in the MedTech and Consumer Health segments — partially offset by supply chain benefits in the Consumer Health segment. (Note: intangible amortization within COGS actually declined, from $4.7B in 2021 to $4.3B in 2022, which would have been a partial offset as well.)
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00678-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Answer A: Yes, Boeing has an improving gross margin profile as of FY2022. Gross margin improved from -9.70% in 2020 to 4.89% in 2021 to 5.30% in 2022, showing a clear positive trend.
+
+Answer B: Yes. Boeing's gross margin has been trending upward from -9.7% in 2020 to 4.9% in 2021 to 5.3% in 2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00678-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Answer A: Yes — Boeing's gross margin is improving, though it remains very thin. Using total revenues less total costs and expenses (cost of products, cost of services, and Boeing Capital interest expense): FY2022 gross profit of $3,502 million on $66,608 million of revenue = 5.3% gross margin; FY2021 $3,017 million on $62,286 million = 4.8%; FY2020 negative $5,685 million on $58,158 million = (9.8)%. So gross margin improved by roughly 0.4 percentage points in 2022 and by about 15 percentage points versus 2020. Gross margin is a meaningful metric for Boeing as a manufacturer, but with caveats: it is unusually low for an industrial, still recovering from the 737 MAX/787 and COVID-era charges, and Boeing remained unprofitable overall (net loss attributable to shareholders of $4,935 million, or $8.30 per share, in FY2022) because R&D, G&A, and interest expense exceed the gross profit.
+
+Answer B: Yes. Gross margin (total revenues less total costs and expenses) has trended upward: FY2020 -9.8% (-$5,685M/$58,158M), FY2021 4.8% ($3,017M/$62,286M), FY2022 5.3% ($3,502M/$66,608M). Gross margin is a reasonably meaningful metric here since Boeing reports cost of products and services, though it is distorted by large program charges and includes Boeing Capital interest expense.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00678-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Answer A: Yes, Boeing's gross margin improved in FY2022, continuing a positive trend from FY2020. Using Total revenues less Cost of products and Cost of services (excluding Boeing Capital interest expense): FY2020 gross profit = $58,158M - ($54,568M + $9,232M) = -$5,642M, a gross margin of approximately -9.7%. FY2021 gross profit = $62,286M - ($49,954M + $9,283M) = $3,049M, a margin of approximately 4.9%. FY2022 gross profit = $66,608M - ($53,969M + $9,109M) = $3,530M, a margin of approximately 5.3%. So gross margin rose from roughly -9.7% in 2020 to 4.9% in 2021 to 5.3% in 2022, an improving trend, though the FY2022 improvement over FY2021 (about 0.4 percentage points) is modest.
+
+Answer B: The document does not report an explicit 'gross profit' line for Boeing, but computing revenue less cost of products and cost of services shows: FY2020 = -$5,642M (-9.7% margin), FY2021 = $3,049M (4.9% margin), FY2022 = $3,530M (5.3% margin). By this measure, Boeing's margin has been trending upward from 2020 through 2022. Note that a traditional 'gross margin' metric is of limited meaningfulness for Boeing given its long-term, program-accounting-based cost structure combining products/services and Boeing Capital interest expense.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00684-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Answer A: No, Amcor does not have an improving gross margin profile. Gross margin declined from 21.24% in FY2021 to 19.39% in FY2022 to 18.55% in FY2023, demonstrating a deteriorating trend.
+
+Answer B: No. AMCOR's gross margin has been declining from 21.25% in FY2021 to 19.39% in FY2022 to 18.56% in FY2023.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00684-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Answer A: No. Amcor's gross margin has declined steadily: FY2021 21.2% ($2,732M / $12,861M), FY2022 19.4% ($2,820M / $14,544M), and FY2023 18.5% ($2,725M / $14,694M) — roughly a 270 basis point deterioration over two years, with about 84 bps of that in FY2023 alone. Sales grew ~1.0% in FY2023 while cost of sales grew ~2.1%, so gross profit fell in absolute terms ($2,820M to $2,725M) despite higher revenue. Gross margin is a meaningful metric here: Amcor is a packaging manufacturer that sells physical products, so cost of sales captures real input, resin, and conversion costs.
+
+Answer B: No, it has been trending downward: gross margin was 21.2% in FY2021 ($2,732M/$12,861M), 19.4% in FY2022 ($2,820M/$14,544M), and 18.5% in FY2023 ($2,725M/$14,694M). Gross margin is a meaningful metric for Amcor, a packaging manufacturer that reports net sales and cost of sales.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00684-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.
+
+Answer A: No. Gross margin declined: FY2021 ~21.2% ($2,732M/$12,861M), FY2022 ~19.4% ($2,820M/$14,544M), FY2023 ~18.5% ($2,725M/$14,694M). Despite rising net sales, gross margin has fallen each year, so Amcor's gross margin profile is worsening, not improving, as of FY2023.
+
+Answer B: No — gross margin is meaningful for Amcor (a packaging manufacturer) and it has been trending downward: FY2021 gross margin was 21.2% (2,732/12,861), FY2022 was 19.4% (2,820/14,544), and FY2023 was 18.5% (2,725/14,694).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00685-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Answer A: Yes. Best Buy's gross margins are historically consistent, with year-over-year fluctuations not exceeding approximately 1.07 percentage points. The gross margins are 22.37% (FY 2021), 22.49% (FY 2022), and 21.42% (FY 2023), all remaining within a roughly 2% range. Gross margins are a relevant metric for a retail company.
+
+Answer B: Yes. Best Buy has maintained relatively stable gross margins, ranging from 21.41% to 22.49% across the three years, representing annual swings well within 2%.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00685-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Answer A: Yes — gross margins are historically consistent, varying by only about 1 percentage point over the three years shown. Gross margin = gross profit / revenue: FY2023 = 9,912/46,298 = 21.4%; FY2022 = 11,640/51,761 = 22.5%; FY2021 = 10,573/47,262 = 22.4%. Year-over-year changes are roughly -1.1 percentage points (FY2022 to FY2023) and +0.1 percentage points (FY2021 to FY2022), both well within a ~2% band. Gross margin is a relevant metric here: this is a retailer with a large cost of sales (about 78-79% of revenue), so gross margin is a meaningful measure of merchandising and pricing performance.
+
+Answer B: Yes. Best Buy's gross margin has been stable, moving within roughly a 1 percentage-point band: FY2023 21.4% ($9,912M/$46,298M), FY2022 22.5% ($11,640M/$51,761M), FY2021 22.4% ($10,573M/$47,262M). The largest year-over-year swing is about 1.1 percentage points, well inside a 2% annual swing. Gross margin is a meaningful metric for Best Buy, a product retailer that reports cost of sales.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00685-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Answer A: Yes, gross margins are relevant and historically consistent, fluctuating less than 2% year over year. Gross margin (gross profit/revenue) was 22.37% in FY2021 ($10,573/$47,262), 22.49% in FY2022 ($11,640/$51,761), and 21.41% in FY2023 ($9,912/$46,298). The year-over-year changes are about 0.12 percentage points (FY2021 to FY2022) and about 1.08 percentage points (FY2022 to FY2023), both within roughly 2%.
+
+Answer B: Yes, gross margin is a meaningful metric for Best Buy (a retailer) and it has been relatively stable: FY2021 gross margin was 22.4% (10,573/47,262), FY2022 was 22.5% (11,640/51,761), and FY2023 was 21.4% (9,912/46,298) — a swing of about +0.1 percentage points from FY2021 to FY2022 and about -1.1 percentage points from FY2022 to FY2023, both within roughly a 2% annual swing.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-00702-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?
+
+Answer A: Yes, a gain of 8.107 billion USD on completion of Consumer Healthcare JV transaction
+
+Answer B: Yes, a gain of 8.107 billion USD on completion of Consumer Healthcare JV transaction
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.

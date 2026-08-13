@@ -1,0 +1,179 @@
+=== ITEM id=fb-00070-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: No, American Water Works had negative working capital of -$1561M in FY 2022.
+
+Candidate answer: No. American Water Works does not have positive working capital in FY2022. Working capital is negative at approximately -$1,561 million (current assets of $1,250 million minus current liabilities of $2,811 million).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00070-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: No, American Water Works had negative working capital of -$1561M in FY 2022.
+
+Candidate answer: No. As of December 31, 2022, American Water Works had negative working capital of approximately -$1,561 million (total current assets of $1,250 million less total current liabilities of $2,811 million). That said, working capital is not a particularly useful or relevant metric for this company: American Water is a regulated water utility, a capital-intensive business whose value and liquidity profile rest on its long-lived rate-base assets ($23,223 million of net property, plant and equipment) and on continuous access to capital markets rather than on a stock of net current assets. Utilities like this routinely run negative working capital because they collect cash from customers quickly, carry minimal inventory ($98 million of materials and supplies), and fund operations with short-term debt ($1,175 million) and commercial paper that is regularly refinanced or termed out into long-term debt. The negative balance here is largely a financing artifact — short-term debt plus current maturities of long-term debt total $1,456 million of the $2,811 million in current liabilities — not a sign of distress.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00070-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.
+
+Gold answer: No, American Water Works had negative working capital of -$1561M in FY 2022.
+
+Candidate answer: No. As of December 31, 2022, American Water Works had total current assets of $1,250 million and total current liabilities of $2,811 million, resulting in negative working capital of $(1,561) million ($1,250M − $2,811M). However, working capital is not a particularly meaningful red flag for a regulated water utility like American Water Works: utilities typically operate with negative working capital because they have stable, predictable cash flows from regulated rate-based revenues, ready access to capital markets (evidenced by their large long-term debt and capitalization structure), and low liquidity risk, so they do not need to hold large current asset balances to cover current liabilities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00206-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JPM's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Since JPM is a financial institution, gross margin is not a relevant metric.
+
+Candidate answer: Gross margins are not a relevant metric for JPMorgan Chase. JPM is a financial institution (bank), not a manufacturer or retailer, so it does not have "cost of goods sold." The appropriate profitability metrics for JPM are net interest margin, operating margins, profit margins, and return on assets/equity.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00206-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JPM's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Since JPM is a financial institution, gross margin is not a relevant metric.
+
+Candidate answer: Gross margin is not a relevant or meaningful metric for JPMorgan Chase (JPM). Gross margin = (Revenue - Cost of Goods Sold) / Revenue, and it presupposes a business that manufactures or resells goods/services with an identifiable direct cost of production. A bank/financial holding company like JPM does not report cost of goods sold or gross profit in its income statement; JPM's income statement is structured around net interest income (interest income less interest expense) plus noninterest revenue (investment banking fees, trading/principal transactions, asset management fees, card income, etc.), against a provision for credit losses and noninterest expense (compensation, occupancy, technology, legal). There is no COGS line, so no gross margin can be computed, and any figure derived by treating interest expense as "cost of revenue" would be an artifact of definition rather than an economically meaningful margin (and would swing widely with the interest-rate cycle rather than with operating efficiency). The appropriate profitability and consistency metrics for JPM are instead: net interest margin (NIM), net income margin / pretax margin on managed revenue, the overhead (efficiency) ratio of noninterest expense to revenue, return on equity (ROE), return on tangible common equity (ROTCE), and return on assets (ROA). So the premise of the question (whether gross margins vary by more than ~2% per year) cannot be assessed for JPM.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00206-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JPM's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Since JPM is a financial institution, gross margin is not a relevant metric.
+
+Candidate answer: Gross margin is not a relevant or applicable metric for JPMorgan Chase (JPM). As a bank holding company, JPM does not sell goods or services with an associated cost of goods sold, so its income statement has no gross profit/gross margin line. Instead, bank profitability is analyzed through net interest income (interest income less interest expense), noninterest income, noninterest expense, net interest margin (NIM), efficiency ratio, and return on equity/assets. Therefore, the question of whether JPM's "gross margins" fluctuate by more than roughly 2% per year does not apply.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00206-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JPM's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Since JPM is a financial institution, gross margin is not a relevant metric.
+
+Candidate answer: Gross margin is not a relevant metric for JPMorgan Chase, so the consistency question cannot be assessed on that basis. Per the document, JPMorgan Chase & Co. is a financial holding company and a financial services firm (leading in investment banking, consumer and small business financial services, commercial banking, financial transaction processing, and asset management), with $3.7 trillion in assets and $292.3 billion in stockholders' equity as of December 31, 2022. Banks do not sell goods with a cost of goods sold, so there is no "revenue minus COGS" gross profit line and therefore no gross margin. Bank profitability is instead measured with metrics such as net interest income/net interest margin, noninterest revenue, the overhead (efficiency) ratio, return on equity, return on tangible common equity, and return on assets. In addition, this excerpt (Item 1. Business — Overview, Business segments, Competition) contains no income statement or multi-year financial data, so no year-over-year margin trend of any kind could be computed from it.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00206-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Are JPM's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.
+
+Gold answer: Since JPM is a financial institution, gross margin is not a relevant metric.
+
+Candidate answer: Gross margin is not a relevant metric for JPMorgan Chase. The document describes JPMorgan Chase as a financial holding company/bank whose business consists of investment banking, consumer/commercial banking, financial transaction processing, and asset management—not a company that sells manufactured goods with a cost of goods sold. Financial institutions do not report a "gross margin" figure; instead, performance is typically assessed using metrics like net interest margin, net revenue, and return on equity. Additionally, the document provides no gross margin figures at all, so consistency could not be assessed even if the metric applied.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00222-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: Yes. The quick ratio is 1.57, calculated as (cash and cash equivalents+Short term investments+Accounts receivable, net+receivables from related parties)/ (current liabilities).
+
+Candidate answer: Yes, AMD had a reasonably healthy liquidity profile based on its quick ratio for FY22, as the company maintained strong cash positions and liquid assets relative to current liabilities, consistent with its financial performance during that period.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00222-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: Yes. The quick ratio is 1.57, calculated as (cash and cash equivalents+Short term investments+Accounts receivable, net+receivables from related parties)/ (current liabilities).
+
+Candidate answer: Yes. AMD's FY2022 quick ratio was roughly 1.5–1.6x, which indicates a reasonably healthy liquidity profile. Using the December 31, 2022 balance sheet: quick assets of about $9.98 billion (cash and cash equivalents ~$4.84B + short-term investments ~$1.02B + accounts receivable, net ~$4.13B, including a small related-party receivable) divided by total current liabilities of about $6.37 billion gives approximately 1.57x. Excluding inventory (~$3.77B), AMD still covered its current obligations about 1.5 times over with highly liquid assets, and it also carried a low debt load (~$2.5B of long-term debt) against ~$5.9B of cash and short-term investments. The quick ratio is a relevant liquidity measure here because AMD is an inventory-carrying semiconductor company whose inventory is not immediately convertible to cash.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00222-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: Yes. The quick ratio is 1.57, calculated as (cash and cash equivalents+Short term investments+Accounts receivable, net+receivables from related parties)/ (current liabilities).
+
+Candidate answer: Yes. For FY2022, AMD's quick ratio (cash & equivalents + short-term investments + accounts receivable, divided by total current liabilities) was approximately 1.7–1.8x (roughly (~$4.8B cash + ~$2.3B short-term investments + ~$4.1B receivables) / ~$6.4B current liabilities ≈ 1.77x). A quick ratio well above 1.0 indicates AMD could cover its current liabilities using only its most liquid assets, without relying on inventory or other less-liquid current assets, so its liquidity profile was reasonably healthy in FY22.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00222-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.
+
+Gold answer: Yes. The quick ratio is 1.57, calculated as (cash and cash equivalents+Short term investments+Accounts receivable, net+receivables from related parties)/ (current liabilities).
+
+Candidate answer: Yes, AMD has a reasonably healthy liquidity profile based on its quick ratio for FY22. The quick ratio is approximately 1.57, which is well above the 1.0 threshold and indicates strong liquidity. This means AMD has $1.57 in liquid assets for every $1.00 in current liabilities.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

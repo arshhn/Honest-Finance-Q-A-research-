@@ -1,0 +1,179 @@
+=== ITEM id=fb-01484-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How did JnJ's US sales growth compare to international sales growth in FY2022?
+
+Gold answer: US sales increased 3.0% vs international sales decline of 0.6%.
+
+Candidate answer: In FY2022, US sales grew 3.0%, while International sales grew 9.1% on an operational basis (excluding currency effects), meaning International growth outpaced US growth by 6.1 percentage points. On a reported basis, however, US grew 3.0% while International declined (0.6)% due to negative currency translation impacts of 9.7%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01484-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How did JnJ's US sales growth compare to international sales growth in FY2022?
+
+Gold answer: US sales increased 3.0% vs international sales decline of 0.6%.
+
+Candidate answer: In FY2022, U.S. sales grew faster than international sales on a reported basis, but slower on an operational (constant-currency) basis. U.S. sales were $48,580 million vs. $47,156 million in 2021, up 3.0% reported (also +3.0% operational and +3.0% adjusted operational, with no currency impact). International sales were $46,363 million vs. $46,619 million, down 0.6% reported, but up 9.1% operationally (+9.3% adjusted operational), as a (9.7)% currency headwind more than offset underlying growth. So the reported gap was about 3.6 percentage points in favor of the U.S., while operationally international outgrew the U.S. by roughly 6.1 percentage points. Worldwide sales were $94,943 million, +1.3% reported and +6.1% operational.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01484-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: How did JnJ's US sales growth compare to international sales growth in FY2022?
+
+Gold answer: US sales increased 3.0% vs international sales decline of 0.6%.
+
+Candidate answer: In FY2022, U.S. sales grew 3.0% (reported) year-over-year, while International sales declined 0.6% (reported). So U.S. sales growth outpaced International, which actually contracted, a gap of about 3.6 percentage points.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01487-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?
+
+Gold answer: Yes, net earnings as a percent of sales increased from 20% in Q2 of FY2022 to 20.1% in Q2 of FY2023.
+
+Candidate answer: No
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01487-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?
+
+Gold answer: Yes, net earnings as a percent of sales increased from 20% in Q2 of FY2022 to 20.1% in Q2 of FY2023.
+
+Candidate answer: Yes, marginally. J&J's net earnings margin was roughly 20.1% in Q2 FY2023 (about $5.1 billion of net earnings on about $25.5 billion of sales) versus roughly 20.0% in Q2 FY2022 (about $4.8 billion on about $24.0 billion), an increase of roughly 0.1 percentage point — essentially flat.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01487-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?
+
+Gold answer: Yes, net earnings as a percent of sales increased from 20% in Q2 of FY2022 to 20.1% in Q2 of FY2023.
+
+Candidate answer: Yes
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01487-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?
+
+Gold answer: Yes, net earnings as a percent of sales increased from 20% in Q2 of FY2022 to 20.1% in Q2 of FY2023.
+
+Candidate answer: Yes, net earnings as a percent of sales increased from 20.0% in Q2 FY2022 to 20.1% in Q2 FY2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01487-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?
+
+Gold answer: Yes, net earnings as a percent of sales increased from 20% in Q2 of FY2022 to 20.1% in Q2 of FY2023.
+
+Candidate answer: Yes. Net earnings as a percent of sales rose slightly, from 20.0% in Q2 FY2022 to 20.1% in Q2 FY2023 — an increase of about 0.1 percentage point (net earnings of $5,144 million on $25,530 million of sales vs. $4,814 million on $24,020 million).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01487-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?
+
+Gold answer: Yes, net earnings as a percent of sales increased from 20% in Q2 of FY2022 to 20.1% in Q2 of FY2023.
+
+Candidate answer: Yes, it increased from 20.0% of sales in Q2 FY2022 to 20.1% of sales in Q2 FY2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01488-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which business segment of JnJ will be treated as a discontinued operation from August 30, 2023 onward?
+
+Gold answer: The Consumer Health business segment will be treated as a discontinued operation from August 30, 2023 onward.
+
+Candidate answer: Consumer Health
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01488-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which business segment of JnJ will be treated as a discontinued operation from August 30, 2023 onward?
+
+Gold answer: The Consumer Health business segment will be treated as a discontinued operation from August 30, 2023 onward.
+
+Candidate answer: The Consumer Health segment — i.e., the Kenvue business that Johnson & Johnson separated (via the split-off/exchange offer completed in August 2023). From that date forward, Consumer Health results are reported as discontinued operations in J&J's financial statements, leaving Innovative Medicine (Pharmaceutical) and MedTech as J&J's continuing-operations segments.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01488-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which business segment of JnJ will be treated as a discontinued operation from August 30, 2023 onward?
+
+Gold answer: The Consumer Health business segment will be treated as a discontinued operation from August 30, 2023 onward.
+
+Candidate answer: Consumer Health segment (the business separated into Kenvue Inc.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

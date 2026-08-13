@@ -1,0 +1,179 @@
+=== ITEM id=fb-01930-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For AMCOR, what was the underlying change in Sales between FY 2022 and FY 2023 after stripping out the effects of currency movements, passthrough costs, and one-off items?
+
+Gold answer: The Real Growth was flat in FY 2023 vs FY 2022.
+
+Candidate answer: Essentially flat — total comparable constant currency sales growth was 0% for the twelve months ended June 30, 2023 versus fiscal 2022 (Flexibles +1%, Rigid Packaging -3%).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01935-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What main topic did AMCOR address in its 8-K filing submitted on July 1, 2022?
+
+Gold answer: Amcor Finance (USA), Inc. and Amcor Flexibles North America, Inc., entered into supplemental indentures relating to Guaranteed Senior Notes due 2026 and 2028. This involved the substitution of the Substitute Issuer (Amcor Flexibles North America) for the Former Issuer (Amcor Finance) and the assumption of covenants under the indentures. (In essence a novation agreement)
+
+Candidate answer: Substitution of issuers on senior notes, specifically the substitution of Amcor Flexibles North America, Inc. (Substitute Issuer) for Amcor Finance (USA), Inc. (Former Issuer) under existing debt indentures.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01935-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What main topic did AMCOR address in its 8-K filing submitted on July 1, 2022?
+
+Gold answer: Amcor Finance (USA), Inc. and Amcor Flexibles North America, Inc., entered into supplemental indentures relating to Guaranteed Senior Notes due 2026 and 2028. This involved the substitution of the Substitute Issuer (Amcor Flexibles North America) for the Former Issuer (Amcor Finance) and the assumption of covenants under the indentures. (In essence a novation agreement)
+
+Candidate answer: Under Item 8.01 (Other Events), Amcor reported that on June 30, 2022 its subsidiaries Amcor Finance (USA), Inc. (Former Issuer) and Amcor Flexibles North America, Inc. (Substitute Issuer) entered into a Second Supplemental Indenture (to the April 28, 2016 Indenture) and a First Supplemental Indenture (to the June 13, 2019 Indenture) with trustee Deutsche Bank Trust Company Americas, substituting Amcor Flexibles North America as issuer of, and having it assume the Former Issuer's covenants for, the 3.625% Guaranteed Senior Notes due 2026 and the 4.500% Guaranteed Senior Notes due 2028. Item 9.01 lists the related indenture exhibits (4.1-4.7) and the cover page inline XBRL file (104).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01935-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What main topic did AMCOR address in its 8-K filing submitted on July 1, 2022?
+
+Gold answer: Amcor Finance (USA), Inc. and Amcor Flexibles North America, Inc., entered into supplemental indentures relating to Guaranteed Senior Notes due 2026 and 2028. This involved the substitution of the Substitute Issuer (Amcor Flexibles North America) for the Former Issuer (Amcor Finance) and the assumption of covenants under the indentures. (In essence a novation agreement)
+
+Candidate answer: The 8-K addressed the substitution of the debt issuer for Amcor's Guaranteed Senior Notes due 2026 and 2028: Amcor Flexibles North America, Inc. was substituted for Amcor Finance (USA), Inc. as issuer under the 2016 and 2019 Indentures, via First and Second Supplemental Indentures dated June 30, 2022, with Amcor Flexibles North America assuming the Former Issuer's covenants.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01936-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of the end of the second quarter of fiscal year 2023, what does AMCOR's restructuring liability represent, and why does it exist?
+
+Gold answer: 87% of the total restructuring liability is related Employee liabilities.
+
+Candidate answer: 93 million USD in restructuring liabilities (employee costs 81M, fixed asset costs 2M, other costs 10M) due to Russia-Ukraine conflict restructuring and Bemis integration completion
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01936-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of the end of the second quarter of fiscal year 2023, what does AMCOR's restructuring liability represent, and why does it exist?
+
+Gold answer: 87% of the total restructuring liability is related Employee liabilities.
+
+Candidate answer: As of December 31, 2022 (end of Q2 FY2023), Amcor's restructuring liability was $93 million, made up of $81 million of employee costs, $2 million of fixed asset related costs, and $10 million of other costs. It represents restructuring and related charges that have been accrued in earnings but not yet paid in cash, recorded on the balance sheet in other current liabilities and other non-current liabilities. It exists because of the company's restructuring programs — primarily activities related to the Russia-Ukraine conflict, plus the remaining 2019 plan from the integration of acquired Bemis operations (substantially completed at the end of fiscal 2022) — mainly in the Flexibles reportable segment. The balance fell from $118 million at June 30, 2022 through $25 million of cash paid and $2 million of reversals of unused amounts, offset by $2 million of net charges to earnings, and the majority is expected to be paid within the next twelve months.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01936-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of the end of the second quarter of fiscal year 2023, what does AMCOR's restructuring liability represent, and why does it exist?
+
+Gold answer: 87% of the total restructuring liability is related Employee liabilities.
+
+Candidate answer: As of December 31, 2022, Amcor's restructuring liability totaled $93 million ($81 million employee costs, $2 million fixed asset related costs, and $10 million other costs). It represents accrued but unpaid restructuring obligations, primarily related to restructuring activities tied to the Russia-Ukraine conflict (for the current period) and, in the prior year, the integration of acquired Bemis operations under the Company's 2019 plan; the majority is expected to be paid within the next twelve months.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01964-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In American Express's 2022 Balance Sheet, which liability category had the highest value?
+
+Gold answer: Customer deposits
+
+Candidate answer: Customer deposits at $110,239 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01964-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In American Express's 2022 Balance Sheet, which liability category had the highest value?
+
+Gold answer: Customer deposits
+
+Candidate answer: Customer deposits, at $110,239 million (about $110.2 billion) as of December 31, 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01964-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In American Express's 2022 Balance Sheet, which liability category had the highest value?
+
+Gold answer: Customer deposits
+
+Candidate answer: Customer deposits, $110,239 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01981-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2022, did American Express succeed in keeping its existing card members from leaving?
+
+Gold answer: Yes
+
+Candidate answer: Yes. American Express succeeded in keeping its existing card members from leaving, as card member retention remained high in 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01981-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: In 2022, did American Express succeed in keeping its existing card members from leaving?
+
+Gold answer: Yes
+
+Candidate answer: Yes. The filing states that in 2022 new card acquisitions reached record levels and Card Member retention remained high, which it attributes to investments in its premium value propositions; net card fees rose 17% year-over-year, and the company also cites deeper relationships with customers and Card Member loans up 22% with the majority of growth coming from existing Card Members.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

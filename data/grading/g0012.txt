@@ -1,0 +1,179 @@
+=== ITEM id=fb-00651-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2023, is JnJ's adjusted EPS growth projected to speed up?
+
+Gold answer: No, rate of growth in adjusted EPS is expected to decelerate slightly from 3.6% in FY2022 to 3.5% in FY2023.
+
+Candidate answer: No — it is guided to be essentially flat to very slightly slower. The company guides 2023 adjusted operational EPS of $10.50, reflecting growth of 3.5%, versus 2022 adjusted EPS growth of 3.6%, so adjusted EPS growth is not projected to accelerate.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00669-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, what factors caused the change in JnJ's gross margin? If gross margin isn't a meaningful metric for this type of company, please indicate that and explain the reasoning.
+
+Gold answer: For FY22, JnJ had changes in gross margin due to: One-time COVID-19 vaccine manufacturing exit related costs, Currency impacts in the Pharmaceutical segment, Commodity inflation in the MedTech and Consumer Health segments, partially offset by Supply chain benefits in the Consumer Health segment.
+
+Candidate answer: ANSWER: Cost of products sold increased as a percent to sales driven by: one-time COVID-19 vaccine manufacturing exit related costs, currency impacts in the Pharmaceutical segment, commodity inflation in the MedTech and Consumer Health segments, partially offset by supply chain benefits in the Consumer Health segment.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00669-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, what factors caused the change in JnJ's gross margin? If gross margin isn't a meaningful metric for this type of company, please indicate that and explain the reasoning.
+
+Gold answer: For FY22, JnJ had changes in gross margin due to: One-time COVID-19 vaccine manufacturing exit related costs, Currency impacts in the Pharmaceutical segment, Commodity inflation in the MedTech and Consumer Health segments, partially offset by Supply chain benefits in the Consumer Health segment.
+
+Candidate answer: Gross margin is a meaningful metric for J&J (it sells products and reports cost of products sold). In FY2022 gross margin declined, because cost of products sold rose as a percent to sales. The document attributes that increase to: (1) one-time COVID-19 vaccine manufacturing exit related costs, (2) currency impacts in the Pharmaceutical segment, and (3) commodity inflation in the MedTech and Consumer Health segments — partially offset by supply chain benefits in the Consumer Health segment. (Relatedly, intangible asset amortization included in cost of products sold declined from $4.7 billion in 2021 to $4.3 billion in 2022.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00669-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, what factors caused the change in JnJ's gross margin? If gross margin isn't a meaningful metric for this type of company, please indicate that and explain the reasoning.
+
+Gold answer: For FY22, JnJ had changes in gross margin due to: One-time COVID-19 vaccine manufacturing exit related costs, Currency impacts in the Pharmaceutical segment, Commodity inflation in the MedTech and Consumer Health segments, partially offset by Supply chain benefits in the Consumer Health segment.
+
+Candidate answer: Gross margin (i.e., cost of products sold as a % of sales) worsened in FY2022, driven by: (1) one-time COVID-19 vaccine manufacturing exit related costs, (2) unfavorable currency impacts in the Pharmaceutical segment, and (3) commodity inflation in the MedTech and Consumer Health segments — partially offset by supply chain benefits in the Consumer Health segment. (Note: intangible amortization within COGS actually declined, from $4.7B in 2021 to $4.3B in 2022, which would have been a partial offset as well.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00678-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, has Boeing's gross margin been trending upward? If gross margin isn't a meaningful metric for this type of company, note that and explain the reasoning.
+
+Gold answer: Yes. Boeing has an improving gross margin profile as of FY2022. Gross profit improved from $3,017 million in FY2021 to $3,502 million in FY2022. Gross margin % improved from 4.8% in FY2021 to 5.3% in FY2022.
+
+Candidate answer: Yes. Boeing's gross margin has been trending upward from -9.7% in 2020 to 4.9% in 2021 to 5.3% in 2022.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00678-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, has Boeing's gross margin been trending upward? If gross margin isn't a meaningful metric for this type of company, note that and explain the reasoning.
+
+Gold answer: Yes. Boeing has an improving gross margin profile as of FY2022. Gross profit improved from $3,017 million in FY2021 to $3,502 million in FY2022. Gross margin % improved from 4.8% in FY2021 to 5.3% in FY2022.
+
+Candidate answer: Yes. Gross margin (total revenues less total costs and expenses) has trended upward: FY2020 -9.8% (-$5,685M/$58,158M), FY2021 4.8% ($3,017M/$62,286M), FY2022 5.3% ($3,502M/$66,608M). Gross margin is a reasonably meaningful metric here since Boeing reports cost of products and services, though it is distorted by large program charges and includes Boeing Capital interest expense.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00678-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For fiscal year 2022, has Boeing's gross margin been trending upward? If gross margin isn't a meaningful metric for this type of company, note that and explain the reasoning.
+
+Gold answer: Yes. Boeing has an improving gross margin profile as of FY2022. Gross profit improved from $3,017 million in FY2021 to $3,502 million in FY2022. Gross margin % improved from 4.8% in FY2021 to 5.3% in FY2022.
+
+Candidate answer: The document does not report an explicit 'gross profit' line for Boeing, but computing revenue less cost of products and cost of services shows: FY2020 = -$5,642M (-9.7% margin), FY2021 = $3,049M (4.9% margin), FY2022 = $3,530M (5.3% margin). By this measure, Boeing's margin has been trending upward from 2020 through 2022. Note that a traditional 'gross margin' metric is of limited meaningfulness for Boeing given its long-term, program-accounting-based cost structure combining products/services and Boeing Capital interest expense.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00684-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2023, has AMCOR's gross margin been trending upward? If gross margin isn't a meaningful metric for this type of company, note that and give the reasoning.
+
+Gold answer: No. For AMCOR there has been a slight decline in gross margins by 0.8%.
+
+Candidate answer: No. AMCOR's gross margin has been declining from 21.25% in FY2021 to 19.39% in FY2022 to 18.56% in FY2023.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00684-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2023, has AMCOR's gross margin been trending upward? If gross margin isn't a meaningful metric for this type of company, note that and give the reasoning.
+
+Gold answer: No. For AMCOR there has been a slight decline in gross margins by 0.8%.
+
+Candidate answer: No, it has been trending downward: gross margin was 21.2% in FY2021 ($2,732M/$12,861M), 19.4% in FY2022 ($2,820M/$14,544M), and 18.5% in FY2023 ($2,725M/$14,694M). Gross margin is a meaningful metric for Amcor, a packaging manufacturer that reports net sales and cost of sales.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00684-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of fiscal year 2023, has AMCOR's gross margin been trending upward? If gross margin isn't a meaningful metric for this type of company, note that and give the reasoning.
+
+Gold answer: No. For AMCOR there has been a slight decline in gross margins by 0.8%.
+
+Candidate answer: No — gross margin is meaningful for Amcor (a packaging manufacturer) and it has been trending downward: FY2021 gross margin was 21.2% (2,732/12,861), FY2022 was 19.4% (2,820/14,544), and FY2023 was 18.5% (2,725/14,694).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00685-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Best Buy maintained relatively stable gross margins over time, staying within about a 2% annual swing? If gross margin isn't a meaningful metric for this type of company, please note that and explain the reasoning.
+
+Gold answer: Yes, the margins have been consistent, there has been a minor decline of 1.1% in gross margins between FY2022 and FY2023.
+
+Candidate answer: Yes. Best Buy has maintained relatively stable gross margins, ranging from 21.41% to 22.49% across the three years, representing annual swings well within 2%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00685-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Has Best Buy maintained relatively stable gross margins over time, staying within about a 2% annual swing? If gross margin isn't a meaningful metric for this type of company, please note that and explain the reasoning.
+
+Gold answer: Yes, the margins have been consistent, there has been a minor decline of 1.1% in gross margins between FY2022 and FY2023.
+
+Candidate answer: Yes. Best Buy's gross margin has been stable, moving within roughly a 1 percentage-point band: FY2023 21.4% ($9,912M/$46,298M), FY2022 22.5% ($11,640M/$51,761M), FY2021 22.4% ($10,573M/$47,262M). The largest year-over-year swing is about 1.1 percentage points, well inside a 2% annual swing. Gross margin is a meaningful metric for Best Buy, a product retailer that reports cost of sales.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

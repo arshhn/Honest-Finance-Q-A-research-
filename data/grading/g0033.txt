@@ -1,0 +1,179 @@
+=== ITEM id=fb-02416-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are three main companies acquired by Pfizer mentioned in this 10K report?
+
+Gold answer: Trillium, Array, and Therachon
+
+Candidate answer: Trillium, Array, and Therachon
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02416-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are three main companies acquired by Pfizer mentioned in this 10K report?
+
+Gold answer: Trillium, Array, and Therachon
+
+Candidate answer: Trillium, Array, and Therachon. Trillium (acquired November 17, 2021) for $18.50 per share in cash, total consideration $2.0 billion net of cash acquired; Array (acquired July 30, 2019) for $48 per share in cash, total fair value of consideration transferred $11.2 billion ($10.9 billion net of cash acquired); Therachon (acquired July 1, 2019) for $340 million upfront plus potential milestone payments of up to $470 million, total consideration transferred $322 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02416-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: What are three main companies acquired by Pfizer mentioned in this 10K report?
+
+Gold answer: Trillium, Array, and Therachon
+
+Candidate answer: Trillium, Array, and Therachon
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02416-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: According to this 10K filing, which three companies does it name as major acquisitions made by Pfizer?
+
+Gold answer: Trillium, Array, and Therachon
+
+Candidate answer: Trillium, Array, and Therachon
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02416-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: According to this 10K filing, which three companies does it name as major acquisitions made by Pfizer?
+
+Gold answer: Trillium, Array, and Therachon
+
+Candidate answer: Trillium, Array, and Therachon. Trillium was acquired November 17, 2021 for $18.50 per share in cash, total consideration $2.0 billion net of cash acquired; Array was acquired July 30, 2019 for $48 per share in cash, total consideration transferred of $11.2 billion ($10.9 billion net of cash acquired); Therachon was acquired July 1, 2019 for $340 million upfront plus up to $470 million in potential milestone payments, with total consideration transferred of $322 million.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02416-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: According to this 10K filing, which three companies does it name as major acquisitions made by Pfizer?
+
+Gold answer: Trillium, Array, and Therachon
+
+Candidate answer: Trillium, Array, and Therachon
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02419-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of Q2'2023, is Pfizer spinning off any large business segments?
+
+Gold answer: Yes, it's spinning off Upjohn.
+
+Candidate answer: No. As of Q2 2023 Pfizer was not spinning off any large business segments; its major separations were already completed earlier (Upjohn spun off and combined with Mylan to form Viatris in November 2020, and the Consumer Healthcare JV interest in Haleon exited/monetized). In 2023 Pfizer was instead focused on acquisitions, notably the pending ~$43 billion Seagen deal.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02419-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of Q2'2023, is Pfizer spinning off any large business segments?
+
+Gold answer: Yes, it's spinning off Upjohn.
+
+Candidate answer: No, as of Q2 2023 Pfizer was not spinning off any large business segments (its major divestiture, the Upjohn spinoff that formed Viatris, had already been completed back in 2020).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02419-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of Q2'2023, is Pfizer spinning off any large business segments?
+
+Gold answer: Yes, it's spinning off Upjohn.
+
+Candidate answer: No. Pfizer is not spinning off any large business segments as of Q2 2023. The Upjohn separation was completed in the past, and Biopharma is currently the only reportable segment.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02419-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of Q2'2023, is Pfizer spinning off any large business segments?
+
+Gold answer: Yes, it's spinning off Upjohn.
+
+Candidate answer: No large business segment spin-off is described. The filing shows Pfizer still operates two segments (Biopharma and Business Innovation, with Biopharma the only reportable segment) and describes only (i) the ongoing separation of Upjohn, expected to cost approximately $700 million, of which roughly 90% has been incurred since inception through Q2 2023 (i.e., largely complete), and (ii) a proposed divestiture of its early-stage rare disease gene therapy portfolio to Alexion (a subsidiary of AstraZeneca) for total consideration of up to $1 billion plus tiered royalties, expected to close in Q3 2023 — an asset/portfolio sale, not a segment spin-off. Pfizer is instead expanding via the proposed acquisition of Seagen and reorganizing R&D into an Oncology R&D platform and a Pfizer R&D platform.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02419-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of Q2'2023, is Pfizer spinning off any large business segments?
+
+Gold answer: Yes, it's spinning off Upjohn.
+
+Candidate answer: No. The document does not indicate Pfizer is spinning off any large business segment as of Q2 2023; it operates through one reportable segment (Biopharma). The only divestiture mentioned is a proposed sale of its early-stage rare disease gene therapy portfolio (assets, not a segment) to Alexion, and the Upjohn separation costs referenced are for a separation already largely completed (about 90% of costs incurred by Q2 2023).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-02419-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the second quarter of fiscal year 2023, has Pfizer announced plans to divest or spin off any of its major business segments?
+
+Gold answer: Yes, it's spinning off Upjohn.
+
+Candidate answer: No. The document does not indicate Pfizer announced plans for major business segment divestitures or spin-offs specifically during Q2 2023. References to Upjohn separation appear to be from prior periods.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

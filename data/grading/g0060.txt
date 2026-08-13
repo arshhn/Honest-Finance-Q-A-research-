@@ -1,0 +1,179 @@
+=== ITEM id=fb-01858-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does 3M maintain a stable trend of dividend distribution?
+
+Gold answer: Yes, not only they distribute the dividends on a routine basis, 3M has also been increasing the per share dividend for consecutive 65 years
+
+Candidate answer: Yes. 3M has a long and stable record of dividend distribution: it has paid cash dividends without interruption since 1916 (over 100 consecutive years) and raised its annual dividend for 64+ consecutive years through 2022, making it a "Dividend King." Annual per-share dividends rose steadily, e.g., roughly $5.44/share in 2018, $5.76 in 2019, $5.88 in 2020, $5.92 in 2021, and $5.96 in 2022, with total cash dividends paid of about $3.3–3.4 billion per year. The one break in the trend came in 2024, when — following the April 2024 spin-off of Solventum — 3M reset its quarterly dividend from $1.51 to $0.70 per share (about $2.80/share annualized), targeting roughly a 40% payout of adjusted free cash flow; it has since resumed modest annual increases (to $0.73/share quarterly in 2025). So the trend is stable and consistently growing, with a one-time downward reset tied to the spin-off rather than to financial distress.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01858-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does 3M maintain a stable trend of dividend distribution?
+
+Gold answer: Yes, not only they distribute the dividends on a routine basis, 3M has also been increasing the per share dividend for consecutive 65 years
+
+Candidate answer: Yes. 3M has maintained a stable and consistently increasing dividend distribution trend, having raised its dividend annually for over 60 consecutive years, making it one of the longest-running "Dividend King" streaks among S&P 500 companies.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01858-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does 3M maintain a stable trend of dividend distribution?
+
+Gold answer: Yes, not only they distribute the dividends on a routine basis, 3M has also been increasing the per share dividend for consecutive 65 years
+
+Candidate answer: Yes, 3M maintains a stable trend of dividend distribution, with 65 consecutive years of dividend increases. In 2023, the company declared Q1 and Q2 dividends of $1.50 per share, representing a 1% increase from the prior year.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01858-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does 3M maintain a stable trend of dividend distribution?
+
+Gold answer: Yes, not only they distribute the dividends on a routine basis, 3M has also been increasing the per share dividend for consecutive 65 years
+
+Candidate answer: Yes. 3M shows a stable, consistently rising dividend trend. In February 2023 the Board declared a first-quarter 2023 dividend of $1.50 per share, a 1 percent increase, marking the 65th consecutive year of dividend increases for 3M, and in May 2023 the Board declared a second-quarter 2023 dividend of the same $1.50 per share.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01858-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Does 3M maintain a stable trend of dividend distribution?
+
+Gold answer: Yes, not only they distribute the dividends on a routine basis, 3M has also been increasing the per share dividend for consecutive 65 years
+
+Candidate answer: Yes. 3M has maintained a stable, increasing dividend trend, marking its 65th consecutive year of dividend increases in 2023 (Q1 2023 dividend of $1.50 per share, up 1%, followed by a Q2 2023 dividend of $1.50 per share).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01865-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?
+
+Gold answer: The consumer segment shrunk by 0.9% organically.
+
+Candidate answer: The Consumer segment. Excluding M&A (i.e., on an organic/adjusted-sales basis), 3M's Consumer business posted a decline in 2022 (roughly -2% organic, versus about +1% organic growth for the company overall), making it the segment that dragged down total growth.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01865-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?
+
+Gold answer: The consumer segment shrunk by 0.9% organically.
+
+Candidate answer: The Consumer segment (organic sales declined in 2022, primarily due to lower demand for disposable respirators as COVID-19 demand normalized)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01865-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?
+
+Gold answer: The consumer segment shrunk by 0.9% organically.
+
+Candidate answer: Consumer
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01865-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?
+
+Gold answer: The consumer segment shrunk by 0.9% organically.
+
+Candidate answer: The Consumer segment. Excluding M&A (acquisitions/divestitures) and looking at organic sales change for 2022, Consumer was the only segment with a decline at (0.9)%, versus positive organic growth in Safety and Industrial (+1.0%), Transportation and Electronics (+1.2%), and Health Care (+3.2%), against total company organic growth of +1.2%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01865-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?
+
+Gold answer: The consumer segment shrunk by 0.9% organically.
+
+Candidate answer: Consumer (organic sales change of -0.9% in 2022, the only segment with negative organic growth)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01902-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which Best Buy product category performed the best (by top line) in the domestic (USA) Market during Q2 of FY2024?
+
+Gold answer: The entertainment segment experienced the highest growth of 9% during Q2 FY2024, primarily from gaming division.
+
+Candidate answer: Computing and Mobile Phones was Best Buy's largest Domestic (U.S.) product category by revenue in Q2 FY2024 (quarter ended July 29, 2023), at roughly 45-46% of Domestic revenue — approximately $4.0 billion of the ~$8.9 billion in Domestic segment revenue.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01902-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Which Best Buy product category performed the best (by top line) in the domestic (USA) Market during Q2 of FY2024?
+
+Gold answer: The entertainment segment experienced the highest growth of 9% during Q2 FY2024, primarily from gaming division.
+
+Candidate answer: Computing (Computing and Mobile Phones) category — it had the strongest top-line performance in the Domestic segment in Q2 FY2024, aided by growth in computing/laptops even as most other categories declined.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

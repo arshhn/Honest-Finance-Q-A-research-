@@ -1,0 +1,179 @@
+=== ITEM id=fb-00859-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?
+
+Gold answer: Cross currency swaps. Its notional value was $32,502 million.
+
+Candidate answer: Cross currency swaps, with a notional value of $32,502 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00859-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking at all the derivative instruments Verizon employed to hedge against foreign currency exchange rate or interest rate fluctuations, which single instrument carried the largest notional value in fiscal year 2021?
+
+Gold answer: Cross currency swaps. Its notional value was $32,502 million.
+
+Candidate answer: Cross currency swaps, $32,502 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00859-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking at all the derivative instruments Verizon employed to hedge against foreign currency exchange rate or interest rate fluctuations, which single instrument carried the largest notional value in fiscal year 2021?
+
+Gold answer: Cross currency swaps. Its notional value was $32,502 million.
+
+Candidate answer: Cross currency swaps, with a notional amount of $32,502 million at December 31, 2021
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00859-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: Looking at all the derivative instruments Verizon employed to hedge against foreign currency exchange rate or interest rate fluctuations, which single instrument carried the largest notional value in fiscal year 2021?
+
+Gold answer: Cross currency swaps. Its notional value was $32,502 million.
+
+Candidate answer: Cross currency swaps, with a notional value of $32,502 million
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00882-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?
+
+Gold answer: Total amount Pepsico may borrow under unsecured revolving credit agreements = $8,400,000,000.
+
+Candidate answer: $7.6 billion in total (two unsecured revolving credit agreements of $3.8 billion each — a 364-day facility and a five-year facility)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00882-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?
+
+Gold answer: Total amount Pepsico may borrow under unsecured revolving credit agreements = $8,400,000,000.
+
+Candidate answer: $8,400,000,000
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00882-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?
+
+Gold answer: Total amount Pepsico may borrow under unsecured revolving credit agreements = $8,400,000,000.
+
+Candidate answer: $8,400,000,000 (approximately $8.4 billion) in total — up to $4,200,000,000 under the 2023 364 Day Credit Agreement and up to $4,200,000,000 under the 2023 Five Year Credit Agreement (each expandable to $4,950,000,000 with lender agreement, for a potential combined total of $9,900,000,000).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00882-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?
+
+Gold answer: Total amount Pepsico may borrow under unsecured revolving credit agreements = $8,400,000,000.
+
+Candidate answer: $8,400,000,000 (the $4,200,000,000 364-day agreement plus the $4,200,000,000 five-year agreement)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00882-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of May 26, 2023, what is the maximum aggregate amount Pepsico is permitted to draw under its unsecured revolving credit agreements?
+
+Gold answer: Total amount Pepsico may borrow under unsecured revolving credit agreements = $8,400,000,000.
+
+Candidate answer: $8,400,000,000
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00882-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of May 26, 2023, what is the maximum aggregate amount Pepsico is permitted to draw under its unsecured revolving credit agreements?
+
+Gold answer: Total amount Pepsico may borrow under unsecured revolving credit agreements = $8,400,000,000.
+
+Candidate answer: $8,400,000,000 (approximately $8.4 billion) — $4,200,000,000 under the 2023 364 Day Credit Agreement plus $4,200,000,000 under the 2023 Five Year Credit Agreement. (If commitments were increased with lender agreement, the combined maximum could rise to $9,900,000,000, i.e., $4,950,000,000 per facility.)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00882-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of May 26, 2023, what is the maximum aggregate amount Pepsico is permitted to draw under its unsecured revolving credit agreements?
+
+Gold answer: Total amount Pepsico may borrow under unsecured revolving credit agreements = $8,400,000,000.
+
+Candidate answer: $8,400,000,000 (the $4,200,000,000 364-day agreement plus the $4,200,000,000 five-year agreement)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-00917-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For AMD's fiscal year 2022, what factors contributed to the shift in operating margin? If operating margin isn't a meaningful metric for this type of company, please indicate that and provide your reasoning.
+
+Gold answer: The decrease in AMD's operating income was primarily driven by amortization of intangible assets associated with the Xilinx acquisition
+
+Candidate answer: Operating margin is a meaningful metric for AMD. The shift from 22% in 2021 to 5.5% in 2022 was primarily driven by amortization of intangible assets associated with the Xilinx acquisition.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

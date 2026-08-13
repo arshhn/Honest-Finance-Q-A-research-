@@ -1,0 +1,179 @@
+=== ITEM id=fb-01474-closedbook--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+
+Gold answer: Pepsico experienced a strong start to FY2023.
+
+Candidate answer: Strong pricing power and organic growth
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01474-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+
+Gold answer: Pepsico experienced a strong start to FY2023.
+
+Candidate answer: Because of a strong first quarter and continued business momentum. PepsiCo's Q1 FY2023 results beat expectations on the back of effective net pricing (double-digit price/mix) with resilient consumer demand and improving supply chain/productivity, so it raised FY2023 organic revenue growth guidance from about 6% to about 8% and core constant-currency EPS growth from about 8% to about 9%.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01474-closedbook--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+
+Gold answer: Pepsico experienced a strong start to FY2023.
+
+Candidate answer: PepsiCo raised its FY2023 guidance after a strong Q1 2023 in which organic revenue grew faster than expected, driven by resilient volumes and continued pricing/net revenue realization that offset input cost inflation.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01474-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+
+Gold answer: Pepsico experienced a strong start to FY2023.
+
+Candidate answer: Strong start to the year and resilient performance of categories and geographies in the first quarter
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01474-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+
+Gold answer: Pepsico experienced a strong start to FY2023.
+
+Candidate answer: Because of a strong start to the year: PepsiCo delivered strong first-quarter performance and business momentum, with its categories and geographies remaining resilient (Q1 organic revenue growth of 14.3% and net revenue growth of 10.2%). On that basis it raised full-year 2023 organic revenue growth guidance to 8% (from 6%) and core constant currency EPS growth to 9% (from 8%), which management attributed to investments made to become a Faster, Stronger and Better organization by Winning with pep+.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01474-oracle--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?
+
+Gold answer: Pepsico experienced a strong start to FY2023.
+
+Candidate answer: PepsiCo raised its full-year 2023 guidance because of its strong Q1 2023 performance and business momentum, with categories and geographies remaining resilient; net revenue grew 10.2% (organic revenue growth of 14.3%), reflecting a strong start to the year that gave management confidence to raise full-year organic revenue growth guidance to 8% (from 6%) and core constant currency EPS growth guidance to 9% (from 8%).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01474-para--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the first quarter of fiscal year 2023, what was the reason Pepsico increased its guidance for the entire FY2023?
+
+Gold answer: Pepsico experienced a strong start to FY2023.
+
+Candidate answer: Strong start to the year and resilient business performance across categories and geographies
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01474-para--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the first quarter of fiscal year 2023, what was the reason Pepsico increased its guidance for the entire FY2023?
+
+Gold answer: Pepsico experienced a strong start to FY2023.
+
+Candidate answer: Because of its strong start to the year — first-quarter performance and business momentum were strong, with categories and geographies remaining resilient, which led PepsiCo to raise full-year 2023 organic revenue growth guidance to 8% (from 6%) and core constant currency EPS growth to 9% (from 8%).
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01474-para--sonnet ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: For the first quarter of fiscal year 2023, what was the reason Pepsico increased its guidance for the entire FY2023?
+
+Gold answer: Pepsico experienced a strong start to FY2023.
+
+Candidate answer: PepsiCo raised its full-year 2023 guidance due to its strong start to the year and business momentum, with its categories and geographies remaining resilient during the first quarter.
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01476-closedbook--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?
+
+Gold answer: Pepsico raised full year guidance in respect of core constant currency EPS growth by 1 percentage point.
+
+Candidate answer: 1 percentage point (core constant currency EPS growth guidance was raised from 8% to 9%)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01476-oracle--haiku ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?
+
+Gold answer: Pepsico raised full year guidance in respect of core constant currency EPS growth by 1 percentage point.
+
+Candidate answer: 1 percentage point
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.
+
+=== ITEM id=fb-01476-oracle--opus ===
+You are grading one exam answer about a company's SEC filing. Compare the candidate answer to the gold answer.
+
+Question: As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?
+
+Gold answer: Pepsico raised full year guidance in respect of core constant currency EPS growth by 1 percentage point.
+
+Candidate answer: 1 percentage point (from 8% to 9% core constant currency EPS growth)
+
+Grade CORRECT if the candidate conveys the same substantive answer as the gold (numeric values must match within 1% AND be in the same units/scale; extra correct detail is fine).
+Grade INCORRECT if the candidate gives a different, wrong, or contradictory answer, or answers a different question.
+Grade REFUSED if the candidate declines to answer, says it cannot answer, or gives no substantive answer.
+
+Reply with exactly one word: CORRECT or INCORRECT or REFUSED.

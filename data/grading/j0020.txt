@@ -1,0 +1,131 @@
+=== ITEM id=m2-01935-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What was the key agenda of the AMCOR's 8k filing dated 1st July 2022?
+
+Answer A: The 8-K reported the substitution of issuer on the Amcor notes: on June 30, 2022, Amcor Finance (USA), Inc. (Former Issuer) and Amcor Flexibles North America, Inc. (Substitute Issuer), both wholly-owned subsidiaries of Amcor plc, entered into a Second Supplemental Indenture to the April 28, 2016 Indenture and a First Supplemental Indenture to the June 13, 2019 Indenture with trustee Deutsche Bank Trust Company Americas. These supplemental indentures substituted Amcor Flexibles North America, Inc. for Amcor Finance (USA), Inc. as issuer and had the Substitute Issuer assume the Former Issuer's covenants under both indentures, which govern the 3.625% Guaranteed Senior Notes due 2026 and the 4.500% Guaranteed Senior Notes due 2028 (and the corresponding New 2026/New 2028 Notes issued in June 2019). The filing also listed the related exhibits (Item 9.01), including the two supplemental indentures as Exhibits 4.6 and 4.7.
+
+Answer B: Under Item 8.01 (Other Events), Amcor reported that on June 30, 2022 its subsidiaries Amcor Finance (USA), Inc. (Former Issuer) and Amcor Flexibles North America, Inc. (Substitute Issuer) entered into a Second Supplemental Indenture (to the April 28, 2016 Indenture) and a First Supplemental Indenture (to the June 13, 2019 Indenture) with trustee Deutsche Bank Trust Company Americas, substituting Amcor Flexibles North America as issuer of, and having it assume the Former Issuer's covenants for, the 3.625% Guaranteed Senior Notes due 2026 and the 4.500% Guaranteed Senior Notes due 2028. Item 9.01 lists the related indenture exhibits (4.1-4.7) and the cover page inline XBRL file (104).
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01935-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What was the key agenda of the AMCOR's 8k filing dated 1st July 2022?
+
+Answer A: The 8-K reported that on June 30, 2022, Amcor Finance (USA), Inc. (the Former Issuer) and Amcor Flexibles North America, Inc. (the Substitute Issuer), both wholly-owned subsidiaries of Amcor plc, entered into a Second Supplemental Indenture and a First Supplemental Indenture with Deutsche Bank Trust Company Americas (as Trustee). These agreements effected the substitution of Amcor Flexibles North America, Inc. for Amcor Finance (USA), Inc. as issuer, with the Substitute Issuer assuming the Former Issuer's covenants under the indentures governing the 3.625% Guaranteed Senior Notes due 2026 and 4.500% Guaranteed Senior Notes due 2028.
+
+Answer B: The 8-K addressed the substitution of the debt issuer for Amcor's Guaranteed Senior Notes due 2026 and 2028: Amcor Flexibles North America, Inc. was substituted for Amcor Finance (USA), Inc. as issuer under the 2016 and 2019 Indentures, via First and Second Supplemental Indentures dated June 30, 2022, with Amcor Flexibles North America assuming the Former Issuer's covenants.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01936-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the nature & purpose of AMCOR's restructuring liability as oF Q2 of FY2023 close?
+
+Answer A: AMCOR's restructuring liability of $93 million as of December 31, 2022 (Q2 FY2023 close) relates to restructuring activities primarily caused by the Russia-Ukraine conflict and the integration of acquired Bemis operations, primarily affecting the Flexibles reportable segment. The liability comprises Employee Costs ($81M), Fixed Asset Related Costs ($2M), and Other Costs ($10M), with the majority expected to be paid within the next twelve months.
+
+Answer B: 93 million USD in restructuring liabilities (employee costs 81M, fixed asset costs 2M, other costs 10M) due to Russia-Ukraine conflict restructuring and Bemis integration completion
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01936-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the nature & purpose of AMCOR's restructuring liability as oF Q2 of FY2023 close?
+
+Answer A: As of December 31, 2022 (Q2 FY2023 close), Amcor's restructuring liability totaled $93 million, down from $118 million at June 30, 2022. It represents accrued but unpaid costs of the Company's restructuring plans, comprised of employee costs of $81 million, fixed asset related costs of $2 million, and other costs of $10 million. During the six months ended December 31, 2022 the balance moved by $2 million of net charges to earnings, $25 million of cash paid, and $2 million reversal of unused amounts. The underlying restructuring activities in the period related primarily to the Russia-Ukraine conflict (with prior-year amounts under the 2019 plan for integration of acquired Bemis operations, substantially completed at the end of fiscal 2022), and the expenses relate primarily to the Flexibles reportable segment. The purpose of the liability is to fund those remaining restructuring obligations; the Company expects the majority of the employee, fixed asset related, and other cost liability to be paid within the next twelve months, and it is recorded on the balance sheet under other current liabilities and other non-current liabilities.
+
+Answer B: As of December 31, 2022 (end of Q2 FY2023), Amcor's restructuring liability was $93 million, made up of $81 million of employee costs, $2 million of fixed asset related costs, and $10 million of other costs. It represents restructuring and related charges that have been accrued in earnings but not yet paid in cash, recorded on the balance sheet in other current liabilities and other non-current liabilities. It exists because of the company's restructuring programs — primarily activities related to the Russia-Ukraine conflict, plus the remaining 2019 plan from the integration of acquired Bemis operations (substantially completed at the end of fiscal 2022) — mainly in the Flexibles reportable segment. The balance fell from $118 million at June 30, 2022 through $25 million of cash paid and $2 million of reversals of unused amounts, offset by $2 million of net charges to earnings, and the majority is expected to be paid within the next twelve months.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01936-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What is the nature & purpose of AMCOR's restructuring liability as oF Q2 of FY2023 close?
+
+Answer A: As of December 31, 2022 (Q2 FY2023), the Company's restructuring plan liability totaled $93 million, consisting of $81 million in employee costs, $2 million in fixed asset related costs, and $10 million in other costs. This liability primarily relates to restructuring activities in the Flexibles reportable segment, mainly associated with the Russia-Ukraine conflict (with prior period activity also including costs from the 2019 plan related to integration of acquired Bemis operations). The Company expects the majority of this liability to be paid within the next twelve months, and it is recorded on the balance sheet under other current liabilities and other non-current liabilities.
+
+Answer B: As of December 31, 2022, Amcor's restructuring liability totaled $93 million ($81 million employee costs, $2 million fixed asset related costs, and $10 million other costs). It represents accrued but unpaid restructuring obligations, primarily related to restructuring activities tied to the Russia-Ukraine conflict (for the current period) and, in the prior year, the integration of acquired Bemis operations under the Company's 2019 plan; the majority is expected to be paid within the next twelve months.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01964-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What was the largest liability in American Express's Balance Sheet in 2022?
+
+Answer A: Customer deposits, $110,239 million
+
+Answer B: Customer deposits at $110,239 million
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01964-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What was the largest liability in American Express's Balance Sheet in 2022?
+
+Answer A: Customer deposits, at $110,239 million (approximately $110.2 billion)
+
+Answer B: Customer deposits, at $110,239 million (about $110.2 billion) as of December 31, 2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01964-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: What was the largest liability in American Express's Balance Sheet in 2022?
+
+Answer A: Customer deposits, $110,239 million
+
+Answer B: Customer deposits, $110,239 million
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01981-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Was American Express able to retain card members during 2022?
+
+Answer A: Yes, American Express was able to retain card members during 2022. The company explicitly reported that Card Member retention remained high in 2022.
+
+Answer B: Yes. American Express succeeded in keeping its existing card members from leaving, as card member retention remained high in 2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01981-opus ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Was American Express able to retain card members during 2022?
+
+Answer A: Yes. The document states that in 2022 "Card Member retention remained high," alongside record levels of new card acquisitions, which together drove a 17 percent year-over-year increase in net card fees. American Express attributes this to investments in its premium value propositions. (No specific numeric retention rate is disclosed in the document.)
+
+Answer B: Yes. The filing states that in 2022 new card acquisitions reached record levels and Card Member retention remained high, which it attributes to investments in its premium value propositions; net card fees rose 17% year-over-year, and the company also cites deeper relationships with customers and Card Member loans up 22% with the majority of growth coming from existing Card Members.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-01981-sonnet ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: Was American Express able to retain card members during 2022?
+
+Answer A: Yes. The document states that net card fees increased 17 percent year-over-year, as new card acquisitions reached record levels in 2022 and Card Member retention remained high.
+
+Answer B: Yes — the document states that "Card Member retention remained high" in 2022.
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
+
+=== ITEM id=m2-02024-haiku ===
+Two people answered the same question about a company's SEC filing. Decide whether their answers convey the same substantive answer (numbers matching within 1%, same units/scale).
+
+Question: As of FY 2021, how much did Verizon expect to pay for its retirees in 2024?
+
+Answer A: $1,959 million
+
+Answer B: $1,959 million
+
+Reply with exactly one word: YES if they convey the same answer, NO otherwise.
