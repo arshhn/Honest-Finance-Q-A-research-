@@ -1,0 +1,84 @@
+D:\git\honest-finance-qa\src\analyze.py:75: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  out["same_window"] = out.same_window.fillna(False)
+metrics_summary.csv, conformal.csv, multiseed.csv, fsq_table.csv, figures/ written
+
+== headline ==
+metric             accuracy_all  accuracy_all_cp_hi  accuracy_all_cp_lo  accuracy_answered  coverage_at_10pct_risk_insample  coverage_at_5pct_risk_insample  ece_m1_deciles  m2_coverage_eligible  m2_risk  m2_valid_pairs  m3_coverage_eligible  m3_eligible  m3_risk  matched_cov_risk_m1      n  refusal_rate  scale_error_rate
+model  setting                                                                                                                                                                                                                                                                                                                    
+haiku  closedbook         0.187               0.258               0.128              0.406                              NaN                             NaN             NaN                   NaN      NaN             NaN                   NaN          NaN      NaN                  NaN  150.0         0.540             0.007
+       oracle             0.827               0.884               0.756              0.899                            0.900                           0.780           0.046                 0.839    0.053           112.0                 0.830         53.0    0.114                0.047  150.0         0.080             0.000
+opus   closedbook         0.687               0.760               0.606              0.763                              NaN                             NaN             NaN                   NaN      NaN             NaN                   NaN          NaN      NaN                  NaN  150.0         0.100             0.000
+       oracle             0.913               0.953               0.856              0.919                            0.993                           0.867           0.043                 0.936    0.088           109.0                 0.811         53.0    0.070                0.033  150.0         0.007             0.000
+sonnet closedbook         0.447               0.530               0.366              0.620                              NaN                             NaN             NaN                   NaN      NaN             NaN                   NaN          NaN      NaN                  NaN  150.0         0.280             0.000
+       oracle             0.880               0.927               0.817              0.923                            0.953                           0.807           0.094                 0.821    0.076           112.0                 0.811         53.0    0.070                0.046  150.0         0.047             0.000
+
+== conformal (seed 20260807) ==
+     model method  target                    rule threshold  tune_risk  coverage  n_answered  n_excluded_by_threshold  realized_risk  cp_lo  cp_hi  degenerate
+0    haiku     M1    0.05                  plugin        97      0.000     0.187          14                       57          0.000  0.000  0.232        True
+1    haiku     M1    0.05               certified      None        NaN     0.000           0                        0            NaN    NaN    NaN        True
+2    haiku     M1    0.10                  plugin        62      0.090     0.947          71                        0          0.113  0.050  0.210       False
+3    haiku     M1    0.10               certified      None        NaN     0.000           0                        0            NaN    NaN    NaN        True
+4    haiku     M2    0.05                  plugin      None      0.083     0.000           0                        0            NaN    NaN    NaN        True
+5    haiku     M2    0.05               certified      None      0.083     0.000           0                        0            NaN    NaN    NaN        True
+6    haiku     M2    0.10                  plugin    signal      0.083     0.852          46                        7          0.022  0.001  0.115       False
+7    haiku     M2    0.10               certified      None      0.083     0.000           0                        0            NaN    NaN    NaN        True
+8    haiku     M3    0.05                  plugin      None      0.059     0.000           0                        0            NaN    NaN    NaN        True
+9    haiku     M3    0.05               certified      None      0.059     0.000           0                        0            NaN    NaN    NaN        True
+10   haiku     M3    0.10                  plugin    signal      0.059     0.844          27                        5          0.148  0.042  0.337       False
+11   haiku     M3    0.10               certified      None      0.059     0.000           0                        0            NaN    NaN    NaN        True
+12  sonnet     M1    0.05                  plugin        97      0.000     0.040           3                       71          0.000  0.000  0.708        True
+13  sonnet     M1    0.05               certified      None        NaN     0.000           0                        0            NaN    NaN    NaN        True
+14  sonnet     M1    0.10                  plugin        55      0.087     0.987          74                        0          0.068  0.022  0.151       False
+15  sonnet     M1    0.10               certified      None        NaN     0.000           0                        0            NaN    NaN    NaN        True
+16  sonnet     M2    0.05                  plugin      None      0.093     0.000           0                        0            NaN    NaN    NaN        True
+17  sonnet     M2    0.05               certified      None      0.093     0.000           0                        0            NaN    NaN    NaN        True
+18  sonnet     M2    0.10                  plugin    signal      0.093     0.907          49                        5          0.061  0.013  0.169       False
+19  sonnet     M2    0.10               certified      None      0.093     0.000           0                        0            NaN    NaN    NaN        True
+20  sonnet     M3    0.05                  plugin      None      0.059     0.000           0                        0            NaN    NaN    NaN        True
+21  sonnet     M3    0.05               certified      None      0.059     0.000           0                        0            NaN    NaN    NaN        True
+22  sonnet     M3    0.10                  plugin    signal      0.059     0.812          26                        6          0.077  0.009  0.251       False
+23  sonnet     M3    0.10               certified      None      0.059     0.000           0                        0            NaN    NaN    NaN        True
+24    opus     M1    0.05                  plugin        99      0.000     0.027           2                       73          0.000  0.000  0.842        True
+25    opus     M1    0.05               certified      None        NaN     0.000           0                        0            NaN    NaN    NaN        True
+26    opus     M1    0.10                  plugin        42      0.081     1.000          75                        0          0.080  0.030  0.166       False
+27    opus     M1    0.10               certified      None        NaN     0.000           0                        0            NaN    NaN    NaN        True
+28    opus     M2    0.05                  plugin      None      0.094     0.000           0                        0            NaN    NaN    NaN        True
+29    opus     M2    0.05               certified      None      0.094     0.000           0                        0            NaN    NaN    NaN        True
+30    opus     M2    0.10                  plugin    signal      0.094     0.942          49                        3          0.082  0.023  0.196       False
+31    opus     M2    0.10               certified      None      0.094     0.000           0                        0            NaN    NaN    NaN        True
+32    opus     M3    0.05                  plugin      None      0.062     0.000           0                        0            NaN    NaN    NaN        True
+33    opus     M3    0.05               certified      None      0.062     0.000           0                        0            NaN    NaN    NaN        True
+34    opus     M3    0.10                  plugin    signal      0.062     0.844          27                        5          0.074  0.009  0.243       False
+35    opus     M3    0.10               certified      None      0.062     0.000           0                        0            NaN    NaN    NaN        True
+36   haiku     M1    0.10  plugin_preadjudication        62      0.090     0.947          71                        0          0.113  0.050  0.210       False
+37  sonnet     M1    0.10  plugin_preadjudication        72      0.089     0.867          65                        9          0.046  0.010  0.129       False
+38    opus     M1    0.10  plugin_preadjudication        42      0.081     1.000          75                        0          0.080  0.030  0.166       False
+
+== multiseed sensitivity (200 seeds, plugin) ==
+     model method  target    rule  cov_med  cov_iqr_lo  cov_iqr_hi  risk_med  risk_iqr_lo  risk_iqr_hi  frac_runs_at_or_under_target
+0    haiku     M1    0.05  plugin    0.760       0.650       0.800     0.036        0.022        0.055                         0.645
+1    haiku     M1    0.10  plugin    0.893       0.850       0.920     0.101        0.065        0.118                         0.490
+2    haiku     M2    0.05  plugin    0.791       0.000       0.845     0.067        0.061        0.078                         0.000
+3    haiku     M2    0.10  plugin    0.842       0.815       0.865     0.059        0.043        0.067                         0.985
+4    haiku     M3    0.05  plugin    0.000       0.000       0.000     0.191        0.182        0.200                         0.000
+5    haiku     M3    0.10  plugin    0.000       0.000       0.826     0.150        0.136        0.169                         0.000
+6   sonnet     M1    0.05  plugin    0.813       0.660       0.867     0.062        0.037        0.080                         0.430
+7   sonnet     M1    0.10  plugin    0.947       0.933       0.960     0.075        0.059        0.097                         0.875
+8   sonnet     M2    0.05  plugin    0.000       0.000       0.000     0.111        0.104        0.119                         0.000
+9   sonnet     M2    0.10  plugin    0.815       0.783       0.848     0.083        0.067        0.099                         0.625
+10  sonnet     M3    0.05  plugin    0.000       0.000       0.800     0.103        0.095        0.120                         0.000
+11  sonnet     M3    0.10  plugin    0.808       0.750       0.850     0.087        0.053        0.104                         0.620
+12    opus     M1    0.05  plugin    0.867       0.773       0.920     0.047        0.018        0.077                         0.540
+13    opus     M1    0.10  plugin    0.987       0.960       0.987     0.070        0.064        0.093                         0.860
+14    opus     M2    0.05  plugin    0.000       0.000       0.000     0.136        0.129        0.144                         0.000
+15    opus     M2    0.10  plugin    0.926       0.000       0.946     0.096        0.083        0.118                         0.375
+16    opus     M3    0.05  plugin    0.000       0.000       0.800     0.105        0.095        0.120                         0.000
+17    opus     M3    0.10  plugin    0.808       0.750       0.850     0.087        0.053        0.105                         0.620
+
+== fsq ==
+    model  n_base  n_pert  n_unans  base_accuracy  base_refusal  robustness_all  robustness_cp_lo  compliance_all  fabrication  fabrication_cp_upper95  rob_misspelled  n_misspelled  rob_incomplete  n_incomplete  rob_outofdomain  n_outofdomain  rob_ocr  n_ocr  comp_missingctx  n_missingctx  comp_outofscope  n_outofscope
+0   haiku      40      40       38           0.85          0.05           0.825             0.672             1.0          0.0                   0.076            0.75            12             0.8            10            0.875              8      0.9     10              1.0            20              1.0            18
+1  sonnet      40      40       40           0.90          0.05           0.875             0.732             1.0          0.0                   0.072            0.75            12             0.9            10            0.875              8      1.0     10              1.0            20              1.0            20
+2    opus      40      40       40           0.95          0.00           0.900             0.763             1.0          0.0                   0.072            1.00            12             0.9            10            0.875              8      0.8     10              1.0            20              1.0            20
+
+pooled fabrication k/n + CP95 upper: (0, 118, 0.025068007442686766)
