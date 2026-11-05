@@ -8,7 +8,7 @@ import nbformat as nbf
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 NB = ROOT / "notebooks"
 NB.mkdir(exist_ok=True)
-REPO = "https://github.com/arshhn/honest-finance-qa"
+REPO = "https://github.com/arshhn/Honest-Finance-Q-A-research-"
 
 
 def md(s):

@@ -121,7 +121,7 @@ Single model family; cross-vendor generality untested. Subjects ran inside an ag
 
 ## 7. Reproducibility & disclosure
 
-Design pre-registered in `docs/design.md` (rulebook v1.0→v1.8; every deviation logged before use; v1.8 documents the internal adversarial review — 8 independent reviewer/searcher agents — that produced this revision, frozen at `docs/internal_review_2026-08-13.md`). Raw outputs frozen to `results/raw_answers.csv`; grades to `results/grades.csv` (frozen) and `results/grades_final.csv` (post-adjudication; analysis default); `notebooks/02_analysis.ipynb` recomputes every number and figure with no API key (Colab-compatible). Pipeline built and executed with AI assistance (Claude); the author directs design, approves stages, and audits grades. Code, data, results: github.com/arshhn/honest-finance-qa.
+Design pre-registered in `docs/design.md` (rulebook v1.0→v1.8; every deviation logged before use; v1.8 documents the internal adversarial review — 8 independent reviewer/searcher agents — that produced this revision, frozen at `docs/internal_review_2026-08-13.md`). Raw outputs frozen to `results/raw_answers.csv`; grades to `results/grades.csv` (frozen) and `results/grades_final.csv` (post-adjudication; analysis default); `notebooks/02_analysis.ipynb` recomputes every number and figure with no API key (Colab-compatible). Pipeline built and executed with AI assistance (Claude); the author directs design, approves stages, and audits grades. Code, data, results: github.com/arshhn/Honest-Finance-Q-A-research-.
 
 ## References
 
