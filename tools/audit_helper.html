@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Grade Audit Helper</title>
+<style>
+:root{--bg:#fafaf8;--card:#fff;--ink:#1d1d1b;--mute:#6b6b66;--line:#e2e1dc;--acc:#2f5d8a;--ok:#2e7d4f;--bad:#b23b3b;--ref:#8a6d1f}
+@media (prefers-color-scheme:dark){:root{--bg:#18181a;--card:#222225;--ink:#ececea;--mute:#9a9a95;--line:#36363a;--acc:#7fb0e0;--ok:#6cc290;--bad:#e57d7d;--ref:#d9b85c}}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,sans-serif}
+main{max-width:860px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:20px;margin:0 0 4px}.mute{color:var(--mute);font-size:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin:12px 0}
+.lab{font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--mute);margin-bottom:4px}
+.box{white-space:pre-wrap;word-break:break-word}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+button{font:inherit;padding:8px 14px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}
+button.v.on[data-v=correct]{background:var(--ok);color:#fff;border-color:var(--ok)}
+button.v.on[data-v=incorrect]{background:var(--bad);color:#fff;border-color:var(--bad)}
+button.v.on[data-v=refused]{background:var(--ref);color:#fff;border-color:var(--ref)}
+button.primary{background:var(--acc);color:#fff;border-color:var(--acc)}
+textarea{width:100%;box-sizing:border-box;min-height:60px;font:inherit;padding:8px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink)}
+.dots{display:flex;flex-wrap:wrap;gap:4px;margin-top:8px}.dot{width:22px;height:22px;border-radius:5px;border:1px solid var(--line);font-size:11px;display:grid;place-items:center;cursor:pointer}
+.dot.done{background:var(--acc);color:#fff;border-color:var(--acc)}.dot.cur{outline:2px solid var(--ink)}
+.reveal{border-top:1px dashed var(--line);margin-top:12px;padding-top:10px}
+</style></head><body><main>
+<h1>Grade audit helper</h1>
+<div class="mute">Open <code>results/audit_sheet_human.csv</code>. Judge each answer yourself; the pipeline's grade appears only after you pick. Progress is kept in this browser. Keys: 1 correct · 2 incorrect · 3 refused · ←/→ move.</div>
+<div class="card row" id="load"><input type="file" id="file" accept=".csv"></div>
+<div id="app" hidden>
+ <div class="row"><b id="pos"></b><span class="mute" id="meta"></span></div>
+ <div class="dots" id="dots"></div>
+ <div class="card"><div class="lab">Question</div><div class="box" id="q"></div></div>
+ <div class="card"><div class="lab">Official (gold) answer</div><div class="box" id="g"></div></div>
+ <div class="card"><div class="lab">Model's answer</div><div class="box" id="a"></div></div>
+ <div class="card">
+  <div class="lab">Your verdict</div>
+  <div class="row"><button class="v" data-v="correct">Correct</button><button class="v" data-v="incorrect">Incorrect</button><button class="v" data-v="refused">Refused</button></div>
+  <div class="lab" style="margin-top:12px">Notes (optional)</div><textarea id="n"></textarea>
+  <div class="reveal mute" id="rev" hidden></div>
+ </div>
+ <div class="row"><button id="prev">← Prev</button><button id="next">Next →</button><span style="flex:1"></span><button class="primary" id="dl">Download filled CSV</button></div>
+</div>
+<script>
+let rows=[],hdr=[],i=0,KEY='';
+function parse(t){const out=[];let r=[],f='',q=false;for(let k=0;k<t.length;k++){const c=t[k];if(q){if(c=='"'){if(t[k+1]=='"'){f+='"';k++}else q=false}else f+=c}else if(c=='"')q=true;else if(c==','){r.push(f);f=''}else if(c=='\n'||c=='\r'){if(c=='\r'&&t[k+1]=='\n')k++;r.push(f);f='';if(r.length>1||r[0]!=='')out.push(r);r=[]}else f+=c}if(f!==''||r.length){r.push(f);out.push(r)}return out}
+const esc=v=>/[",\r\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v;
+const col=n=>hdr.indexOf(n);
+function save(){try{localStorage.setItem(KEY,JSON.stringify(rows.map(r=>[r[col('your_verdict')],r[col('your_notes')]])))}catch(e){}}
+function show(){const r=rows[i],v=r[col('your_verdict')];
+ document.getElementById('pos').textContent=`Row ${i+1} of ${rows.length}`;
+ document.getElementById('meta').textContent=`${r[col('model')]} · ${r[col('setting')]}`;
+ q.textContent=r[col('question_used')];g.textContent=r[col('gold_answer')];a.textContent=r[col('answer')];n.value=r[col('your_notes')]||'';
+ document.querySelectorAll('.v').forEach(b=>b.classList.toggle('on',b.dataset.v==v));
+ rev.hidden=!v;rev.textContent=v?`Pipeline grade: ${r[col('grade_primary')]} (${r[col('grade_method')]}) · model confidence ${r[col('confidence')]}`+(v==r[col('grade_primary')]?' — agrees':' — DISAGREES'):'';
+ dots.innerHTML=rows.map((x,k)=>`<div class="dot${x[col('your_verdict')]?' done':''}${k==i?' cur':''}" data-k="${k}">${k+1}</div>`).join('');
+ window.scrollTo(0,0)}
+function setV(v){rows[i][col('your_verdict')]=v;save();show()}
+file.onchange=async e=>{const f=e.target.files[0];if(!f)return;const t=(await f.text()).replace(/^﻿/,'');const p=parse(t);hdr=p[0];rows=p.slice(1);
+ KEY='hfq-audit:'+rows.map(r=>r[0]).join('|');try{const s=JSON.parse(localStorage.getItem(KEY)||'null');if(s&&s.length==rows.length)s.forEach((x,k)=>{if(!rows[k][col('your_verdict')])rows[k][col('your_verdict')]=x[0]||'';if(!rows[k][col('your_notes')])rows[k][col('your_notes')]=x[1]||''})}catch(e){}
+ i=Math.max(0,rows.findIndex(r=>!r[col('your_verdict')]));app.hidden=false;load.hidden=true;show()};
+document.querySelectorAll('.v').forEach(b=>b.onclick=()=>setV(b.dataset.v));
+n.oninput=()=>{rows[i][col('your_notes')]=n.value;save()};
+prev.onclick=()=>{if(i>0){i--;show()}};next.onclick=()=>{if(i<rows.length-1){i++;show()}};
+dots.onclick=e=>{const k=e.target.dataset.k;if(k!=null){i=+k;show()}};
+document.onkeydown=e=>{if(app.hidden||e.target==n)return;if(e.key=='1')setV('correct');if(e.key=='2')setV('incorrect');if(e.key=='3')setV('refused');if(e.key=='ArrowLeft')prev.click();if(e.key=='ArrowRight')next.click()};
+dl.onclick=()=>{const left=rows.filter(r=>!r[col('your_verdict')]).length;if(left&&!confirm(left+' rows still have no verdict. Download anyway?'))return;
+ const csv=[hdr,...rows].map(r=>r.map(x=>esc(x??'')).join(',')).join('\r\n')+'\r\n';const u=URL.createObjectURL(new Blob([csv],{type:'text/csv'}));const l=document.createElement('a');l.href=u;l.download='audit_sheet_human.csv';l.click()};
+</script></main></body></html>
