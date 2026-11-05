@@ -77,3 +77,7 @@ None of these does error-targeted selective answering on filings QA. Unless mark
 - §2: new paragraph "Closest work since mid-2026"; the selective-prediction paragraph now cites CIC, UniCR and Kotte.
 - §4.4(c), §5 and §7 cross-reference these papers, and the status line is updated.
 - 8 references added. No design, data, grade, analysis or reported number changed.
+
+## Correction (same day, after the full recheck)
+
+- The CIC bullet above calls CIC "the paper's certified rule". COIN (arXiv:2506.20178, June 2025; AAAI 2026) already selects the largest threshold whose Clopper–Pearson upper bound on error meets the target, so the paper now credits COIN and CIC together (rulebook v1.8.4).
