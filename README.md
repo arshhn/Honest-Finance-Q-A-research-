@@ -1,6 +1,6 @@
 # When Should a Finance AI Stay Silent? Selective Answering for Financial-Filings QA, Measured Honestly
 
-**Author:** Mohammed Arshan O
+**Author:** Mohammed Arshan O (independent researcher) · arshan.ottakath@gmail.com
 **Status: DRAFT v1.3 — post internal-review revision (rulebook v1.8), November 2026 related-work update and full recheck (v1.8.3–v1.8.4); every number recomputed from frozen CSVs by `notebooks/02_analysis.ipynb`; author's audit complete (29/30 agreement).**
 
 ## Abstract
