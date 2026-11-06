@@ -127,16 +127,24 @@ Design pre-registered in `docs/design.md` (rulebook v1.0→v1.8.4; every deviati
 
 ## References
 
-Angelopoulos, A. et al. (2022). Conformal Risk Control. arXiv:2208.02814.
-Geifman, Y., El-Yaniv, R. (2017). Selective Prediction. NeurIPS.
-Islam, P. et al. (2023). FinanceBench. arXiv:2311.11944.
-Jin, Y. et al. (2026). Perception, Layout, and Validation: Calibrated Confidence for Reliable Straight-Through Processing of Financial Documents. arXiv:2609.20110.
-Kamble, K. et al. (2025). Expect the Unexpected: FailSafe Long Context QA for Finance. arXiv:2502.06329.
-Khanmohammadi, R. et al. (2026). Confidence Estimation for Financial Vision-Language Models in Chart and Document Understanding. arXiv:2608.06532.
-Kotte, V. (2026). When Can Conformal Risk Control Certify LLM Outputs? Bounds, Impossibility, and Adaptation for Structured Generation. arXiv:2606.29054.
-Lin, S. et al. (2022). Teaching Models to Express Their Uncertainty in Words. TMLR.
-Tian, K. et al. (2023). Just Ask for Calibration. EMNLP.
-Wang, X. et al. (2023). Self-Consistency Improves Chain of Thought Reasoning. ICLR.
-COIN (2026). arXiv:2506.20178 (AAAI 2026). A-CRC-QA (2026). arXiv:2608.12008. FinAbstain (2026). arXiv:2607.24875.
-FinTrust (2025). arXiv:2510.15232. FinVerBench (2026). arXiv:2605.29586. FinRAG-12B (2026). arXiv:2605.05482.
-CIC (2026). arXiv:2607.04430. CLAIR-Fin (2026). arXiv:2608.13706. FinSAgent (2026). arXiv:2607.18102. UniCR (2025). arXiv:2509.01455. VeriFin (2026). arXiv:2608.10213.
+- Angelopoulos, A. N. et al. (2022). Conformal Risk Control. arXiv:2208.02814; ICLR 2024.
+- Chi, J. et al. (2026). FinSAgent: Corpus-Aligned Multi-Agent RAG Framework for Evidence-Grounded SEC Filing Question Answering. arXiv:2607.18102.
+- Dong, S., Shinnou, H. (2026). Uncertainty-Aware Abstention in Large Language Models with Provable Alignment Guarantees [CIC]. arXiv:2607.04430.
+- Faria, F. T. J. et al. (2026). CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA. arXiv:2608.13706.
+- Geifman, Y., El-Yaniv, R. (2017). Selective Classification for Deep Neural Networks. NeurIPS 2017. arXiv:1705.08500.
+- Hall, B., Shome, S., Eiers, W. (2026). VeriFin: A Neurosymbolic Framework for Verifying LLM-Generated Financial Claims. arXiv:2608.10213.
+- Hu, T. et al. (2025). FinTrust: A Comprehensive Benchmark of Trustworthiness Evaluation in Finance Domain. arXiv:2510.15232.
+- Islam, P. et al. (2023). FinanceBench: A New Benchmark for Financial Question Answering. arXiv:2311.11944.
+- Jin, Y. et al. (2026). Perception, Layout, and Validation: Calibrated Confidence for Reliable Straight-Through Processing of Financial Documents. arXiv:2609.20110.
+- Kamble, K. et al. (2025). Expect the Unexpected: FailSafe Long Context QA for Finance. arXiv:2502.06329.
+- Katerenchuk, D. et al. (2026). FinRAG-12B: A Production-Validated Recipe for Grounded Question Answering in Banking. arXiv:2605.05482.
+- Khanmohammadi, R. et al. (2026). Confidence Estimation for Financial Vision-Language Models in Chart and Document Understanding. arXiv:2608.06532.
+- Kotte, V. (2026). When Can Conformal Risk Control Certify LLM Outputs? Bounds, Impossibility, and Adaptation for Structured Generation. arXiv:2606.29054.
+- Lin, S., Dong, S. (2026). Asymptotic Risk Calibration for Selective Question Answering [A-CRC-QA]. arXiv:2608.12008.
+- Lin, S., Hilton, J., Evans, O. (2022). Teaching Models to Express Their Uncertainty in Words. TMLR. arXiv:2205.14334.
+- Oehri, M. et al. (2025). Trusted Uncertainty in Large Language Models: A Unified Framework for Confidence Calibration and Risk-Controlled Refusal [UniCR]. arXiv:2509.01455.
+- Panda, S. (2026). FinVerBench: Benchmark Validity and Calibration in Large Language Model Financial Statement Verification. arXiv:2605.29586.
+- Tian, K. et al. (2023). Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback. EMNLP 2023. arXiv:2305.14975.
+- Torres, D., Cheng, W., Huang, H. (2026). FinAbstain: Uncertainty-Calibrated Multimodal RAG for Selective Financial Forecasting. arXiv:2607.24875.
+- Wang, X. et al. (2023). Self-Consistency Improves Chain of Thought Reasoning in Language Models. ICLR 2023. arXiv:2203.11171.
+- Wang, Z. et al. (2026). COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees. AAAI 2026. arXiv:2506.20178.
